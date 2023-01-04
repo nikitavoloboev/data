@@ -177,7 +177,7 @@ title: WebAssembly
 - [aWsm](https://github.com/gwsystems/aWsm) - WebAssembly ahead-of-time compiler and runtime. Focuses on generating fast code, simplicity, and portability.
 - [wasm-run](https://github.com/wasm3/node-wasm-run) - Run arbitrary WASM/WASI files.
 - [Hit the Ground Running: Wasm Snapshots for Fast Start Up (2021)](https://fitzgeraldnick.com/2021/05/10/wasm-summit-2021.html)
-- [wasmCloud](https://github.com/wasmCloud/wasmCloud) - Universal host runtime for actors built with WebAssembly and capability providers. ([Web](https://wasmcloud.com/))
+- [wasmCloud](https://github.com/wasmCloud/wasmCloud) - Universal host runtime for actors built with WebAssembly and capability providers. ([Web](https://wasmcloud.com/)) ([wasmCloud API Interfaces](https://github.com/wasmCloud/interfaces))
 - [WebContainer Core](https://github.com/stackblitz/webcontainer-core)
 - [Rust WebAssembly React Template](https://github.com/Fallenstedt/wasm-react-webpack-template)
 - [Defense in depth: stopping a Wasm compiler bug before it became a problem (2021)](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)

@@ -43,3 +43,4 @@ title: NumPy
 - [npstreams](https://github.com/LaurentRDC/npstreams) - Streaming operations on NumPy arrays.
 - [spector](https://github.com/coady/spector) - Sparse vectors optimized for memory and NumPy integrations.
 - [NumPy 1.24](https://github.com/numpy/numpy/releases/tag/v1.24.0) ([HN](https://news.ycombinator.com/item?id=34046434))
+- [BioNumPy](https://github.com/bionumpy/bionumpy) - Python library, built on top of NumPy, for enabling array programming on biological datasets in Python.

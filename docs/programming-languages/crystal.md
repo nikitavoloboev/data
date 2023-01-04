@@ -23,3 +23,4 @@ title: Crystal
 - [Lucky](https://github.com/luckyframework/lucky) - Full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
 - [Ameba](https://github.com/crystal-ameba/ameba) - Static code analysis tool for Crystal.
 - [Crest](https://github.com/mamantoha/crest) - HTTP and REST client for Crystal.
+- [Incremental compilation for Crystal (2023)](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)

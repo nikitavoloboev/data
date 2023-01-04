@@ -6,6 +6,10 @@ My [preferred management style](../management/management.md) is to be fully asyn
 
 Combined with real time meet ups in some novel places.
 
+That said, I did have some amazing experience working in office. Just don't think it should be mandated. I once worked with [CTO](https://github.com/jackdoe) that when I had a problem, I could ask him for help and he would come and draw on the table itself with marker to explain some things. The marker pen is easily wiped off from the table later but that experience of closeness and that kind of experience by your side is magic to have.
+
+It's also important to note I think that whilst remote work is great for getting known things done. Real time collaboration and interactions is how new ideas get created.
+
 ## Notes
 
 - [Remote work tip: Leave a Zoom open that anyone on the team can drop by during some predictable hours. No specific agenda.](https://twitter.com/dksf/status/1308799667153432576)

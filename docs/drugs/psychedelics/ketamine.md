@@ -30,3 +30,4 @@
 - [Ketamine therapy is going mainstream](https://www.newyorker.com/culture/annals-of-inquiry/ketamine-therapy-is-going-mainstream-are-we-ready) ([HN](https://news.ycombinator.com/item?id=29725502))
 - [Ketamine for the acute treatment of severe suicidal ideation (2022)](https://www.bmj.com/content/376/bmj-2021-067194) ([HN](https://news.ycombinator.com/item?id=30675879))
 - [Advice for first trip on Ketamine](https://www.reddit.com/r/askdrugs/comments/toz9lv/can_u_guys_give_some_advice_about_ketamine_it_is/)
+- [Ketamine disrupts late sensory information transfer in corticothalamic network (2022)](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15845) ([HN](https://news.ycombinator.com/item?id=34234824))

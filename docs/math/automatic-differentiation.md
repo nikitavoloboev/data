@@ -49,3 +49,4 @@ title: Automatic differentiation
 - [Automatic Differentiation in 38 lines of Haskell](https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21) ([HN](https://news.ycombinator.com/item?id=32879734))
 - [Automatic Differentiation: Forward and Reverse (2022)](https://jingnanshi.com/blog/autodiff.html) ([HN](https://news.ycombinator.com/item?id=31318865))
 - [Diffuzers](https://github.com/abhishekkrthakur/diffuzers) - Web UI for diffusers.
+- [PT-AD](https://github.com/PTsolvers/PT-AD) - Combine solvers using the Pseudo-Transient Method with Automatic Differentiation (AD) tools.

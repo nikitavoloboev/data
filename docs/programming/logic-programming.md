@@ -34,3 +34,5 @@
 - [miniKanren with a first-order representation of the search space](https://github.com/gregr/first-order-miniKanren)
 - [Whereabouts](https://github.com/cicada-lang/whereabouts) - Logic programming with JSON.
 - [Culog](https://github.com/eashanhatti/culog) - Declarative metalanguage.
+- [MiniKanrenT](https://github.com/jvranish/MiniKanrenT) - Implementation of miniKanren in Haskell.
+- [Experiments with the Verse Calculus in miniKanren](https://github.com/webyrd/wreckto-verseo)

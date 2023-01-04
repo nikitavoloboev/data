@@ -84,3 +84,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Public Speaking Resources](https://github.com/vmbrasseur/Public_Speaking)
 - [What’s the most mind blowing presentation / talk you’ve ever seen? (2022)](https://twitter.com/patrick_oshag/status/1532428920808689670)
 - [Notes on Every Strangeloop 2022 Talk I Attended (2022)](https://www.hillelwayne.com/post/strangeloop-22/)
+- [Public Speaking Best Practices](https://github.com/visualpartnership/public-speaking)

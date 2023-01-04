@@ -385,6 +385,8 @@
 - [RxNetworks](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 - [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor.
 - [APIRouter](https://github.com/devyhan/APIRouter) - Easy way to manage multiple RESTful API endpoints in Swift.
+- [Clairvoyant](https://github.com/christophhagen/Clairvoyant) - Monitoring framework for Vapor servers.
+- [Swift Web](https://github.com/pointfreeco/swift-web) - Collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
 
 ## GraphQL
 

@@ -2,7 +2,21 @@
 
 Depression is a natural emotion that is caused by your body's response to the unpleasant environment you are in.
 
-I try my best to mindfully be aware of emotions, thoughts and feelings I have and focus on improving my [happiness](../life/happiness.md) in life.
+I found doing my best to try change my environment (change physical space I spend time in and/or try new activities) together with truly believing in my self worth helped me overcome the depressive episodes I had in life.
+
+I remember the times I did feel deperessed and down I doubted my ability and future hard. Once in [university](../education/university.md) when I failed many courses as I couldn't force myself to prepare for what I thought were useless exams and once when I had to do mandatary army. Both times I thought my future was uncertain. I would not get into university I want or get any kind of job because I was not smart enough. Each day didn't seem to change this and move me closer to that goal thus I felt depressed, useless and sadly affected relationships closed to me in effect.
+
+Since then I learned I am not as useless as I thought. The first job I got, I actually didn't even want to go to it as I was sure I would not get the job and fail the interview. Why even try? I did go eventually, thanks to my girlfriend telling me to try, took the train and went to Amsterdam and actually got the job. I lost it after few months as I wasn't as good at programming as they wanted but getting that first job was monumental in making me believe in myself.
+
+I have lost many more jobs since that time mostly for not being a great programmer. I was fired 7 times actually for underperformance. And on 2nd fire, I was told by CEO I should reconsider being a programmer and go back to studying or that I should just switch career entirely as I was just bad.
+
+What's interesting is that all those firings have not phased me at all. I was not depressed since as I somehow found my self worth and realized no one externally can take that away from me. Nothing aside from physical pain could hurt me any more and I felt free.
+
+I now try my best to mindfully be aware of emotions, thoughts and feelings I have and focus on improving my [happiness](../life/happiness.md) in life by being grateful and optimistic towards the [future](../future/future.md).
+
+[Life](../life/life.md) is truly [too short](http://www.paulgraham.com/vb.html) to dwell on the past and worry about the future that may never come. Live in the moment and try all the things. Emrace any rejections you get.
+
+Another thing that grealy helped overcome any sadness or depressive thoughts I had was [journaling](../life/journaling.md). The act of writing things down and letting things go is a very cathartic process.
 
 ## Notes
 

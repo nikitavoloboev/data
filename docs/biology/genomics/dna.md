@@ -84,3 +84,4 @@ title: DNA
 - [Understanding the code of life: generative models of regulatory DNA sequences based on diffusion models](https://github.com/pinellolab/DNA-Diffusion)
 - [Mutato](https://github.com/annalam/mutato) - Toolkit for mutation analysis using DNA sequencing data.
 - [Breakfast](https://github.com/annalam/breakfast) - Software for detecting genomic structural variants from DNA sequencing data.
+- [RegTools](https://github.com/griffithlab/regtools) - Integrate DNA-seq and RNA-seq data to identify mutations that are associated with regulatory effects on gene expression.

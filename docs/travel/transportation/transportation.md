@@ -73,3 +73,4 @@ I wish there were more electric superchargers in EU. Tesla cars seem nice too. C
 - [Extensive Porsche Taycan Turbo Review (2021)](https://www.reddit.com/r/cars/comments/rmbhqh/my_extensive_porsche_taycan_turbo_review/)
 - [Automotive News](https://www.autonews.com/)
 - [Car Data](https://github.com/unixpickle/car-data) - Train a model to predict the price of a car given a single photo of that car.
+- [Why didn't you buy a Tesla? (2023)](https://news.ycombinator.com/item?id=34233934)

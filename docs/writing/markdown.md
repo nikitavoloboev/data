@@ -159,3 +159,4 @@
 - [Textual Markdown](https://github.com/willmcgugan/textual-markdown) - Markdown “browser” in the terminal. ([HN](https://news.ycombinator.com/item?id=34028765))
 - [MDtx](https://github.com/aexol-studio/mdtx) - Transform markdown files to different formats.
 - [Markdown Extract](https://github.com/sean0x42/markdown-extract) - Extract sections of a markdown file. Useful for automatically extracting changelogs.
+- [Datacore](https://github.com/blacksmithgu/datacore) - High-performance data index and query language over Markdown files.

@@ -235,6 +235,7 @@ title: OCaml libraries
 - [Confero](https://github.com/paurkedal/confero) - Unicode collation library for OCaml.
 - [ppx_let](https://github.com/janestreet/ppx_let) - Monadic let-bindings.
 - [ezgzip](https://github.com/hcarty/ezgzip) - Simple gzip (de)compression library.
+- [Stores](https://github.com/fpottier/stores) - OCaml library that offers several implementations of (in-memory) stores.
 
 ## Links
 

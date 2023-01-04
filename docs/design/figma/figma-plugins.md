@@ -111,3 +111,4 @@
 - [Foundation: Icon Scaler](https://www.figma.com/community/plugin/1080268938349341224/Foundation%3A-Icon-Scaler) - Plugin that helps you and your team to optimize the icon creation workflow.
 - [Figma plugin template using Vite](https://github.com/alexwidua/figma-plugin-vite)
 - [Noise & Texture Figma Plugin](https://www.figma.com/community/plugin/1138854718618193875/Noise-%26-Texture)
+- [Figma Maps](https://github.com/placemark/figma-plugin) - Make maps in Figma using OpenStreetMap data.

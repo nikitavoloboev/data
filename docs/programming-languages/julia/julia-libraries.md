@@ -134,6 +134,7 @@
 - [DataAugmentation.jl](https://github.com/lorenzoh/DataAugmentation.jl) - Flexible data augmentation library for machine and deep learning.
 - [DiffEqParamEstim.jl](https://github.com/SciML/DiffEqParamEstim.jl) - Easy scientific machine learning (SciML) parameter estimation with pre-built loss functions.
 - [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
+- [ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid.
 
 ## Math
 
@@ -236,6 +237,7 @@
 - [BasicBSpline.jl](https://github.com/hyrodium/BasicBSpline.jl) - Basic (mathematical) operations for B-spline functions and related things with julia.
 - [FastGaussQuadrature.jl](https://github.com/JuliaApproximation/FastGaussQuadrature.jl) - Julia package for Gaussian quadrature.
 - [PolyChaos](https://github.com/SciML/PolyChaos.jl) - Orthogonal Polynomials, Quadrature, and Polynomial Chaos.
+- [ParallelRandomFields.jl](https://github.com/luraess/ParallelRandomFields.jl) - Efficient multi-XPU parallel random field generator for large 2D and 3D problems.
 
 ## NLP
 
@@ -792,6 +794,7 @@
 - [ChangesOfVariables.jl](https://github.com/JuliaMath/ChangesOfVariables.jl) - Interface for transformation functions in Julia.
 - [DiffResults](https://github.com/JuliaDiff/DiffResults.jl) - API for querying differentiation results at multiple orders simultaneously.
 - [PowerAnalyses.jl](https://github.com/rikhuijzer/PowerAnalyses.jl) - Statistical power analyses in Julia.
+- [DevOnly.jl](https://github.com/thautwarm/DevOnly.jl) - Using runtime-free macro packages as dev-only dependencies.
 
 ## Links
 

@@ -195,3 +195,5 @@ Curious how [TSMC](https://www.tsmc.com/english) manages to squeeze so much perf
 - [The Amazing, Humble Silicon Wafer (2022)](https://www.youtube.com/watch?v=sIRfWyyOFPg)
 - [Ask HN: Why did stack-based CPUs lose out? (2023)](https://news.ycombinator.com/item?id=34198463)
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CPU monitoring software designed for the 64-bits Processors.
+- [IEDM 2022 – TSMC 3nm](https://semiwiki.com/semiconductor-manufacturers/tsmc/322688-iedm-2022-tsmc-3nm/)
+- [At the edges of Moore’s Law, connecting components is increasingly the game (2023)](https://spectrum.ieee.org/interconnect-back-side-power)

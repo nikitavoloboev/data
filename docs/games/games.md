@@ -268,6 +268,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What single player games can give you the highest amount of hours of playtime? most replayability, etc. (2022)](https://www.reddit.com/r/gamingsuggestions/comments/zem87o/what_single_player_games_can_give_you_the_highest/)
 - [Your best examples of video games as high art (2022)](https://www.reddit.com/r/patientgamers/comments/zxf52s/your_best_examples_of_video_games_as_high_art/)
 - [What’s your favorite PlayStation exclusive game? (2022)](https://www.reddit.com/r/PS5/comments/100kuzv/whats_your_favorite_playstation_exclusive_game/)
+- [r/PatientGamers Essential Games List: PC](https://www.reddit.com/r/patientgamers/comments/101kjtz/rpatientgamers_essential_games_list_pc/)
 
 ## Links
 

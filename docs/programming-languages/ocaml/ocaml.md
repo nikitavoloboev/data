@@ -166,3 +166,5 @@ title: OCaml
 - [Programming project on automatic differentiation in OCaml](https://github.com/fpottier/mpri-2.4-projet-2022-2023)
 - [Learning OCaml in 2023](https://sancho.dev/blog/learning-ocaml)
 - [Simplify user setup for various editors to OCaml users](https://github.com/ocaml-opam/opam-user-setup)
+- [Random Test Data Generation for Arbitrary Types (2022)](https://thautwarm.github.io/Site-33/pl/datagen.html)
+- [A Short Introduction to Active Patterns (2022)](https://thautwarm.github.io/Site-33/design/a-short-intro-to-active-patterns.html)

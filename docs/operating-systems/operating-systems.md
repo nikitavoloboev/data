@@ -417,3 +417,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/) ([HN](https://news.ycombinator.com/item?id=33761419))
 - [9th International Workshop on Plan 9](https://iwp9.org/)
 - [Re-implement xv6-riscv in Rust](https://github.com/Ko-oK-OS/xv6-rust)
+- [A Functional Approach to Memory-Safe Operating Systems (2011)](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1498&context=open_access_etds)

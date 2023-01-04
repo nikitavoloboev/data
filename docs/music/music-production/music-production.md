@@ -4,7 +4,7 @@
 
 Sometimes use [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ableton.com/en/) to make music.
 
-As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his [synthesizer](synthesizers.md) setup. I want to get into it playing synths/pianos more.
+As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his [synthesizer setup](https://equipboard.com/pros/nils-frahm). I want to get into it playing [synths](synthesizers.md)/[pianos](piano.md) more. [Hania Rani](https://haniarani.com/) has great songs I want to learn to play too.
 
 ## Tools
 
@@ -507,3 +507,5 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [AbletonOSC](https://github.com/ideoforms/AbletonOSC) - MIDI remote script to control Ableton Live 11 via Open Sound Control (OSC).
 - [Friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.).
 - [Midly](https://github.com/negamartin/midly) - Feature-complete MIDI parser and writer focused on speed.
+- [Bach to the Future (or, Humanising Music With Neural Nets) (2019)](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
+- [БРОКЕН ДЭНС - YouTube](https://www.youtube.com/@broken_dance/videos)

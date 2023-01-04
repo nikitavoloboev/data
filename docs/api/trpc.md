@@ -34,3 +34,4 @@ title: tRPC
 - [Type safe Backend-For-Frontends for Single Page Apps (2022)](https://www.youtube.com/watch?v=ugKa7PNI2CI)
 - [Prisma + tRPC + WebSockets](https://github.com/trpc/examples-next-prisma-websockets-starter)
 - [tRPC starter repo with E2E-testing](https://github.com/trpc/examples-next-prisma-starter)
+- [tRPC Limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Multiple Frameworks.

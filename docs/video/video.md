@@ -467,3 +467,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [camera.ui](https://github.com/seydx/camera.ui) - NVR like user Interface for RTSP capable cameras.
 - [ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Automate downloading and metadata generation with YoutubeDL.
 - [My YouTube earnings (2022)](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/) ([HN](https://news.ycombinator.com/item?id=34225192))
+- [Vista](https://github.com/zernonia/vista) - Add animated subtitle to your video automatically. ([Web](https://www.vistaeditor.com/))

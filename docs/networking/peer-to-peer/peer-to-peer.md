@@ -137,3 +137,4 @@
 - [Holepunch](https://holepunch.to/) - Build unstoppable P2P Apps. ([Twitter](https://twitter.com/holepunch_to)) ([GitHub](https://github.com/holepunchto))
 - [Pyrsia](https://github.com/pyrsia/pyrsia) - Decentralized Package Network.
 - [Peer-to-Peer Connection Managers](https://github.com/mycognosist/p2p-connection-managers)
+- [airpaste](https://github.com/mafintosh/airpaste) - 1-1 network pipe that auto discovers other peers using mdns.

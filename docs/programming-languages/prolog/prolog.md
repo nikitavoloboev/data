@@ -4,7 +4,7 @@ title: Prolog
 
 # [Prolog](https://en.wikipedia.org/wiki/Prolog)
 
-[Trealla](https://github.com/trealla-prolog/trealla) is [neat](https://news.ycombinator.com/item?id=32382514).
+[Trealla](https://github.com/trealla-prolog/trealla) is [neat](https://news.ycombinator.com/item?id=32382514). Also liked [Prolog embedded into Go](https://github.com/ichiban/prolog).
 
 ## Notes
 

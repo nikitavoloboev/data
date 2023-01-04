@@ -8,7 +8,7 @@ I dislike languages with semicolons which is why I prefer [Swift](swift/swift.md
 
 I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded code without GC or target [WASM](../web/webassembly.md). Although even there, [TinyGo](https://tinygo.org/) can be enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
 
-[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md). [Gluon](https://github.com/gluon-lang/gluon) is nice embedded functional language.
+[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md). [Gluon](https://github.com/gluon-lang/gluon) is nice embedded functional language. [Austral](https://github.com/austral/austral) is great implementation of linear types.
 
 [Effects bibliography](https://github.com/yallop/effects-bibliography) is a nice read.
 
@@ -504,3 +504,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [APScript](https://github.com/sno2/apscript) - Speedy interpreter for the AP Computer Science Principles pseudocode language built in Rust.
 - [Austral](https://austral-lang.org/) - Systems Language with Linear Types and Capabilities. ([Intro](https://borretti.me/article/introducing-austral)) ([HN](https://news.ycombinator.com/item?id=34168452))
 - [Tomas Petricek's teaching on programming language design](https://github.com/tpetricek/Teaching)
+- [Anzen](https://github.com/anzen-lang/anzen) - General purpose programming language that aims to make assignments easier to understand and manipulate.

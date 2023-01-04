@@ -12,6 +12,8 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 [mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON. [FreeCache](https://github.com/coocood/freecache) is nice caching lib.
 
+Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) is great for concurrency tasks.
+
 ## CLI
 
 - [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.
@@ -701,6 +703,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
 - [libsignalgo](https://github.com/sumnerevans/libsignalgo) - Go wrapper for the libsignal library.
 - [encrypted-stream](https://github.com/nknorg/encrypted-stream) - Go library that transforms any net.Conn or io.ReadWriter stream to an encrypted and/or authenticated stream.
+- [xxhash](https://github.com/OneOfOne/xxhash) - Native implementation of the excellent XXHash hashing algorithm.
 
 ## Linux
 
@@ -1979,6 +1982,8 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 - [Transition](https://github.com/qor/transition) - Go state machine implementation.
 - [Event Sourcing](https://github.com/hallgren/eventsourcing) - Capture all changes to an application state as a sequence of events.
 - [QRCode](https://github.com/shogo82148/qrcode) - QR code, Micro QR code and Rectangular Micro QR Code (rMQR) encoder.
+- [conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go.
+- [Top-K Heavykeeper](https://github.com/migotom/heavykeeper) - Top-K elephant flows finding using HeavyKeeper accurate algorithm.
 
 ## Links
 

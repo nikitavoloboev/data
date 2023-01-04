@@ -84,6 +84,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [OrigamiBot](https://github.com/cmd410/OrigamiBot) - Pythonic Telegram bot API library.
 - [Telegram Vapor Bot](https://github.com/nerzh/telegram-vapor-bot) - Wrapper for the Telegram Bot API written in Swift with Vapor.
 - [Telexide](https://github.com/CalliEve/telexide) - Easy-to-use async telegram bot library for Rust.
+- [Telegram.jl](https://github.com/Arkoniak/Telegram.jl) - Native Julia Telegram bot API wrapper.
 
 ## Bots
 

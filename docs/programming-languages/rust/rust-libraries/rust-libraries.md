@@ -737,6 +737,7 @@
 - [syscalls](https://github.com/jasonwhite/syscalls) - Raw Linux system calls for Rust.
 - [ALSA-rs](https://github.com/diwic/alsa-rs) - Safe wrappers for ALSA, most common API for accessing audio devices on Linux.
 - [Rust Landlock](https://github.com/landlock-lsm/rust-landlock) - Rust library for the Linux Landlock sandboxing feature.
+- [devicemapper-rs](https://github.com/stratis-storage/devicemapper-rs) - Rust library for using Linux devicemapper.
 
 ## Embedded
 
@@ -956,6 +957,8 @@
 - [auto_impl](https://github.com/auto-impl-rs/auto_impl) - Automatically implement traits for common smart pointers.
 - [Decurse](https://github.com/wishawa/decurse) - Rust macro to make recursive function run on the heap.
 - [Goldberg](https://github.com/frank2/goldberg) - Rust-based obfuscation macro library.
+- [hs-bindgen](https://github.com/yvan-sraka/hs-bindgen) - Handy macro to generate C-FFI bindings to Rust for Haskell.
+- [tuple_list](https://github.com/VFLashM/tuple_list) - Rust crate for macro-free variadic tuple metaprogramming.
 
 ## Math
 
@@ -1173,7 +1176,7 @@
 - [Legion](https://github.com/TomGillen/legion) - Aims to be a feature rich high performance ECS library for Rust game projects with minimal boilerplate.
 - [derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options.
 - [async-task](https://github.com/async-rs/async-task) - Task abstraction for building executors. ([Article](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html))
-- [lz4 bindings](https://github.com/bozaro/lz4-rs) - LZ4 is a very fast lossless compression algorithm.
+- [lz4 bindings](https://github.com/10XGenomics/lz4-rs) - LZ4 is a very fast lossless compression algorithm.
 - [SM](https://github.com/rustic-games/sm) - Static State Machine library.
 - [parity-common](https://github.com/paritytech/parity-common) - Collection of crates used in Parity projects.
 - [desert](https://github.com/substack/desert) - Traits for {de,}serializing compact binary formats.
@@ -2462,6 +2465,8 @@
 - [coredump](https://github.com/d-e-s-o/coredump) - Crate to force coredump creation on panics.
 - [Serde ignored](https://github.com/dtolnay/serde-ignored) - Find out about keys that are ignored when deserializing data.
 - [OkayWAL](https://github.com/khonsulabs/okaywal) - Write-ahead log (WAL) implementation for Rust.
+- [bitfield-rle](https://github.com/datrs/bitfield-rle) - Run-length-encoder that compresses bitfields.
+- [Pyo3 Bindings to Polars](https://github.com/pola-rs/pyo3-polars)
 
 ## Cargo Plugins
 
@@ -2574,6 +2579,7 @@
 - [cargo-mommy](https://github.com/Gankra/cargo-mommy) - Support you when running cargo.
 - [cargo-fetcher](https://github.com/EmbarkStudios/cargo-fetcher) - Alternative to cargo fetch for use in CI or other "clean" environments.
 - [cargo-sandbox](https://github.com/insanitybit/cargo-sandbox/) - Drop-in replacement for cargo, with the added benefit of isolating those commands from other parts of your system. ([Lobsters](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed))
+- [cargo-cabal](https://github.com/yvan-sraka/cargo-cabal) - Tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
 
 ## Notes
 

@@ -50,6 +50,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## Web
 
 - [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs. ([Web](https://trpc.io/)) ([Tutorial](https://www.youtube.com/watch?v=Lam0cYOEst8)) ([HN](https://news.ycombinator.com/item?id=31285827))
+- [pretty-cache-header](https://github.com/jjenzz/pretty-cache-header) - Cache-control header utility that parses human readable time strings into seconds.
 - [Fastly/HTTP-Compute-JS](https://github.com/fastly/http-compute-js) - Library aiming to provide Node.js-compatible request and response objects.
 - [withtyped](https://github.com/withtyped/withtyped) - Type-safe RESTful framework for full stack with all native implementation.
 - [Expressly](https://github.com/fastly/expressly) - Express-style router for Fastly's Compute@Edge.

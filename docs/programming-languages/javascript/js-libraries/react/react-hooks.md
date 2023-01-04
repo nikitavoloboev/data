@@ -10,6 +10,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 
 ## State
 
+- [Nano Stores React](https://github.com/nanostores/react) - Tiny state manager with many atomic tree-shakable stores.
 - [Legend-State](https://github.com/LegendApp/legend-state) - Super fast and powerful state manager for JavaScript apps.
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React. ([How Jotai Specifies Package Entry Points](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)) ([Tweet](https://twitter.com/acemarke/status/1515654687780974595))
 - [Jotai Signal](https://github.com/jotai-labs/jotai-signal)

@@ -762,3 +762,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [LibMultiLabel](https://github.com/ASUS-AICS/LibMultiLabel) - Library for Multi-class and Multi-label Text Classification.
 - [Paper Notes on Pretrain Language Models with Factual Knowledge](https://github.com/dqxiu/PLMs-with-Knowledge)
 - [Atlas: Few-shot Learning with Retrieval Augmented Language Models (2022)](https://arxiv.org/abs/2208.03299) ([Code](https://github.com/facebookresearch/atlas))
+- [Some Remarks on Large Language Models (2023)](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9) ([HN](https://news.ycombinator.com/item?id=34233033))

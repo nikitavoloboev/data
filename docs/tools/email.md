@@ -168,6 +168,7 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. ([Code](https://github.com/hteumeuleu/caniemail))
 - [Just Use Email](https://www.justuseemail.com/) - How to use Email for Everything. ([HN](https://news.ycombinator.com/item?id=27123389))
 - [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch)) ([afew - tagging script](https://github.com/afewmail/afew)) ([HN](https://news.ycombinator.com/item?id=33568388))
+- [Notmuch Lore](https://github.com/wkz/notmuch-lore) - Read public-inbox mailing lists via notmuch.
 - [Big Mail](https://getbigmail.com/) - Upgrade your inbox.
 - [What's in email tracking links and pixels? (2021)](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/) ([HN](https://news.ycombinator.com/item?id=27446907))
 - [Automating Gmail with AppsScript (2020)](https://akshayshah.org/automating-gmail-with-appsscript/)
@@ -305,3 +306,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Ask HN: Do You Host Your Own Email? (2022)](https://news.ycombinator.com/item?id=34117386)
 - [EmailTriager](https://www.emailtriager.com/) - Email on autopilot. ([HN](https://news.ycombinator.com/item?id=34150040))
 - [Terraform Provider for Gmail Filter](https://github.com/yamamoto-febc/terraform-provider-gmailfilter)
+- [Mailbox](https://mailbox.org/en/) - Secure e-mail for private and business customers.

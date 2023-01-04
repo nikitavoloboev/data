@@ -292,3 +292,5 @@
 - [Apple SignIn Auth Node](https://github.com/a-tokyo/apple-signin-auth)
 - [Ask HN: Lightweight Authentication (2022)](https://news.ycombinator.com/item?id=34177201)
 - [Permit](https://github.com/ianstormtaylor/permit) - Makes it easy to add an authentication layer to any Node API.
+- [Collection of useful "no sign-in" web apps](https://twitter.com/mrdoob/status/1609874821479026689)
+- [Authorized Wire Authenticated Key Exchange (AWAKE)](https://github.com/ucan-wg/awake)

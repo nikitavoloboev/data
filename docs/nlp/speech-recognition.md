@@ -4,7 +4,7 @@ title: Speech recognition
 
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
-[OpenAI Whisper](https://github.com/openai/whisper) (has [nice C++ port](https://github.com/ggerganov/whisper.cpp)) & [ocotillo](https://github.com/neonbjb/ocotillo) are nice.
+[OpenAI Whisper](https://github.com/openai/whisper) (has [nice C++ port](https://github.com/ggerganov/whisper.cpp)), [ocotillo](https://github.com/neonbjb/ocotillo) & [SpeechBrain](https://github.com/speechbrain/speechbrain) are nice.
 
 ## Notes
 

@@ -6,6 +6,8 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 
 One day it would be nice to own a house with a lot of windows for light like [this one](https://twitter.com/nikstep/status/1443874686333603863). With my own [pond](https://www.youtube.com/watch?v=4LvaX748pVI) and [garden](../other/gardening.md). Something similar in style and vibe to [Simon Sarris](https://simonsarris.medium.com/designing-a-new-old-home-part-1-cf298b58ed41).
 
+Liked [this article](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html) on automating finding place to stay.
+
 ### UK
 
 - [SpareRoom](https://www.spareroom.co.uk)

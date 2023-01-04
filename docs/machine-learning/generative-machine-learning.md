@@ -287,3 +287,6 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [My Midjourney AI Art](https://chenglou.me/) ([Code](https://github.com/chenglou/chenglou.github.io))
 - [Flake for running SD on NixOS](https://github.com/gbtb/nix-stable-diffusion)
 - [Diffusion Models in Vision: A Survey (2022)](https://arxiv.org/abs/2209.04747v1) ([Code](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey))
+- [Denoising Diffusion Implicit Models (DDIM)](https://github.com/ermongroup/ddim)
+- [Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models (2022)](https://wuqiuche.github.io/DiffusionDisentanglement-project-page/) ([Code](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement))
+- [PromptToImage](https://github.com/TheMurusTeam/PromptToImage) - Stable Diffusion app for macOS based on CoreML models.

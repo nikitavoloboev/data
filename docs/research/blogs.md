@@ -280,6 +280,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Zhengdong](https://zhengdongwang.com/blog)
 - [Andy Grove](https://andygrove.io/)
 - [Jamie Ryan](https://depatterning.substack.com/)
+- [Web Performance Calendar](https://calendar.perfplanet.com/)
+- [Orhun Parmaksız](https://blog.orhun.dev/)
 
 ## Notes
 

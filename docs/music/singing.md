@@ -7,3 +7,4 @@
 - [How do you even breathe while singing? (2021)](https://www.reddit.com/r/singing/comments/l8cjmw/how_do_you_even_breathe_while_singing/)
 - [The Weeknds vocal technique](https://www.reddit.com/r/singing/comments/lf3sll/the_weeknds_vocal_technique/)
 - [Voice Acting/Enunciation Exercises](https://en.wikiversity.org/wiki/Voice_Acting/Enunciation_Exercises)
+- [Is The Weeknd a good singer in terms of vocal technique?](https://www.reddit.com/r/singing/comments/101pkf5/is_the_weeknd_a_good_singer_in_terms_of_vocal/)

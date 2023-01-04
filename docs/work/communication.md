@@ -65,6 +65,7 @@ There's a difference between criticism and personal attacks. The latter is best 
 - [Being low agreeableness is a tax on everyone who happens to encounter you.](https://twitter.com/eigenrobot/status/1505611321533997057)
 - [Communication can be a sign of dysfunction in teams. Means people aren't working together in a close, organic way.](https://twitter.com/FoundersPodcast/status/1574043271495438337)
 - [Don’t say maybe when you want to say no.](https://twitter.com/mds/status/1586396254916866049)
+- [Meetings are a usually a bug. If you properly root cause them, you will find a trust issue, a clarity issue, or a missing API. Meetings can paper over these, but it’s much better to fix root cause.](https://twitter.com/tobi/status/1610313464454561795)
 
 ## Links
 

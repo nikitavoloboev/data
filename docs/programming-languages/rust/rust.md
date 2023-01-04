@@ -1004,3 +1004,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Mini Docker Rust](https://github.com/kpcyrd/mini-docker-rust)
 - [Should Small Rust Structs be Passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/) ([HN](https://news.ycombinator.com/item?id=34196294)) ([Reddit](https://www.reddit.com/r/rust/comments/zzxz2e/should_small_rust_structs_be_passed_bycopy_or/)) ([Lobsters](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by))
 - [Rust for Professionals](https://overexact.com/rust-for-professionals/) ([HN](https://news.ycombinator.com/item?id=34223557))
+- [A confusing lifetime error related to Rust's lifetime elision (2023)](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
+- [Zero-dependency random number generation in Rust (2023)](https://blog.orhun.dev/zero-deps-random-in-rust/) ([Lobsters](https://lobste.rs/s/9lfkmv/zero_dependency_random_number))

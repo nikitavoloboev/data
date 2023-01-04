@@ -24,6 +24,8 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 
 [Solid Native](https://github.com/tjjfvi/solid-native) is exciting. [Modular Forms](https://github.com/fabian-hiller/modular-forms) is great for forms.
 
+[Nano Store Solid](https://github.com/nanostores/solid) is nice for state.
+
 ## OSS apps
 
 - [CodeImage](https://github.com/riccardoperra/codeimage)
@@ -43,7 +45,7 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 ## Links
 
 - [SolidJS New Docs](https://docs.solidjs.com/) ([Code](https://github.com/solidjs/solid-docs-next))
-- [solid-nanostores](https://github.com/nanostores/solid) - Global state management in Solid using Nano Stores.
+- [Nano Store Solid](https://github.com/nanostores/solid) - Tiny state manager with many atomic tree-shakable stores.
 - [Solid Lib Starter](https://github.com/amoutonbrady/solid-lib-starter)
 - [Solid Three, Custom Renderers, and SolidStart w/ Nikhil Saraf (2022)](https://www.youtube.com/watch?v=lsWXyyEsw7E)
 - [Solid App Router](https://github.com/solidjs/solid-app-router) - Universal router for Solid inspired by Ember and React Router.

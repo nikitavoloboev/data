@@ -2,7 +2,7 @@
 
 This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.js demos](https://p5-demos.glitch.me/) are great intros. [WEIRD-A](https://github.com/inconvergent/weird), [Processing](../programming-languages/processing/processing.md) & [p5.js](../programming-languages/processing/p5js.md) are great frameworks.
 
-[Josef Pelz](https://twitter.com/JosefPelz) & [Etienne Jacob](https://twitter.com/etiennejcb) are great.
+[Josef Pelz](https://twitter.com/JosefPelz), [Etienne Jacob](https://twitter.com/etiennejcb) & [Julien Gachadoat](https://twitter.com/v3ga) are great.
 
 [Samila](https://github.com/sepandhaghighi/samila), [Alma](https://www.alma.sh/) & [Nannou](https://github.com/nannou-org/nannou) are interesting.
 
@@ -258,3 +258,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Gotoxy Gallery](https://gotoxy.gallery/) - Random generative art.
 - [Ojas Shukla's generative art](https://github.com/whizzbbig/Creative-Coding)
 - [Variations Combinator](https://github.com/Bleuje/variations-combinator) - Real-time generative art tool with openFrameworks.
+- [Dessins géométriques et artistiques avec votre micro-ordinateur programs](https://github.com/v3ga/dessins_geometriques_et_artistiques)

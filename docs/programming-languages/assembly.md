@@ -114,3 +114,5 @@ title: Assembly
 - [Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
 - [CEMU](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground.
 - [Intro to x86 Assembly Language - YouTube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) ([Code](https://github.com/code-tutorials/assembly-intro))
+- [x86 is Turing-complete with no registers (2014)](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
+- [yaxpeax-eval](https://github.com/iximeow/yaxpeax-eval) - Batch eval tool for machine code. eval() but for asm.

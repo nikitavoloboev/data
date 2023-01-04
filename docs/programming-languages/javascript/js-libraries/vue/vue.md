@@ -236,3 +236,4 @@ title: Vue.js
 - [Nuxt Link Checker](https://github.com/harlan-zw/nuxt-link-checker) - Improve your sites SEO by identifying and fixing link issues in your Nuxt v3 app.
 - [Vue Component Library Starter](https://github.com/wobsoriano/vue-lib-starter) - Bundleless Vue component library starter.
 - [Nuxt Fontaine](https://github.com/nuxt-modules/fontaine) - Font metric overrides to reduce CLS.
+- [Nuxt Component Meta](https://github.com/nuxtlabs/nuxt-component-meta) - Gather Nuxt components metadata on build time and make them available on production.

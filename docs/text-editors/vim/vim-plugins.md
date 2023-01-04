@@ -374,3 +374,5 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [lazy.nvim](https://github.com/folke/lazy.nvim) - Modern plugin manager for Neovim.
 - [Neovim plugin boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - Minimal Neovim plugin boilerplate with already configured CI, docs and tests.
 - [LazyVim](https://github.com/folke/LazyVim) - Starter template for lazy Neovim users.
+- [jdhao's Neovim config](https://github.com/jdhao/nvim-config)
+- [BetterNvim](https://github.com/ye-junzhe/BetterNvim) - Modern Neovim setup, makes nvim an IDE.

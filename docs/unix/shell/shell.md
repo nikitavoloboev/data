@@ -281,3 +281,5 @@ All active variables can be seen by running `env`.
 - [LLM.sh](https://github.com/jayhack/llm.sh) - Copilot for your command line. Just type llm XYZ and it will generate/run a script for you that does XYZ.
 - [askai](https://github.com/maxvfischer/askai) - CLI integration with OpenAI's GPT3, enabling you to ask questions and receive the answers straight in your terminal.
 - [chim](https://github.com/jdxcode/chim) - Cross-platform binary shims with optional remote fetching. ([Intro](https://jdxcode.com/posts/2022-09-04-introducing-chim/))
+- [YeAST](https://github.com/yvan-sraka/YeAST) - Extension of the bourne shell shebangsyntax.
+- [ShellCheck Python](https://github.com/shellcheck-py/shellcheck-py) - Python wrapper to provide a pip-installable shellcheck binary.

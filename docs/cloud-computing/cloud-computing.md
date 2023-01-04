@@ -4,6 +4,8 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 
 [OVHcloud](https://www.ovhcloud.com/en-ie/) (with [Terraform OVH Provider](https://github.com/ovh/terraform-provider-ovh)) is nice too. Had bad experience with [GCP](gcp/gcp.md)/[AWS](aws/aws.md) billing so try to use it smartly now.
 
+[Wing](https://github.com/winglang/wing) seems interesting.
+
 ## ML
 
 - [Banana](https://www.banana.dev/)
@@ -145,6 +147,7 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 - [Approaches in Cloud Development Ergonomics (2022)](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 - [Leapp](https://www.leapp.cloud/) - DevTool to access your cloud. ([Code](https://github.com/Noovolari/leapp))
 - [OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO).
-- [Wing](https://www.winglang.io/) - Cloud-oriented programming language. ([HN](https://news.ycombinator.com/item?id=34051325))
+- [Wing](https://www.winglang.io/) - Cloud-oriented programming language. ([HN](https://news.ycombinator.com/item?id=34051325)) ([Code](https://github.com/winglang/wing))
 - [Cloudflare Radar 2022 Year in Review](https://blog.cloudflare.com/radar-2022-year-in-review/)
 - [Deploy Hetzner Dedicated machines with a single command](https://github.com/cachix/cachix-deploy-hetzner-dedicacted)
+- [StackPath](https://www.stackpath.com/) - Edge Compute | Edge Delivery.

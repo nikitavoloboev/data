@@ -119,3 +119,4 @@ title: Web Components
 - [Stencil Component Starter](https://github.com/1024pix/pix-webcomponents) - Starter project for building a standalone Web Component using Stencil.
 - [Web Component Libraries](https://webcomponents.today/component-libraries/)
 - [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page, and search the catalog for extra information.
+- [Web Components bookmarks](https://webcomponents.today/) ([Code](https://github.com/web-padawan/webcomponents.today))

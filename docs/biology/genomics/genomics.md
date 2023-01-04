@@ -232,3 +232,5 @@ title: Genomics
 - [You can’t take it with you: straight talk about epigenetics (2022)](https://razib.substack.com/p/you-cant-take-it-with-you-straight)
 - [VISION](https://github.com/YosefLab/VISION) - Signature Analysis and Visualization for Single-Cell RNA-seq.
 - [Seqkit](https://github.com/annalam/seqkit) - Toolkit for manipulating FASTA and SAM files.
+- [psvcp](https://github.com/wjian8/psvcp_v1.01) - Pan-genome Construction and Population Structure Variation Calling Pipeline.
+- [Griffith Lab](https://griffithlab.org/) ([GitHub](https://github.com/griffithlab))

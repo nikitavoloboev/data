@@ -177,3 +177,4 @@ title: Erlang
 - [Fuse](https://github.com/jlouis/fuse) - Circuit Breaker for Erlang.
 - [Mnesia RocksDB](https://github.com/aeternity/mnesia_rocksdb) - RocksDB backend plugin for Mnesia.
 - [Esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+- [Telemetry](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.

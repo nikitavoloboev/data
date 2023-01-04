@@ -750,3 +750,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [ULIDs and Primary Keys (2022)](https://blog.daveallie.com/ulid-primary-keys) ([HN](https://news.ycombinator.com/item?id=34175639))
 - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/) ([HN](https://news.ycombinator.com/item?id=34220524))
 - [Understanding N + 1 queries problem (2023)](https://ananthakumaran.in/2023/01/01/solving_n_plus_1_queries_on_rails.html) ([HN](https://news.ycombinator.com/item?id=34207974))
+- [Personal blog about my PostgreSQL daily learnings](https://mydbanotebook.org/post/)

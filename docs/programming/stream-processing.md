@@ -1,6 +1,6 @@
 # Stream processing
 
-[ksqlDB](https://ksqldb.io/) is neat.
+[ksqlDB](https://ksqldb.io/) & [RisingWave](https://github.com/risingwavelabs/risingwave) are neat.
 
 ## Links
 

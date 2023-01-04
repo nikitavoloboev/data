@@ -7,7 +7,7 @@
 
 ## Links
 
-- [Semantic Versioning 2.0.0](https://semver.org/)
+- [Semantic Versioning 2.0.0](https://semver.org/) ([Code](https://github.com/semver/semver))
 - [Semver trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades. ([HN](https://news.ycombinator.com/item?id=24020254))
 - [Compatible Versioning](https://gitlab.com/staltz/comver)
 - [The Semantics of Semantic Versioning? (2020)](https://whileydave.com/2020/09/24/the-semantics-of-semantic-versioning/) ([Lobsters](https://lobste.rs/s/doow46/semantics_semantic_versioning))

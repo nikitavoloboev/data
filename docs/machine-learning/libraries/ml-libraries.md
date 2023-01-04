@@ -4,6 +4,8 @@ title: ML Libraries
 
 # ML Libraries
 
+Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax.md) & [PyTorch](pytorch.md).
+
 ## Top
 
 - [PyTorch](pytorch.md)

@@ -56,3 +56,4 @@ title: Nim
 - [Choosing Nim out of a crowded market for systems programming languages (2022)](https://forum.nim-lang.org/t/9655) ([HN](https://news.ycombinator.com/item?id=33747165))
 - [Nim version 2.0 release](https://nim-lang.org/blog/2022/12/21/version-20-rc.html) ([HN](https://news.ycombinator.com/item?id=34086739))
 - [Binding Nim to C++ std::list (2022)](https://scripter.co/binding-nim-to-c-plus-plus-std-list/)
+- [Offensive Nim](https://github.com/byt3bl33d3r/OffensiveNim) - Experiments in weaponizing Nim. ([HN](https://news.ycombinator.com/item?id=34210789))

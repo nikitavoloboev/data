@@ -156,3 +156,4 @@
 - [What not to forget when implementing a pattern-matching in Ruby for custom objects (2022)](https://zverok.space/blog/2022-12-20-pattern-matching.html)
 - [Ruby 3.2.0 (2022)](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/) ([HN](https://news.ycombinator.com/item?id=34125408))
 - [Ruby Nix](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Ni.
+- [Install Ruby 3.2.0 + YJIT with ASDF (2022)](https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82)

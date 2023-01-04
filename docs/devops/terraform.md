@@ -215,3 +215,5 @@ title: Terraform
 - [Terraform Bridge Provider Boilerplate](https://github.com/pulumi/pulumi-tf-provider-boilerplate) - Boilerplate code for Terraform provider-backed Pulumi packages.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - Command-line utility to print the summary of the Terraform plan.
 - [Useful Terraform modules](https://github.com/in4it/terraform-modules)
+- [Tfstate](https://github.com/alex067/tfstate) - Wrapper around Terraform state commands to provide guard rails.
+- [Terrateam](https://terrateam.io/) - Terraform Automation for Teams.

@@ -67,3 +67,4 @@ title: Cypress
 - [Testing React Apps In 2022 With Cypress: An In-Depth Guide For Beginners](https://profy.dev/article/cypress-react) ([Reddit](https://www.reddit.com/r/reactjs/comments/xlv4s6/testing_react_apps_with_cypress_an_indepth_guide/)) ([HN](https://news.ycombinator.com/item?id=33047136))
 - [Cypress plugin API](https://github.com/filiphric/cypress-plugin-api) - Show your API information in the Cypress UI runner.
 - [cy-api](https://github.com/bahmutov/cy-api) - Cypress custom command "cy.api" for end-to-end API testing.
+- [cypress-lit](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in cypress with all the modern browsers.

@@ -10,6 +10,8 @@
 
 [Functional languages index](https://github.com/cblp/funlangs) is nice overview of FP languages.
 
+[ditto](https://github.com/ditto-lang/ditto) is nice small FP language with readable code.
+
 ## Notes
 
 - [A monad is an abstraction that can be used to parametrize code with the way how computations are sequenced. A monad can also be seen as design pattern, that sometimes makes your code more readable (and, more often, less readable).](https://binaryanalysisplatform.github.io/bap/api/master/Monads.Std.html)

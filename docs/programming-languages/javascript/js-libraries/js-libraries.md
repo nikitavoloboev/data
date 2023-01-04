@@ -1089,6 +1089,8 @@
 - [active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc).
 - [unfetch](https://github.com/developit/unfetch) - Bare minimum 500b fetch polyfill.
 - [debounce-fn](https://github.com/sindresorhus/debounce-fn) - Debounce a function.
+- [Mime](https://github.com/broofa/mime) - Comprehensive, compact MIME type module.
+- [LDT](https://github.com/kueblc/LDT) - Lightweight in browser syntax highlighting.
 
 ## Links
 
@@ -1189,3 +1191,4 @@
 - [Speeding up the JavaScript ecosystem, one library at a time (2022)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/) ([HN](https://news.ycombinator.com/item?id=33793570)) ([Lobsters](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one))
 - [npmhub](https://github.com/npmhub/npmhub) - Browser extension to explore npm dependencies on GitHub repos.
 - [URL manipulation cheat sheet for JavaScript](https://github.com/azu/url-cheatsheet)
+- [NPM Graph](https://npmgraph.js.org/) - Tool for exploring NPM modules and dependencies. ([Code](https://github.com/npmgraph/npmgraph))

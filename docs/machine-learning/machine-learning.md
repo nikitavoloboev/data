@@ -6,7 +6,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 
 [Lilian's Blog](https://lilianweng.github.io/) is superb.
 
-[Practical Deep Learning for Coders](https://course.fast.ai/) is nice intro course.
+[Practical Deep Learning for Coders](https://course.fast.ai/) is nice intro course. [Andrej Karpathy](https://github.com/karpathy) does great open research on ML.
 
 ## Notes
 

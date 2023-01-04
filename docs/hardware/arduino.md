@@ -56,3 +56,4 @@
 - [LiquidCrystal Library for Arduino](https://github.com/arduino-libraries/LiquidCrystal)
 - [Arduino LED Toggler](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b) - Circuit simulator that doesn't look like it was made in 2003. ([HN](https://news.ycombinator.com/item?id=33991007))
 - [Blog series on building an air sensor with Arduino (2022)](https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1) ([HN](https://news.ycombinator.com/item?id=34212641))
+- [FastLED](https://github.com/FastLED/FastLED) - Library for colored LED animation on Arduino.

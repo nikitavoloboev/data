@@ -289,3 +289,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [nmd](https://github.com/gvolpe/nmd) - NixOS Module Documentation generator.
 - [Managing infrastructure with Terraform, CDKTF, and NixOS (2022)](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
 - [NixOS Remote](https://github.com/numtide/nixos-remote) - Install NixOS everywhere via ssh.
+- [NixOS Webzine](https://webzine.nixos.cafe/)

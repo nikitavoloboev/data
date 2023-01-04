@@ -79,6 +79,7 @@
 - [GTSAM](https://github.com/borglab/gtsam) - C++ library that implements smoothing and mapping (SAM) in robotics and vision, using Factor Graphs and Bayes Networks.
 - [VERA](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework.
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) - Low-level open source graphics library, similar to OpenGL/DirectX/Vulkan, designed for real-time 2D/3D rendering on MCUs.
+- [Krakatoa](https://github.com/aws/thinkbox-krakatoa) - Fast particle renderer for use in visual effects applications.
 
 ## DB
 
@@ -468,6 +469,8 @@
 - [JSBSim](https://github.com/JSBSim-Team/jsbsim) - Open source flight dynamics & control software library.
 - [fastgltf](https://github.com/spnda/fastgltf) - Superfast SIMD powered glTF 2.0 parser written in C++17 with minimal dependencies.
 - [Stroika](https://github.com/SophistSolutions/Stroika) - Modern, portable, thread-savvy, C++ application framework. It makes writing high performance C++ applications easier by providing safe, flexible, modular building blocks.
+- [riptide_cpp](https://github.com/rtosholdings/riptide_cpp) - Multihreaded 64 bit c++ files for processing numba arrays.
+- [ProxSuite](https://github.com/Simple-Robotics/proxsuite) - Advanced Proximal Optimization Toolbox.
 
 ## Links
 

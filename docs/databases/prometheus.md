@@ -103,3 +103,4 @@ title: Prometheus
 - [Connect-Go-Prometheus](https://github.com/polarsignals/connect-go-prometheus) - Prometheus interceptor for connect-go.
 - [promg](https://github.com/onbjerg/promg) - Small CLI tool to create a plot from a Prometheus query.
 - [Prometheus Toolbox](https://github.com/pb82/prometheus-toolbox) - CLI tool to generate metrics data for Prometheus.
+- [How to improve Prometheus remote write performance at scale (2023)](https://last9.io/blog/how-to-scale-prometheus-remote-write/)

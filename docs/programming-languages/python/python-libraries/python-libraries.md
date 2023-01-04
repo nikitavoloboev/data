@@ -1309,3 +1309,5 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [How we extended the River stats module with Rust using PyO3 (2022)](https://boring-guy.sh/posts/river-rust/)
 - [mousebender](https://github.com/brettcannon/mousebender) - Produce/consume dependency lock files for Python.
 - [Classifying Python virtual environment workflows (2023)](https://snarky.ca/classifying-python-virtual-environment-workflows/) ([Lobsters](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment))
+- [Binary wheels for PyPy](https://github.com/antocuni/pypy-wheels) - PyPy binary wheels for some popular packages.
+- [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/) ([Code](https://github.com/pypackaging-native/pypackaging-native)) ([HN](https://news.ycombinator.com/item?id=34236919))

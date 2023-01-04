@@ -4,7 +4,7 @@
 
 Russian culture and history is [fascinating](https://www.youtube.com/watch?v=9Lx0dGvE4LI) but full of tragedies and unlearned lessons.
 
-It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) to (in my view) try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep status quo political power.
+It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) to (in my view) try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep [status quo political power](https://twitter.com/ulrichspeck/status/1610247946834178049).
 
 I personally have a hard time imagining that many people truly support this aggression towards Ukranian people. Most people in Russia, in my opinion, are [depressed due to how powerless they feel](https://www.youtube.com/watch?v=hjh7j6kPYFM) to what is happening to their lives and are just trying to make best of it.
 
@@ -639,3 +639,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [«Элита будет делать выбор между жизнью и смертью».Ходорковский о войне, Навальном и смене власти 18+ (2022)](https://www.youtube.com/watch?v=3RFMnjnvNPw)
 - [Как мы искали Европу, а нашли войну: фашистский шабаш, нерв русской культуры и Донбасс 8 лет назад (2022)](https://www.youtube.com/watch?v=GbIrByTHZVU)
 - [What are taxes like in Russia? (2022)](https://www.reddit.com/r/AskARussian/comments/1004glx/what_are_taxes_like_in_russia/)
+- [Книжный чел - YouTube](https://www.youtube.com/@BookChel/videos)

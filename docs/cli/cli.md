@@ -179,3 +179,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Awesome CLI](https://github.com/Kikobeats/awesome-cli) - Curated list of things related with Command Line Interfaces.
 - [DidYouMean](https://github.com/hisbaan/didyoumean) - CLI spelling corrector for when you're unsure.
 - [fre](https://github.com/camdencheek/fre) - Command line frecency tracking.
+- [rsms-utils](https://github.com/rsms/rsms-utils) - Collection of CLI programs to help with everyday computer life.

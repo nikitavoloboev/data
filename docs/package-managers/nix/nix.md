@@ -16,6 +16,8 @@ I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to instal
 
 [nixify](https://github.com/rvolosatovs/nixify) is interesting. [Attic](https://github.com/zhaofengli/attic) is great self hostable nix binary cache.
 
+[Standard](https://github.com/divnix/std) is nice Nix flakes framework.
+
 ## Notes
 
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
@@ -474,3 +476,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 - [Attic](https://github.com/zhaofengli/attic) - Self-hostable Nix Binary Cache server backed by an S3-compatible storage provider. It has support for global deduplication and garbage collection.
 - [bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories.
+- [Contracts in Nix](https://github.com/yvan-sraka/contracts)
+- [Nix flake development environment example](https://github.com/nix-dot-dev/nix-flake-example)

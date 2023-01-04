@@ -2,13 +2,15 @@
 
 Journaling my thoughts and experiences has been my most impactful and healthy habit I started doing in life.
 
-I once used [Day One](https://dayoneapp.com/) as my digital life journal. However recently I started to journal and share my experiences publicly in [looking back](../looking-back/looking-back.md).
+I try to be radically open about how I feel and where I stand in life. What worries I have. Why I have them? What I can do? What happened in my life I am grateful for. The act of writing it all down is so cathartic.
 
-I started with journaling by writing [Day Evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that happened to me during the day.
+I try to share these journal entries freely with all in my [look backs](../looking-back/looking-back.md). It's hard to show vulnerability for all to see but in some ways its freeing too and it's been getting easier to do as I do more of them.
 
-Journaling helps me be mindful of what I am doing and keeps me in check for what my thoughts on life are at any given time. I can be brutally honest with myself when writing there and for me its part of a cleansing process of bad and negative thoughts I feel.
+I use [Day One](https://dayoneapp.com/) for my private entries. Usually talking about my family, my love life or any truly private events I want to discuss and talk about there. Nothing beats a private journal in helping you sort your life out.  
 
-If I ever feel down, I can just start writing and just release all these negative thoughts onto paper. Many times, the simple act of writing makes you realize that these things I worry about are silly and are either not in my control or simply not worth even being sad over.
+I started with journaling by writing [Day Evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) on [cube calendar](https://www.thecubecalendar.com/en/news) I got from my girlfriend. The little space on the card had just enough space to write something memorable that happened to me during the day. It was lovely.
+
+If I ever feel down, I can just start writing and let go of all these negative thoughts. It also serves as a snapshot in time of how I felt. Many times, the simple act of writing makes you realize that these things I worry about are silly and are either not in my control or simply not worth even [being sad](../health/depression.md) over. It also acts as evidence that I have changed as a person. And that's truly empowering and motivating me to keep going to get better every day.
 
 I love reading these journals:
 

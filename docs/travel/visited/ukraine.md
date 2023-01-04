@@ -1,10 +1,10 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) to (in my view) try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep status quo political power.
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) to (in my view) try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep [status quo political power](https://twitter.com/ulrichspeck/status/1610247946834178049).
 
 Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities](https://twitter.com/MaximEristavi/status/1513576913431941135) of its neighbors and oppressing it's own citizens, I hope one day a sane government comes where such a disastrous decision will be impossible to enact.
 
-[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. Also like analysis of [Perun](https://www.youtube.com/@PerunAU/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
+[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. Also like analysis of [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
 
 It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/).
 
@@ -190,3 +190,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [All roads may lead to Crimea in 2023](https://twitter.com/WarintheFuture/status/1605079411048337408)
 - [Operations in East Ukraine (1943-2015)](https://www.youtube.com/watch?v=khsOXzF8ibo)
 - [Exposing the Russian Military Unit Behind a Massacre in Bucha | Visual Investigations (2022)](https://www.youtube.com/watch?v=IrGZ66uKcl0)
+- [The Hidden Battle that Saved Ukraine (2023)](https://www.youtube.com/watch?v=hh9xT9d6SJU)

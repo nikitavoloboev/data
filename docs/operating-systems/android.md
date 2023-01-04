@@ -6,6 +6,7 @@ title: Android
 
 ## Nice OSS iOS Android apps
 
+- [Musify](https://github.com/t3chkid/Musify) - Clone of Spotify using Jetpack Compose.
 - [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [Neeva Browser](https://github.com/neevaco/neeva-android) - Browser is built on top of Chromium, utilizing Jetpack Compose as the foundation for its UI.
 - [Tasky](https://github.com/realityexpander/Tasky) - Task manager similar to a lite version of Google Calendar.
@@ -32,6 +33,7 @@ title: Android
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [Url Forwarder](https://github.com/daverix/urlforwarder) - Enables you to use bookmarklets on Android.
 - [Jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker.
+- [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android.
 
 ## Links
 
@@ -92,3 +94,4 @@ title: Android
 - [Waylovely](https://github.com/waylovely-project/waylovely) - Run all your Linux graphical apps on Android.
 - [Apk.sh](https://github.com/ax/apk.sh) - Bash script that makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK. ([HN](https://news.ycombinator.com/item?id=34028601))
 - [Rust bindings to the Android NDK](https://github.com/rust-mobile/ndk)
+- [Android Dev Notes](https://twitter.com/androiddevnotes)

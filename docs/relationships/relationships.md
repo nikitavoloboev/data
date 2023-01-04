@@ -342,3 +342,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Eight Dates: Essential Conversations for a Lifetime of Love (2019)](https://www.goodreads.com/en/book/show/37588679)
 - [Intimacy & Desire: Awaken the Passion in Your Relationship (2009)](https://www.goodreads.com/book/show/7010183-intimacy-desire)
 - [It's okay to disappoint people](https://twitter.com/Theholisticpsyc/status/1609905065602740226)
+- [What are common misconceptions about nonmonogamy?](https://www.reddit.com/r/nonmonogamy/comments/101x9be/what_are_common_misconceptions_about_nonmonogamy/)

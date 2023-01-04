@@ -293,3 +293,4 @@ title: Spatial analysis
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) - Use Mapbox Style objects with OpenLayers.
 - [Mapeo Desktop](https://github.com/digidem/mapeo-desktop) - Offline map editing application for indigenous territory mapping in remote environments.
 - [Rust Reverse Geocoder](https://github.com/gx0r/rrgeo) - Fast, offline, reverse geocoder.
+- [osm](https://github.com/paulmach/osm) - General purpose library for reading, writing and working with OpenStreetMap data.

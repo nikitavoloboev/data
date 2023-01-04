@@ -258,3 +258,5 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Noctie](https://noctie.ai/rate-me) - Chess AI that predicts your rating. ([HN](https://news.ycombinator.com/item?id=33718600))
 - [Human Chess](https://humanchess.abcd.party/) - Chess variant where playing the top engine move is forbidden. ([HN](https://news.ycombinator.com/item?id=33814653))
 - [Three very simple tips from an advanced player for improving your chess](https://www.reddit.com/r/chess/comments/100tvui/three_very_simple_tips_from_an_advanced_player/)
+- [Long Live the King's Gambit | Chessable](https://www.chessable.com/long-live-the-kings-gambit/course/82071/) ([Review](https://www.chesstech.org/2021/nepos-gambit/))
+- [ChessTech News](https://www.chesstech.org/) - Chess & Technology News.
