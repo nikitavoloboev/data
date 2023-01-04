@@ -40,3 +40,4 @@ Some interesting words I like:
 - [Word Ninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
 - [Over-reliance on English hinders cognitive science (2022)](<https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4>)
 - [Fun phrases in English](https://twitter.com/k155la8/status/1586660180133122049)
+- [Wordhoard](https://github.com/johnbumgarner/wordhoard) - Python module can be used to obtain antonyms, synonyms, hypernyms, hyponyms, homophones and definitions.

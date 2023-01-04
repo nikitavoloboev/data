@@ -112,3 +112,4 @@
 - [Figma plugin template using Vite](https://github.com/alexwidua/figma-plugin-vite)
 - [Noise & Texture Figma Plugin](https://www.figma.com/community/plugin/1138854718618193875/Noise-%26-Texture)
 - [Figma Maps](https://github.com/placemark/figma-plugin) - Make maps in Figma using OpenStreetMap data.
+- [Favorite Figma plugin? (2023)](https://twitter.com/FonsMans/status/1610546597313794052)

@@ -399,6 +399,7 @@
 - [monadoptics](https://github.com/masaeedu/monadoptics) - Profunctor optics for the endofunctor category on Hask.
 - [monad-control](https://github.com/basvandijk/monad-control) - Lift control operations, like exception catching, through monad transformers.
 - [AMQP](https://github.com/hreinhardt/amqp) - RabbitMQ Client for Haskell.
+- [repa](https://github.com/haskell-repa/repa) - High performance, regular, shape polymorphic parallel arrays.
 
 ## Notes
 

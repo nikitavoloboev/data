@@ -339,3 +339,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Trying Out Flipper Zero (2022)](https://twitter.com/antirez/status/1609137698404700161) ([HN](https://news.ycombinator.com/item?id=34215390))
 - [ProtoView](https://github.com/antirez/protoview) - Flipper Zero app to display known and unknown signals.
 - [Ronin](https://github.com/ronin-rb/ronin) - Ruby toolkit for security research and development.
+- [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - Curated list of awesome Open-Source Intelligence (OSINT) Resources.
+- [LeakSignal](https://github.com/leaksignal/leaksignal) - Provides observability metrics (or statistics) for sensitive data contained in request/response content.

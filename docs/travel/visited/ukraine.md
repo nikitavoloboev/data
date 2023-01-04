@@ -191,3 +191,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Operations in East Ukraine (1943-2015)](https://www.youtube.com/watch?v=khsOXzF8ibo)
 - [Exposing the Russian Military Unit Behind a Massacre in Bucha | Visual Investigations (2022)](https://www.youtube.com/watch?v=IrGZ66uKcl0)
 - [The Hidden Battle that Saved Ukraine (2023)](https://www.youtube.com/watch?v=hh9xT9d6SJU)
+- [UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) - Collection of links to Ukrainian language tools.

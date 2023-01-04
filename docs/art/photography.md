@@ -17,6 +17,7 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black) ([Review](https://www.youtube.com/watch?v=RSdLAiDb8dQ))
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)
+- [Lumix S5 Mark II](https://www.youtube.com/watch?v=FHL1G5-1aMg)
 
 ## Presets
 

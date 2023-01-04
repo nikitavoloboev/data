@@ -17,3 +17,4 @@ Doing [tutorial](https://entgo.io/docs/tutorial-setup) as it shows how to write 
 - [Ent Contrib](https://github.com/ent/contrib) - Collection of extensions and tools for ent.
 - [Ent Starter](https://github.com/lolopinto/ent)
 - [Ent Explore Schema](https://github.com/lolopinto/ent-explore-schema) - Utility for exploring an ent schema.
+- [enter](https://github.com/a8m/enter) - CLI for generating ER diagrams for Ent schema.

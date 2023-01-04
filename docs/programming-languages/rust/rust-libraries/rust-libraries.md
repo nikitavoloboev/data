@@ -231,6 +231,7 @@
 - [oauth1-request](https://github.com/tesaguri/oauth1-request-rs) - OAuth 1.0 client library for Rust.
 - [totp-rs](https://github.com/constantoine/totp-rs) - RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features.
 - [rs-ucan](https://github.com/ucan-wg/rs-ucan) - Rust implementation of UCAN.
+- [PASETOrs](https://github.com/brycx/pasetors) - Secure stateless tokens.
 
 ## WASM
 
@@ -398,6 +399,7 @@
 - [Quick Cache](https://github.com/arthurprs/quick-cache) - Lightweight and high performance concurrent cache.
 - [Xline](https://github.com/datenlord/Xline) - Geo-distributed KV store for metadata management.
 - [Butane](https://github.com/Electron100/butane) - ORM for Rust with a focus on simplicity and on writing Rust, not SQL.
+- [OpenSrv](https://github.com/datafuselabs/opensrv) - Async bindings for emulating database servers. Currently, support for ClickHouse and MySql/MariaDB is provided.
 
 ## Video
 
@@ -2784,3 +2786,4 @@
 - [Tips on scaling a monolithic Rust web server (2022)](https://www.reddit.com/r/rust/comments/zvt1mu/tips_on_scaling_a_monolithic_rust_web_server/)
 - [How (and why) nextest uses tokio (2022)](https://sunshowers.io/posts/nextest-and-tokio/)
 - [Minimal Rust](https://github.com/xvxx/minimal-rust) - List of (mostly) zero dependency libraries for Rust.
+- [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)

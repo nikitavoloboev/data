@@ -215,6 +215,7 @@ div.CodeMirror-cursor,
 - [Omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Imports your saved Omnivore articles and highlights into Obsidian.
 - [Reference Map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery.
 - [Mermaid Tools for Obsidian](https://github.com/dartungar/obsidian-mermaid)
+- [Tikz Renderer](https://github.com/thequilo/obsidian-tikz-renderer)
 
 ## Themes
 

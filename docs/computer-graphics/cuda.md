@@ -48,3 +48,4 @@ title: CUDA
 - [CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - Open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.
 - [Rust cuBLAS](https://github.com/autumnai/rust-cublas) - Safe CUDA cuBLAS wrapper for the Rust language.
 - [CUDA rules for Bazel](https://github.com/bazel-contrib/rules_cuda)
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog (2022)](https://siboehm.com/articles/22/CUDA-MMM)

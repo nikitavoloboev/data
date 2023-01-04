@@ -25,6 +25,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [OCI Registry on Cloudflare Workers](https://github.com/chainguard-dev/crow-registry)
 - [FlareDrive](https://github.com/longern/FlareDrive) - CloudFlare R2 storage manager with Pages and Workers.
 - [Cloudflare Worker Deadman Switch](https://github.com/dep-sys/cloudflare-worker-deadman-switch) - Sends a notification if your monitor didn't send a HTTP ping for a while.
+- [Qwik app built on top of Cloudflare](https://github.com/cloudflare/wildebeest)
 
 ## Notes
 
