@@ -52,3 +52,4 @@ I share some [recipes I like](recipes.md).
 - [What’s the best cooking oil?](https://www.reddit.com/r/nutrition/comments/zkc3ow/whats_the_best_cooking_oil/)
 - [Which oil is the healthiest to cook with and why? (2022)](https://www.reddit.com/r/nutrition/comments/zv9j3t/which_oil_is_the_healthiest_to_cook_with_and_why/)
 - [What is something that a lot of people typically make wrong or badly?](https://www.reddit.com/r/Cooking/comments/1013dfu/what_is_something_that_a_lot_of_people_typically/)
+- [How do you step up a basic spaghetti dinner?](https://www.reddit.com/r/Cooking/comments/102m2ce/how_do_you_step_up_a_basic_spaghetti_dinner/)

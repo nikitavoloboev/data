@@ -4,6 +4,8 @@ Most important thing I always try to be mindful of is keeping straight back (no 
 
 I use [Herman Miller Embody with standing desk](https://esgaming.hermanmiller.com/collections/all/products/silla-para-videojuegos-embody-herman-miller-y-logitech-g-negro) I like. The most important thing I need for proper working environment is good air so I either work outside or near an open window where there's constant supply of clean air.
 
+Together with above, I try do many [exercises](../fitness/exercises.md) that target my back muscles. [Here](https://www.reddit.com/r/Posture/comments/t7guck/fix_your_spine_a_goldmine_of_practices_for_better/) is a list of many great exercises for this.
+
 ## Chairs
 
 - [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody-gaming-chair/2517590.html) ([Review](https://www.youtube.com/watch?v=y9kSNdxA8y8))
@@ -104,3 +106,5 @@ I use [Herman Miller Embody with standing desk](https://esgaming.hermanmiller.co
 - [Hacker Stations](https://hackerstations.com/)
 - [Favorite computer chair recommendations (2022)](https://twitter.com/jamesm/status/1591892465036185600)
 - [Upsy Desky](https://github.com/tjhorner/upsy-desky) - Smartify your standing desk.
+- [Posture Reddit](https://www.reddit.com/r/Posture/)
+- [Fix your spine: A goldmine of practices for better posture](https://www.reddit.com/r/Posture/comments/t7guck/fix_your_spine_a_goldmine_of_practices_for_better/)

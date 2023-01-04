@@ -13,4 +13,4 @@ title: Bézier curves
 - [Canvas sketch board, force touch, real-time Bezier curve](https://quietshu.github.io/apple-pencil-safari-api-test/) ([Code](https://github.com/quietshu/apple-pencil-safari-api-test))
 - [Beyond Bézier curves (2013)](https://bosker.wordpress.com/2013/11/13/beyond-bezier-curves/) ([HN](https://news.ycombinator.com/item?id=22379969))
 - [B-splines (2019)](https://opensourc.es/blog/b-spline/)
-- [The Beauty of Bézier Curves (2021)](https://www.youtube.com/watch?v=aVwxzDHniEw)
+- [The Beauty of Bézier Curves (2021)](https://www.youtube.com/watch?v=aVwxzDHniEw) ([HN](https://news.ycombinator.com/item?id=34217727))

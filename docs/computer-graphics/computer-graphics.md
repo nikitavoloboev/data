@@ -263,3 +263,5 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [How to draw ugly lines fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin) ([HN](https://news.ycombinator.com/item?id=34050351))
 - [Mixture of Volumetric Primitives for Efficient Neural Rendering (2021)](https://arxiv.org/abs/2103.01954) ([Code](https://github.com/facebookresearch/mvp))
 - [B-Spline-Curve-Editor](https://github.com/natevm/B-Spline-Curve-Editor) - Online tool to edit B Splines written in WebGL.
+- [glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
+- [appleseed](https://github.com/appleseedhq/appleseed) - Modern open source rendering engine for animation and visual effects. ([Web](https://appleseedhq.net/))

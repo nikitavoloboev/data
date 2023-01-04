@@ -4,7 +4,7 @@
 
 Sometimes use [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ableton.com/en/) to make music.
 
-As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his [synthesizer setup](https://equipboard.com/pros/nils-frahm). I want to get into it playing [synths](synthesizers.md)/[pianos](piano.md) more. [Hania Rani](https://haniarani.com/) has great songs I want to learn to play too.
+As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his [synthesizer setup](https://equipboard.com/pros/nils-frahm). I want to get into it playing [synths](synthesizers.md)/[pianos](piano.md) more. [Hania Rani](https://haniarani.com/) & [Ólafur Arnalds](https://olafurarnalds.com/) have great songs I want to learn to play too.
 
 ## Tools
 
@@ -509,3 +509,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Midly](https://github.com/negamartin/midly) - Feature-complete MIDI parser and writer focused on speed.
 - [Bach to the Future (or, Humanising Music With Neural Nets) (2019)](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
 - [БРОКЕН ДЭНС - YouTube](https://www.youtube.com/@broken_dance/videos)
+- [Musescore.com](https://musescore.com/) - World's largest free sheet music catalog and community.

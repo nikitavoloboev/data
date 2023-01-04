@@ -238,3 +238,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers.
 - [Linvo Linkedin Scraper](https://github.com/linvo-io/linvo-scraper)
 - [Cached Chrome Top Million Websites](https://github.com/zakird/crux-top-lists) ([HN](https://news.ycombinator.com/item?id=34196381))
+- [site_icons](https://github.com/samdenty/site_icons) - Efficient website icon scraper for rust, with sizes, ordering, and WASM support.

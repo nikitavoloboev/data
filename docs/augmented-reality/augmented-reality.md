@@ -53,4 +53,4 @@
 - [Immersive Web Developer](https://immersiveweb.dev/) ([Code](https://github.com/immersive-web/immersiveweb.dev))
 - [Real-Time Neural Light Field on Mobile Devices (2022)](https://arxiv.org/abs/2212.08057) ([Code](https://github.com/snap-research/MobileR2L))
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
-- [Meta Quest Pro – Bad AR Passthrough (2023)](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/)
+- [Meta Quest Pro – Bad AR Passthrough (2023)](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/) ([HN](https://news.ycombinator.com/item?id=34239684))

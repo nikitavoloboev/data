@@ -2,7 +2,7 @@
 
 [This](https://www.susanrigetti.com/physics) & [this Reddit thread](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/) are nice places to start learning physics. I like reading [AskPhysics subreddit](https://www.reddit.com/r/AskPhysics/).
 
-[PBS Space Time](https://www.youtube.com/@pbsspacetime/videos), [Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) ([need to double check his content](https://www.math.columbia.edu/~woit/wordpress/?p=6156)) & [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) are interesting.
+[Arvin Ash](https://www.youtube.com/@ArvinAsh/videos), [PBS Space Time](https://www.youtube.com/@pbsspacetime/videos), [Unzicker's Real Physics](https://www.youtube.com/@TheMachian/videos) ([need to double check his content](https://www.math.columbia.edu/~woit/wordpress/?p=6156)) & [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) are interesting.
 
 I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work mind opening.
 
@@ -358,3 +358,5 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Weaving paper strips for designing of general curved surface with geometrical elasticity (2022)](https://arxiv.org/abs/2211.06372) ([Code](https://github.com/hyrodium/ElasticSurfaceEmbedding.jl))
 - [Particle Lenia and the energy-based formulation (2022)](https://google-research.github.io/self-organising-systems/particle-lenia/) ([HN](https://news.ycombinator.com/item?id=34108724))
 - [Picture This: The Periodic Table](https://pioneerworks.org/broadcast/picture-this-periodic-table)
+- [How Many States Of Matter Are There? (2022)](https://www.youtube.com/watch?v=184eP_KuXek)
+- [Arvin Ash - YouTube](https://www.youtube.com/@ArvinAsh/videos)

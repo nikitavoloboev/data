@@ -576,3 +576,4 @@ for i, _ in enumerate(nums):
 - [Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 - [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/) ([Code](https://github.com/gagolews/datawranglingpy))
 - [s-Python](https://github.com/suren-atoyan/x-python) - Complete solution for Python-in-browser.
+- [Infinite AI Array (2023)](https://ianbicking.org/blog/2023/01/infinite-ai-array.html) ([Code](https://github.com/ianb/infinite-ai-array)) ([HN](https://news.ycombinator.com/item?id=34224664))

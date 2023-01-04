@@ -83,6 +83,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [terminado](https://github.com/jupyter/terminado) - Tornado websocket backend for the Xterm.js JavaScript terminal emulator library.
 - [Pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. ([HN](https://news.ycombinator.com/item?id=33922754))
 - [Falcon](https://github.com/falconry/falcon) - Minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale.
+- [hface](https://github.com/akamai/hface) - Hackable HTTP/{1,2,3} {client,server,proxy}.
 
 ## ML
 
@@ -1103,6 +1104,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [python-magic](https://github.com/ahupp/python-magic) - Python wrapper for libmagic.
 - [HiPart](https://github.com/panagiotisanagnostou/HiPart) - Hierarchical divisive clustering algorithm execution, visualization and Interactive visualization.
 - [audio-offset-finder](https://github.com/bbc/audio-offset-finder) - Find the offset of an audio file within another audio file.
+- [fastplotlib](https://github.com/kushalkolar/fastplotlib) - Fast plotting library built using the pygfx render engine utilizing Vulkan via WGPU.
 
 ## Notes
 

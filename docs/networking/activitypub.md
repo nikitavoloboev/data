@@ -81,3 +81,5 @@ title: ActivityPub
 - [Waq](https://github.com/ushitora-anqou/waq) - ActivityPub's server written in OCaml.
 - [Activity Pub for Go](https://github.com/go-ap/activitypub)
 - [Dumbo](https://github.com/jakelazaroff/dumbo) - Tiny, single user ActivityPub server.
+- [pub](https://github.com/davecheney/pub) - Tiny ActivityPub to Mastodon bridge.
+- [ActivityPub Express](https://github.com/immers-space/activitypub-express) - Modular ActivityPub implementation as Express JS middleware to easily add decentralization and federation to Node apps.

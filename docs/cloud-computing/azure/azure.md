@@ -39,3 +39,4 @@ title: Azure
 - [Extensions for Azure CLI 2.0](https://github.com/Azure/azure-cli-extensions)
 - [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python)
 - [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor) - Monitoring/debugging UI tool for Azure Durable Functions.
+- [Docker containers for running training scripts on AzureML](https://github.com/Azure/AzureML-Containers)

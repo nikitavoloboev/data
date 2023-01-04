@@ -152,3 +152,5 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Mastodon—and the pros and cons of moving beyond Big Tech gatekeepers (2022)](https://arstechnica.com/gadgets/2022/12/mastodon-highlights-pros-and-cons-of-moving-beyond-big-tech-gatekeepers/)
 - [Public Roadmap - Mastodon](https://joinmastodon.org/roadmap)
 - [Private and Public Mastodon](https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search) ([HN](https://news.ycombinator.com/item?id=34221851))
+- [Mastodon Send GitHub Action](https://github.com/cbrgm/mastodon-github-action) - Use this action to send a toot (message) from a GitHub actions workflow to Mastodon.
+- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - Cross-platform client for micro-blogging services.

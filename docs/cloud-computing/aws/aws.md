@@ -429,3 +429,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [AWS re:Invent 2022 - Practical experience with a serverless-first strategy at Capital One](https://www.youtube.com/watch?v=NZVNAEK6shc)
 - [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge](https://www.youtube.com/watch?v=W3Rh70jG-LM)
 - [SST](https://github.com/serverless-stack/sst) - Makes it easy to build full-stack serverless applications on AWS.
+- [s3d](https://github.com/s3d-rs/s3d) - Daemon for data access using S3 API.

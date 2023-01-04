@@ -157,3 +157,4 @@
 - [Ruby 3.2.0 (2022)](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/) ([HN](https://news.ycombinator.com/item?id=34125408))
 - [Ruby Nix](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Ni.
 - [Install Ruby 3.2.0 + YJIT with ASDF (2022)](https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82)
+- [Ruby 3.2.0 Is from Another Dimension (2023)](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9) ([HN](https://news.ycombinator.com/item?id=34242820))

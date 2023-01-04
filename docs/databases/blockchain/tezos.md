@@ -105,3 +105,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Trezor Suite Monorepo](https://github.com/trezor/trezor-suite)
 - [VisualTez](https://github.com/TezWell/VisualTez) - Visual programming tool for writing smart contracts on Tezos.
 - [Sign In With Tezos (SIWT)](https://github.com/StakeNow/SIWT) - Access Control Management using Tezos NFTs.
+- [Tezex](https://github.com/objkt-com/tezex) - Collection of utils to work with the Tezos blockchain using Elixir.

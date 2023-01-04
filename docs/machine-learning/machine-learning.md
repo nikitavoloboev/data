@@ -1032,3 +1032,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Trustworthy AI related projects](https://github.com/huawei-noah/trustworthyAI)
 - [Paper List for In-context Learning](https://github.com/dqxiu/ICL_PaperList)
 - [Awesome Domain Generalization](https://github.com/junkunyuan/Awesome-Domain-Generalization)
+- [Editing Models with Task Arithmetic (2022)](https://arxiv.org/abs/2212.04089) ([Code](https://github.com/mlfoundations/task_vectors))

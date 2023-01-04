@@ -104,7 +104,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune)) ([HN](https://news.ycombinator.com/item?id=24132602)) ([2.0 release](https://blog.timescale.com/blog/timescaledb-2-0-a-multi-node-petabyte-scale-completely-free-relational-database-for-time-series/)) ([HN](https://news.ycombinator.com/item?id=30430000))
 - [Timescale Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/) ([HN](https://news.ycombinator.com/item?id=28761453)) ([HN](https://news.ycombinator.com/item?id=28761566))
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time. ([How ClickHouse Saved our Data](https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/)) ([HN](https://news.ycombinator.com/item?id=27310247)) ([Faster ClickHouse Imports](https://tech.marksblogg.com/faster-clickhouse-imports-csv-parquet-mysql.html)) ([HN: ClickHouse, Inc.](https://news.ycombinator.com/item?id=28595419)) ([Article](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)) ([HN](https://news.ycombinator.com/item?id=28945903))
-- [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver)) ([Arangolite - Go Driver](https://github.com/solher/arangolite)) ([Python Driver](https://github.com/ArangoDB-Community/python-arango))
+- [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver)) ([Arangolite - Go Driver](https://github.com/solher/arangolite)) ([Python Driver](https://github.com/ArangoDB-Community/python-arango)) ([Feed](https://github.com/arangodb/feed))
 - [LiteStore](https://github.com/h3rald/litestore) - Lightweight, self-contained, RESTful, multi-format NoSQL document store server written in Nim and powered by a SQLite backend for storage.
 - [RecallGraph](https://github.com/RecallGraph/RecallGraph) - Versioning data store for time-variant graph data. ([HN](https://news.ycombinator.com/item?id=23455516))
 - [Apache Pinot](https://pinot.apache.org/) - Realtime distributed OLAP datastore. ([Code](https://github.com/apache/incubator-pinot))
@@ -277,6 +277,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [SolomonDB](https://github.com/nomadiz/solomon-db) - Embedded Gremlin-compatible graph database written in Rust.
 - [Kuzu](https://github.com/kuzudb/kuzu) - In-process property graph database management system (GDBMS) built for query speed and scalability.
 - [zgraph](https://github.com/vescale/zgraph) - Embeddable graph database for large-scale vertices and edges.
+- [Flink Table Store](https://github.com/apache/flink-table-store) - Data lake storage for streaming updates/deletes changelog ingestion and high-performance queries in real time.
 
 ## Tools
 
@@ -751,3 +752,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/) ([HN](https://news.ycombinator.com/item?id=34220524))
 - [Understanding N + 1 queries problem (2023)](https://ananthakumaran.in/2023/01/01/solving_n_plus_1_queries_on_rails.html) ([HN](https://news.ycombinator.com/item?id=34207974))
 - [Personal blog about my PostgreSQL daily learnings](https://mydbanotebook.org/post/)
+- [Percona Monitoring and Management](https://github.com/percona/pmm) - View and monitor the performance of your MySQL, MongoDB, PostgreSQL, and MariaDB databases.

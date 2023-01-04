@@ -450,3 +450,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [River](https://github.com/online-ml/river) - Online machine learning in Python.
 - [hypertune](https://github.com/polyaxon/hypertune) - Library for performing hyperparameter optimization.
 - [CausalPy](https://github.com/pymc-labs/CausalPy) - Python package for causal inference in quasi-experimental settings.
+- [TensorDict](https://github.com/pytorch-labs/tensordict) - PyTorch dedicated tensor container.

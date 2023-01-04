@@ -273,3 +273,6 @@ title: Bioinformatics
 - [Equiformer Diffusion](https://github.com/lucidrains/equiformer-diffusion) - Implementation of Denoising Diffusion for protein design, but using the new Equiformer (successor to SE3 Transformers) with some additional improvements.
 - [BioSpaCy](https://github.com/wjbmattingly/biospacy) - SpaCy pipeline for processing biology texts.
 - [Molecular Property Prediction](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for Molecule Property Prediction.
+- [topiary](https://github.com/harmslab/topiary) - Python framework for doing ancestral sequence reconstruction.
+- [OngLai: An Algorithm to Classify Homologous Series](https://github.com/adelenelai/onglai-classify-homologues)
+- [BioGPT: generative pre-trained transformer for biomedical text generation and mining (2022)](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=false) ([Code](https://github.com/microsoft/BioGPT))

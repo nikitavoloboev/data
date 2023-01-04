@@ -4,7 +4,7 @@ It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [
 
 Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities](https://twitter.com/MaximEristavi/status/1513576913431941135) of its neighbors and oppressing it's own citizens, I hope one day a sane government comes where such a disastrous decision will be impossible to enact.
 
-[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. Also like analysis of [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
+[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
 
 It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/).
 

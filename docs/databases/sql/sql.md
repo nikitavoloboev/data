@@ -238,4 +238,4 @@ title: SQL
 - [Partial State in Dataflow-Based Materialized Views (2013)](https://jon.thesquareplanet.com/papers/phd-thesis.pdf)
 - [Easy, alternative soft deletion: `deleted_record_insert` (2022)](https://brandur.org/fragments/deleted-record-insert)
 - [Opteryx](https://github.com/mabel-dev/opteryx) - SQL Engine written in Python, designed for embedded and cloud-native environments.
-- [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
+- [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md) ([Lobsters](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch))

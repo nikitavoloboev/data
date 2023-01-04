@@ -21,3 +21,4 @@ title: esbuild
 - [Config files for esbuild](https://github.com/bpierre/esbuild-config)
 - [Bazel rules for esbuild](https://github.com/aspect-build/rules_esbuild)
 - [Esbuild plugin to load HTML modules](https://github.com/whitefusionhq/esbuild-plugin-html-modules)
+- [CDK esbuild](https://github.com/mrgrain/cdk-esbuild) - CDK constructs for esbuild, an extremely fast JavaScript bundler.

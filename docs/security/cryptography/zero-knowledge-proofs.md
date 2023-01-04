@@ -143,3 +143,4 @@ title: Zero knowledge proofs
 - [zkOS](https://github.com/starkoracles/zkos) - Cross-proof-system execution layer.
 - [VMtropy](https://github.com/lambdaclass/VMtropy) - ZK snark-based VM running Aleo Instructions.
 - [Proofs, Arguments, and Zero-Knowledge (2022)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- [zk-starter](https://github.com/cawfree/zk-starter) - Zero knowledge for those with zero knowledge.

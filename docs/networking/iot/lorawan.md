@@ -113,3 +113,4 @@ title: LoRaWAN
 - [Go LoRaWAN Stack](https://github.com/ofauchon/go-lorawan-stack)
 - [Thing Network 2022 - TinyGo](https://github.com/ofauchon/ttn2022-tinygo)
 - [LoRa: Field Testing Antennas (2022)](https://www.sparkfun.com/news/5497) ([HN](https://news.ycombinator.com/item?id=34073834))
+- [LoRa Air-Time Calculator](https://github.com/ifTNT/lora-air-time) - Calculator that calculate the Time on Air (ToA) of LoRa packet. Based on the formula in Semtech's datasheet.

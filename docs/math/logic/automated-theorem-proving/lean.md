@@ -128,3 +128,4 @@ title: Lean
 - [Infinitude of primes --- a Lean theorem prover demo (2020)](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
 - [mlir-lean](https://github.com/opencompl/lean-mlir) - Embedded MLIR in LEAN.
 - [Parser for ANSI C, in Lean 4](https://github.com/opencompl/C-parsing-for-Lean4)
+- [Formalization of DBSP in Lean](https://github.com/tchajed/database-stream-processing-theory)

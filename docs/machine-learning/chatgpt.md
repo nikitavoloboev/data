@@ -34,3 +34,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Open-Source Version of ChatGPT is Coming (2022)](https://metaroids.com/news/an-open-source-version-of-chatgpt-is-coming/)
 - [OpenAIPipe](https://github.com/Aesthetikx/openai_pipe) - UNIX-ey interface to OpenAI.
 - [OpenAI's ChatGPT API wrapper for Rust](https://github.com/Maxuss/chatgpt_rs)
+- [LLM Garden](https://github.com/ianb/llm-garden) - Experiments using GPT-3, delivered in a web app.
+- [Adrenaline](https://github.com/shobrook/adrenaline) - IDE that uses ChatGPT to automatically fix your code when it throws an error.

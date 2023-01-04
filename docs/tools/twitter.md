@@ -6,15 +6,15 @@ title: Twitter
 
 Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md) in [separate window](https://twitter.com/nikitavoloboev/status/1601959862648582145) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
 
-I like Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
+I love Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
 
-I have trust Twitter will improve despite questionable past decisions. They will [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is the lack of transparency around decision making involving suspensions and that the code is not open source. The things I would give so that I can long press heart icon on iOS to bookmark..
+I have trust Twitter will improve despite questionable past decisions. They will [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is the lack of transparency around decision making involving suspensions, the amount of bots spamming notifications and DMs and that the code is not open source. The things I would give so that I can long press heart icon on iOS to bookmark..
 
-I'd love for something like [Nostr protocol](https://github.com/nostr-protocol/nostr) to power Twitter with all the UX niceness that Twitter has.
+I'd love for something like [Nostr protocol](../social-networks/nostr.md) to power Twitter with all the UX niceness that Twitter has.
 
 I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
 
-[Mastodon](../social-networks/mastodon.md) is interesting alternative but needs smoother onboarding, client UX and ability to have 'public likes' for it to ever make me want to use it more. I get a lot of my content from seeing likes of people I admire.
+[Mastodon](../social-networks/mastodon.md) is interesting alternative but needs smoother onboarding, client UX and ability to have 'public likes' for it to ever make me want to use it more. I get a lot of my content from seeing likes of people I admire. Not to mention that with Mastodon, you still have to follow the rules of the server you joined, otherwise you get suspended with all content deleted same as Twitter.
 
 I am trying to build my own [app with a network of people that's based on sharing your learnings and ideas](../ideas/learn-anything.md). You would be able to share notes, ideas in similar way I do here in this wiki but more streamlined. With everything being [open source](https://github.com/learn-anything/learn-anything).
 
@@ -50,7 +50,7 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter has useful "from people you follow" search filter](https://twitter.com/Gavmn/status/1507371911310807043)
 - [New Twitter CEO Checklist: 1. Open-source the algorithm. 2. Eliminate all bots. 3. Restore free speech.](https://twitter.com/DavidSacks/status/1515363131249213444)
 - [The essential truth of every social network is that the product is content moderation, and everyone hates the people who decide how content moderation works. Content moderation is what Twitter makes — it is the thing that defines the user experience.](https://twitter.com/simonw/status/1586017662726856704)
-- Twitter is a private company owned by a person who has a tendency to [go back on what he says](https://twitter.com/rickstrom/status/1603562716123189248), [lies in public](https://twitter.com/carterforva/status/1596136798941503492), [bans accounts of competitors](https://news.ycombinator.com/item?id=34010112) and [those who criticize him publicly](https://news.ycombinator.com/item?id=34008383) without ways to fight back is [worrying](https://twitter.com/Dereklowe/status/1602307503752187906). Twitter should take steps to change this as [trust lost](https://twitter.com/JuddLegum/status/1603876025242378248) takes long time to fix.
+- Twitter is a private company owned by a person who in the past [went back on what he promised](https://twitter.com/rickstrom/status/1603562716123189248), [lied in public on things you should not lie about](https://twitter.com/carterforva/status/1596136798941503492), [made Twitter ban accounts of competitors](https://news.ycombinator.com/item?id=34010112) and [those who criticize him personally](https://news.ycombinator.com/item?id=34008383) without ways to fight back. All that is [worrying](https://twitter.com/Dereklowe/status/1602307503752187906) for the future of Twitter. Twitter and its CEO should take steps to change this as [trust lost](https://twitter.com/JuddLegum/status/1603876025242378248) takes long time to fix.
 
 ## Links
 
@@ -314,3 +314,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter Graph](https://twit.deta.dev/) - Like Google Trends but for Twitter.
 - [Embed Tweets on your site with minimal JS, thanks to Qwik](https://github.com/mhevery/qwik-twitter)
 - [Python Twitter Examples](https://github.com/ideoforms/python-twitter-examples) - Examples of using Python for Twitter social data mining, using the python-twitter-tools framework.
+- [Convert Twitter threads from archive to Markdown files](https://github.com/duncanmalashock/tweetparse)

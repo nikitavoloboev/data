@@ -505,3 +505,5 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Austral](https://austral-lang.org/) - Systems Language with Linear Types and Capabilities. ([Intro](https://borretti.me/article/introducing-austral)) ([HN](https://news.ycombinator.com/item?id=34168452))
 - [Tomas Petricek's teaching on programming language design](https://github.com/tpetricek/Teaching)
 - [Anzen](https://github.com/anzen-lang/anzen) - General purpose programming language that aims to make assignments easier to understand and manipulate.
+- [Cara](https://github.com/cara-lang/compiler) - Programming language aiming to be pleasant to use and maintain while staying safe and dependable.
+- [What features would you want in a new programming language? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/102r0ke/what_features_would_you_want_in_a_new_programming/)

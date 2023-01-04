@@ -124,3 +124,4 @@
 - [Implementing the Perceus reference counting GC (2022)](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
 - [Fast memcpy, a system design (2022)](https://www.sigarch.org/fast-memcpy-a-system-design/) ([HN](https://news.ycombinator.com/item?id=34058421))
 - [gc-arena](https://github.com/kyren/gc-arena) - Experimental system for rust garbage collection.
+- [Does Rust have the ultimate memory management solution? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/102ugt7/does_rust_have_the_ultimate_memory_management/)

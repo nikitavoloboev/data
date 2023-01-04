@@ -738,6 +738,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Simple Data Analysis](https://github.com/nshiab/simple-data-analysis.js) - Easy-to-use JavaScript library for most common data analysis tasks.
 - [JS Polars](https://github.com/pola-rs/js-polars) - Contains the JS <--> WASM bindings for the polars library.
 - [LevelTwo](https://github.com/codenothing/level-two) - Distributed in-process cache.
+- [subtitle](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files.
+- [cdate](https://github.com/kawanet/cdate) - Compact calendar date.
 
 ## Links
 

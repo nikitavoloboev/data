@@ -21,3 +21,5 @@ title: Quantum gravity
 - [Physicists Create a Wormhole Using a Quantum Computer (2022)](https://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/) ([Article](https://ai.googleblog.com/2022/11/making-traversable-wormhole-with.html))
 - [Dirac's Way to Quantum Gravity (2020)](https://www.youtube.com/watch?v=cwUFUr24R-k)
 - [Lectures on the string landscape and the Swampland (2022)](https://arxiv.org/abs/2212.06187) ([Tweet](https://twitter.com/mmanuF/status/1605556229736054784))
+- [The Trouble with Gravity: Why Can't Quantum Mechanics explain it? (2022)](https://www.youtube.com/watch?v=NsUm9mNXrX4)
+- [String theory vs Loop quantum gravity: Wild hunt for Quantum Gravity (2020)](https://www.youtube.com/watch?v=3jKPJa-f3cQ)

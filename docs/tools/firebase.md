@@ -85,3 +85,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firebase SQLite](https://github.com/rodydavis/firestore_sqlite) - Inspired by PocketBase provide client side SQLite database, schema generator and admin UI.
 - [Flarebase Auth](https://github.com/Marplex/flarebase-auth) - Firebase/Admin Auth JavaScript Library for Cloudflare Workers.
 - [Setup Firebase Tools GitHub Action](https://github.com/ssssota/setup-firebase-tools)
+- [FireQL](https://github.com/pgollangi/FireQL) - Query Google Firestore database using SQL syntax.

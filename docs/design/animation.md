@@ -100,3 +100,4 @@ Like using [Rive](rive.md) for making animations.
 - [Awesome Manim](https://github.com/ManimCommunity/awesome-manim)
 - [School of Motion](https://www.schoolofmotion.com/) ([YouTube](https://www.youtube.com/@schoolofmotion/videos))
 - [Inox2D](https://github.com/Inochi2D/inox2d) - Native Rust reimplementation of Inochi2D.
+- [movy.js](https://github.com/rossning92/movy) - Client-side JS animation engine for creating explanatory videos.

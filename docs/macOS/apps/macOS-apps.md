@@ -234,6 +234,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [PastePal](https://onmyway133.com/pastepal/) - Universal pasteboard manager for Mac, iPhone and iPad. ([Docs](https://github.com/onmyway133/PastePal))
 - [Codelime](https://onmyway133.com/codelime/) - Powerful code snippet manager. ([Docs](https://github.com/onmyway133/Codelime))
 - [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) - macOS app to show applications menu shortcuts.
+- [TextTransformer](https://github.com/insidegui/TextTransformer) - Apple ExtensionFoundation/ExtensionKit sample app.
 
 ## Notes
 

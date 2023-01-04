@@ -364,3 +364,4 @@ title: GraphQL
 - [Using Fetch as your GraphQL client (2022)](https://grafbase.com/guides/using-fetch-as-your-graphql-client)
 - [Docker Altair](https://github.com/appwrite/docker-altair) - Docker image for the very popular GraphQL explorer by Altair.
 - [GraphQL Shield Generator](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
+- [GraphQL Constraint Directive](https://github.com/confuser/graphql-constraint-directive) - Validate GraphQL fields.

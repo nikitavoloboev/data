@@ -136,6 +136,7 @@
 - [SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine.
 - [Raycaster Rust](https://github.com/markusmoenig/Raycaster) - Full featured raycaster engine to produce games similar to Wolfenstein 3D.
 - [Hickory](https://github.com/asivitz/Hickory) - Game engine for Haskell.
+- [ZyeWare](https://github.com/zyebytevt/zyeware) - Simple, general purpose 2D and 3D game engine, written in D.
 
 ## Physics engines
 

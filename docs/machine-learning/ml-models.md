@@ -143,3 +143,5 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Train and deploy a DreamBooth model on Replicate (2022)](https://replicate.com/blog/dreambooth-api) ([Code](https://github.com/replicate/dreambooth-action))
 - [Reference models and tools for Cloud TPUs](https://github.com/tensorflow/tpu)
 - [Energon AI](https://github.com/hpcaitech/EnergonAI) - Large-scale model inference.
+- [Web AI](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
+- [Web Transformers](https://github.com/praeclarum/web-transformers) - Transformer neural networks in the browser.

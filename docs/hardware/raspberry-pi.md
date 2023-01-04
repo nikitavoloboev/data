@@ -145,3 +145,4 @@ title: Raspberry Pi
 - [Raspberry Pi and Network Lab](https://github.com/hpreston/rpi-networklab)
 - [Raspberry Pi security alarm – the basics (2023)](https://blog.cavelab.dev/2022/12/rpi-security-alarm/) ([HN](https://news.ycombinator.com/item?id=34191749))
 - [Raspberry Pi RP2040 Second-Stage Bootloader](https://github.com/rp-rs/rp2040-boot2)
+- [Mycelia](https://github.com/organix/mycelia) - Bare-metal actor operating system for Raspberry Pi.

@@ -24,7 +24,7 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 
 [Solid Native](https://github.com/tjjfvi/solid-native) is exciting. [Modular Forms](https://github.com/fabian-hiller/modular-forms) is great for forms.
 
-[Nano Store Solid](https://github.com/nanostores/solid) is nice for state.
+[Nano Store Solid](https://github.com/nanostores/solid) is nice for state. [Solid Lib Starter](https://github.com/solidjs-community/solid-lib-starter) is great starter code.
 
 ## OSS apps
 
@@ -200,3 +200,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Using SolidJS Dev-Tools Locator Feature (2022)](https://dev.to/mbarzeev/using-solidjs-dev-tools-locator-feature-1445)
 - [Convert Your SolidJS Component To TypeScript (2022)](https://dev.to/mbarzeev/convert-your-solidjs-component-to-typescript-1opn)
 - [SolidJS Crash Course - Building a REST API Client (2023)](https://dev.to/codewithahsan/solidjs-crash-course-building-a-rest-api-client-part-1-57ee)
+- [Solid Query Dev Tools](https://github.com/ardeora/solid-query-devtools)

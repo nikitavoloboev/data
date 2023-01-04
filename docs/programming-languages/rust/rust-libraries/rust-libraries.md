@@ -230,6 +230,7 @@
 - [Frank JWT](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
 - [oauth1-request](https://github.com/tesaguri/oauth1-request-rs) - OAuth 1.0 client library for Rust.
 - [totp-rs](https://github.com/constantoine/totp-rs) - RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features.
+- [rs-ucan](https://github.com/ucan-wg/rs-ucan) - Rust implementation of UCAN.
 
 ## WASM
 
@@ -496,6 +497,7 @@
 - [rough-rs](https://github.com/orhanbalci/rough-rs) - Draw handy sketches from your rust applications.
 - [Contrast Renderer](https://github.com/Lichtso/contrast_renderer) - Web-gpu based 2D render engine written in Rust.
 - [turtle](https://github.com/sunjay/turtle) - Create Animated Drawings in Rust.
+- [Fidget](https://github.com/mkeeter/fidget) - Infrastructure for complex closed-form implicit surfaces.
 
 ## Games
 
@@ -692,6 +694,7 @@
 - [Multi-party ECDSA](https://github.com/ZenGo-X/multi-party-ecdsa) - Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
 - [Poseidon](https://github.com/penumbra-zone/poseidon377) - Instantiation of the Poseidon hash for use with decaf377.
 - [Miden Crypto](https://github.com/0xPolygonMiden/crypto) - Cryptographic primitives used in Polygon Miden.
+- [eciesrs](https://github.com/ecies/rs) - Elliptic Curve Integrated Encryption Scheme for secp256k1.
 
 ## Linux
 
@@ -980,6 +983,7 @@
 - [wedged](https://github.com/jsmith628/wedged) - Robust and generalized library for Geometric Algebra in Rust.
 - [matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
 - [watermill](https://github.com/online-ml/watermill.rs) - Fast, generic and serializable online statistics.
+- [Cycle](https://github.com/hrkz/cycle) - Modern and safe symbolic mathematics.
 
 ## CSS
 
@@ -2468,6 +2472,10 @@
 - [OkayWAL](https://github.com/khonsulabs/okaywal) - Write-ahead log (WAL) implementation for Rust.
 - [bitfield-rle](https://github.com/datrs/bitfield-rle) - Run-length-encoder that compresses bitfields.
 - [Pyo3 Bindings to Polars](https://github.com/pola-rs/pyo3-polars)
+- [alloc-track](https://github.com/Protryon/alloc-track) - Track memory allocations by backtrace or originating thread.
+- [sync_cow](https://github.com/w0xel/sync_cow) - Thread-safe clone-on-write container for fast concurrent writing and reading.
+- [trie-rs](https://github.com/laysakura/trie-rs) - Memory efficient trie (prefix tree) library based on LOUDS.
+- [quick-xml](https://github.com/tafia/quick-xml) - High performance xml pull reader/writer.
 
 ## Cargo Plugins
 

@@ -1076,3 +1076,6 @@
 - [Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera (2022)](https://arxiv.org/abs/2206.15258) ([Code](https://github.com/USTC3DV/NDR-code))
 - [GaitMixer: Skeleton-based Gait Representation Learning via Wide-spectrum Multi-axial Mixer (2022)](https://arxiv.org/abs/2210.15491) ([Code](https://github.com/exitudio/GaitMixer))
 - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models (2022)](https://arxiv.org/abs/2212.14704)
+- [OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models (2022)](https://arxiv.org/abs/2212.04408) ([Code](https://github.com/OFA-Sys/OFASys))
+- [Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations (2022)](https://arxiv.org/abs/2211.11427) ([Code](https://github.com/jpthu17/EMCL))
+- [Rethinking Resolution in the Context of Efficient Video Recognition (2022)](https://arxiv.org/abs/2209.12797) ([Code](https://github.com/CVMI-Lab/ResKD))

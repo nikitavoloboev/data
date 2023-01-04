@@ -1006,3 +1006,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust for Professionals](https://overexact.com/rust-for-professionals/) ([HN](https://news.ycombinator.com/item?id=34223557))
 - [A confusing lifetime error related to Rust's lifetime elision (2023)](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
 - [Zero-dependency random number generation in Rust (2023)](https://blog.orhun.dev/zero-deps-random-in-rust/) ([Lobsters](https://lobste.rs/s/9lfkmv/zero_dependency_random_number))
+- [Generics in Rust (2023)](https://serokell.io/blog/rust-generics)

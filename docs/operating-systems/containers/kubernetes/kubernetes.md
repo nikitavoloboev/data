@@ -490,7 +490,7 @@ title: Kubernetes
 - [Kubeconform](https://github.com/yannh/kubeconform) - Kubernetes manifests validation tool. Build it into your CI to validate your Kubernetes configuration.
 - [policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests.
 - [Descheduler for Kubernetes](https://github.com/kubernetes-sigs/descheduler)
-- [Kubernetes in Action Book (2021)](https://www.manning.com/books/kubernetes-in-action-second-edition)
+- [Kubernetes in Action Book (2021)](https://www.manning.com/books/kubernetes-in-action-second-edition) ([Code](https://github.com/luksa/kubernetes-in-action-2nd-edition))
 - [Autocert](https://github.com/smallstep/autocert) - Kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers.
 - [Step Issuer](https://github.com/smallstep/step-issuer) - Certificate issuer for cert-manager using step certificates CA.
 - [Service Discovery in Kubernetes - Combining the Best of Two Worlds (2021)](https://iximiuz.com/en/posts/service-discovery-in-kubernetes/)
@@ -897,3 +897,4 @@ title: Kubernetes
 - [Zeus](https://github.com/oslabs-beta/Zeus) - Visualize your Kubernetes clusters through a GUI and query cluster data through custom command lines in your terminal.
 - [From Monolith to K8s](https://github.com/salaboy/from-monolith-to-k8s) - Workshop-style guide for creating Cloud-Native applications running on top of Kubernetes.
 - [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
+- [Kiae](https://github.com/kiaedev/kiae) - Open-source cloud platform completely based on Kubernetes and Istio.

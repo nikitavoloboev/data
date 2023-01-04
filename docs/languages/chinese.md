@@ -10,3 +10,4 @@
 - [Learning Chinese Character style with conditional GAN](https://github.com/kaonashi-tyc/zi2zi)
 - [AutoCorrect](https://github.com/huacnlee/autocorrect) - Linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [Open Chinese Convert](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese.
+- [ChineseCLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.

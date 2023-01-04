@@ -420,3 +420,4 @@ title: Reinforcement learning
 - [PaLM + RLHF - PyTorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 - [Masking in Deep Reinforcement Learning (2022)](https://boring-guy.sh/posts/masking-rl/)
 - [Reinforcement Learning Policy Optimization: Deriving the Policy Gradient Update (2022)](https://fanpu.io/blog/2022/deriving-the-policy-gradient-update/)
+- [rlmolecule](https://github.com/NREL/rlmolecule) - Reinforcement learning library for material and molecule optimization.

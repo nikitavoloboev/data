@@ -82,3 +82,4 @@ title: Dependent types
 - [pistachio](https://github.com/femtomc/pistachio) - Small, nutty dependently typed language.
 - [Tutorial implementation on an elaborator of a dependently typed language with pruning](https://github.com/Guest0x0/pruning-tutor)
 - [Using dependent types to write proofs in Haskell (2021)](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
+- [Mini Yu](https://github.com/andreaslyn/mini-yu) - Dependently typed programming language prototype.

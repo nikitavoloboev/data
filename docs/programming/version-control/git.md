@@ -624,3 +624,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Commit](https://github.com/0xble/commit) - Generate commit messages using GPT3 based on your changes and commit history.
 - [gwipt](https://github.com/benwr/gwipt) - Automatically commit all edits to a WIP branch with GPT-3 commit messages.
 - [commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages.
+- [autocommit](https://github.com/abi/autocommit) - AI-Generated Git Commit Messages.

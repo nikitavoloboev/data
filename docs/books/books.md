@@ -625,3 +625,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Reverse engineering yet another eBook format (2022)](https://mijailovic.net/2022/12/25/hkpropel/) ([HN](https://news.ycombinator.com/item?id=34125958))
 - [Zlib Searcher](https://zlib.zu1k.com/) - Search the Z-Library Index for Books on the IPFS Network. ([HN](https://news.ycombinator.com/item?id=34176479)) ([Code](https://github.com/zlib-searcher/zlib-searcher))
 - [Your brain on books: themed readings lists for a 20-page-a-day habit in 2023](https://razib.substack.com/p/your-brain-on-books-themed-readings)
+- [Kindle to Notion](https://github.com/arkalim/kindle-to-notion) - Seamlessly transfer your Kindle highlights to Notion Database.
