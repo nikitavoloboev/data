@@ -11,3 +11,4 @@
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 - [msql-srv-rs](https://github.com/jonhoo/msql-srv) - Bindings for writing a server that can act as MySQL/MariaDB.
 - [Implementing the MySQL server protocol for fun and profit (2022)](https://ochagavia.nl/blog/implementing-the-mysql-server-protocol-for-fun-and-profit/) ([HN](https://news.ycombinator.com/item?id=34094471))
+- [Faster MySQL with HTTP/3 (2023)](https://planetscale.com/blog/faster-mysql-with-http3) ([HN](https://news.ycombinator.com/item?id=34247817))
