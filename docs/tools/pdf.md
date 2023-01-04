@@ -93,3 +93,4 @@
 - [PDF.js extract](https://github.com/ffalt/pdf.js-extract) - Extracts text from PDF files.
 - [Simple PDF Embed](https://github.com/bendersej/simplepdf-embed) - Add a powerful PDF editor directly into your website or React App.
 - [PDF to Image](https://github.com/k-yle/pdf-to-img) - Converts PDFs to images in Node with no native dependencies.
+- [SVG 2 PDF](https://github.com/typst/svg2pdf) - Converts SVG files to PDF.
