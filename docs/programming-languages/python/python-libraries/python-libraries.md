@@ -233,6 +233,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Inline SQL](https://github.com/ekzhang/inline-sql) - Inline SQL in any Python program.
 - [μSQLite](https://github.com/spatialdude/usqlite) - SQLite module for MicroPython.
 - [mincePy](https://github.com/muhrin/mincepy) - Object storage with versioning made simple.
+- [Graphene-SQLAlchemy](https://github.com/graphql-python/graphene-sqlalchemy) - SQLAlchemy integration for Graphene.
 
 ## WebSocket
 

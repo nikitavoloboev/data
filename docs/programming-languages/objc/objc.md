@@ -76,3 +76,4 @@
 - [objc](https://github.com/lukaskollmer/objc) - NodeJS Objective-C bridge.
 - [zig-objc](https://github.com/mitchellh/zig-objc) - Objective-C runtime bindings for Zig.
 - [iCDump](https://github.com/romainthomas/iCDump) - Modern Objective-C class dump based on LIEF and LLVM.
+- [SmallStrings](https://github.com/EmergeTools/SmallStrings) - Minification of localized strings.

@@ -46,3 +46,4 @@ title: Apollo GraphQL
 - [federation-rs](https://github.com/apollographql/federation-rs) - Responsible for all of the deno-powered TypeScript <--> Rust interop.
 - [Apollo Client Browser Devtools](https://github.com/apollographql/apollo-client-devtools)
 - [Apollo GraphQL x Next x Tailwind template](https://github.com/patrick91/apollo-next-js-template)
+- [Python Bindings for Apollo-RS](https://github.com/erikwrede/rustberry)

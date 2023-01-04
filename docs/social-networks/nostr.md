@@ -18,3 +18,4 @@ title: Nostr
 - [FROSTR](https://github.com/nickfarrow/frostr) - Use frost to sign nostr events with friends.
 - [Nostr Relay Registry](https://github.com/fiatjaf/nostr-relay-registry) - Dynamic registry of nostr relays.
 - [Nostr - Decentralized Social Media & Bitcoin w/ William Casarin (2023)](https://www.theinvestorspodcast.com/bitcoin-fundamentals/nostr-decentralized-social-media-william-casarin/)
+- [Nostrex](https://github.com/RiverFinancial/nostrex) - Nostr relay written in Elixir.

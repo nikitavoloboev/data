@@ -90,6 +90,8 @@
 - [haskell-chart](https://github.com/timbod7/haskell-chart) - 2D charting library.
 - [hylogen](https://github.com/sleexyz/hylogen) - GLSL embedded in Haskell.
 - [Dear ImGui.hs](https://github.com/haskell-game/dear-imgui.hs) - Haskell bindings to Dear ImGui, an immediate mode GUI toolkit.
+- [diagrams](https://github.com/diagrams/diagrams) - Embedded domain-specific language for declarative vector graphics.
+- [diagrams-input](https://github.com/diagrams/diagrams-input) - Functions to parse several input formats for diagrams.
 
 ## ML
 

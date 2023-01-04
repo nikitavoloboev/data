@@ -612,6 +612,7 @@
 - [ComputeUI](https://github.com/swift-cloud/ComputeUI) - Write SwiftUI / Tokamak apps on Fastly Compute@Edge.
 - [AnimateText](https://github.com/jasudev/AnimateText) - Library for animating text. Developed with SwiftUI.
 - [LightDarkMode ToggleStyle](https://github.com/pratikg29/LightDarkMode-ToggleStyle) - Custom style for SwiftUI toggle with nice animations.
+- [EasySkeleton](https://github.com/SpectralDragon/EasySkeleton) - Lightweight and fast skeleton library for SwiftUI.
 
 ## Test
 

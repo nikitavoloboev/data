@@ -89,3 +89,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [bevy_mod_js_scripting](https://github.com/jakobhellermann/bevy_mod_js_scripting) - Scripting integration crate for writing javascript/typescript scripts and running them in bevy with full access to the ECS values like components and resources.
 - [Bevy_adventure](https://github.com/hankjordan/bevy_adventure) - Framework for building adventure games in Bevy.
 - [Aseprite plugin for Bevy](https://github.com/lerouxrgd/bevy_mod_aseprite)
+- [bevy_iced](https://github.com/tasgon/bevy_iced) - Iced integration for Bevy.

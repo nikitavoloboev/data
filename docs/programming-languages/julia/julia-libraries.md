@@ -832,3 +832,4 @@
 - [InteractiveCodeSearch.jl](https://github.com/tkf/InteractiveCodeSearch.jl) - Interactively search Julia code from terminal.
 - [PkgGraphs.jl](https://github.com/tfiers/PkgGraphs.jl) - Visualize the dependency graph of a Julia package.
 - [Julia will cache precompiled binaries of packages v1.9](https://twitter.com/vchuravy/status/1607866217259479041)
+- [Tables.jl](https://github.com/JuliaData/Tables.jl) - Interface for tables in Julia.

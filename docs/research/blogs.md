@@ -282,6 +282,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Jamie Ryan](https://depatterning.substack.com/)
 - [Web Performance Calendar](https://calendar.perfplanet.com/)
 - [Orhun Parmaksız](https://blog.orhun.dev/)
+- [Tesla Zhang](https://ice1000.org/)
 
 ## Notes
 

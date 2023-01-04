@@ -1,8 +1,10 @@
 # Search engines
 
-[Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat together with their [tokenizer lib](https://github.com/meilisearch/charabia) they use. More practically [DocSearch](https://docsearch.algolia.com/) is great for plug and use solution. [Tantivy](https://github.com/quickwit-oss/tantivy), [Quickwit](https://quickwit.io/) & [Edgesearch](https://github.com/wilsonzlin/edgesearch) are interesting too.
+[Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat together with their [tokenizer lib](https://github.com/meilisearch/charabia) they use. More practically [DocSearch](https://docsearch.algolia.com/) or [Liqe](https://github.com/gajus/liqe) are great for plug and use solution.
 
-Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [classes.wtf](https://github.com/ekzhang/classes.wtf) is great implementation of fast search. [Fuse](https://github.com/krisk/Fuse) is interesting for fuzzy searches.
+[Tantivy](https://github.com/quickwit-oss/tantivy), [Quickwit](https://quickwit.io/) & [Edgesearch](https://github.com/wilsonzlin/edgesearch) are interesting too.
+
+Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/liqe) for doing browser side searches. [classes.wtf](https://github.com/ekzhang/classes.wtf) is great implementation of fast search. [Fuse](https://github.com/krisk/Fuse) is interesting for fuzzy searches.
 
 [Spyglass](https://github.com/a5huynh/spyglass) is nice too for crawling & indexing various web services.
 
