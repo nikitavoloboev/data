@@ -12,7 +12,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 [mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON. [FreeCache](https://github.com/coocood/freecache) is nice caching lib.
 
-Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) is great for concurrency tasks.
+Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) is great for concurrency tasks. [script](https://github.com/bitfield/script) is nice for running shell commands.
 
 ## CLI
 

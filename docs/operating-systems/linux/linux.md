@@ -6,6 +6,8 @@ title: Linux
 
 [The Linux Programming Interface](https://man7.org/tlpi/) book seems nice so as the many resources [found here](https://twitter.com/bradfitz/status/1495066999587627011). [Cobbler](https://github.com/cobbler/cobbler) & [NixOS](nixos.md) seem nice.
 
+[blink](https://github.com/jart/blink) is nice Linux emulator.
+
 ## Distributions
 
 - [Alpine Linux](https://www.alpinelinux.org/) - Security-oriented, lightweight Linux distribution based on musl libc and busybox. ([GitHub](https://github.com/alpinelinux))

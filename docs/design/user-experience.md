@@ -4,7 +4,7 @@
 
 Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969). [This](https://maggieappleton.com/command-bar) is nice overview of well designed search palettes. And [CMD+K](https://github.com/pacocoursey/cmdk) is nice library for making them.
 
-:f
+[ui.land](https://ui.land/) has nice design tips.
 
 ## Notes
 

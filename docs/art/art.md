@@ -578,3 +578,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Melobytes](https://melobytes.com/en/) - AI in the service of art.
 - [Art Prints by Titsay](https://www.inprnt.com/gallery/titsay/)
 - [INPRNT](https://www.inprnt.com/) - Gallery Quality Art Prints.
+- [Moiré no more (2021)](https://newsletter.shifthappens.site/archive/moire-no-more/)

@@ -171,4 +171,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [Build guides for different keyboards](https://github.com/keyhive/build_guides)
 - [cybertype](https://cybertype.app/) - Fast & Minimal Typing App. ([Code](https://github.com/MananTank/cybertype))
 - [Keyboard layout evaluation](https://github.com/bclnr/kb-layout-evaluation)
-- [Shift Happens](https://shifthappens.site/) - Book about keyboards.
+- [Shift Happens](https://shifthappens.site/) - Book about keyboards. ([Newsletter](https://newsletter.shifthappens.site/))

@@ -68,3 +68,4 @@ title: Cypress
 - [Cypress plugin API](https://github.com/filiphric/cypress-plugin-api) - Show your API information in the Cypress UI runner.
 - [cy-api](https://github.com/bahmutov/cy-api) - Cypress custom command "cy.api" for end-to-end API testing.
 - [cypress-lit](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in cypress with all the modern browsers.
+- [Cypress Plugins Course](https://cypress.tips/courses/cypress-plugins)
