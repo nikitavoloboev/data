@@ -228,3 +228,5 @@
 - [AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.
 - [KiloGram Tangrams dataset](https://github.com/lil-lab/kilogram)
 - [MNIST-1D dataset](https://github.com/greydanus/mnist1d) - 1D analogue of the MNIST dataset for measuring spatial biases and answering "science of deep learning" questions.
+- [ExtendsClass.com](https://extendsclass.com/csv-generator.html) - Test data generator. ([Code](https://github.com/cyrilbois/Web-CSV-Generator))
+
