@@ -301,4 +301,4 @@ do shell script "command here" with administrator privileges
 - [Use AppleScript in a Shell Script](https://johnlindquist.com/use-applescript-in-a-shell-script/)
 - [AppleScript (2006)](https://www.cs.utexas.edu/~wcook/Drafts/2006/ashopl.pdf) ([HN](https://news.ycombinator.com/item?id=30538766))
 - [node-applescript](https://github.com/TooTallNate/node-applescript) - High-level way to execute AppleScript code through Node.js.
-- [Inline AppleScript Documentation (2023)](https://indiestack.com/2023/01/inline-applescript-documentation/)
+- [Inline AppleScript Documentation (2023)](https://indiestack.com/2023/01/inline-applescript-documentation/) ([HN](https://news.ycombinator.com/item?id=34239421))

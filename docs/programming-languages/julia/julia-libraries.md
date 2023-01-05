@@ -135,6 +135,7 @@
 - [DiffEqParamEstim.jl](https://github.com/SciML/DiffEqParamEstim.jl) - Easy scientific machine learning (SciML) parameter estimation with pre-built loss functions.
 - [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
 - [ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid.
+- [MetaLearning](https://github.com/domluna/MetaLearning) - Learning to learn fast using Flux.jl.
 
 ## Math
 

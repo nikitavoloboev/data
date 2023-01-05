@@ -72,3 +72,5 @@ title: PureScript
 - [PureScript Survey (2022)](https://github.com/purescript/survey)
 - [Payload](https://github.com/hoodunit/purescript-payload) - HTTP server and client library for PureScript.
 - [PureScript Heterogeneous](https://github.com/natefaubion/purescript-heterogeneous) - Maps and folds for heterogeneous data types.
+- [PureScript React Basic Hooks](https://github.com/megamaddu/purescript-react-basic-hooks)
+- [PureScript WebGPU](https://github.com/mikesol/purescript-webgpu)

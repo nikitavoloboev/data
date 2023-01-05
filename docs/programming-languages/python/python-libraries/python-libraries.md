@@ -1106,6 +1106,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [HiPart](https://github.com/panagiotisanagnostou/HiPart) - Hierarchical divisive clustering algorithm execution, visualization and Interactive visualization.
 - [audio-offset-finder](https://github.com/bbc/audio-offset-finder) - Find the offset of an audio file within another audio file.
 - [fastplotlib](https://github.com/kushalkolar/fastplotlib) - Fast plotting library built using the pygfx render engine utilizing Vulkan via WGPU.
+- [Jobflow](https://github.com/materialsproject/jobflow) - Library for writing computational workflows.
 
 ## Notes
 
@@ -1314,3 +1315,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Classifying Python virtual environment workflows (2023)](https://snarky.ca/classifying-python-virtual-environment-workflows/) ([Lobsters](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment))
 - [Binary wheels for PyPy](https://github.com/antocuni/pypy-wheels) - PyPy binary wheels for some popular packages.
 - [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/) ([Code](https://github.com/pypackaging-native/pypackaging-native)) ([HN](https://news.ycombinator.com/item?id=34236919))
+- [autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically adds types and inserts the right annotations.

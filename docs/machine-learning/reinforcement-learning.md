@@ -4,7 +4,9 @@ title: Reinforcement learning
 
 # [Reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning)
 
-[Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl), [Ray](https://github.com/ray-project/ray) & [DIAMBRA Arena](https://github.com/diambra/arena) seem nice. [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class) is great intro.
+[Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl), [Ray](https://github.com/ray-project/ray) & [DIAMBRA Arena](https://github.com/diambra/arena) seem nice.
+
+[Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class) & [Succinct Summary of Reinforcement Learning](https://arxiv.org/abs/2301.01379) are great intros.
 
 [Reinforcement Learning with Neural Radiance Fields](https://dannydriess.github.io/nerf-rl/) is fascinating.
 
@@ -422,3 +424,4 @@ title: Reinforcement learning
 - [Reinforcement Learning Policy Optimization: Deriving the Policy Gradient Update (2022)](https://fanpu.io/blog/2022/deriving-the-policy-gradient-update/)
 - [rlmolecule](https://github.com/NREL/rlmolecule) - Reinforcement learning library for material and molecule optimization.
 - [Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
+- [A Succinct Summary of Reinforcement Learning (2023)](https://arxiv.org/abs/2301.01379)

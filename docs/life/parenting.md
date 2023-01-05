@@ -107,3 +107,4 @@ Not parent yet but did like this [advice on fatherhood](https://twitter.com/simo
 - [Advice on fatherhood](https://twitter.com/simonsarris/status/1604300716700585985)
 - [Why is it so hard to get kids to eat healthy food?](https://www.reddit.com/r/nutrition/comments/zporvn/why_is_it_so_hard_to_get_kids_to_eat_healthy_food/)
 - [What happens when babies are left to cry it out? (2022)](https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies) ([HN](https://news.ycombinator.com/item?id=34173006))
+- [Kids and music lessons: why do many promising players quit early? (2023)](https://thewalrus.ca/why-do-kids-hate-music-lessons/) ([HN](https://news.ycombinator.com/item?id=34250707))

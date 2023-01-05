@@ -218,3 +218,4 @@
 - [iro.js](https://iro.js.org/) - Modular, design-conscious color picker widget for JavaScript. ([Code](https://github.com/jaames/iro.js))
 - [Brute Force Colors (2022)](https://arnaud-carre.github.io/2022-12-30-amiga-ham/) ([HN](https://news.ycombinator.com/item?id=34200249))
 - [React Gradient Color Picker](https://github.com/hxf31891/react-gradient-color-picker)
+- [Pylette](https://github.com/qTipTip/Pylette) - Python library for extracting color palettes from supplied images.

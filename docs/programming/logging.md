@@ -58,7 +58,7 @@
 - [Do Not Log (2020)](https://sobolevn.me/2020/03/do-not-log) ([HN](https://news.ycombinator.com/item?id=29810389))
 - [Logging is a code smell (2022)](https://dave.autonoma.ca/blog/2022/01/08/logging-code-smell/) ([HN](https://news.ycombinator.com/item?id=29869000)) ([Lobsters](https://lobste.rs/s/lucopv/logging_is_code_smell))
 - [The Cost of Logging in 2022](https://www.nearform.com/blog/the-cost-of-logging-in-2022/)
-- [LNAV](https://github.com/tstack/lnav) - Log file navigator.
+- [LNAV](https://github.com/tstack/lnav) - Advanced log file viewer for the small-scale. ([Web](https://lnav.org/))
 - [Tango](https://github.com/roma-glushko/tango) - Tool to get insights from the server access logs.
 - [Logging at Twitter (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated) ([HN](https://news.ycombinator.com/item?id=30393683))
 - [Metrics For Your Web Application's Dashboards (2022)](https://sirupsen.com/metrics)

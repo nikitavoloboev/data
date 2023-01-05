@@ -20,6 +20,8 @@ I also hope non violent speech will never be silenced in Russia as it's [crucial
 
 All of this is just my opinion and I genuinely don't know a lot. The west has many issues too and lies a lot with their sophisticated propaganda machines for crafting out new 'current thing' narratives. So I just try to live my life and build great tools that hopefully accelerate the [future](../../future/future.md) where all countries are free from oppression.
 
+I also hope the discourse around conflicting topics like the above get [healthier and not purely based on emotions](https://lithuaniatribune.com/our-russian-psychological-complexes/). This is only way I see most everyone improve and minimize our chances of future mess ups.
+
 I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often. Like [Meduza](https://meduza.io/) publication too.
 
 ## Notes
@@ -642,3 +644,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Как мы искали Европу, а нашли войну: фашистский шабаш, нерв русской культуры и Донбасс 8 лет назад (2022)](https://www.youtube.com/watch?v=GbIrByTHZVU)
 - [What are taxes like in Russia? (2022)](https://www.reddit.com/r/AskARussian/comments/1004glx/what_are_taxes_like_in_russia/)
 - [Книжный чел - YouTube](https://www.youtube.com/@BookChel/videos)
+- [Our “Russian” psychological complexes (2023)](https://lithuaniatribune.com/our-russian-psychological-complexes/)

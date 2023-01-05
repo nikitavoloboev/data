@@ -509,3 +509,5 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Competitive programming in Haskell: better binary search (2023)](https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/) ([HN](https://news.ycombinator.com/item?id=34204642))
 - [Lysxia - From delimited continuations to algebraic effects in Haskell (2023)](https://blog.poisson.chat/posts/2023-01-02-del-cont-examples.html)
 - [Abusing Constraints for Automatic Documentation (2023)](https://reasonablypolymorphic.com/blog/abusing-constraints/)
+- [Parallel streaming in Haskell: Part 1 - Fast efficient fun (2023)](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
+- [Haskell FFI Tutorial](https://github.com/ifesdjeen/haskell-ffi-tutorial)

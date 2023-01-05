@@ -248,3 +248,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Most impactful book read this year (2022)](https://www.reddit.com/r/fatFIRE/comments/zp4g1f/most_impactful_book_read_this_year/)
 - [The infrastructure behind ATMs (2023)](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/) ([HN](https://news.ycombinator.com/item?id=34221157))
 - [ISO 8583 - Wikipedia](https://en.wikipedia.org/wiki/ISO_8583)
+- [Order matching engine (orderbook) written in Rust](https://github.com/dgtony/orderbook-rs)
+- [matching_engine](https://github.com/fmstephe/matching_engine) - Simple financial trading matching engine. Built to learn more about how they work.

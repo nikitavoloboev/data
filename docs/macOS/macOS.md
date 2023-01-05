@@ -315,3 +315,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Cilicon](https://github.com/traderepublic/Cilicon) - Self-Hosted macOS CI on Apple Silicon.
 - [Awesome macOS Command Line](https://git.herrbischoff.com/awesome-macos-command-line/about/) ([HN](https://news.ycombinator.com/item?id=33896513))
 - [ProcInfo](https://github.com/objective-see/ProcInfo) - Process info/monitoring library for macOS.
+- [How do you know when macOS detects and remediates malware? (2023)](https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/) ([HN](https://news.ycombinator.com/item?id=34249018))

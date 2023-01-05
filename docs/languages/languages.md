@@ -95,3 +95,4 @@
 - [Translate Shell](https://github.com/soimort/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [strans](https://github.com/sheepla/strans) - Command line SimplyTranslate client inspired by translate-shell.
 - [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings.
+- [Lingua Python](https://github.com/pemistahl/lingua-py) - Most accurate natural language detection library for Python, suitable for long and short text alike.

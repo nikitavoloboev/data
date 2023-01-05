@@ -180,3 +180,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [DidYouMean](https://github.com/hisbaan/didyoumean) - CLI spelling corrector for when you're unsure.
 - [fre](https://github.com/camdencheek/fre) - Command line frecency tracking.
 - [rsms-utils](https://github.com/rsms/rsms-utils) - Collection of CLI programs to help with everyday computer life. ([HN](https://news.ycombinator.com/item?id=34242275))
+- [shelltestrunner](https://github.com/simonmichael/shelltestrunner) - Easy, repeatable testing of CLI programs/commands.

@@ -229,3 +229,4 @@
 - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
 - [Minimal GIF decoder in LISP (2022)](http://www.lispology.com/show?47N8)
 - [What Are the True Innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp) ([HN](https://news.ycombinator.com/item?id=34199138))
+- [Reflecting on Transducers (2023)](https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/)

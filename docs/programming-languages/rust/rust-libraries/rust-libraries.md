@@ -263,6 +263,7 @@
 - [edom](https://github.com/adamritter/edom) - Immediate mode web frontend library written in Rust.
 - [spidermonkey-wasm-rs](https://github.com/bytecodealliance/spidermonkey-wasm-rs) - Rust bindings and generic builtins for SpiderMonkey for the wasm32-wasi target.
 - [cargo wasi](https://github.com/bytecodealliance/cargo-wasi) - Lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target.
+- [wasm-sockets](https://github.com/scratchyone/wasm-sockets) - Rust WASM-specific WebSocket library.
 
 ## GUI
 
@@ -500,6 +501,7 @@
 - [Contrast Renderer](https://github.com/Lichtso/contrast_renderer) - Web-gpu based 2D render engine written in Rust.
 - [turtle](https://github.com/sunjay/turtle) - Create Animated Drawings in Rust.
 - [Fidget](https://github.com/mkeeter/fidget) - Infrastructure for complex closed-form implicit surfaces.
+- [CoGrRs](https://github.com/jasperdewinther/CoGrRs) - Easy-to-use but performant library for writing renderers using compute shaders in rust.
 
 ## Games
 
@@ -573,7 +575,7 @@
 - [test-strategy](https://github.com/frozenlib/test-strategy) - Procedural macro to easily write higher-order strategies in proptest.
 - [unimock](https://github.com/audunhalland/unimock) - Library for defining mock implementations of traits.
 - [mock-it](https://github.com/nathanielsimard/mock-it) - Aims to make mocking reliable.
-- [Turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests.
+- [Turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests. ([Announcement](https://tokio.rs/blog/2023-01-03-announcing-turmoil))
 - [testdata-rs](https://github.com/qnighy/testdata-rs) - Macros and helper functions for file-based testing.
 - [partial-io](https://github.com/sunshowers-code/partial-io) - Rust library that provides helpers for testing resilience of I/O operations.
 - [stubr](https://github.com/beltram/stubr) - Rust implementation of Wiremock.
@@ -849,6 +851,7 @@
 - [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development.
 - [coreaudio-rs](https://github.com/RustAudio/coreaudio-rs) - Friendly rust interface to Apple's Core Audio API.
 - [Applevisor](https://github.com/Impalabs/applevisor) - Rust bindings for the Apple Silicon Hypervisor.framework.
+- [darwin-libproc](https://github.com/heim-rs/darwin-libproc) - Rust FFI bindings for macOS libproc.
 
 ## Macros
 
@@ -2478,6 +2481,8 @@
 - [sync_cow](https://github.com/w0xel/sync_cow) - Thread-safe clone-on-write container for fast concurrent writing and reading.
 - [trie-rs](https://github.com/laysakura/trie-rs) - Memory efficient trie (prefix tree) library based on LOUDS.
 - [quick-xml](https://github.com/tafia/quick-xml) - High performance xml pull reader/writer.
+- [rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys) - FFmpeg bindings for Rust.
+- [rust-s2](https://github.com/yjh0502/rust-s2) - Rust port of Google S2 geometry library.
 
 ## Cargo Plugins
 
@@ -2787,3 +2792,4 @@
 - [How (and why) nextest uses tokio (2022)](https://sunshowers.io/posts/nextest-and-tokio/)
 - [Minimal Rust](https://github.com/xvxx/minimal-rust) - List of (mostly) zero dependency libraries for Rust.
 - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
+- [Easy-Release](https://github.com/jkelleyrtp/cargo-easy-release) - GUI tool written in Dioxus to make it easy to release a workspace of crates to crates.io.

@@ -145,3 +145,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Energon AI](https://github.com/hpcaitech/EnergonAI) - Large-scale model inference.
 - [Web AI](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [Web Transformers](https://github.com/praeclarum/web-transformers) - Transformer neural networks in the browser.
+- [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)

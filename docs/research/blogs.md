@@ -283,6 +283,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Web Performance Calendar](https://calendar.perfplanet.com/)
 - [Orhun Parmaksız](https://blog.orhun.dev/)
 - [Tesla Zhang](https://ice1000.org/)
+- [Jeremy Steward](https://www.thatgeoguy.ca/blog/)
+- [Frank Denis](https://00f.net/)
+- [Simon Boehm](https://siboehm.com/)
 
 ## Notes
 

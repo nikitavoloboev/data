@@ -36,3 +36,4 @@
 - [Culog](https://github.com/eashanhatti/culog) - Declarative metalanguage.
 - [MiniKanrenT](https://github.com/jvranish/MiniKanrenT) - Implementation of miniKanren in Haskell.
 - [Experiments with the Verse Calculus in miniKanren](https://github.com/webyrd/wreckto-verseo)
+- [VAEL: Bridging Variational Autoencoders and Probabilistic Logic Programming (2022)](https://arxiv.org/abs/2202.04178) ([Code](https://github.com/EleMisi/VAEL))

@@ -185,3 +185,4 @@
 - [libbloom](https://github.com/jvirkki/libbloom) - Simple and small bloom filter implementation in plain C.
 - [OpenSlide](https://github.com/openslide/openslide) - C library for reading virtual slide images.
 - [C23 implications for C libraries (2022)](https://gustedt.gitlabpages.inria.fr/c23-library/)
+- [Linked Ring Buffer Library](https://github.com/fefa4ka/linked_ring)

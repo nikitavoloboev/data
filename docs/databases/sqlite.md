@@ -289,4 +289,4 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [Storing files in SQLite (2021)](https://misfra.me/2021/storing-files-in-sqlite/)
 - [Benchmarking SQLite Performance in Go (2022)](https://www.golang.dk/articles/benchmarking-sqlite-performance-in-go)
 - [SQLite 2022 Recap](https://sqlite.org/forum/forumpost/df285a4182688791) ([HN](https://news.ycombinator.com/item?id=34208905))
-- [WAL Mode in LiteFS (2023)](https://fly.io/blog/wal-mode-in-litefs/)
+- [WAL Mode in LiteFS (2023)](https://fly.io/blog/wal-mode-in-litefs/) ([HN](https://news.ycombinator.com/item?id=34247738))

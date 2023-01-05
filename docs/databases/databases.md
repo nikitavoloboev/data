@@ -753,3 +753,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Understanding N + 1 queries problem (2023)](https://ananthakumaran.in/2023/01/01/solving_n_plus_1_queries_on_rails.html) ([HN](https://news.ycombinator.com/item?id=34207974))
 - [Personal blog about my PostgreSQL daily learnings](https://mydbanotebook.org/post/)
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - View and monitor the performance of your MySQL, MongoDB, PostgreSQL, and MariaDB databases.
+- [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - Pick the best database primary key. ([Code](https://github.com/adileo/awesome-identifiers))

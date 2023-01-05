@@ -258,3 +258,4 @@ title: OCaml libraries
 - [ppx_expjs: generate transparent JavaScript from your OCaml (2022)](https://blog.skolem.com/ppx_expjs-generate-transparent-javascript-from-your-ocaml/)
 - [Love Rust? Then OCaml's New Eio Library is for You (2022)](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 - [ocamlrep](https://github.com/facebook/ocamlrep) - Interop Ocaml and Rust code.
+- [LinOCaml](https://github.com/keigoi/linocaml) - Lightweight, monad-based linear types in OCaml, with a few syntax extensions.

@@ -127,3 +127,4 @@ title: Vite
 - [Vite Plugin Squoosh](https://github.com/bituq/vite-plugin-squoosh) - Image compression plugin for Vite, using squoosh.
 - [Vite Fonts plugin](https://github.com/stafyniaksacha/vite-plugin-fonts) - Web font loader for Vite.
 - [Vite Plugin Deno Resolve](https://github.com/itsdouges/vite_plugin_deno_resolve)
+- [Vite Plugin Mock Dev Server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server)

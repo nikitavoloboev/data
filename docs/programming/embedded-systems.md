@@ -239,3 +239,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [Project template for rp2040-hal](https://github.com/rp-rs/rp2040-project-template)
 - [Jaguar](https://github.com/toitlang/jaguar) - Use live reloading over WiFI to turbo-charge developing for your ESP32.
 - [ESP-BOX AIoT Development Framework](https://github.com/espressif/esp-box)
+- [ESP uploader](https://github.com/srg74/ESP-uploader) - ESP uploader board for programming Espressif ESP series microcontrollers.

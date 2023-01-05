@@ -415,3 +415,4 @@ title: WebAssembly
 - [Deis Labs](https://deislabs.io/) - Simplifying and empowering container-native development. ([GitHub](https://github.com/deislabs)) ([Twitter](https://twitter.com/deislabs))
 - [wasm-snip](https://github.com/rustwasm/wasm-snip) - Replaces a WebAssembly function's body with an `unreachable`.
 - [WASM Shared Memory](https://github.com/tristanpemble/wasm-shared-memory) - How to share memory between WASM module instantiations with Rust and Wasmtime.
+- [Performance of WebAssembly runtimes in 2023](https://00f.net/2023/01/04/webassembly-benchmark-2023/)

@@ -478,3 +478,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories.
 - [Contracts in Nix](https://github.com/yvan-sraka/contracts)
 - [Nix flake development environment example](https://github.com/nix-dot-dev/nix-flake-example)
+- [nixpkgs-match](https://github.com/srid/nixpkgs-match) - Update your nixpkgs flake input to the same rev as that of the given flake.

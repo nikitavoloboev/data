@@ -46,6 +46,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [onetyped](https://github.com/sachinraja/onetyped) - Universal way to describe data.
 - [ts-sql-query](https://github.com/juanluispaz/ts-sql-query) - Type-safe query builder that provides a way to build dynamic SQL queries in a type-safe way.
 - [pgzod](https://github.com/owncoral/pgzod) - Transform PostgreSQL schemas into Zod validators and types.
+- [Pinecone.io Client](https://github.com/rileytomasek/pinecone-client) - Fetch based client for the Pinecone.io vector database with excellent TypeScript support.
 
 ## Web
 

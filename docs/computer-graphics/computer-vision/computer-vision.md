@@ -1079,3 +1079,6 @@
 - [OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models (2022)](https://arxiv.org/abs/2212.04408) ([Code](https://github.com/OFA-Sys/OFASys))
 - [Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations (2022)](https://arxiv.org/abs/2211.11427) ([Code](https://github.com/jpthu17/EMCL))
 - [Rethinking Resolution in the Context of Efficient Video Recognition (2022)](https://arxiv.org/abs/2209.12797) ([Code](https://github.com/CVMI-Lab/ResKD))
+- [OpenCV Mobile](https://github.com/nihui/opencv-mobile)
+- [SINE: SINgle Image Editing with Text-to-Image Diffusion Models (2022)](https://arxiv.org/abs/2212.04489) ([Code](https://github.com/zhang-zx/SINE))
+- [PETR: Position Embedding Transformation for Multi-View 3D Object Detection (2022)](https://github.com/megvii-research/PETR)

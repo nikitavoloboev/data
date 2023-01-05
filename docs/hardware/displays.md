@@ -28,3 +28,4 @@
 - [Ask HN: Is there a TV on the market without “Smart TV” features? (2022)](https://news.ycombinator.com/item?id=31706835)
 - [Ask HN: How on earth are you using your Apple computer with external displays? (2022)](https://news.ycombinator.com/item?id=31886907)
 - [Ask HN: Can you recommend an “instant-switch” Monitor? Does one exist? (2022)](https://news.ycombinator.com/item?id=34048573)
+- [Samsung bets on MicroLED and 8K for its premium 2023 TVs](https://www.engadget.com/samsungs-bets-on-micro-led-and-8-k-for-its-premium-2023-t-vs-030033433.html) ([HN](https://news.ycombinator.com/item?id=34245350))

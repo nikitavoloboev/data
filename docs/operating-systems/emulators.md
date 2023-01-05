@@ -82,3 +82,4 @@
 - [Potatis](https://github.com/henrikpersson/potatis) - MOS-6502 and NES emulator in Rust.
 - [RosettaBoy](https://github.com/shish/rosettaboy) - Gameboy emulator in several different languages.
 - [NES emulator in <5000 bytes of C++](https://github.com/binji/smolnes)
+- [Emulating an emulator inside itself. Meet Blink (2023)](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink) ([HN](https://news.ycombinator.com/item?id=34250352))

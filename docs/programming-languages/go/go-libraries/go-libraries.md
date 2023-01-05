@@ -391,6 +391,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [getty](https://github.com/AlexStocks/getty) - Netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd.
 - [go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
 - [Gain](https://github.com/pawelgaczynski/gain) - High-performance io_uring networking framework written entirely in Go.
+- [Pushup](https://github.com/adhocteam/pushup) - Page-oriented web framework for Go. ([Web](https://pushup.adhoc.dev/)) ([HN](https://news.ycombinator.com/item?id=34246960)) ([Lobsters](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go))
 
 ## GraphQL
 
@@ -640,6 +641,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [WASM-Fetch](https://github.com/marwan-at-work/wasm-fetch) - Web Assembly fetch wrapper that avoids importing net/http.
 - [wasmexec](https://github.com/prep/wasmexec) - Runtime-agnostic implementation of Go's wasm_exec.js in Go.
 - [Waggy](https://github.com/syke99/waggy) - Dead simple, easy-to-use library for writing WAGI (Web Assembly Gateway Interface) API handlers in Go.
+- [tinyjson](https://github.com/CosmWasm/tinyjson) - Fast and easy way to marshal/unmarshal Go structs to/from JSON to use with TinyGo.
 
 ## GUI
 

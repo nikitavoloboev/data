@@ -353,6 +353,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [react-ch](https://github.com/alloc/react-ch) - Event channels for React.
 - [TypeScript Form](https://github.com/iway1/react-ts-form) - Build maintainable, typesafe forms faster. ([Tweet](https://twitter.com/isaac_ts_way/status/1609657677033922560))
 - [EmojiMart](https://github.com/missive/emoji-mart) - Customizable emoji picker HTML component for the web.
+- [Flat UI](https://github.com/githubocto/flat-ui) - React component that will render your flat dataset (an array of objects) in a table view.
 
 ## Links
 
