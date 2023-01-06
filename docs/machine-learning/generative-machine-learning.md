@@ -292,3 +292,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [PromptToImage](https://github.com/TheMurusTeam/PromptToImage) - Stable Diffusion app for macOS based on CoreML models.
 - [Stable Diffusion Deploy](https://github.com/Lightning-AI/stable-diffusion-deploy) - Learn to serve Stable Diffusion models on cloud infrastructure at scale.
 - [Muse: Text-To-Image Generation via Masked Generative Transformers (2023)](https://arxiv.org/abs/2301.00704) ([Web](https://muse-model.github.io/)) ([Tweet](https://twitter.com/AlphaSignalAI/status/1610404589966180360))
+- [How the physics of diffusion inspired modern AI art (2023)](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)

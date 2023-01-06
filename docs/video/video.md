@@ -470,3 +470,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Vista](https://github.com/zernonia/vista) - Add animated subtitle to your video automatically. ([Web](https://www.vistaeditor.com/))
 - [ffplayout](https://github.com/ffplayout/ffplayout) - Rust and ffmpeg based playout.
 - [Semantic search for video](http://semanticvideosearch.com/) ([HN](https://news.ycombinator.com/item?id=34244511))
+- [Yark](https://github.com/Owez/yark) - YouTube archiving made simple. ([HN](https://news.ycombinator.com/item?id=34264487))

@@ -54,3 +54,4 @@
 - [Fractal Networks](https://fractalnetworks.co/) - Bringing self-hosting to the mainstream. ([GitHub](https://github.com/fractalnetworksco)) ([Self-hosted Gateway](https://github.com/fractalnetworksco/selfhosted-gateway))
 - [Ask HN: Host a website from a living room in 2022?](https://news.ycombinator.com/item?id=34065234)
 - [Most used selfhosted services in 2022?](https://www.reddit.com/r/selfhosted/comments/zwcns3/most_used_selfhosted_services_in_2022/)
+- [Ask HN: What's on your home server? (2023)](https://news.ycombinator.com/item?id=34271167)

@@ -278,3 +278,6 @@
 - [Control-flow integrity (2022)](https://maskray.me/blog/2022-12-18-control-flow-integrity) ([Lobsters](https://lobste.rs/s/tkaei3/control_flow_integrity))
 - [Utah Compilers Course (2023)](https://github.com/utah-cs4470-sp23/class)
 - [Rust BF interpreters](https://github.com/ltratt/rustbfs)
+- [Favorite compiler and interpreter resources (2023)](https://lists.eatonphil.com/compilers-and-interpreters.html)
+- [xDSL](https://github.com/xdslproject/xdsl) - Compiler toolkit natively developed in Python.
+- [Devito](https://github.com/devitocodes/devito) - Code generation framework for automated finite difference computation.

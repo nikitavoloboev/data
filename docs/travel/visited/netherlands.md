@@ -62,3 +62,4 @@ Loved visiting [Maastricht](https://nl.wikipedia.org/wiki/Maastricht). It was un
 - [Sirius Smart Shop](https://www.sirius.nl/en/)
 - [Louwman Museum](https://www.louwmanmuseum.nl/)
 - [Dutch FIRE Reddit](https://www.reddit.com/r/DutchFIRE/)
+- [Amsterdam coffee shops with cozy interior](https://www.reddit.com/r/AmsterdamEnts/comments/1037hj2/coffeeshops_with_beautiful_and_cozy_interior/)

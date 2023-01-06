@@ -487,3 +487,7 @@ if (
 - [Proposal for new Set methods in JS](https://github.com/tc39/proposal-set-methods)
 - [A Simple Explanation of JavaScript Closures (2022)](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
 - [Lesser-known JavaScript APIs (2022)](https://www.smashingmagazine.com/2022/09/javascript-api-guide/) ([HN](https://news.ycombinator.com/item?id=33965677))
+- [Best JavaScript nano benchmarking tool](https://github.com/hyoo-ru/perf.js.hyoo.ru)
+- [Big Benchmark of JS State Managers](https://twitter.com/_jin_nin_/status/1597244271232692225)
+- [Reactive Computed Bench](https://github.com/artalar/reactive-computed-bench) - Benchmark measured computation of complex computed reactive unit when it deep children change.
+- [grasp](https://github.com/gkz/grasp) - JavaScript structural search, replace, and refactor.

@@ -120,3 +120,5 @@ title: Web Components
 - [Web Component Libraries](https://webcomponents.today/component-libraries/)
 - [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page, and search the catalog for extra information.
 - [Web Components bookmarks](https://webcomponents.today/) ([Code](https://github.com/web-padawan/webcomponents.today))
+- [ESLint rules for Web Components](https://github.com/43081j/eslint-plugin-wc)
+- [Web Components Guide](https://webcomponents.guide/) ([Code](https://github.com/WebComponentsGuide/webcomponents.guide))

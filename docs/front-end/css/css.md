@@ -600,3 +600,6 @@ all: unset
 - [CSS challenge: skewed highlight (2022)](https://pepelsbey.dev/articles/skewed-highlight/)
 - [checkcss](https://github.com/broofa/checkcss) - Detect DOM elements that reference undefined CSS classes.
 - [5 under-utilized CSS rules](https://twitter.com/danqing_liu/status/1610658899501383680)
+- [The Future of CSS: Cascade Layers (CSS @layer) (2021)](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/)
+- [CSS Architecture (2022)](https://www.bram.us/2022/12/02/css-architecture-2022-12-01-web-directions-summit/)
+- [Keeping Your CSS Small: scopes, containers, and other new stuff (2022)](https://www.youtube.com/watch?v=bz0sMsCiU1c)

@@ -104,3 +104,4 @@
 - [Incorporating AutoVocoder to MB-iSTFT-VITS](https://github.com/hcy71o/MB-iSTFT-VITS-with-AutoVocoder)
 - [Automatic Prosody Annotation with Pre-Trained Text-Speech Model](https://github.com/Daisyqk/Automatic-Prosody-Annotation)
 - [Ask HN: Are there any good open source text-to-speech tools? (2023)](https://news.ycombinator.com/item?id=34211457)
+- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (2023)](https://arxiv.org/abs/2301.02111) ([Web](https://valle-demo.github.io/)) ([HN](https://news.ycombinator.com/item?id=34270311))

@@ -95,3 +95,4 @@
 - [Tesla Full Self-Driving data looks awful (2022)](https://news.ycombinator.com/item?id=33984922)
 - [Tesla FSD promises are lies](https://twitter.com/danluu/status/1603133843170820097)
 - [Waymo's collision avoidance testing (2022)](https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html) ([HN](https://news.ycombinator.com/item?id=33987118))
+- [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline (2022)](https://arxiv.org/abs/2206.08129) ([Code](https://github.com/OpenPerceptionX/TCP))

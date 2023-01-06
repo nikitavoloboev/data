@@ -201,3 +201,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Convert Your SolidJS Component To TypeScript (2022)](https://dev.to/mbarzeev/convert-your-solidjs-component-to-typescript-1opn)
 - [SolidJS Crash Course - Building a REST API Client (2023)](https://dev.to/codewithahsan/solidjs-crash-course-building-a-rest-api-client-part-1-57ee)
 - [Solid Query Dev Tools](https://github.com/ardeora/solid-query-devtools)
+- [statesolid](https://github.com/riccardoperra/statesolid) - State management library built on the top of SolidJS reactivity.

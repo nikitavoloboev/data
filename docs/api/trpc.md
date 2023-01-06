@@ -35,3 +35,4 @@ title: tRPC
 - [Prisma + tRPC + WebSockets](https://github.com/trpc/examples-next-prisma-websockets-starter)
 - [tRPC starter repo with E2E-testing](https://github.com/trpc/examples-next-prisma-starter)
 - [tRPC Limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Multiple Frameworks.
+- [GraphQL or tRPC Data Discussion (2023)](https://www.youtube.com/watch?v=TFTpOn-MvCA)

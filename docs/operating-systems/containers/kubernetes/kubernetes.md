@@ -898,3 +898,5 @@ title: Kubernetes
 - [From Monolith to K8s](https://github.com/salaboy/from-monolith-to-k8s) - Workshop-style guide for creating Cloud-Native applications running on top of Kubernetes.
 - [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
 - [Kiae](https://github.com/kiaedev/kiae) - Open-source cloud platform completely based on Kubernetes and Istio.
+- [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes.
+- [Nix to Kubernetes](https://github.com/DeterminateSystems/nix-to-kubernetes) - Example of deploying Nix-built Docker images to Kubernetes.

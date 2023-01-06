@@ -121,3 +121,4 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) library. [Here](ht
 - [Horizontal Gallery WebGL](https://github.com/davidhckh/horizontal-gallery-webgl)
 - [Building an interactive WebGL experience in Next.js (2022)](https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js)
 - [WebGL experiments](https://github.com/FarazzShaikh/experiments)
+- [Crescent](https://github.com/silversquirl/crescent) - Simple WebGPU implementation written in Zig.

@@ -1,6 +1,6 @@
 # Figma plugins
 
-[Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) plugin is neat.
+[Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) & [Magician](https://magician.design/) plugins are neat.
 
 ## Links
 
@@ -113,3 +113,4 @@
 - [Noise & Texture Figma Plugin](https://www.figma.com/community/plugin/1138854718618193875/Noise-%26-Texture)
 - [Figma Maps](https://github.com/placemark/figma-plugin) - Make maps in Figma using OpenStreetMap data.
 - [Favorite Figma plugin? (2023)](https://twitter.com/FonsMans/status/1610546597313794052)
+- [Magician](https://magician.design/) - Magical design tool for Figma powered by AI. ([Tweet](https://twitter.com/oykun/status/1611013578101760001))

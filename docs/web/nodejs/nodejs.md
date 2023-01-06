@@ -442,3 +442,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [Node.js Middleware – никогда больше! (2020)](https://www.youtube.com/watch?v=RS8x73z4csI)
 - [Scriptful](https://github.com/Playful-Systems/scriptful) - Create better package.json scripts.
 - [prebuild-install](https://github.com/prebuild/prebuild-install) - Command line tool to easily install prebuilt binaries for multiple versions of Node & Electron on a specific platform.
+- [Symphonia](https://github.com/tropicbliss/symphonia) - Cross-platform zero dependency audio playback library for Node.

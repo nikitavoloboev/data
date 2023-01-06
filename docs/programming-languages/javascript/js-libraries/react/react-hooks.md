@@ -10,6 +10,8 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 
 ## State
 
+- [Act](https://github.com/artalar/act) - Most efficient reactive library in both: speed, size, correctness.
+- [Reatom](https://github.com/artalar/reatom) - Immutability and explicit reactivity (no proxies), implicit DI and actor-like lifecycle hooks.
 - [Nano Stores React](https://github.com/nanostores/react) - Tiny state manager with many atomic tree-shakable stores.
 - [Legend-State](https://github.com/LegendApp/legend-state) - Super fast and powerful state manager for JavaScript apps.
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React. ([How Jotai Specifies Package Entry Points](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)) ([Tweet](https://twitter.com/acemarke/status/1515654687780974595))
@@ -333,3 +335,4 @@ useEffect(() => {
 - [Working with Zustand (2022)](https://tkdodo.eu/blog/working-with-zustand) ([Tweet](https://twitter.com/TkDodo/status/1594358836147720197))
 - [When to use useStoreMap hook](https://twitter.com/_sergeysova/status/1606564476634939392)
 - [Visual Guide to React's useEffect (2021)](https://alexsidorenko.com/blog/useeffect/) ([HN](https://news.ycombinator.com/item?id=34142168))
+- [Mastering Mutations in React Query (2021)](https://tkdodo.eu/blog/mastering-mutations-in-react-query)

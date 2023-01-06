@@ -416,3 +416,5 @@ title: WebAssembly
 - [wasm-snip](https://github.com/rustwasm/wasm-snip) - Replaces a WebAssembly function's body with an `unreachable`.
 - [WASM Shared Memory](https://github.com/tristanpemble/wasm-shared-memory) - How to share memory between WASM module instantiations with Rust and Wasmtime.
 - [Performance of WebAssembly runtimes in 2023](https://00f.net/2023/01/04/webassembly-benchmark-2023/)
+- [Sledgehammer](https://github.com/Demonthos/sledgehammer) - Breaking the WASM<->JS performance boundary one brick at a time.
+- [WebAssembly Opcode Table](https://pengowray.github.io/wasm-ops/) - Chart of WebAssembly Instructions. ([Code](https://github.com/pengowray/wasm-ops))

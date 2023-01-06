@@ -165,3 +165,4 @@ title: Formal verification
 - [The Hitchhiker’s Guide to Logical Verification (2022)](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)
 - [Modeling Database Tables in Alloy (2023)](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 - [Modular Formal Verification of Rust Programs with Unsafe Blocks (2022)](https://arxiv.org/abs/2212.12976)
+- [Symbolic execution engine powering the K Framework](https://github.com/runtimeverification/haskell-backend)

@@ -1107,6 +1107,10 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [audio-offset-finder](https://github.com/bbc/audio-offset-finder) - Find the offset of an audio file within another audio file.
 - [fastplotlib](https://github.com/kushalkolar/fastplotlib) - Fast plotting library built using the pygfx render engine utilizing Vulkan via WGPU.
 - [Jobflow](https://github.com/materialsproject/jobflow) - Library for writing computational workflows.
+- [SurfinPy](https://github.com/symmy596/SurfinPy) - Thermodynamic Phase Diagram Generator.
+- [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
+- [validators](https://github.com/python-validators/validators) - Python data validation for Humans.
+- [Python State Machine](https://github.com/fgmacedo/python-statemachine) - Intuitive and powerful state machine framework designed for a great developer experience.
 
 ## Notes
 
@@ -1316,3 +1320,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Binary wheels for PyPy](https://github.com/antocuni/pypy-wheels) - PyPy binary wheels for some popular packages.
 - [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/) ([Code](https://github.com/pypackaging-native/pypackaging-native)) ([HN](https://news.ycombinator.com/item?id=34236919))
 - [autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically adds types and inserts the right annotations.
+- [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python.

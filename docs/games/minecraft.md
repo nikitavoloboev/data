@@ -151,3 +151,4 @@ title: Minecraft
 - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod) - Complex nuclear engineering mod for Minecraft.
 - [Shulker](https://github.com/IamBlueSlime/Shulker) - Kubernetes operator for managing complex Minecraft infrastructures, including game servers and proxies.
 - [Bedrockifier](https://github.com/Kaiede/Bedrockifier) - Command-line tools and Service for Minecraft Servers (Bedrock & Java).
+- [Amidst](https://github.com/toolbox4minecraft/amidst) - Tool to display an overview of a Minecraft world, without actually creating it.

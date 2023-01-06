@@ -312,3 +312,4 @@ Hi<div>oh no break</div>
 - [Bare minimum things you need to do when serving HTML](https://twitter.com/dan_abramov/status/1601739559456616450)
 - [DOM Clobbering (2022)](https://www.htmhell.dev/adventcalendar/2022/12/)
 - [JSX Specification](https://github.com/facebook/jsx)
+- [HTML with Superpowers: The Guidebook (2023)](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/)

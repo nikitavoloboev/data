@@ -1,6 +1,8 @@
 # United Kingdom
 
-London and Edinburgh are few of my favorite cities I've been in. Might move to UK again at some point and work towards getting a UK passport.
+London and Edinburgh are few of my favorite cities I've been in. 
+
+Still find it strange that UK left [EU](europe.md) but maybe they will [change their mind in future](https://twitter.com/DanielLambert29/status/1532991072158220288).
 
 ## London
 

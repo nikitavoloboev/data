@@ -82,7 +82,7 @@
 
 ## Web
 
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login)) ([axum-tracing-opentelemetry](https://github.com/davidB/axum-tracing-opentelemetry))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login)) ([axum-tracing-opentelemetry](https://github.com/davidB/axum-tracing-opentelemetry)) ([Axum Auth](https://github.com/Owez/axum-auth))
 - [h3](https://github.com/hyperium/h3) - Async HTTP/3 implementation.
 - [Graphul](https://github.com/graphul-rs/graphul) - Express inspired web framework using a powerful extractor system. ([HN](https://news.ycombinator.com/item?id=33220606))
 - [Leptos](https://github.com/gbj/leptos) - Full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces. ([Cargo-Leptos](https://github.com/akesson/cargo-leptos)) ([Starter](https://github.com/leptos-rs/start))
@@ -264,6 +264,7 @@
 - [spidermonkey-wasm-rs](https://github.com/bytecodealliance/spidermonkey-wasm-rs) - Rust bindings and generic builtins for SpiderMonkey for the wasm32-wasi target.
 - [cargo wasi](https://github.com/bytecodealliance/cargo-wasi) - Lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target.
 - [wasm-sockets](https://github.com/scratchyone/wasm-sockets) - Rust WASM-specific WebSocket library.
+- [Wasmer Pack](https://github.com/wasmerio/wasmer-pack) - Import your WebAssembly code just like any other dependency.
 
 ## GUI
 
@@ -2483,6 +2484,13 @@
 - [quick-xml](https://github.com/tafia/quick-xml) - High performance xml pull reader/writer.
 - [rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys) - FFmpeg bindings for Rust.
 - [rust-s2](https://github.com/yjh0502/rust-s2) - Rust port of Google S2 geometry library.
+- [Redact](https://github.com/eopb/redact) - Simple library for keeping secrets out of logs.
+- [Async IO traits](https://github.com/nrc/async-io-traits)
+- [network-interface](https://github.com/EstebanBorai/network-interface) - Retrieve system's Network Interfaces/Adapters on Linux, macOS and Windows on a standarized manner.
+- [Mini Raft](https://github.com/carllerche/mini-raft) - Implementation of Raft in Rust.
+- [libproc-rs](https://github.com/andrewdavidmackenzie/libproc-rs) - Library for getting information about running processes for Mac OS X and Linux.
+- [flow](https://github.com/andrewdavidmackenzie/flow) - Exploration of a data-flow programming paradigm.
+- [backhand](https://github.com/wcampbell0x2a/backhand) - Library and binaries for the reading, creating, and modification of SquashFS file systems.
 
 ## Cargo Plugins
 

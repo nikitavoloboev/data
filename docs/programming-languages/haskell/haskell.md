@@ -511,3 +511,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Abusing Constraints for Automatic Documentation (2023)](https://reasonablypolymorphic.com/blog/abusing-constraints/)
 - [Parallel streaming in Haskell: Part 1 - Fast efficient fun (2023)](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
 - [Haskell FFI Tutorial](https://github.com/ifesdjeen/haskell-ffi-tutorial)
+- [A dancing space leak (2023)](https://cs-syd.eu/posts/2023-01-06-a-dancing-space-leak)

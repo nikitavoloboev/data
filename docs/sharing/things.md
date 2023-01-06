@@ -38,3 +38,4 @@
 - [Overkill Objects for Everyday Life (2021)](https://neil.computer/notes/overkill-objects-for-everyday-life/) ([HN](https://news.ycombinator.com/item?id=27334223))
 - [Ask HN: Where are you getting your money's worth? (2021)](https://news.ycombinator.com/item?id=29675397)
 - [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/) ([HN](https://news.ycombinator.com/item?id=30679935))
+- [Ask HN: What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)

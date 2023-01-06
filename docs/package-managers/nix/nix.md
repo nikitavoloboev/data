@@ -479,3 +479,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Contracts in Nix](https://github.com/yvan-sraka/contracts)
 - [Nix flake development environment example](https://github.com/nix-dot-dev/nix-flake-example)
 - [nixpkgs-match](https://github.com/srid/nixpkgs-match) - Update your nixpkgs flake input to the same rev as that of the given flake.
+- [nixDir](https://github.com/roman/nixDir) - Library that transforms a directory structure into a nix flake.
+- [Questions for the weekly Nix Hour](https://github.com/tweag/nix-hour)

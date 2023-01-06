@@ -79,3 +79,4 @@ Love what [Andrei](https://github.com/anvaka) is doing with graphs.
 - [Workflow Graph Component (DAG)](https://github.com/google/workflow-graph)
 - [Graph Explorer](https://github.com/aws/graph-explorer) - React-based web application that enables users to visualize both property graph and RDF data.
 - [Zef](https://github.com/zefhub/zef) - Data-oriented toolkit for graph data.
+- [2-Opt Search Algorithm](https://github.com/pdrm83/py2opt) - Solve the traveling salesman problem with the 2-opt algorithm, a fast heuristic search algorithm.

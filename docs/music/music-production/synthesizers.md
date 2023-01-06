@@ -111,3 +111,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [Logue SDK](https://github.com/korginc/logue-sdk) - Build custom oscillators and effects for the prologue synthesizer.
 - [FM synth reverse-engineering](https://github.com/jwt27/esfm)
 - [vitOTT](https://github.com/edgjj/vitOTT) - Multiband compressor from famous spectral warping synthesizer.
+- [Go-MeltySynth](https://github.com/sinshu/go-meltysynth) - SoundFont MIDI synthesizer written in Go.

@@ -79,3 +79,4 @@
 - [Pets](https://github.com/ema/pets) - Configuration management system for Pets, not Cattle. ([Lobsters](https://lobste.rs/s/jc2oru/configuration_management_system_for)) ([HN](https://news.ycombinator.com/item?id=33414338))
 - [CUE For Network Configurations](https://github.com/networkop/cue-networking)
 - [Imperative configs are out; Declarative configs are in (2022)](https://www.prodvana.io/blog/declarative-configs) ([HN](https://news.ycombinator.com/item?id=33535807))
+- [Use .config to store your project configs](https://github.com/dot-config/dot-config.github.io)

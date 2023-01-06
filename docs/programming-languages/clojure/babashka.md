@@ -14,3 +14,5 @@ title: Babashka
 - [Babashka Web](https://babashka.org/)
 - [Babashka is a fast-starting scripting environment for Clojure (2022)](https://medium.com/graalvm/babashka-how-graalvm-helped-create-a-fast-starting-scripting-environment-for-clojure-b0fcc38b0746) ([HN](https://news.ycombinator.com/item?id=33909241))
 - [How to Do Things With Babashka (2022)](https://presumably.de/how-to-do-things-with-babashka.html)
+- [Babashka Babooka: Write Command Line Clojure](https://www.braveclojure.com/quests/babooka/) ([HN](https://news.ycombinator.com/item?id=34261010))
+- [Babashka Tasks](https://github.com/ferdinand-beyer/vscode-babashka-tasks) - Run Babashka Tasks from VS-Code.

@@ -4,11 +4,17 @@
 
 Russian culture and history is [fascinating](https://www.youtube.com/watch?v=9Lx0dGvE4LI) but full of tragedies and unlearned lessons.
 
-It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) to (in my view) try [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep [status quo political power](https://twitter.com/ulrichspeck/status/1610247946834178049).
+It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and take over the country.
 
-I personally have a hard time imagining that many people truly support this aggression towards Ukranian people. Most people in Russia, in my opinion, are [depressed due to how powerless they feel](https://www.youtube.com/watch?v=hjh7j6kPYFM) to what is happening to their lives and are just trying to make best of it.
+Potential reasons why such risky gambit was made could be to [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep [status quo political power](https://twitter.com/ulrichspeck/status/1610247946834178049).
 
-Russia is effective in suppressing protests and [putting people in jail freely](https://www.youtube.com/watch?v=AZm8FCFPtkw). There are no rights in Russia when it comes to having a voice against the status quo. And it's honestly tragic to me how little selling out freedom costs to many people who beat up protestors on the streets. I can only hope that [better education](../../ideas/learn-anything.md) and tools for earning a living can solve this.
+It is clear that after the initial attack has failed, there were no further plans made on how to adapt and Russia government has been trying to survive politically ever since.
+
+There's a lot of talk around collective guilt of Russians for these monstrous decisions. But given the sham that elections in Russia are and that people in Russia have no say in which direction Russia goes especially with respect to its foreign policy, it's tough subject.
+
+Russia is effective in suppressing protests and [putting people in jail freely](https://www.youtube.com/watch?v=AZm8FCFPtkw). There are no rights in Russia when it comes to having a voice against the status quo. And it's honestly tragic to me how little selling out freedom costs to many people who beat up protestors on the streets. I can only hope that [better education](../../ideas/learn-anything.md) and tools for earning a living globally can solve this. A big percentage of Russian population, one way or another get money solely from the government.
+
+I personally have a hard time imagining that many people truly support this aggression towards Ukranian people. Most people in Russia, in my opinion, are [depressed due to how powerless they feel](https://www.youtube.com/watch?v=hjh7j6kPYFM) to what is happening to their lives and are just trying to make best of it. Some do argue though that Russians are weak and apolitical and compare Russia to likes of Iran and the courageous protests there. I personally don't know who is more courageous or not but do know that there are real risks now in Russia for simply going outside alone or in group. If change is to come, it has to come all at once and/or through changes internally in the political elite of Russia.
 
 It hurts to see this happen to a country with millions of people. I personally do want to travel to Russia and meet the different people there. Ask them how they live, what they think. Russia is incredibly varied in culture and I want to feel how different regions live and survive given current conditions. I think/hope that more and more people start to grow conscious of the fact that they need to focus everything on either immigrating away or starting to care more actively about their more and more disappearing agency in this oppressive country.
 
@@ -645,3 +651,8 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [What are taxes like in Russia? (2022)](https://www.reddit.com/r/AskARussian/comments/1004glx/what_are_taxes_like_in_russia/)
 - [Книжный чел - YouTube](https://www.youtube.com/@BookChel/videos)
 - [Our “Russian” psychological complexes (2023)](https://lithuaniatribune.com/our-russian-psychological-complexes/)
+- [1420 - YouTube](https://www.youtube.com/@1420channel/videos)
+- [Как учить историю? Любимые книги. Тамара Эйдельман (2022)](https://www.youtube.com/watch?v=eoOBBvpuDdc)
+- [Поздний сталинизм: эстетика политики](https://www.goodreads.com/book/show/51080358)
+- [Вся кремлевская рать. Краткая история современной России by Mikhail Zygar](https://www.goodreads.com/book/show/29772228)
+- [Империя должна умереть. История русских революций в лицах. 1900-1917 by Mikhail Zygar](https://www.goodreads.com/book/show/36271991-1900-1917)

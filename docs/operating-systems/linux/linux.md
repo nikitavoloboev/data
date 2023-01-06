@@ -40,6 +40,7 @@ title: Linux
 - [Minimal Linux Live](https://github.com/ivandavidov/minimal) - Tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. ([Web](http://minimal.idzona.com/#home))
 - [elementary OS](https://elementary.io/) - Thoughtful, capable, and ethical replacement for Windows and macOS. ([GitHub](https://github.com/elementary)) ([elementary OS is imploding (2022)](https://lunduke.substack.com/p/elementary-os-is-imploding?s=r)) ([HN](https://news.ycombinator.com/item?id=30611748))
 - [qinit](https://github.com/sinkingpoint/qinit) - Linux distribution built from scratch in Rust.
+- [Vanilla OS](https://vanillaos.org/) - Ubuntu-based Linux distribution. ([Article](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/))
 
 ## WM
 
@@ -665,3 +666,4 @@ title: Linux
 - [TuringCell](https://github.com/turingcell/turingcell) - Run Linux over Paxos/Raft.
 - [debos](https://github.com/go-debos/debos) - Debian OS builder.
 - [Debugger for Linux in Rust](https://github.com/gamozolabs/lemonade)
+- [Safer Linux Kernel Modules Using the D Programming Language (2022)](https://ieeexplore.ieee.org/document/9987502) ([HN](https://news.ycombinator.com/item?id=34260355)) ([Lobsters](https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d))

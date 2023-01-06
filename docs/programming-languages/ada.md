@@ -43,3 +43,4 @@ title: Ada
 - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html) ([HN](https://news.ycombinator.com/item?id=31804843))
 - [Adding Ada to Rust (2022)](https://blog.adacore.com/adding-ada-to-rust)
 - [Introduction to Embedded Systems Programming (Ada)](https://learn.adacore.com/courses/intro-to-embedded-sys-prog/index.html) ([HN](https://news.ycombinator.com/item?id=33691635))
+- [Ada Training Material](https://github.com/AdaCore/training_material)

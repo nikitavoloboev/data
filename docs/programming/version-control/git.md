@@ -625,3 +625,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [gwipt](https://github.com/benwr/gwipt) - Automatically commit all edits to a WIP branch with GPT-3 commit messages.
 - [commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages.
 - [autocommit](https://github.com/abi/autocommit) - AI-Generated Git Commit Messages.
+- [Git packaging sources: state of the art (2023)](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)

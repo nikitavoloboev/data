@@ -1034,3 +1034,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Awesome Domain Generalization](https://github.com/junkunyuan/Awesome-Domain-Generalization)
 - [Editing Models with Task Arithmetic (2022)](https://arxiv.org/abs/2212.04089) ([Code](https://github.com/mlfoundations/task_vectors))
 - [POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging (2022)](https://arxiv.org/abs/2207.07697) ([Code](https://github.com/ShishirPatil/poet))
+- [Amortized Inference for Causal Structure Learning (2022)](https://arxiv.org/abs/2205.12934) ([Code](https://github.com/larslorch/avici))

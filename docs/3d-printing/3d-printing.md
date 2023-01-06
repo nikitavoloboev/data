@@ -54,3 +54,6 @@
 - [3D Printed Film Video Camera (2022)](https://joshuabird.com/blog/post/3d-printed-film-video-camera)
 - [OctoPod](https://github.com/gdombiak/OctoPod) - Free open source client for OctoPrint.
 - [FDM 3d-printer simulator](https://github.com/yjh0502/tdp-tl)
+- [3D Printing Reddit](https://www.reddit.com/r/3Dprinting/)
+- [3D Printing Reddit Wiki](https://www.reddit.com/r/3Dprinting/wiki/index/)
+- [Functional 3D Printing Reddit](https://www.reddit.com/r/functionalprint/)

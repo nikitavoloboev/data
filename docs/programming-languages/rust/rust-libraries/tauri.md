@@ -61,3 +61,4 @@ title: Tauri
 - [Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/) ([HN](https://news.ycombinator.com/item?id=33931458))
 - [Window Shadows](https://github.com/tauri-apps/window-shadows) - Add native shadows to your windows.
 - [Tauri Plugins](https://github.com/tauri-apps/plugins-workspace)
+- [Tiny and secure native apps using Vite + Tauri (2022)](https://www.youtube.com/watch?v=_dJDjVG1wWs)

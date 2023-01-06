@@ -402,6 +402,9 @@
 - [monad-control](https://github.com/basvandijk/monad-control) - Lift control operations, like exception catching, through monad transformers.
 - [AMQP](https://github.com/hreinhardt/amqp) - RabbitMQ Client for Haskell.
 - [repa](https://github.com/haskell-repa/repa) - High performance, regular, shape polymorphic parallel arrays.
+- [redis-glob](https://github.com/adetokunbo/redis-glob) - Checks that glob expressions for use with Redis are valid.
+- [ldtk-types](https://github.com/isovector/ldtk-types) - Types and Aeson instances for parsing LDtk files.
+- [QoC](https://github.com/bollu/qoc) - Quite Obfuscated Constructions.
 
 ## Notes
 
@@ -465,3 +468,4 @@
 - [Haskell Multi Nix](https://github.com/srid/haskell-multi-nix) - Demo of Nixifying a multi-package Haskell project.
 - [Haskell Message Index](https://github.com/haskellfoundation/error-message-index) - Community-driven collection of documentation for Haskell error messages and warnings.
 - [SimFormat](https://github.com/Simspace/simformat) - Formats Haskell import lists.
+- [cabal-plan-bounds](https://github.com/nomeata/cabal-plan-bounds) - Calculate Haskell dependency ranges from multiple build plans.

@@ -4,6 +4,8 @@ Curious how [TSMC](https://www.tsmc.com/english) manages to squeeze so much perf
 
 [Asianometry](https://www.youtube.com/@Asianometry/videos) does nice updates on [hardware](../hardware.md) news.
 
+Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) more.
+
 ## Notes
 
 - [Math is often significantly faster than L1 cache hits, so memoization in many cases is actually a performance loss. Need to benchmark it though.](https://twitter.com/transitracer/status/1588316358303010816)
@@ -197,3 +199,5 @@ Curious how [TSMC](https://www.tsmc.com/english) manages to squeeze so much perf
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CPU monitoring software designed for the 64-bits Processors.
 - [IEDM 2022 – TSMC 3nm](https://semiwiki.com/semiconductor-manufacturers/tsmc/322688-iedm-2022-tsmc-3nm/)
 - [At the edges of Moore’s Law, connecting components is increasingly the game (2023)](https://spectrum.ieee.org/interconnect-back-side-power)
+- [Apple Firestorm/Icestorm CPU microarchitecture docs](https://dougallj.github.io/applecpu/firestorm.html) ([Code](https://github.com/dougallj/applecpu))
+- [Libcpucycles](https://cpucycles.cr.yp.to/) - Micro library for counting CPU cycles.

@@ -101,6 +101,7 @@
 - [facai](https://github.com/lambdaisland/facai) - Factories for fun and profit.
 - [cartestian](https://github.com/nathell/cartestian) - Test all the combinations.
 - [datapotato](https://github.com/donut-party/datapotato) - Better database fixtures for tests.
+- [spec.alpha](https://github.com/clojure/spec.alpha) - Clojure library to describe the structure of data and functions.
 
 ## Graphics
 
@@ -267,6 +268,7 @@
 - [Datasplash](https://github.com/ngrunwald/datasplash) - Clojure API for a more dynamic Google Dataflow.
 - [Medley](https://github.com/weavejester/medley) - Lightweight library of useful Clojure functions.
 - [match](https://github.com/clojure/core.match) - Optimized pattern matching library for Clojure.
+- [deps-deploy](https://github.com/slipset/deps-deploy) - Clojure library to deploy your stuff to clojars with clj or clojure.
 
 ## Links
 

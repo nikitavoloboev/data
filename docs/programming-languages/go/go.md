@@ -946,3 +946,4 @@ if *boolArgPtr != false {
 - [Awesome Go with stars](https://github.com/amanbolat/awesome-go-with-stars)
 - [taint](https://github.com/picatz/taint) - Static taint analysis for Go programs.
 - [Go 1.20 Release Notes](https://tip.golang.org/doc/go1.20)
+- [A simple problem that isn’t (2023)](https://muscar.eu/bitset-iter.html)

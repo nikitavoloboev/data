@@ -84,6 +84,7 @@
 - [Taxi](https://github.com/craftedbygc/taxi) - Library for adding AJAX navigation and beautiful transitions to your website.
 - [Tornis](https://github.com/robb0wen/tornis) - Helps you watch and respond to changes in your browser's viewport.
 - [Tonic](https://github.com/socketsupply/tonic) - Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free. ([Web](https://tonicframework.dev/))
+- [Gluon](https://github.com/gluon-framework/gluon) - Framework for creating desktop apps from websites, using system installed browsers and NodeJS.
 
 ## Animation
 
@@ -119,6 +120,7 @@
 - [termynal](https://github.com/ines/termynal) - Lightweight and modern terminal animations using async/await.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+- [Concolor](https://github.com/metarhia/concolor) - Coloring template strings using tags with annotations.
 
 ## ML
 
@@ -1091,6 +1093,8 @@
 - [debounce-fn](https://github.com/sindresorhus/debounce-fn) - Debounce a function.
 - [Mime](https://github.com/broofa/mime) - Comprehensive, compact MIME type module.
 - [LDT](https://github.com/kueblc/LDT) - Lightweight in browser syntax highlighting.
+- [js-tokens](https://github.com/lydell/js-tokens) - Tiny JavaScript tokenizer.
+- [rregex](https://github.com/2fd/rregex) - WebAssembly build of Rust Regex for JavaScript.
 
 ## Links
 

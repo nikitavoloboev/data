@@ -6,12 +6,13 @@ title: ChatGPT
 
 I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
 
-[nanoGPT](https://github.com/karpathy/nanoGPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
+[nanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
 
 ## Interesting queries
 
 - [can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)
 - [Summarize tabular data](https://twitter.com/jaukia/status/1601569254998159362)
+- [Organize my notes into outline](https://twitter.com/danshipper/status/1611134727011844098)
 
 ## Links
 
@@ -37,3 +38,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [LLM Garden](https://github.com/ianb/llm-garden) - Experiments using GPT-3, delivered in a web app.
 - [Adrenaline](https://github.com/shobrook/adrenaline) - IDE that uses ChatGPT to automatically fix your code when it throws an error.
 - [Creating a Sarcastic Chatbot with Node.js & OpenAI API (2023)](https://medium.com/@adam_92987/sarcastic-gpt-3-chatbot-who-can-remember-anything-built-in-node-js-openai-api-a84d64d5febc) ([Code](https://github.com/iceener/tuesday-chatbot-gpt-3))
+- [ChatGPT Assistant](https://github.com/msfrisbie/chat-gpt-assistant) - Browser Extension to integrate ChatGPT everywhere.
+- [GPTDuck](https://www.gptduck.com/) - Ask questions about any GitHub repo. ([HN](https://news.ycombinator.com/item?id=34262587))

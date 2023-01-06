@@ -35,6 +35,7 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Shakhriyar Mamedyarov 2022 game](https://www.reddit.com/r/chess/comments/y4uxnx/shakhriyar_mamedyarov_just_delivered_one_of_the/) ([Analysis](https://www.youtube.com/watch?v=tv4bPUaoISA))
 - [Insane Move Crushed Stockfish](https://www.youtube.com/watch?v=hxzBPJ0vdlU)
 - [2022 FIDE World Blitz Championship: Magnus vs Rapport](https://lichess.org/broadcast/2022-fide-world-blitz-championship--boards-1-40/round-14/jzXMWTFD/HJDQ2mrc)
+- [Anish vs Dubov (2023)](https://www.youtube.com/watch?v=E-6XZdsXLlI)
 
 ## Interesting openings
 

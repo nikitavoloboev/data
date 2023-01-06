@@ -74,3 +74,5 @@ title: Prolog
 - [Textmate syntax for Prolog](https://github.com/jeff-hykin/better-prolog-syntax)
 - [Protelog](https://github.com/shonfeder/protelog) - Evolving collection of more-and-less experimental Prolog syntax extensions.
 - [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9) ([HN](https://news.ycombinator.com/item?id=34224456))
+- [Djot implementation in Prolog](https://github.com/aarroyoc/djota)
+- [PostgreSQL Prolog](https://github.com/aarroyoc/postgresql-prolog) - Prolog library to connect to PostgreSQL databases. ([HN](https://news.ycombinator.com/item?id=28660202))

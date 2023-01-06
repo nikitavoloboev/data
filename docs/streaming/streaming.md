@@ -101,3 +101,5 @@ Liked [this audio/streaming setup](https://matthewrocklin.com/writing/audio-visu
 - [Making videos with Resolve fast](https://twitter.com/mattpocockuk/status/1603408007534198786)
 - [GStreamer](https://github.com/GStreamer/gstreamer) - Open-source multimedia framework.
 - [Audio-Visual Setup — Matthew Rocklin](https://matthewrocklin.com/writing/audio-visual/)
+- [subd](https://github.com/tjdevries/subd) - Create a link between the various ways viewers support you as a live content creator.
+- [Tau](https://git.sr.ht/~conses/tau) - Alternative front-end to various streaming sites.

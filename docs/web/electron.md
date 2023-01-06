@@ -4,7 +4,13 @@ title: Electron
 
 # [Electron](https://electronjs.org/)
 
-I prefer to build things natively with [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) but when I do need a cross platform desktop app, I prefer using [Wails](../programming-languages/go/go-libraries/wails.md) as it's much lighter.
+I use [Tauri](../programming-languages/rust/rust-libraries/tauri.md) currently to build desktop apps. Tauri wraps over [Solid](../programming-languages/javascript/js-libraries/solid.md) web UI.
+
+[Wails](../programming-languages/go/go-libraries/wails.md) is great too if you like [Go](../programming-languages/go/go.md). 
+
+I try to minimize amount of Electron apps I run on my mac as I find them wasteful in how they bundle entire chrome JS engine with every app. Hopefully soon, I won't be running any more Electron apps on my computer.
+
+I also use [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) to build certain native windows when tauri/web stack is not enough.
 
 ## OSS apps
 

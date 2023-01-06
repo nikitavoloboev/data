@@ -1,6 +1,6 @@
 # Computer vision
 
-[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch). [Kornia](https://github.com/kornia/kornia) seems like a great library. [Imagen](https://github.com/lucidrains/imagen-pytorch) is fascinating.
+[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch). [Kornia](https://github.com/kornia/kornia) & [Scenic](https://github.com/google-research/scenic) seem like great libraries. [Imagen](https://github.com/lucidrains/imagen-pytorch) is fascinating.
 
 [Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/) is a nice read.
 
@@ -1082,3 +1082,5 @@
 - [OpenCV Mobile](https://github.com/nihui/opencv-mobile)
 - [SINE: SINgle Image Editing with Text-to-Image Diffusion Models (2022)](https://arxiv.org/abs/2212.04489) ([Code](https://github.com/zhang-zx/SINE))
 - [PETR: Position Embedding Transformation for Multi-View 3D Object Detection (2022)](https://github.com/megvii-research/PETR)
+- [Awesome Deep Optics/End-to-end Optical Design](https://github.com/singer-yang/awesome-deep-optics)
+- [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling (2023)](https://arxiv.org/abs/2301.02238) ([Code](https://github.com/facebookresearch/hyperreel))

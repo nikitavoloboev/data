@@ -20,6 +20,7 @@ Like how you can [embed Swift code into Expo](https://twitter.com/Baconbrix/stat
 - [Expo template with Tamagui, MobX and i18n](https://github.com/ivopr/tamagui-expo)
 - [NX monorepo showing the TMDB Watchlist mobile app with Expo, tRPC, Next, and Prisma](https://github.com/mwarger/tmdb-watchlist-prisma)
 - [Kaol Stack](https://github.com/chamatt/create-kaol-app) - Prisma, Expo, Next, TRPC, Solito, Tailwind - A monorepo template for a truly universal app.
+- [Office Marathon](https://github.com/byCedric/office-marathon) - Example app for background location tracking in Expo.
 
 ## Notes
 

@@ -225,3 +225,4 @@ title: Type Theory
 - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/) ([Lobsters](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust))
 - [Andrej Bauer: "The countable reals" (2022)](https://www.youtube.com/watch?v=4CBFUojXoq4)
 - [Test the limits of a Linear System F](https://github.com/EduardoRFS/linear-f)
+- [Linear F in OCaml](https://github.com/EduardoRFS/f-omega)

@@ -122,3 +122,4 @@ Match all that don't have notes or twitter in input
 - [nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regular expression under the cursor.
 - [Regular Expression Matching Can Be Simple And Fast (2007)](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
+- [universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages.

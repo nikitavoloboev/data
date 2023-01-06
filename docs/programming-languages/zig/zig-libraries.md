@@ -156,6 +156,8 @@
 - [zble](https://github.com/ConnorRigby/zble) - Bluetooth in Zig.
 - [Zorrow](https://github.com/DutchGhost/zorrow) - Borrowchecker in Zig.
 - [pegzi](https://github.com/travisstaloch/pegzi) - PEG (parsing expression grammar) parser in zig.
+- [Composable allocators](https://github.com/dweiller/zig-composable-allocators)
+- [zubench](https://github.com/dweiller/zubench) - Micro-benchmarking package for Zig.
 
 ## Links
 

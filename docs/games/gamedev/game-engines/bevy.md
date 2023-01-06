@@ -90,3 +90,5 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Bevy_adventure](https://github.com/hankjordan/bevy_adventure) - Framework for building adventure games in Bevy.
 - [Aseprite plugin for Bevy](https://github.com/lerouxrgd/bevy_mod_aseprite)
 - [bevy_iced](https://github.com/tasgon/bevy_iced) - Iced integration for Bevy.
+- [WGSL 2D Outline Shader](https://github.com/theseatoad/bevy-simple-2d-outline)
+- [Inverse kinematics for Bevy](https://github.com/Kurble/bevy_mod_inverse_kinematics)

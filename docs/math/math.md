@@ -425,3 +425,4 @@
 - [A non-constructive proof of the Four Color Theorem (2022)](https://arxiv.org/abs/2212.09835) ([HN](https://news.ycombinator.com/item?id=34082022))
 - [Concrete Mathematics, 2nd Edition](https://www.csie.ntu.edu.tw/%7Er97002/temp/Concrete%20Mathematics%202e.pdf)
 - [Complementary foundations for mathematics: when do we choose? (2022)](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf) ([HN](https://news.ycombinator.com/item?id=34197169))
+- [Chaos Hypertext book](https://hypertextbook.com/chaos/) ([HN](https://news.ycombinator.com/item?id=34244977))

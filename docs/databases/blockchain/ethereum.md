@@ -747,3 +747,6 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Consentry](https://github.com/chainbound/consentry) - Ethereum consensus network sentry.
 - [Taiko](https://taiko.xyz/) - Decentralized Ethereum-equivalent ZK-Rollup. ([Code](https://github.com/taikoxyz/taiko-mono)) ([Client Code](https://github.com/taikoxyz/taiko-client))
 - [Summary of mempool design, challenges, and proposals](https://github.com/jamesob/mempool.work)
+- [txparse](https://github.com/holiman/txparse) - Ethereum transaction-parser.
+- [Foundry Invariants](https://github.com/N0xMare/foundry-invariants)
+- [Garaga](https://github.com/keep-starknet-strange/garaga) - Efficient pairing library, written in Cairo.

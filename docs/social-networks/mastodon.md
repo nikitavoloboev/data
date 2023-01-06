@@ -154,3 +154,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Private and Public Mastodon](https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search) ([HN](https://news.ycombinator.com/item?id=34221851))
 - [Mastodon Send GitHub Action](https://github.com/cbrgm/mastodon-github-action) - Use this action to send a toot (message) from a GitHub actions workflow to Mastodon.
 - [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - Cross-platform client for micro-blogging services.
+- [Fedigardens](https://github.com/alicerunsonfedora/fedigardens) - Simplified, discussion-driven Mastodon app for iOS. ([Web](https://fedigardens.app/))

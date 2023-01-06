@@ -291,3 +291,5 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [NixOS Remote](https://github.com/numtide/nixos-remote) - Install NixOS everywhere via ssh.
 - [NixOS Webzine](https://webzine.nixos.cafe/)
 - [Configure packages like NixOS systems](https://github.com/DavHau/drv-parts)
+- [The Hive](https://github.com/RaubJo/hive) - Secretly open NixOS-Society.
+- [NixOS on the HiFive Unmatched RISC-V](https://github.com/zhaofengli/nixos-riscv64)

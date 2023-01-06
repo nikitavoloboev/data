@@ -1,5 +1,7 @@
 # Running
 
+[Any Distance](https://anydistance.club/) is great app/community to track runs.
+
 ## Notes
 
 - [80% of your runs should be at 20% effort and 20% of them at 80% effort. Obviously the specifics will differ per person, but the big idea is taking it easy on most of your runs. Running slower for longer is better for your training than running faster for shorter. One more way to think about it: running slower for longer is like doing low weight/high rep lifting workouts as opposed to short sprints which would be max weight/low rep/to failure lifting.](https://www.reddit.com/r/bodyweightfitness/comments/n8dbqj/can_i_replace_cardio_with_body_weight_exercise/)

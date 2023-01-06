@@ -168,3 +168,4 @@ title: OCaml
 - [Simplify user setup for various editors to OCaml users](https://github.com/ocaml-opam/opam-user-setup)
 - [Random Test Data Generation for Arbitrary Types (2022)](https://thautwarm.github.io/Site-33/pl/datagen.html)
 - [A Short Introduction to Active Patterns (2022)](https://thautwarm.github.io/Site-33/design/a-short-intro-to-active-patterns.html)
+- [Generating static and portable executables with OCaml (2021)](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)

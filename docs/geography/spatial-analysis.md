@@ -295,3 +295,6 @@ title: Spatial analysis
 - [Rust Reverse Geocoder](https://github.com/gx0r/rrgeo) - Fast, offline, reverse geocoder.
 - [osm](https://github.com/paulmach/osm) - General purpose library for reading, writing and working with OpenStreetMap data.
 - [Geospatial Data Catalogs](https://github.com/giswqs/geospatial-data-catalogs) - List of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
+- [s2cell](https://github.com/aaliddell/s2cell) - Minimal Python S2 Geometry cell ID, token and lat/lon conversion library.
+- [Nextcloud Maps](https://github.com/nextcloud/maps) - Whole world fits inside your cloud.
+- [Tippecanoe](https://github.com/felt/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.

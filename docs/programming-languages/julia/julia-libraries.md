@@ -136,6 +136,7 @@
 - [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
 - [ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid.
 - [MetaLearning](https://github.com/domluna/MetaLearning) - Learning to learn fast using Flux.jl.
+- [ForwardDiffChainRules.jl](https://github.com/ThummeTo/ForwardDiffChainRules.jl)
 
 ## Math
 
@@ -797,6 +798,9 @@
 - [DiffResults](https://github.com/JuliaDiff/DiffResults.jl) - API for querying differentiation results at multiple orders simultaneously.
 - [PowerAnalyses.jl](https://github.com/rikhuijzer/PowerAnalyses.jl) - Statistical power analyses in Julia.
 - [DevOnly.jl](https://github.com/thautwarm/DevOnly.jl) - Using runtime-free macro packages as dev-only dependencies.
+- [FMI.jl](https://github.com/ThummeTo/FMI.jl) - Load or create, parameterize and simulate FMUs seamlessly inside Julia.
+- [FMIFlux.jl](https://github.com/ThummeTo/FMIFlux.jl)
+- [Serd.jl](https://github.com/epatters/Serd.jl) - Julia bindings to Serd RDF library.
 
 ## Links
 

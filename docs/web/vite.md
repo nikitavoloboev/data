@@ -128,3 +128,5 @@ title: Vite
 - [Vite Fonts plugin](https://github.com/stafyniaksacha/vite-plugin-fonts) - Web font loader for Vite.
 - [Vite Plugin Deno Resolve](https://github.com/itsdouges/vite_plugin_deno_resolve)
 - [Vite Plugin Mock Dev Server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server)
+- [How Vite Came to Be | Evan You (2022)](https://www.youtube.com/watch?v=fxQXUqdzzFw)
+- [ViteConf 2022 Frameworks Panel](https://www.youtube.com/watch?v=gEJU-MuNoyU)

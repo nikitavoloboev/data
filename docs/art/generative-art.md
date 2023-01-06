@@ -259,3 +259,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Ojas Shukla's generative art](https://github.com/whizzbbig/Creative-Coding)
 - [Variations Combinator](https://github.com/Bleuje/variations-combinator) - Real-time generative art tool with openFrameworks.
 - [Dessins géométriques et artistiques avec votre micro-ordinateur programs](https://github.com/v3ga/dessins_geometriques_et_artistiques)
+- [Particle Simulator](https://lisyarus.itch.io/particle-simulator) ([Tweet](https://twitter.com/lisyarus/status/1611053550846545939))

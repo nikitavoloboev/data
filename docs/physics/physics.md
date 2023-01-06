@@ -6,6 +6,8 @@
 
 I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work mind opening.
 
+It's wild [how far humans got](https://www.youtube.com/watch?v=PHiyQID7SBs) to understanding physics and especially [quantum physics](quantum-physics/quantum-physics.md).
+
 ## Notes
 
 - What is energy?
@@ -360,3 +362,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Picture This: The Periodic Table](https://pioneerworks.org/broadcast/picture-this-periodic-table)
 - [How Many States Of Matter Are There? (2022)](https://www.youtube.com/watch?v=184eP_KuXek)
 - [Arvin Ash - YouTube](https://www.youtube.com/@ArvinAsh/videos)
+- [The Equation That Explains (Nearly) Everything! (2023)](https://www.youtube.com/watch?v=PHiyQID7SBs)

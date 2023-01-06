@@ -19,3 +19,4 @@ title: Nostr
 - [Nostr Relay Registry](https://github.com/fiatjaf/nostr-relay-registry) - Dynamic registry of nostr relays.
 - [Nostr - Decentralized Social Media & Bitcoin w/ William Casarin (2023)](https://www.theinvestorspodcast.com/bitcoin-fundamentals/nostr-decentralized-social-media-william-casarin/)
 - [Nostrex](https://github.com/RiverFinancial/nostrex) - Nostr relay written in Elixir.
+- [Forward-only Nostr relay](https://github.com/phyro/fo-relay)

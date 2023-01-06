@@ -242,7 +242,7 @@
 - [Modern data analysis stack (2022)](https://twitter.com/__mharrison__/status/1504504516393127964)
 - [Stop aggregating away the signal in your data (2022)](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) ([Lobsters](https://lobste.rs/s/9walmw/stop_aggregating_away_signal_your_data))
 - [OpenMetadata](https://open-metadata.org/) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. ([Code](https://github.com/open-metadata/OpenMetadata))
-- [Rill Data](https://www.rilldata.com/) - Fully Managed Apache Druid as a Service. ([Rill Developer](https://github.com/rilldata/rill-developer))
+- [Rill Data](https://www.rilldata.com/) - Fully Managed Apache Druid as a Service. ([Rill Developer](https://github.com/rilldata/rill-developer)) ([Twitter](https://twitter.com/rilldata))
 - [Glean](https://glean.io/) - Fast data insights for your team.
 - [Dash Enterprise App Gallery](https://dash.gallery/Portal/) ([Code](https://github.com/plotly/dash-sample-apps))
 - [Comprehensive, original, insightful, and otherwise interesting data science blogs (2022)](https://www.narrator.ai/blog/comprehensive-original-insightful-and-otherwise-interesting-data-science-blogs/)

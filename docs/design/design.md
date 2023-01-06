@@ -2,11 +2,13 @@
 
 > Design is not just what it looks like and feels like. Design is how it works.
 
-I can't call myself a designer yet but I am learning.
+I use [Figma](figma/figma.md) for all my designs. [Framer](framer.md) is great too.
 
-I do think design applies to everything I am doing. Even this wiki has some _design choices_ of how it can be structured. As the quote above says, it's not _how it looks like_, it's _how it works_.
+I also use [Excalidraw](https://excalidraw.com/) to sketch out [problems I am solving](../research/solving-problems.md).
 
-Thus I try to be conscious of how my design decisions affect what I do. I like to use [Sketch](https://www.sketchapp.com) and [Figma](https://www.figma.com) when designing things.
+[Sketch](../macOS/apps/sketch.md) seems nice too perhaps for making [icons](icons.md) and [logos](logos.md).
+
+I keep a list of [inspiring designs](design-inspiration.md).
 
 ## Notes
 
@@ -238,7 +240,6 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Vectornator](https://www.vectornator.io/) - Create sophisticated illustrations, beautiful interface designs, amazing layouts. ([Twitter](https://twitter.com/vectornator)) ([GitHub](https://github.com/LinearityGmbH))
 - [Parametric Design course](https://github.com/FH-Potsdam/teaching-parametric-design)
 - [The design space in 2022 - Brief review & tools for the future](https://ninalimpi.com/posts/design-space-review-and-the-future)
-- [Magician](https://magician.design/) - Magical design tool powered by AI.
 - [The Case for Design Engineers (2022)](https://blog.jim-nielsen.com/2022/the-case-for-design-engineers/)
 - [The Ones by CW&T](http://theones.cwandt.com/)
 - [What are the most common mistakes developers make when implementing designs you hand off?](https://twitter.com/steveschoger/status/1542528755951861762)

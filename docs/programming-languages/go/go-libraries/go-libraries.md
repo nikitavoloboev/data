@@ -733,6 +733,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [debpkg](https://github.com/xor-gate/debpkg) - Go library to create Debian Linux packages.
 - [go-iptables](https://github.com/coreos/go-iptables) - Go bindings for iptables utility.
 - [golang-evdev](https://github.com/gvalkov/golang-evdev) - Go bindings for the linux input subsystem.
+- [gpiod](https://github.com/warthog618/gpiod) - Native Go library for Linux GPIO.
 
 ## Apple
 
@@ -1988,6 +1989,9 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Top-K Heavykeeper](https://github.com/migotom/heavykeeper) - Top-K elephant flows finding using HeavyKeeper accurate algorithm.
 - [godebug](https://github.com/kylelemons/godebug) - Pretty Printing for Go.
 - [midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go.
+- [Box](https://github.com/tidwall/box) - Go package for wrapping value types.
+- [Highlight](https://github.com/zyedidia/highlight) - Go package for syntax highlighting.
+- [Databricks SDK for Go](https://github.com/databricks/databricks-sdk-go)
 
 ## Links
 

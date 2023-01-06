@@ -111,3 +111,4 @@ title: Conflict-free replicated data type
 - [CRDTs make multiplayer text editing part of Zed's DNA (2022)](https://zed.dev/blog/crdts) ([HN](https://news.ycombinator.com/item?id=33820975))
 - [You might not need a CRDT (2022)](https://driftingin.space/posts/you-might-not-need-a-crdt) ([HN](https://news.ycombinator.com/item?id=33865672))
 - [pg_crdt - an experimental CRDT extension for Postgres (2022)](https://supabase.com/blog/postgres-crdt) ([HN](https://news.ycombinator.com/item?id=33931971)) ([Code](https://github.com/supabase/pg_crdt))
+- [CRAttributes](https://github.com/munhitsu/CRAttributes) - CRDT on CloudKit.

@@ -230,3 +230,4 @@
 - [Minimal GIF decoder in LISP (2022)](http://www.lispology.com/show?47N8)
 - [What Are the True Innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp) ([HN](https://news.ycombinator.com/item?id=34199138))
 - [Reflecting on Transducers (2023)](https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/)
+- [Debugging Lisp: trace options, break on conditions (2022)](https://lisp-journey.gitlab.io/blog/debugging-lisp-trace-options-break-on-conditions/) ([HN](https://news.ycombinator.com/item?id=34252796))

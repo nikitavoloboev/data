@@ -137,3 +137,5 @@ title: GPU
 - [Apple GPU drivers now in Asahi Linux (2022)](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/) ([HN](https://news.ycombinator.com/item?id=33891197))
 - [Dream Factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 - [ArchProbe](https://github.com/microsoft/ArchProbe) - Profiler to disclose and quantify hardware features on GPUs.
+- [MIG Profiler](https://github.com/MLSysOps/MIGProfiler) - Multi-Instance-GPU profiling tool.
+- [EnvyControl](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux.

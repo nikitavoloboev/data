@@ -765,3 +765,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [#
 - [Some Remarks on Large Language Models (2023)](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9) ([HN](https://news.ycombinator.com/item?id=34233033))
 - [Massive Language Models Can Be Accurately Pruned in One-Shot (2023)](https://arxiv.org/abs/2301.00774) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/1027geh/r_massive_language_models_can_be_accurately/))
 - [LM Identifier](https://github.com/jaketae/lm-identifier) - Toolkit for identifying pretrained language models from potentially AI-generated text.
+- [BRIO: Bringing Order to Abstractive Summarization (2022)](https://arxiv.org/abs/2203.16804) ([Code](https://github.com/yixinL7/BRIO))
+- [DOC: Improving Long Story Coherence With Detailed Outline Control (2022)](https://arxiv.org/abs/2212.10077) ([Code](https://github.com/yangkevin2/doc-story-generation))

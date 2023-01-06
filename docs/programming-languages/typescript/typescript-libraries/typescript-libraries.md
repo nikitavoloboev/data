@@ -107,6 +107,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TanStack Router](https://github.com/tanstack/router) - Type-safe router w/ built-in caching & URL state management. ([Web](https://tanstack.com/router/)) ([Talk](https://www.youtube.com/watch?v=qUZm3gbMOeo))
 - [Maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue.js and vanilla JS.
 - [Navigation](https://github.com/virtualstate/navigation) - Native JavaScript navigation implementation.
+- [Xania View](https://github.com/xania/view) - Fastest JavaScript view library for building user interfaces.
 
 ## GraphQL
 
@@ -741,6 +742,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [LevelTwo](https://github.com/codenothing/level-two) - Distributed in-process cache.
 - [subtitle](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files.
 - [cdate](https://github.com/kawanet/cdate) - Compact calendar date.
+- [contented](https://github.com/GuccioGucci/contented) - Library to coerce values at run-time.
 
 ## Links
 

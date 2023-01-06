@@ -240,3 +240,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Cached Chrome Top Million Websites](https://github.com/zakird/crux-top-lists) ([HN](https://news.ycombinator.com/item?id=34196381))
 - [site_icons](https://github.com/samdenty/site_icons) - Efficient website icon scraper for rust, with sizes, ordering, and WASM support.
 - [googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - Google search scraper in Python.
+- [Amazon Product API Scraping](https://github.com/drawrowfly/amazon-product-api) - Scrape products from the amazon search result or reviews from the specific product.

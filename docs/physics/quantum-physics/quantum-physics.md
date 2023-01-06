@@ -2,6 +2,8 @@
 
 [This thread](https://www.reddit.com/r/space/comments/xxk1s6/the_universe_is_not_locally_real_and_the_physics/) is great read on [particle entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement).
 
+[Schrödinger Equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) is great to [understand](https://www.youtube.com/watch?v=2WPA1L9uJqo).
+
 ## Notes
 
 - [This is the reason why the word observer is cursed. Because it leads to people to conclude consciousness and other wrong concepts are associated with the results. All that happens is a measurement, an interaction or interference, so no, you dont need a conscious observer, because the act of measurement is what interacts with the wave function, it happens irregardless of being made by a dog, a tardigrade or a computer, because anything that measures the wave function is interfering with it.](https://www.reddit.com/r/quantum/comments/lqtxa6/does_the_observer_effect_only_happens_if_the/)
@@ -121,3 +123,4 @@
 - [Electrons DO NOT Spin (2021)](https://www.youtube.com/watch?v=pWlk1gLkF2Y)
 - [Universe if not locally real explained](https://www.reddit.com/r/Physics/comments/zqtq1w/comment/j11hwog/?context=3)
 - [50 Years of Quantum Chromodynamics (2022)](https://arxiv.org/abs/2212.11107)
+- [What is the Schrödinger Equation? A basic introduction to Quantum Mechanics (2022)](https://www.youtube.com/watch?v=2WPA1L9uJqo)

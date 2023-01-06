@@ -1,12 +1,14 @@
 # Analytics
 
-Analytics if implemented should be actionable and in no way impact the performance of the app. i.e [Netlify](https://www.netlify.com/products/analytics/) or [Google Analytics](https://developers.google.com/tag-platform/tag-manager/server-side/intro) but done on server side and not on the client.
+Analytics if implemented should be actionable and in no way impact the performance of the app. i.e [Plausible](https://plausible.io/), [Netlify](https://www.netlify.com/products/analytics/) or even [Google Analytics](https://developers.google.com/tag-platform/tag-manager/server-side/intro) but done on server side and not on the client.
 
-I try to not waste time and even block pages like Insights Traffic pane on GitHub so as to not waste time viewing useless vanity stats.
+On side of checking analytics I try to only observe things that are directly actionable to things I am working on. Thus I block insights traffic pane on GitHub repos and many more useless pages that simply track vanity stats.
 
-Well implemented analytics together with proper logging/tracing should let you let you view user journeys of your app, which parts of the app are barely used and see how you can improve.
+I try to setup proper [observability](../devops/observability.md) together with actionable insights for metrics that make a difference for better product on all projects I work on.
 
-[GoatCounter](https://www.goatcounter.com/), [PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
+[GoatCounter](https://www.goatcounter.com/), [PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem great for self hosting analytics for cheap/free. 
+
+[Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
 
 ## Notes
 
@@ -25,7 +27,7 @@ Well implemented analytics together with proper logging/tracing should let you l
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([Code](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records. ([1.1 Billion Taxi Rides using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html))
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
-- [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/arp242/goatcounter))
+- [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/arp242/goatcounter)) ([HN](https://news.ycombinator.com/item?id=34265127))
 - [MixPanel](https://mixpanel.com/) - Analyze user behavior across your sites and apps. Then send messages and run experiments from what you learned–all in Mixpanel.
 - [What is your preferred web traffic analytics platform? (2020)](https://lobste.rs/s/gzkue1/what_is_your_preferred_web_traffic)
 - [blackrock](https://github.com/rekki/blackrock) - Events & Analytics.

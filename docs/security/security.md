@@ -341,3 +341,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Ronin](https://github.com/ronin-rb/ronin) - Ruby toolkit for security research and development.
 - [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - Curated list of awesome Open-Source Intelligence (OSINT) Resources.
 - [LeakSignal](https://github.com/leaksignal/leaksignal) - Provides observability metrics (or statistics) for sensitive data contained in request/response content.
+- [z-tokens](https://github.com/volution/z-tokens) - Random tokens generation and related tools.

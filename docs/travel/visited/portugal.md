@@ -2,6 +2,10 @@
 
 Portugal is [great](https://twitter.com/tomazstolfa/status/1454441367359430663).
 
+## Notes
+
+- [Stock options in Portugal are only taxed at a qualifying event (IPO, sale) and not at time of exercise. Effective tax rate reduces from 28% to 14%.](https://twitter.com/diogomonica/status/1611317839574536193)
+
 ## Links
 
 - [Get Portuguese residency with Rebase](https://rebase.co/portugal) ([Tweet](https://twitter.com/devonzuegel/status/1454508407319371780))

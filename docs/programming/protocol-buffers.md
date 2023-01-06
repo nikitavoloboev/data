@@ -4,7 +4,7 @@ title: Protocol buffers
 
 # [Protocol buffers](https://developers.google.com/protocol-buffers/)
 
-[pbkit](https://pbkit.dev/) & [buf](https://github.com/bufbuild/buf) are nice.
+[pbkit](https://pbkit.dev/) & [buf](https://github.com/bufbuild/buf) are nice. [protoc-gen-lint](https://github.com/ckaznocha/protoc-gen-lint) is nice for linting.
 
 Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 

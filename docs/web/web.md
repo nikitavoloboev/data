@@ -484,3 +484,4 @@
 - [Web Actions API](https://github.com/actiontray/web-actions-api) - Proposal specification standard for fetching details of actionable items with their state available under given Internet domain.
 - [Building Hypermedia Systems](https://hypermedia.systems/) - Simpler approach to building applications on the Web and beyond with htmx and HyperView. ([Code](https://github.com/bigskysoftware/hypermedia-systems))
 - [Mozilla Specification Positions](https://mozilla.github.io/standards-positions/) ([Code](https://github.com/mozilla/standards-positions))
+- [Awesome Web Development Resources](https://web-dev-resources.com/#/) ([Code](https://github.com/markodenic/web-development-resources))

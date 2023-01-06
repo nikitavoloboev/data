@@ -37,7 +37,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Evan Wallace](https://blog.figma.com/@evanwallace)
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
 - [Diaries of a Madman](https://asylum.madhouse-project.org/blog/archives/)
-- [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
+- [Reasonably Polymorphic](https://reasonablypolymorphic.com/)
 - [Sandy Maguire](http://sandymaguire.me/blog/archives/)
 - [Guillermo Rauch](https://rauchg.com/essays)
 - [Andrej Karpathy](https://karpathy.github.io/)
@@ -286,6 +286,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Jeremy Steward](https://www.thatgeoguy.ca/blog/)
 - [Frank Denis](https://00f.net/)
 - [Simon Boehm](https://siboehm.com/)
+- [Dominik Dorfmeister](https://tkdodo.eu/blog/all)
 
 ## Notes
 

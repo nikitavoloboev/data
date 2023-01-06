@@ -159,6 +159,7 @@ I want to:
 - [Bharathi Joshi's Notes](https://github.com/iambrj/notes)
 - [Ten Digits](https://tendigits.space/)
 - [Alex Forencich's Wiki](http://www.alexforencich.com/wiki/en/start)
+- [RDerik](https://rderik.com/)
 - [Félix Saparelli](https://passcod.name/)
 - [Luciano Strika](https://strikingloo.github.io/wiki/)
 - [Bennett Hardwick](https://bennetthardwick.com/wiki/)

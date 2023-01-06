@@ -10,6 +10,7 @@
 - [Leaders must pursue excellence everywhere, at all times. The product of excellent and mediocre is mediocre. Organizations devolve to their lowest common denominator. Leading this way is exhausting. But if you’re not willing to make the sacrifice, please move out of the way.](https://twitter.com/laserlikemike/status/1458857100298403844)
 - [How to make what you work on great: Clear vision and objective function. Great leadership. Small, elite, cross-functional teams. Focus on excellence all around. Obsession with building an amazing product that delights customers. Intellectual honesty. And intense work ethic.](https://twitter.com/laserlikemike/status/1460637838110691328)
 - [Nothing destroys an organization faster than a leader with the desire to be well liked.](https://twitter.com/laserlikemike/status/1462061981758746624)
+- [One of the best leadership traits you can have is craving brutally honest feedback, receiving it without defense, and acting on it at breakneck speed. No time for stagnation as a leader, we have to change and grow.](https://twitter.com/flybayer/status/1610716974254010368)
 
 ## Links
 

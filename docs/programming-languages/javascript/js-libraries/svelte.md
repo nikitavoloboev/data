@@ -278,7 +278,7 @@ title: Svelte
 - [svelvg](https://github.com/metonym/svelvg) - Convert SVG files into Svelte components with TypeScript definitions.
 - [Svelte Reactive Debugger](https://github.com/unlocomqx/svelte-reactive-debugger) - Easily monitor svelte reactive statements.
 - [Svelte Hub Docs Components](https://github.com/huggingface/hub-docs)
-- [Svelvet](https://github.com/oslabs-beta/Svelvet) - Lightweight Svelte component library for building interactive node-based flow diagrams. ([Web](https://svelvet.io/)) ([HN](https://news.ycombinator.com/item?id=31595822))
+- [Svelvet](https://github.com/open-source-labs/Svelvet) - Lightweight Svelte component library for building interactive node-based flow diagrams. ([Web](https://svelvet.io/)) ([HN](https://news.ycombinator.com/item?id=31595822))
 - [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) - Advanced Frontend Platform for eCommerce based on Sveltekit.
 - [Svelte French Toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte.
 - [Attractions](https://illright.github.io/attractions/) - Pretty cool UI kit for Svelte. ([Code](https://github.com/illright/attractions))
