@@ -453,3 +453,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [TensorDict](https://github.com/pytorch-labs/tensordict) - PyTorch dedicated tensor container.
 - [Runhouse](https://github.com/run-house/runhouse)
 - [Hidet](https://github.com/hidet-org/hidet) - Compilation-based DNN inference framework.
+- [Colossal-AI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Big Model Era.

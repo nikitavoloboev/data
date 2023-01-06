@@ -249,3 +249,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Mold linker may not switch to a source-available license (2022)](https://bluewhalesystems.blogspot.com/2022/11/mold-linker-may-not-switch-to-source.html)
 - [How to make volunteer-driven open source projects successful (2022)](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful)
 - [Open Source Grindset Explained (2022)](https://blog.orhun.dev/open-source-grindset/) ([Lobsters](https://lobste.rs/s/q6qy6r/open_source_grindset_explained))
+- [Vamp](https://www.vamp.sh/) - Open Source Bounties. ([Code](https://github.com/DavidTParks/vamp))

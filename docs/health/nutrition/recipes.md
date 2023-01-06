@@ -141,3 +141,4 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [What is a yummy food that can be completely ruined by a small mistake? (2022)](https://www.reddit.com/r/Cooking/comments/z845eg/what_is_a_yummy_food_that_can_be_completely/)
 - [A Couple Cooks](https://www.acouplecooks.com/) - Healthy vegetarian, vegan, and whole food recipes.
 - [Вкусная минутка - YouTube](https://www.youtube.com/@tastyminute/videos)
+- [My Online Cookbook](https://github.com/maeligg/my-online-cookbook) - Starter kit to create your own website of recipes.

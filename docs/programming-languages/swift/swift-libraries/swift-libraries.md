@@ -1374,6 +1374,7 @@
 - [SwiftMVI](https://github.com/xtro/SwiftMVI) - Lightweight MVI framework for Swift.
 - [SwiftUseCase](https://github.com/xtro/SwiftUseCase) - Library for creating independent & coverable usecases with a powerful execution API.
 - [Kinzoku](https://github.com/Obverser/Kinzoku) - wgpu-native wrapper for Swift.
+- [Flock](https://github.com/qasim/Flock) - Rapid file download using concurrent connections.
 
 ## Other (not lib)
 

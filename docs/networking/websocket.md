@@ -127,3 +127,4 @@ title: WebSocket
 - [WebTransport vs. WebRTC vs. WebSocket](https://github.com/Sh3B0/realtime-web) ([HN](https://news.ycombinator.com/item?id=34137974))
 - [WebSocket for fasthttp](https://github.com/dgrr/websocket)
 - [Neffos](https://github.com/kataras/neffos) - Modern, fast and scalable WebSocket framework with elegant API written in Go.
+- [fsf](https://github.com/akash-joshi/fsf) - Typesafe WebSocket client-server framework which thins the borders between clients and servers.
