@@ -180,3 +180,4 @@ title: Coq
 - [PUMPKIN Pi](https://github.com/uwplse/pumpkin-pi) - Plugin for automatic discovery of and lifting across equivalences between types in Coq.
 - [SerAPI](https://github.com/ejgallego/coq-serapi) - Machine-Friendly, Data-Centric Serialization for Coq.
 - [Natural Number Game Solutions in Coq](https://github.com/uncomputable/natural-number-game)
+- [Commutative algebra in Coq/SSReflect](https://github.com/xuanruiqi/commalg)
