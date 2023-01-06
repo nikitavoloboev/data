@@ -947,3 +947,4 @@ if *boolArgPtr != false {
 - [taint](https://github.com/picatz/taint) - Static taint analysis for Go programs.
 - [Go 1.20 Release Notes](https://tip.golang.org/doc/go1.20)
 - [A simple problem that isn’t (2023)](https://muscar.eu/bitset-iter.html)
+- [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)

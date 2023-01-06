@@ -86,3 +86,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Flarebase Auth](https://github.com/Marplex/flarebase-auth) - Firebase/Admin Auth JavaScript Library for Cloudflare Workers.
 - [Setup Firebase Tools GitHub Action](https://github.com/ssssota/setup-firebase-tools)
 - [FireQL](https://github.com/pgollangi/FireQL) - Query Google Firestore database using SQL syntax.
+- [Firebase Functions Downloader](https://github.com/omar-dulaimi/firebase-functions-downloader) - Downloads Firebase/Google Cloud Functions code.
