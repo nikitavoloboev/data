@@ -250,3 +250,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [ISO 8583 - Wikipedia](https://en.wikipedia.org/wiki/ISO_8583)
 - [Order matching engine (orderbook) written in Rust](https://github.com/dgtony/orderbook-rs)
 - [matching_engine](https://github.com/fmstephe/matching_engine) - Simple financial trading matching engine. Built to learn more about how they work.
+- [How to Build an Exchange (2017)](https://www.youtube.com/watch?v=b1e4t2k2KJY)

@@ -667,3 +667,4 @@ title: Linux
 - [debos](https://github.com/go-debos/debos) - Debian OS builder.
 - [Debugger for Linux in Rust](https://github.com/gamozolabs/lemonade)
 - [Safer Linux Kernel Modules Using the D Programming Language (2022)](https://ieeexplore.ieee.org/document/9987502) ([HN](https://news.ycombinator.com/item?id=34260355)) ([Lobsters](https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d))
+- [2022 ClangBuiltLinux Retrospective](https://nathanchance.dev/posts/2022-cbl-retrospective/)

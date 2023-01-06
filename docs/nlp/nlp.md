@@ -1,6 +1,6 @@
 # Natural language processing
 
-Find [generative ML](../machine-learning/generative-machine-learning.md) like [# Stable Diffusion](https://github.com/Stability-AI/stablediffusion) fascinating.
+Find [generative ML](../machine-learning/generative-machine-learning.md) like [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) fascinating.
 
 [spaCy](https://spacy.io/) (with their [NLP course](https://github.com/explosion/spacy-course)) & [Fairseq](https://github.com/facebookresearch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 

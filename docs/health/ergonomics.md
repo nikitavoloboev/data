@@ -108,3 +108,4 @@ Together with above, I try do many [exercises](../fitness/exercises.md) that tar
 - [Upsy Desky](https://github.com/tjhorner/upsy-desky) - Smartify your standing desk.
 - [Posture Reddit](https://www.reddit.com/r/Posture/)
 - [Fix your spine: A goldmine of practices for better posture](https://www.reddit.com/r/Posture/comments/t7guck/fix_your_spine_a_goldmine_of_practices_for_better/)
+- [A guide to fixing Developer Posture](https://gaylelaakmann.substack.com/p/a-guide-to-fixing-computer-guy-posture) ([Reddit](https://www.reddit.com/r/programming/comments/1045o8l/a_guide_to_fixing_developer_posture/))
