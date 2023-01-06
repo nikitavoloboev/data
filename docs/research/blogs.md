@@ -287,6 +287,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Frank Denis](https://00f.net/)
 - [Simon Boehm](https://siboehm.com/)
 - [Dominik Dorfmeister](https://tkdodo.eu/blog/all)
+- [The n-Category Café](https://golem.ph.utexas.edu/category/)
 
 ## Notes
 

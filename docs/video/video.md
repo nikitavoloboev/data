@@ -48,6 +48,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 
 - [In 'Mad Max: Fury Road' (2015) Margaret Sixel purposely removed frames in scenes to make you feel as anxious as Max.](https://twitter.com/Delivery_Pig/status/1395829946413690880)
 - [Hide self view in video calls to make them less draining. The brain uses a tremendous amount of energy looking at itself.](https://twitter.com/maccaw/status/1403129131622088704)
+- [`mkvmerge -o output.mkv input.mkv subs.srt` = embed subtitle file into `.mkv` video file](https://superuser.com/questions/609113/how-to-add-and-remove-subtitles-in-an-mkv-file)
 
 ## Links
 

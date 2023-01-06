@@ -49,3 +49,4 @@ title: Qt
 - [Runnning lambda functions on a specific thread with Qt (2022)](https://lnj.gitlab.io/post/running-lambdas-on-a-thread-with-qt/)
 - [Rust Qt Binding Generator](https://github.com/KDE/rust-qt-binding-generator) - Generate bindings to use Rust code in Qt and QML.
 - [Add moc includes to speed up Qt compilation (2022)](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
+- [Compiling QML to C++: A 4x speedup (2023)](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)

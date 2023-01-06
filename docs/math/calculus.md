@@ -32,3 +32,4 @@
 - [The Shadowy World of Umbral Calculus (2022)](https://www.youtube.com/watch?v=D0EUFP7-P1M)
 - [A look inside Feynman’s calculus notebook](https://physicstoday.scitation.org/do/10.1063/PT.5.9099/full/) ([HN](https://news.ycombinator.com/item?id=32791978))
 - [The Verse Calculus: a Core Calculus for Functional Logic Programming (2022)](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
+- [A Curious Integral (2023)](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
