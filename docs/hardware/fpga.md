@@ -128,3 +128,4 @@ title: Field-programmable gate array
 - [BoxLambda](https://github.com/epsilon537/boxlambda) - FPGA based microcomputer sandbox for software and RTL experimentation.
 - [F4PGA examples](https://github.com/chipsalliance/f4pga-examples) - Example designs showing different ways to use F4PGA toolchains.
 - [Rust HDL](https://github.com/samitbasu/rust-hdl) - Write FPGA Firmware using Rust.
+- [Experiments with Cologne Chip's GateMate FPGA architecture](https://github.com/tmeissner/gatemate_experiments)
