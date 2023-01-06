@@ -767,3 +767,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [LM Identifier](https://github.com/jaketae/lm-identifier) - Toolkit for identifying pretrained language models from potentially AI-generated text.
 - [BRIO: Bringing Order to Abstractive Summarization (2022)](https://arxiv.org/abs/2203.16804) ([Code](https://github.com/yixinL7/BRIO))
 - [DOC: Improving Long Story Coherence With Detailed Outline Control (2022)](https://arxiv.org/abs/2212.10077) ([Code](https://github.com/yangkevin2/doc-story-generation))
+- [InPars: Data Augmentation for Information Retrieval using Large Language Models (2022)](https://arxiv.org/abs/2202.05144) ([Code](https://github.com/zetaalphavector/inPars))
