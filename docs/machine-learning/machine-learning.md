@@ -1035,3 +1035,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Editing Models with Task Arithmetic (2022)](https://arxiv.org/abs/2212.04089) ([Code](https://github.com/mlfoundations/task_vectors))
 - [POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging (2022)](https://arxiv.org/abs/2207.07697) ([Code](https://github.com/ShishirPatil/poet))
 - [Amortized Inference for Causal Structure Learning (2022)](https://arxiv.org/abs/2205.12934) ([Code](https://github.com/larslorch/avici))
+- [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co)

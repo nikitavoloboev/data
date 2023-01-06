@@ -63,3 +63,4 @@ title: Satisfiability modulo theories
 - [Pono](https://github.com/upscale-project/pono) - Performant, adaptable, and extensible SMT-based model checker implemented in C++.
 - [Go-Z3](https://github.com/mitchellh/go-z3) - Go Bindings to the Z3 Theorem Prover.
 - [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing (2022)](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html) ([HN](https://news.ycombinator.com/item?id=34005791))
+- [NeuroSAT](https://github.com/dmeoli/NeuroSAT) - Neuro-symbolic approaches to the SAT problem.

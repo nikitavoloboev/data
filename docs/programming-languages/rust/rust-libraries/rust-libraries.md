@@ -797,6 +797,7 @@
 - [Birdcage](https://github.com/phylum-dev/birdcage) - Cross-platform embeddable sandboxing library allowing restrictions to Filesystem and Network operations using native operating system APIs.
 - [noline](https://github.com/rustne-kretser/noline) - IO-agnostic line editor for embedded systems.
 - [mpu9250](https://github.com/copterust/mpu9250) - No_std driver for the MPU9250 & onboard AK8963 (accelerometer + gyroscope + magnetometer IMU).
+- [esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
 
 ## ML
 

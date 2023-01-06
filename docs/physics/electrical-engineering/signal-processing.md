@@ -67,3 +67,4 @@ title: Signal processing
 - [cuSignal](https://github.com/rapidsai/cusignal) - RAPIDS Signal Processing Library.
 - [Image Signal Processing (ISP) Guide](https://github.com/mikeroyal/ISP-Guide)
 - [Spek](https://github.com/alexkay/spek) - Acoustic spectrum analyzer.
+- [Go DSP Utils](https://github.com/eripe970/go-dsp-utils) - Digital signal processing package for Go.
