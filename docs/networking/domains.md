@@ -1,6 +1,14 @@
 # Domains
 
-Prefer to use [Google Domains](https://domains.google/) over everything. I like to subdomain over my personal site in order to not pay the domain cost for nearly all personal projects I work on. Saves on cost.
+Prefer to buy domains from [Google Domains](https://domains.google/) or [Cloudflare](https://www.cloudflare.com/en-gb/products/registrar/).
+
+I like to subdomain over my [personal site](https://nikiv.dev) in order to not pay the domain cost for nearly all personal projects I work on. Saves on cost.
+
+I use [Cloudflare](https://www.cloudflare.com/en-gb/) to handle [DNS](dns.md).
+
+## Notes
+
+- Compare the price between the domain registrars as they can have different prices. Who owns the domain has no effect on latency on accessing the website.
 
 ## Links
 
