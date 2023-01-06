@@ -18,7 +18,7 @@ I use [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) to
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up. The app I mentioned above will cover the use case of Bobby too so hopefully I won't need this app in future.
 
-![](https://i.imgur.com/bnSKuB0.png)
+![](https://images.nikiv.dev/Bobby-2022.PNG)
 
 ## Tracking what to buy next
 

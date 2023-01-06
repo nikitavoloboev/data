@@ -1196,3 +1196,4 @@
 - [npmhub](https://github.com/npmhub/npmhub) - Browser extension to explore npm dependencies on GitHub repos.
 - [URL manipulation cheat sheet for JavaScript](https://github.com/azu/url-cheatsheet)
 - [NPM Graph](https://npmgraph.js.org/) - Tool for exploring NPM modules and dependencies. ([Code](https://github.com/npmgraph/npmgraph))
+- [JavaScript Frameworks in 2023](https://www.youtube.com/watch?v=6RIPfwxj24s)

@@ -741,3 +741,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: Pros and cons of thinking in public vs. in private? (2023)](https://news.ycombinator.com/item?id=34223288)
 - [Ask HN: How many of you are open to Piracy again? (2023)](https://news.ycombinator.com/item?id=34259279)
 - [Harry Potter: The Gen Z Edition](https://github.com/typoes/harry-potter-gen-z)
+- [Ask HN: Share Your Personal Site (2023)](https://news.ycombinator.com/item?id=34279215)

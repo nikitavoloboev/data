@@ -226,3 +226,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Hono Client](https://github.com/honojs/client) - TypeSafe HTTP Client for Hono.
 - [Cloudflare Worker JWT](https://github.com/tsndr/cloudflare-worker-jwt) - Lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
 - [itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 schema generator and validator for Cloudflare Workers.
+- [Cloudflare Community](https://community.cloudflare.com/)

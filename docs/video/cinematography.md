@@ -46,3 +46,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Who are some visionary cinematographers that go beyond the cinematography conventions? (2022)](https://www.reddit.com/r/TrueFilm/comments/ur0x5f/who_are_some_visionary_cinematographers_that_go/)
 - [Share the best cinematography advice you ever got (2022)](https://www.reddit.com/r/cinematography/comments/vsanwm/share_the_best_cinematography_advice_you_ever_got/)
 - [Kinograph](https://www.kinograph.cc/) - Open-Source Film Digitization.
+- [When you live and breathe cinema (2022)](https://www.youtube.com/watch?v=xOX_5kbA47s)
