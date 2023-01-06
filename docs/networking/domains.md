@@ -2,7 +2,7 @@
 
 Prefer to buy domains from [Google Domains](https://domains.google/), [Cloudflare](https://www.cloudflare.com/en-gb/products/registrar/) or [Porkbun](https://porkbun.com/). Whoever has cheapest renew.
 
-I like to subdomain over my [personal site](https://nikiv.dev) for nearly nearly all personal projects I work on. Saves on cost.
+I like to subdomain over my [personal site](https://nikiv.dev) for nearly all personal projects I work on. Saves on cost.
 
 I use [Cloudflare](https://www.cloudflare.com/en-gb/) to handle [DNS](dns.md).
 

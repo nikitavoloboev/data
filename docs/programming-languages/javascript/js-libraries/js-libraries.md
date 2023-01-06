@@ -1095,6 +1095,7 @@
 - [LDT](https://github.com/kueblc/LDT) - Lightweight in browser syntax highlighting.
 - [js-tokens](https://github.com/lydell/js-tokens) - Tiny JavaScript tokenizer.
 - [rregex](https://github.com/2fd/rregex) - WebAssembly build of Rust Regex for JavaScript.
+- [Cuid2](https://github.com/paralleldrive/cuid2) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.
 
 ## Links
 

@@ -40,3 +40,4 @@ title: Azure
 - [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python)
 - [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor) - Monitoring/debugging UI tool for Azure Durable Functions.
 - [Docker containers for running training scripts on AzureML](https://github.com/Azure/AzureML-Containers)
+- [Terraform Azure RM Compute Module](https://github.com/Azure/terraform-azurerm-compute)

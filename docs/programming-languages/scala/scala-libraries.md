@@ -269,3 +269,4 @@
 - [Scala Template](https://github.com/scala/hello-world.g8)
 - [Scala One](https://github.com/propensive/one) - Platform of libraries for Scala 3.
 - [Managing micro libraries with Scala CLI - Alexandre Archambault (2022)](https://www.youtube.com/watch?v=_wG-DZ0FMQY)
+- [dexsearch](https://github.com/neandertech/dexsearch) - CLI lets you search for Scala libraries via Scaladex, and stores them in your clipboard, well formatted, ready to paste in build files and scripts.

@@ -575,3 +575,4 @@
 - [WhyTheFuckIsMyNetworkSoSlow](https://github.com/SophistSolutions/WhyTheFuckIsMyNetworkSoSlow) - Network performance analysis tool, making it easy to quickly examine a network and see what is wrong, and to evaluate longer term trends.
 - [Self-hosted home network monitoring with ntopng, a Fritz Box and an home server (2022)](https://davquar.it/post/self-hosting/ntopng-fritzbox-monitoring/)
 - [MT-bulk](https://github.com/migotom/mt-bulk) - Automate sending mass commands to Mikrotik devices using SSH, SSL API and by REST API gateway.
+- [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker.

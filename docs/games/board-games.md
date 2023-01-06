@@ -73,3 +73,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Ask HN: Best board games of 2022?](https://news.ycombinator.com/item?id=33990944)
 - [We’re in a golden age of board games (2022)](https://www.washingtonpost.com/business/2022/12/24/board-game-popularity/) ([HN](https://news.ycombinator.com/item?id=34121880))
 - [What are your Top 3 most played board games that are over 60 minutes long? (2023)](https://www.reddit.com/r/boardgames/comments/103xdv4/what_are_your_top_3_most_played_boardgames_that/)
+- [Tabletop](https://github.com/repeated-pleasant-games/tabletop) - Feature-light virtual tabletop (VTT) that provides the bare essentials for playing tabletop role playing games online.

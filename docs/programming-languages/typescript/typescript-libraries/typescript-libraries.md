@@ -743,6 +743,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [subtitle](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files.
 - [cdate](https://github.com/kawanet/cdate) - Compact calendar date.
 - [contented](https://github.com/GuccioGucci/contented) - Library to coerce values at run-time.
+- [key-value-cache](https://github.com/Cadienvan/key-value-cache) - Simple in-memory key-value cache for function execution, allowing both sync and async operations using the same methods.
+- [expirables](https://github.com/Cadienvan/expirables) - Zero dependency package that provides some expirable implementations of common Data Structures.
 
 ## Links
 

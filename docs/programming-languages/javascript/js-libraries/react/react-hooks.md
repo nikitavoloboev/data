@@ -36,6 +36,8 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [derive-zustand](https://github.com/dai-shi/derive-zustand) - Function to create a derived Zustand store from stores.
 - [valtio-signal](https://github.com/dai-shi/valtio-signal) - React binding for Valtio proxy state.
 - [zustand-signal](https://github.com/dai-shi/zustand-signal) - React binding for Zustand.
+- [Yjs React Bindings](https://github.com/joebobmiles/y-react)
+- [Yjs Middleware for Zustand](https://github.com/joebobmiles/zustand-middleware-yjs)
 
 ## DB
 
