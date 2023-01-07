@@ -168,7 +168,7 @@ for i, _ in enumerate(nums):
 - [An exploration of why Python doesn't require a 'main' function (2020)](https://utcc.utoronto.ca/~cks/space/blog/python/WhyNoMainFunction)
 - [Ask HN: How do I teach intermediate Python engineering skills? (2020)](https://news.ycombinator.com/item?id=23849070)
 - [Creating a virtual env in Python steps (2020)](https://news.ycombinator.com/item?id=24022583)
-- [futurecoder](https://futurecoder.herokuapp.com/) - Platform for beginners to learn programming in Python. ([HN](https://news.ycombinator.com/item?id=24020906))
+- [FutureCoder](https://futurecoder.io/) - Platform for beginners to learn programming in Python. ([HN](https://news.ycombinator.com/item?id=24020906)) ([Code](https://github.com/alexmojaki/futurecoder)) ([HN](https://news.ycombinator.com/item?id=34289581))
 - [Exactly-Once Initialization in Asynchronous Python (2020)](https://nullprogram.com/blog/2020/07/30/)
 - [Dive Into Python 3 book](https://diveintopython3.net/) ([Code](https://github.com/diveintomark/diveintopython3))
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)

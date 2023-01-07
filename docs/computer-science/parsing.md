@@ -137,3 +137,4 @@
 - [lang-pt](https://github.com/creative-forest/lang-pt) - Language parser tool to build recursive descent top down parser.
 - [Generalized LL (GLL) Parser (2022)](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
 - [Tree Sitter Grammar.js LSP](https://github.com/keynmol/tree-sitter-grammar-lsp)
+- [Faster general parsing through context-free memoization (2020)](https://dl.acm.org/doi/abs/10.1145/3385412.3386032)

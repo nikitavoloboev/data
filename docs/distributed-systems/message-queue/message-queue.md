@@ -4,6 +4,8 @@ title: Message queue
 
 # [Message queue](https://en.wikipedia.org/wiki/Message_queue)
 
+[Never ever use a database as a message queue](https://blog.chiselstrike.com/dear-application-developer-how-far-can-you-really-go-without-a-message-queue-d9e5385fab64) is great read.
+
 ## Links
 
 - [patchbay](https://patchbay.pub/) - Message queue implemented over HTTP. ([Lobsters](https://lobste.rs/s/t8dsft/patchbay_poor_man_s_message_queue))
@@ -40,7 +42,7 @@ title: Message queue
 - [Valet](https://github.com/svaloumas/valet) - Job queuing service and async task runner.
 - [Bonsaimq](https://github.com/FlixCoder/bonsaimq) - Simple database message queue based on bonsaidb.
 - [Awesome Queues](https://github.com/tonyhb/awesome-queues-jobs-and-tasks) - Curated list of awesome queueing systems for background jobs and distributed tasks.
-- [How far can you go without a message queue? (2022)](https://blog.chiselstrike.com/dear-application-developer-how-far-can-you-really-go-without-a-message-queue-d9e5385fab64) ([HN](https://news.ycombinator.com/item?id=32563909))
+- [Never ever use a database as a message queue (2022)](https://blog.chiselstrike.com/dear-application-developer-how-far-can-you-really-go-without-a-message-queue-d9e5385fab64) ([HN](https://news.ycombinator.com/item?id=32563909))
 - [LavinMQ](https://github.com/cloudamqp/lavinmq) - A message queue server that implements the AMQP protocol. Written in Crystal.
 - [Write Your Own Task Queue (2022)](https://danpalmer.me/2022-09-10-write-your-own-task-queue/)
 - [Pulsar](https://github.com/apache/pulsar) - Distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
