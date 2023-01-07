@@ -38,6 +38,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 
 ## Notes
 
+- [For rust to be fast your dependency hierarchy must be very flat. The more dependent your modules are, the slower incremental builds will be.](https://www.reddit.com/r/rust/comments/104md0s/is_coding_in_rust_as_bad_as_in_c_a_practical/)
 - [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)
 - [Every reference in Rust has a lifetime, but the compiler is usually smart enough to infer it.](https://news.ycombinator.com/item?id=24294960)
 - [Rust's key feature - the borrow-checker - relies on the idea that each value has a single "owner" at any given time. This owner can be a function, another value (a parent struct), etc. You can put these values on the heap, but if you use Box (the go-to for heap allocation), that pointer still has to have a single logical "owner". Under idiomatic Rust, each value effectively lives in one single "place". This allows the compiler to determine with 100% confidence at what point it's no longer being used and can therefore be de-allocated.](https://news.ycombinator.com/item?id=24991848)

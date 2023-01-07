@@ -315,3 +315,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Embed Tweets on your site with minimal JS, thanks to Qwik](https://github.com/mhevery/qwik-twitter)
 - [Python Twitter Examples](https://github.com/ideoforms/python-twitter-examples) - Examples of using Python for Twitter social data mining, using the python-twitter-tools framework.
 - [Convert Twitter threads from archive to Markdown files](https://github.com/duncanmalashock/tweetparse)
+- [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast (2023)](https://thume.ca/2023/01/02/one-machine-twitter/)

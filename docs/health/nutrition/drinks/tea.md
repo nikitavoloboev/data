@@ -14,6 +14,7 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Lapsang souchong](https://www.teashop.com/black-tea-formosa-tarry-lapsang-souchong)
 - [Lord Bergamot, Earl Grey Black Tea](https://www.smithtea.com/products/lord-bergamot)
 - [Puer tea blend mini cakes](https://white2tea.com/products/2022-941-mini-longzhu-dragon-pearl-raw-puer)
+- [Genmaicha](https://www.reddit.com/r/tea/comments/104y0he/genmaicha_tea_made_in_a_kyusu_teapot/)
 
 ## Notes
 
