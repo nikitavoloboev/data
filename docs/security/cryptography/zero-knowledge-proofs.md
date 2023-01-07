@@ -144,3 +144,4 @@ title: Zero knowledge proofs
 - [VMtropy](https://github.com/lambdaclass/VMtropy) - ZK snark-based VM running Aleo Instructions.
 - [Proofs, Arguments, and Zero-Knowledge (2022)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - [zk-starter](https://github.com/cawfree/zk-starter) - Zero knowledge for those with zero knowledge.
+- [Verifiable AES: encryption using zero-knowledge proofs (2023)](https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/) ([Lobsters](https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero))

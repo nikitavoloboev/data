@@ -119,3 +119,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD on the Raspberry Pi](https://cromwell-intl.com/open-source/samba-active-directory/freebsd-raspberry-pi.html) ([HN](https://news.ycombinator.com/item?id=33863269))
 - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
 - [A Decade of HardenedBSD (2023)](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
+- [I feel for the NetBSD community (2023)](https://rubenerd.com/i-feel-for-the-netbsd-community/)
