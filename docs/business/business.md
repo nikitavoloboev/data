@@ -162,3 +162,4 @@ Learning to build [startups](startups/startups.md).
 - [How to best start a Personal Holding Company (PHC) (2022)](https://twitter.com/mikekarnj/status/1584619808850513921)
 - [Robinhood lists](https://bigballi.com/blog/robinhood-lists)
 - [How The Pandora Papers Actually Work](https://www.youtube.com/watch?v=0uLhh5GSxsQ)
+- [Ask HN: How to learn business being a software engineer (2023)](https://news.ycombinator.com/item?id=34300896)

@@ -96,7 +96,7 @@
 
 ## CLI
 
-- [Owl](https://github.com/fuelen/owl) - Toolkit for writing command-line user interfaces.
+- [Owl](https://github.com/fuelen/owl) - Toolkit for writing command-line user interfaces. ([Docs](https://hexdocs.pm/owl/readme.html)) ([HN](https://news.ycombinator.com/item?id=34300893))
 - [Vexil](https://github.com/Ovyerus/vexil) - Elixir flag parser that does just enough.
 - [Artificery](https://github.com/bitwalker/artificery) - Toolkit for creating terminal user interfaces in Elixir.
 - [ExTermbox](https://github.com/ndreynolds/ex_termbox) - Low-level termbox bindings for Elixir.

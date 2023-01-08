@@ -359,6 +359,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Books for Software Engineers in 2023](https://grantisom.com/2023/01/02/mustread-books-for.html) ([HN](https://news.ycombinator.com/item?id=34225417))
 - [Reading List - Lex Fridman](https://lexfridman.com/reading-list/) ([Analysis](https://blog.des.io/posts/lex-fridmans-reading-plan/)) ([HN](https://news.ycombinator.com/item?id=34253810))
 - [Bookshelf - Kent Hendricks](https://kenthendricks.com/bookshelf/)
+- [Ask HN: What are you looking forward to reading in 2023?](https://news.ycombinator.com/item?id=34300803)
 
 ## Interesting Prose Books
 

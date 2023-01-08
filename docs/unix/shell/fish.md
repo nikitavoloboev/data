@@ -43,3 +43,4 @@ I use Fish as my main shell now. My config for it is [here](https://github.com/n
 - [FishFeeder](https://github.com/itohio/FishFeeder) - Automatic fish feeder using ESP32 M5StickC written in Go and flashed using TinyGo.
 - [fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - Help you remembering your abbreviations.
 - [fifc](https://github.com/gazorby/fifc) - Configurable fzf completions for fish shell.
+- [Fish 3.6.0 (2023)](https://github.com/fish-shell/fish-shell/releases/tag/3.6.0) ([HN](https://news.ycombinator.com/item?id=34298157))

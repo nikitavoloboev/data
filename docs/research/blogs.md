@@ -290,6 +290,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [The n-Category Café](https://golem.ph.utexas.edu/category/)
 - [Tristan Hume](https://thume.ca/archive.html)
 - [Lior Sinai](https://liorsinai.github.io/)
+- [Fan Pu Zeng](https://fanpu.io/blog/)
 
 ## Notes
 

@@ -316,3 +316,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Python Twitter Examples](https://github.com/ideoforms/python-twitter-examples) - Examples of using Python for Twitter social data mining, using the python-twitter-tools framework.
 - [Convert Twitter threads from archive to Markdown files](https://github.com/duncanmalashock/tweetparse)
 - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast (2023)](https://thume.ca/2023/01/02/one-machine-twitter/) ([HN](https://news.ycombinator.com/item?id=34291191))
+- [Twitter performance prototype](https://github.com/trishume/twitterperf) - Rust prototype of handling the full production load of Twitter's core timeline collation on a single core by only doing the very basics in-memory.

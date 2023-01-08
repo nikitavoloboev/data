@@ -166,3 +166,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Commutative diagrams with TikZ](https://github.com/astoff/tikz-cd)
 - [SVG to TikZ converter](https://github.com/johnsbrew/svg2tikz)
 - [Random collection of standalone TikZ images](https://github.com/janosh/tikz)
+- [The Art of LaTeX: Advice for Typesetting Beautiful, Delightful Proofs (2023)](https://fanpu.io/blog/2023/latex-tips/) ([HN](https://news.ycombinator.com/item?id=34299304))
