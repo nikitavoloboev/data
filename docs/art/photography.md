@@ -269,3 +269,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Moment](https://www.shopmoment.com/) - Marketplace for Photographers and Filmmakers. ([Twitter](https://twitter.com/moment))
 - [CINEMATIC Film Photography in Japan [Kodak Vision3, XPan] (2022)](https://www.youtube.com/watch?v=ZZ8tSxi2YrY)
 - [Колесо Собаки | Подкаст о фотографии](https://kolesosobaki.mave.digital/)
+- [Post-processing is ruining iPhone photos (2023)](https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/) ([HN](https://news.ycombinator.com/item?id=34290470))

@@ -311,3 +311,4 @@
 - [multiplayer MUD server for a game in Go](https://github.com/jasonbot/mud)
 - [Remaking old computer graphics with AI image generation (2023)](https://jalammar.github.io/ai-image-generation-tools/) ([HN](https://news.ycombinator.com/item?id=34212564))
 - [The System Behind Hades' Astounding Dialogue](https://www.youtube.com/watch?v=bwdYL0KFA_U)
+- [Ask HN: How to move from traditional tech into game dev? (2023)](https://news.ycombinator.com/item?id=34295863)

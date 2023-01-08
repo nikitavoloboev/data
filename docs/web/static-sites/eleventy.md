@@ -54,3 +54,4 @@ title: Eleventy
 - [Edge-powered Search, Images feed the Data Cascade, Empty Results Pagination (2022)](https://www.youtube.com/watch?v=oCTAZumAGNc)
 - [eleventy-plugin-prismic](https://github.com/prismicio-community/eleventy-plugin-prismic) - Eleventy plugin and shortcodes to fetch and present Prismic content.
 - [Exploring 11ty with Zach Leatherman (2022)](https://www.youtube.com/watch?v=iuwqOkH6jKY)
+- [Eleventy Discord](https://discord.com/invite/GBkBy9u)

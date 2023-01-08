@@ -209,3 +209,4 @@ title: RISC-V
 - [Olympia](https://github.com/riscv-software-src/riscv-perf-model) - Example RISC-V Out-of-Order/Superscalar Processor Performance Core and MSS Model.
 - [Pydrofoil](https://github.com/pydrofoil/pydrofoil) - Fast RISC-V emulator based on the RISC-V Sail model.
 - [How RISC-V Timer Interrupts Work (2022)](https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/) ([HN](https://news.ycombinator.com/item?id=34154406))
+- [How Secure Are RISC-V Chips? (2023)](https://semiengineering.com/how-secure-are-risc-v-chips/)

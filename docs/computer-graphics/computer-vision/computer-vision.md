@@ -1084,3 +1084,4 @@
 - [PETR: Position Embedding Transformation for Multi-View 3D Object Detection (2022)](https://github.com/megvii-research/PETR)
 - [Awesome Deep Optics/End-to-end Optical Design](https://github.com/singer-yang/awesome-deep-optics)
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling (2023)](https://arxiv.org/abs/2301.02238) ([Code](https://github.com/facebookresearch/hyperreel))
+- [Image generation with MNIST (2022)](https://liorsinai.github.io/coding/2022/12/29/denoising-diffusion-2-unet.html)

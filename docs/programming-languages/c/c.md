@@ -157,7 +157,7 @@
 - [Undefined behavior in C is a reading error (2021)](https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/) ([Lobsters](https://lobste.rs/s/zmxvml/undefined_behavior_c_is_reading_error))
 - [lacc](https://github.com/larmel/lacc) - Simple, self-hosting C compiler.
 - [RefinedC: Automating the Foundational Verification of C Code with Refined Ownership Types (2021)](https://plv.mpi-sws.org/refinedc/paper.pdf) ([HN](https://news.ycombinator.com/item?id=27265329))
-- [Modern C for C++ Peeps (2019)](https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html)
+- [Modern C for C++ Peeps (2019)](https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html) ([HN](https://news.ycombinator.com/item?id=34287562))
 - [Libdill: Structured Concurrency for C (2016)](http://libdill.org/structured-concurrency.html) ([HN](https://news.ycombinator.com/item?id=27357295))
 - [Goodbye C++, Hello C (2021)](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html) ([HN](https://news.ycombinator.com/item?id=27637266))
 - [CompCert](https://github.com/AbsInt/CompCert) - Formally-verified C compiler. ([Web](https://compcert.org/)) ([HN](https://news.ycombinator.com/item?id=27648735))

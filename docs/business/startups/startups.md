@@ -411,6 +411,7 @@ Great [management](../../management/management.md) together with being able to [
 - [The Marketplace Library (2021)](https://alexfmac.substack.com/p/the-marketplace-library-)
 - [Europe's Youngest Billionaire (2022)](https://www.youtube.com/watch?v=FCP_KbpA3jI)
 - [Startup Lessons from 2 Years Building Airplane.dev (2022)](https://www.airplane.dev/blog/startup-lessons-from-2-years-building-airplane-dev)
+- [Ask HN: Main things to consider when building an app for business/enterprise? (2023)](https://news.ycombinator.com/item?id=34287685)
 
 ## Images
 

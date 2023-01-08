@@ -187,6 +187,7 @@ And these Discord servers:
 - [Asterisk](https://asteriskmag.com/)
 - [Dwell](https://www.dwell.com/) - Modern living, home design ideas, inspiration, and advice.
 - [n+1](https://www.nplusonemag.com/) - Print and digital magazine of literature, culture, and politics.
+- [The Baffler](https://thebaffler.com/)
 
 ### Other
 

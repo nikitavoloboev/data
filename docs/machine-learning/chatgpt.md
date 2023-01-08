@@ -40,3 +40,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Creating a Sarcastic Chatbot with Node.js & OpenAI API (2023)](https://medium.com/@adam_92987/sarcastic-gpt-3-chatbot-who-can-remember-anything-built-in-node-js-openai-api-a84d64d5febc) ([Code](https://github.com/iceener/tuesday-chatbot-gpt-3))
 - [ChatGPT Assistant](https://github.com/msfrisbie/chat-gpt-assistant) - Browser Extension to integrate ChatGPT everywhere.
 - [GPTDuck](https://www.gptduck.com/) - Ask questions about any GitHub repo. ([HN](https://news.ycombinator.com/item?id=34262587))
+- [ChatGPT won’t replace search engines any time soon (2023)](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/) ([HN](https://news.ycombinator.com/item?id=34291565))

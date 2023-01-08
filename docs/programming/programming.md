@@ -641,3 +641,4 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Hard truths I learned when I got laid off from my SWE job (2022)](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off) ([HN](https://news.ycombinator.com/item?id=34161822))
 - [Prefer Composition Over Inheritance - What Does It Mean? (2022)](https://www.youtube.com/watch?v=hxGOiiR9ZKg)
 - [Making an Algorithm 16,062 Times Faster (2023)](https://www.youtube.com/watch?v=U16RnpV48KQ)
+- [Things they didn’t teach you about software engineering (2023)](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/) ([HN](https://news.ycombinator.com/item?id=34282339))

@@ -289,6 +289,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Dominik Dorfmeister](https://tkdodo.eu/blog/all)
 - [The n-Category Café](https://golem.ph.utexas.edu/category/)
 - [Tristan Hume](https://thume.ca/archive.html)
+- [Lior Sinai](https://liorsinai.github.io/)
 
 ## Notes
 

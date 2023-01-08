@@ -53,3 +53,4 @@
 - [Justune](https://justune.eu/#/) - Guitar tuner app using Flutter and Rust. ([HN](https://news.ycombinator.com/item?id=33150260))
 - [Tobias's Guitar Academy](https://tobiasguitar.com/)
 - [Awesome Guitar](https://github.com/sfischer13/awesome-guitar)
+- [Guitar Effects Guidebook, Vol. 20](https://static.roland.com/assets/media/pdf/guitar_effects_guidebook_vol_20.pdf) ([HN](https://news.ycombinator.com/item?id=34288383))

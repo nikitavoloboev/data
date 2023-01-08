@@ -151,3 +151,4 @@
 - [What I Want from DataFusion in 2023](https://andygrove.io/2023/01/what-i-want-from-datafusion-2023/)
 - [xvc](https://github.com/iesahin/xvc) - Fast and robust MLOps tool for managing data and pipelines.
 - [Recap](https://github.com/recap-cloud/recap) - Dead simple data catalog for engineers.
+- [Modern Polars: a comparison of the Polars and Pandas dataframe libraries](https://kevinheavey.github.io/modern-polars/) ([HN](https://news.ycombinator.com/item?id=34275818)) ([Code](https://github.com/kevinheavey/modern-polars))

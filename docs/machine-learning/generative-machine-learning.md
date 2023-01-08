@@ -293,3 +293,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Diffusion Deploy](https://github.com/Lightning-AI/stable-diffusion-deploy) - Learn to serve Stable Diffusion models on cloud infrastructure at scale.
 - [Muse: Text-To-Image Generation via Masked Generative Transformers (2023)](https://arxiv.org/abs/2301.00704) ([Web](https://muse-model.github.io/)) ([Tweet](https://twitter.com/AlphaSignalAI/status/1610404589966180360)) ([Code](https://github.com/lucidrains/muse-pytorch))
 - [How the physics of diffusion inspired modern AI art (2023)](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)
+- [Denoising Diffusion models from first principle in Julia (2022)](https://liorsinai.github.io/coding/2022/12/03/denoising-diffusion-1-spiral.html) ([HN](https://news.ycombinator.com/item?id=34273610))
+- [Guided denoising diffusion (2023)](https://liorsinai.github.io/coding/2023/01/04/denoising-diffusion-3-guidance.html)

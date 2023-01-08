@@ -110,7 +110,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Mongoose](https://hg.sr.ht/~icefox/mongoose/) - Small toy OS with no memory protection. ([Lobsters](https://lobste.rs/s/4kv3qc/mongoose_small_toy_os_with_no_memory))
 - [Node Replicated Kernel](https://github.com/vmware-labs/node-replicated-kernel) - Research OS kernel for x86-64 (amd64) machines written in rust. ([Web](https://nrkernel.systems/)) ([Book](https://nrkernel.systems/book/))
 - [Multics](https://multicians.org/) - Pioneering operating system, commonly considered the "progenitor" of the UNIX operating system. ([Code](https://github.com/dancrossnyc/multics))
-- [Tilck](https://github.com/vvaltchev/tilck) - Tiny Linux-Compatible Kernel.
+- [Tilck](https://github.com/vvaltchev/tilck) - Tiny Linux-Compatible Kernel. ([HN](https://news.ycombinator.com/item?id=34295165))
 - [Airyx OS](http://airyx.org/) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS. ([Code](https://github.com/mszoek/airyx)) ([HN](https://news.ycombinator.com/item?id=28068542)) ([Lobsters](https://lobste.rs/s/jsvcu3/airyx_os)) ([HN](https://news.ycombinator.com/item?id=28087092))
 - [Lemon OS](https://lemonos.org/) - UNIX-like 64-bit operating system written in C++. ([Code](https://github.com/LemonOSProject/LemonOS))
 - [Pumpkin OS](https://pmig96.wordpress.com/2021/09/08/pumpkin-os/) - x64 port/re-implementation of PalmOS. ([Lobsters](https://lobste.rs/s/m8mhb1/pumpkin_os))

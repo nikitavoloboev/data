@@ -240,3 +240,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Songtell](https://www.songtell.com/) - Your song meaning teller. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/zluze6/i_made_a_website_that_explains_you_the_meaning_of/))
 - [Riffusion](https://www.riffusion.com/about) - Stable Diffusion fine-tuned to generate music. ([HN](https://news.ycombinator.com/item?id=33999162))
 - [Seesu](http://seesu.me/) - Last.fm recommendations and music downloads mashup application.
+- [Jazz Is Freedom (2022)](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) ([HN](https://news.ycombinator.com/item?id=34284645))
