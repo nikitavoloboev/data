@@ -138,3 +138,4 @@
 - [Personal File Share CLI (2022)](https://healeycodes.com/a-personal-file-share-cli)
 - [Plik](https://github.com/root-gg/plik) - Scalable & friendly temporary file upload system (Wetransfer like) in Go.
 - [Blaze](https://github.com/blenderskool/blaze) - File sharing progressive web app built using WebTorrent and WebSockets. ([Web](https://blaze.vercel.app/))
+- [CDC File Transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux. ([HN](https://news.ycombinator.com/item?id=34303497))

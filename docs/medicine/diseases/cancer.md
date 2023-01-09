@@ -49,3 +49,4 @@ Michael Levin's [thoughts on cancer suppression](https://www.youtube.com/watch?v
 - [CRISPR cancer trial success paves the way for personalized treatments (2022)](https://www.nature.com/articles/d41586-022-03676-7) ([HN](https://news.ycombinator.com/item?id=33554141))
 - [Base editing: Revolutionary therapy clears girl's incurable cancer (2022)](https://news.ycombinator.com/item?id=33939491)
 - [I’ve been battling cancer last 2 years, but now only have a few days left](https://news.ycombinator.com/item?id=34038601)
+- [Ask HN: What good sources of information on ovarian cancer treatments? (2023)](https://news.ycombinator.com/item?id=34305805)

@@ -313,3 +313,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Ask HN: What are your best and safest investment options? (2022)](https://news.ycombinator.com/item?id=34136401)
 - [QuantStats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python.
 - [What is the most valuable investing/trading lesson you have learned? (2023)](https://www.reddit.com/r/investing/comments/106ixk8/what_is_the_most_valuable_investingtrading_lesson/)
+- [Ask HN: How to Invest $700k USD? (2023)](https://news.ycombinator.com/item?id=34304142)

@@ -106,3 +106,4 @@
 - [Portable Secret](https://github.com/mprimi/portable-secret) - How I store my secrets and communicate privately. ([Web](https://mprimi.github.io/portable-secret/)) ([HN](https://news.ycombinator.com/item?id=34083366))
 - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation (2022)](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
 - [Hyperbacked](https://github.com/Twometer/hyperbacked) - Stores secrets securely using printable PDFs that contain encrypted QR-Codes.
+- [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)

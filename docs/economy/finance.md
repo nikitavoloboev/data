@@ -252,3 +252,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [matching_engine](https://github.com/fmstephe/matching_engine) - Simple financial trading matching engine. Built to learn more about how they work.
 - [How to Build an Exchange (2017)](https://www.youtube.com/watch?v=b1e4t2k2KJY)
 - [Show HN: List of Stripe Alternatives (2023)](https://news.ycombinator.com/item?id=34281730)
+- [Invoice Template – Figma](https://www.figma.com/community/file/1134906513047172687)

@@ -265,3 +265,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [B-Spline-Curve-Editor](https://github.com/natevm/B-Spline-Curve-Editor) - Online tool to edit B Splines written in WebGL.
 - [glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
 - [appleseed](https://github.com/appleseedhq/appleseed) - Modern open source rendering engine for animation and visual effects. ([Web](https://appleseedhq.net/))
+- [Ask HN: What software was used to make 90s cutscenes? (2023)](https://news.ycombinator.com/item?id=34305515)

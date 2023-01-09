@@ -152,3 +152,4 @@
 - [xvc](https://github.com/iesahin/xvc) - Fast and robust MLOps tool for managing data and pipelines.
 - [Recap](https://github.com/recap-cloud/recap) - Dead simple data catalog for engineers.
 - [Modern Polars: a comparison of the Polars and Pandas dataframe libraries](https://kevinheavey.github.io/modern-polars/) ([HN](https://news.ycombinator.com/item?id=34275818)) ([Code](https://github.com/kevinheavey/modern-polars))
+- [Text Processing in Linux: Understanding Grep, sed, and AWK (2023)](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/)

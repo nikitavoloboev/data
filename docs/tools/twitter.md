@@ -8,9 +8,11 @@ Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) exten
 
 I love Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this.
 
-I have trust Twitter will improve despite questionable past decisions. They will [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is the lack of transparency around decision making involving suspensions, the amount of bots spamming notifications and DMs and that the code is not open source. The things I would give so that I can long press heart icon on iOS to bookmark..
+I have trust Twitter will improve despite questionable past decisions. They will [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is the lack of transparency around decision making involving suspensions, the amount of bots spamming notifications and DMs and that the code is not open source.
 
-I'd love for something like [Nostr protocol](../social-networks/nostr.md) to power Twitter with all the UX niceness that Twitter has.
+I'd also love it if they could make bookmarking tweets fast on mobile. Either by letting users long press on like icon to bookmark or by simply adding another icon button next to like on tweets. Right now to bookmark, you have to press share icon, wait, then press bookmark. 😠
+
+I'd also love for something like [Nostr protocol](../social-networks/nostr.md) to power a service like Twitter with all the UX niceness that Twitter has. [Decentralization](../networking/decentralization.md) has its issues but I think in the long term, a true public web square should be in the power of the community.
 
 I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
 

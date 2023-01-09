@@ -74,3 +74,4 @@ I wish there were more electric superchargers in EU. Tesla cars seem nice too. C
 - [Automotive News](https://www.autonews.com/)
 - [Car Data](https://github.com/unixpickle/car-data) - Train a model to predict the price of a car given a single photo of that car.
 - [Why didn't you buy a Tesla? (2023)](https://news.ycombinator.com/item?id=34233934)
+- [How Transportation Technologies Shaped Empires (2023)](https://unchartedterritories.tomaspueyo.com/p/transportation-tech-shaped-empires)

@@ -118,3 +118,4 @@
 - [Things you'd love in a kitchen](https://twitter.com/jlongster/status/1586805696523370496)
 - [An overview of concrete forming technology (2022)](https://constructionphysics.substack.com/p/an-overview-of-concrete-forming-technology) ([HN](https://news.ycombinator.com/item?id=33562660))
 - [50 Фотографий беседок, в которых хочется жить](https://make-self.net/masterskaya/item/besedka-photo.html)
+- [Why was Roman concrete so durable? (2023)](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106) ([HN](https://news.ycombinator.com/item?id=34280239))

@@ -248,3 +248,4 @@ I go over how I personally approach solving individual tasks [here](../research/
 - [Engineering Management Resources](https://github.com/charlax/engineering-management)
 - [Writing good performance self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews) ([HN](https://news.ycombinator.com/item?id=34019693))
 - [Deep work. Essentialism in asynchronous culture (2022)](https://jorzel.github.io/deep-work-essentialism-in-asynchronous-culture/) ([HN](https://news.ycombinator.com/item?id=34071820))
+- [Agile isn’t about speed, it’s about direction (2023)](https://tim.mcnamara.nz/post/705779065607618560/agile) ([HN](https://news.ycombinator.com/item?id=34302988))
