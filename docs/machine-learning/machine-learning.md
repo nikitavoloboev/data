@@ -1037,3 +1037,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Amortized Inference for Causal Structure Learning (2022)](https://arxiv.org/abs/2205.12934) ([Code](https://github.com/larslorch/avici))
 - [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co)
 - [Magick](https://github.com/Oneirocom/MagickML) - Visual IDE for no-code data pipelines and multimodal agents.
+- [Rigging the Lottery: Making All Tickets Winners (2019)](https://arxiv.org/abs/1911.11134) ([Code](https://github.com/google-research/rigl))

@@ -199,3 +199,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Eleventy Activity Feed](https://github.com/11ty/eleventy-activity-feed) - Create one centralized RSS feed for all of the content you create across the web (aggregates from Twitter, RSS, Atom, Mastodon, YouTube).
 - [nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal.
 - [Gripes with RSS after one week (2022)](https://blog.jez.io/rss-after-one-week/) ([HN](https://news.ycombinator.com/item?id=34198759))
+- [Feeds: The Only Civilised Way to Read Online (2023)](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)

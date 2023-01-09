@@ -900,3 +900,4 @@ title: Kubernetes
 - [Kiae](https://github.com/kiaedev/kiae) - Open-source cloud platform completely based on Kubernetes and Istio.
 - [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes.
 - [Nix to Kubernetes](https://github.com/DeterminateSystems/nix-to-kubernetes) - Example of deploying Nix-built Docker images to Kubernetes.
+- [code-generator](https://github.com/kubernetes/code-generator) - Generators for kube-like API types.

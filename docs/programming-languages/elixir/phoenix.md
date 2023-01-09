@@ -135,3 +135,4 @@ title: Phoenix framework
 - [TDD Phoenix | Test-Driven Development with Phoenix](https://www.tddphoenix.com/)
 - [Testing LiveView](https://www.testingliveview.com/)
 - [Elixir, Phoenix, LiveView, Ash. (2023)](https://medium.com/@brunoripa/elixir-phoenix-liveview-ash-part-1-7f36a1e321ed)
+- [Phoenix/Ecto](https://github.com/phoenixframework/phoenix_ecto) - Integrates Phoenix with Ecto, implementing all relevant protocols.

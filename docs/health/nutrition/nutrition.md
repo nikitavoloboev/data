@@ -155,3 +155,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [Ask HN: What's your secret diet tip you can share? (2022)](https://news.ycombinator.com/item?id=34134833)
 - [Getting enough fiber with food](https://www.reddit.com/r/nutrition/comments/zwgg6f/getting_enough_fiber/)
 - [How to Cook for Odysseus (2022)](https://simonsarris.substack.com/p/how-to-cook-for-odysseus)
+- [What guidelines do you use to keep a balanced diet?](https://www.reddit.com/r/nutrition/comments/106rwkk/what_guidelines_do_you_use_to_keep_a_balanced_diet/)

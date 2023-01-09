@@ -14,6 +14,8 @@ It would also be nice to automate moving money from main account to good ETFs. F
 
 I use [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) to process online payments. But [Lemon Squeezy](https://www.lemonsqueezy.com/) or [Paddle](https://www.paddle.com/) seem [nice for processing payments](https://news.ycombinator.com/item?id=31522127) too among [other options](https://twitter.com/JordanMorgan10/status/1604324809583857664).
 
+Would love to build some things on top of global payment infrastructure. Using something like [TrueLayer](https://truelayer.com/) perhaps.
+
 ## Ongoing subscriptions
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up. The app I mentioned above will cover the use case of Bobby too so hopefully I won't need this app in future.

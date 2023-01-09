@@ -2169,3 +2169,5 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go: Inside sync.Map — How does sync.Map work internally? (2021)](https://sreramk.medium.com/go-inside-sync-map-how-does-sync-map-work-internally-97e87b8e6bf)
 - [Error wrapping in Go (2022)](https://bitfieldconsulting.com/golang/wrapping-errors)
 - [Go 1.20 Cryptography (2023)](https://words.filippo.io/dispatches/go-1-20-cryptography/) ([HN](https://news.ycombinator.com/item?id=34247615))
+- [Template for Go services](https://github.com/maragudk/service)
+- [Go Backend Clean Architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - Go Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.

@@ -137,6 +137,7 @@
 - [ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid.
 - [MetaLearning](https://github.com/domluna/MetaLearning) - Learning to learn fast using Flux.jl.
 - [ForwardDiffChainRules.jl](https://github.com/ThummeTo/ForwardDiffChainRules.jl)
+- [tinyrocm.jl](https://github.com/pxl-th/tinyrocm.jl) - Minimal implementation of AMDGPU ROCm programming in Julia from scratch.
 
 ## Math
 
@@ -801,6 +802,9 @@
 - [FMI.jl](https://github.com/ThummeTo/FMI.jl) - Load or create, parameterize and simulate FMUs seamlessly inside Julia.
 - [FMIFlux.jl](https://github.com/ThummeTo/FMIFlux.jl)
 - [Serd.jl](https://github.com/epatters/Serd.jl) - Julia bindings to Serd RDF library.
+- [Promises.jl](https://github.com/fonsp/Promises.jl) - JavaScript-inspired async.
+- [MetaGraphsNext](https://github.com/JuliaGraphs/MetaGraphsNext.jl) - Experimental, type-stable replacement for MetaGraphs.
+- [CellListMap.jl](https://github.com/m3g/CellListMap.jl) - Flexible implementation of cell lists to map the calculations of particle-pair dependent functions, such as forces, energies, neighbour lists, etc.
 
 ## Links
 

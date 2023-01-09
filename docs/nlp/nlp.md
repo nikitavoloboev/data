@@ -768,3 +768,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [BRIO: Bringing Order to Abstractive Summarization (2022)](https://arxiv.org/abs/2203.16804) ([Code](https://github.com/yixinL7/BRIO))
 - [DOC: Improving Long Story Coherence With Detailed Outline Control (2022)](https://arxiv.org/abs/2212.10077) ([Code](https://github.com/yangkevin2/doc-story-generation))
 - [InPars: Data Augmentation for Information Retrieval using Large Language Models (2022)](https://arxiv.org/abs/2202.05144) ([Code](https://github.com/zetaalphavector/inPars))
+- [Unified Structure Generation for Universal Information Extraction (2022)](https://aclanthology.org/2022.acl-long.395/) ([Code](https://github.com/universal-ie/UIE))
+- [Awesome Resource for NLP](https://github.com/luyaojie/awesome-nlp-resource)
+- [PromptArray: A Prompting Language for Neural Text Generators](https://github.com/jeffbinder/promptarray)
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022)](https://arxiv.org/abs/2204.05862) ([Code](https://github.com/anthropics/hh-rlhf))

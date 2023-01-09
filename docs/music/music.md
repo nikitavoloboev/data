@@ -4,7 +4,7 @@ You can listen through a lot of the songs I liked on [Spotify](https://open.spot
 
 You can also see my most listened to [artists](https://www.last.fm/user/playfullyExist/library/artists), [songs](https://www.last.fm/user/playfullyExist/library/tracks) and [albums](https://www.last.fm/user/playfullyExist/library/albums) alongside my [yearly music stats](https://www.last.fm/user/playfullyExist/listening-report/year) tracked with [last.fm](https://www.last.fm/user/playfullyExist). And here are [my Spotify stats](https://volt.fm/nikitavoloboev) together with the song I am listening to now.
 
-[Riffusion](https://www.riffusion.com/about) is [exciting](https://news.ycombinator.com/item?id=33999162).
+[Riffusion](https://www.riffusion.com) is [exciting](https://news.ycombinator.com/item?id=33999162).
 
 ## Interesting clips
 
@@ -238,6 +238,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [mStream Music](https://github.com/IrosTheBeggar/mStream) - Easiest music streaming server available. ([Web](https://mstream.io/))
 - [Practical Music Search](https://github.com/ambientsound/pms) - Interactive Vim-like console client for the Music Player Daemon.
 - [Songtell](https://www.songtell.com/) - Your song meaning teller. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/zluze6/i_made_a_website_that_explains_you_the_meaning_of/))
-- [Riffusion](https://www.riffusion.com/about) - Stable Diffusion fine-tuned to generate music. ([HN](https://news.ycombinator.com/item?id=33999162))
+- [Riffusion](https://www.riffusion.com) - Stable Diffusion fine-tuned to generate music. ([HN](https://news.ycombinator.com/item?id=33999162)) ([About](https://www.riffusion.com/about))
 - [Seesu](http://seesu.me/) - Last.fm recommendations and music downloads mashup application.
 - [Jazz Is Freedom (2022)](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) ([HN](https://news.ycombinator.com/item?id=34284645))

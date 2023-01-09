@@ -268,3 +268,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [36 Things I Learned in 2022](https://kottke.org/22/12/36-things-i-learned-in-2022)
 - [52 things I learned in 2022](https://kenthendricks.com/52-things-i-learned-in-2022/)
 - [What are you planning to learn in 2023? | Lobsters](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
+- [HN: What are you planning to learn in 2023?](https://news.ycombinator.com/item?id=34307741)

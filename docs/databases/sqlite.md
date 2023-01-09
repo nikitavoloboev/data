@@ -14,6 +14,8 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [Marmot](https://github.com/maxpert/marmot) is a nice distributed SQLite replicator.
 
+Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/libsql/sqld).
+
 ## Notes
 
 - [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)

@@ -117,3 +117,4 @@ title: Assembly
 - [x86 is Turing-complete with no registers (2014)](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
 - [yaxpeax-eval](https://github.com/iximeow/yaxpeax-eval) - Batch eval tool for machine code. eval() but for asm.
 - [The faker's guide to reading (x86) assembly language (2023)](https://www.timdbg.com/posts/fakers-guide-to-assembly/) ([HN](https://news.ycombinator.com/item?id=34241907))
+- [Simple examples of Assembly code for the Apple Silicon (M1) CPU](https://github.com/jdshaffer/Apple-Silicon-ASM-Examples)

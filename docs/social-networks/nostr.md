@@ -20,3 +20,4 @@ title: Nostr
 - [Nostr - Decentralized Social Media & Bitcoin w/ William Casarin (2023)](https://www.theinvestorspodcast.com/bitcoin-fundamentals/nostr-decentralized-social-media-william-casarin/)
 - [Nostrex](https://github.com/RiverFinancial/nostrex) - Nostr relay written in Elixir.
 - [Forward-only Nostr relay](https://github.com/phyro/fo-relay)
+- [Nvote](https://github.com/rdbell/nvote) - Decentralized, vote-driven community similar to services like Reddit and HackerNews powered by Nostr.

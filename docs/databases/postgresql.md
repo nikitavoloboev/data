@@ -639,3 +639,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Tree Sitter PL/pgSQL](https://github.com/chrde/tree-sitter-plpgsql)
 - [Don't do this: creating useless indexes (2023)](https://mydbanotebook.org/post/too-many-indexes/)
 - [psql Tips](https://psql-tips.org/) ([Code](https://gitlab.com/l_avrot/psql-tips))
+- [Renovate](https://github.com/tyrchen/renovate) - CLI tool to help you to work on Postgres SQL migration easily.

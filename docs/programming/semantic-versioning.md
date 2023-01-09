@@ -23,6 +23,7 @@
 - [Breaking Bad? Semantic Versioning and Impact of Breaking Changes in Maven Central (2021)](https://arxiv.org/abs/2110.07889) ([Tweet](https://twitter.com/jstvssr/status/1452976024753483779))
 - [semver-explain](https://github.com/alilleybrinker/semver-explain) - Explain semver requirements by converting them into less than, greater than, and/or equal to form.
 - [Why semver is broken - Rich Hickey (2016)](https://www.youtube.com/watch?v=oyLBGkS5ICk)
+- [Versio](https://github.com/chaaz/versio) - Version number manager.
 
 ## Images
 

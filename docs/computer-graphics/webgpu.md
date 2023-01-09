@@ -78,3 +78,4 @@ title: WebGPU
 - [FF GPU](https://github.com/framefactory/ff-gpu) - WebGPU tools and utilities in TS.
 - [wgslsmith](https://github.com/wgslsmith/wgslsmith) - Toolkit for randomized testing of WGSL compilers.
 - [Simple WebGPU](https://github.com/stackgpu/Simple-GPU) - Fast, functional webGPU.
+- [Collection of WGPU render pipelines](https://github.com/schell/renderling)

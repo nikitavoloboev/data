@@ -6,7 +6,7 @@ title: HTTP
 
 [HTTP crash course](https://www.reddit.com/r/rust/comments/y9b8us/the_http_crash_course_nobody_asked_for_by/) is great overview.
 
-[Caddy](https://caddyserver.com/) is amazing for self hosting servers. [HTTPie](https://github.com/httpie/httpie), [HTTP Toolkit](https://httptoolkit.tech/) & [Hurl](https://hurl.dev/) are useful. [HTTP Docs](https://httpwg.org/specs/) has nice overview.
+[Caddy](https://caddyserver.com/) is amazing for self hosting servers. [HTTPie](https://github.com/httpie/httpie), [HTTP Toolkit](https://httptoolkit.tech/), [Hurl](https://hurl.dev/) & [xh](https://github.com/ducaale/xh) are useful. [HTTP Docs](https://httpwg.org/specs/) has nice overview.
 
 [Status code summary](https://twitter.com/tlakomy/status/1528499152472129536) ([as cats](https://http.cat/)) is fun summary.
 

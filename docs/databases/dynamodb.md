@@ -105,3 +105,5 @@ title: DynamoDB
 - [Nice DynamoDB query libs](https://twitter.com/adamdotdev/status/1566583149517099008)
 - [dynalite](https://github.com/mhart/dynalite) - Implementation of Amazon's DynamoDB built on LevelDB.
 - [Dynamoose](https://github.com/dynamoose/dynamoose) - Modeling tool for Amazon's DynamoDB. ([Docs](https://dynamoosejs.com/getting_started/Introduction))
+- [DynamoDB Action](https://github.com/rrainn/dynamodb-action) - GitHub Action allows you to super easily setup a DynamoDB Local instance within GitHub Actions to use DynamoDB within your CI system.
+- [Dynamoutil](https://github.com/daangn/dynamoutil) - Useful commands for DynamoDB.

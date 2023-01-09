@@ -418,3 +418,4 @@ title: WebAssembly
 - [Performance of WebAssembly runtimes in 2023](https://00f.net/2023/01/04/webassembly-benchmark-2023/)
 - [Sledgehammer](https://github.com/Demonthos/sledgehammer) - Breaking the WASM<->JS performance boundary one brick at a time.
 - [WebAssembly Opcode Table](https://pengowray.github.io/wasm-ops/) - Chart of WebAssembly Instructions. ([Code](https://github.com/pengowray/wasm-ops))
+- [Web49](https://github.com/FastVM/Web49) - WebAssembly Interpreter and Toolkit in C. ([HN](https://news.ycombinator.com/item?id=34310395))

@@ -188,3 +188,4 @@
 - [100 Gbps achieved from space to Earth (2022)](https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130) ([HN](https://news.ycombinator.com/item?id=33898075))
 - [How “See a Satellite Tonight” Works (2022)](https://james.darpinian.com/blog/how-see-a-satellite-tonight-works) ([HN](https://news.ycombinator.com/item?id=34086421))
 - [Why Not Mars (2023)](https://idlewords.com/2023/1/why_not_mars.htm) ([HN](https://news.ycombinator.com/item?id=34213549))
+- [First Look at z > 1 Bars in the Rest-Frame Near-Infrared with JWST Early CEERS Imaging (2022)](https://arxiv.org/abs/2210.08658)

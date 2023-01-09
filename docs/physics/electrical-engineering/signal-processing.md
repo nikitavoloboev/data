@@ -68,3 +68,4 @@ title: Signal processing
 - [Image Signal Processing (ISP) Guide](https://github.com/mikeroyal/ISP-Guide)
 - [Spek](https://github.com/alexkay/spek) - Acoustic spectrum analyzer.
 - [Go DSP Utils](https://github.com/eripe970/go-dsp-utils) - Digital signal processing package for Go.
+- [CamillaDSP](https://github.com/HEnquist/camilladsp) - Flexible cross-platform IIR and FIR engine for crossovers, room correction etc.

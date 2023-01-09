@@ -312,6 +312,7 @@ Run/deploy TS with [Deno](../../web/deno.md).
 - [All I want for Christmas is these seven TypeScript improvements (2022)](https://effectivetypescript.com/2022/12/25/christmas/) ([HN](https://news.ycombinator.com/item?id=34132866))
 - [Ask HN: What are the best open source TypeScript projects I can learn from? (2023)](https://news.ycombinator.com/item?id=34205294)
 - [Immutability: what a monster (2023)](https://dev.to/effect-ts/immutability-what-a-monster-3aj4) ([Tweet](https://twitter.com/MichaelArnaldi/status/1609562105652314116))
+- [eject-enum](https://github.com/jiftechnify/eject-enum) - Automatic code rewriting tool for TypeScript codebases that rewrites each TypeScript enum in your codes to the safer alternative.
 
 ## Images
 

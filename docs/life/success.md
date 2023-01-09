@@ -56,6 +56,7 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [At critical moments, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something more important and ambitious than what they might have in mind.](https://twitter.com/jamescham/status/1528245556589383680)
 - [Never underestimate the man who overestimates himself.](https://twitter.com/Austen/status/1528947017749188609)
 - [When something is important enough, you do it even if the odds are not in your favor.](https://twitter.com/heyeaslo/status/1538884390092058624)
+- [Extremely common smart young person failure mode: 1: notice the conventional rationale for some thing is bullshit. 2: conclude that therefore the thing is bad actually. 3: make opposition to the thing a pillar of their identity.](https://twitter.com/eigenrobot/status/1611824313094520838?s=46&t=PD_InHOxXcgpZL5eGIqdRg)
 
 ## Links
 

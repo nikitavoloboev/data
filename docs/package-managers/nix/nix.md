@@ -481,3 +481,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixpkgs-match](https://github.com/srid/nixpkgs-match) - Update your nixpkgs flake input to the same rev as that of the given flake.
 - [nixDir](https://github.com/roman/nixDir) - Library that transforms a directory structure into a nix flake.
 - [Questions for the weekly Nix Hour](https://github.com/tweag/nix-hour)
+- [Nix journey part 2: replacing apt and brew (2023)](https://woile.dev/posts/nix-journey-part-2-replacing-apt-and-brew/)

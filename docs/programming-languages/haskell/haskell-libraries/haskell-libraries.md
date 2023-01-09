@@ -405,6 +405,8 @@
 - [redis-glob](https://github.com/adetokunbo/redis-glob) - Checks that glob expressions for use with Redis are valid.
 - [ldtk-types](https://github.com/isovector/ldtk-types) - Types and Aeson instances for parsing LDtk files.
 - [QoC](https://github.com/bollu/qoc) - Quite Obfuscated Constructions.
+- [Monadic Bang](https://github.com/JakobBruenker/monadic-bang) - GHC plugin to desugar ! into do-notation.
+- [Effects Landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape) - Effects libraries in Haskell.
 
 ## Notes
 

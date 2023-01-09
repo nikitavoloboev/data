@@ -62,3 +62,4 @@ I put most everything I create under public domain. So either [CC0](https://crea
 - [Martin Shkreli Explains Why Sam Bankman-Fried Got Lucky With His Judge (2022)](https://www.youtube.com/watch?v=9B13IUpGWqg)
 - [LegalEagle - YouTube](https://www.youtube.com/@LegalEagle/videos)
 - [GPT-4 could pass bar exam, AI researchers say (2023)](https://the-decoder.com/gpt-4-could-pass-bar-exam-ai-researchers-say/) ([HN](https://news.ycombinator.com/item?id=34231083#34232696))
+- [GPT Takes the Bar Exam (2022)](https://arxiv.org/abs/2212.14402) ([Code](https://github.com/mjbommar/gpt-takes-the-bar-exam))

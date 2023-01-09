@@ -742,3 +742,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: How many of you are open to Piracy again? (2023)](https://news.ycombinator.com/item?id=34259279)
 - [Harry Potter: The Gen Z Edition](https://github.com/typoes/harry-potter-gen-z)
 - [Ask HN: Share Your Personal Site (2023)](https://news.ycombinator.com/item?id=34279215)
+- [Расскажите, что вы любите, но при этом люди вокруг постоянно хуесосят это](https://twitter.com/ne_tank/status/1611978328059310080)
+- [HomeBox](https://github.com/hay-kot/homebox) - Inventory and organization system built for the Home User. ([Docs](https://hay-kot.github.io/homebox/))
+- [Tax System in the Faroe Islands (2022)](https://prospect.org/world/best-tax-system-on-earth-faroe-islands/) ([HN](https://news.ycombinator.com/item?id=34298234))

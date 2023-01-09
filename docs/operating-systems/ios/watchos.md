@@ -12,3 +12,4 @@
 - [Analysis of Apple Watch running data (2022)](https://applewatchrunner.substack.com/p/apple-watch-running-review) ([HN](https://news.ycombinator.com/item?id=32971085))
 - [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake) ([HN](https://news.ycombinator.com/item?id=33667199))
 - [WatchShaker](https://github.com/ezefranca/WatchShaker) - Simple motion detector for (watchOS) shake gesture.
+- [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch.

@@ -13,3 +13,4 @@
 - [Implementing the MySQL server protocol for fun and profit (2022)](https://ochagavia.nl/blog/implementing-the-mysql-server-protocol-for-fun-and-profit/) ([HN](https://news.ycombinator.com/item?id=34094471))
 - [Faster MySQL with HTTP/3 (2023)](https://planetscale.com/blog/faster-mysql-with-http3) ([HN](https://news.ycombinator.com/item?id=34247817))
 - [MySQL Server Exporter](https://github.com/prometheus/mysqld_exporter) - Prometheus exporter for MySQL server metrics.
+- [MySQL Tester](https://github.com/pingcap/mysql-tester) - Go implementation of MySQL Test Framework.

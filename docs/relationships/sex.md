@@ -166,3 +166,4 @@
 - [What have you done to spice up your sex life in long term relationship](https://www.reddit.com/r/sexover30/comments/zvu3i4/what_have_you_done_to_spice_up_your_sex_life_in/)
 - [Difference between clit and vagina orgasms](https://www.reddit.com/r/sex/comments/zwjwz8/so_whats_the_difference_between_clit_and_vagina/)
 - [Keeping sex in the air with responsive desire](https://www.reddit.com/r/sexover30/comments/zrsga5/keeping_sex_in_the_air_with_responsive_desire/)
+- [Great sex positions (2023)](https://www.reddit.com/r/sex/comments/106p9sj/what_is_a_position_or_technique_youve_used_to/)

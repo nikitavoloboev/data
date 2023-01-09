@@ -12,6 +12,7 @@
 
 ## CLI
 
+- [Lexopt](https://github.com/blyxxyz/lexopt) - Simple argument parser for Rust.
 - [xflags](https://github.com/matklad/xflags) - Moderately simple command line arguments parsing.
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/)) ([clap-markdown](https://github.com/ConnorGray/clap-markdown))
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
@@ -39,7 +40,6 @@
 - [conch-parser](https://github.com/ipetkov/conch-parser) - Rust library for parsing Unix shell commands.
 - [cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
 - [youchoose](https://github.com/nathom/youchoose) - Lightweight terminal menu for Rust.
-- [Lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser.
 - [Tuikit](https://github.com/lotabout/tuikit) - Tool kit for writing TUI applications in Rust.
 - [argv](https://github.com/dtolnay/argv) - Command line arguments by reference.
 - [ansi_colours](https://github.com/mina86/ansi_colours) - Rust, C and C++ library for converting between 24-bit sRGB colors and ANSI terminal 8-bit palette.
@@ -503,6 +503,8 @@
 - [turtle](https://github.com/sunjay/turtle) - Create Animated Drawings in Rust.
 - [Fidget](https://github.com/mkeeter/fidget) - Infrastructure for complex closed-form implicit surfaces.
 - [CoGrRs](https://github.com/jasperdewinther/CoGrRs) - Easy-to-use but performant library for writing renderers using compute shaders in rust.
+- [mogwai](https://github.com/schell/mogwai) - Minimalist, obvious, graphical, web application interface.
+- [threerender](https://github.com/keiya01/threerender) - Simple 3D rendering engine.
 
 ## Games
 
@@ -519,6 +521,7 @@
 - [Backroll](https://github.com/HouraiTeahouse/backroll-rs) - Pure Rust implementation of GGPO rollback networking library.
 - [durian](https://github.com/spoorn/durian) - Client-server networking library built on top of the QUIC protocol. ([Reddit](https://www.reddit.com/r/rust/comments/zfseve/durian_a_highlevel_general_purpose_clientserver/))
 - [tween](https://github.com/sanbox-irl/tween) - Std-optional tweening library, designed for use in games and animations.
+- [apecs](https://github.com/schell/apecs) - Asyncronous Parallel Entity Component System.
 
 ## GraphQL
 
@@ -798,6 +801,7 @@
 - [noline](https://github.com/rustne-kretser/noline) - IO-agnostic line editor for embedded systems.
 - [mpu9250](https://github.com/copterust/mpu9250) - No_std driver for the MPU9250 & onboard AK8963 (accelerometer + gyroscope + magnetometer IMU).
 - [esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
+- [critical-section](https://github.com/rust-embedded/critical-section) - Pluggable critical section.
 
 ## ML
 
@@ -2492,6 +2496,11 @@
 - [libproc-rs](https://github.com/andrewdavidmackenzie/libproc-rs) - Library for getting information about running processes for Mac OS X and Linux.
 - [flow](https://github.com/andrewdavidmackenzie/flow) - Exploration of a data-flow programming paradigm.
 - [backhand](https://github.com/wcampbell0x2a/backhand) - Library and binaries for the reading, creating, and modification of SquashFS file systems.
+- [dbg-pls](https://github.com/conradludgate/dbg-pls) - Debug-like trait for rust that outputs properly formatted code.
+- [rust-elf](https://github.com/cole14/rust-elf) - Library for parsing ELF files for Rust.
+- [validators](https://github.com/magiclen/validators) - Library for validating and modeling user input.
+- [HTML Escape](https://github.com/magiclen/html-escape) - Encoding/escaping special characters in HTML and decoding/unescaping HTML entities as well.
+- [MozJPEG](https://github.com/ImageOptim/mozjpeg-rust) - Safe Rust wrapper for the MozJPEG library.
 
 ## Cargo Plugins
 
@@ -2605,6 +2614,7 @@
 - [cargo-fetcher](https://github.com/EmbarkStudios/cargo-fetcher) - Alternative to cargo fetch for use in CI or other "clean" environments.
 - [cargo-sandbox](https://github.com/insanitybit/cargo-sandbox/) - Drop-in replacement for cargo, with the added benefit of isolating those commands from other parts of your system. ([Lobsters](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed))
 - [cargo-cabal](https://github.com/yvan-sraka/cargo-cabal) - Tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
+- [cargo-config2](https://github.com/taiki-e/cargo-config2) - Load and resolve Cargo configuration.
 
 ## Notes
 

@@ -812,3 +812,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Ask HN: Why haven't bookmarks been re-invented? (2022)](https://news.ycombinator.com/item?id=34176035)
 - [Links Awakening](https://github.com/styfle/links-awakening) - Recursively check a website for broken links.
 - [Captivated](https://usecaptivated.com/) - Customer Feedback Analytics.
+- [Audio Development Tools List](https://github.com/Derrick-Yuan/Audio-Development-Tools-List)

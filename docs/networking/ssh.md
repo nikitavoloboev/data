@@ -141,3 +141,4 @@
 - [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
 - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding (2022)](https://iximiuz.com/en/posts/ssh-tunnels/)
 - [Hardware-based SSH/GPG/age agent](https://github.com/romanz/trezor-agent)
+- [ssh whoami.filippo.io (2023)](https://words.filippo.io/dispatches/whoami-updated/) ([HN](https://news.ycombinator.com/item?id=34301768))

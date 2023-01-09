@@ -295,3 +295,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [How the physics of diffusion inspired modern AI art (2023)](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)
 - [Denoising Diffusion models from first principle in Julia (2022)](https://liorsinai.github.io/coding/2022/12/03/denoising-diffusion-1-spiral.html) ([HN](https://news.ycombinator.com/item?id=34273610))
 - [Guided denoising diffusion (2023)](https://liorsinai.github.io/coding/2023/01/04/denoising-diffusion-3-guidance.html)
+- [Personalizing Text-to-Image Generation via Aesthetic Gradients (2022)](https://arxiv.org/abs/2209.12330) ([Code](https://github.com/vicgalle/stable-diffusion-aesthetic-gradients))
+- [Simple tools for using open source text-to-image models](https://github.com/hardmaru/image-notebook)

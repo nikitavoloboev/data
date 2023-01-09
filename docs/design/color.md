@@ -219,3 +219,4 @@
 - [Brute Force Colors (2022)](https://arnaud-carre.github.io/2022-12-30-amiga-ham/) ([HN](https://news.ycombinator.com/item?id=34200249))
 - [React Gradient Color Picker](https://github.com/hxf31891/react-gradient-color-picker)
 - [Pylette](https://github.com/qTipTip/Pylette) - Python library for extracting color palettes from supplied images.
+- [Linear Style](https://linear.style/) - Index for Linear themes. ([Code](https://github.com/alii/linear-style))

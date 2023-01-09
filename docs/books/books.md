@@ -630,3 +630,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Your brain on books: themed readings lists for a 20-page-a-day habit in 2023](https://razib.substack.com/p/your-brain-on-books-themed-readings)
 - [Kindle to Notion](https://github.com/arkalim/kindle-to-notion) - Seamlessly transfer your Kindle highlights to Notion Database.
 - [Apple Books digital narration](https://authors.apple.com/support/4519-digital-narration-audiobooks) ([HN](https://news.ycombinator.com/item?id=34256592))
+- [I don't read web articles anymore, but I read books (2023)](https://news.ycombinator.com/item?id=34309671)

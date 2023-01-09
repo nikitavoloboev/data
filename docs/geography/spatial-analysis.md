@@ -298,3 +298,4 @@ title: Spatial analysis
 - [s2cell](https://github.com/aaliddell/s2cell) - Minimal Python S2 Geometry cell ID, token and lat/lon conversion library.
 - [Nextcloud Maps](https://github.com/nextcloud/maps) - Whole world fits inside your cloud.
 - [Tippecanoe](https://github.com/felt/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
+- [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system. ([Reddit](https://www.reddit.com/r/rust/comments/1075bm1/ann_an_harder_better_faster_stronger_version_of/))
