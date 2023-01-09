@@ -264,3 +264,4 @@ title: Clojure
 - [Through the looking glass w Data Rabbit: "A System built for Seeing" (2022)](https://www.youtube.com/watch?v=bXRDfxp_4H0)
 - [Vector Symbolic Architectures in Clojure (2022)](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
 - [Contributing to Clojure (2022)](https://insideclojure.org/2022/07/18/contributing-clojure/)
+- [Using Clerk for Advent of Code](https://www.juxt.pro/blog/using-clerk-for-aoc/)

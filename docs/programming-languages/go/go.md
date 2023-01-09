@@ -948,3 +948,5 @@ if *boolArgPtr != false {
 - [Go 1.20 Release Notes](https://tip.golang.org/doc/go1.20)
 - [A simple problem that isn’t (2023)](https://muscar.eu/bitset-iter.html)
 - [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
+- [Transform JSON to Go type](https://transform.tools/json-to-go)
+- [What’s New in Go 1.20, Part I: Language Changes (2023)](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)

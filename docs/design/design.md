@@ -262,3 +262,4 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [ui.land](https://ui.land/) - Digital Library for Designers and Engineers. ([Tweet](https://twitter.com/emilkowalski_/status/1610274807257632768))
 - [Alcoholic Vodka](http://alcoholicvodka.com/)
 - [Вездесущий синий кот: Depot провело ребрендинг молочной продукции «Милград»](https://www.sostav.ru/publication/depot-44723.html)
+- [Design tool performance signatures](https://bjango.com/articles/perfsignatures/)

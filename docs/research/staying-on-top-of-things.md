@@ -289,3 +289,4 @@ And these Discord servers:
 - [Ask HN: How do you keep track of all the content you encounter? (2022)](https://news.ycombinator.com/item?id=34111127)
 - [DistilHN](https://www.distilhn.com/) - Front-Page Articles Summarized with Machine Learning. ([HN](https://news.ycombinator.com/item?id=34184587))
 - [My bad habit of hoarding information (2023)](https://news.ycombinator.com/item?id=34272834)
+- [Ask HN: Sites with the quality of Hacker News, but for more general topics? (2023)](https://news.ycombinator.com/item?id=34302827)

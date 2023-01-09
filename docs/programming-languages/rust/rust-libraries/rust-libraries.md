@@ -2802,3 +2802,4 @@
 - [Minimal Rust](https://github.com/xvxx/minimal-rust) - List of (mostly) zero dependency libraries for Rust.
 - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
 - [Easy-Release](https://github.com/jkelleyrtp/cargo-easy-release) - GUI tool written in Dioxus to make it easy to release a workspace of crates to crates.io.
+- [What are some less popular but well-made crates you'd like others to know about? (2023)](https://www.reddit.com/r/rust/comments/106w4ao/what_are_some_less_popular_but_wellmade_crates/)

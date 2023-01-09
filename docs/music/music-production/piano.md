@@ -17,3 +17,4 @@
 - ['Esja' Sheet Music Book](https://haniarani.bandcamp.com/merch/esja-sheet-music-book-incl-esja-album-download-2)
 - [How difficult is it to learn to read piano music?](https://www.quora.com/How-difficult-is-it-to-learn-to-read-piano-music)
 - [Music Floor's Sheet music](https://musescore.com/user/22634621)
+- [Who are your favorite pianists?](https://www.reddit.com/r/piano/comments/1064tff/who_are_your_favourite_pianists/)

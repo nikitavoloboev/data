@@ -284,3 +284,4 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Build, Share, and Run WebAssembly Apps Using Docker (2022)](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 - [WASM Docker Extension Example](https://github.com/cmrigney/wasm-docker-extension)
 - [Ask HN: A Better Docker Compose? (2023)](https://news.ycombinator.com/item?id=34225669)
+- [A comprehensive guide for the fastest possible Docker builds in human existence (2023)](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)

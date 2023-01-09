@@ -1011,3 +1011,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Formal Methods Interest Group](https://rust-formal-methods.github.io/) ([Code](https://github.com/rust-formal-methods/wg))
 - [Samsara, a safe Rust concurrent cycle collector (2023)](https://redvice.org/2023/samsara-garbage-collector/) ([Reddit](https://www.reddit.com/r/rust/comments/102ulic/samsara_a_safe_rust_concurrent_cycle_collector/))
 - [Difference between Rust intristics and Rust lang items (with Haskell examples)](https://github.com/ghc-proposals/ghc-proposals/pull/559#issuecomment-1371354136)
+- [Go devs that learned Rust, what are your thoughts on it? (2023)](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/)
