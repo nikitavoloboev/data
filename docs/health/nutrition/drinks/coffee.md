@@ -95,3 +95,4 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [I Did Caffeine Analysis: Some Unexpected Results (2022)](https://www.youtube.com/watch?v=etnMr8oUSDo) ([Reddit](https://www.reddit.com/r/Coffee/comments/zka32z/i_did_caffeine_analysis_the_unexpected_truth/))
 - [Ask HN: What to do with a coffee plantation with about 8000 trees? (2022)](https://news.ycombinator.com/item?id=34115447)
 - [Ethiopian coffee beans blew my mind](https://www.reddit.com/r/Coffee/comments/10039w5/just_got_into_coffee_ethiopian_beans_blew_my_mind/)
+- [My Coffee Maker Just Makes Coffee (2023)](https://bt.ht/one-thing/) ([HN](https://news.ycombinator.com/item?id=34312243))

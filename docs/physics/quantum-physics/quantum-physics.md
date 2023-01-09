@@ -124,3 +124,4 @@
 - [Universe if not locally real explained](https://www.reddit.com/r/Physics/comments/zqtq1w/comment/j11hwog/?context=3)
 - [50 Years of Quantum Chromodynamics (2022)](https://arxiv.org/abs/2212.11107)
 - [What is the Schrödinger Equation? A basic introduction to Quantum Mechanics (2022)](https://www.youtube.com/watch?v=2WPA1L9uJqo)
+- [Can the double-slit experiment distinguish between quantum interpretations? (2023)](https://arxiv.org/abs/2301.02641) ([HN](https://news.ycombinator.com/item?id=34312069))

@@ -85,3 +85,4 @@ title: DNA
 - [Mutato](https://github.com/annalam/mutato) - Toolkit for mutation analysis using DNA sequencing data.
 - [Breakfast](https://github.com/annalam/breakfast) - Software for detecting genomic structural variants from DNA sequencing data.
 - [RegTools](https://github.com/griffithlab/regtools) - Integrate DNA-seq and RNA-seq data to identify mutations that are associated with regulatory effects on gene expression.
+- [We're wasting money by only supporting gzip for raw DNA files (2023)](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/) ([HN](https://news.ycombinator.com/item?id=34313589))

@@ -1038,3 +1038,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co)
 - [Magick](https://github.com/Oneirocom/MagickML) - Visual IDE for no-code data pipelines and multimodal agents.
 - [Rigging the Lottery: Making All Tickets Winners (2019)](https://arxiv.org/abs/1911.11134) ([Code](https://github.com/google-research/rigl))
+- [Ask HN: What are the foundational texts for learning about AI/ML/NN? (2023)](https://news.ycombinator.com/item?id=34312248)
