@@ -117,3 +117,4 @@ title: Shaders
 - [Shaders explained](https://twitter.com/DanHollick/status/1603370500306018304)
 - [GM Shaders](https://gmshaders.com/) - Shader tutorials.
 - [NodeToy](https://nodetoy.co/) - Create and share shader graphs with the world. ([Twitter](https://twitter.com/nodetoy))
+- [Shader Sketches](https://github.com/winkerVSbecks/shader-sketches)

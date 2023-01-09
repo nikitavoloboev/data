@@ -858,3 +858,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pnpm-deduplicate](https://github.com/ocavue/pnpm-deduplicate) - Remove duplicate dependencies from pnpm-lock.yaml.
 - [pnpm monorepo](https://github.com/alvarosabu/pnpm-monorepo)
 - [Effect TS Crash Course](https://github.com/pigoz/effect-crashcourse)
+- [When should you use Zod? (2023)](https://www.totaltypescript.com/when-should-you-use-zod) ([Tweet](https://twitter.com/mattpocockuk/status/1612397810183274497))

@@ -105,7 +105,7 @@ title: Vite
 - [Vite Sentry Plugin](https://github.com/ikenfin/vite-plugin-sentry)
 - [Getting Started with Vitest](https://www.vuemastery.com/blog/getting-started-with-vitest/) ([HN](https://news.ycombinator.com/item?id=32416783))
 - [Vite Plugin Validate ENV](https://github.com/Julien-R44/vite-plugin-validate-env) - Vite plugin for validating your environment variables.
-- [ViteConf](https://viteconf.org/) ([Twitter](https://twitter.com/ViteConf)) ([Code](https://github.com/stackblitz/viteconf))
+- [ViteConf](https://viteconf.org/) ([Twitter](https://twitter.com/ViteConf)) ([Code](https://github.com/stackblitz/viteconf)) ([Videos](https://www.youtube.com/@viteconf/videos))
 - [Vite Lightning CSS Plugin](https://github.com/lawrencecchen/vite-plugin-lightningcss)
 - [Vite Plugin - Optimize CSS Modules](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Mangle / minimize css module classnames in production.
 - [Vitrify](https://github.com/simsustech/vitrify) - Abstraction over Vite similar to how Vite is an abstraction over Rollup and esbuild.

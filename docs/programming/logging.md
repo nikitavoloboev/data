@@ -77,4 +77,4 @@
 - [The Art of Logging (2022)](https://medium.com/@JaouherK/creating-a-human-and-machine-freindly-logging-format-bb6d4bb01dca)
 - [Reducing Logging Cost by Two Orders of Magnitude using CLP (2022)](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
 - [Tips for Analyzing Logs (2022)](https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/) ([HN](https://news.ycombinator.com/item?id=33971432))
-- [Logging practices I follow (2023)](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
+- [Logging practices I follow (2023)](https://www.16elt.com/2023/01/06/logging-practices-I-follow/) ([HN](https://news.ycombinator.com/item?id=34311165))
