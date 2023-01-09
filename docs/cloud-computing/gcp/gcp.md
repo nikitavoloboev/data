@@ -149,3 +149,4 @@ Also looking into [Railway](https://railway.app/) & [Cloudflare](https://www.clo
 - [Builds a secure CI/CD pipeline on Google Cloud](https://github.com/GoogleCloudPlatform/terraform-google-secure-cicd)
 - [AlloyDB Go Connector](https://github.com/GoogleCloudPlatform/alloydb-go-connector)
 - [Code-Suggester: NodeJS](https://github.com/googleapis/code-suggester)
+- [Google API TS Type Generator](https://github.com/Maxim-Mazurok/google-api-typings-generator)

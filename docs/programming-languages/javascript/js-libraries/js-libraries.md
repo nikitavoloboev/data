@@ -213,6 +213,7 @@
 - [Tiny WebCrypto](https://github.com/fabiospampinato/tiny-webcrypto) - Tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [hypercore-crypto](https://github.com/mafintosh/hypercore-crypto) - Crypto primitives used in hypercore, extracted into a separate module.
 - [SHA-3 for JavaScript](https://github.com/phusion/node-sha3)
+- [sodium-native](https://github.com/sodium-friends/sodium-native) - Low level bindings for libsodium.
 
 ## Other
 
@@ -1096,6 +1097,7 @@
 - [js-tokens](https://github.com/lydell/js-tokens) - Tiny JavaScript tokenizer.
 - [rregex](https://github.com/2fd/rregex) - WebAssembly build of Rust Regex for JavaScript.
 - [Cuid2](https://github.com/paralleldrive/cuid2) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.
+- [throat](https://github.com/ForbesLindesay/throat) - Throttle a collection of promise returning functions.
 
 ## Links
 

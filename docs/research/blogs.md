@@ -292,6 +292,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Lior Sinai](https://liorsinai.github.io/)
 - [Fan Pu Zeng](https://fanpu.io/blog/)
 - [Santiago Fraire](https://woile.dev/blog/)
+- [Eliran Turgeman](https://www.16elt.com/)
 
 ## Notes
 

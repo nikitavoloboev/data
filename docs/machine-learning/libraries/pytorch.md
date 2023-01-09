@@ -493,3 +493,4 @@ title: PyTorch
 - [PIQA](https://github.com/francois-rozet/piqa) - PyTorch Image Quality Assessment.
 - [Neural Network Force Field based on PyTorch](https://github.com/learningmatter-mit/NeuralForceField)
 - [MVTorch](https://github.com/ajhamdi/mvtorch) - Modular PyTorch library for multi-view research on 3D understanding and 3D generation.
+- [TorchMD](https://github.com/torchmd/torchmd) - End-To-End Molecular Dynamics (MD) Engine using PyTorch.

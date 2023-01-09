@@ -8,6 +8,8 @@
 
 [CXX](https://github.com/dtolnay/cxx) & [Safer FFI](https://github.com/getditto/safer_ffi) are nice for writing safe rust bindings.
 
+[self_update](https://github.com/jaemk/self_update) seems nice for updating rust binaries.
+
 [Blessed.rs](https://blessed.rs/crates) has nice list of good crates.
 
 ## CLI

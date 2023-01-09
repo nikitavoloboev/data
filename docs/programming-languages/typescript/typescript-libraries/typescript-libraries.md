@@ -747,6 +747,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [expirables](https://github.com/Cadienvan/expirables) - Zero dependency package that provides some expirable implementations of common Data Structures.
 - [azs](https://github.com/alii/azs) - Amplify Zod schemas with methods.
 - [DeepSignal](https://github.com/luisherranz/deepsignal) - Preact signals, but using regular JavaScript objects.
+- [Typed Binary](https://github.com/iwoplaza/typed-binary) - Describe binary structures with full TypeScript support. Encode and decode into pure JavaScript objects.
+- [binparse](https://github.com/blacha/binparse) - Typed binary parsing for TypeScript.
 
 ## Links
 

@@ -670,3 +670,4 @@ title: Linux
 - [2022 ClangBuiltLinux Retrospective](https://nathanchance.dev/posts/2022-cbl-retrospective/)
 - [Finally making use of bpftrace (2023)](https://www.earth.li/~noodles/blog/2023/01/finally-using-bpftrace.html)
 - [Aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool.
+- [Process Scheduling In Linux (2022)](https://www.16elt.com/2022/09/25/linux-scheduling/)

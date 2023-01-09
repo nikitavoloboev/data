@@ -1992,6 +1992,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Box](https://github.com/tidwall/box) - Go package for wrapping value types.
 - [Highlight](https://github.com/zyedidia/highlight) - Go package for syntax highlighting.
 - [Databricks SDK for Go](https://github.com/databricks/databricks-sdk-go)
+- [gio-cloth](https://github.com/esimov/gio-cloth) - Desktop application for cloth physics simulation in Go.
 
 ## Links
 

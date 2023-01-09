@@ -109,6 +109,7 @@ It includes:
 - [Two's Complement](https://www.twoscomplement.org/)
 - [Geopolitics Decanted by Silverado](https://geopolitics-decanted.simplecast.com/)
 - [Oxide and Friends](https://podbay.fm/p/oxide-and-friends)
+- [Moment of Zen](https://overcast.fm/itunes1661672738/moment-of-zen)
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

@@ -578,3 +578,4 @@ for i, _ in enumerate(nums):
 - [s-Python](https://github.com/suren-atoyan/x-python) - Complete solution for Python-in-browser.
 - [Infinite AI Array (2023)](https://ianbicking.org/blog/2023/01/infinite-ai-array.html) ([Code](https://github.com/ianb/infinite-ai-array)) ([HN](https://news.ycombinator.com/item?id=34224664))
 - [Lazy Evaluation Using Recursive Python Generators (2023)](https://martinheinz.dev/blog/88)
+- [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html) - Course over intermediate Python. ([Code](https://github.com/henryiii/level-up-your-python))

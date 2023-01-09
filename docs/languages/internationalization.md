@@ -49,7 +49,7 @@
 - [mtranslate](https://github.com/mouuff/mtranslate) - Fully working Google Translate API for python.
 - [Texterify](https://texterify.com/) - Translation and Localization Tool. ([Code](https://github.com/texterify/texterify))
 - [Nice services for localizing apps](https://twitter.com/ChristianSelig/status/1584947296008949778)
-- [Inlang](https://github.com/inlang/inlang) - Git-based localization infrastructure for software.
+- [Inlang](https://github.com/inlang/inlang) - Git-based localization infrastructure for software. ([Web](https://inlang.com/))
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) - Scan your code, extract translation keys/values, and merge them into i18n resource files.
 - [Tolgee](https://tolgee.io/) - Translation management cloud platform made for translating modern web applications. ([Code](https://github.com/tolgee/tolgee-platform))
 - [i18n.js](https://github.com/fnando/i18n) - Small library to provide the I18n translations on the JavaScript.
