@@ -121,6 +121,7 @@
 - [Cisco Momentum Design](https://momentum.design/) ([Code](https://github.com/momentum-design/momentum-ui))
 - [Yandex Gravity UI](https://preview.yandexcloud.dev/uikit/) ([Code](https://github.com/gravity-ui/uikit))
 - [Moon Design System](https://moon.io/) ([Code](https://github.com/coingaming/moon-design))
+- [HashiCorp Design System](https://design-system-components-hashicorp.vercel.app/) ([Code](https://github.com/hashicorp/design-system))
 
 ## Notes
 
