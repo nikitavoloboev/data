@@ -180,3 +180,4 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 - [r2d2](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 - [rueidis](https://github.com/rueian/rueidis) - Fast Go Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [Redis Data Types: The Basics (2022)](https://thenewstack.io/redis-data-types-the-basics/)
+- [Intro to Redis Scripting with Lua (2023)](https://www.novus.com/tech-blog/intro-to-redis-scripting-with-lua)

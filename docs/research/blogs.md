@@ -294,6 +294,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Santiago Fraire](https://woile.dev/blog/)
 - [Eliran Turgeman](https://www.16elt.com/)
 - [Kevin Chung](https://blog.kchung.co/)
+- [Will Daly](https://dev-nonsense.com/)
 
 ## Notes
 

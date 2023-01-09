@@ -158,4 +158,4 @@
 - [Ruby Nix](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Ni.
 - [Install Ruby 3.2.0 + YJIT with ASDF (2022)](https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82)
 - [Ruby 3.2.0 Is from Another Dimension (2023)](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9) ([HN](https://news.ycombinator.com/item?id=34242820))
-- [Making Sorbet more incremental (2023)](https://blog.jez.io/making-sorbet-more-incremental/)
+- [Making Sorbet more incremental (2023)](https://blog.jez.io/making-sorbet-more-incremental/) ([Lobsters](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental))
