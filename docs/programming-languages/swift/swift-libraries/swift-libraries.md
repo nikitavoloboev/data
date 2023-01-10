@@ -615,6 +615,8 @@
 - [EasySkeleton](https://github.com/SpectralDragon/EasySkeleton) - Lightweight and fast skeleton library for SwiftUI.
 - [Dependencies](https://github.com/pointfreeco/swift-dependencies) - Dependency management library inspired by SwiftUI's "environment.".
 - [SwiftUIColor](https://github.com/p-x9/SwiftUIColor) - Make system color defined in UIColor/NSColor available to SwiftUI Color.
+- [HostingPassthrough](https://github.com/Priva28/HostingPassthrough) - Let SwiftUI and UIKit views live in harmony.
+- [ParallaxSwiftUI](https://github.com/Priva28/ParallaxSwiftUI) - Add a motion parallax effect to your SwiftUI views to add some depth to your UI.
 
 ## Test
 
@@ -1378,6 +1380,7 @@
 - [Kinzoku](https://github.com/Obverser/Kinzoku) - wgpu-native wrapper for Swift.
 - [Flock](https://github.com/qasim/Flock) - Rapid file download using concurrent connections.
 - [Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) - Companion library to Point-Free's swift-dependencies that provides higher-level dependencies.
+- [ThirtyTo](https://github.com/brightdigit/ThirtyTo) - Encode, Decode and Generate Random String in Base32Crockford Format.
 
 ## Other (not lib)
 

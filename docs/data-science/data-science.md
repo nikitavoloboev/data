@@ -272,3 +272,4 @@
 - [Ask HN: Data Scientists, what libraries do you use for timeseries forecasting? (2022)](https://news.ycombinator.com/item?id=33447976)
 - [Goodbye, Data Science (2022)](https://ryxcommar.com/2022/11/27/goodbye-data-science/) ([HN](https://news.ycombinator.com/item?id=33787270))
 - [Ask HN: Upskilling as a Data Engineer (2022)](https://news.ycombinator.com/item?id=34147090)
+- [Graphic Walker](https://graphic-walker.kanaries.net/) - Open source alternative to Tableau. ([Code](https://github.com/Kanaries/graphic-walker)) ([HN](https://news.ycombinator.com/item?id=34324919))

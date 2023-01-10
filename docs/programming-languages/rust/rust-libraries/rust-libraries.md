@@ -507,6 +507,7 @@
 - [CoGrRs](https://github.com/jasperdewinther/CoGrRs) - Easy-to-use but performant library for writing renderers using compute shaders in rust.
 - [mogwai](https://github.com/schell/mogwai) - Minimalist, obvious, graphical, web application interface.
 - [threerender](https://github.com/keiya01/threerender) - Simple 3D rendering engine.
+- [naga-oil](https://github.com/robtfm/naga_oil) - Crate for combining and manipulating shaders.
 
 ## Games
 
