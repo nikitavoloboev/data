@@ -172,3 +172,4 @@
 - [Testing Without Mocks: A Pattern Language (2022)](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks) ([HN](https://news.ycombinator.com/item?id=34293631))
 - [A short introduction to BDD (2022)](https://www.germanvelasco.com/blog/short-intro-to-bdd)
 - [Reflections on "Testing Without Mocks" (2023)](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
+- [Test pollution and how to fix it (2021)](https://cs-syd.eu/posts/2021-10-23-test-pollution)

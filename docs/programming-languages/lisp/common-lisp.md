@@ -153,3 +153,4 @@
 - [The empty list (2022)](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
 - [Astronomical Calculations for Hard SF in Common Lisp (2022)](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp) ([HN](https://news.ycombinator.com/item?id=34058658))
 - [Application delivery for Common Lisp](https://github.com/borodust/alien-works-delivery)
+- [Common Lisp: 2022 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/) ([HN](https://news.ycombinator.com/item?id=34321090))

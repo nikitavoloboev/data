@@ -102,4 +102,4 @@
 - [JoinBase](https://joinbase.io/) - End-to-end IoT database, freely to run on cloud or on edge as you like. ([GitHub](https://github.com/open-joinbase))
 - [Thread is taking over IoT: How IP will change the game (2022)](https://blog.whn.se/posts/thread-is-taking-over-iot-how-ip-will-change-the-game)
 - [Shifu](https://github.com/Edgenesis/shifu) - Kubernetes native IoT software development framework.
-- [Taking over a Dead IoT Company (2023)](https://blog.kchung.co/taking-over-a-dead-iot-company/)
+- [Taking over a Dead IoT Company (2023)](https://blog.kchung.co/taking-over-a-dead-iot-company/) ([Lobsters](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company))

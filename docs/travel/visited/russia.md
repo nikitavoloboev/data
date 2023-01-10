@@ -657,3 +657,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Вся кремлевская рать. Краткая история современной России by Mikhail Zygar](https://www.goodreads.com/book/show/29772228)
 - [Империя должна умереть. История русских революций в лицах. 1900-1917 by Mikhail Zygar](https://www.goodreads.com/book/show/36271991-1900-1917)
 - [Vasya in the Hay - YouTube](https://www.youtube.com/@vasyainthehay/videos) - Show people around the world how people live in remote villages in Russia.
+- [What are Russia's best kept secrets (nature places)?](https://www.reddit.com/r/AskARussian/comments/107n1sz/what_are_russias_best_kept_secrets_nature_places/)

@@ -21,3 +21,4 @@ title: Datasette
 - [Measuring traffic during the Half Moon Bay Pumpkin Festival (2022)](https://simonwillison.net/2022/Oct/19/measuring-traffic/)
 - [Datasette’s new JSON write API (2022)](https://simonwillison.net/2022/Dec/2/datasette-write-api/) ([HN](https://news.ycombinator.com/item?id=33838341))
 - [Over-engineering Secret Santa with Python cryptography and Datasette (2022)](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/) ([Lobsters](https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with))
+- [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)

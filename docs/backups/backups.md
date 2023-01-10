@@ -104,3 +104,4 @@ I love the fact that I can set up any new mac or phone to use my exact and perfe
 - [Best backup solution with encryption (2022)](https://www.reddit.com/r/selfhosted/comments/zv2kp0/best_backup_solution_with_encryption/)
 - [rsnapshot](https://github.com/rsnapshot/rsnapshot) - Tool for backing up your data using rsync.
 - [Ask HN: What tools/strategy do you use for backups? (2022)](https://news.ycombinator.com/item?id=34197837)
+- [Introducing Content Defined Chunking (CDC) (2015)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)

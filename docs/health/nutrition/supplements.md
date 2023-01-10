@@ -106,3 +106,4 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [5g creatine daily helps muscle recovery/growth](https://twitter.com/damccormick13/status/1603154251789787136)
 - [Do Supplements Really Help? (2022)](https://www.reddit.com/r/nutrition/comments/zufldt/do_supplements_really_help/)
 - [Top 5 supplements/vitamins/minerals (2022)](https://www.reddit.com/r/Biohackers/comments/zy989v/top_5_supplementsvitaminsmineralsnootripics/)
+- [Ask HN: What supplements do you take that have good scientific backing? (2023)](https://news.ycombinator.com/item?id=34315926)

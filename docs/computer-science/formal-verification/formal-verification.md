@@ -166,3 +166,5 @@ title: Formal verification
 - [Modeling Database Tables in Alloy (2023)](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 - [Modular Formal Verification of Rust Programs with Unsafe Blocks (2022)](https://arxiv.org/abs/2212.12976)
 - [Symbolic execution engine powering the K Framework](https://github.com/runtimeverification/haskell-backend)
+- [Refinement through Restraint: Bringing Down the Cost of Verification (2017)](https://trustworthy.systems/publications/nicta_full_text/9425.pdf)
+- [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations) ([Lobsters](https://lobste.rs/s/x1uqji/verifiable_software_development))

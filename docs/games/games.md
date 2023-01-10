@@ -408,3 +408,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Gaming Suggestions Reddit](https://www.reddit.com/r/gamingsuggestions/)
 - [Scrabble Solver](https://github.com/kamilmielnik/scrabble-solver)
 - [What are some “video gamey” things games do that you dislike? (2023)](https://www.reddit.com/r/patientgamers/comments/106yjde/what_are_some_video_gamey_things_games_do_that/)
+- [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets)

@@ -97,6 +97,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Klonk](https://github.com/zaboople/klonk) - Text editor with an sort-of-unusual undo/redo algorithm.
 - [Simple code editor made with Freya](https://github.com/marc2332/freya-editor)
 - [Mininotes](https://github.com/Dimev/mininotes) - Tiny notetaking app, to explain text layout for text editors.
+- [Ecode](https://github.com/SpartanJ/ecode) - Minimalist and fast open-source code editor. ([HN](https://news.ycombinator.com/item?id=34320844))
 
 ## Web
 

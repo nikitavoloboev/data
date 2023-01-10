@@ -182,3 +182,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [rsms-utils](https://github.com/rsms/rsms-utils) - Collection of CLI programs to help with everyday computer life. ([HN](https://news.ycombinator.com/item?id=34242275))
 - [shelltestrunner](https://github.com/simonmichael/shelltestrunner) - Easy, repeatable testing of CLI programs/commands.
 - [Catimg](https://github.com/posva/catimg) - Renders images in the terminal.
+- [Just](https://github.com/casey/just) - Command Runner. ([HN](https://news.ycombinator.com/item?id=34315779))

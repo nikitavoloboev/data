@@ -14,6 +14,8 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) is great for concurrency tasks. [script](https://github.com/bitfield/script) is nice for running shell commands.
 
+[Go JSON Struct](https://github.com/twpayne/go-jsonstruct) is nice for creating Go types from JSON.
+
 ## CLI
 
 - [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.

@@ -1012,3 +1012,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Samsara, a safe Rust concurrent cycle collector (2023)](https://redvice.org/2023/samsara-garbage-collector/) ([Reddit](https://www.reddit.com/r/rust/comments/102ulic/samsara_a_safe_rust_concurrent_cycle_collector/))
 - [Difference between Rust intristics and Rust lang items (with Haskell examples)](https://github.com/ghc-proposals/ghc-proposals/pull/559#issuecomment-1371354136)
 - [Go devs that learned Rust, what are your thoughts on it? (2023)](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/)
+- [Does rust have a garbage collector? (2023)](https://www.reddit.com/r/rust/comments/10815lw/am_i_dumb_or_does_rust_have_a_garbage_collector/)

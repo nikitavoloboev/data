@@ -509,3 +509,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [What features would you want in a new programming language? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/102r0ke/what_features_would_you_want_in_a_new_programming/)
 - [Microfeatures I'd like to see in more languages (2023)](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/) ([HN](https://news.ycombinator.com/item?id=34266078)) ([Lobsters](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/104lxrd/microfeatures_id_like_to_see_in_more_languages/))
 - [Vel](https://github.com/hopv/vel) - Language for verified low-level software.
+- [Compiled and Interpreted Languages: Two Ways of Saying Tomato (2023)](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)

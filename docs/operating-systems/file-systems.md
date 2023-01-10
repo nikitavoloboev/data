@@ -157,3 +157,4 @@
 - [FatFs - Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html) ([HN](https://news.ycombinator.com/item?id=34210076))
 - [FUSE server implementation for Rust](https://github.com/jmillikin/rust-fuse)
 - [lunchbox](https://github.com/VivekPanyam/lunchbox) - Async virtual filesystem interface in Rust.
+- [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/) ([Lobsters](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems))

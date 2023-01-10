@@ -640,3 +640,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Don't do this: creating useless indexes (2023)](https://mydbanotebook.org/post/too-many-indexes/)
 - [psql Tips](https://psql-tips.org/) ([Code](https://gitlab.com/l_avrot/psql-tips))
 - [Renovate](https://github.com/tyrchen/renovate) - CLI tool to help you to work on Postgres SQL migration easily.
+- [Faster PostgresSQL to BigQuery Transfers (2023)](https://tech.marksblogg.com/postgresql-to-bigquery.html) ([HN](https://news.ycombinator.com/item?id=34323258))
