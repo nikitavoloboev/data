@@ -1087,3 +1087,4 @@
 - [Image generation with MNIST (2022)](https://liorsinai.github.io/coding/2022/12/29/denoising-diffusion-2-unet.html)
 - [CiT: Curation in Training for Effective Vision-Language Data (2023)](https://arxiv.org/abs/2301.02241) ([Code](https://github.com/facebookresearch/CiT))
 - [MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare (2022)](https://arxiv.org/abs/2212.06870) ([Code](https://github.com/megapose6d/megapose6d))
+- [Bidirectional Projection Network for Cross Dimension Scene Understanding (2021)](https://arxiv.org/abs/2103.14326) ([Code](https://github.com/wbhu/BPNet))

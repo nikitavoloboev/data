@@ -512,3 +512,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Bach to the Future (or, Humanising Music With Neural Nets) (2019)](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
 - [БРОКЕН ДЭНС - YouTube](https://www.youtube.com/@broken_dance/videos)
 - [Musescore.com](https://musescore.com/) - World's largest free sheet music catalog and community.
+- [Chord Practice](https://chords.adammenz.com/)

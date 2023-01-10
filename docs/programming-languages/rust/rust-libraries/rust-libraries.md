@@ -2503,6 +2503,7 @@
 - [validators](https://github.com/magiclen/validators) - Library for validating and modeling user input.
 - [HTML Escape](https://github.com/magiclen/html-escape) - Encoding/escaping special characters in HTML and decoding/unescaping HTML entities as well.
 - [MozJPEG](https://github.com/ImageOptim/mozjpeg-rust) - Safe Rust wrapper for the MozJPEG library.
+- [Deflect](https://github.com/jswrenn/deflect) - Brings reflection to Rust using DWARF debug info.
 
 ## Cargo Plugins
 

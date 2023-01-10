@@ -26,3 +26,4 @@
 ## Links
 
 - [TattoosAI](https://www.tattoosai.com/) - AI-powered tattoo artist, using Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=32761238))
+- [Tattoo in the style of qinghua porcelain](https://twitter.com/__femb0t/status/1612826442512867330)

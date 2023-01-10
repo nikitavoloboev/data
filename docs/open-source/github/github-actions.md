@@ -277,6 +277,7 @@ title: GitHub actions
 - [Get previous tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - GitHub Action that gets the latest tag from Git.
 - [Find Pull Request action](https://github.com/juliangruber/find-pull-request-action) - GitHub Action for finding pull requests.
 - [Retry action](https://github.com/owenrumney/retry-action) - Simple action will take a command and a number of times to retry on failure.
+- [sccache-action](https://github.com/mozilla/sccache-action) - GitHub action to download sccache artifacts.
 
 ## Go
 
@@ -314,6 +315,7 @@ title: GitHub actions
 - [Install Rust Toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain.
 - [Cargo Release PR](https://github.com/cargo-bins/release-pr) - GitHub Action to create a release PR using cargo-release.
 - [cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks-action) - GitHub Action for running cargo-semver-checks.
+- [release-meta](https://github.com/cargo-bins/release-meta) - Extract the metadata of a PR created by cargo-bins/release-pr.
 
 ## Python
 

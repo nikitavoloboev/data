@@ -206,7 +206,7 @@ if (
 - [JavaScript: Understanding the Weird Parts course (2015)](https://www.udemy.com/course/understand-javascript/)
 - [Fastpack](https://github.com/fastpack/fastpack) - Pack JS code into a single bundle fast & easy.
 - [guijs](https://github.com/Akryum/guijs) - App that helps you manage JS projects with a Graphical User Interface.
-- [Rome Toolchain](https://github.com/rome/tools) - Linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS. ([Web](https://rome.tools/)) ([HN](https://news.ycombinator.com/item?id=22430682)) ([HN 2](https://news.ycombinator.com/item?id=24094377)) ([HN 3](https://news.ycombinator.com/item?id=24882413))
+- [Rome Toolchain](https://github.com/rome/tools) - Linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS. ([Web](https://rome.tools/)) ([HN](https://news.ycombinator.com/item?id=22430682)) ([HN 2](https://news.ycombinator.com/item?id=24094377)) ([HN 3](https://news.ycombinator.com/item?id=24882413)) ([Discord](https://discord.com/invite/rome))
 - [Bolt](https://github.com/boltpkg/bolt) - Super-powered JavaScript project management.
 - [tiny-js](https://github.com/gfwilliams/tiny-js) - Aims to be an extremely simple (~2000 line) JavaScript interpreter.
 - [JavaScript and TypeScript tooling overview](https://github.com/slikts/tooling)
