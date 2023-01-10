@@ -524,6 +524,7 @@
 - [durian](https://github.com/spoorn/durian) - Client-server networking library built on top of the QUIC protocol. ([Reddit](https://www.reddit.com/r/rust/comments/zfseve/durian_a_highlevel_general_purpose_clientserver/))
 - [tween](https://github.com/sanbox-irl/tween) - Std-optional tweening library, designed for use in games and animations.
 - [apecs](https://github.com/schell/apecs) - Asyncronous Parallel Entity Component System.
+- [Game Loop](https://github.com/tuzz/game-loop) - Rust crate that implements a frame-rate-independent game loop.
 
 ## GraphQL
 

@@ -1013,3 +1013,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Difference between Rust intristics and Rust lang items (with Haskell examples)](https://github.com/ghc-proposals/ghc-proposals/pull/559#issuecomment-1371354136)
 - [Go devs that learned Rust, what are your thoughts on it? (2023)](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/)
 - [Does rust have a garbage collector? (2023)](https://www.reddit.com/r/rust/comments/10815lw/am_i_dumb_or_does_rust_have_a_garbage_collector/)
+- [Scriptisto](https://github.com/igor-petruk/scriptisto) - Tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing.

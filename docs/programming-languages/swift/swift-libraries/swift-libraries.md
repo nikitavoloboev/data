@@ -614,6 +614,7 @@
 - [LightDarkMode ToggleStyle](https://github.com/pratikg29/LightDarkMode-ToggleStyle) - Custom style for SwiftUI toggle with nice animations.
 - [EasySkeleton](https://github.com/SpectralDragon/EasySkeleton) - Lightweight and fast skeleton library for SwiftUI.
 - [Dependencies](https://github.com/pointfreeco/swift-dependencies) - Dependency management library inspired by SwiftUI's "environment.".
+- [SwiftUIColor](https://github.com/p-x9/SwiftUIColor) - Make system color defined in UIColor/NSColor available to SwiftUI Color.
 
 ## Test
 

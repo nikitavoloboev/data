@@ -42,3 +42,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [GPTDuck](https://www.gptduck.com/) - Ask questions about any GitHub repo. ([HN](https://news.ycombinator.com/item?id=34262587))
 - [ChatGPT won’t replace search engines any time soon (2023)](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/) ([HN](https://news.ycombinator.com/item?id=34291565))
 - [prophet](https://github.com/musikalkemist/prophet) - Command-line application that allows you to have a conversation with ChatGPT.
+- [Build Your own ChatGPT with OpenAI API and Streamlit](https://github.com/afizs/chatgpt-clone)

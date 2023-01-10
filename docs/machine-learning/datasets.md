@@ -231,3 +231,4 @@
 - [any2dataset](https://github.com/rom1504/any2dataset) - Easily turn large sets of file URLs to an file dataset.
 - [Database of 200k cell images yields new mathematical framework (2023)](https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells) ([HN](https://news.ycombinator.com/item?id=34266683))
 - [Fashion IQ dataset](https://github.com/XiaoxiaoGuo/fashion-iq)
+- [City2BA](https://github.com/tkonolige/city2ba) - Tools for generating synthetic bundle adjustment datasets.
