@@ -67,6 +67,7 @@ I like to [make private contributions private on my profile](https://i.imgur.com
 - [Before copy-pasting a GitHub source code link, especially one that links to a line or line range, hit `y` to make the URL include the current commit hash. That way the link will keep working even if the file is later changed or moved/deleted](https://twitter.com/jonhoo/status/1579177477628313600)
 - Can append `#readme` to GitHub repo URL to jump to README of the repo.
 - [Most efficient way of getting to know the language is using GitHub code search. Just type a function name with suffix `lang:go/zig` and you get real world usage.](https://news.ycombinator.com/item?id=33413714)
+- [shift+clicking on line numbers will create a range with URL to share in diffs](https://twitter.com/fabiospampinato/status/1612512170855505920?s=20)
 
 ## Code
 
