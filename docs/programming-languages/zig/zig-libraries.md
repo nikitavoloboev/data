@@ -158,6 +158,7 @@
 - [pegzi](https://github.com/travisstaloch/pegzi) - PEG (parsing expression grammar) parser in zig.
 - [Composable allocators](https://github.com/dweiller/zig-composable-allocators)
 - [zubench](https://github.com/dweiller/zubench) - Micro-benchmarking package for Zig.
+- [zasp](https://github.com/fengb/zasp) - Streaming parser.
 
 ## Links
 

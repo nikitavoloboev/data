@@ -322,3 +322,4 @@
 - [What Makes Convolutional Models Great on Long Sequence Modeling?](https://twitter.com/davisblalock/status/1586274303565189121)
 - [A Step by Step Backpropagation Example (2015)](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [DecoMon](https://github.com/airbus/decomon) - Automatic Certified Perturbation Analysis of Neural Networks.
+- [Directional Message Passing Neural Network (DimeNet and DimeNet++)](https://github.com/gasteigerjo/dimenet)

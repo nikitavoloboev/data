@@ -513,3 +513,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [БРОКЕН ДЭНС - YouTube](https://www.youtube.com/@broken_dance/videos)
 - [Musescore.com](https://musescore.com/) - World's largest free sheet music catalog and community.
 - [Chord Practice](https://chords.adammenz.com/)
+- [staffrender](https://github.com/rogerpasky/staffrender) - Plain vanilla TypeScript library to render music score in browsers.

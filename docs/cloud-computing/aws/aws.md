@@ -431,3 +431,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [SST](https://github.com/serverless-stack/sst) - Makes it easy to build full-stack serverless applications on AWS.
 - [s3d](https://github.com/s3d-rs/s3d) - Daemon for data access using S3 API.
 - [AWS CDK bindings for Go](https://github.com/aws/aws-cdk-go)
+- [eksdemo](https://github.com/aaroniscode/eksdemo) - kubectl-like CLI for Amazon EKS.

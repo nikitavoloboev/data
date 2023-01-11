@@ -1113,6 +1113,8 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [validators](https://github.com/python-validators/validators) - Python data validation for Humans.
 - [Python State Machine](https://github.com/fgmacedo/python-statemachine) - Intuitive and powerful state machine framework designed for a great developer experience.
 - [identify](https://github.com/pre-commit/identify) - File identification library for Python.
+- [py-factorgraph](https://github.com/mbforbes/py-factorgraph) - Factor graphs and loopy belief propagation implemented in Python.
+- [SmartNoise SDK](https://github.com/opendp/smartnoise-sdk) - Tools for Differential Privacy on Tabular Data.
 
 ## Notes
 

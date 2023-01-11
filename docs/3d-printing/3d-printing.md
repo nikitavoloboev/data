@@ -32,6 +32,7 @@
 - [Debunking LIES about 3D printed concrete houses (2021)](https://www.youtube.com/watch?v=sz1LM9kwRLY) ([Reddit](https://www.reddit.com/r/videos/comments/qc3ueb/debunking_lies_about_3d_printed_concrete_houses/))
 - [Things I would like to 3D print](https://jmtd.net/log/3d_print_list/) ([HN](https://news.ycombinator.com/item?id=29121318))
 - [Printrun](https://github.com/kliment/Printrun) - Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software.
+- [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework.
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine) - C++ console application for 3D printing GCode generation.
 - [PUMA](https://github.com/TadPath/PUMA) - 3D Printed Microscope.
 - [Slic3r](https://slic3r.org/) - Open source 3D printing toolbox. ([Code](https://github.com/slic3r/Slic3r))

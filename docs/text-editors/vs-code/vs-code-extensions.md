@@ -272,6 +272,7 @@ Below is a list of extensions I use.
 - [TS QuickFixes](https://marketplace.visualstudio.com/items?itemName=tamj0rd2.ts-quickfixes-extension) ([Code](https://github.com/tamj0rd2/ts-quickfixes)) ([Tweet](https://twitter.com/wesbos/status/1582803702225989637))
 - [EffectTS LSP](https://github.com/Effect-TS/language-service)
 - [TS Extract Interface](https://github.com/luthfianto/ts-extract-interface) - VSCode extension to extract an interface from a TypeScript class.
+- [TypeScript Explorer](https://marketplace.visualstudio.com/items?itemName=mxsdev.typescript-explorer) ([Code](https://github.com/mxsdev/ts-type-explorer))
 
 ## DB
 

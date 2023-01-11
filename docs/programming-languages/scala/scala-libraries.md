@@ -24,6 +24,7 @@
 - [Waypoint](https://github.com/raquo/Waypoint) - Efficient router for Laminar UI Library.
 - [Apache Pekko](https://github.com/apache/incubator-pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala.
 - [Slinky](https://github.com/shadaj/slinky) - Write Scala React apps just like you would in ES6.
+- [Calico](https://github.com/armanbilge/calico) - Build reactive web applications in Scala.js with Cats Effect, FS2, and friends.
 
 ## CLI
 

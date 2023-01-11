@@ -39,3 +39,4 @@
 - [Gemini is a new internet protocol](https://admin.flounder.online/gemini.gmi) ([HN](https://news.ycombinator.com/item?id=30667545))
 - [On the shortcomings of Gemini protocol (2022)](https://lof.flounder.online/gemlog/2022-05-30%20On%20the%20shortcomings%20of%20gemini%20protocol.gmi) ([HN](https://news.ycombinator.com/item?id=31560509))
 - [Mehari](https://github.com/Psi-Prod/Mehari) - Mirage OS friendly Gemini servers library.
+- [Razzia](https://github.com/Psi-Prod/Razzia) - Cross-platform library for building Gemini clients.

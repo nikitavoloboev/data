@@ -34,6 +34,7 @@
 - [TaskPort](https://github.com/lobanov/elm-taskport) - Elm module allowing to call JavaScript APIs from Elm using the Task abstraction.
 - [Elm Safe Recursion](https://github.com/micahhahn/elm-safe-recursion) - Elegant recursion without blowing the stack.
 - [Parser](https://github.com/elm/parser) - Parsing library, focused on simplicity and great error messages.
+- [List Extra](https://github.com/elm-community/list-extra) - Convenience functions for working with List.
 
 ## Links
 

@@ -107,3 +107,4 @@
 - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation (2022)](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
 - [Hyperbacked](https://github.com/Twometer/hyperbacked) - Stores secrets securely using printable PDFs that contain encrypted QR-Codes.
 - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
+- [Enc](https://github.com/life4/enc) - CLI tool for encryption, a modern and friendly alternative to GnuPG.

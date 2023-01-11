@@ -604,6 +604,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Proteus](https://github.com/jonbodner/proteus) - Simple tool for generating an application's data access layer.
 - [pgeo](https://github.com/saulortega/pgeo) - Geometric Types for Postgres.
 - [BarrelDB](https://github.com/mr-karan/barreldb) - Disk based key-value store based on Bitcask.
+- [DBML Go](https://github.com/duythinht/dbml-go) - DBML parser and tools for Go.
 
 ## ML
 
@@ -1999,6 +2000,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-diff](https://github.com/sourcegraph/go-diff) - Unified diff parser and printer for Go.
 - [go-dap](https://github.com/google/go-dap) - Go implementation of the Debug Adapter Protocol.
 - [gopherlogs](https://github.com/jpmcb/gopherlogs) - Simple, powerful, and extensible Go logging framework with batteries included.
+- [cadet](https://github.com/martinrue/cadet) - Library for creating simple HTTP-RPC servers in Go.
 
 ## Links
 

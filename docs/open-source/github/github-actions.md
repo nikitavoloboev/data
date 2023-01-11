@@ -632,3 +632,4 @@ title: GitHub actions
 - [Information and tips regarding GitHub Actions](https://github.com/TomasHubelbauer/github-actions)
 - [Using larger GitHub runners](https://docs.github.com/en/actions/using-github-hosted-runners/using-larger-runners)
 - [Deploying Edge Functions with GitHub Actions (2022)](https://www.youtube.com/watch?v=l2KlzGrhB6w)
+- [Docker Layer Caching in GitHub Actions](https://github.com/jpribyl/action-docker-layer-caching)

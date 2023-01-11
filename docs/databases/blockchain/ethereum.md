@@ -750,3 +750,5 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [txparse](https://github.com/holiman/txparse) - Ethereum transaction-parser.
 - [Foundry Invariants](https://github.com/N0xMare/foundry-invariants)
 - [Garaga](https://github.com/keep-starknet-strange/garaga) - Efficient pairing library, written in Cairo.
+- [Gambit](https://github.com/Certora/gambit) - Certora's Mutation Generator for Solidity.
+- [Papyrus](https://github.com/starkware-libs/papyrus) - StarkNet full node written in Rust.

@@ -267,3 +267,4 @@ title: DNS
 - [mdns-sd](https://github.com/keepsimple1/mdns-sd) - Rust library for mDNS based Service Discovery.
 - [doh](https://github.com/picatz/doh) - DNS over HTTPs command-line client.
 - [Can I takeover XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) - List of services and how to claim (sub)domains with dangling DNS records.
+- [MassDNS](https://github.com/blechschmidt/massdns) - High-performance DNS stub resolver.

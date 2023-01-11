@@ -48,3 +48,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [TweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT.
 - [GPT Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode.
 - [Jax GPT](https://github.com/jenkspt/gpt-jax) - Jax/Flax rewrite of Karpathy's nanoGPT.
+- [Chronology](https://github.com/OthersideAI/chronology) - Library that enables users of OpenAI's GPT-3 language model to more easily build complex language-powered applications.
+- [ChatGPT API Server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server)

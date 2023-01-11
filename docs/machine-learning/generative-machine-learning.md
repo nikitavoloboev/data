@@ -297,3 +297,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Guided denoising diffusion (2023)](https://liorsinai.github.io/coding/2023/01/04/denoising-diffusion-3-guidance.html)
 - [Personalizing Text-to-Image Generation via Aesthetic Gradients (2022)](https://arxiv.org/abs/2209.12330) ([Code](https://github.com/vicgalle/stable-diffusion-aesthetic-gradients))
 - [Simple tools for using open source text-to-image models](https://github.com/hardmaru/image-notebook)
+- [Prompt Tool](https://github.com/claudfuen/prompt-tool) - Open-source tool that makes it easy for people to explore styles, and complex MidJourney prompts, visually. ([Web](https://prompt-tool.vercel.app/))
+- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)

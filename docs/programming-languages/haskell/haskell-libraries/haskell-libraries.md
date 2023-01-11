@@ -471,3 +471,4 @@
 - [Haskell Message Index](https://github.com/haskellfoundation/error-message-index) - Community-driven collection of documentation for Haskell error messages and warnings.
 - [SimFormat](https://github.com/Simspace/simformat) - Formats Haskell import lists.
 - [cabal-plan-bounds](https://github.com/nomeata/cabal-plan-bounds) - Calculate Haskell dependency ranges from multiple build plans.
+- [haskell-flake](https://github.com/srid/haskell-flake) - Flake-parts Nix module for Haskell development.

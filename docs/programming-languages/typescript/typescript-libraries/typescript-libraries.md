@@ -750,6 +750,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Typed Binary](https://github.com/iwoplaza/typed-binary) - Describe binary structures with full TypeScript support. Encode and decode into pure JavaScript objects.
 - [binparse](https://github.com/blacha/binparse) - Typed binary parsing for TypeScript.
 - [typed/fp](https://github.com/TylorS/typed-fp) - Collection of libraries and tools for building applications using fp-ts v3 and Effect.
+- [TypedEventTarget](https://github.com/DerZade/typescript-event-target) - Strictly typed EventTarget that directly extends EventTarget to function as a drop-in replacement.
 
 ## Links
 

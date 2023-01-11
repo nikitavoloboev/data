@@ -238,3 +238,5 @@ title: Vue.js
 - [Nuxt Fontaine](https://github.com/nuxt-modules/fontaine) - Font metric overrides to reduce CLS.
 - [Nuxt Component Meta](https://github.com/nuxtlabs/nuxt-component-meta) - Gather Nuxt components metadata on build time and make them available on production.
 - [Vue Mafs](https://github.com/mujahidfa/vue-mafs) - Vue components for creating interactive math visualizations, based on Mafs.
+- [Sefirot](https://github.com/globalbrain/sefirot) - Vue Components for Global Brain Design System.
+- [GitHub integration for Nuxt](https://github.com/nuxtlabs/github-module)

@@ -190,6 +190,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Counter-Strike JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter-Strike 1.6 implementation in TypeScript utilizing state of the art browser APIs.
 - [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG.
 - [ET: Legacy](https://www.etlegacy.com/) - Fully compatible Wolfenstein Enemy Territory client and server. ([Code](https://github.com/etlegacy/etlegacy))
+- [Kandria](https://github.com/Shirakumo/kandria) - Post-apocalyptic actionRPG.
 
 ## Awesome games (other)
 

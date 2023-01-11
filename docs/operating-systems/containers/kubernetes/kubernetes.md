@@ -904,3 +904,6 @@ title: Kubernetes
 - [Klotho](https://github.com/klothoplatform/klotho) - CLI tool that transforms plain code into cloud native code.
 - [ChatGPT bot for Kubernetes issues](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 - [Upgrading Kubernetes - A Practical Guide (2023)](https://matduggan.com/upgrading-kubernetes-safely/)
+- [kinitiras](https://github.com/k-cloud-labs/kinitiras) - Programmable rule engine for k8s admission webhook.
+- [Scylla Operator](https://github.com/scylladb/scylla-operator)
+- [nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster.

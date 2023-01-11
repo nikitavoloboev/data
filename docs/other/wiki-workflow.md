@@ -146,7 +146,7 @@ I want to:
 - [Bharat’s Digital Garden](https://bharatkalluri.com/notes)
 - [Chrisman Brown](https://github.com/chrisman/knowledge/wiki)
 - [Brian Turchyn](https://wiki.brianturchyn.net/) ([Code](https://github.com/b-turchyn/wiki))
-- [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
+- [Sridhar Ratnakumar](https://srid.ca/-/all)
 - [Timothy Andrew](https://timothyandrew.net/learning/)
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
 - [nchrs.xyz](https://nchrs.xyz/site/home.html)

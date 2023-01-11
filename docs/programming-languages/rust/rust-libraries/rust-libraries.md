@@ -807,6 +807,7 @@
 - [mpu9250](https://github.com/copterust/mpu9250) - No_std driver for the MPU9250 & onboard AK8963 (accelerometer + gyroscope + magnetometer IMU).
 - [esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
 - [critical-section](https://github.com/rust-embedded/critical-section) - Pluggable critical section.
+- [stm32-data](https://github.com/embassy-rs/stm32-data) - Produce clean machine-readable data about the STM32 microcontroller families.
 
 ## ML
 
@@ -2510,6 +2511,9 @@
 - [async-compat](https://github.com/smol-rs/async-compat) - Compatibility adapter between tokio and futures.
 - [with-thread-local](https://github.com/cecton/with-thread-local) - Micro crate that simplifies a bit the use of the std macro thread_local.
 - [RaptorQ](https://github.com/cberner/raptorq) - Rust implementation of RaptorQ.
+- [urlpattern](https://github.com/denoland/rust-urlpattern) - Rust implementation of the `URLPattern` web API.
+- [Timely Util](https://github.com/cdstanford/timely-util) - Utility abstractions on top of Timely Dataflow.
+- [OpenDP](https://github.com/opendp/opendp) - Modular collection of statistical algorithms that adhere to the definition of differential privacy.
 
 ## Cargo Plugins
 

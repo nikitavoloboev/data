@@ -1026,7 +1026,7 @@
 - [search-index](https://github.com/fergiemcdowall/search-index) - Persistent, network resilient, full text search library for the browser and Node.js.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [aggregate-error](https://github.com/sindresorhus/aggregate-error) - Create an error from multiple errors.
-- [Lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be.
+- [Lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be. ([Web](https://lenis.studiofreight.com/))
 - [polybooljs](https://github.com/velipso/polybooljs) - Boolean operations on polygons (union, intersection, difference, xor).
 - [usignal](https://github.com/WebReflection/usignal) - Alternative to @preact/signals-core.
 - [multiformats](https://github.com/multiformats/js-multiformats) - Multiformats interface (multihash, multicodec, multibase and CID).
@@ -1099,6 +1099,7 @@
 - [Cuid2](https://github.com/paralleldrive/cuid2) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.
 - [throat](https://github.com/ForbesLindesay/throat) - Throttle a collection of promise returning functions.
 - [Rempl](https://github.com/rempl/rempl) - Framework for moderated access with custom UI to remote JavaScript runtime.
+- [GScroll](https://github.com/grcmichael/gscroll) - Simple smooth scroll based on GSAP library.
 
 ## Links
 

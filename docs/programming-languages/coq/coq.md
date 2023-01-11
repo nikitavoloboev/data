@@ -186,3 +186,4 @@ title: Coq
 - [Parsec](https://github.com/liyishuai/coq-parsec) - Monadic parser combinator library in Coq.
 - [Purely functional IO for Coq](https://github.com/Lysxia/coq-simple-io)
 - [File Synchroniser](https://github.com/liyishuai/file-sync) - File synchroniser specification in Coq.
+- [Proof of the Church-Rosser theorem using locally nameless representation in Coq](https://github.com/sweirich/lambda-calculus)

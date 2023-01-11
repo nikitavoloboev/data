@@ -1092,3 +1092,5 @@
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - YOLOv8 in PyTorch > ONNX > CoreML > TFLite.
 - [Neural Density-Distance Fields (2022)](https://arxiv.org/abs/2207.14455) ([Code](https://github.com/ueda0319/neddf))
 - [Vision Transformers Are Good Mask Auto-Labelers (2023)](https://arxiv.org/abs/2301.03992) ([Code](https://github.com/NVlabs/mask-auto-labeler))
+- [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition (2022)](https://arxiv.org/abs/2210.11277) ([Code](https://github.com/Gorilla-Lab-SCUT/tango))
+- [EVA: Exploring the Limits of Masked Visual Representation Learning at Scale (2022)](https://arxiv.org/abs/2211.07636) ([Code](https://github.com/baaivision/EVA))

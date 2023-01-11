@@ -268,7 +268,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika)) ([HN](https://news.ycombinator.com/item?id=30611657))
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
-- [ToolJet](https://tooljet.com/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))
+- [ToolJet](https://tooljet.com/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408)) ([HN](https://news.ycombinator.com/item?id=34323247))
 - [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
 - [Airplane](https://www.airplane.dev/) - Code to internal apps in minutes. ([How we use Airplane to simplify our tech infrastructure](https://lu.ma/p/CKxGL0gCZChE4OA/How-we-use-Airplane-to-simplify-our-tech-infrastructure))
 - [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))

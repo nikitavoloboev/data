@@ -284,3 +284,4 @@ All active variables can be seen by running `env`.
 - [YeAST](https://github.com/yvan-sraka/YeAST) - Extension of the bourne shell shebangsyntax.
 - [ShellCheck Python](https://github.com/shellcheck-py/shellcheck-py) - Python wrapper to provide a pip-installable shellcheck binary.
 - [Unix shell script tactics - best practices style guide](https://github.com/SixArm/unix-shell-script-tactics)
+- [What happens when you open a terminal and enter ‘ls’ (2023)](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls) ([HN](https://news.ycombinator.com/item?id=34342438))

@@ -1015,3 +1015,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Does rust have a garbage collector? (2023)](https://www.reddit.com/r/rust/comments/10815lw/am_i_dumb_or_does_rust_have_a_garbage_collector/)
 - [Scriptisto](https://github.com/igor-petruk/scriptisto) - Tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing.
 - [GCC Front-End For Rust (2022)](https://rust-gcc.github.io/reporting/2022-year-report.html) ([Lobsters](https://lobste.rs/s/ovoldv/gccrs_2022))
+- [Rust 101 course](https://github.com/tweedegolf/101-rs)
