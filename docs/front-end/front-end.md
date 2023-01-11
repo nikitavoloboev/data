@@ -139,3 +139,4 @@
 - [Ask HN: Why did Frontend development explode in complexity? (2023)](https://news.ycombinator.com/item?id=34218003)
 - [How to store your app's entire state in the URL (2023)](https://www.scottantipa.com/store-app-state-in-urls) ([HN](https://news.ycombinator.com/item?id=34312546))
 - [Build UI](https://buildui.com/) - High-quality videos on front end development.
+- [Component Stats](https://github.com/Jimdo/components-stats) - Collect stats about UI components usage across the GitHub org.

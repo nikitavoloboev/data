@@ -395,3 +395,4 @@
 - [AMD’s Zen 4, Part 3: System Level Stuff, and iGPU (2023)](https://chipsandcheese.com/2023/01/05/amds-zen-4-part-3-system-level-stuff-and-igpu/) ([HN](https://news.ycombinator.com/item?id=34256594))
 - [New timepiece for a Classic Mac (2022)](https://www.quantulum.co.uk/blog/new-timepiece-for-a-classic-mac-part-1/)
 - [Ask HN: Where to get help with a hardware idea? (2023)](https://news.ycombinator.com/item?id=34325633)
+- [HPCToolkit](https://gitlab.com/hpctoolkit/hpctoolkit) - Integrated suite of tools for measurement and analysis of program performance.

@@ -84,6 +84,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. ([HN](https://news.ycombinator.com/item?id=33922754))
 - [Falcon](https://github.com/falconry/falcon) - Minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale.
 - [hface](https://github.com/akamai/hface) - Hackable HTTP/{1,2,3} {client,server,proxy}.
+- [rush](https://github.com/sigmavirus24/rush) - Library for throttles.
 
 ## ML
 

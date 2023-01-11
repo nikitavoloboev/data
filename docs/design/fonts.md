@@ -452,3 +452,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [What are your favorite fonts?](https://twitter.com/uiuxadrian/status/1603822021611343872)
 - [Font Preview VSCode](https://github.com/AdamRaichu/vscode-font-viewer) - VS Code extension which allows you to preview fonts.
 - [Ultimate List of Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs)
+- [What fonts are you using other than Inter?](https://twitter.com/CharlesPattson/status/1612782418942910465)

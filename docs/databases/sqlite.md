@@ -12,7 +12,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is nice. [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) & [How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/) are great reads.
 
-[Marmot](https://github.com/maxpert/marmot) is a nice distributed SQLite replicator.
+[Marmot](https://github.com/maxpert/marmot) & [Mycelite](https://github.com/mycelial/mycelite) seem nice for replicating SQLite.
 
 Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/libsql/sqld).
 
@@ -295,3 +295,4 @@ Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/lib
 - [WAL Mode in LiteFS (2023)](https://fly.io/blog/wal-mode-in-litefs/) ([HN](https://news.ycombinator.com/item?id=34247738))
 - [I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS (2022)](https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs)
 - [LiteSync](https://litesync.io/en/index.html) - Easy synchronization of SQLite databases. ([HN](https://news.ycombinator.com/item?id=34265261))
+- [Mycelite](https://github.com/mycelial/mycelite) - SQLite extension that allows you to synchronize changes from one instance of SQLite to another. ([Web](https://mycelial.com/))

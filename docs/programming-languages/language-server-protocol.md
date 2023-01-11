@@ -35,3 +35,4 @@ title: Language Server Protocol
 - [Langoustine VS Code extension](https://github.com/neandertech/langoustine-vscode) - VS code extension intended for people interested in writing Language Servers.
 - [Langoustine](https://github.com/neandertech/langoustine) - Write Language Servers in Scala 3.
 - [Minimal browser-hosted WASM demo for tower-lsp](https://github.com/silvanshade/tower-lsp-web-demo)
+- [FFI Navigator](https://github.com/tqchen/ffi-navigator)

@@ -273,3 +273,4 @@ title: SwiftUI
 - [Building custom layout in SwiftUI. Spacing. (2022)](https://swiftwithmajid.com/2022/12/06/building-custom-layout-in-swiftui-spacing/)
 - [SwiftUI View Lifecycle](https://github.com/ole/swiftui-view-lifecycle) - iOS and macOS app that demonstrates how different SwiftUI constructs and SwiftUI container views affect.
 - [MacPreviewUtils](https://github.com/insidegui/MacPreviewUtils) - Handy tools for SwiftUI previews on macOS.
+- [SwiftUI Subscription Paywall](https://github.com/JamesSedlacek/PaywallDemo)

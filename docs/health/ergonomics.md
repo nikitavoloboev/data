@@ -109,3 +109,5 @@ Together with above, I try do many [exercises](../fitness/exercises.md) that tar
 - [Posture Reddit](https://www.reddit.com/r/Posture/)
 - [Fix your spine: A goldmine of practices for better posture](https://www.reddit.com/r/Posture/comments/t7guck/fix_your_spine_a_goldmine_of_practices_for_better/)
 - [A guide to fixing Developer Posture](https://gaylelaakmann.substack.com/p/a-guide-to-fixing-computer-guy-posture) ([Reddit](https://www.reddit.com/r/programming/comments/1045o8l/a_guide_to_fixing_developer_posture/))
+- [How You Can Fix a Dowager’s Hump + Prevention Tips](https://health.clevelandclinic.org/how-you-can-fix-a-dowagers-hump-prevention-tips/)
+- [Is it possible to get out of forward head posture?](https://www.reddit.com/r/Posture/comments/108hr0h/is_it_possible_to_get_out_of_forward_head_posture/)

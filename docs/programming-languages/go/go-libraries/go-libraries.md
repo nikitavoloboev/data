@@ -1996,6 +1996,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Databricks SDK for Go](https://github.com/databricks/databricks-sdk-go)
 - [gio-cloth](https://github.com/esimov/gio-cloth) - Desktop application for cloth physics simulation in Go.
 - [go-craq](https://github.com/despreston/go-craq) - Implements CRAQ (Chain Replication with Apportioned Queries).
+- [go-diff](https://github.com/sourcegraph/go-diff) - Unified diff parser and printer for Go.
+- [go-dap](https://github.com/google/go-dap) - Go implementation of the Debug Adapter Protocol.
 
 ## Links
 

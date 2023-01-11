@@ -139,3 +139,4 @@ title: GPU
 - [ArchProbe](https://github.com/microsoft/ArchProbe) - Profiler to disclose and quantify hardware features on GPUs.
 - [MIG Profiler](https://github.com/MLSysOps/MIGProfiler) - Multi-Instance-GPU profiling tool.
 - [EnvyControl](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux.
+- [Awesome GPU](https://github.com/Jokeren/Awesome-GPU)

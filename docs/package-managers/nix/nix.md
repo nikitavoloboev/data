@@ -483,3 +483,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Questions for the weekly Nix Hour](https://github.com/tweag/nix-hour)
 - [Nix journey part 1: creating a flake (2022)](https://woile.dev/posts/nix-journey-part-1-creating-a-flake/)
 - [Nix journey part 2: replacing apt and brew (2023)](https://woile.dev/posts/nix-journey-part-2-replacing-apt-and-brew/)
+- [Nix RFC draft for auto-calling packages in nixpkgs](https://github.com/nixpkgs-architecture/simple-package-paths)
+- [nix-top](https://github.com/samueldr/nix-top) - Script to help users figure out what's building.

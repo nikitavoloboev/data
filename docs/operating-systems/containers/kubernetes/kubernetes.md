@@ -903,3 +903,4 @@ title: Kubernetes
 - [code-generator](https://github.com/kubernetes/code-generator) - Generators for kube-like API types.
 - [Klotho](https://github.com/klothoplatform/klotho) - CLI tool that transforms plain code into cloud native code.
 - [ChatGPT bot for Kubernetes issues](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
+- [Upgrading Kubernetes - A Practical Guide (2023)](https://matduggan.com/upgrading-kubernetes-safely/)

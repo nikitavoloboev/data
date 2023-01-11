@@ -476,3 +476,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Yark](https://github.com/Owez/yark) - YouTube archiving made simple. ([HN](https://news.ycombinator.com/item?id=34264487))
 - [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) - Creating and working with Matroska files.
 - [Large Media Upload](https://github.com/twitterdev/large-video-upload-python) - Python code for uploading video up to 140 seconds and/or up to 512Mb.
+- [libcamera](https://github.com/raspberrypi/libcamera) - Complex camera support library for Linux, Android, and ChromeOS.

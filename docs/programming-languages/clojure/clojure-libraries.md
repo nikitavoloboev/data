@@ -269,6 +269,7 @@
 - [Medley](https://github.com/weavejester/medley) - Lightweight library of useful Clojure functions.
 - [match](https://github.com/clojure/core.match) - Optimized pattern matching library for Clojure.
 - [deps-deploy](https://github.com/slipset/deps-deploy) - Clojure library to deploy your stuff to clojars with clj or clojure.
+- [flex](https://github.com/lilactown/flex) - Library for building reactive computation graphs in Clojure(Script).
 
 ## Links
 

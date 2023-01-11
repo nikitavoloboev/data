@@ -183,3 +183,5 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [What are your top three movies that came out in 2022?](https://www.reddit.com/r/Letterboxd/comments/zvq48w/what_are_your_top_three_movies_that_came_out_this/)
 - [Murder Mystery Movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/zwqv7e/murder_mystery_movies/)
 - [What was everyone's last film(s) of 2022?](https://www.reddit.com/r/Letterboxd/comments/100fset/what_was_everyones_last_films_of_2022/)
+- [Movies that’ll leave me an emotional mess (2023)](https://www.reddit.com/r/MovieSuggestions/comments/108r7up/a_movie_thatll_leave_me_an_emotional_mess/)
+- [Why The Banshees of Inisherin is the Best Movie of 2022](https://www.youtube.com/watch?v=HbqWtZZlTBw)

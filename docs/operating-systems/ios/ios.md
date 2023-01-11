@@ -149,6 +149,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Glucose Direct](https://github.com/creepymonster/GlucoseDirect) - App programmed in Swift/SwiftUI for using Libre blood glucose sensors.
 - [Cards](https://github.com/Rminsh/Cards) - Simple flash cards app for iOS and macOS.
 - [Amperfy](https://github.com/BLeeEZ/amperfy) - iOS app to play songs from an Ampache or Subsonic server.
+- [Fosdem.app](https://github.com/mttcrsp/fosdem) - iOS app for all things FOSDEM.
 
 ## Other
 

@@ -46,3 +46,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Wolfram Alpha and ChatGPT (2023)](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/) ([HN](https://news.ycombinator.com/item?id=34322033))
 - [TweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT.
 - [GPT Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode.
+- [Jax GPT](https://github.com/jenkspt/gpt-jax) - Jax/Flax rewrite of Karpathy's nanoGPT.

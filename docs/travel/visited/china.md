@@ -114,3 +114,4 @@ Truthfully though, I need to actually try live in China and speak to people ther
 - [Far & Near](https://farandnear.substack.com/) - Highlighting visual storytelling from China, through Chinese eyes.
 - [The Third Revolution - Xi Jinping and the New Chinese State Book](https://www.cfr.org/book/third-revolution)
 - [Summary of China's upcoming issues to come (2022)](https://www.reddit.com/r/China/comments/zq3w8y/comment/j0x3a9f/?context=3)
+- [Xi Jinping: From Obscurity to Absolute Power (2023)](https://www.youtube.com/watch?v=QrxrIH5zhBc)

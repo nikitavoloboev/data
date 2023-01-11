@@ -1090,3 +1090,5 @@
 - [Bidirectional Projection Network for Cross Dimension Scene Understanding (2021)](https://arxiv.org/abs/2103.14326) ([Code](https://github.com/wbhu/BPNet))
 - [Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction) - Curated list of resources on handling Rolling Shutter effects and Radial Distortions.
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - YOLOv8 in PyTorch > ONNX > CoreML > TFLite.
+- [Neural Density-Distance Fields (2022)](https://arxiv.org/abs/2207.14455) ([Code](https://github.com/ueda0319/neddf))
+- [Vision Transformers Are Good Mask Auto-Labelers (2023)](https://arxiv.org/abs/2301.03992) ([Code](https://github.com/NVlabs/mask-auto-labeler))

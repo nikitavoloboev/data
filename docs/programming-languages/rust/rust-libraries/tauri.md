@@ -62,3 +62,4 @@ title: Tauri
 - [Window Shadows](https://github.com/tauri-apps/window-shadows) - Add native shadows to your windows.
 - [Tauri Plugins](https://github.com/tauri-apps/plugins-workspace)
 - [Tiny and secure native apps using Vite + Tauri (2022)](https://www.youtube.com/watch?v=_dJDjVG1wWs)
+- [Bevy Snake in Tauri via WASM (2022)](https://www.youtube.com/watch?v=0KBsbrhKt34)

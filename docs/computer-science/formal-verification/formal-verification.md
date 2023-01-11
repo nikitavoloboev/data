@@ -168,3 +168,4 @@ title: Formal verification
 - [Symbolic execution engine powering the K Framework](https://github.com/runtimeverification/haskell-backend)
 - [Refinement through Restraint: Bringing Down the Cost of Verification (2017)](https://trustworthy.systems/publications/nicta_full_text/9425.pdf)
 - [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations) ([Lobsters](https://lobste.rs/s/x1uqji/verifiable_software_development))
+- [Quint](https://github.com/informalsystems/quint) - Specification language based on the Temporal Logic of Actions.

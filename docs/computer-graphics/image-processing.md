@@ -235,3 +235,4 @@
 - [Pixel Accurate Atkinson Dithering for Images in HTML (2022)](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 - [Rendering Images with Emoji in Real Time (2022)](https://jott.live/markdown/images_as_emoji) ([Code](https://github.com/bwasti/img2emoji))
 - [Rust Image Worker](https://github.com/jupiter/rust-image-worker) - Dynamically crop, resize and cache images, all on the CDN.
+- [Face Photo Restorer](https://www.restorephotos.io/) - Restoring old and blurry face photos with AI. ([Code](https://github.com/Nutlope/restorePhotos))
