@@ -76,3 +76,4 @@ title: Prolog
 - [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9) ([HN](https://news.ycombinator.com/item?id=34224456))
 - [Djot implementation in Prolog](https://github.com/aarroyoc/djota)
 - [PostgreSQL Prolog](https://github.com/aarroyoc/postgresql-prolog) - Prolog library to connect to PostgreSQL databases. ([HN](https://news.ycombinator.com/item?id=28660202))
+- [Praxis IDE](https://github.com/toblotron/praxis-ide) - Online IDE for visual programming in Prolog.

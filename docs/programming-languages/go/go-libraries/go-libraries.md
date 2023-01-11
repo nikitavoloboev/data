@@ -1988,7 +1988,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Transition](https://github.com/qor/transition) - Go state machine implementation.
 - [Event Sourcing](https://github.com/hallgren/eventsourcing) - Capture all changes to an application state as a sequence of events.
 - [QRCode](https://github.com/shogo82148/qrcode) - QR code, Micro QR code and Rectangular Micro QR Code (rMQR) encoder.
-- [conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go.
+- [conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go. ([HN](https://news.ycombinator.com/item?id=34344514))
 - [Top-K Heavykeeper](https://github.com/migotom/heavykeeper) - Top-K elephant flows finding using HeavyKeeper accurate algorithm.
 - [godebug](https://github.com/kylelemons/godebug) - Pretty Printing for Go.
 - [midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go.

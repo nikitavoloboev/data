@@ -314,6 +314,7 @@ Run/deploy TS with [Deno](../../web/deno.md).
 - [Immutability: what a monster (2023)](https://dev.to/effect-ts/immutability-what-a-monster-3aj4) ([Tweet](https://twitter.com/MichaelArnaldi/status/1609562105652314116))
 - [eject-enum](https://github.com/jiftechnify/eject-enum) - Automatic code rewriting tool for TypeScript codebases that rewrites each TypeScript enum in your codes to the safer alternative.
 - [TypeScriptAST](https://github.com/omochi/TypeScriptAST) - Build TypeScript AST from Swift API.
+- [Structure of a TypeScript Error (2023)](https://www.totaltypescript.com/structure-of-a-typescript-error) ([Tweet](https://twitter.com/mattpocockuk/status/1613173540609556480))
 
 ## Images
 

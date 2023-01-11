@@ -51,3 +51,4 @@
 - [Forth: A New Way to Program a Mini Computer (1974)](https://articles.adsabs.harvard.edu/pdf/1974A%26AS...15..497M) ([HN](https://news.ycombinator.com/item?id=33134663))
 - [rtForth](https://github.com/chengchangwu/rtforth) - Forth implemented in Rust for real time application.
 - [The zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
+- [Modern take on Forth](https://github.com/jamesmunns/forth3)
