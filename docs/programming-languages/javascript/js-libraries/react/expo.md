@@ -10,6 +10,7 @@ Like how you can [embed Swift code into Expo](https://twitter.com/Baconbrix/stat
 
 ## Example OSS apps
 
+- [Create Universal App](https://github.com/chen-rn/CUA) - Opinionated template for creating full stack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui.
 - [Create-T3-Turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native.
 - [Expo Starter template](https://github.com/calebnance/expo-starter)
 - [Turborepo starter with Expo and tRPC](https://github.com/gunnnnii/turbo-expo-trpc-starter)

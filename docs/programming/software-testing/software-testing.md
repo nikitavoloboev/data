@@ -173,3 +173,4 @@
 - [A short introduction to BDD (2022)](https://www.germanvelasco.com/blog/short-intro-to-bdd)
 - [Reflections on "Testing Without Mocks" (2023)](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
 - [Test pollution and how to fix it (2021)](https://cs-syd.eu/posts/2021-10-23-test-pollution)
+- [Exhausting Exhaustive Testing (2022)](https://www.openmymind.net/Exhausting-Exhaustive-Testing/)

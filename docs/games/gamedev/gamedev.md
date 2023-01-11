@@ -313,3 +313,4 @@
 - [The System Behind Hades' Astounding Dialogue](https://www.youtube.com/watch?v=bwdYL0KFA_U)
 - [Ask HN: How to move from traditional tech into game dev? (2023)](https://news.ycombinator.com/item?id=34295863)
 - [RPG JS](https://rpgjs.dev/) - Create your RPG and MMORPG. ([Code](https://github.com/RSamaium/RPG-JS))
+- [How to Make a Roguelike (2018)](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)

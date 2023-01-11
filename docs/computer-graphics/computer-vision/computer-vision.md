@@ -1059,7 +1059,7 @@
 - [NeuMan: Neural Human Radiance Field from a Single Video (2022)](https://arxiv.org/abs/2203.12575) ([Code](https://github.com/apple/ml-neuman))
 - [ScaleNet: Searching for the Model to Scale (2022)](https://arxiv.org/abs/2207.07267) ([Code](https://github.com/luminolx/ScaleNet))
 - [Very Recent Progress in 3D Hand Tasks](https://github.com/SeanChenxy/Hand3DResearch)
-- [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation (2022)](https://arxiv.org/abs/2212.11565) ([Code](https://github.com/showlab/Tune-A-Video))
+- [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation (2022)](https://arxiv.org/abs/2212.11565) ([Code](https://github.com/showlab/Tune-A-Video)) ([Code](https://github.com/bryandlee/Tune-A-Video))
 - [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields (2022)](https://github.com/ToniRV/NeRF-SLAM)
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures (2022)](https://arxiv.org/abs/2211.07600) ([Code](https://github.com/eladrich/latent-nerf))
 - [Deep Architectures for Content Moderation and Movie Content Rating (2022)](https://arxiv.org/abs/2212.04533) ([Code](https://github.com/fcakyon/content-moderation-deep-learning))
@@ -1088,3 +1088,5 @@
 - [CiT: Curation in Training for Effective Vision-Language Data (2023)](https://arxiv.org/abs/2301.02241) ([Code](https://github.com/facebookresearch/CiT))
 - [MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare (2022)](https://arxiv.org/abs/2212.06870) ([Code](https://github.com/megapose6d/megapose6d))
 - [Bidirectional Projection Network for Cross Dimension Scene Understanding (2021)](https://arxiv.org/abs/2103.14326) ([Code](https://github.com/wbhu/BPNet))
+- [Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction) - Curated list of resources on handling Rolling Shutter effects and Radial Distortions.
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - YOLOv8 in PyTorch > ONNX > CoreML > TFLite.

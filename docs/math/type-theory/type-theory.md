@@ -226,3 +226,4 @@ title: Type Theory
 - [Andrej Bauer: "The countable reals" (2022)](https://www.youtube.com/watch?v=4CBFUojXoq4)
 - [Test the limits of a Linear System F](https://github.com/EduardoRFS/linear-f)
 - [Linear F in OCaml](https://github.com/EduardoRFS/f-omega)
+- [Hindley-Milner Type Inference implemented in Python](https://github.com/rob-smallshire/hindley-milner-python)

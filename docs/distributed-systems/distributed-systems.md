@@ -146,7 +146,7 @@
 - [Byzantine Eventual Consistency](https://github.com/ept/byzantine-eventual)
 - [Interval Tree Clocks (2020)](https://ferd.ca/interval-tree-clocks.html)
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/) ([HN](https://news.ycombinator.com/item?id=25327077))
-- [Raft Visualization](http://thesecretlivesofdata.com/raft/) ([HN](https://news.ycombinator.com/item?id=25326645))
+- [Raft Visualization](http://thesecretlivesofdata.com/raft/) ([HN](https://news.ycombinator.com/item?id=25326645)) ([Code](https://github.com/benbjohnson/thesecretlivesofdata))
 - [Meld](https://m-ld.org/) - Decentralized shared state.
 - [Understanding Connections & Pools (2021)](https://sudhir.io/understanding-connections-pools/) ([HN](https://news.ycombinator.com/item?id=25644656))
 - [Fission Whitepaper](https://whitepaper.fission.codes/) ([Code](https://github.com/fission-suite/whitepaper))

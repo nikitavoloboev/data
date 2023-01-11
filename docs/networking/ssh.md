@@ -142,3 +142,4 @@
 - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding (2022)](https://iximiuz.com/en/posts/ssh-tunnels/)
 - [Hardware-based SSH/GPG/age agent](https://github.com/romanz/trezor-agent)
 - [ssh whoami.filippo.io (2023)](https://words.filippo.io/dispatches/whoami-updated/) ([HN](https://news.ycombinator.com/item?id=34301768))
+- [whoarethey: Determine Who Can Log In to an SSH Server (2023)](https://www.agwa.name/blog/post/whoarethey) ([Lobsters](https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh)) ([HN](https://news.ycombinator.com/item?id=34332245)) ([Code](https://github.com/AGWA/whoarethey))

@@ -8,7 +8,7 @@ I try to [not sit for prolonged times](../health/ergonomics.md) (by using a stan
 
 ### Daily routine
 
-I use [Strong app](https://www.strong.app/) to track workouts/progress. [Fitbod](https://fitbod.me/) is nice too as it generates workouts for you based on muscle areas you want to target.
+I use [Strong app](https://www.strong.app/) to track workouts/progress. [Fitbod](https://fitbod.me/) is nice too as it generates workouts for you based on muscle areas you want to target. [MuscleWiki](https://musclewiki.com/) is great for finding [exercises](exercises.md) targetting certain muscles.
 
 I currently don't go to the gym so do workouts at home without any special gear but do plan to change it. My current daily routine I repeat 2-3 times daily. Everything done until failure. And with [proper strict form](https://youtu.be/5Jth37OywOE?t=522).
 
@@ -68,7 +68,7 @@ When I get a chance, I will setup [gymnastics rings](https://www.gornation.com/b
 - [BodyWeightStrength](https://bodyweightstrength.fit/) - Series of videos designed to take anyone form absolute beginner to a strong, functional physique with minimal equipment.
 - [What is the Most Brutal Training Program?](https://www.reddit.com/r/Fitness/comments/fm3cp7/what_is_the_most_brutal_training_program/)
 - [50 Ironmans, 50 Days, 50 States | James Lawrence (2019)](https://www.youtube.com/watch?v=dhcuSwkGCjE)
-- [Muscle Wiki](https://musclewiki.com/) - Select a muscle and it provides you with exercises to workout the selected muscle. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/i6fiis/select_a_muscle_and_it_provides_you_with/)) ([HN](https://news.ycombinator.com/item?id=25854523))
+- [MuscleWiki](https://musclewiki.com/) - Find exercises that work specific muscles. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/i6fiis/select_a_muscle_and_it_provides_you_with/)) ([HN](https://news.ycombinator.com/item?id=25854523)) ([HN](https://news.ycombinator.com/item?id=34332135))
 - [Peloton](https://www.onepeloton.com/) - Workouts Streamed Live & On-Demand.
 - [How walking makes us healthier, happier and brainier (2019)](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier) ([HN](https://news.ycombinator.com/item?id=24885334))
 - [tapiriik](https://tapiriik.com/) - Sync your runs, rides & more. ([Code](https://github.com/cpfair/tapiriik))

@@ -1,5 +1,9 @@
 # C
 
+[Everything I wish I knew when learning C](https://tmewett.com/c-tips/) is nice read.
+
+[Zig](../zig/zig.md) & [Rust](../rust/rust.md) are nice safer alternatives.
+
 ## Notes
 
 - [Notes on learning/using C.](https://lobste.rs/s/b5xwwg/what_are_you_doing_this_weekend#c_1kh5sd)
@@ -309,3 +313,4 @@
 - [50 years of C, the good, the bad and the ugly (2022)](https://streaming.media.ccc.de/jev22/relive/49151)
 - [SOCC](https://github.com/noti0na1/socc) - Simple C Compiler in OCaml.
 - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
+- [Safe memory reclamation for BIND (2023)](https://dotat.at/@/2023-01-10-qsbr.html)

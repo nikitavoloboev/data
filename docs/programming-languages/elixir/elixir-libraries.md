@@ -288,3 +288,5 @@
 - [Introduction to Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 - [Deploying Oban Pro/Web with Docker and Fly.io (2022)](https://davelucia.com/blog/deploying-oban-pro-with-docker-and-fly)
 - [Rustler Precompiled](https://github.com/philss/rustler_precompiled) - Use precompiled NIFs from trusted sources in your Elixir code.
+- [Building a Cache in Elixir (2022)](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
+- [Elixir Without Ecto - Dynamic Queries (2022)](https://www.openmymind.net/Elixir-Without-Ecto-Dynamic-Queries/)

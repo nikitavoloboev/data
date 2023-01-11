@@ -2,7 +2,7 @@
 
 Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/), [Jake Wangner](https://www.instagram.com/jakewangner/), [Polina Washington](https://www.instagram.com/polina.washington/), [Kseniia Vaschenko](https://www.instagram.com/kseniyavashchenko/), [Craig Whitehead](https://www.instagram.com/sixstreetunder/), [Bruce Weber](https://www.instagram.com/bruce_weber/) & [Mariam Sitchinava](https://www.instagram.com/mariamsitchinava/) are inspiring [amongst others](art.md#photography).
 
-[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica Q2](https://leica-camera.com/en-int/photography/cameras/q/q2-black). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
+[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto), [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) & [Respecting Context](https://simonsarris.substack.com/p/photo-editing-respecting-context) are nice guides. Saving up for [Leica Q2](https://leica-camera.com/en-int/photography/cameras/q/q2-black). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
 
 Want to build a page [like this](https://johannschopplich.com/en/photography) for my photos.
 
@@ -169,7 +169,7 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [International Center of Photography](https://www.icp.org/school)
 - [iPhone Macro: A Big Day for Small Things (2021)](https://lux.camera/iphone-macro-camera-a-big-day-for-small-things/)
 - [Whole Earth Flashbacks - Photo Album](https://photos.google.com/share/AF1QipMZhatDdj9CbnyceCQt2uFpkAiJqxUEXanwPOiHEkvP3tAQ6h7bJ8FN45FH4jySQg?pli=1&key=ZVJFUUVIbGZEQ3pkZ1NRcS11LXJDbThIZ2JQRWJ3) ([Tweet](https://twitter.com/mollyfmielke/status/1448689980390318094))
-- [Photo Editing: Respecting Context (2021)](https://simonsarris.substack.com/p/photo-editing-respecting-context)
+- [Photo Editing: Respecting Context (2021)](https://simonsarris.substack.com/p/photo-editing-respecting-context) ([HN](https://news.ycombinator.com/item?id=34335562))
 - [Munin](https://github.com/kradalby/munin) - Opinionated image gallery backend generator.
 - [Hugin](https://github.com/kradalby/hugin) - Front-end for image galleries generated with Munin.
 - [GoGallery](https://github.com/robrotheram/gogallery) - Simple gallery server in go.
@@ -270,3 +270,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [CINEMATIC Film Photography in Japan [Kodak Vision3, XPan] (2022)](https://www.youtube.com/watch?v=ZZ8tSxi2YrY)
 - [Колесо Собаки | Подкаст о фотографии](https://kolesosobaki.mave.digital/)
 - [Post-processing is ruining iPhone photos (2023)](https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/) ([HN](https://news.ycombinator.com/item?id=34290470))
+- [Minimalism and the art of photography](https://johnpweiss.com/blog/183699/minimalism-and-the-art-of-photography) ([HN](https://news.ycombinator.com/item?id=34322813))

@@ -1995,6 +1995,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Highlight](https://github.com/zyedidia/highlight) - Go package for syntax highlighting.
 - [Databricks SDK for Go](https://github.com/databricks/databricks-sdk-go)
 - [gio-cloth](https://github.com/esimov/gio-cloth) - Desktop application for cloth physics simulation in Go.
+- [go-craq](https://github.com/despreston/go-craq) - Implements CRAQ (Chain Replication with Apportioned Queries).
 
 ## Links
 
@@ -2174,3 +2175,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go 1.20 Cryptography (2023)](https://words.filippo.io/dispatches/go-1-20-cryptography/) ([HN](https://news.ycombinator.com/item?id=34247615))
 - [Template for Go services](https://github.com/maragudk/service)
 - [Go Backend Clean Architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - Go Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+- [String to Integer (atoi) in Go (2023)](https://www.openmymind.net/String-To-Integer-atoi-in-Go/)

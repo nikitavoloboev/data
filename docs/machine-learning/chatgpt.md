@@ -6,7 +6,7 @@ title: ChatGPT
 
 I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
 
-[nanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
+[NanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
 
 ## Interesting queries
 
@@ -25,7 +25,7 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [How ChatGPT actually works (2022)](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
 - [fieri](https://github.com/lbkolev/fieri) - OpenAI GPT-3 API Client in Rust.
 - [GPT3Discord](https://github.com/Kav-K/GPT3Discord) - GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more. ([HN](https://news.ycombinator.com/item?id=34168467))
-- [nanoGPT](https://github.com/karpathy/nanoGPT) - Simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [NanoGPT](https://github.com/karpathy/nanoGPT) - Simplest, fastest repository for training/finetuning medium-sized GPTs. ([HN](https://news.ycombinator.com/item?id=34336386))
 - [GPT Index Guide](https://twitter.com/jerryjliu0/status/1608632335695745024)
 - [Let’s try ChatGPT. Is it any good? (2022)](https://www.youtube.com/watch?v=q2A-MkGjvmI)
 - [GPT.sh](https://github.com/shorwood/gptsh) - Use GPT to translate queries into shell commands.
@@ -43,3 +43,6 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [ChatGPT won’t replace search engines any time soon (2023)](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/) ([HN](https://news.ycombinator.com/item?id=34291565))
 - [prophet](https://github.com/musikalkemist/prophet) - Command-line application that allows you to have a conversation with ChatGPT.
 - [Build Your own ChatGPT with OpenAI API and Streamlit](https://github.com/afizs/chatgpt-clone)
+- [Wolfram Alpha and ChatGPT (2023)](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/) ([HN](https://news.ycombinator.com/item?id=34322033))
+- [TweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT.
+- [GPT Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode.

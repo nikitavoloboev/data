@@ -502,3 +502,4 @@ Awesome List
 - [Git Backup](https://github.com/amitsaha/gitbackup) - Tool to backup your GitHub repos.
 - [Toodle](https://toodle.dev/) - Track comments as GitHub issues.
 - [6 Practices for Effective Pull Requests (2019)](https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/)
+- [gh-worktree](https://github.com/despreston/gh-worktree) - Worktrees and GitHub.

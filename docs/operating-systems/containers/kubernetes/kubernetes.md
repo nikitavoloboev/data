@@ -901,3 +901,5 @@ title: Kubernetes
 - [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes.
 - [Nix to Kubernetes](https://github.com/DeterminateSystems/nix-to-kubernetes) - Example of deploying Nix-built Docker images to Kubernetes.
 - [code-generator](https://github.com/kubernetes/code-generator) - Generators for kube-like API types.
+- [Klotho](https://github.com/klothoplatform/klotho) - CLI tool that transforms plain code into cloud native code.
+- [ChatGPT bot for Kubernetes issues](https://github.com/robusta-dev/kubernetes-chatgpt-bot)

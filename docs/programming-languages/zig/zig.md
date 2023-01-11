@@ -167,3 +167,4 @@ title: Zig
 - [What I learn by implementing argparser in Zig (2022)](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
 - [Zig Aarch64 Disassembler](https://github.com/devins2518/zig-dis-aarch64)
 - [zdb](https://github.com/kubkon/zdb) - Simple debugger in Zig for Zig.
+- [A Zig Diary (2023)](https://kihlander.net/post/a-zig-diary/)

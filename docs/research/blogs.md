@@ -25,6 +25,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
 - [Not a Number](https://www.nan.fyi/)
 - [Armin Ronacher](https://lucumr.pocoo.org/)
+- [Simon Sarris](https://simonsarris.substack.com/)
 - [Niki Tonsky](https://tonsky.me/)
 - [Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Nicolas Moutschen](https://n14n.dev/)
@@ -296,6 +297,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Kevin Chung](https://blog.kchung.co/)
 - [Will Daly](https://dev-nonsense.com/)
 - [Brian McKenna](https://brianmckenna.org/blog/)
+- [Renato Athaydes](https://renato.athaydes.com/index.html)
+- [Karl Seguin](https://www.openmymind.net/)
+- [Tony Finch](https://dotat.at/)
 
 ## Notes
 

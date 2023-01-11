@@ -951,3 +951,4 @@ if *boolArgPtr != false {
 - [Transform JSON to Go type](https://transform.tools/json-to-go)
 - [What’s New in Go 1.20, Part I: Language Changes (2023)](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 - [implement "find definition" in 77 lines of go (2023)](https://dev-nonsense.com/posts/find-definition-in-go/)
+- [Basic observations of Generics in Go (2022)](https://www.openmymind.net/Generics-In-Go/)

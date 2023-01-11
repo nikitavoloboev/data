@@ -283,3 +283,4 @@ All active variables can be seen by running `env`.
 - [chim](https://github.com/jdxcode/chim) - Cross-platform binary shims with optional remote fetching. ([Intro](https://jdxcode.com/posts/2022-09-04-introducing-chim/))
 - [YeAST](https://github.com/yvan-sraka/YeAST) - Extension of the bourne shell shebangsyntax.
 - [ShellCheck Python](https://github.com/shellcheck-py/shellcheck-py) - Python wrapper to provide a pip-installable shellcheck binary.
+- [Unix shell script tactics - best practices style guide](https://github.com/SixArm/unix-shell-script-tactics)

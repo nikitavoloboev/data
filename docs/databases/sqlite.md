@@ -10,7 +10,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [Simple-Graph](https://github.com/dpapathanasiou/simple-graph) seems like a nice graph db plugin for SQLite. [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) is amazing for compression.
 
-[Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is nice. [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) is great read.
+[Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is nice. [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) & [How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/) are great reads.
 
 [Marmot](https://github.com/maxpert/marmot) is a nice distributed SQLite replicator.
 

@@ -492,3 +492,4 @@ if (
 - [Reactive Computed Bench](https://github.com/artalar/reactive-computed-bench) - Benchmark measured computation of complex computed reactive unit when it deep children change.
 - [grasp](https://github.com/gkz/grasp) - JavaScript structural search, replace, and refactor.
 - [JavaScript Rising Stars](https://risingstars.js.org/) - Overview of the JavaScript landscape. ([Code](https://github.com/bestofjs/javascript-risingstars))
+- [State of JavaScript 2022](https://2022.stateofjs.com/en-US/) ([HN](https://news.ycombinator.com/item?id=34334887))

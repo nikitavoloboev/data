@@ -128,6 +128,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [True Zen](https://github.com/Pocco81/true-zen.nvim) - Clean and elegant distraction-free writing for NeoVim.
 - [Auto save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk.
 - [Ag](https://github.com/rking/ag.vim) - Plugin for the_silver_searcher, 'ag'.
+- [nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than a dozen new text objects for Neovim.
 - [Undotree](https://github.com/mbbill/undotree) - Undo history visualizer.
 - [Aerojump](https://github.com/ripxorip/aerojump.nvim) - Fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation.
 - [Tabular](https://github.com/godlygeek/tabular) - Text filtering and alignment.

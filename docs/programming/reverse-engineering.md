@@ -133,3 +133,4 @@
 - [GPT-WPRE](https://github.com/moyix/gpt-wpre) - Whole-program Reverse Engineering with GPT-3.
 - [G-3PO: A protocol droid for Ghidra, or GPT-3 for reverse-engineering (2022)](https://medium.com/tenable-techblog/g-3po-a-protocol-droid-for-ghidra-4b46fa72f1ff) ([HN](https://news.ycombinator.com/item?id=34250872))
 - [Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering.
+- [Sierra’s Macintosh Timebomb (2021)](https://www.benshoof.org/blog/sierras-macintosh-timebomb)

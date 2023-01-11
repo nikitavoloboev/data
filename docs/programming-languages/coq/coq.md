@@ -181,3 +181,8 @@ title: Coq
 - [SerAPI](https://github.com/ejgallego/coq-serapi) - Machine-Friendly, Data-Centric Serialization for Coq.
 - [Natural Number Game Solutions in Coq](https://github.com/uncomputable/natural-number-game)
 - [Commutative algebra in Coq/SSReflect](https://github.com/xuanruiqi/commalg)
+- [Ceres](https://github.com/Lysxia/coq-ceres) - Coq library for serialization to S-expressions.
+- [Coq HTTP](https://github.com/liyishuai/coq-http) - HTTP specification in Coq, testable and verifiable.
+- [Parsec](https://github.com/liyishuai/coq-parsec) - Monadic parser combinator library in Coq.
+- [Purely functional IO for Coq](https://github.com/Lysxia/coq-simple-io)
+- [File Synchroniser](https://github.com/liyishuai/file-sync) - File synchroniser specification in Coq.

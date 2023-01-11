@@ -591,6 +591,7 @@
 - [Google Rust testing library](https://github.com/google/googletest-rust)
 - [Mry](https://github.com/ryo33/mry) - Simple but powerful mocking library for structs, traits, and function.
 - [cargo-is-tested](https://github.com/blyxyas/cargo-is-tested) - Assure that your tests are there, and well written.
+- [Assertables](https://github.com/SixArm/assertables-rust-crate) - Rust crate of assert macros for testing.
 
 ## Error
 
@@ -2506,6 +2507,8 @@
 - [HTML Escape](https://github.com/magiclen/html-escape) - Encoding/escaping special characters in HTML and decoding/unescaping HTML entities as well.
 - [MozJPEG](https://github.com/ImageOptim/mozjpeg-rust) - Safe Rust wrapper for the MozJPEG library.
 - [Deflect](https://github.com/jswrenn/deflect) - Brings reflection to Rust using DWARF debug info.
+- [async-compat](https://github.com/smol-rs/async-compat) - Compatibility adapter between tokio and futures.
+- [with-thread-local](https://github.com/cecton/with-thread-local) - Micro crate that simplifies a bit the use of the std macro thread_local.
 
 ## Cargo Plugins
 

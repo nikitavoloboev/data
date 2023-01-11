@@ -184,3 +184,4 @@ title: Tailwind CSS
 - [RippleUI](https://www.ripple-ui.com/) - TailwindCSS Components. ([Code](https://github.com/Siumauricio/rippleui))
 - [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=34194759)) ([Code](https://github.com/sailboatui/sailboatui))
 - [stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast.
+- [Don't use Tailwind for your Design System (2021)](https://sancho.dev/blog/tailwind-and-design-systems) ([HN](https://news.ycombinator.com/item?id=34336576))

@@ -138,3 +138,5 @@
 - [Generalized LL (GLL) Parser (2022)](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
 - [Tree Sitter Grammar.js LSP](https://github.com/keynmol/tree-sitter-grammar-lsp)
 - [Faster general parsing through context-free memoization (2020)](https://dl.acm.org/doi/abs/10.1145/3385412.3386032)
+- [TreeStand](https://github.com/Shopify/tree_stand) - High-level Ruby wrapper for tree-sitter bindings.
+- [A Comprehensive Introduction to Tree-sitter (2021)](https://derek.stride.host/posts/comprehensive-introduction-to-tree-sitter)

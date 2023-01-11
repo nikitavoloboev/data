@@ -183,3 +183,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [shelltestrunner](https://github.com/simonmichael/shelltestrunner) - Easy, repeatable testing of CLI programs/commands.
 - [Catimg](https://github.com/posva/catimg) - Renders images in the terminal.
 - [Just](https://github.com/casey/just) - Command Runner. ([HN](https://news.ycombinator.com/item?id=34315779))
+- [felix](https://github.com/kyoheiu/felix) - TUI file manager with Vim-like key mapping, written in Rust.

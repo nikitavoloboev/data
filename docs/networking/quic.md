@@ -4,7 +4,7 @@ title: QUIC
 
 # [QUIC](https://quicwg.org/)
 
-[This article](https://www.youtube.com/watch?v=HnDsMehSSY4) & [QUIC Cloudflare doc](https://cloudflare-quic.com/) are great.
+[Illustrated QUIC Connection](https://quic.xargs.org/), [QUIC Cloudflare doc](https://cloudflare-quic.com/) & [this quick overview](https://www.youtube.com/watch?v=HnDsMehSSY4) are great.
 
 ## Links
 
@@ -61,3 +61,4 @@ title: QUIC
 - [XQUIC](https://github.com/alibaba/xquic) - Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 - [QUIC Is Not a TCP Replacement (2022)](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
 - [Comparing TCP and QUIC (2022)](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
+- [Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)

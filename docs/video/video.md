@@ -12,6 +12,8 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 
 [Screen Studio](https://www.screen.studio/) is great for doing screen recordings.
 
+[FFmpeg - Ultimate Guide](https://img.ly/blog/ultimate-guide-to-ffmpeg/) is nice read.
+
 ## Inspiring editing
 
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.

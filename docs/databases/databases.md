@@ -14,11 +14,11 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 
 [trustfall](https://github.com/obi1kenobi/trustfall) is a great query engine for all kinds of data sources. [Atlas](https://github.com/ariga/atlas) is nice DB tool.
 
-[toyDB](https://github.com/erikgrinaker/toydb) has nice code to study.
+[toyDB](https://github.com/erikgrinaker/toydb) & [minikeyvalue](https://github.com/geohot/minikeyvalue) has nice code to study.
 
 [Slashbase](https://slashbase.com/) is nice GUI app to talk with databases.
 
-[LSM in a Week](https://github.com/skyzh/mini-lsm) & [TinyKV Course](https://github.com/talent-plan/tinykv) are great resources.
+[LSM in a Week](https://github.com/skyzh/mini-lsm), [TinyKV Course](https://github.com/talent-plan/tinykv) & [How Query Engines Work](https://howqueryengineswork.com/) are great resources.
 
 ## Interesting
 
@@ -754,3 +754,5 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Personal blog about my PostgreSQL daily learnings](https://mydbanotebook.org/post/)
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - View and monitor the performance of your MySQL, MongoDB, PostgreSQL, and MariaDB databases.
 - [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - Pick the best database primary key. ([Code](https://github.com/adileo/awesome-identifiers))
+- [How Query Engines Work](https://howqueryengineswork.com/)
+- [ULID Identifiers and ULID Tools Website (2023)](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/) ([Lobsters](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website))

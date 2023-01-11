@@ -393,3 +393,5 @@
 - [Modular Things](https://github.com/modular-things/modular-things) - Plug and play w/ virtualized hardware.
 - [A History of Early Microcontrollers, Part 1 (2022](https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/) ([HN](https://news.ycombinator.com/item?id=34219923))
 - [AMD’s Zen 4, Part 3: System Level Stuff, and iGPU (2023)](https://chipsandcheese.com/2023/01/05/amds-zen-4-part-3-system-level-stuff-and-igpu/) ([HN](https://news.ycombinator.com/item?id=34256594))
+- [New timepiece for a Classic Mac (2022)](https://www.quantulum.co.uk/blog/new-timepiece-for-a-classic-mac-part-1/)
+- [Ask HN: Where to get help with a hardware idea? (2023)](https://news.ycombinator.com/item?id=34325633)

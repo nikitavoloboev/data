@@ -26,3 +26,4 @@ title: Unison
 - [Unison Share](https://share.unison-lang.org/)
 - [Practical Example - Modeling a Birthday Message Service (2021)](https://www.unison-lang.org/blog/birthday-kata/)
 - [HN: Unison (2022)](https://news.ycombinator.com/item?id=33638045)
+- [A look at Unison: a revolutionary programming language (2023)](https://renato.athaydes.com/posts/unison-revolution.html) ([HN](https://news.ycombinator.com/item?id=34307552))

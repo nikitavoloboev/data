@@ -90,7 +90,7 @@ title: Web Components
 - [Reactive Controllers feature in Lit 2](https://twitter.com/buildWithLit/status/1507032453080305665) - Lets you integrate state manager logic across components.
 - [WebComponent Router](https://github.com/ryansolid/webcomponent-router) - Nested router based on HTML Web Components.
 - [Custom Elements Manifest](https://github.com/webcomponents/custom-elements-manifest) - File format for describing custom elements.
-- [HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/) - Introduction to Web Components. ([Code](https://github.com/davatron5000/htmlwithsuperpowers))
+- [HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/) - Introduction to Web Components. ([Code](https://github.com/davatron5000/htmlwithsuperpowers)) ([HN](https://news.ycombinator.com/item?id=34333282))
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows you to easily put a Dark Mode toggle or switch on your site.
 - [Shadow](https://github.com/Zaubrik/shadow) - Simple base class for creating fast, lightweight Web Components with htm.
 - [Web Components as Progressive Enhancement (2022)](https://cloudfour.com/thinks/web-components-as-progressive-enhancement/)

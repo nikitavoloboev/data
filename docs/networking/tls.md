@@ -114,3 +114,4 @@ title: TLS
 - [sslkeylog](https://github.com/segevfiner/sslkeylog) - Log SSL/TLS keys for decrypting SSL/TLS connections made in Python.
 - [TLSNotary](https://tlsnotary.org/) - Proof of data authenticity. ([Rust code](https://github.com/tlsnotary/tlsn))
 - [subtls](https://github.com/jawj/subtls) - TypeScript TLS 1.3 client with limited scope.
+- [TLS Client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.

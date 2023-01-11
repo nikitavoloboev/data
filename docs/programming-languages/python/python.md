@@ -580,3 +580,4 @@ for i, _ in enumerate(nums):
 - [Lazy Evaluation Using Recursive Python Generators (2023)](https://martinheinz.dev/blog/88)
 - [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html) - Course over intermediate Python. ([Code](https://github.com/henryiii/level-up-your-python))
 - [Mapping Python to LLVM (2023)](https://blog.exaloop.io/python-llvm/) ([HN](https://news.ycombinator.com/item?id=34312474))
+- [Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)

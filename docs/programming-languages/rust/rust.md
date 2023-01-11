@@ -611,7 +611,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Example rust application to showcase error handling patterns](https://github.com/zoni/rust-wordcount)
 - [Writing a storage engine in Rust: Writing a persistent BTree (Part 1) (2021)](https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934)
 - [Optimize Rust binaries size with cargo and Semver (2021)](https://oknozor.github.io/blog/optimize-rust-binary-size/)
-- [GhostCell: Separating Permissions from Data in Rust](https://plv.mpi-sws.org/rustbelt/ghostcell/paper.pdf) ([Code](https://github.com/matthieu-m/ghost-cell)) ([Reddit](https://www.reddit.com/r/rust/comments/p5f78s/ghostcell_separating_permissions_from_data_in_rust/))
+- [GhostCell: Separating Permissions from Data in Rust](https://plv.mpi-sws.org/rustbelt/ghostcell/paper.pdf) ([Code](https://github.com/matthieu-m/ghost-cell)) ([Reddit](https://www.reddit.com/r/rust/comments/p5f78s/ghostcell_separating_permissions_from_data_in_rust/)) ([Web](https://plv.mpi-sws.org/rustbelt/ghostcell/))
 - [Why Rust over C++ (2021)](https://twitter.com/hswolff/status/1441220387778359305)
 - [Rust for Rustaceans by Jon Gjengset (2021)](https://rustacean-station.org/episode/038-jon-gjengset/)
 - [Rustacean Station Podcast](https://rustacean-station.org/) - Community project for creating podcast content for the Rust programming language. ([Twitter](https://twitter.com/rustaceanfm))
@@ -1014,3 +1014,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Go devs that learned Rust, what are your thoughts on it? (2023)](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/)
 - [Does rust have a garbage collector? (2023)](https://www.reddit.com/r/rust/comments/10815lw/am_i_dumb_or_does_rust_have_a_garbage_collector/)
 - [Scriptisto](https://github.com/igor-petruk/scriptisto) - Tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing.
+- [GCC Front-End For Rust (2022)](https://rust-gcc.github.io/reporting/2022-year-report.html) ([Lobsters](https://lobste.rs/s/ovoldv/gccrs_2022))

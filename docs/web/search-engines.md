@@ -68,7 +68,7 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Wiby](https://wiby.org/) - Search Engine for the Classic Web. ([HN](https://news.ycombinator.com/item?id=23926964))
 - [Let's build a Full-Text Search engine (2020)](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) ([Lobsters](https://lobste.rs/s/hi7pm5/let_s_build_full_text_search_engine)) ([HN](https://news.ycombinator.com/item?id=24051229)) ([Code](https://github.com/akrylysov/simplefts))
 - [ScaNN: Efficient Vector Similarity Search (2020)](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) ([HN](https://news.ycombinator.com/item?id=23983906))
-- [Neeva](https://neeva.co/) - Search Reimagined. ([HN](https://news.ycombinator.com/item?id=23960741))
+- [Neeva](https://neeva.com/) - Authentic, real-time AI search. ([HN](https://news.ycombinator.com/item?id=23960741)) ([Intro](https://neeva.com/blog/introducing-neevaai)) ([HN](https://news.ycombinator.com/item?id=34332114))
 - [aPPR](https://github.com/RoheLab/aPPR) - Approximate Personalized Page Rank.
 - [Infinity Search](https://infinitysearch.co/) - Open-source search engine. ([Code](https://gitlab.com/infinitysearch/infinity-search)) ([HN](https://news.ycombinator.com/item?id=24080444))
 - [hndex.org](https://hndex.org/) - Full-text search engine of articles submitted to HN. ([HN](https://news.ycombinator.com/item?id=24079592))
@@ -307,3 +307,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Neural Search Frameworks: A Head-to-Head Comparison (2022)](https://dmitry-kan.medium.com/neural-search-frameworks-a-head-to-head-comparison-976aa6662d20)
 - [ChatGPT is a ‘code red’ for Google’s search business (2022)](https://news.ycombinator.com/item?id=34086462)
 - [Rust Search](https://github.com/ParthJadhav/rust_search) - Fast file search library built in Rust.
+- [Building an Internet Scale Meme Search Engine (2023)](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html) ([HN](https://news.ycombinator.com/item?id=34315782))

@@ -30,3 +30,4 @@ title: Fortran
 - [Waiwera](https://github.com/waiwera/waiwera) - Parallel, open-source geothermal flow simulator.
 - [Languages Pre-Fortran (2022)](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/) ([HN](https://news.ycombinator.com/item?id=33647064))
 - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
+- [Why Fortran is a scientific powerhouse (2023)](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/) ([Lobsters](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse)) ([HN](https://news.ycombinator.com/item?id=34329913))

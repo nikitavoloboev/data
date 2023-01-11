@@ -52,3 +52,4 @@ title: Message queue
 - [sqlxmq](https://github.com/Diggsey/sqlxmq) - Message queue implemented on top of PostgreSQL.
 - [Message Queue](https://github.com/imqueue/core) - Simple JSON-based messaging queue for inter service communication.
 - [Message Queue RPC](https://github.com/imqueue/rpc) - RPC-like client-service implementation over messaging queue.
+- [Conveyor MQ](https://github.com/conveyor-mq/conveyor-mq) - Fast, robust and extensible distributed task/job queue for Node.js, powered by Redis.

@@ -29,7 +29,7 @@ title: Electrical engineering
 - [Bad Circuit Design](http://cmosedu.com/cmos1/bad_design/bad_design.htm) ([HN](https://news.ycombinator.com/item?id=23476475))
 - [Basics of Pneumatic Logic (2020)](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic) ([HN](https://news.ycombinator.com/item?id=23534422))
 - [Nuts & Volts Magazine](https://www.nutsvolts.com/) - Leading magazine for those seriously interested in electronics.
-- [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/)
+- [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/) ([HN](https://news.ycombinator.com/item?id=34320892))
 - [Ask HN: What are some good resources to learn how electricity works? (2020)](https://news.ycombinator.com/item?id=23562181)
 - [Analog-to-Digital Conversion Playground](https://github.com/kronawetter/analog-to-digital-conversion) - Aims to explain the process of converting analog signals to digital ones.
 - [Logic, before ICs (2020)](https://northcoastsynthesis.com/news/logic-before-ics/) ([HN](https://news.ycombinator.com/item?id=23591521))
