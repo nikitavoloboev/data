@@ -454,3 +454,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Runhouse](https://github.com/run-house/runhouse)
 - [Hidet](https://github.com/hidet-org/hidet) - Compilation-based DNN inference framework.
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Big Model Era.
+- [difflogic](https://github.com/Felix-Petersen/difflogic) - Library for Differentiable Logic Gate Networks.

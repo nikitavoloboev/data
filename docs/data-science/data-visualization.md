@@ -205,3 +205,4 @@
 - [Charticulator](https://github.com/microsoft/charticulator) - Interactive Layout-Aware Construction of Bespoke Charts.
 - [Guide To Getting Data Visualization Right (2023)](https://www.smashingmagazine.com/2023/01/guide-getting-data-visualization-right/)
 - [Rath](https://github.com/Kanaries/Rath) - Automated data exploratory analysis and visualization tools.
+- [Inviwo](https://github.com/inviwo/inviwo) - Interactive Visualization Workshop.

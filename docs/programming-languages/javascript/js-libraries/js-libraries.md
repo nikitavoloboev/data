@@ -1098,6 +1098,7 @@
 - [rregex](https://github.com/2fd/rregex) - WebAssembly build of Rust Regex for JavaScript.
 - [Cuid2](https://github.com/paralleldrive/cuid2) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.
 - [throat](https://github.com/ForbesLindesay/throat) - Throttle a collection of promise returning functions.
+- [Rempl](https://github.com/rempl/rempl) - Framework for moderated access with custom UI to remote JavaScript runtime.
 
 ## Links
 

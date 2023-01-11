@@ -1112,6 +1112,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
 - [validators](https://github.com/python-validators/validators) - Python data validation for Humans.
 - [Python State Machine](https://github.com/fgmacedo/python-statemachine) - Intuitive and powerful state machine framework designed for a great developer experience.
+- [identify](https://github.com/pre-commit/identify) - File identification library for Python.
 
 ## Notes
 
