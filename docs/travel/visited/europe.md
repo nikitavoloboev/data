@@ -10,9 +10,7 @@ I am also curious how you can make EU political system more efficient, right now
 
 So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](united-kingdom.md). 
 
-Currently reside in [Spain](spain.md).
-
-Want to spend some time in [Portugal](portugal.md) or [Georgia](georgia.md) soon.
+Currently reside in [Spain](spain.md). Want to spend some time in [Portugal](portugal.md) or [Georgia](georgia.md) soon.
 
 ## Notes
 

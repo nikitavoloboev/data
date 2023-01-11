@@ -13,6 +13,7 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)
 - [Summarize tabular data](https://twitter.com/jaukia/status/1601569254998159362)
 - [Organize my notes into outline](https://twitter.com/danshipper/status/1611134727011844098)
+- [Music discovery assistant](https://twitter.com/nikitavoloboev/status/1613261011922083840)
 
 ## Links
 

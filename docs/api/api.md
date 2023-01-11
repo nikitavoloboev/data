@@ -8,11 +8,11 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 
 [Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs.
 
-Looking into using [Chiselstrike](../tools/chiselstrike.md) for making [REST](../networking/rest.md) like APIs fast with [TypeScript](../programming-languages/typescript/typescript.md). 
+Looking into using [Chiselstrike](../tools/chiselstrike.md) for making [REST](../networking/rest.md) like APIs fast with [TypeScript](../programming-languages/typescript/typescript.md).
 
 ## Other
 
-- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli))
+- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli)) ([Node](https://github.com/openai/openai-node))
 - [OpenAI Fetch](https://github.com/rileytomasek/openai-fetch) - Minimal and opinionated OpenAI client powered by fetch.
 - [OpenAI Elixir](https://github.com/hernanat/open_ai_ex)
 - [Google Drive](https://github.com/prasmussen/gdrive)

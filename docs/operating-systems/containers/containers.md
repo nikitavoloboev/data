@@ -2,6 +2,8 @@
 
 [Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) is nice intro talk to containers. [Podman](https://podman.io/) is great.
 
+[Bottlerocket](https://github.com/bottlerocket-os/bottlerocket) seems interesting.
+
 ## Notes
 
 - [Running code in containers means I don't ever have to think about what version of Python/PostgreSQL/Redis/etc is supported by the stable release of the host operating system.](https://twitter.com/simonw/status/1463224255433220098)

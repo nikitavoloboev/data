@@ -378,3 +378,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [jdhao's Neovim config](https://github.com/jdhao/nvim-config)
 - [BetterNvim](https://github.com/ye-junzhe/BetterNvim) - Modern Neovim setup, makes nvim an IDE.
 - [Starter template for LazyVim](https://github.com/LazyVim/starter)
+- [Nv](https://github.com/appelgriebsch/Nv) - Neovim setup based on LazyVim.

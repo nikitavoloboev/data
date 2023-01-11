@@ -2509,6 +2509,7 @@
 - [Deflect](https://github.com/jswrenn/deflect) - Brings reflection to Rust using DWARF debug info.
 - [async-compat](https://github.com/smol-rs/async-compat) - Compatibility adapter between tokio and futures.
 - [with-thread-local](https://github.com/cecton/with-thread-local) - Micro crate that simplifies a bit the use of the std macro thread_local.
+- [RaptorQ](https://github.com/cberner/raptorq) - Rust implementation of RaptorQ.
 
 ## Cargo Plugins
 

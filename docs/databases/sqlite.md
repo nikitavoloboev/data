@@ -12,7 +12,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [Go SQLite database/sql tutorial](https://earthly.dev/blog/golang-sqlite/) is nice. [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) & [How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/) are great reads.
 
-[Marmot](https://github.com/maxpert/marmot) & [Mycelite](https://github.com/mycelial/mycelite) seem nice for replicating SQLite.
+[crsql](https://github.com/vlcn-io/cr-sqlite), [Marmot](https://github.com/maxpert/marmot) & [Mycelite](https://github.com/mycelial/mycelite) seem nice for replicating SQLite.
 
 Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/libsql/sqld).
 

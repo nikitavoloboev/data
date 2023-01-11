@@ -241,3 +241,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [ESP-BOX AIoT Development Framework](https://github.com/espressif/esp-box)
 - [ESP uploader](https://github.com/srg74/ESP-uploader) - ESP uploader board for programming Espressif ESP series microcontrollers.
 - [esp-rs with nix](https://github.com/newAM/esp-rs-nix) - esp-rs tools packaged with nix.
+- [Foxtrot](https://github.com/Formlabs/foxtrot) - Fast, experimental STEP file viewer.

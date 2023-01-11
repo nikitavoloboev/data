@@ -132,3 +132,4 @@ I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to 
 - [Prisma Generator Basic TypeGraphQL](https://github.com/Luis-Domenech/prisma-generator-basic-typegraphql)
 - [Prisma generator for model factories](https://github.com/Quramy/prisma-fabbrica)
 - [Zod Prisma Types](https://github.com/chrishoermann/zod-prisma-types) - Creates zod types for your prisma models with advanced validation.
+- [Prisma JSON Types Generator](https://github.com/arthurfiorette/prisma-json-types-generator)

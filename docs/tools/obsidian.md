@@ -216,6 +216,7 @@ div.CodeMirror-cursor,
 - [Reference Map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery.
 - [Mermaid Tools for Obsidian](https://github.com/dartungar/obsidian-mermaid)
 - [Tikz Renderer](https://github.com/thequilo/obsidian-tikz-renderer)
+- [QuickShare](https://github.com/mcndt/obsidian-quickshare) - Securely share your Obsidian notes with one click.
 
 ## Themes
 

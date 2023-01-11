@@ -1998,6 +1998,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-craq](https://github.com/despreston/go-craq) - Implements CRAQ (Chain Replication with Apportioned Queries).
 - [go-diff](https://github.com/sourcegraph/go-diff) - Unified diff parser and printer for Go.
 - [go-dap](https://github.com/google/go-dap) - Go implementation of the Debug Adapter Protocol.
+- [gopherlogs](https://github.com/jpmcb/gopherlogs) - Simple, powerful, and extensible Go logging framework with batteries included.
 
 ## Links
 

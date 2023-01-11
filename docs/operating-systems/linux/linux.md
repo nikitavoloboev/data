@@ -672,3 +672,4 @@ title: Linux
 - [Aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool.
 - [Process Scheduling In Linux (2022)](https://www.16elt.com/2022/09/25/linux-scheduling/)
 - [Server Hardening Tools (As An Amateur) (2022)](https://www.openmymind.net/Server-Hardening-Tools-As-An-Amateur/)
+- [Running Manjaro ARM in UTM on M1 Mac (2022)](https://www.appelgriebsch.org/005-utm/)

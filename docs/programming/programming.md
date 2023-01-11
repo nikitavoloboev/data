@@ -77,6 +77,7 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Errors compound. Composing 6 such parts into a bigger system results in a system that is broken 50% of the time. Neglecting the error path scales poorly.](https://twitter.com/tomas_mikula/status/1580114997656825856)
 - [Developers are drawn to complexity like moths to a flame, often with the same outcome.](https://twitter.com/nsilnitsky/status/1590633873993388033)
 - [Don't freak out about your code being too slow until you've actually measured it to see if it's a hot path.](https://twitter.com/pcwalton/status/1600561023013961728)
+- [When exploring ways to do things, think about what it will eventually look like at the call site. Then work backwards from there to work out how it should work.](https://twitter.com/oliverfoggin/status/1613246508320841728)
 
 ## Links
 

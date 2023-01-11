@@ -300,6 +300,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Renato Athaydes](https://renato.athaydes.com/index.html)
 - [Karl Seguin](https://www.openmymind.net/)
 - [Tony Finch](https://dotat.at/)
+- [Matt Keeter](https://www.mattkeeter.com/blog/)
 
 ## Notes
 
