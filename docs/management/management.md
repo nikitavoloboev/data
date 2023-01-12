@@ -251,3 +251,4 @@ I go over how I personally approach solving individual tasks [here](../research/
 - [Agile isn’t about speed, it’s about direction (2023)](https://tim.mcnamara.nz/post/705779065607618560/agile) ([HN](https://news.ycombinator.com/item?id=34302988))
 - [Ask HN: Lead developer but I just don't enjoy management (2023)](https://news.ycombinator.com/item?id=34309275)
 - [Ask HN: What do you talk about in 1-on-1s with your managers? (2023)](https://news.ycombinator.com/item?id=34329351)
+- [Ask HN: Strategies for working with engineers that are too smart? (2023)](https://news.ycombinator.com/item?id=34350446)
