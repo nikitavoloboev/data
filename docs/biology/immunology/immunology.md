@@ -19,3 +19,4 @@
 - [The molecular assembly of the marsupial γμ T cell receptor defines a third T cell lineage (2021)](https://science.sciencemag.org/content/371/6536/1383)
 - [Is it possible for the human immune system to "forget" any pathogen after vaccination as time passes? How does this work considering that information on certain pathogens are also retained by the immune system and does this vary based on different pathogens? (2021)](https://www.reddit.com/r/askscience/comments/mzn39o/is_it_possible_for_the_human_immune_system_to/)
 - [The brain can recall and reawaken past immune responses (2021)](https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/) ([HN](https://news.ycombinator.com/item?id=29155637))
+- [Book Recommendations on Immunology (2023)](https://www.reddit.com/r/Immunology/comments/1098ihr/book_recommendations_on_immunology/)

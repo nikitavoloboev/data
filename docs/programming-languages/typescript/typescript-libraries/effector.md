@@ -23,3 +23,4 @@ title: Effector
 - [Effector Factorio](https://github.com/Kelin2025/effector-factorio) - Simplest way to write re-usable features with React + Effector.
 - [Using Effector with Electron](https://twitter.com/_sergeysova/status/1607315217041743872)
 - [Effector Hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy.
+- [Effector Dev Tools](https://github.com/fnpen/effector-devtools)

@@ -773,3 +773,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [PromptArray: A Prompting Language for Neural Text Generators](https://github.com/jeffbinder/promptarray)
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022)](https://arxiv.org/abs/2204.05862) ([Code](https://github.com/anthropics/hh-rlhf))
 - [Multi Task NLP](https://github.com/hellohaptik/multi-task-NLP) - Utility toolkit enabling NLP developers to easily train and infer a single model for multiple tasks.
+- [FairSeq with Apollo optimizer](https://github.com/XuezheMax/fairseq-apollo)

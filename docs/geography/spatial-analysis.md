@@ -303,3 +303,4 @@ title: Spatial analysis
 - [thc](https://github.com/HydroniumLabs/thc) - H3 Compressor: A compression scheme tailored for H3 cell indexes.
 - [geojson.io](https://geojson.io/) - Quick, simple tool for creating, viewing, and sharing spatial data. ([Code](https://github.com/mapbox/geojson.io))
 - [nebula.gl](https://github.com/uber/nebula.gl) - Suite of 3D-enabled data editing overlays, suitable for deck.gl.
+- [polars_gdal](https://github.com/phayes/polars_gdal) - Read GDAL compatible file formats into polars / geopolars.

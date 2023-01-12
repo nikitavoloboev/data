@@ -296,3 +296,4 @@ Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/lib
 - [I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS (2022)](https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs)
 - [LiteSync](https://litesync.io/en/index.html) - Easy synchronization of SQLite databases. ([HN](https://news.ycombinator.com/item?id=34265261))
 - [Mycelite](https://github.com/mycelial/mycelite) - SQLite extension that allows you to synchronize changes from one instance of SQLite to another. ([Web](https://mycelial.com/))
+- [SQLite WASM in the browser backed by the origin private file system (2023)](https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/) ([HN](https://news.ycombinator.com/item?id=34352935))

@@ -751,6 +751,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [binparse](https://github.com/blacha/binparse) - Typed binary parsing for TypeScript.
 - [typed/fp](https://github.com/TylorS/typed-fp) - Collection of libraries and tools for building applications using fp-ts v3 and Effect.
 - [TypedEventTarget](https://github.com/DerZade/typescript-event-target) - Strictly typed EventTarget that directly extends EventTarget to function as a drop-in replacement.
+- [nason](https://github.com/Simonwep/nason) - Ultra tiny serializer / encoder with plugin-support. Useful to build binary files containing images, strings, numbers and more.
 
 ## Links
 

@@ -673,3 +673,5 @@ title: Linux
 - [Process Scheduling In Linux (2022)](https://www.16elt.com/2022/09/25/linux-scheduling/)
 - [Server Hardening Tools (As An Amateur) (2022)](https://www.openmymind.net/Server-Hardening-Tools-As-An-Amateur/)
 - [Running Manjaro ARM in UTM on M1 Mac (2022)](https://www.appelgriebsch.org/005-utm/)
+- [JuNest](https://github.com/fsquillace/junest) - Lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro.
+- [PMCTrack](https://github.com/jcsaezal/pmctrack) - OS-oriented performance monitoring tool for Linux.

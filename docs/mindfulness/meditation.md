@@ -36,3 +36,4 @@ I do want to start more focused mindfulness and trying to practice _channeling_ 
 - [Slow Roads](http://slowroads.io/) - Browser-based, procedurally-generated driving game.
 - [My customized Wim Hof breathing exercise for maximum high (2022)](https://ugjka.net/blog/breathwork/2022/07/30/wim-hof-breathing-customized/) ([HN](https://news.ycombinator.com/item?id=32285113))
 - [The Bayesian Brain and Meditation (2022)](https://www.youtube.com/watch?v=Eg3cQXf4zSE)
+- [Brief structured respiration practices enhance mood and reduce physiological arousal (2023)](<https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8>)

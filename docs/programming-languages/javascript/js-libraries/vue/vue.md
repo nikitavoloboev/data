@@ -240,3 +240,5 @@ title: Vue.js
 - [Vue Mafs](https://github.com/mujahidfa/vue-mafs) - Vue components for creating interactive math visualizations, based on Mafs.
 - [Sefirot](https://github.com/globalbrain/sefirot) - Vue Components for Global Brain Design System.
 - [GitHub integration for Nuxt](https://github.com/nuxtlabs/github-module)
+- [Nuxt Prometheus](https://github.com/artmizu/nuxt-prometheus) - Prometheus metrics for NodeJS and a set of custom metrics for Nuxt applications.
+- [Server Routes in Nuxt 3 (2023)](https://masteringnuxt.com/blog/server-routes-in-nuxt-3)

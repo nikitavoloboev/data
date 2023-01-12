@@ -88,3 +88,4 @@ title: Hugo
 - [SQLite FTS5-based search engine for Hugo pages](https://github.com/fazalmajid/fts5index)
 - [code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment (2022)](https://chrisshort.net/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment/)
 - [Performance Benefits of Using Huge Pages for Code (2022)](https://easyperf.net/blog/2022/09/01/Utilizing-Huge-Pages-For-Code)
+- [Hugo Lyra](https://github.com/paolomainardi/hugo-lyra) - Node module for creating LyraSearch indexes for static Hugo sites.

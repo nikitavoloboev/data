@@ -13,6 +13,7 @@
 - [Karax](https://github.com/karaxnim/karax) - Single page applications for Nim.
 - [mike](https://github.com/ire4ever1190/mike) - Improved mikero web framework.
 - [Waterpark](https://github.com/guzba/waterpark) - Thread-safe pools. Great for database connections in a multithreaded HTTP server.
+- [Curly](https://github.com/guzba/curly) - Makes using libcurl efficiently easy.
 
 ## Math
 

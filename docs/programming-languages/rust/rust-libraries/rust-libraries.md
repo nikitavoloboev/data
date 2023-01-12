@@ -224,6 +224,7 @@
 - [lil-http](https://github.com/m1guelpf/lil-http-rs) - Barebones HTTP 1.1 framework, built in Rust with no external dependencies (other than tokio).
 - [Multipart](https://github.com/abonander/multipart) - Backend-agnostic extension for file uploads in HTTP libraries for Rust.
 - [minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
+- [eightfish](https://github.com/miketang84/eightfish) - Framework for open web.
 
 ## Auth
 

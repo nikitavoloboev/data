@@ -71,3 +71,4 @@
 - [Weathering Software Winter (2022)](https://www.youtube.com/watch?v=9TJuOwy4aGA) ([Transcript](https://100r.co/site/weathering_software_winter.html)) ([Lobsters](https://lobste.rs/s/6fktsk/weathering_software_winter))
 - [A personal history of visual programming environments (2021)](https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/) ([HN](https://news.ycombinator.com/item?id=34094223))
 - [Awesome Playgrounds](https://github.com/marcosnils/awesome-playgrounds)
+- [Estuary](https://github.com/dktr0/estuary) - Platform for collaboration and learning through live coding.

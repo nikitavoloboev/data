@@ -255,3 +255,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [How to Build an Exchange (2017)](https://www.youtube.com/watch?v=b1e4t2k2KJY)
 - [Show HN: List of Stripe Alternatives (2023)](https://news.ycombinator.com/item?id=34281730)
 - [Invoice Template – Figma](https://www.figma.com/community/file/1134906513047172687)
+- [hyperswitch](https://github.com/juspay/hyperswitch) - Open Source Financial Switch to make payments fast, reliable and affordable. ([Web](https://hyperswitch.io/))

@@ -336,3 +336,4 @@ title: Svelte
 - [Svead](https://github.com/spences10/svead) - Component that allows you to set head meta information, canonical, title, Twitter and Facebook Open Graph tags.
 - [Dapper UI](https://github.com/Bastian/dapper-ui) - Sleek and modern UI component library for Svelte.
 - [Svelte Virtual Scroll List](https://github.com/v1ack/svelte-virtual-scroll-list)
+- [List of awesome Svelte stores](https://github.com/samuba/awesome-svelte-stores)

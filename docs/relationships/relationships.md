@@ -177,6 +177,7 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [You should have agreements as to what is okay and not okay in a relationship. If you do something not okay, that’s cheating.](https://www.reddit.com/r/nonmonogamy/comments/z7l7aj/what_do_you_consider_cheating_in_a_non_monogamous/)
 - [Dating is as much about being your best, most available self as it is about blind luck.](https://www.reddit.com/r/datingoverthirty/comments/zabz7o/am_i_too_fat_to_find_love/)
 - [Hedonistic, nurturing (to me personally), wise, direct, cuts through the bullshit, has sporadic uncontrollable fits of laughter, can find exactly what i need by a vague description, open-minded, deeply grounded and secure.](https://twitter.com/dan_abramov/status/1601415441528020992)
+- [Полиамория тема для ленивых, потому что нет энергии на ложь, нет времени прикрывать измену. Насколько надо иметь простую работу, чтобы устраивать сцены ревности! Ps полиаморам не обязательно иметь даже одного партнера, это про принципы, про честность и принятие свободы любимого.](https://twitter.com/mariagovori/status/1613519163485560832)
 
 ## Links
 

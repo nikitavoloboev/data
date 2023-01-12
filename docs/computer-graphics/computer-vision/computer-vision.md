@@ -1094,3 +1094,5 @@
 - [Vision Transformers Are Good Mask Auto-Labelers (2023)](https://arxiv.org/abs/2301.03992) ([Code](https://github.com/NVlabs/mask-auto-labeler))
 - [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition (2022)](https://arxiv.org/abs/2210.11277) ([Code](https://github.com/Gorilla-Lab-SCUT/tango))
 - [EVA: Exploring the Limits of Masked Visual Representation Learning at Scale (2022)](https://arxiv.org/abs/2211.07636) ([Code](https://github.com/baaivision/EVA))
+- [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction (2022)](https://arxiv.org/abs/2212.00792) ([Code](https://github.com/zhizdev/sparsefusion))
+- [Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling (2023)](https://arxiv.org/abs/2301.03580) ([Code](https://github.com/keyu-tian/SparK))

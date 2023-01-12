@@ -150,3 +150,4 @@ title: Lua
 - [LuaJIT Remake](https://github.com/luajit-remake/luajit-remake) - Implement a multi-tier method-JIT for Lua.
 - [Xeus Lua](https://github.com/jupyter-xeus/xeus-lua) - Jupyter kernel for Lua based on the native implementation of the Jupyter protocol xeus.
 - [HsLua](https://github.com/hslua/hslua) - Haskell bindings to Lua, an embeddable scripting language.
+- [Lua performance guide](https://github.com/flily/lua-performance)

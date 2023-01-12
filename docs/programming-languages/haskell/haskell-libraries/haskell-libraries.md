@@ -407,6 +407,7 @@
 - [QoC](https://github.com/bollu/qoc) - Quite Obfuscated Constructions.
 - [Monadic Bang](https://github.com/JakobBruenker/monadic-bang) - GHC plugin to desugar ! into do-notation.
 - [Effects Landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape) - Effects libraries in Haskell.
+- [posix-api](https://github.com/andrewthad/posix-api) - Haskell posix bindings.
 
 ## Notes
 

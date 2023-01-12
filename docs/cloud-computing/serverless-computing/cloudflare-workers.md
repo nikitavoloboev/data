@@ -13,6 +13,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 ## OSS tools build with CW
 
 - [Worker News](https://github.com/worker-tools/worker-news) - Drop in replacement for Hacker News with support for dark mode, quotes in comments, user identicons and submission favicons.
+- [Marks](https://github.com/yusukebe/marks) - Bookmarks App with Cloudflare Workers.
 - [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
 - [Notify](https://github.com/K0IN/Notify) - Small Cloudflare worker / self hosted solution to send web push notifications with webhooks.
 - [Tauri Update Server: Hosted as a Cloudflare edge function](https://github.com/KilleenCode/tauri-update-cloudflare)

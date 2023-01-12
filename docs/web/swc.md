@@ -30,3 +30,4 @@ title: swc
 - [swc-loader](https://github.com/swc-project/swc-loader) - Webpack loader for swc.
 - [Verifying swc minifier using dbg-swc (2022)](https://kdy1.dev/posts/2022/12/swc-reducer)
 - [SWC JSX Dom Expressions](https://github.com/modderme123/swc-plugin-jsx-dom-expressions)
+- [SWC React Native Web](https://github.com/nissy-dev/swc-plugin-react-native-web) - SWC plugin that will alias react-native to react-native-web.

@@ -299,3 +299,6 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Simple tools for using open source text-to-image models](https://github.com/hardmaru/image-notebook)
 - [Prompt Tool](https://github.com/claudfuen/prompt-tool) - Open-source tool that makes it easy for people to explore styles, and complex MidJourney prompts, visually. ([Web](https://prompt-tool.vercel.app/))
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
+- [Latent blending](https://github.com/lunarring/latentblending) - Video transitions with incredible smoothness between prompts, computed within seconds.
+- [SD LEAP Booster](https://github.com/peterwilli/sd-leap-booster) - Fast fine tuning using a booster model that puts the initial state to a local minimum.
+- [Stable Karlo](https://github.com/kpthedev/stable-karlo) - Upscaling Karlo text-to-image generation using Stable Diffusion v2.

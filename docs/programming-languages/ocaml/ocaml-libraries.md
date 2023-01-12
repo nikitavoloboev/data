@@ -54,6 +54,7 @@ title: OCaml libraries
 - [PGX](https://github.com/arenadotio/pgx) - Pure OCaml PostgreSQL client library.
 - [Sequoia](https://github.com/andrenth/sequoia) - Type-safe query builder for OCaml.
 - [rel](https://github.com/dbuenzli/rel) - Relational database programming for OCaml.
+- [tjr_kv](https://github.com/tomjridge/tjr_kv) - Key-value store for OCaml.
 
 ## Bindings
 

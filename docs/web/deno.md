@@ -360,3 +360,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [resvg-wasm](https://github.com/kitsonk/resvg-wasm) - WASM bindings for resvg for Deno.
 - [Deno FFI Tutorial](https://github.com/aapoalas/deno-ffi-tutorial)
 - [Deno Starter Kit](https://github.com/type-driven/hello_deno)
+- [appy](https://github.com/appy-js/appy) - Fully featured web framework for Deno.
