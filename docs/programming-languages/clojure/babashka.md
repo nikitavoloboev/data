@@ -16,3 +16,4 @@ title: Babashka
 - [How to Do Things With Babashka (2022)](https://presumably.de/how-to-do-things-with-babashka.html)
 - [Babashka Babooka: Write Command Line Clojure](https://www.braveclojure.com/quests/babooka/) ([HN](https://news.ycombinator.com/item?id=34261010))
 - [Babashka Tasks](https://github.com/ferdinand-beyer/vscode-babashka-tasks) - Run Babashka Tasks from VS-Code.
+- [Obsidian Babashka](https://github.com/filipesilva/obsidian-babashka) - Run Obsidian Clojure(Script) codeblocks in Babashka.

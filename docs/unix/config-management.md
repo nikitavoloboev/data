@@ -80,3 +80,4 @@
 - [CUE For Network Configurations](https://github.com/networkop/cue-networking)
 - [Imperative configs are out; Declarative configs are in (2022)](https://www.prodvana.io/blog/declarative-configs) ([HN](https://news.ycombinator.com/item?id=33535807))
 - [Use .config to store your project configs](https://github.com/dot-config/dot-config.github.io)
+- [The Yaml document from hell (2023)](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) ([HN](https://news.ycombinator.com/item?id=34351503))

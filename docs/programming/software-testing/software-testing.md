@@ -174,3 +174,4 @@
 - [Reflections on "Testing Without Mocks" (2023)](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
 - [Test pollution and how to fix it (2021)](https://cs-syd.eu/posts/2021-10-23-test-pollution)
 - [Exhausting Exhaustive Testing (2022)](https://www.openmymind.net/Exhausting-Exhaustive-Testing/)
+- [What if writing tests was a joyful experience? (2023)](https://blog.janestreet.com/the-joy-of-expect-tests/) ([HN](https://news.ycombinator.com/item?id=34350749))

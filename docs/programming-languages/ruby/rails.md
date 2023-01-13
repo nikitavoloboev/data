@@ -197,3 +197,4 @@ title: Rails
 - [Handling Stripe Webhooks with Rails (2022)](https://www.cjav.dev/articles/handling-stripe-webhooks-with-rails)
 - [Rails Authentication from Scratch (2022)](https://stevepolito.design/blog/rails-authentication-from-scratch/) ([HN](https://news.ycombinator.com/item?id=34301317))
 - [MRSK](https://github.com/rails/mrsk) - Zero-downtime deploys of Rails apps packed as containers to any host.
+- [Ask HN: Who’s using Ruby for web development, without Ruby on Rails? (2023)](https://news.ycombinator.com/item?id=34354129)

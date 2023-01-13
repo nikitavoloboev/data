@@ -110,4 +110,4 @@ title: Vulkan API
 - [Vulkanizer](https://github.com/milkru/vulkanizer) - Advanced Vulkan rendering engine prototype.
 - [A look at Vulkan extensions in Venus (2022)](https://www.collabora.com/news-and-blog/blog/2022/10/19/a-look-at-vulkan-extensions-in-venus/)
 - [Vulkan Video decoding (2022)](https://lynne.ee/vulkan-video-decoding.html)
-- [Vulkan Tutorial in Rust](https://kylemayes.github.io/vulkanalia/)
+- [Vulkan Tutorial in Rust](https://kylemayes.github.io/vulkanalia/) ([HN](https://news.ycombinator.com/item?id=34356060))
