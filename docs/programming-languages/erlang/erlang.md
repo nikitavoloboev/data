@@ -178,3 +178,4 @@ title: Erlang
 - [Mnesia RocksDB](https://github.com/aeternity/mnesia_rocksdb) - RocksDB backend plugin for Mnesia.
 - [Esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 - [Telemetry](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
+- [procket](https://github.com/msantos/procket) - Erlang interface to low level socket operations.

@@ -271,6 +271,7 @@
 - [KinoEcto](https://github.com/vorce/kino_ecto) - Ecto utilities for Livebook.
 - [ContEx](https://github.com/mindok/contex) - Charting and graphing library for Elixir.
 - [Definject](https://github.com/jechol/definject) - Unobtrusive Dependency Injector for Elixir.
+- [Jaxon](https://github.com/boudra/jaxon) - Streaming JSON parser for Elixir.
 
 ## Links
 

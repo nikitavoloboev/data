@@ -1096,3 +1096,6 @@
 - [EVA: Exploring the Limits of Masked Visual Representation Learning at Scale (2022)](https://arxiv.org/abs/2211.07636) ([Code](https://github.com/baaivision/EVA))
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction (2022)](https://arxiv.org/abs/2212.00792) ([Code](https://github.com/zhizdev/sparsefusion))
 - [Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling (2023)](https://arxiv.org/abs/2301.03580) ([Code](https://github.com/keyu-tian/SparK))
+- [Generalized Decoding for Pixel, Image, and Language (2022)](https://arxiv.org/abs/2212.11270) ([Code](https://github.com/microsoft/X-Decoder))
+- [Global Context Vision Transformers (2022)](https://arxiv.org/abs/2206.09959) ([Code](https://github.com/NVlabs/GCVit))
+- [Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning (2023)](https://arxiv.org/abs/2301.05219) ([Code](https://github.com/MingSun-Tse/Why-the-State-of-Pruning-so-Confusing))

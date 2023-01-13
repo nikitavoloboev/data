@@ -52,7 +52,6 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter has useful "from people you follow" search filter](https://twitter.com/Gavmn/status/1507371911310807043)
 - [New Twitter CEO Checklist: 1. Open-source the algorithm. 2. Eliminate all bots. 3. Restore free speech.](https://twitter.com/DavidSacks/status/1515363131249213444)
 - [The essential truth of every social network is that the product is content moderation, and everyone hates the people who decide how content moderation works. Content moderation is what Twitter makes — it is the thing that defines the user experience.](https://twitter.com/simonw/status/1586017662726856704)
-- Twitter is a private company owned by a person who in the past [went back on what he promised](https://twitter.com/rickstrom/status/1603562716123189248), [lied in public on things you should not lie about](https://twitter.com/carterforva/status/1596136798941503492), [made Twitter ban accounts of competitors](https://news.ycombinator.com/item?id=34010112) and [those who criticize him personally](https://news.ycombinator.com/item?id=34008383) without ways to fight back. All that is [worrying](https://twitter.com/Dereklowe/status/1602307503752187906) for the future of Twitter. Twitter and its CEO should take steps to change this as [trust lost](https://twitter.com/JuddLegum/status/1603876025242378248) takes long time to fix.
 
 ## Links
 

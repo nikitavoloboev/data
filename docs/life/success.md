@@ -2,6 +2,8 @@
 
 Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523998943150083), doing what you love & [sharing what you learned](https://twitter.com/NavalismHQ/status/1539192654264782849).
 
+I found writing down some [rules](../focusing/rules.md) for myself in how I lead my [life](life.md) helped me greatly to move fast and in right directions. 
+
 ## Notes
 
 - Figure out what you are uniquely the best in the world at because you just love it. And then just find out who or what needs that the most.

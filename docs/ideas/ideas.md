@@ -12,6 +12,8 @@ I try to expose myself to novel experiences and be attentive to everything. Conv
 
 Few things that inspire new ideas are [travelling](../travel/travel.md) to new places, [meeting new people](../work/communication.md) (asking what everyone is excited about right now), [going for walks](https://twitter.com/emollick/status/1590785568929382401) and nice showers. Plus listening to great [podcasts](../podcasts/podcasts.md), movies/series. Well everything really can spark an idea. Just make sure to note it down and work on them as [all ideas start fragile and can be easily killed or forgotten](https://www.youtube.com/watch?v=2oksetv3i90).
 
+I note all my ideas in [LA](learn-anything.md). For ideas I am exceptionally excited about, I share it on [Twitter](../tools/twitter.md) or friends that may have interest in it, to get a feel of what others think. It could be others have solved the problem well already.
+
 ## Notes
 
 - [Good ideas don’t have owners. They belong to everyone.](https://galaxyproject.org/jxtx/)
