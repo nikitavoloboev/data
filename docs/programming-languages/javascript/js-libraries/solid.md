@@ -33,6 +33,7 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Solid Storefront](https://github.com/zaiste/solid-storefront) - Open-source e-commerce storefront in Solid.js with TypeScript, GraphQL, URQL & Tailwind CSS.
 - [Chrome Extension Boilerplate with SolidJS + Vite + TypeScript](https://github.com/fuyutarow/solid-chrome-extension-template)
 - [Create JD App](https://github.com/OrJDev/create-jd-app) - SolidStart & tRPC Full-Stack TypeScript application template.
+- [SolidStart SSR with @tanstack/query v5 preview using tRPC](https://github.com/AshSimmonds/solidstart-17)
 
 ## Notes
 
