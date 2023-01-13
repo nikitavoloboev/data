@@ -135,3 +135,4 @@ It's hard to care about politics when [so much of it is empty words and empty di
 - [PolicyKit](https://policykit.org/) - Toolkit for building governance in your online community. ([Code](https://github.com/policykit/policykit))
 - [What Happens When Society Collapses? (2021)](https://readysquirrel.com/what-happens-when-society-collapses/)
 - [Verifiably Secure Elections](https://github.com/cjdelisle/VerifiablySecureElections)
+- [Liquid democracy: two experiments on delegation in voting](https://www.nber.org/papers/w30794) ([HN](https://news.ycombinator.com/item?id=34358510))

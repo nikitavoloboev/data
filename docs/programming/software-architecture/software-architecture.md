@@ -284,3 +284,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Reinventing Backend Subsetting at Google (2022)](https://queue.acm.org/detail.cfm?id=3570937) - Designing an algorithm with reduced connection churn that could replace deterministic subsetting. ([HN](https://news.ycombinator.com/item?id=34035755))
 - [Does YOUR Tech Scale? (2022)](https://www.youtube.com/watch?v=ZNpOMPE9lBc)
 - [Architecture diagrams should be code (2023)](https://brianmckenna.org/blog/architecture_code) ([Lobsters](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code))
+- [Just use a monorepo (2023)](https://buttondown.email/blog/just-use-a-monorepo) ([HN](https://news.ycombinator.com/item?id=34359736))
+- [Your tech stack is not the product (2023)](https://hoho.com/posts/your-stack-is-not-the-product/) ([HN](https://news.ycombinator.com/item?id=34361063))

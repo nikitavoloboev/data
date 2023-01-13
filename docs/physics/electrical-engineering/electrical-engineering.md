@@ -138,3 +138,4 @@ title: Electrical engineering
 - [Logic Primitive Transformations with Yosys Techmap (2022)](https://blog.yosyshq.com/p/logic-primitive-transformations-with-yosys-techmap/)
 - [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim) - Minimalistic digital logic simulator.
 - [Mechanical circuits: electronics without electricity (2022)](https://www.youtube.com/watch?v=QrkiJZKJfpY) ([HN](https://news.ycombinator.com/item?id=34218660))
+- [Horizon EDA](https://github.com/horizon-eda/horizon) - Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry. ([Web](https://horizon-eda.org/))

@@ -756,3 +756,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - Pick the best database primary key. ([Code](https://github.com/adileo/awesome-identifiers))
 - [How Query Engines Work](https://howqueryengineswork.com/)
 - [ULID Identifiers and ULID Tools Website (2023)](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/) ([Lobsters](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website))
+- [Bullshit graph database performance benchmarks (2023)](https://maxdemarzi.com/2023/01/11/bullshit-graph-database-performance-benchmarks/) ([HN](https://news.ycombinator.com/item?id=34342371))

@@ -46,3 +46,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [Our Conscious Experience of the World Is But a Memory, Says New Theory (2022)](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/) ([Reddit](https://www.reddit.com/r/singularity/comments/ydfjsa/our_conscious_experience_of_the_world_is_but_a/)) ([HN](https://news.ycombinator.com/item?id=33338124))
 - [Ask HN: Is your memory as bad as mine? (2022)](https://news.ycombinator.com/item?id=33834258)
 - [How the brain distinguishes memories from perceptions (2022)](https://www.quantamagazine.org/how-the-brain-distinguishes-memories-from-perceptions-20221214/) ([HN](https://news.ycombinator.com/item?id=33993796))
+- [Memory loss: Expert advice for improving memory and concentration](https://www.vox.com/even-better/23537229/improve-your-memory-concentration-tips) ([HN](https://news.ycombinator.com/item?id=34350340))

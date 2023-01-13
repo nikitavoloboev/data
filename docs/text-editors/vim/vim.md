@@ -340,3 +340,4 @@ zz
 - [Effective Neovim: Instant IDE (2022)](https://www.youtube.com/watch?v=stqUbv-5u2s)
 - [NeoVim Notebooks](https://www.maxwellrules.com/misc/nvim_jupyter.html) ([HN](https://news.ycombinator.com/item?id=34145680))
 - [Vim Online Editor](https://www.vimonlineeditor.com/) - Using WebAssembly, storing files using IndexedDB. ([HN](https://news.ycombinator.com/item?id=34262825)) ([Code](https://github.com/programmerhat/vim-online-editor))
+- [Vim is touch-typing on steroids (2023)](https://www.trickster.dev/post/vim-is-touch-typing-on-steroids/) ([HN](https://news.ycombinator.com/item?id=34349484))

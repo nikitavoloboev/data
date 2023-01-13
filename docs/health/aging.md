@@ -124,3 +124,5 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [What's one myth about old age that you would like to bust](https://www.reddit.com/r/AskOldPeople/comments/zl0njz/whats_one_myth_about_old_age_that_you_would_like/)
 - [Longer proteins for longer lifespan? (2022)](https://joshmitteldorf.scienceblog.com/2022/12/13/longer-proteins-for-longer-lifespan/) ([HN](https://news.ycombinator.com/item?id=33971206))
 - [Ask HN: I'm 40 and feel my mental ability declining. Programming seems harder. (2023)](https://news.ycombinator.com/item?id=34324567)
+- [Loss of epigenetic information can drive aging in mice (2023)](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse) ([HN](https://news.ycombinator.com/item?id=34362210))
+- [ITP | National Institute on Aging](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp/about-itp)

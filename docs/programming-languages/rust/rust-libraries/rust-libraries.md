@@ -2487,7 +2487,7 @@
 - [Akt](https://github.com/akozhemiakin/akt) - Actors framework for Rust and Tokio.
 - [coredump](https://github.com/d-e-s-o/coredump) - Crate to force coredump creation on panics.
 - [Serde ignored](https://github.com/dtolnay/serde-ignored) - Find out about keys that are ignored when deserializing data.
-- [OkayWAL](https://github.com/khonsulabs/okaywal) - Write-ahead log (WAL) implementation for Rust.
+- [OkayWAL](https://github.com/khonsulabs/okaywal) - Write-ahead log (WAL) implementation for Rust. ([Article](https://bonsaidb.io/blog/introducing-okaywal/))
 - [bitfield-rle](https://github.com/datrs/bitfield-rle) - Run-length-encoder that compresses bitfields.
 - [Pyo3 Bindings to Polars](https://github.com/pola-rs/pyo3-polars)
 - [alloc-track](https://github.com/Protryon/alloc-track) - Track memory allocations by backtrace or originating thread.

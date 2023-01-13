@@ -219,3 +219,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Web performance, code splitting strategies, and a React case study (2022)](https://www.iamtk.co/web-performance-code-splitting-strategies-and-react-applications)
 - [Compress An Image Before Upload With JavaScript (2023)](https://pqina.nl/blog/compress-image-before-upload/)
 - [trace.cafe](https://trace.cafe/) - Easy webperf trace sharing. ([Code](https://github.com/paulirish/trace.cafe))
+- [Predicting Resource Usage From Increased Traffic (2023)](https://two-wrongs.com/predicting-resource-usage-from-increased-traffic)

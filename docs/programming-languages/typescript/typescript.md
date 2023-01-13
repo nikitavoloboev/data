@@ -315,6 +315,7 @@ Run/deploy TS with [Deno](../../web/deno.md).
 - [eject-enum](https://github.com/jiftechnify/eject-enum) - Automatic code rewriting tool for TypeScript codebases that rewrites each TypeScript enum in your codes to the safer alternative.
 - [TypeScriptAST](https://github.com/omochi/TypeScriptAST) - Build TypeScript AST from Swift API.
 - [Structure of a TypeScript Error (2023)](https://www.totaltypescript.com/structure-of-a-typescript-error) ([Tweet](https://twitter.com/mattpocockuk/status/1613173540609556480))
+- [Ask HN: Is TypeScript worth it? (2023)](https://news.ycombinator.com/item?id=34359504)
 
 ## Images
 

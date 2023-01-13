@@ -63,3 +63,4 @@ title: TLA+
 - [Tree-sitter grammar for TLA+](https://github.com/tlaplus-community/tree-sitter-tlaplus)
 - [ewd998](https://github.com/tlaplus-workshops/ewd998) - Distributed termination detection on a ring, due to Shmuel Safra.
 - [TLA in Coq](https://github.com/tchajed/coq-tla)
+- [Writing a TLA⁺ tree-sitter grammar: my foray into free software (2023)](https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/) ([Lobsters](https://lobste.rs/s/mkljqw/writing_tla_tree_sitter_grammar_my_foray))
