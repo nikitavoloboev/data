@@ -8,6 +8,10 @@ title: Tailwind CSS
 
 [UnoCSS](https://uno.antfu.me/) is a [nice alternative](https://antfu.me/posts/reimagine-atomic-css).
 
+I personally enjoy using [styled components pattern](https://github.com/solidjs/solid-styled-components) more than inline class name styles as it's [easier to read](https://twitter.com/stolinski/status/1613699772111638530) and I like the composition of DOM elements with nice names.
+
+I always value readability and extendability over being able to write/edit things fast. With styled components pattern with some inline styles be it with Tailwind or otherwise, I find I get the best of both worlds.
+
 ## Notes
 
 - [You can get all the Tailwind JIT goodness you like just by adding a single script tag to the head of your document.](https://twitter.com/lukejacksonn/status/1393563736942825481)

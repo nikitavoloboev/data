@@ -232,3 +232,4 @@
 - [Reflecting on Transducers (2023)](https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/)
 - [Debugging Lisp: trace options, break on conditions (2022)](https://lisp-journey.gitlab.io/blog/debugging-lisp-trace-options-break-on-conditions/) ([HN](https://news.ycombinator.com/item?id=34252796))
 - [Learn Lisp The Hard Way](https://llthw.common-lisp.dev/)
+- [Lisp curse vs Lisp envy (by Mauricio Szabo) (2023)](https://www.youtube.com/watch?v=FgHAlEzvkwA)

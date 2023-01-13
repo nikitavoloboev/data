@@ -2,7 +2,9 @@
 
 Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523998943150083), doing what you love & [sharing what you learned](https://twitter.com/NavalismHQ/status/1539192654264782849).
 
-I found writing down some [rules](../focusing/rules.md) for myself in how I lead my [life](life.md) helped me greatly to move fast and in right directions. 
+I found writing down some [rules](../focusing/rules.md) for myself in how I lead my [life](life.md) helped me greatly to move fast by making [right decisions](../psychology/decision-making.md).
+
+I do my best to try as many [ideas](../ideas/ideas.md) I find interesting and learn from each one.
 
 ## Notes
 
