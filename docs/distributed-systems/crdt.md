@@ -112,3 +112,4 @@ title: Conflict-free replicated data type
 - [You might not need a CRDT (2022)](https://driftingin.space/posts/you-might-not-need-a-crdt) ([HN](https://news.ycombinator.com/item?id=33865672))
 - [pg_crdt - an experimental CRDT extension for Postgres (2022)](https://supabase.com/blog/postgres-crdt) ([HN](https://news.ycombinator.com/item?id=33931971)) ([Code](https://github.com/supabase/pg_crdt))
 - [CRAttributes](https://github.com/munhitsu/CRAttributes) - CRDT on CloudKit.
+- [Keep CALM and CRDT on](https://www.vldb.org/pvldb/vol16/p856-power.pdf) ([HN](https://news.ycombinator.com/item?id=34329779))
