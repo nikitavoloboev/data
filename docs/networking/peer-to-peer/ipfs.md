@@ -123,3 +123,4 @@ I do like the distinction of distributing content over distributing links. Each 
 - [Help seed Z-Library on IPFS (2022)](http://annas-blog.org/help-seed-zlibrary-on-ipfs.html) ([HN](https://news.ycombinator.com/item?id=33716560))
 - [ipns](https://github.com/ipfs/js-ipns) - Utilities for creating, parsing, and validating IPNS records.
 - [GraphSync](https://github.com/retrieval-markets-lab/rs-graphsync) - IPFS data transfer protocol used across the IPFS and Web3 ecosystem for exchanging IPLD data.
+- [Autoretrieve](https://github.com/application-research/autoretrieve) - Server to make GraphSync data accessible on IPFS.
