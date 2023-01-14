@@ -228,3 +228,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare Worker JWT](https://github.com/tsndr/cloudflare-worker-jwt) - Lightweight JWT implementation with ZERO dependencies for Cloudflare Workers.
 - [itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 schema generator and validator for Cloudflare Workers.
 - [Cloudflare Community](https://community.cloudflare.com/)
+- [Fine-Grained Sandboxing with V8 Isolates (2019)](https://www.youtube.com/watch?v=HK04UxENH10)

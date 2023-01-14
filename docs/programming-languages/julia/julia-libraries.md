@@ -806,6 +806,7 @@
 - [Promises.jl](https://github.com/fonsp/Promises.jl) - JavaScript-inspired async.
 - [MetaGraphsNext](https://github.com/JuliaGraphs/MetaGraphsNext.jl) - Experimental, type-stable replacement for MetaGraphs.
 - [CellListMap.jl](https://github.com/m3g/CellListMap.jl) - Flexible implementation of cell lists to map the calculations of particle-pair dependent functions, such as forces, energies, neighbour lists, etc.
+- [ClusterManagers](https://github.com/JuliaParallel/ClusterManagers.jl) - Support for different job queue systems commonly used on compute clusters.
 
 ## Links
 

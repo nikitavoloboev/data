@@ -981,6 +981,7 @@
 - [Goldberg](https://github.com/frank2/goldberg) - Rust-based obfuscation macro library.
 - [hs-bindgen](https://github.com/yvan-sraka/hs-bindgen) - Handy macro to generate C-FFI bindings to Rust for Haskell.
 - [tuple_list](https://github.com/VFLashM/tuple_list) - Rust crate for macro-free variadic tuple metaprogramming.
+- [naked-function](https://github.com/Amanieu/naked-function) - Proc macro version of the #[naked] attribute.
 
 ## Math
 
@@ -2515,6 +2516,7 @@
 - [urlpattern](https://github.com/denoland/rust-urlpattern) - Rust implementation of the `URLPattern` web API.
 - [Timely Util](https://github.com/cdstanford/timely-util) - Utility abstractions on top of Timely Dataflow.
 - [OpenDP](https://github.com/opendp/opendp) - Modular collection of statistical algorithms that adhere to the definition of differential privacy.
+- [how-u-doin](https://github.com/kdr-aus/how-u-doin) - Progress reporting abstraction for Rust.
 
 ## Cargo Plugins
 

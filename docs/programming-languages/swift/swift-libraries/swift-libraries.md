@@ -387,6 +387,7 @@
 - [APIRouter](https://github.com/devyhan/APIRouter) - Easy way to manage multiple RESTful API endpoints in Swift.
 - [Clairvoyant](https://github.com/christophhagen/Clairvoyant) - Monitoring framework for Vapor servers.
 - [Swift Web](https://github.com/pointfreeco/swift-web) - Collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
+- [URLQueryEncoder](https://github.com/CreateAPI/URLQueryEncoder) - URL query encoder with support for all OpenAPI serialization options.
 
 ## GraphQL
 
@@ -1382,6 +1383,7 @@
 - [Flock](https://github.com/qasim/Flock) - Rapid file download using concurrent connections.
 - [Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) - Companion library to Point-Free's swift-dependencies that provides higher-level dependencies.
 - [ThirtyTo](https://github.com/brightdigit/ThirtyTo) - Encode, Decode and Generate Random String in Base32Crockford Format.
+- [OpenAlpha](https://github.com/colealanroberts/OpenAlpha) - Swift package for retrieving images from Sony digital cameras.
 
 ## Other (not lib)
 

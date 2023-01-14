@@ -55,6 +55,7 @@ title: OCaml libraries
 - [Sequoia](https://github.com/andrenth/sequoia) - Type-safe query builder for OCaml.
 - [rel](https://github.com/dbuenzli/rel) - Relational database programming for OCaml.
 - [tjr_kv](https://github.com/tomjridge/tjr_kv) - Key-value store for OCaml.
+- [Petrol](https://github.com/Gopiandcode/petrol) - High-level OCaml API for interacting with SQL databases.
 
 ## Bindings
 

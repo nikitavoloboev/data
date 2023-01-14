@@ -191,6 +191,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG.
 - [ET: Legacy](https://www.etlegacy.com/) - Fully compatible Wolfenstein Enemy Territory client and server. ([Code](https://github.com/etlegacy/etlegacy))
 - [Kandria](https://github.com/Shirakumo/kandria) - Post-apocalyptic action RPG built with Common Lisp. ([HN](https://news.ycombinator.com/item?id=34338629))
+- [Duelyst](https://github.com/open-duelyst/duelyst) - Digital collectible card game and turn-based strategy hybrid.
 
 ## Awesome games (other)
 

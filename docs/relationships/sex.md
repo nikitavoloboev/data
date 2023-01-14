@@ -167,3 +167,4 @@
 - [Difference between clit and vagina orgasms](https://www.reddit.com/r/sex/comments/zwjwz8/so_whats_the_difference_between_clit_and_vagina/)
 - [Keeping sex in the air with responsive desire](https://www.reddit.com/r/sexover30/comments/zrsga5/keeping_sex_in_the_air_with_responsive_desire/)
 - [Great sex positions (2023)](https://www.reddit.com/r/sex/comments/106p9sj/what_is_a_position_or_technique_youve_used_to/)
+- [Non hormonal birth control options](https://www.reddit.com/r/sex/comments/10b44ay/after_trying_out_sex_without_a_condom_bf_no/)

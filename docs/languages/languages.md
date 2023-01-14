@@ -96,3 +96,4 @@
 - [strans](https://github.com/sheepla/strans) - Command line SimplyTranslate client inspired by translate-shell.
 - [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings.
 - [Lingua Python](https://github.com/pemistahl/lingua-py) - Most accurate natural language detection library for Python, suitable for long and short text alike.
+- [Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models (2023)](https://arxiv.org/abs/2301.04213) ([Code](https://github.com/google/belief-localization))
