@@ -50,3 +50,4 @@ title: NestJS
 - [Example of a GraphQL API built with NestJS, Prisma and TypeScript](https://github.com/H-Richard/backend-2022)
 - [Nest framework TypeScript starter](https://github.com/mwanago/nestjs-typescript)
 - [NestJS Temporal](https://github.com/KurtzL/nestjs-temporal)
+- [Nest JS WebSockets - Guards and Authorization with CASL (2022)](https://www.delightfulengineering.com/blog/nest-websockets/guards-and-authorization)

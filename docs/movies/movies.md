@@ -185,3 +185,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [What was everyone's last film(s) of 2022?](https://www.reddit.com/r/Letterboxd/comments/100fset/what_was_everyones_last_films_of_2022/)
 - [Movies that’ll leave me an emotional mess (2023)](https://www.reddit.com/r/MovieSuggestions/comments/108r7up/a_movie_thatll_leave_me_an_emotional_mess/)
 - [Why The Banshees of Inisherin is the Best Movie of 2022](https://www.youtube.com/watch?v=HbqWtZZlTBw)
+- [Comedy movies without a stupid plot (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10a1m4i/comedy_movies_without_a_stupid_plot/)

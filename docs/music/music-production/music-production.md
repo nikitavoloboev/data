@@ -514,3 +514,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Musescore.com](https://musescore.com/) - World's largest free sheet music catalog and community.
 - [Chord Practice](https://chords.adammenz.com/)
 - [staffrender](https://github.com/rogerpasky/staffrender) - Plain vanilla TypeScript library to render music score in browsers.
+- [Is MusicGPT a viable possibility? (2023)](https://www.reddit.com/r/MachineLearning/comments/10bddey/d_is_musicgpt_a_viable_possibility/)

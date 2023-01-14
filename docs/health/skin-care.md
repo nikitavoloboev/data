@@ -187,3 +187,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [“Expensive” vitamin C serums (2022)](https://www.reddit.com/r/30PlusSkinCare/comments/zwhvum/expensive_vitamin_c_serum/)
 - [How do you deal with the effects of aging?](https://www.reddit.com/r/30PlusSkinCare/comments/zydhjy/how_do_you_deal_with_the_effects_of_aging/)
 - [How often do you get microneedling and is it worth it? (2023)](https://www.reddit.com/r/30PlusSkinCare/comments/104ir8k/how_often_do_you_get_microneedling_and_is_it/)
+- [What are some of the best beauty tips you've gotten? (2023)](https://www.reddit.com/r/30PlusSkinCare/comments/10azzqi/what_are_some_of_the_best_beauty_tips_youve/)

@@ -10,7 +10,7 @@ I try to be thoughtful with my responses and communication. [Steve Jobs is great
 
 There's a difference between criticism and personal attacks. The latter is best [responded to with kindness](https://twitter.com/lexfridman/status/1609611808377307136) or simply ignoring it as it was not meant to help you in first place. I do value criticism from people I value and when I see that intentions are good and try to note anything I find of value down to improve. I don't let outside criticism define my self worth in any way.
 
-It's hard to really know someone's life story based on what others said or wrote about. Everyone has incentives for saying some things and it's easy to hate on things/people than bring people up and learn together. I try to always do the latter.
+It's hard to really know someone's life story based on what others said or wrote about. Everyone has incentives for saying some things and it's easy to hate on things/people rather than bring people up and learn together. I try to always do the latter.
 
 ## Notes
 
