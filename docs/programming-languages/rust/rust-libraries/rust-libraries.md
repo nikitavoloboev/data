@@ -709,6 +709,7 @@
 - [Poseidon](https://github.com/penumbra-zone/poseidon377) - Instantiation of the Poseidon hash for use with decaf377.
 - [Miden Crypto](https://github.com/0xPolygonMiden/crypto) - Cryptographic primitives used in Polygon Miden.
 - [eciesrs](https://github.com/ecies/rs) - Elliptic Curve Integrated Encryption Scheme for secp256k1.
+- [Sponge](https://github.com/arkworks-rs/sponge) - Library for cryptographic sponges.
 
 ## Linux
 
@@ -2517,6 +2518,7 @@
 - [Timely Util](https://github.com/cdstanford/timely-util) - Utility abstractions on top of Timely Dataflow.
 - [OpenDP](https://github.com/opendp/opendp) - Modular collection of statistical algorithms that adhere to the definition of differential privacy.
 - [how-u-doin](https://github.com/kdr-aus/how-u-doin) - Progress reporting abstraction for Rust.
+- [Serde JSON Borrow](https://github.com/PSeitz/serde_json_borrow) - Fast JSON deserialization on borrowed data.
 
 ## Cargo Plugins
 

@@ -43,3 +43,4 @@
 - [Front Matter](https://github.com/estruyf/vscode-front-matter) - CMS running straight in Visual Studio Code.
 - [microfeed](https://github.com/microfeed/microfeed) - Self-hosted CMS on Server-less Cloudflare for podcast/blog/img/videos. ([HN](https://news.ycombinator.com/item?id=34147825))
 - [Alinea](https://alinea.sh/) - Open source headless CMS. ([Code](https://github.com/alineacms/alinea))
+- [DatoCMS](https://www.datocms.com/) - API-based CMS your editors will love. ([GitHub](https://github.com/datocms))

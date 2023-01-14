@@ -143,3 +143,4 @@ title: gRPC
 - [gRPC Microservices in Go (2022)](https://www.manning.com/books/grpc-microservices-in-go)
 - [Ezy](https://www.getezy.dev/) - Fully-featured desktop gRPC/gRPC-Web client. ([Code](https://github.com/getezy/ezy)) ([HN](https://news.ycombinator.com/item?id=33906520))
 - [gRPC Client CLI](https://github.com/vadimi/grpc-client-cli) - Generic gRPC command line client.
+- [connect-grpchealth-go](https://github.com/bufbuild/connect-grpchealth-go) - gRPC-compatible health checks for any net/http server.

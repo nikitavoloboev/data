@@ -196,3 +196,4 @@
 - [Robotics Transformer](https://github.com/google-research/robotics_transformer)
 - [Learning Generalizable Dexterous Manipulation from Human Grasp Affordance (2022)](https://arxiv.org/abs/2204.02320) ([Code](https://github.com/kristery/dex-affordance))
 - [Robotic Systems Book](https://github.com/krishauser/RoboticSystemsBook)
+- [OpenDR](https://github.com/opendr-eu/opendr) - Modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning.

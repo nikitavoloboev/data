@@ -907,3 +907,5 @@ title: Kubernetes
 - [kinitiras](https://github.com/k-cloud-labs/kinitiras) - Programmable rule engine for k8s admission webhook.
 - [Scylla Operator](https://github.com/scylladb/scylla-operator)
 - [nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster.
+- [Clustertest](https://github.com/guseggert/clustertest) - Framework for orchestrating clusters of nodes for testing.
+- [Traefik Hub Agent for Kubernetes](https://github.com/traefik/hub-agent-kubernetes)

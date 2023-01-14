@@ -148,3 +148,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1) ([HN](https://news.ycombinator.com/item?id=34259213))
 - [ClearML](https://github.com/allegroai/clearml-serving) - Model-Serving Orchestration and Repository Solution. ([Web](https://clear.ml/))
 - [Cloud Pipelines Editor](https://github.com/Cloud-Pipelines/pipeline-editor) - Web app that allows the users to build and run Machine Learning pipelines without having to set up development environment.
+- [Slapo](https://github.com/awslabs/slapo) - Schedule language for progressive optimization of large deep learning model training.

@@ -23,6 +23,7 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Bookshelf - React - Express - SQLite app](https://github.com/alexdevero/bookshelf-react-express-sqlite-app)
 - [Apple Music on iOS using React and Framer Motion](https://github.com/samselikoff/ios-apple-music-clone) ([Tweet](https://twitter.com/samselikoff/status/1520129733760929792))
 - [Artsy](https://github.com/artsy/force)
+- [TikTok clone](https://github.com/htoann/Tiktok-Clone)
 
 ## Templates
 
