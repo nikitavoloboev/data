@@ -49,3 +49,4 @@ title: CUDA
 - [Rust cuBLAS](https://github.com/autumnai/rust-cublas) - Safe CUDA cuBLAS wrapper for the Rust language.
 - [CUDA rules for Bazel](https://github.com/bazel-contrib/rules_cuda)
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog (2022)](https://siboehm.com/articles/22/CUDA-MMM) ([HN](https://news.ycombinator.com/item?id=34256392))
+- [cutex](https://github.com/tjyuyao/cutex) - PyCUDA based PyTorch Extension Made Easy.

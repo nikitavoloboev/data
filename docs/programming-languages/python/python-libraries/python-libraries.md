@@ -85,6 +85,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Falcon](https://github.com/falconry/falcon) - Minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale.
 - [hface](https://github.com/akamai/hface) - Hackable HTTP/{1,2,3} {client,server,proxy}.
 - [rush](https://github.com/sigmavirus24/rush) - Library for throttles.
+- [Esmerald](https://github.com/dymmond/esmerald) - Highly scalable, performant, easy to learn, easy to code and for every application python web framework.
 
 ## ML
 

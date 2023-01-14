@@ -278,6 +278,7 @@ title: GitHub actions
 - [Find Pull Request action](https://github.com/juliangruber/find-pull-request-action) - GitHub Action for finding pull requests.
 - [Retry action](https://github.com/owenrumney/retry-action) - Simple action will take a command and a number of times to retry on failure.
 - [sccache-action](https://github.com/mozilla/sccache-action) - GitHub action to download sccache artifacts.
+- [PR Comment Delete](https://github.com/maheshrayas/action-pr-comment-delete) - GitHub Action to delete older PR comments.
 
 ## Go
 

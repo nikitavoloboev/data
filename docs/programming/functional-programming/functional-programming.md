@@ -219,6 +219,7 @@
 - [Algebraic Effects – You Can Touch This (2019)](http://jacek.zlydach.pl/blog/2019-07-24-algebraic-effects-you-can-touch-this.html)
 - [Nim (2022)](https://ryan.freumh.org/blog/nim/)
 - [Functional languages index](https://github.com/cblp/funlangs)
+- [Postfix Haskell](https://github.com/dvtate/postfix-haskell) - Low-level, postfix, functional programming language that compiles to WebAssembly.
 
 ## Images
 

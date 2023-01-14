@@ -604,3 +604,4 @@ all: unset
 - [CSS Architecture (2022)](https://www.bram.us/2022/12/02/css-architecture-2022-12-01-web-directions-summit/)
 - [Keeping Your CSS Small: scopes, containers, and other new stuff (2022)](https://www.youtube.com/watch?v=bz0sMsCiU1c)
 - [How to create a 3D space using CSS (2023)](https://garden.bradwoods.io/notes/css/3d) ([HN](https://news.ycombinator.com/item?id=34315380))
+- [PostCSS Values Parser](https://github.com/shellscape/postcss-values-parser) - CSS property value parser for PostCSS.

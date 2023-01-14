@@ -455,3 +455,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Hidet](https://github.com/hidet-org/hidet) - Compilation-based DNN inference framework.
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Big Model Era.
 - [difflogic](https://github.com/Felix-Petersen/difflogic) - Library for Differentiable Logic Gate Networks.
+- [EZKL](https://github.com/zkonduit/ezkl) - Library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
