@@ -168,3 +168,4 @@ title: Speech recognition
 - [Whisper CLI, built with Rust](https://github.com/m1guelpf/whisper-cli-rs)
 - [Whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to whisper.cpp.
 - [OpenAI's Whisper ported to CoreML](https://github.com/tanmayb123/OpenAI-Whisper-CoreML)
+- [Real Time Whisper Transcription](https://github.com/davabase/whisper_real_time)

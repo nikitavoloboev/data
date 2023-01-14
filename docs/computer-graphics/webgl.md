@@ -122,3 +122,4 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) library. [Here](ht
 - [Building an interactive WebGL experience in Next.js (2022)](https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js)
 - [WebGL experiments](https://github.com/FarazzShaikh/experiments)
 - [Crescent](https://github.com/silversquirl/crescent) - Simple WebGPU implementation written in Zig.
+- [3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library.

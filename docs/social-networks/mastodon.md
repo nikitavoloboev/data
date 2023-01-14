@@ -155,3 +155,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Mastodon Send GitHub Action](https://github.com/cbrgm/mastodon-github-action) - Use this action to send a toot (message) from a GitHub actions workflow to Mastodon.
 - [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - Cross-platform client for micro-blogging services.
 - [Fedigardens](https://github.com/alicerunsonfedora/fedigardens) - Simplified, discussion-driven Mastodon app for iOS. ([Web](https://fedigardens.app/))
+- [Wildebeest](https://github.com/cloudflare/wildebeest) - ActivityPub and Mastodon-compatible server. ([Lobsters](https://lobste.rs/s/1ouczs/cloudflare_wildebeest_wildebeest_is))

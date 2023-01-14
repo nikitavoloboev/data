@@ -28,3 +28,4 @@ title: Scuttlebutt
 - [ssb-http-auth-client](https://github.com/ssb-ngi-pointer/ssb-http-auth-client) - Secret-stack plugin to implement Sign-in with SSB over HTTP.
 - [ssb-threads](https://github.com/ssbc/ssb-threads) - Scuttlebot plugin for fetching messages as threads.
 - [scuttlego](https://github.com/planetary-social/scuttlego) - Go implementation of the Secure Scuttlebutt protocol.
+- [ssb-archive feature proposal](https://github.com/gpicron/ssb-archive)

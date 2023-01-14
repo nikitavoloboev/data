@@ -808,6 +808,7 @@
 - [CellListMap.jl](https://github.com/m3g/CellListMap.jl) - Flexible implementation of cell lists to map the calculations of particle-pair dependent functions, such as forces, energies, neighbour lists, etc.
 - [ClusterManagers](https://github.com/JuliaParallel/ClusterManagers.jl) - Support for different job queue systems commonly used on compute clusters.
 - [StringViews](https://github.com/JuliaStrings/StringViews.jl) - String-like views of arbitrary Julia byte arrays.
+- [Highlights](https://github.com/JuliaDocs/Highlights.jl) - Source code highlighter for Julia.
 
 ## Links
 

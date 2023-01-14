@@ -17,6 +17,7 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Logic Voxels](https://github.com/mwbryant/logic_voxels) - Personal game project created with Bevy.
 - [Bevy Tower Defense Tutorial Game](https://github.com/mwbryant/bevy-tower-defense-tutorial)
 - [Oicana](https://github.com/NiklasEi/oicana) - Tower defence game with some puzzling.
+- [Flappy Bevy](https://github.com/TanTanDev/flappy_bevy) - Game like flappy bird made for the bevy engine.
 
 ## Links
 

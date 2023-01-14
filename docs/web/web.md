@@ -485,3 +485,4 @@
 - [Building Hypermedia Systems](https://hypermedia.systems/) - Simpler approach to building applications on the Web and beyond with htmx and HyperView. ([Code](https://github.com/bigskysoftware/hypermedia-systems))
 - [Mozilla Specification Positions](https://mozilla.github.io/standards-positions/) ([Code](https://github.com/mozilla/standards-positions))
 - [Awesome Web Development Resources](https://web-dev-resources.com/#/) ([Code](https://github.com/markodenic/web-development-resources))
+- [Runtime Keys](https://runtime-keys.proposal.wintercg.org/) ([Code](https://github.com/wintercg/runtime-keys))

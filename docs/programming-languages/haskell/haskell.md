@@ -4,7 +4,7 @@ title: Haskell
 
 # [Haskell](https://www.haskell.org)
 
-[This video](https://www.youtube.com/watch?v=tYH5UsahYQU) and [course](https://www.scs.stanford.edu/16wi-cs240h/) are nice intros. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
+[Haskell Guide](https://haskell-docs.netlify.app/), [this video](https://www.youtube.com/watch?v=tYH5UsahYQU) and [course](https://www.scs.stanford.edu/16wi-cs240h/) are nice intros. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
 
 [Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) & [Write You a Haskell](http://dev.stephendiehl.com/fun/) are great reads.
 
@@ -513,3 +513,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Haskell FFI Tutorial](https://github.com/ifesdjeen/haskell-ffi-tutorial)
 - [A dancing space leak (2023)](https://cs-syd.eu/posts/2023-01-06-a-dancing-space-leak)
 - [Get Programming with Haskell (2018)](https://www.manning.com/books/get-programming-with-haskell)
+- [Haskell Guide](https://haskell-docs.netlify.app/) ([Code](https://github.com/reubenharry/haskell-docs))

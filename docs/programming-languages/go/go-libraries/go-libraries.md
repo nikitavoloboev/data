@@ -2002,6 +2002,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-dap](https://github.com/google/go-dap) - Go implementation of the Debug Adapter Protocol.
 - [gopherlogs](https://github.com/jpmcb/gopherlogs) - Simple, powerful, and extensible Go logging framework with batteries included.
 - [cadet](https://github.com/martinrue/cadet) - Library for creating simple HTTP-RPC servers in Go.
+- [jsonapi](https://github.com/google/jsonapi) - Serializer/deserializer for JSON payloads that comply to the JSON API spec.
 
 ## Links
 

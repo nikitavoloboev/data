@@ -557,3 +557,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [iOSDevie Blog](https://www.iosdevie.com/) - Curated collection of iOS, ML, AR resources sprinkled with some UI additions. ([Code](https://github.com/anupamchugh/iowncode))
 - [What’s New With PhotosPicker in iOS 16 (2023)](https://www.kodeco.com/36653975-what-s-new-with-photospicker-in-ios-16)
 - [Device Authority for iOS](https://github.com/getsidetrack/swift-device-authority) - Manage feature access using iOS configuration profiles.
+- [Awesome Scriptable](https://github.com/dersvenhesse/awesome-scriptable)

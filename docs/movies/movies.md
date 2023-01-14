@@ -8,6 +8,8 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 
 I try to review/rank a movie/series/game first thing after consuming the content without seeing what others scored it on as that makes my score not truly honest. I try to rank things based firstly on my enjoyment of the content and only after, the actual quality of the acting/cinematography and the rest.
 
+[In Bruges](https://letterboxd.com/film/in-bruges/) is one my most favorite movies I saw. Would love to write a script for something [this good](https://www.youtube.com/watch?v=NQolQHtvqjw) played by such great actors.
+
 ## Notes
 
 - [Some film critics to follow](https://www.reddit.com/r/flicks/comments/7lgwp1/having_a_hard_time_finding_quality_critics_on/)
@@ -186,3 +188,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Movies that’ll leave me an emotional mess (2023)](https://www.reddit.com/r/MovieSuggestions/comments/108r7up/a_movie_thatll_leave_me_an_emotional_mess/)
 - [Why The Banshees of Inisherin is the Best Movie of 2022](https://www.youtube.com/watch?v=HbqWtZZlTBw)
 - [Comedy movies without a stupid plot (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10a1m4i/comedy_movies_without_a_stupid_plot/)
+- [How In Bruges is Perfection](https://www.youtube.com/watch?v=NQolQHtvqjw)

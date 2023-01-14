@@ -95,3 +95,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [safejax](https://github.com/alvarobartt/safejax) - Serialize JAX/Flax models with safetensors.
 - [dejax](https://github.com/hr0nix/dejax) - Accelerated replay buffers in JAX.
 - [JaxTon](https://github.com/vopani/jaxton) - 100 exercises to learn JAX.
+- [JMP](https://github.com/deepmind/jmp) - Mixed Precision library for JAX.

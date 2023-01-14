@@ -17,3 +17,4 @@ title: Babashka
 - [Babashka Babooka: Write Command Line Clojure](https://www.braveclojure.com/quests/babooka/) ([HN](https://news.ycombinator.com/item?id=34261010))
 - [Babashka Tasks](https://github.com/ferdinand-beyer/vscode-babashka-tasks) - Run Babashka Tasks from VS-Code.
 - [Obsidian Babashka](https://github.com/filipesilva/obsidian-babashka) - Run Obsidian Clojure(Script) codeblocks in Babashka.
+- [http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http.

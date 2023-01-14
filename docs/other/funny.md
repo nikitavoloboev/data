@@ -1,6 +1,6 @@
 # Funny
 
-Like a few [standup artists](standup.md).
+Like a few [standup artists](standup.md). [Derry Girls](https://trakt.tv/shows/derry-girls) & [In Bruges](https://letterboxd.com/film/in-bruges/) are fun watches.
 
 One thing I observed about more funnier people is that they are more observant of the environment they are in and aren't afraid of using emotions to point light at certain parts of what's happening around them and sharing it.
 

@@ -160,3 +160,4 @@
 - [MDtx](https://github.com/aexol-studio/mdtx) - Transform markdown files to different formats.
 - [Markdown Extract](https://github.com/sean0x42/markdown-extract) - Extract sections of a markdown file. Useful for automatically extracting changelogs.
 - [Datacore](https://github.com/blacksmithgu/datacore) - High-performance data index and query language over Markdown files.
+- [goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) - Extension for goldmark Markdown parser adding support for parsing and rendering wikilinks.

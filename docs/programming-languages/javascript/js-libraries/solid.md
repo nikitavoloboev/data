@@ -203,3 +203,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [SolidJS Crash Course - Building a REST API Client (2023)](https://dev.to/codewithahsan/solidjs-crash-course-building-a-rest-api-client-part-1-57ee)
 - [Solid Query Dev Tools](https://github.com/ardeora/solid-query-devtools)
 - [statesolid](https://github.com/riccardoperra/statesolid) - State management library built on the top of SolidJS reactivity.
+- [Solid Wrap Balancer](https://github.com/nirtamir2/solid-wrap-balancer) - Simple Solid Component That Makes Titles More Readable.

@@ -262,3 +262,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Long Live the King's Gambit | Chessable](https://www.chessable.com/long-live-the-kings-gambit/course/82071/) ([Review](https://www.chesstech.org/2021/nepos-gambit/))
 - [ChessTech News](https://www.chesstech.org/) - Chess & Technology News.
 - [DuckChessZero](https://github.com/petersn/duckchess) - Engine + analysis interface for duck chess that runs entirely in the browser, with the networks trained with tabula rasa self-play, like AlphaZero.
+- [Analog Chess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid.
