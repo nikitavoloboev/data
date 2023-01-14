@@ -675,3 +675,4 @@ title: Linux
 - [Running Manjaro ARM in UTM on M1 Mac (2022)](https://www.appelgriebsch.org/005-utm/)
 - [JuNest](https://github.com/fsquillace/junest) - Lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro.
 - [PMCTrack](https://github.com/jcsaezal/pmctrack) - OS-oriented performance monitoring tool for Linux.
+- [SystemD socket activation lesson learned (2023)](https://blog.podman.io/2023/01/systemd-socket-activation-lesson-learned/) ([Lobsters](https://lobste.rs/s/lhukga/systemd_socket_activation_lesson))

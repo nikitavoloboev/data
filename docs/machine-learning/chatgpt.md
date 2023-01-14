@@ -50,3 +50,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Jax GPT](https://github.com/jenkspt/gpt-jax) - Jax/Flax rewrite of Karpathy's nanoGPT.
 - [Chronology](https://github.com/OthersideAI/chronology) - Library that enables users of OpenAI's GPT-3 language model to more easily build complex language-powered applications.
 - [ChatGPT API Server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server)
+- [How to implement Q&A against your documentation with GPT3, embeddings and Datasette (2023)](https://simonwillison.net/2023/Jan/13/semantic-search-answers/)

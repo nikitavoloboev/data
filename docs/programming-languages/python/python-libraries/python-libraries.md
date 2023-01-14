@@ -1251,7 +1251,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) - Cookiecutter template for poetry managed python projects.
 - [Hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management. ([HN](https://news.ycombinator.com/item?id=31190027))
 - [cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary boilerplate for packaging and building projects separate from the code you intentionally write.
-- [sigstore-python](https://github.com/sigstore/sigstore-python) - Codesigning tool for Python packages.
+- [sigstore-python](https://github.com/sigstore/sigstore-python) - Codesigning tool for Python packages. ([Article](https://blog.trailofbits.com/2023/01/13/sigstore-python/))
 - [Python Monorepo](https://github.com/dermidgen/python-monorepo) - Example of scaffolding and tooling for a Python based monorepo.
 - [typing_copilot](https://github.com/obi1kenobi/typing_copilot) - Helper for starting to type-hint large codebases with mypy.
 - [Dataclasses JSON](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON.

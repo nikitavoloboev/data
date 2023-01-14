@@ -175,3 +175,4 @@
 - [Test pollution and how to fix it (2021)](https://cs-syd.eu/posts/2021-10-23-test-pollution)
 - [Exhausting Exhaustive Testing (2022)](https://www.openmymind.net/Exhausting-Exhaustive-Testing/)
 - [What if writing tests was a joyful experience? (2023)](https://blog.janestreet.com/the-joy-of-expect-tests/) ([HN](https://news.ycombinator.com/item?id=34350749))
+- [Using GitHub Copilot for unit testing](https://www.strictmode.io/articles/using-github-copilot-for-testing) ([Lobsters](https://lobste.rs/s/dfmiko/using_github_copilot_for_unit_testing))
