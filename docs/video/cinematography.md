@@ -49,3 +49,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [When you live and breathe cinema (2022)](https://www.youtube.com/watch?v=xOX_5kbA47s)
 - [Why Andor Feels So Real (2022)](https://www.youtube.com/watch?v=UhgXXhcPQEM)
 - [Is Andor Actually THAT Good? (Yes, and here's why)](https://www.youtube.com/watch?v=im0rqLhSPEE)
+- [Movies with exquisite cinematography (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10cbsy0/movies_with_exquisite_cinematography/)

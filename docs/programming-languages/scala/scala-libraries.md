@@ -228,6 +228,7 @@
 - [Gallia](https://github.com/galliaproject/gallia-core) - Schema-aware Scala library for data transformation.
 - [dependency](https://github.com/coursier/dependency) - Library to parse and handle Java and Scala dependencies.
 - [eff](https://github.com/atnos-org/eff) - Eff monad for cats.
+- [Choam](https://github.com/durban/choam) - Experiments with composable lock-free concurrency.
 
 ## Links
 

@@ -19,3 +19,5 @@
 - [Music Floor's Sheet music](https://musescore.com/user/22634621)
 - [Who are your favorite pianists?](https://www.reddit.com/r/piano/comments/1064tff/who_are_your_favourite_pianists/)
 - [Piano Chord Player](https://muted.io/piano-chords/) ([HN](https://news.ycombinator.com/item?id=34324404))
+- [Chordour](https://chordour.com/) - Learn playing chords.
+- [Ways to learn piano skills mindlessly](https://www.reddit.com/r/pianolearning/comments/10c7jzw/ways_to_learn_piano_skills_mindlessly/)

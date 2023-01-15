@@ -9,6 +9,7 @@ title: Ebiten
 - [Airplanes](https://github.com/m110/airplanes) - 2D shoot 'em up game made with Go, Ebitengine, and donburi. Featuring ECS (Entity Component System).
 - [Bindless](https://github.com/tinne26/bindless) - Magnetic world for Ebitengine's first game jam.
 - [Ezcort Mission](https://sinisterstuf.itch.io/escort-mission) - Follow a dog through a post-apocalytpic wasteland full of zombies. ([Code](https://github.com/sinisterstuf/escort-mission))
+- [RTS game built with Ebiten](https://github.com/ToshaRotten/ebitenGame)
 
 ## Links
 

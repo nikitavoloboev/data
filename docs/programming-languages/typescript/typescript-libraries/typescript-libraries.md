@@ -753,6 +753,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typed/fp](https://github.com/TylorS/typed-fp) - Collection of libraries and tools for building applications using fp-ts v3 and Effect.
 - [TypedEventTarget](https://github.com/DerZade/typescript-event-target) - Strictly typed EventTarget that directly extends EventTarget to function as a drop-in replacement.
 - [nason](https://github.com/Simonwep/nason) - Ultra tiny serializer / encoder with plugin-support. Useful to build binary files containing images, strings, numbers and more.
+- [Clipboard TS](https://github.com/wesbos/clipboard-ts) - Take TS via argv[2], convert to JS and pass back via process.stdout.
 
 ## Links
 

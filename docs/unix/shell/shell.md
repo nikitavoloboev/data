@@ -4,13 +4,15 @@ title: Unix Shell
 
 # [Unix Shell](http://en.wikipedia.org/wiki/Unix_shell)
 
-Use [Warp](https://www.warp.dev/) as my terminal & [Zsh](zsh/zsh.md) as my shell. [Fish](fish.md) & [Oil](https://www.oilshell.org/) seem like great shell alternatives. [Pipr](https://github.com/elkowar/pipr) seems useful.
+Use [Warp](warp.md) as my terminal & [Fish](fish.md) as my shell.
+
+[Zsh](zsh/zsh.md) & [Oil](https://www.oilshell.org/) seem nice too. [Explain Shell](https://explainshell.com/) is useful.
 
 [ShellCheck](https://github.com/koalaman/shellcheck) is great for linting scripts. [How Warp works](https://www.warp.dev/blog/how-warp-works) is a great read. [sh](https://github.com/mvdan/sh) is nice Go lib to parse Shell code.
 
 [rc](https://manpages.ubuntu.com/manpages/bionic/man1/rc.1.html) shell from [Plan 9 OS](https://9p.io/plan9/) is interesting too.
 
-[fzf](https://github.com/junegunn/fzf), [Atuin](https://github.com/ellie/atuin) & [shell2http](https://github.com/msoap/shell2http) are great additions to the shell.
+[fzf](https://github.com/junegunn/fzf), [Atuin](https://github.com/ellie/atuin), [shell2http](https://github.com/msoap/shell2http) & [Pipr](https://github.com/elkowar/pipr) &  are great additions to the shell.
 
 Liked [this article](https://thevaluable.dev/guide-terminal-shell-console/) as intro to shell.
 

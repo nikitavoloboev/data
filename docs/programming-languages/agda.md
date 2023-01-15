@@ -117,3 +117,4 @@ title: Agda
 - [Semi-Simplicial Types in Agda](https://github.com/FrozenWinters/SSTs)
 - [Agda Cubical Experiments](https://github.com/ncfavier/cubical-experiments)
 - [Komachi](https://github.com/Lysxia/komachi) - Parser library in Agda, with coinductive machines and automatic differentiation.
+- [Flipper](https://github.com/j-towns/flipper) - Reversible programming in Agda.
