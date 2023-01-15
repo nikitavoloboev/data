@@ -10,6 +10,8 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 
 Exploring building fast web apps with [Solid](../../programming-languages/javascript/js-libraries/solid.md), [Hono](https://github.com/honojs/hono) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
 
+[Wildebeest](https://github.com/cloudflare/wildebeest) is nice demo of using Cloudflare tech for everything.
+
 ## OSS tools build with CW
 
 - [Worker News](https://github.com/worker-tools/worker-news) - Drop in replacement for Hacker News with support for dark mode, quotes in comments, user identicons and submission favicons.

@@ -320,3 +320,4 @@ I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQl
 - [Ask HN: How to get better at writing? (2022)](https://news.ycombinator.com/item?id=34127742)
 - [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models.
 - [JK Rowling story telling framework](https://twitter.com/nathanbaugh27/status/1610277536574963713)
+- [How to Write English Prose (2023)](https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/) ([HN](https://news.ycombinator.com/item?id=34363974))

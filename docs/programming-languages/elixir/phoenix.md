@@ -138,3 +138,4 @@ title: Phoenix framework
 - [Phoenix/Ecto](https://github.com/phoenixframework/phoenix_ecto) - Integrates Phoenix with Ecto, implementing all relevant protocols.
 - [Naming Elixir Phoenix context functions (2023)](https://www.stephenlewis.me/blog/naming-phoenix-context-functions) ([HN](https://news.ycombinator.com/item?id=34336396))
 - [content](https://github.com/dwyl/content) - Plug to add Content Negotiation to any Phoenix App so you can render HTML or JSON for the same route.
+- [Async processing in LiveView (2023)](https://fly.io/phoenix-files/liveview-async-task/)

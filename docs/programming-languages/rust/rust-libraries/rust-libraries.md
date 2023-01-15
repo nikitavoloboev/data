@@ -8,7 +8,7 @@
 
 [CXX](https://github.com/dtolnay/cxx) & [Safer FFI](https://github.com/getditto/safer_ffi) are nice for writing safe rust bindings.
 
-[self_update](https://github.com/jaemk/self_update) seems nice for updating rust binaries.
+[self_update](https://github.com/jaemk/self_update) seems nice for updating rust binaries. [Linfa](https://github.com/rust-ml/linfa) seems nice for ML.
 
 [Blessed.rs](https://blessed.rs/crates) has nice list of good crates.
 
@@ -817,7 +817,7 @@
 - [autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust.
 - [Neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [Juice](https://github.com/spearow/juice) - Hacker's Machine Learning Engine.
-- [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
+- [linfa](https://github.com/rust-ml/linfa) - Rust machine learning framework.
 - [L2](https://github.com/bkkaggle/L2) - PyTorch-style Tensor+Autograd library written in Rust.
 - [Fwumious Wabbit](https://github.com/outbrain/fwumious_wabbit) - Fast on-line machine learning toolkit written in Rust.
 - [Mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks.

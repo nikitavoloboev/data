@@ -1041,3 +1041,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Ask HN: What are the foundational texts for learning about AI/ML/NN? (2023)](https://news.ycombinator.com/item?id=34312248)
 - [ML Papers of The Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [Efficient Deep Learning](https://github.com/MingSun-Tse/Efficient-Deep-Learning) - Collection of recent methods on (deep) neural network compression and acceleration.
+- [Geoffrey Hinton publishes new deep learning algorithm (2023)](https://www.infoq.com/news/2023/01/hinton-forward-algorithm/) ([HN](https://news.ycombinator.com/item?id=34350662))

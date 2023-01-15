@@ -514,7 +514,7 @@
 - [Fetch Event Source](https://github.com/Azure/fetch-event-source) - Better API for making Event Source requests, with all the features of fetch().
 - [rafz](https://github.com/pmndrs/rafz) - Coordinate requestAnimationFrame calls across your app and/or libraries.
 - [p-state](https://github.com/sindresorhus/p-state) - Inspect the state of a promise.
-- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS. ([Web](https://copy.sh/v86/))
+- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS. ([Web](https://copy.sh/v86/)) ([HN](https://news.ycombinator.com/item?id=34373635))
 - [Notyf](https://github.com/caroso1222/notyf) - Minimalistic, responsive, vanilla JavaScript library to show toast notifications.
 - [Moveable](https://github.com/daybrush/moveable) - Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable.
 - [Execa](https://github.com/sindresorhus/execa) - Process execution for humans.

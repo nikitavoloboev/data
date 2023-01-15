@@ -104,3 +104,4 @@ Liked [this audio/streaming setup](https://matthewrocklin.com/writing/audio-visu
 - [subd](https://github.com/tjdevries/subd) - Create a link between the various ways viewers support you as a live content creator.
 - [Tau](https://git.sr.ht/~conses/tau) - Alternative front-end to various streaming sites.
 - [YAST](https://github.com/qascade/yast) - TUI utility that will let you stream your favorite movies/tv-series in one command.
+- [Twitch Fell Behind (2023)](https://fasterthanli.me/articles/twitch-fell-behind)

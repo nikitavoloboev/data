@@ -236,3 +236,4 @@ title: Genomics
 - [Griffith Lab](https://griffithlab.org/) ([GitHub](https://github.com/griffithlab))
 - [plastiC](https://github.com/Finn-Lab/plastiC) - Snakemake workflow for recovery of plastid genomes from metagenomic samples.
 - [RGT](https://github.com/CostaLab/reg-gen) - Regulatory Genomics Toolbox.
+- [Circlator](https://github.com/sanger-pathogens/circlator) - Tool to circularize genome assemblies.

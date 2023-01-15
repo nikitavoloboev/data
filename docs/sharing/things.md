@@ -40,3 +40,4 @@
 - [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/) ([HN](https://news.ycombinator.com/item?id=30679935))
 - [Ask HN: What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)
 - [Ask HN: What $500-2500 product improved your 2022](https://news.ycombinator.com/item?id=34279146)
+- [Ask HN: What are some of your “buy it for life” purchases? (2023)](https://news.ycombinator.com/item?id=34378254)
