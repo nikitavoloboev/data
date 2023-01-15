@@ -51,3 +51,4 @@ javascript: ((b) =>
 - [userscript.zone](https://www.userscript.zone/) - Search for userscripts by URL, domain or search term. ([HN](https://news.ycombinator.com/item?id=31566061))
 - [HN Anti Paywall](https://github.com/MostlyEmre/hn-anti-paywall) - Userscript that adds archive URLs below the paywalled HN submissions. ([HN](https://news.ycombinator.com/item?id=33794672))
 - [Hacker News userscript to make this site more legible](https://github.com/mgladdish/website-customisations/tree/main/news.ycombinator.com) ([HN](https://news.ycombinator.com/item?id=34037462))
+- [Bookmarklet Editor](https://www.gibney.org/bookmarklet_editor)

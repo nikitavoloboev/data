@@ -486,3 +486,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix RFC draft for auto-calling packages in nixpkgs](https://github.com/nixpkgs-architecture/simple-package-paths)
 - [nix-top](https://github.com/samueldr/nix-top) - Script to help users figure out what's building.
 - [debrepo](https://github.com/markpash/debrepo) - Nix flake that is used to create an apt repository for debian-based distros containing a small selection of packages.
+- [Setting up my machines: nix style (2023)](https://aldoborrero.com/posts/setting-up-my-machines-nix-style/) ([Code](https://github.com/aldoborrero/templates/tree/main/templates/blog/nix/setting-up-machines-nix-style))

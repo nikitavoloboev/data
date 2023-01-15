@@ -6,6 +6,8 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 
 [Taichi](https://github.com/taichi-dev/taichi) is interesting for writing parallel math heavy code.
 
+I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage dependencies.
+
 ## Web
 
 - [Granian](https://github.com/emmett-framework/granian) - Rust HTTP server for Python applications.
@@ -1330,3 +1332,4 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/) ([Code](https://github.com/pypackaging-native/pypackaging-native)) ([HN](https://news.ycombinator.com/item?id=34236919))
 - [autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically adds types and inserts the right annotations.
 - [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python.
+- [How to improve Python packaging (2023)](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/) ([HN](https://news.ycombinator.com/item?id=34390585))

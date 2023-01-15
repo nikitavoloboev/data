@@ -112,3 +112,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [FM synth reverse-engineering](https://github.com/jwt27/esfm)
 - [vitOTT](https://github.com/edgjj/vitOTT) - Multiband compressor from famous spectral warping synthesizer.
 - [Go-MeltySynth](https://github.com/sinshu/go-meltysynth) - SoundFont MIDI synthesizer written in Go.
+- [osci-render](https://github.com/jameshball/osci-render) - Synthesizer for making music by drawing objects on an oscilloscope using audio.

@@ -13,3 +13,4 @@
 - [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake) ([HN](https://news.ycombinator.com/item?id=33667199))
 - [WatchShaker](https://github.com/ezefranca/WatchShaker) - Simple motion detector for (watchOS) shake gesture.
 - [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch.
+- [Electric Sidecar](https://github.com/jverkoey/ElectricSidecar) - Unofficial companion app for the Porsche Taycan.

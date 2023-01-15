@@ -168,3 +168,4 @@ title: Zig
 - [Zig Aarch64 Disassembler](https://github.com/devins2518/zig-dis-aarch64)
 - [zdb](https://github.com/kubkon/zdb) - Simple debugger in Zig for Zig.
 - [A Zig Diary (2023)](https://kihlander.net/post/a-zig-diary/)
+- [Thoughts on Zig (2023)](https://www.youtube.com/watch?v=zlWqpRTgXBg)

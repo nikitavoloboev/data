@@ -157,3 +157,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Fedigardens](https://github.com/alicerunsonfedora/fedigardens) - Simplified, discussion-driven Mastodon app for iOS. ([Web](https://fedigardens.app/))
 - [Wildebeest](https://github.com/cloudflare/wildebeest) - ActivityPub and Mastodon-compatible server. ([Lobsters](https://lobste.rs/s/1ouczs/cloudflare_wildebeest_wildebeest_is))
 - [Containerized Mastodon server on NixOS (2023)](https://blog.cyplo.dev/posts/2023/01/mastodon-nixos/)
+- [Mastodon on AWS](https://github.com/widdix/mastodon-on-aws)

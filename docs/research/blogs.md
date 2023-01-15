@@ -301,6 +301,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Karl Seguin](https://www.openmymind.net/)
 - [Tony Finch](https://dotat.at/)
 - [Matt Keeter](https://www.mattkeeter.com/blog/)
+- [Geoffrey Litt](https://www.geoffreylitt.com/#writing)
 
 ## Notes
 

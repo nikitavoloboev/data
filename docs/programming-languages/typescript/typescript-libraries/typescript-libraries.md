@@ -9,6 +9,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## DB
 
 - [cachified](https://github.com/Xiphe/cachified) - Wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support.
+- [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL.
 - [better-sql.ts](https://github.com/beenotung/better-sql) - Generate SQL query from a concise query syntax inspired from EdgeDB and GraphQL.
 - [SchemaRT](https://github.com/codemariner/schemart) - Generate TypeScript runtime types from your database schema.
 - [joist-ts](https://github.com/stephenh/joist-ts) - TypeScript ORM for Postgres.

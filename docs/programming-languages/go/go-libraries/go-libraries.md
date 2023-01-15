@@ -2007,6 +2007,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go-Wiki](https://github.com/trietmn/go-wiki) - Go Wikipedia API wrapper.
 - [curlreq](https://github.com/k1LoW/curlreq) - Creates \*http.Request from curl command.
 - [goconfig](https://github.com/leonidasdeim/goconfig) - Lightweight on-the-fly configuration library for Go applications.
+- [goset](https://github.com/b1tkeeper/goset) - Fast and Safe Implementation of Set for Go.
 
 ## Links
 

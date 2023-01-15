@@ -126,3 +126,4 @@
 - [gc-arena](https://github.com/kyren/gc-arena) - Experimental system for rust garbage collection.
 - [Does Rust have the ultimate memory management solution? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/102ugt7/does_rust_have_the_ultimate_memory_management/)
 - [Pictures of a working garbage collector (2023)](https://www.oilshell.org/blog/2023/01/garbage-collector.html) ([HN](https://news.ycombinator.com/item?id=34350260))
+- [ugc](https://github.com/bullno1/ugc) - Single-header incremental garbage collector library.

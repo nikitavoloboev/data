@@ -409,6 +409,7 @@
 - [Monadic Bang](https://github.com/JakobBruenker/monadic-bang) - GHC plugin to desugar ! into do-notation.
 - [Effects Landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape) - Effects libraries in Haskell.
 - [posix-api](https://github.com/andrewthad/posix-api) - Haskell posix bindings.
+- [Shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell.
 
 ## Notes
 

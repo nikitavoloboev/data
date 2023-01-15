@@ -273,6 +273,7 @@
 - [ContEx](https://github.com/mindok/contex) - Charting and graphing library for Elixir.
 - [Definject](https://github.com/jechol/definject) - Unobtrusive Dependency Injector for Elixir.
 - [Jaxon](https://github.com/boudra/jaxon) - Streaming JSON parser for Elixir.
+- [Matcha](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
 
 ## Links
 

@@ -217,3 +217,4 @@ title: Terraform
 - [Useful Terraform modules](https://github.com/in4it/terraform-modules)
 - [Tfstate](https://github.com/alex067/tfstate) - Wrapper around Terraform state commands to provide guard rails.
 - [Terrateam](https://terrateam.io/) - Terraform Automation for Teams.
+- [Terranix](https://terranix.org/) - Terraform in nix.
