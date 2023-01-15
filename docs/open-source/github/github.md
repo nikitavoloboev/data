@@ -504,3 +504,4 @@ Awesome List
 - [6 Practices for Effective Pull Requests (2019)](https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/)
 - [gh-worktree](https://github.com/despreston/gh-worktree) - Worktrees and GitHub.
 - [Gist Database](https://github.com/TimMikeladze/gist-database) - Transform gist into your personal key/value datastore.
+- [New GitHub CLI extension tools (2023)](https://github.blog/2023-01-13-new-github-cli-extension-tools/)

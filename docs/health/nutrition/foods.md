@@ -176,3 +176,4 @@ Here is a list of various pescatarian foods that I use to experiment and cook wi
 - [Foods that a country is falsely known for](https://www.reddit.com/r/Cooking/comments/zbq6s9/foods_that_a_country_is_falsely_known_for/)
 - [Is it true that some oils are really unhealthy?](https://www.reddit.com/r/nutrition/comments/zfj65e/is_it_true_that_some_oils_are_really_unhealthy/)
 - [Food you introduced that made a big change?](https://www.reddit.com/r/nutrition/comments/zi0azf/what_is_the_most_important_food_you_introduced_in/)
+- [Grain farming goes indoors (2023)](https://modernfarmer.com/2023/01/grain-farming-goes-indoors/) ([HN](https://news.ycombinator.com/item?id=34384979))

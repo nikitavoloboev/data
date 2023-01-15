@@ -49,6 +49,7 @@
 - [orville](https://github.com/flipstone/orville) - Yet another ORM for haskell.
 - [PLHaskell](https://github.com/ed-o-saurus/PLHaskell) - Haskell extension for PostgreSQL that allows embedded Haskell code.
 - [MongoDB](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell.
+- [HDBC](https://github.com/hdbc/hdbc) - Haskell Database Connectivity.
 
 ## Test
 

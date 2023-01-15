@@ -1,6 +1,6 @@
 # Internationalization
 
-[SimpleLocalize](https://simplelocalize.io/) & [Crowdin](https://crowdin.com/) are nice.
+[SimpleLocalize](https://simplelocalize.io/), [Crowdin](https://crowdin.com/) & [Inlang](https://github.com/inlang/inlang) are interesting.
 
 ## Notes
 
@@ -55,3 +55,4 @@
 - [i18n.js](https://github.com/fnando/i18n) - Small library to provide the I18n translations on the JavaScript.
 - [Zod Internationalization](https://github.com/aiji42/zod-i18n) - Used to translate Zod's default error messages.
 - [Talkr](https://github.com/DoneDeal0/Talkr) - Lightest i18n provider for React applications. It supports Typescript, provides autocompletion, has 0 dependencies, and is very easy to use.
+- [Designing for the World: An Introduction to Localization by Spotify (2022)](https://spotify.design/article/designing-for-the-world-an-introduction-to-localization)

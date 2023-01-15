@@ -2005,6 +2005,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [jsonapi](https://github.com/google/jsonapi) - Serializer/deserializer for JSON payloads that comply to the JSON API spec.
 - [Zen](https://github.com/kyoto-framework/zen) - Utility-first package for Go.
 - [Go-Wiki](https://github.com/trietmn/go-wiki) - Go Wikipedia API wrapper.
+- [curlreq](https://github.com/k1LoW/curlreq) - Creates \*http.Request from curl command.
+- [goconfig](https://github.com/leonidasdeim/goconfig) - Lightweight on-the-fly configuration library for Go applications.
 
 ## Links
 
@@ -2185,3 +2187,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Template for Go services](https://github.com/maragudk/service)
 - [Go Backend Clean Architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - Go Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [String to Integer (atoi) in Go (2023)](https://www.openmymind.net/String-To-Integer-atoi-in-Go/)
+- [Designing Go Libraries (2022)](https://abhinavg.net/2022/12/06/designing-go-libraries/)

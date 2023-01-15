@@ -38,3 +38,4 @@ title: Language Server Protocol
 - [FFI Navigator](https://github.com/tqchen/ffi-navigator)
 - [Embedded Language Tools based on Volar Framework](https://github.com/volarjs/language-tools-starter)
 - [Multi LSP Proxy](https://github.com/messense/multi-lsp-proxy) - LSP proxy to multiple language servers.
+- [Language Server implementation for SQL written in Rust](https://github.com/matthias-Q/rusqlls)

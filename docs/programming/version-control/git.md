@@ -376,7 +376,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Chain](https://github.com/Shopify/git-chain) - Tool to rebase multiple Git branches based on the previous one.
 - [mit](https://github.com/mitchellwrosen/mit) - Git wrapper with a streamlined UX.
 - [Git is my buddy: Effective Git as a solo developer (2021)](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/) ([HN](https://news.ycombinator.com/item?id=26239068))
-- [git-gone](https://github.com/lunaryorn/git-gone) - Cleanup stale Git branches of pull requests.
+- [git-gone](https://github.com/swsnr/git-gone) - Cleanup stale Git branches of pull requests.
 - [Stacked Git](https://github.com/stacked-git/stgit) - Application for managing Git commits as a stack of patches. ([Web](https://stacked-git.github.io/))
 - [git-notify](https://github.com/jevakallio/git-notify) - Communicate important updates to your team via git commit messages.
 - [diff2html](https://github.com/rtfpessoa/diff2html) - Generates pretty HTML diffs from git diff or unified diff output. ([Web](https://diff2html.xyz/))
@@ -627,3 +627,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [autocommit](https://github.com/abi/autocommit) - AI-Generated Git Commit Messages.
 - [Git packaging sources: state of the art (2023)](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
 - [Where are my Git UI features from the future? (2023)](https://blog.waleedkhan.name/git-ui-features/) ([HN](https://news.ycombinator.com/item?id=34301543))
+- [parse-git-diff](https://github.com/yeonjuan/parse-git-diff) - Parse git diff.

@@ -809,6 +809,8 @@
 - [ClusterManagers](https://github.com/JuliaParallel/ClusterManagers.jl) - Support for different job queue systems commonly used on compute clusters.
 - [StringViews](https://github.com/JuliaStrings/StringViews.jl) - String-like views of arbitrary Julia byte arrays.
 - [Highlights](https://github.com/JuliaDocs/Highlights.jl) - Source code highlighter for Julia.
+- [PopGen](https://github.com/BioJulia/PopGen.jl) - Population Genetics in Julia.
+- [LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - Common framework for implementing and using log densities for inference.
 
 ## Links
 

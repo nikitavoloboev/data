@@ -31,3 +31,4 @@
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - Curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [Project: the Automatic #plotloop Machine (2022)](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
 - [Scalable Pen Plotter](https://github.com/ufficioprogettiperduti/Scalable-Pen-Plotter)
+- [hpgl](https://github.com/djipco/hpgl) - Node.js library to communicate with HPGL-compatible plotters and printers.

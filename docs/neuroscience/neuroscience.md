@@ -166,6 +166,8 @@ Love [Alain Chedotal](https://twitter.com/AlainChedotal)'s research.
 - [What was the most impactful Neuroscience article, discovery, or content of the year? (2022)](https://www.reddit.com/r/neuroscience/comments/zh7yae/what_was_the_most_impactful_neuroscience_article/)
 - [Longitudinal analysis reveals high prevalence of Epstein-Barr virus associated with multiple sclerosis (2022)](https://www.science.org/doi/10.1126/science.abj8222)
 - [Body and mind: how somatic feedback signals shape brain activity and cognition (2022)](https://link.springer.com/article/10.1007/s00424-022-02778-5)
+- [FreeSurfer](https://github.com/Deep-MI/FastSurfer) - Fast and accurate deep-learning based neuroimaging pipeline.
+- [Deep MI Lab](https://deep-mi.org/) ([GitHub](https://github.com/Deep-MI))
 
 ## Images
 

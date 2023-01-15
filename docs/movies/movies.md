@@ -189,3 +189,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Why The Banshees of Inisherin is the Best Movie of 2022](https://www.youtube.com/watch?v=HbqWtZZlTBw)
 - [Comedy movies without a stupid plot (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10a1m4i/comedy_movies_without_a_stupid_plot/)
 - [How In Bruges is Perfection](https://www.youtube.com/watch?v=NQolQHtvqjw)
+- [The Top 10 Movies of 2022](https://www.youtube.com/watch?v=zQ29UhAolHY)

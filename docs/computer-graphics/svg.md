@@ -2,6 +2,8 @@
 
 [SVGator](https://www.svgator.com/), [HTML 2 SVG](https://github.com/fathyb/html2svg) [Satori](https://github.com/vercel/satori) are nice.
 
+[SSSVG](https://fffuel.co/sssvg/) is great interactive SVG reference.
+
 ## Links
 
 - [Zdog](https://zzz.dog/) - Flat, round, designer-friendly pseudo-3D engine. ([React bindings](https://github.com/drcmda/react-zdog))
@@ -185,3 +187,4 @@
 - [Online SVG Animation Creator](https://bestsnip.com/svg_animation/) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/z87md3/online_svg_animation_creator/))
 - [Draw SVG rope using JavaScript (2022)](https://muffinman.io/blog/draw-svg-rope-using-javascript/) ([HN](https://news.ycombinator.com/item?id=34197379))
 - [usvg](https://github.com/ChengCat/usvg) - SVG simplification tool.
+- [SSSVG: An Interactive SVG Reference](https://fffuel.co/sssvg/)

@@ -1043,4 +1043,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Efficient Deep Learning](https://github.com/MingSun-Tse/Efficient-Deep-Learning) - Collection of recent methods on (deep) neural network compression and acceleration.
 - [Geoffrey Hinton publishes new deep learning algorithm (2023)](https://www.infoq.com/news/2023/01/hinton-forward-algorithm/) ([HN](https://news.ycombinator.com/item?id=34350662))
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanations to key concepts in ML.
-- [Tracr: Compiled Transformers as a Laboratory for Interpretability (2023)](https://arxiv.org/abs/2301.05062)
+- [Tracr: Compiled Transformers as a Laboratory for Interpretability (2023)](https://arxiv.org/abs/2301.05062) ([Code](https://github.com/deepmind/tracr))

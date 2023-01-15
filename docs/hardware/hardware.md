@@ -396,3 +396,4 @@
 - [New timepiece for a Classic Mac (2022)](https://www.quantulum.co.uk/blog/new-timepiece-for-a-classic-mac-part-1/)
 - [Ask HN: Where to get help with a hardware idea? (2023)](https://news.ycombinator.com/item?id=34325633)
 - [HPCToolkit](https://gitlab.com/hpctoolkit/hpctoolkit) - Integrated suite of tools for measurement and analysis of program performance.
+- [ZSWatch](https://github.com/jakkra/ZSWatch) - Open-source Zephyr-based smartwatch. ([HN](https://news.ycombinator.com/item?id=34384941))

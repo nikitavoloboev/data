@@ -83,3 +83,4 @@ title: Search Engine Optimization
 - [Almost all searches on my independent search engine are now from SEO spam bots (2022)](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/) ([HN](https://news.ycombinator.com/item?id=31395231))
 - [Improving SEO without knowing where to start (2022)](https://www.htmhell.dev/adventcalendar/2022/8/)
 - [SerpBear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App.
+- [How I Ruined My SEO (2023)](https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo) ([HN](https://news.ycombinator.com/item?id=34389421))

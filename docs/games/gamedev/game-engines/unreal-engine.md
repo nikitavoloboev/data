@@ -49,3 +49,4 @@ title: Unreal Engine
 - [Pixel Streaming Cloud Guide](https://github.com/TensorWorks/PixelStreamingCloudGuide)
 - [UE5 plugin with stable diffusion integration](https://github.com/albertotrunk/ue-stable-diffusion)
 - [Why Unreal Engine 5.1 is a Deal (2022)](https://www.youtube.com/watch?v=FUGqzE6Je5c) ([HN](https://news.ycombinator.com/item?id=33762000))
+- [Unreal Engine 5 – Full Course for Beginners (2023)](https://www.youtube.com/watch?v=6UlU_FsicK8)

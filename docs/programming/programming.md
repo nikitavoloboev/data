@@ -644,6 +644,6 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Prefer Composition Over Inheritance - What Does It Mean? (2022)](https://www.youtube.com/watch?v=hxGOiiR9ZKg)
 - [Making an Algorithm 16,062 Times Faster (2023)](https://www.youtube.com/watch?v=U16RnpV48KQ)
 - [Things they didn’t teach you about software engineering (2023)](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/) ([HN](https://news.ycombinator.com/item?id=34282339))
-- [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
+- [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/) ([HN](https://news.ycombinator.com/item?id=34368597))
 - [Ask HN: Do you hate software engineering but love programming? (2023)](https://news.ycombinator.com/item?id=34366610)
 - [Locality of Behavior is important](https://htmx.org/essays/locality-of-behaviour/)

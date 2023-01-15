@@ -1008,7 +1008,7 @@
 - [abcjs](https://github.com/paulrosen/abcjs) - JavaScript library for rendering standard music notation in a browser.
 - [object-sizeof](https://github.com/miktam/sizeof) - Get size of a JavaScript object.
 - [fmu](https://github.com/bluwy/fmu) - Collection of JS module utilities written in Rust.
-- [Constrain](https://github.com/andrewcmyers/constrain) - Responsive, animated figures in JavaScript/HTML canvases.
+- [Constrain](https://github.com/andrewcmyers/constrain) - Responsive, animated figures in JavaScript/HTML canvases. ([HN](https://news.ycombinator.com/item?id=34388670))
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.
 - [nkeys.js](https://github.com/nats-io/nkeys.js) - Public-key signature system based on Ed25519 for the NATS ecosystem system for JavaScript.
 - [p-timeout](https://github.com/sindresorhus/p-timeout) - Timeout a promise after a specified amount of time.

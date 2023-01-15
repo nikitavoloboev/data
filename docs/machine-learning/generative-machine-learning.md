@@ -304,3 +304,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Karlo](https://github.com/kpthedev/stable-karlo) - Upscaling Karlo text-to-image generation using Stable Diffusion v2.
 - [StoryTeller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech.
 - [Diffusion for beginners](https://github.com/ozanciga/diffusion-for-beginners)
+- [Neural Frames](https://www.neuralframes.com/) - Create your own video clips with Stable Diffusion.
+- [Collection of generative AI applications](https://github.com/ai-collection/ai-collection)

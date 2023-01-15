@@ -752,3 +752,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Garaga](https://github.com/keep-starknet-strange/garaga) - Efficient pairing library, written in Cairo.
 - [Gambit](https://github.com/Certora/gambit) - Certora's Mutation Generator for Solidity.
 - [Papyrus](https://github.com/starkware-libs/papyrus) - StarkNet full node written in Rust.
+- [AA - Bundler](https://github.com/Vid201/aa-bundler) - EIP-4337 (Account Abstraction) - Bundler implementation in Rust.

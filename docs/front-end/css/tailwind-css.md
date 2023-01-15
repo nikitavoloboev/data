@@ -189,3 +189,4 @@ I always value readability and extendability over being able to write/edit thing
 - [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=34194759)) ([Code](https://github.com/sailboatui/sailboatui))
 - [stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast.
 - [Don't use Tailwind for your Design System (2021)](https://sancho.dev/blog/tailwind-and-design-systems) ([HN](https://news.ycombinator.com/item?id=34336576))
+- [Tailwind Tagged](https://github.com/jacob-ebey/tailwind-tagged) - Way to use tailwind by writing standard CSS.

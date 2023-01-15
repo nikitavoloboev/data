@@ -225,6 +225,7 @@
 - [Multipart](https://github.com/abonander/multipart) - Backend-agnostic extension for file uploads in HTTP libraries for Rust.
 - [minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
 - [eightfish](https://github.com/miketang84/eightfish) - Framework for open web.
+- [jittr](https://github.com/Hum-Systems/jittr) - Binary heap based jitter buffer implementation for zero latency udp/rtp streams.
 
 ## Auth
 
@@ -240,7 +241,7 @@
 
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
-- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup)) ([Yew Hooks](https://github.com/jetli/yew-hooks)) ([Awesome](https://github.com/jetli/awesome-yew))
+- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup)) ([Yew Hooks](https://github.com/jetli/yew-hooks)) ([Awesome](https://github.com/jetli/awesome-yew)) ([Yew OAuth2](https://github.com/ctron/yew-oauth2)) ([API Hook](https://github.com/mara214/yew-api-hook))
 - [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
@@ -405,6 +406,7 @@
 - [Xline](https://github.com/datenlord/Xline) - Geo-distributed KV store for metadata management.
 - [Butane](https://github.com/Electron100/butane) - ORM for Rust with a focus on simplicity and on writing Rust, not SQL.
 - [OpenSrv](https://github.com/datafuselabs/opensrv) - Async bindings for emulating database servers. Currently, support for ClickHouse and MySql/MariaDB is provided.
+- [cdbc](https://github.com/co-rs/cdbc) - Coroutine Database driver Connectivity.based on mco.
 
 ## Video
 
@@ -810,6 +812,7 @@
 - [esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
 - [critical-section](https://github.com/rust-embedded/critical-section) - Pluggable critical section.
 - [stm32-data](https://github.com/embassy-rs/stm32-data) - Produce clean machine-readable data about the STM32 microcontroller families.
+- [bl602-hal](https://github.com/sipeed/bl602-hal) - Hardware Abstract Layer for BL602 RISC-V WiFi SoC in embedded Rust.
 
 ## ML
 
@@ -2520,6 +2523,8 @@
 - [how-u-doin](https://github.com/kdr-aus/how-u-doin) - Progress reporting abstraction for Rust.
 - [Serde JSON Borrow](https://github.com/PSeitz/serde_json_borrow) - Fast JSON deserialization on borrowed data.
 - [tracery](https://github.com/caranatar/tracery-rs) - Rust implementation of the tracery generative grammar language.
+- [ab-av1](https://github.com/alexheretic/ab-av1) - AV1 video encoding tool with fast VMAF sampling & automatic encoder crf calculation. Uses ffmpeg, svt-av1 & vmaf.
+- [gethostname.rs](https://github.com/swsnr/gethostname.rs) - gethostname() for all systems.
 
 ## Cargo Plugins
 

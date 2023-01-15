@@ -101,6 +101,8 @@
 - [Polyhedra Explorer](https://github.com/elizarov/PolyhedraExplorer) - Interactive polyhedra explorer with animated transformations.
 - [Lets-Plot](https://github.com/JetBrains/lets-plot) - Open-source plotting library for statistical data.
 - [Kopykat](https://github.com/kopykat-kt/kopykat) - Utilities for more pleasant immutable data in Kotlin.
+- [KoWasm](https://github.com/sdeleuze/kowasm) - WASI and WebAssembly Component Model support for Kotlin/Wasm.
+- [Wisp](https://github.com/cashapp/wisp) - Utilities, including config, logging, feature flags and more.
 
 ## Links
 

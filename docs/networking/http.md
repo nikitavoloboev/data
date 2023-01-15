@@ -319,3 +319,4 @@ title: HTTP
 - [HTTP/2 performance revisited on the Wikimedia CDN (2022)](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/) ([Lobsters](https://lobste.rs/s/fx3988/http_2_performance_revisited_on))
 - [HTTP/3 Prioritization Demystified (2022)](https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/) ([HN](https://news.ycombinator.com/item?id=34231934))
 - [HTTPie AI (2023)](https://httpie.io/blog/ai)
+- [Peeking into HTTPS Traffic with a Proxy (2022)](https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy)

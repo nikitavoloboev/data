@@ -18,3 +18,4 @@ I also support [Archive.org](https://archive.org/donate/) & [Wikipedia](https://
 - [Deed](https://www.joindeed.com/) - Helping companies retain employees by doing good deeds.
 - [What I learnt building a software company in volunteering (2021)](https://tycho.substack.com/p/building-a-volunteering-saas-company)
 - [Ask HN: How to give back as a software engineer? (2022)](https://news.ycombinator.com/item?id=33450538)
+- [Ask HN: How do you give back? (2023)](https://news.ycombinator.com/item?id=34383350)

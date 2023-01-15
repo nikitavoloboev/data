@@ -632,3 +632,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Apple Books digital narration](https://authors.apple.com/support/4519-digital-narration-audiobooks) ([HN](https://news.ycombinator.com/item?id=34256592))
 - [I don't read web articles anymore, but I read books (2023)](https://news.ycombinator.com/item?id=34309671)
 - [EPUB 3 Samples](http://idpf.github.io/epub3-samples/) ([Code](https://github.com/IDPF/epub3-samples))
+- [Doc Search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3.

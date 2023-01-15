@@ -13,3 +13,4 @@ title: SurrealDB
 - [SurrealDB Go](https://github.com/surrealdb/surrealdb.go) - Official SurrealDB library for Go.
 - [SurrealDB Rust](https://github.com/surrealdb/surrealdb.rs)
 - [Building Awesome Desktop App with Rust, Tauri, and SurrealDB (2022)](https://www.youtube.com/watch?v=BY_ZjPGqJJk)
+- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground for Desktop.

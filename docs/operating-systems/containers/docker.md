@@ -8,6 +8,8 @@ title: Docker
 
 Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432) for [Nix](../../package-managers/nix/nix.md) which can even [build Docker images](https://lobste.rs/s/ilgax7/use_flake_nix_not_dockerfile) if you need them.
 
+I use [GitHub container registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry) to store docker containers.
+
 ## Links
 
 - [Docker Docs](https://docs.docker.com/) ([Code](https://github.com/docker/docker.github.io))

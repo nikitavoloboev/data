@@ -337,3 +337,4 @@ title: Svelte
 - [Dapper UI](https://github.com/Bastian/dapper-ui) - Sleek and modern UI component library for Svelte.
 - [Svelte Virtual Scroll List](https://github.com/v1ack/svelte-virtual-scroll-list)
 - [List of awesome Svelte stores](https://github.com/samuba/awesome-svelte-stores)
+- [Svelte Image Gallery](https://github.com/react2svelte/image-gallery)

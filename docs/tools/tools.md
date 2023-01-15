@@ -815,3 +815,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Audio Development Tools List](https://github.com/Derrick-Yuan/Audio-Development-Tools-List)
 - [Oxigen](https://github.com/yuriizinets/oxigen) - Social media image generator.
 - [ExifTool](https://exiftool.org/) - Read, Write and Edit Meta Information. ([HN](https://news.ycombinator.com/item?id=34373928))
+- [Kody Tools](https://www.kodytools.com/) - Various tools. ([HN](https://news.ycombinator.com/item?id=34381895))

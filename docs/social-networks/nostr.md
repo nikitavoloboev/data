@@ -22,3 +22,5 @@ title: Nostr
 - [Forward-only Nostr relay](https://github.com/phyro/fo-relay)
 - [Nvote](https://github.com/rdbell/nvote) - Decentralized, vote-driven community similar to services like Reddit and HackerNews powered by Nostr.
 - [strfry](https://github.com/hoytech/strfry) - Nostr relay.
+- [nostcat](https://github.com/blakejakopovic/nostcat) - WebSocket client for nostr relay scripting.
+- [nostreq](https://github.com/blakejakopovic/nostreq) - Nostr relay event request generator.

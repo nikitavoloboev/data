@@ -1019,3 +1019,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Finding Nice MD5s Using Rust (2022)](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/) ([HN](https://news.ycombinator.com/item?id=34385212))
 - [The Hidden Control Flow — Some Insights on an Async Cancellation Problem in Rust (2023)](https://greptime.com/blogs/2023-01-12-hidden-control-flow)
 - [Rust Unpopular Opinion (2023)](https://news.ycombinator.com/item?id=34386622)
+- [Rust Nation 23](https://www.rustnationuk.com/)
+- [From Python to Rust course](https://github.com/bedroombuilds/python2rust)

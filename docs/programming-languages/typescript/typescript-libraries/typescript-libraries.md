@@ -862,3 +862,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pnpm monorepo](https://github.com/alvarosabu/pnpm-monorepo)
 - [Effect TS Crash Course](https://github.com/pigoz/effect-crashcourse)
 - [When should you use Zod? (2023)](https://www.totaltypescript.com/when-should-you-use-zod) ([Tweet](https://twitter.com/mattpocockuk/status/1612397810183274497))
+- [How to publish packages to npm in 2023](https://www.youtube.com/watch?v=eh89VE3Mk5g)

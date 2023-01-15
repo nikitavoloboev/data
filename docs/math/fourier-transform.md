@@ -44,7 +44,7 @@ title: Fourier transform
 - [ProtoNTT](https://github.com/Mysticial/ProtoNTT) - Implementation of the Small Primes Number-Theoretic Transform (NTT) algorithm for multiplication of large integers.
 - [Understanding Fast Fourier Transforms](https://vanhunteradams.com/FFT/FFT.html) ([HN](https://news.ycombinator.com/item?id=30391306))
 - [Discrete Fourier Transform (DFT/FFT) implementations](https://github.com/Inokinoki/ParallelFFT) - Implementations of DFT/FFT in CUDA and Apple Metal.
-- [Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html) ([Tweet](https://twitter.com/Rainmaker1973/status/1500090365587689477)) ([Lobsters](https://lobste.rs/s/l3cl30/fourier_transform_explained_one))
+- [Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html) ([Tweet](https://twitter.com/Rainmaker1973/status/1500090365587689477)) ([Lobsters](https://lobste.rs/s/l3cl30/fourier_transform_explained_one)) ([HN](https://news.ycombinator.com/item?id=34389037))
 - [NFFT.jl](https://github.com/JuliaMath/NFFT.jl) - Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT).
 - [How Wavelets Allow Researchers to Transform, and Understand, Data (2022)](https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/)
 - [iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform (2022)](https://arxiv.org/abs/2203.02395) ([Code](https://github.com/rishikksh20/iSTFTNet-pytorch))
