@@ -2008,6 +2008,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [curlreq](https://github.com/k1LoW/curlreq) - Creates \*http.Request from curl command.
 - [goconfig](https://github.com/leonidasdeim/goconfig) - Lightweight on-the-fly configuration library for Go applications.
 - [goset](https://github.com/b1tkeeper/goset) - Fast and Safe Implementation of Set for Go.
+- [flagd](https://github.com/open-feature/flagd) - Feature flag daemon with a Unix philosophy.
 
 ## Links
 

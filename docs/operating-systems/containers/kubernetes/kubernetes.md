@@ -909,3 +909,4 @@ title: Kubernetes
 - [nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster.
 - [Clustertest](https://github.com/guseggert/clustertest) - Framework for orchestrating clusters of nodes for testing.
 - [Traefik Hub Agent for Kubernetes](https://github.com/traefik/hub-agent-kubernetes)
+- [Vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources.

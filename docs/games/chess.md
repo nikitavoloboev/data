@@ -264,3 +264,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [DuckChessZero](https://github.com/petersn/duckchess) - Engine + analysis interface for duck chess that runs entirely in the browser, with the networks trained with tabula rasa self-play, like AlphaZero.
 - [Analog Chess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid. ([HN](https://news.ycombinator.com/item?id=34370440))
 - [chasse](https://chasse.fun/) - Simple chessboard - without timers, rules etc. ([Code](https://github.com/leonidasdeim/chasse))
+- [How do you memorize certain openings](https://www.reddit.com/r/chess/comments/10ch9tb/how_do_you_memorize_certain_openings/)

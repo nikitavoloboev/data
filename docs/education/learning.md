@@ -269,3 +269,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [52 things I learned in 2022](https://kenthendricks.com/52-things-i-learned-in-2022/)
 - [What are you planning to learn in 2023? | Lobsters](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 - [HN: What are you planning to learn in 2023?](https://news.ycombinator.com/item?id=34307741)
+- [Tech you should of learned sooner (2023)](https://twitter.com/rauchg/status/1614295403221979136)

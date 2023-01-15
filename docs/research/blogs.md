@@ -27,6 +27,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Armin Ronacher](https://lucumr.pocoo.org/)
 - [Simon Sarris](https://simonsarris.substack.com/)
 - [Niki Tonsky](https://tonsky.me/)
+- [Marvin Hagemeister](https://marvinh.dev/)
 - [Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Nicolas Moutschen](https://n14n.dev/)
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html) ([Prettier](https://prettygraham.com/))

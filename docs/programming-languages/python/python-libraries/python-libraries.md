@@ -1122,6 +1122,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [ProgressiVis](https://github.com/jdfekete/progressivis) - Progressive Analytics and Visualization.
 - [pca](https://github.com/erdogant/pca) - Python Package for Principal Component Analysis.
 - [cppimport](https://github.com/tbenthompson/cppimport) - Import C++ directly from Python.
+- [Grandalf](https://github.com/bdcht/grandalf) - Graph and drawing algorithms framework.
 
 ## Notes
 

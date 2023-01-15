@@ -559,3 +559,4 @@ I want to:
 - [Outlining and Bike (2022)](https://leancrew.com/all-this/2022/11/outlining-and-bike/)
 - [Tending to My Digital Garden (2022)](https://www.taniarascia.com/digital-gardening/)
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) ([HN](https://news.ycombinator.com/item?id=34137751))
+- [Silicon Notes](https://github.com/cu/silicon) - Web-based personal knowledge base with few frills.

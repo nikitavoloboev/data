@@ -659,3 +659,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Vasya in the Hay - YouTube](https://www.youtube.com/@vasyainthehay/videos) - Show people around the world how people live in remote villages in Russia.
 - [What are Russia's best kept secrets (nature places)?](https://www.reddit.com/r/AskARussian/comments/107n1sz/what_are_russias_best_kept_secrets_nature_places/)
 - [Калинкин! - YouTube](https://www.youtube.com/@mutaboring/videos)
+- [Коллектив - YouTube](https://www.youtube.com/@kollektiv_doc/videos)

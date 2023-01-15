@@ -304,3 +304,4 @@ title: Spatial analysis
 - [geojson.io](https://geojson.io/) - Quick, simple tool for creating, viewing, and sharing spatial data. ([Code](https://github.com/mapbox/geojson.io))
 - [nebula.gl](https://github.com/uber/nebula.gl) - Suite of 3D-enabled data editing overlays, suitable for deck.gl.
 - [polars_gdal](https://github.com/phayes/polars_gdal) - Read GDAL compatible file formats into polars / geopolars.
+- [splot](https://github.com/pysal/splot) - Lightweight plotting for geospatial analysis in PySAL.

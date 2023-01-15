@@ -425,3 +425,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Precedent](https://github.com/steven-tey/precedent) - Opinionated collection of components, hooks, and utilities for your Next.js project. ([Web](https://precedent.vercel.app/)) ([HN](https://news.ycombinator.com/item?id=34370660))
 - [Advanced internationalization with Next.js and middleware (2022)](https://erichowey.dev/writing/advanced-internationalization-with-nextjs-and-middleware/)
 - [Next-ValidEnv](https://github.com/JacobADevore/next-validenv) - Typesafe environment variables for Next.
+- [Streaming OpenAI completions with the Vercel Edge Runtime (2023)](https://www.beskar.co/blog/streaming-openai-completions-vercel-edge)
