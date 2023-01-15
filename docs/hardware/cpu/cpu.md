@@ -203,3 +203,4 @@ Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) m
 - [Libcpucycles](https://cpucycles.cr.yp.to/) - Micro library for counting CPU cycles.
 - [8086 Processor's microcode pipeline from die analysis (2023)](https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html) ([HN](https://news.ycombinator.com/item?id=34329201))
 - [What happens when a CPU starts](https://lateblt.tripod.com/bit68.txt) ([HN](https://news.ycombinator.com/item?id=34333638))
+- [CPU11](https://github.com/1801BM1/cpu11) - Historical PDP-11 microprocessors reverse engineering.

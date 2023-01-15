@@ -778,6 +778,7 @@
 - [Prompt-aligned Gradient for Prompt Tuning (2022)](https://arxiv.org/abs/2205.14865) ([Code](https://github.com/BeierZhu/Prompt-align))
 - [Text2Human: Text-Driven Controllable Human Image Generation (2022)](https://arxiv.org/abs/2205.15996) ([Code](https://github.com/yumingj/Text2Human))
 - [OnePose: One-Shot Object Pose Estimation without CAD Models (2022)](https://arxiv.org/abs/2205.12257) ([Code](https://github.com/zju3dv/OnePose))
+- [OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models (2022)](https://zju3dv.github.io/onepose_plus_plus/) ([Code](https://github.com/zju3dv/OnePose_Plus_Plus))
 - [PREF: Phasorial Embedding Fields for Compact Neural Representations (2022)](https://arxiv.org/abs/2205.13524) ([Code](https://github.com/hbb1/PREF))
 - [Optimizing Relevance Maps of Vision Transformers Improves Robustness (2022)](https://arxiv.org/abs/2206.01161) ([Code](https://github.com/hila-chefer/RobustViT))
 - [Exploring Visual Prompts for Adapting Large-Scale Models (2022)](https://arxiv.org/abs/2203.17274) ([Code](https://github.com/hjbahng/visual_prompting))

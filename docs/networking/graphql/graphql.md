@@ -366,3 +366,4 @@ title: GraphQL
 - [GraphQL Shield Generator](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
 - [GraphQL Constraint Directive](https://github.com/confuser/graphql-constraint-directive) - Validate GraphQL fields.
 - [GraphQL Ideal API notes](https://github.com/orta/graphql-api-goals)
+- [GraphQL Scalars specifications](https://github.com/graphql/graphql-scalars)

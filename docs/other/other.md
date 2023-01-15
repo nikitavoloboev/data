@@ -381,7 +381,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Best of Show HN](https://bestofshowhn.com/)
 - [TreeCard](https://www.treecard.org/) - Wooden debit card that plants trees. ([HN](https://news.ycombinator.com/item?id=25621401))
 - [Moderating a 220k Developer Community (2020)](https://dev.to/swyx/moderating-a-220k-developer-community-3doj)
-- [Mold](https://github.com/rui314/mold) - Modern Linker. ([Lobsters](https://lobste.rs/s/t9gvtg/mold_modern_linker)) ([HN](https://news.ycombinator.com/item?id=26233244))
+- [Mold](https://github.com/rui314/mold) - Modern Linker. ([Lobsters](https://lobste.rs/s/t9gvtg/mold_modern_linker)) ([HN](https://news.ycombinator.com/item?id=26233244)) ([HN](https://news.ycombinator.com/item?id=34382908))
 - [Stedi](https://stedi.com/) - Build automated EDI solutions that integrate with any business system. ([Twitter](https://twitter.com/stedi)) ([Tweet](https://twitter.com/zackkanter/status/1466509584005144577))
 - [gorush](https://github.com/appleboy/gorush) - Push notification server written in Go.
 - [Lessons from six months at Shopify (2020)](https://alexdanco.com/2020/10/23/six-lessons-from-six-months-at-shopify/) ([HN](https://news.ycombinator.com/item?id=24876665))
@@ -745,3 +745,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Расскажите, что вы любите, но при этом люди вокруг постоянно хуесосят это](https://twitter.com/ne_tank/status/1611978328059310080)
 - [HomeBox](https://github.com/hay-kot/homebox) - Inventory and organization system built for the Home User. ([Docs](https://hay-kot.github.io/homebox/))
 - [Tax System in the Faroe Islands (2022)](https://prospect.org/world/best-tax-system-on-earth-faroe-islands/) ([HN](https://news.ycombinator.com/item?id=34298234))
+- [A modular system for isometric pixel blocks](https://c6y.github.io/tilix-reference/) ([HN](https://news.ycombinator.com/item?id=34352133))

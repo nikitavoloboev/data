@@ -240,3 +240,4 @@ title: Jupyter Notebooks
 - [jupytee](https://github.com/fperez/jupytee) - Use OpenAI's GPT-3 models inside Jupyter environments.
 - [Create an extension for JupyterLab and Jupyter Notebook 7 (2022)](https://www.youtube.com/watch?v=mqotG1MkHa4)
 - [ipyhtmx](https://github.com/davidbrochart/ipyhtmx) - Build modern UIs in Jupyter with Python.
+- [You can run Rust code in a Jupyter notebook](https://github.com/google/evcxr/blob/1a2d6c40c467267801c7382edfa28028f99bbd9a/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb) ([HN](https://news.ycombinator.com/item?id=34380914))

@@ -37,3 +37,4 @@ title: Language Server Protocol
 - [Minimal browser-hosted WASM demo for tower-lsp](https://github.com/silvanshade/tower-lsp-web-demo)
 - [FFI Navigator](https://github.com/tqchen/ffi-navigator)
 - [Embedded Language Tools based on Volar Framework](https://github.com/volarjs/language-tools-starter)
+- [Multi LSP Proxy](https://github.com/messense/multi-lsp-proxy) - LSP proxy to multiple language servers.

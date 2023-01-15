@@ -75,6 +75,7 @@
 - [DataLoader](https://github.com/absinthe-graphql/dataloader) - Easy way efficiently load data in batches.
 - [Ecto.DevLogger](https://github.com/fuelen/ecto_dev_logger) - Alternative logger for Ecto queries.
 - [Ecto.ERD](https://github.com/fuelen/ecto_erd) - Mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.
+- [Flop](https://github.com/woylie/flop) - Filtering, ordering and pagination for Ecto.
 
 ## Test
 

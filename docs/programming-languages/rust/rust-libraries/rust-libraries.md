@@ -2519,6 +2519,7 @@
 - [OpenDP](https://github.com/opendp/opendp) - Modular collection of statistical algorithms that adhere to the definition of differential privacy.
 - [how-u-doin](https://github.com/kdr-aus/how-u-doin) - Progress reporting abstraction for Rust.
 - [Serde JSON Borrow](https://github.com/PSeitz/serde_json_borrow) - Fast JSON deserialization on borrowed data.
+- [tracery](https://github.com/caranatar/tracery-rs) - Rust implementation of the tracery generative grammar language.
 
 ## Cargo Plugins
 

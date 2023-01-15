@@ -11,7 +11,7 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [Granian](https://github.com/emmett-framework/granian) - Rust HTTP server for Python applications.
 - [Emmett](https://github.com/emmett-framework/emmett) - Full-stack Python web framework designed with simplicity in mind.
 - [Quart](https://github.com/pallets/quart) - Async Python micro framework for building web applications.
-- [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
+- [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust. ([HN](https://news.ycombinator.com/item?id=34384936))
 - [Xpresso](https://github.com/adriangb/xpresso) - Composable Python ASGI web framework.
 - [aiosonic](https://github.com/sonic182/aiosonic) - Very fast Python asyncio http client.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework and HTTP client for Python asyncio.
@@ -1117,6 +1117,9 @@ Like idea of using Python as glue language for compiled modules like [Rust](http
 - [py-factorgraph](https://github.com/mbforbes/py-factorgraph) - Factor graphs and loopy belief propagation implemented in Python.
 - [SmartNoise SDK](https://github.com/opendp/smartnoise-sdk) - Tools for Differential Privacy on Tabular Data.
 - [hffs](https://github.com/huggingface/hffs) - File system interface to Hub.
+- [ProgressiVis](https://github.com/jdfekete/progressivis) - Progressive Analytics and Visualization.
+- [pca](https://github.com/erdogant/pca) - Python Package for Principal Component Analysis.
+- [cppimport](https://github.com/tbenthompson/cppimport) - Import C++ directly from Python.
 
 ## Notes
 

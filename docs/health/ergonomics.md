@@ -8,7 +8,7 @@ Together with above, I try do many [exercises](../fitness/exercises.md) that tar
 
 ## Chairs
 
-- [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody-gaming-chair/2517590.html) ([Review](https://www.youtube.com/watch?v=y9kSNdxA8y8))
+- [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody-gaming-chair/2517590.html) ([Review](https://www.youtube.com/watch?v=GgdsxxO88oQ)) ([Review](https://www.youtube.com/watch?v=y9kSNdxA8y8))
 - [Herman Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/)
 - [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/) ([Tweet](https://twitter.com/ow/status/1463234007295004680)) ([Tweet](https://twitter.com/thekitze/status/1519627519158276097))
 - [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/) ([Tweet](https://twitter.com/AndrewProjDent/status/1452986311141363719))
@@ -111,3 +111,4 @@ Together with above, I try do many [exercises](../fitness/exercises.md) that tar
 - [A guide to fixing Developer Posture](https://gaylelaakmann.substack.com/p/a-guide-to-fixing-computer-guy-posture) ([Reddit](https://www.reddit.com/r/programming/comments/1045o8l/a_guide_to_fixing_developer_posture/))
 - [How You Can Fix a Dowager’s Hump + Prevention Tips](https://health.clevelandclinic.org/how-you-can-fix-a-dowagers-hump-prevention-tips/)
 - [Is it possible to get out of forward head posture?](https://www.reddit.com/r/Posture/comments/108hr0h/is_it_possible_to_get_out_of_forward_head_posture/)
+- [Sitting all day is terrible for your health](https://theconversation.com/sitting-all-day-is-terrible-for-your-health-now-a-new-study-finds-a-relatively-easy-way-to-counteract-it-197507) ([HN](https://news.ycombinator.com/item?id=34382603))

@@ -308,3 +308,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Terraform Provider for Gmail Filter](https://github.com/yamamoto-febc/terraform-provider-gmailfilter)
 - [Mailbox](https://mailbox.org/en/) - Secure e-mail for private and business customers.
 - [Email Cleaner](https://github.com/destroyer22719/email-cleaner) - Prevent users from inputting email addresses that'll still send to the same account.
+- [mjml react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly.

@@ -644,3 +644,4 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Making an Algorithm 16,062 Times Faster (2023)](https://www.youtube.com/watch?v=U16RnpV48KQ)
 - [Things they didn’t teach you about software engineering (2023)](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/) ([HN](https://news.ycombinator.com/item?id=34282339))
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
+- [Ask HN: Do you hate software engineering but love programming? (2023)](https://news.ycombinator.com/item?id=34366610)

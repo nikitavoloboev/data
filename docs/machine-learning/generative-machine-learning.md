@@ -303,3 +303,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [SD LEAP Booster](https://github.com/peterwilli/sd-leap-booster) - Fast fine tuning using a booster model that puts the initial state to a local minimum.
 - [Stable Karlo](https://github.com/kpthedev/stable-karlo) - Upscaling Karlo text-to-image generation using Stable Diffusion v2.
 - [StoryTeller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech.
+- [Diffusion for beginners](https://github.com/ozanciga/diffusion-for-beginners)

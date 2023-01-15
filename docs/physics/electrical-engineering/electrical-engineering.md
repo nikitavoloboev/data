@@ -139,3 +139,4 @@ title: Electrical engineering
 - [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim) - Minimalistic digital logic simulator.
 - [Mechanical circuits: electronics without electricity (2022)](https://www.youtube.com/watch?v=QrkiJZKJfpY) ([HN](https://news.ycombinator.com/item?id=34218660))
 - [Horizon EDA](https://github.com/horizon-eda/horizon) - Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry. ([Web](https://horizon-eda.org/))
+- [The Inner Beauty of Basic Electronics (2023)](https://spectrum.ieee.org/open-circuits) ([HN](https://news.ycombinator.com/item?id=34384825))

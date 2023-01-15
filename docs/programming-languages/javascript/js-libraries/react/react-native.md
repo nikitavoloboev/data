@@ -36,6 +36,7 @@ title: React Native
 - [React Native animated app with reanimated + expo](https://github.com/lklima/rn-flight-animation)
 - [Choosy](https://github.com/ChoosyApp/Choosy) - Mobile application that allows users to create photo polls that others can vote on.
 - [Inkdrop mobile inspired by Gmail](https://github.com/craftzdog/inkdrop-ui-mockup-react-native)
+- [Audiobook App](https://github.com/homielab/audiobookapp) - Audiobook mobile application accomplished with React Native.
 
 ## Notes
 
@@ -339,3 +340,4 @@ title: React Native
 - [Tamagui Kitchen Sink](https://github.com/dohomi/tamagui-kitchen-sink) - Component library which builds on top of Tamagui.
 - [React Native Story View](https://github.com/SimformSolutionsPvtLtd/react-native-story-view) - React Native component to show image and video stories.
 - [React Native Reactions](https://github.com/SimformSolutionsPvtLtd/react-native-reactions) - React Native animated reaction picker component.
+- [React Native Track Player](https://github.com/doublesymmetry/react-native-track-player) - Fully fledged audio module created for music apps.

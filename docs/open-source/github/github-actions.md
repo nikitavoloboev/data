@@ -279,6 +279,8 @@ title: GitHub actions
 - [Retry action](https://github.com/owenrumney/retry-action) - Simple action will take a command and a number of times to retry on failure.
 - [sccache-action](https://github.com/mozilla/sccache-action) - GitHub action to download sccache artifacts.
 - [PR Comment Delete](https://github.com/maheshrayas/action-pr-comment-delete) - GitHub Action to delete older PR comments.
+- [Push git subdirectory as branch](https://github.com/s0/git-publish-subdir-action)
+- [Branch Deploy Action](https://github.com/github/branch-deploy) - GitHub Action to enable branch deployments using IssueOps.
 
 ## Go
 

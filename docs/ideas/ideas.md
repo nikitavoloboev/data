@@ -154,7 +154,7 @@ I note all my ideas in [LA](learn-anything.md). For ideas I am exceptionally exc
 - [Ask HN: Alternative ways to make money with coding and system skills? (2022)](https://news.ycombinator.com/item?id=33619650)
 - [Ask HN: What is the most impactful thing you've built? (2022)](https://news.ycombinator.com/item?id=33659852)
 - [Ask HN: What are 100K dollar ideas but not million dollar ideas? (2022)](https://news.ycombinator.com/item?id=33729424)
-- [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)
+- [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/) ([HN](https://news.ycombinator.com/item?id=34382655))
 - [Ask HN: What is the best income stream you have created till date? (2022)](https://news.ycombinator.com/item?id=33923137)
 - [Ask HN: Those with money-making side projects,how did you come up with the idea? (2022)](https://news.ycombinator.com/item?id=33942558)
 - [Ask HN: How do you recall ideas/eureka you get during walks, showers, etc.? (2022)](https://news.ycombinator.com/item?id=34185635)

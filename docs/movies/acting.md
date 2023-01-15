@@ -2,7 +2,7 @@
 
 I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) & [actresses](https://www.imdb.com/list/ls098138063/).
 
-Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJes) as he describes [his approach and experience with acting](https://youtu.be/65HymY-KJes?t=1377).
+Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJes) as he describes [his approach and experience with acting](https://youtu.be/65HymY-KJes?t=1377). The approach of focusing on [emotional core/reasoning for character](https://youtu.be/Chn-IfSPEo8?t=139) is great approach too.
 
 ## Notes
 
@@ -52,3 +52,4 @@ Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJ
 - [Actors You Can’t Stand (2022)](https://www.reddit.com/r/MovieSuggestions/comments/zp5jf2/actors_you_cant_stand/)
 - [Why Timothee Chalamet's Acting Is Different (2022)](https://www.youtube.com/watch?v=3qShrcH2mik)
 - [The best performances you'll ever see in a movie (2023)](https://www.reddit.com/r/MovieSuggestions/comments/105bz27/the_best_performances_youll_ever_see_in_a_movie/)
+- [Bryan Cranston’s Advice To Aspiring Actors](https://www.youtube.com/watch?v=iC5Ef7smWKs)

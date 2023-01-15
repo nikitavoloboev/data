@@ -163,3 +163,4 @@ Learning to build [startups](startups/startups.md).
 - [Robinhood lists](https://bigballi.com/blog/robinhood-lists)
 - [How The Pandora Papers Actually Work](https://www.youtube.com/watch?v=0uLhh5GSxsQ)
 - [Ask HN: How to learn business being a software engineer (2023)](https://news.ycombinator.com/item?id=34300896)
+- [Ask HN: Role-model companies with the best dev culture in 2023](https://news.ycombinator.com/item?id=34383010)

@@ -187,6 +187,7 @@ I want to:
 - [Abhinav's Notes](https://notes.abhinavsarkar.net/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [McCoy R. Becker](https://femtomc.github.io/)
+- [Alistair's Cambridge CS Uni Notes](https://github.com/johnyob/University-Notes)
 - [Rosano Garden](https://rosano.hmm.garden/)
 - [Christian's "Cheat-Sheets"](https://github.com/ChristianLempa/cheat-sheets)
 - [Louis Beaumont](https://brain.louis030195.com/README)

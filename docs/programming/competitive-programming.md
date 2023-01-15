@@ -49,3 +49,4 @@
 - [Judge0](https://judge0.com/) - Scalable, and open-source online code execution system that can be used to build a wide range of applications that need online code execution features. ([Code](https://github.com/judge0/judge0))
 - [PyRival](https://github.com/cheran-senthil/PyRival) - Python Library for Competitive Programming.
 - [Yandex Cup](https://yandex.ru/cup/) - Чемпионат по программированию.
+- [Procon Input Compiler](https://github.com/akiradeveloper/procon-input-compiler) - Parsing the competitive programming input elegantly.

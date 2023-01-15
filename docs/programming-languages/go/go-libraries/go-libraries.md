@@ -2003,6 +2003,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [gopherlogs](https://github.com/jpmcb/gopherlogs) - Simple, powerful, and extensible Go logging framework with batteries included.
 - [cadet](https://github.com/martinrue/cadet) - Library for creating simple HTTP-RPC servers in Go.
 - [jsonapi](https://github.com/google/jsonapi) - Serializer/deserializer for JSON payloads that comply to the JSON API spec.
+- [Zen](https://github.com/kyoto-framework/zen) - Utility-first package for Go.
+- [Go-Wiki](https://github.com/trietmn/go-wiki) - Go Wikipedia API wrapper.
 
 ## Links
 

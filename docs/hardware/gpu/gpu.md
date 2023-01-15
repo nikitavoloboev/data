@@ -140,3 +140,4 @@ title: GPU
 - [MIG Profiler](https://github.com/MLSysOps/MIGProfiler) - Multi-Instance-GPU profiling tool.
 - [EnvyControl](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux.
 - [Awesome GPU](https://github.com/Jokeren/Awesome-GPU)
+- [Use.GPU Goes Trad (2023)](https://acko.net/blog/use-gpu-goes-trad/) ([HN](https://news.ycombinator.com/item?id=34384719))

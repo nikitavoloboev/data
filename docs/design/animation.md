@@ -102,3 +102,4 @@ Like using [Rive](rive.md) for making animations.
 - [Inox2D](https://github.com/Inochi2D/inox2d) - Native Rust reimplementation of Inochi2D.
 - [movy.js](https://github.com/rossning92/movy) - Client-side JS animation engine for creating explanatory videos.
 - [Math Anim](https://github.com/ambrosiogabe/MathAnimation) - Simple C++/OpenGL application to create quick and dirty mathematically accurate animations.
+- [Motionity](https://www.motionity.app/) - Web-based motion graphics editor for everyone. ([Code](https://github.com/alyssaxuu/motionity))

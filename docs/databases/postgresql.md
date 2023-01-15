@@ -642,3 +642,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Renovate](https://github.com/tyrchen/renovate) - CLI tool to help you to work on Postgres SQL migration easily.
 - [Faster PostgresSQL to BigQuery Transfers (2023)](https://tech.marksblogg.com/postgresql-to-bigquery.html) ([HN](https://news.ycombinator.com/item?id=34323258))
 - [Neon: Serverless PostgreSQL Overview (Heikki Linnakangas) (2022)](https://www.youtube.com/watch?v=rES0yzeERns) ([Tweet](https://twitter.com/Sirupsen/status/1612494427322474498))
+- [Orafce](https://github.com/orafce/orafce) - Implements in Postgres some of the functions from the Oracle database.

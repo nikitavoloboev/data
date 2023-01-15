@@ -1,5 +1,7 @@
 # English Language
 
+[Colin Farrell has my favorite accent](https://www.youtube.com/watch?v=pf9M8Ckomo0). It's Irish but not as intense as in [Derry Girls](https://www.youtube.com/watch?v=0CtrWhyj1TM) or [Normal People](https://www.youtube.com/watch?v=hoex8Hz5UGc) and is understandable.
+
 ## Words
 
 Some interesting words I like:

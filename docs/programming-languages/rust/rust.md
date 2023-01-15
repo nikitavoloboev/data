@@ -1016,3 +1016,6 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Scriptisto](https://github.com/igor-petruk/scriptisto) - Tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing.
 - [GCC Front-End For Rust (2022)](https://rust-gcc.github.io/reporting/2022-year-report.html) ([Lobsters](https://lobste.rs/s/ovoldv/gccrs_2022))
 - [Rust 101 course](https://github.com/tweedegolf/101-rs)
+- [Finding Nice MD5s Using Rust (2022)](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/) ([HN](https://news.ycombinator.com/item?id=34385212))
+- [The Hidden Control Flow — Some Insights on an Async Cancellation Problem in Rust (2023)](https://greptime.com/blogs/2023-01-12-hidden-control-flow)
+- [Rust Unpopular Opinion (2023)](https://news.ycombinator.com/item?id=34386622)

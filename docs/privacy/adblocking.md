@@ -59,3 +59,4 @@ Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-system
 - [How To Setup a Wireguard VPN Server with PiHole (2022)](https://marcocetica.com/posts/wireguard_pihole/)
 - [uBlock Origin Core](https://www.npmjs.com/package/@gorhill/ubo-core) ([HN](https://news.ycombinator.com/item?id=33979379))
 - [Orbital Sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances.
+- [HN: Pi-hole (2023)](https://news.ycombinator.com/item?id=34374725)

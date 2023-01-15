@@ -137,3 +137,4 @@
 - [Papers about Logical Query on Knowledge Graphs](https://github.com/xinguoxia/KGLQ)
 - [Awesome Ontology](https://github.com/ozekik/awesome-ontology)
 - [DBpedia Information Extraction Framework](https://github.com/dbpedia/extraction-framework) - Software used to extract structured data from Wikipedia.
+- [QLever](https://github.com/ad-freiburg/qlever) - SPARQL engine that can efficiently index and query very large knowledge graphs.

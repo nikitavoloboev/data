@@ -126,3 +126,4 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Ask HN: I'm 40 and feel my mental ability declining. Programming seems harder. (2023)](https://news.ycombinator.com/item?id=34324567)
 - [Loss of epigenetic information can drive aging in mice (2023)](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse) ([HN](https://news.ycombinator.com/item?id=34362210))
 - [ITP | National Institute on Aging](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp/about-itp)
+- [Two research teams reverse signs of aging in mice (2023)](https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice) ([HN](https://news.ycombinator.com/item?id=34385785))
