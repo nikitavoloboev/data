@@ -412,6 +412,7 @@ Great [management](../../management/management.md) together with being able to [
 - [Europe's Youngest Billionaire (2022)](https://www.youtube.com/watch?v=FCP_KbpA3jI)
 - [Startup Lessons from 2 Years Building Airplane.dev (2022)](https://www.airplane.dev/blog/startup-lessons-from-2-years-building-airplane-dev)
 - [Ask HN: Main things to consider when building an app for business/enterprise? (2023)](https://news.ycombinator.com/item?id=34287685)
+- [If I asked you about startups, you'd probably give me the skinny on about every book and blog post ever written](https://twitter.com/AndrewArruda/status/1614035461227352064)
 
 ## Images
 

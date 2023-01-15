@@ -201,6 +201,7 @@ Below is a list of extensions I use.
 - [VS Code Makefile Tools](https://github.com/microsoft/vscode-makefile-tools)
 - [Direnv VSCode](https://github.com/direnv/direnv-vscode)
 - [AWK Language Server](https://github.com/Beaglefoot/awk-language-server)
+- [Buildt AI](https://marketplace.visualstudio.com/items?itemName=BuildtAI.buildt-vscode) - AI dev at your fingertips. ([Tweet](https://twitter.com/AlistairPullen/status/1611011712345317378))
 
 ## Shell
 

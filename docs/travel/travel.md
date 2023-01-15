@@ -152,3 +152,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Skiplagged](https://skiplagged.com/) - Cheap flight tickets.
 - [Beautiful Destinations - YouTube](https://www.youtube.com/@beautifuldestinations7604/videos)
 - [Tripsy](https://tripsy.app/) - Trip Planner.
+- [Getaiway](https://getaiway.com/) - Create Personalized Travel Plans with GPT-3.

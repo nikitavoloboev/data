@@ -155,3 +155,4 @@ For me personally the end goal and purpose is ultimate freedom. Doing what I lov
 - [Ask HN: What's You Life's Work? (2022)](https://news.ycombinator.com/item?id=33983826)
 - [Ask HN: Has anyone here turned around their life in their 40s? (2022)](https://news.ycombinator.com/item?id=34052201)
 - [life lessons from 2022](https://nicoles.substack.com/p/life-lessons-from-2022)
+- [Robin Williams' Speech | Good Will Hunting](https://www.youtube.com/watch?v=8GY3sO47YYo)

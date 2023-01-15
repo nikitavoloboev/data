@@ -171,6 +171,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [GoXLR for Mac](https://github.com/Adelenade/GoXlr-Macos) - MacOS application to manage GoXLR without virtual machine.
 - [Snap](https://github.com/techrisdev/Snap) - Better Spotlight search for macOS.
 - [Spotify Notify](https://github.com/nahive/spotify-notify) - Rich, native Spotify notifications.
+- [Pinch](https://github.com/danqing/Pinch) - One-click fix for Mac trackpad pinch to zoom gesture.
 
 ## Other interesting apps
 

@@ -78,6 +78,7 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Developers are drawn to complexity like moths to a flame, often with the same outcome.](https://twitter.com/nsilnitsky/status/1590633873993388033)
 - [Don't freak out about your code being too slow until you've actually measured it to see if it's a hot path.](https://twitter.com/pcwalton/status/1600561023013961728)
 - [When exploring ways to do things, think about what it will eventually look like at the call site. Then work backwards from there to work out how it should work.](https://twitter.com/oliverfoggin/status/1613246508320841728)
+- [Locality of Behavior is not about about separating different languages into different files. It is always about putting together things that need to change together -- i.e. modularization (D.L. Parnas, On the criteria to be used in decomposing systems)](https://twitter.com/yawaramin/status/1614502057863430146)
 
 ## Links
 
@@ -645,3 +646,4 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Things they didn’t teach you about software engineering (2023)](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/) ([HN](https://news.ycombinator.com/item?id=34282339))
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [Ask HN: Do you hate software engineering but love programming? (2023)](https://news.ycombinator.com/item?id=34366610)
+- [Locality of Behavior is important](https://htmx.org/essays/locality-of-behaviour/)

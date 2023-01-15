@@ -775,3 +775,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Multi Task NLP](https://github.com/hellohaptik/multi-task-NLP) - Utility toolkit enabling NLP developers to easily train and infer a single model for multiple tasks.
 - [FairSeq with Apollo optimizer](https://github.com/XuezheMax/fairseq-apollo)
 - [TFKit](https://github.com/voidful/TFkit) - Handling multiple NLP task in one pipeline.
+- [ReAct: Synergizing Reasoning and Acting in Language Models (2022)](https://arxiv.org/abs/2210.03629)

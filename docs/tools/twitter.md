@@ -319,3 +319,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast (2023)](https://thume.ca/2023/01/02/one-machine-twitter/) ([HN](https://news.ycombinator.com/item?id=34291191))
 - [Twitter performance prototype](https://github.com/trishume/twitterperf) - Rust prototype of handling the full production load of Twitter's core timeline collation on a single core by only doing the very basics in-memory.
 - [Hive.one](https://hive.one/) - Find reputable Twitter accounts.
+- [Caching at Twitter with Yao Yue (2023)](https://softwareengineeringdaily.com/2023/01/12/caching-at-twitter-with-yao-yue/)
