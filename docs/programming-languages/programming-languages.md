@@ -511,3 +511,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Vel](https://github.com/hopv/vel) - Language for verified low-level software.
 - [Compiled and Interpreted Languages: Two Ways of Saying Tomato (2023)](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 - [Faster virtual machines: Speeding up programming language execution (2023)](https://mort.coffee/home/fast-interpreters/)
+- [Type Checking If Expressions (2023)](https://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions/)

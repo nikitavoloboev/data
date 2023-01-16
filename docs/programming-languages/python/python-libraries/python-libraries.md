@@ -1333,4 +1333,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/) ([Code](https://github.com/pypackaging-native/pypackaging-native)) ([HN](https://news.ycombinator.com/item?id=34236919))
 - [autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically adds types and inserts the right annotations.
 - [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python.
-- [How to improve Python packaging (2023)](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/) ([HN](https://news.ycombinator.com/item?id=34390585))
+- [How to improve Python packaging (2023)](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/) ([HN](https://news.ycombinator.com/item?id=34390585)) ([Lobsters](https://lobste.rs/s/gzi3vk/how_improve_python_packaging_why_14_tools))

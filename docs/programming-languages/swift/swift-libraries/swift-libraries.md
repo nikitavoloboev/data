@@ -1384,6 +1384,7 @@
 - [Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) - Companion library to Point-Free's swift-dependencies that provides higher-level dependencies.
 - [ThirtyTo](https://github.com/brightdigit/ThirtyTo) - Encode, Decode and Generate Random String in Base32Crockford Format.
 - [OpenAlpha](https://github.com/colealanroberts/OpenAlpha) - Swift package for retrieving images from Sony digital cameras.
+- [AttributedString Builder](https://github.com/objcio/attributed-string-builder) - Simple way to build up attributed strings using result builders from a variety of sources.
 
 ## Other (not lib)
 

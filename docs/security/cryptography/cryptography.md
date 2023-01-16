@@ -205,3 +205,4 @@
 - [libjade](https://github.com/formosa-crypto/libjade) - Formally verified cryptographic library written in Jasmin with computer-verified proofs in EasyCrypt.
 - [20 Best Cryptography Algorithms Books of All Time (2022)](https://bookauthority.org/books/best-cryptography-algorithms-books)
 - [On PBKDF2 iterations (2023)](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/) ([HN](https://news.ycombinator.com/item?id=34310035))
+- [How to transform code into arithmetic circuits (2023)](https://www.notamonadtutorial.com/how-to-transform-code-into-arithmetic-circuits/)

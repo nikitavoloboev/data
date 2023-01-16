@@ -27,6 +27,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 - [Community](https://www.community.com/)
 - [Instatus](https://instatus.com/)
 - [Primer](https://primer.com/)
+- [Quill](https://quill.do)
 - [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370)) ([Features](https://linear.app/features)) ([Tweet](https://twitter.com/jonsamp/status/1580628743617269760)) ([HN](https://news.ycombinator.com/item?id=33199304))
 - [Scruples Studio](https://scruples.studio/)
 - [Useful Books](https://www.usefulbooks.com/)
@@ -266,6 +267,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 - [Triqla](https://triqla.com/)
 - [Formik](https://formik.com/)
 - [RocketSim](https://www.rocketsim.app/)
+- [Ivory](https://tapbots.com/ivory/)
 
 ## Events
 

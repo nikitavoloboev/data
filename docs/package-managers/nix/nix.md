@@ -487,3 +487,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-top](https://github.com/samueldr/nix-top) - Script to help users figure out what's building.
 - [debrepo](https://github.com/markpash/debrepo) - Nix flake that is used to create an apt repository for debian-based distros containing a small selection of packages.
 - [Setting up my machines: nix style (2023)](https://aldoborrero.com/posts/setting-up-my-machines-nix-style/) ([Code](https://github.com/aldoborrero/templates/tree/main/templates/blog/nix/setting-up-machines-nix-style))
+- [Over-engineering Your Thesis with Nix, Pandoc and make (2023)](https://pascal.jungblut.me/posts/overengineering-thesis-template/) ([Lobsters](https://lobste.rs/s/vforxs/over_engineering_your_thesis_with_nix))

@@ -210,3 +210,5 @@ title: RISC-V
 - [Pydrofoil](https://github.com/pydrofoil/pydrofoil) - Fast RISC-V emulator based on the RISC-V Sail model.
 - [How RISC-V Timer Interrupts Work (2022)](https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/) ([HN](https://news.ycombinator.com/item?id=34154406))
 - [How Secure Are RISC-V Chips? (2023)](https://semiengineering.com/how-secure-are-risc-v-chips/)
+- [Selfie](https://github.com/cksystemsteaching/selfie) - Tiny RISC-V C compiler, emulator and hypervisor. ([HN](https://news.ycombinator.com/item?id=34397514))
+- [MIPS Rolls Out Its First RISC-V Processor Core (2023)](https://www.eejournal.com/article/mips-rolls-out-its-first-risc-v-processor-core-its-a-big-un/) ([Tweet](https://twitter.com/NickTernovoy/status/1614994623113400321))

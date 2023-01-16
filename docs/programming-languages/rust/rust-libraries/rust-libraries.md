@@ -2526,6 +2526,8 @@
 - [ab-av1](https://github.com/alexheretic/ab-av1) - AV1 video encoding tool with fast VMAF sampling & automatic encoder crf calculation. Uses ffmpeg, svt-av1 & vmaf.
 - [gethostname.rs](https://github.com/swsnr/gethostname.rs) - gethostname() for all systems.
 - [rust_box2d](https://github.com/Bastacyclop/rust_box2d) - Library wrapping around the Box2D physics engine.
+- [LogLog](https://github.com/rustshop/loglog) - Distributed, fault tolerant, strongly consistent, performant (event)log in Rust.
+- [redeez-rs](https://github.com/m1guelpf/redeez-rs) - Simplified general-purpose queueing system for Rust apps.
 
 ## Cargo Plugins
 

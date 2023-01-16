@@ -2009,6 +2009,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [goconfig](https://github.com/leonidasdeim/goconfig) - Lightweight on-the-fly configuration library for Go applications.
 - [goset](https://github.com/b1tkeeper/goset) - Fast and Safe Implementation of Set for Go.
 - [flagd](https://github.com/open-feature/flagd) - Feature flag daemon with a Unix philosophy.
+- [Holster](https://github.com/mailgun/holster) - Mailgun's Go libraries and tools.
 
 ## Links
 

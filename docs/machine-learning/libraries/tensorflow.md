@@ -126,3 +126,4 @@ title: TensorFlow
 - [tfreader](https://github.com/spotify/tfreader) - TensorFlow TFRecord reader CLI tool.
 - [TFTS (TensorFlow Time Series)](https://github.com/LongxingTan/Time-series-prediction) - Easy-to-use python package for time series, supporting the classical and SOTA deep learning methods in TensorFlow or Keras.
 - [Realbook](https://github.com/spotify/realbook) - Easier audio-based machine learning with TensorFlow.
+- [TensorFlow for Python is dying? (2023)](https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death) ([HN](https://news.ycombinator.com/item?id=34396546))
