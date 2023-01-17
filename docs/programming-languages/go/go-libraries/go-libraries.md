@@ -177,6 +177,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [e2e](https://github.com/efficientgo/e2e) - Robust framework for running complex workload scenarios in isolation, using Go; for integration, e2e tests, benchmarks and more.
 - [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) - Tool for generating self-contained, type-safe test doubles in go.
 - [cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple Go snapshot testing.
+- [Go Snaps](https://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Go.
 
 ## Web
 
