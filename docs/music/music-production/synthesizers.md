@@ -113,3 +113,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [vitOTT](https://github.com/edgjj/vitOTT) - Multiband compressor from famous spectral warping synthesizer.
 - [Go-MeltySynth](https://github.com/sinshu/go-meltysynth) - SoundFont MIDI synthesizer written in Go.
 - [osci-render](https://github.com/jameshball/osci-render) - Synthesizer for making music by drawing objects on an oscilloscope using audio.
+- [The Best Synth Player (2023)](https://www.reddit.com/r/synthesizers/comments/10dygzd/the_best_synth_player/)

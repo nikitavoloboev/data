@@ -38,3 +38,4 @@
 - [Experiments with the Verse Calculus in miniKanren](https://github.com/webyrd/wreckto-verseo)
 - [VAEL: Bridging Variational Autoencoders and Probabilistic Logic Programming (2022)](https://arxiv.org/abs/2202.04178) ([Code](https://github.com/EleMisi/VAEL))
 - [Multiset Rewriting in miniKanren](https://github.com/webyrd/linear-logic-multiset-rewriting)
+- [Minilog](https://github.com/lambduli/minilog) - Small relational (logic) programming language.

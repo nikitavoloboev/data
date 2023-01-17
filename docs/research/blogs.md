@@ -303,6 +303,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Tony Finch](https://dotat.at/)
 - [Matt Keeter](https://www.mattkeeter.com/blog/)
 - [Geoffrey Litt](https://www.geoffreylitt.com/#writing)
+- [Laurence Tratt](https://tratt.net/laurie/blog/)
+- [Chips and Cheese](https://chipsandcheese.com/)
 
 ## Notes
 

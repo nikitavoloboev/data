@@ -346,3 +346,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [What are common misconceptions about nonmonogamy?](https://www.reddit.com/r/nonmonogamy/comments/101x9be/what_are_common_misconceptions_about_nonmonogamy/)
 - [What are some of your more "uncommon" red flags?](https://www.reddit.com/r/polyamory/comments/103d6li/what_are_some_of_your_more_uncommon_red_flags/)
 - [Destiny and Melina on their open relationship](https://www.youtube.com/watch?v=3hZg8qL6YxM)
+- [7 Things To Know About Your Partner](https://twitter.com/Theholisticpsyc/status/1615019005877817351?s=20)

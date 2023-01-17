@@ -53,3 +53,5 @@ title: PHP
 - [Devenv: Compose a Developer Environment Easily for PHP with Nix (2022)](https://shyim.me/blog/devenv-compose-developer-environment-for-php-with-nix/) ([HN](https://news.ycombinator.com/item?id=34130585))
 - [PHP Parser](https://github.com/php-rust-tools/parser) - Handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [Porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease. ([HN](https://news.ycombinator.com/item?id=34160107))
+- [PHP in 2023](https://stitcher.io/blog/php-in-2023) ([HN](https://news.ycombinator.com/item?id=34411018))
+- [PXP](https://github.com/pxp-lang/pxp) - Superset of PHP with extended syntax and runtime capabilities.

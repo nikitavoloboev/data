@@ -478,3 +478,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Large Media Upload](https://github.com/twitterdev/large-video-upload-python) - Python code for uploading video up to 140 seconds and/or up to 512Mb.
 - [libcamera](https://github.com/raspberrypi/libcamera) - Complex camera support library for Linux, Android, and ChromeOS.
 - [Awesome mpv](https://github.com/stax76/awesome-mpv)
+- [Vento](https://vento.so/) - Screen recorder that lets you rewind and record over mistakes. ([HN](https://news.ycombinator.com/item?id=34406340))

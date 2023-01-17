@@ -146,3 +146,5 @@
 - [Engineered photosynthesis demonstrated in animals in vivo via synthetic biology](https://www.nature.com/articles/s41586-022-05499-y)
 - [Microbial predators form a new supergroup of eukaryotes (2022)](https://www.nature.com/articles/s41586-022-05511-5)
 - [Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D&index=1)
+- [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations)
+- [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology)

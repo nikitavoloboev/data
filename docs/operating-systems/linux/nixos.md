@@ -293,3 +293,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [Configure packages like NixOS systems](https://github.com/DavHau/drv-parts)
 - [The Hive](https://github.com/RaubJo/hive) - Secretly open NixOS-Society.
 - [NixOS on the HiFive Unmatched RISC-V](https://github.com/zhaofengli/nixos-riscv64)
+- [How to learn using NixOS? (2023)](https://www.reddit.com/r/NixOS/comments/10dsx63/how_to_learn_using_nixos/)

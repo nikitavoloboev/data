@@ -10,7 +10,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 
 ## Web
 
-- [Granian](https://github.com/emmett-framework/granian) - Rust HTTP server for Python applications.
+- [Granian](https://github.com/emmett-framework/granian) - Rust HTTP server for Python applications. ([HN](https://news.ycombinator.com/item?id=34399125))
 - [Emmett](https://github.com/emmett-framework/emmett) - Full-stack Python web framework designed with simplicity in mind.
 - [Quart](https://github.com/pallets/quart) - Async Python micro framework for building web applications.
 - [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust. ([HN](https://news.ycombinator.com/item?id=34384936))

@@ -954,3 +954,4 @@ if *boolArgPtr != false {
 - [Basic observations of Generics in Go (2022)](https://www.openmymind.net/Generics-In-Go/)
 - [Mage](https://magefile.org/) - Make/rake-like build tool using Go. ([Code](https://github.com/magefile/mage)) ([Awesome](https://github.com/magefile/awesome-mage))
 - [gokrazy: instance-centric configuration released (2023)](https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/)
+- [Atomic operations composition in Go (2023)](https://antonz.org/atomics-composition/)

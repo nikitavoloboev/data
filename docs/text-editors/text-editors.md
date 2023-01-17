@@ -127,7 +127,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Plastic](https://github.com/djyde/plastic) - Block-based bi-directional note app. Works locally.
 - [Ace](https://ace.c9.io/) - High Performance Code Editor for the Web. ([Code](https://github.com/ajaxorg/ace))
 - [Copenhagen](https://github.com/acode/copenhagen) - Free, lightweight and hackable open source code editor for the web.
-- [Milkdown](https://github.com/Saul-Mirone/milkdown) - WYSIWYG markdown editor.
+- [Milkdown](https://github.com/Saul-Mirone/milkdown) - WYSIWYG markdown editor. ([Plugins](https://github.com/enpitsuLin/milkdown-lab))
 - [Rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative text editor, self-hosted, no database required. ([Web](https://rustpad.io/)) ([HN](https://news.ycombinator.com/item?id=27408326))
 - [ProseMirror + React + TypeScript example editor](https://github.com/TeemuKoivisto/prosemirror-react-typescript-example)
 - [deepnotes-editor](https://github.com/mukeshsoni/deepnotes-editor) - Workflowy like editor built with draft-js.

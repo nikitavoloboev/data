@@ -10,6 +10,8 @@
 
 [AI’s Hardware Problem](https://www.youtube.com/watch?v=5tmGKTNW8DQ) gives a nice glimpse on what's happening now to accelerate hardware compute.
 
+[Chips and Cheese](https://chipsandcheese.com/) is nice blog.
+
 ## Notes
 
 - [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)

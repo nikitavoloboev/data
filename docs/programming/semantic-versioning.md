@@ -24,6 +24,7 @@
 - [semver-explain](https://github.com/alilleybrinker/semver-explain) - Explain semver requirements by converting them into less than, greater than, and/or equal to form.
 - [Why semver is broken - Rich Hickey (2016)](https://www.youtube.com/watch?v=oyLBGkS5ICk)
 - [Versio](https://github.com/chaaz/versio) - Version number manager.
+- [Sometimes I regret using CalVer (2023)](https://jacobtomlinson.dev/posts/2023/sometimes-i-regret-using-calver/) ([Lobsters](https://lobste.rs/s/bzmpqk/sometimes_i_regret_using_calver))
 
 ## Images
 

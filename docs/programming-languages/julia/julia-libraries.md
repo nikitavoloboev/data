@@ -138,6 +138,7 @@
 - [MetaLearning](https://github.com/domluna/MetaLearning) - Learning to learn fast using Flux.jl.
 - [ForwardDiffChainRules.jl](https://github.com/ThummeTo/ForwardDiffChainRules.jl)
 - [tinyrocm.jl](https://github.com/pxl-th/tinyrocm.jl) - Minimal implementation of AMDGPU ROCm programming in Julia from scratch.
+- [DiffEqNoiseProcess.jl](https://github.com/SciML/DiffEqNoiseProcess.jl) - Library of noise processes for stochastic systems like stochastic differential equations (SDEs) and other systems.
 
 ## Math
 
@@ -811,6 +812,8 @@
 - [Highlights](https://github.com/JuliaDocs/Highlights.jl) - Source code highlighter for Julia.
 - [PopGen](https://github.com/BioJulia/PopGen.jl) - Population Genetics in Julia.
 - [LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - Common framework for implementing and using log densities for inference.
+- [OpenAPI](https://github.com/JuliaComputing/OpenAPI.jl) - OpenAPI helper and code generator for Julia.
+- [GraphMakie](https://github.com/MakieOrg/GraphMakie.jl) - Plotting graphs with Makie.
 
 ## Links
 

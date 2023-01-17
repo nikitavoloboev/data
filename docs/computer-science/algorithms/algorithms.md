@@ -130,6 +130,7 @@
 - [Book Review: Algorithms to Live By - The Computer Science of Human Decisions](https://blog.galowicz.de/2022/12/28/book-review-algorithms-to-live-by/) ([HN](https://news.ycombinator.com/item?id=34161864))
 - [Zurich Algorithms Course (2020)](https://cadmo.ethz.ch/education/lectures/HS20/algolab/index.html) ([Code](https://github.com/simon-hrabec/Algolab-2020))
 - [Go Algorithms and Data Structures and Go Solution for LeetCode algorithm problems](https://github.com/TomorrowWu/golang-algorithms)
+- [Introduction to data structures and algorithms in Python](https://github.com/albanie/algorithms-and-data-structures)
 
 ## Images
 

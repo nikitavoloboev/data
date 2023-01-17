@@ -275,4 +275,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Puppeteer screen recorder](https://github.com/prasanaworld/puppeteer-screen-recorder) - Uses the native chrome devtool protocol for capturing video frame by frame.
 - [Origins, Sites and other Terminologies (2023)](https://frederik-braun.com/origins-sites-and-other-terminologies.html)
 - [History of Web Browser Engines from 1990 until today (2022)](https://eylenburg.github.io/browser_engines.htm) ([HN](https://news.ycombinator.com/item?id=34369560))
-- [For your next side project, make a browser extension (2023)](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html) ([HN](https://news.ycombinator.com/item?id=34391619))
+- [For your next side project, make a browser extension (2023)](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html) ([HN](https://news.ycombinator.com/item?id=34391619)) ([Lobsters](https://lobste.rs/s/e8w5bd/for_your_next_side_project_make_browser))

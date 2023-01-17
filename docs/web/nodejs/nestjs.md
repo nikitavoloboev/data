@@ -51,3 +51,4 @@ title: NestJS
 - [Nest framework TypeScript starter](https://github.com/mwanago/nestjs-typescript)
 - [NestJS Temporal](https://github.com/KurtzL/nestjs-temporal)
 - [Nest JS WebSockets - Guards and Authorization with CASL (2022)](https://www.delightfulengineering.com/blog/nest-websockets/guards-and-authorization)
+- [NestJS Starter](https://github.com/thisismydesign/nestjs-starter)

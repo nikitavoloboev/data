@@ -300,3 +300,4 @@
 - [Ask HN: What are best patterns for events in distributed transactions? (2022)](https://news.ycombinator.com/item?id=34171751)
 - [Thinking in Distributed Systems Book](https://book.dtornow.com/)
 - [Datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems. ([Reddit](https://www.reddit.com/r/rust/comments/104xebb/introducing_datacake_the_batteries_included/))
+- [Past Conferences | USENIX](https://www.usenix.org/conferences/past) ([Tweet](https://twitter.com/trishume/status/1615056984440553472?s=20))

@@ -66,6 +66,7 @@ title: OCaml libraries
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml. ([Web](https://erratique.ch/software/cmdliner)) ([Cmdliner cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet))
 - [Notty](https://github.com/pqwy/notty) - Declarative terminal graphics for OCaml.
 - [Progress](https://github.com/CraigFe/progress) - User-definable progress bars for OCaml.
+- [Clap](https://github.com/rbardou/clap) - Command-Line Argument Parsing.
 
 ## Error
 
@@ -239,6 +240,7 @@ title: OCaml libraries
 - [ezgzip](https://github.com/hcarty/ezgzip) - Simple gzip (de)compression library.
 - [Stores](https://github.com/fpottier/stores) - OCaml library that offers several implementations of (in-memory) stores.
 - [Logger](https://github.com/prosyslab/logger) - Library logger.
+- [Combo](https://github.com/4y8/combo) - Simple parser combinator library for Ocaml.
 
 ## Links
 

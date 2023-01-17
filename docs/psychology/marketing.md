@@ -211,6 +211,7 @@ Recently, I like how [CleanShot](https://twitter.com/cleanshot) iterates and sha
 - [Landing Page Copywriting Advice](https://twitter.com/dan_abramov/status/1603395450006126594)
 - [Vintage Apple advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/) ([HN](https://news.ycombinator.com/item?id=34007654))
 - [Underrated growth tool: playgrounds](https://twitter.com/rauchg/status/1609633615511711747)
+- [How to market your product not only on Twitter (2023)](https://twitter.com/pie6k/status/1615275903218778112)
 
 ## Images
 

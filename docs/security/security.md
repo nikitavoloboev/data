@@ -344,3 +344,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [z-tokens](https://github.com/volution/z-tokens) - Random tokens generation and related tools.
 - [How do you securely manage secrets in scripts and development environments? (2023)](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets)
 - [Ask HN: How do you trust that your personal machine is not compromised? (2023)](https://news.ycombinator.com/item?id=34388866)
+- [Legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub assets.

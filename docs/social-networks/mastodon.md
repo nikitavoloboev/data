@@ -159,3 +159,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Containerized Mastodon server on NixOS (2023)](https://blog.cyplo.dev/posts/2023/01/mastodon-nixos/)
 - [Mastodon on AWS](https://github.com/widdix/mastodon-on-aws)
 - [Ivory](https://tapbots.com/ivory/) - Mastodon iOS client.
+- [Adventures in Mastoland (2023)](https://searchtodon.social/Adventures-in-Mastoland.html) ([HN](https://news.ycombinator.com/item?id=34400143))

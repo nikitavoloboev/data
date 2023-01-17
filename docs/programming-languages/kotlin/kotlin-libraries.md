@@ -103,6 +103,7 @@
 - [Kopykat](https://github.com/kopykat-kt/kopykat) - Utilities for more pleasant immutable data in Kotlin.
 - [KoWasm](https://github.com/sdeleuze/kowasm) - WASI and WebAssembly Component Model support for Kotlin/Wasm.
 - [Wisp](https://github.com/cashapp/wisp) - Utilities, including config, logging, feature flags and more.
+- [Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform.
 
 ## Links
 

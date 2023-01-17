@@ -320,3 +320,5 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter performance prototype](https://github.com/trishume/twitterperf) - Rust prototype of handling the full production load of Twitter's core timeline collation on a single core by only doing the very basics in-memory.
 - [Hive.one](https://hive.one/) - Find reputable Twitter accounts.
 - [Caching at Twitter with Yao Yue (2023)](https://softwareengineeringdaily.com/2023/01/12/caching-at-twitter-with-yao-yue/)
+- [Twitter Blue data](https://github.com/travisbrown/blue)
+- [Twitter Bio Generator](https://www.twitterbio.com/) ([Code](https://github.com/Nutlope/twitterbio))

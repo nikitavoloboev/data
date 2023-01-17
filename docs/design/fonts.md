@@ -453,3 +453,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Font Preview VSCode](https://github.com/AdamRaichu/vscode-font-viewer) - VS Code extension which allows you to preview fonts.
 - [Ultimate List of Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs)
 - [What fonts are you using other than Inter?](https://twitter.com/CharlesPattson/status/1612782418942910465)
+- [OpenType Collective](https://www.opentypecollective.com/) - Collection of open source typefaces that you can use on any open source project. ([Reddit](https://www.reddit.com/r/sveltejs/comments/10dhtdu/just_launched_my_first_svelte_project_an/))

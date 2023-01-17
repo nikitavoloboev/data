@@ -141,3 +141,4 @@ title: GPU
 - [EnvyControl](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux.
 - [Awesome GPU](https://github.com/Jokeren/Awesome-GPU)
 - [Use.GPU Goes Trad (2023)](https://acko.net/blog/use-gpu-goes-trad/) ([HN](https://news.ycombinator.com/item?id=34384719))
+- [GPU Caching Compared Among AMD, Intel UHD, Apple M1 (2022)](https://chipsandcheese.com/2022/05/21/igpu-cache-setups-compared-including-m1/) ([HN](https://news.ycombinator.com/item?id=34403464))

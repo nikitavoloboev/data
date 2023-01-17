@@ -107,3 +107,4 @@
 - [Agola](https://github.com/agola-io/agola) - CI/CD Redefined. ([Docs](https://agola.io/))
 - [Datadog CI](https://github.com/DataDog/datadog-ci) - Use Datadog from your CI.
 - [Continuous Benchmarking, Done Right](https://github.com/asayers/cbdr) - Run benchmarks as part of your continuous integration ⇒ automatically flag MRs which regress performance.
+- [Feature Flags in a CI Pipeline (2023)](https://andydote.co.uk/2023/01/16/feature-flags-ci/)

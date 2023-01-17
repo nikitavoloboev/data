@@ -414,3 +414,6 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Is coding in Rust as bad as in C++? (2023)](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/) ([Lobsters](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c)) ([HN](https://news.ycombinator.com/item?id=34271293)) ([Reddit](https://www.reddit.com/r/rust/comments/104md0s/is_coding_in_rust_as_bad_as_in_c_a_practical/))
 - [Rust vs C++ Formatting (2023)](https://brevzin.github.io//c++/2023/01/02/rust-cpp-format/) ([Reddit](https://www.reddit.com/r/rust/comments/1078yxg/rust_vs_c_formatting/))
 - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection (2023)](https://download.vusec.net/papers/chop_ndss23.pdf)
+- [CppBenchmark](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision.
+- [C++ vs Rust: which is faster? (2023)](https://www.youtube.com/watch?v=VMpSYJ_7aYM)
+- [Rust vs. C++ Formatting (2023)](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/) ([HN](https://news.ycombinator.com/item?id=34392590))

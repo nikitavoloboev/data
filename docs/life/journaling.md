@@ -6,7 +6,7 @@ I try to be radically open about how I feel and where I stand in life. What worr
 
 I try to share these journal entries freely with all in my [look backs](../looking-back/looking-back.md). It's hard to show vulnerability for all to see but in some ways its freeing too and it's been getting easier to do as I do more of them.
 
-I use [Day One](https://dayoneapp.com/) for my private entries. Usually talking about my family, my love life or any truly private events I want to discuss and talk about there. Nothing beats a private journal in helping you sort your life out.  
+I use [Day One](https://dayoneapp.com/) for my private entries. Usually talking about my family, my love life or any truly private events I want to discuss and talk about there. Nothing beats a private journal in helping you sort your life out.
 
 I started with journaling by writing [Day Evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) on [cube calendar](https://www.thecubecalendar.com/en/news) I got from my girlfriend. The little space on the card had just enough space to write something memorable that happened to me during the day. It was lovely.
 
@@ -51,3 +51,4 @@ I love reading these journals:
 - [Self-Dialogue as a Journaling Strategy (2022)](https://sadgrl.online/blog/entries/selfinterview.html) ([HN](https://news.ycombinator.com/item?id=32237190))
 - [Ведение дневника на ежедневной основе](https://twitter.com/etosamoe3/status/1570785865328390146)
 - [Ask HN: How do you maintain your daily log? (2022)](https://news.ycombinator.com/item?id=33359329)
+- [GPT-3 Is the Best Journal I’ve Ever Used (2023)](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used) ([HN](https://news.ycombinator.com/item?id=34402648))

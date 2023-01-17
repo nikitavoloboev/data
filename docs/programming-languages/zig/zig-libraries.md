@@ -24,6 +24,7 @@
 - [HTTP](https://github.com/ducdetronquito/http) - HTTP core types for Zig.
 - [Zelda](https://github.com/haze/zelda) - Simple HTTP client library for Zig.
 - [ziget](https://github.com/marler8997/ziget) - Zig library/tool to request network assets.
+- [Zap](https://github.com/renerocksai/zap) - Blazingly fast backends in zig.
 
 ## DB
 

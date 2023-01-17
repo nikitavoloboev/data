@@ -106,7 +106,7 @@ title: SQL
 - [Use The Index, Luke](https://use-the-index-luke.com/) - SQL indexing and tuning tutorial for developers.
 - [SQL and aggregated data: is there a better way?](https://github.com/zsvoboda/gooddata-jdbc/wiki/SQL-and-aggregated-data:-is-there-a-better-way%3F)
 - [Double-thinking in SQL (2009)](https://explainextended.com/2009/07/12/double-thinking-in-sql/)
-- [Objection to ORM Hatred (2019)](https://www.jakso.me/blog/objection-to-orm-hatred) ([HN](https://news.ycombinator.com/item?id=26076622))
+- [Objection to ORM Hatred (2019)](https://www.jakso.me/blog/objection-to-orm-hatred) ([HN](https://news.ycombinator.com/item?id=26076622)) ([HN](https://news.ycombinator.com/item?id=34396961))
 - [Lobsters: Why is SQL so successful? (2021)](https://lobste.rs/s/snflhf/why_is_sql_so_successful)
 - [How Materialize and other databases optimize SQL subqueries (2021)](https://scattered-thoughts.net/writing/materialize-decorrelation)
 - [Advanced SQL Questions From Amazon (2021)](https://www.youtube.com/watch?v=VYeevsVj4fU)

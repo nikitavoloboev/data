@@ -619,6 +619,7 @@
 - [HostingPassthrough](https://github.com/Priva28/HostingPassthrough) - Let SwiftUI and UIKit views live in harmony.
 - [ParallaxSwiftUI](https://github.com/Priva28/ParallaxSwiftUI) - Add a motion parallax effect to your SwiftUI views to add some depth to your UI.
 - [SwiftUI Hooks Form](https://github.com/dungntm58/swiftui-hooks-form) - SwiftUI implementation of React Hooks Form.
+- [FloatingTabBar](https://github.com/claudiaeng/FloatingTabBar) - Aesthetic floating tab bar – SwiftUI & Combine.
 
 ## Test
 
@@ -1385,6 +1386,8 @@
 - [ThirtyTo](https://github.com/brightdigit/ThirtyTo) - Encode, Decode and Generate Random String in Base32Crockford Format.
 - [OpenAlpha](https://github.com/colealanroberts/OpenAlpha) - Swift package for retrieving images from Sony digital cameras.
 - [AttributedString Builder](https://github.com/objcio/attributed-string-builder) - Simple way to build up attributed strings using result builders from a variety of sources.
+- [StripeKit](https://github.com/vapor-community/stripe-kit) - Swift package used to communicate with the Stripe API for Server Side Swift Apps.
+- [TaskGroupsResultBuilder](https://github.com/AvdLee/TaskGroupsResultBuilder) - ResultBuilder to use to bundle tasks together.
 
 ## Other (not lib)
 

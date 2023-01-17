@@ -159,3 +159,4 @@ I note all my ideas in [LA](learn-anything.md). For ideas I am exceptionally exc
 - [Ask HN: Those with money-making side projects,how did you come up with the idea? (2022)](https://news.ycombinator.com/item?id=33942558)
 - [Ask HN: How do you recall ideas/eureka you get during walks, showers, etc.? (2022)](https://news.ycombinator.com/item?id=34185635)
 - [Ask HN: Those making $500/month on side projects in 2022 – Show and tell](https://news.ycombinator.com/item?id=34190421)
+- [Ask HN: How to come up with ideas for micro side projects? (2023)](https://news.ycombinator.com/item?id=34408192)

@@ -220,6 +220,7 @@
 - [Nim (2022)](https://ryan.freumh.org/blog/nim/)
 - [Functional languages index](https://github.com/cblp/funlangs)
 - [Postfix Haskell](https://github.com/dvtate/postfix-haskell) - Low-level, postfix, functional programming language that compiles to WebAssembly.
+- [Glask](https://github.com/lambduli/glask) - Statically typed, lazy, pure functional programming language.
 
 ## Images
 

@@ -243,3 +243,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [esp-rs with nix](https://github.com/newAM/esp-rs-nix) - esp-rs tools packaged with nix.
 - [Foxtrot](https://github.com/Formlabs/foxtrot) - Fast, experimental STEP file viewer.
 - [Espressif's SDK for Matter](https://github.com/espressif/esp-matter)
+- [Best YouTube channels to learn embedded systems development? (2023)](https://www.reddit.com/r/embedded/comments/10db8g7/best_youtube_channels_to_learn_embedded_systems/)

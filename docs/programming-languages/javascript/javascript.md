@@ -493,4 +493,4 @@ if (
 - [grasp](https://github.com/gkz/grasp) - JavaScript structural search, replace, and refactor.
 - [JavaScript Rising Stars](https://risingstars.js.org/) - Overview of the JavaScript landscape. ([Code](https://github.com/bestofjs/javascript-risingstars))
 - [State of JavaScript 2022](https://2022.stateofjs.com/en-US/) ([HN](https://news.ycombinator.com/item?id=34334887))
-- [Speeding up the JavaScript ecosystem - module resolution (2023)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/)
+- [Speeding up the JavaScript ecosystem - module resolution (2023)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/) ([HN](https://news.ycombinator.com/item?id=34402752))

@@ -279,3 +279,4 @@ title: Bioinformatics
 - [Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies (2022)](https://www.biorxiv.org/content/10.1101/2022.04.20.488972v2) ([Code](https://github.com/Graylab/IgFold))
 - [Awesome Biomechanics](https://github.com/modenaxe/awesome-biomechanics)
 - [Spateo](https://github.com/aristoteleo/spateo-release) - Spatiotemporal modeling of spatial transcriptomics.
+- [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)

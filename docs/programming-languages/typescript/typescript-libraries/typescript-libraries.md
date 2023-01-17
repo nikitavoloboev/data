@@ -754,6 +754,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypedEventTarget](https://github.com/DerZade/typescript-event-target) - Strictly typed EventTarget that directly extends EventTarget to function as a drop-in replacement.
 - [nason](https://github.com/Simonwep/nason) - Ultra tiny serializer / encoder with plugin-support. Useful to build binary files containing images, strings, numbers and more.
 - [Clipboard TS](https://github.com/wesbos/clipboard-ts) - Take TS via argv[2], convert to JS and pass back via process.stdout.
+- [Structura.js](https://github.com/giusepperaso/structura.js) - Very fast and lightweight Typescript library to create immutable states with a mutable syntax.
 
 ## Links
 
@@ -865,3 +866,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Effect TS Crash Course](https://github.com/pigoz/effect-crashcourse)
 - [When should you use Zod? (2023)](https://www.totaltypescript.com/when-should-you-use-zod) ([Tweet](https://twitter.com/mattpocockuk/status/1612397810183274497))
 - [How to publish packages to npm in 2023](https://www.youtube.com/watch?v=eh89VE3Mk5g)
+- [pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) - Better and interactive pnpm patch.

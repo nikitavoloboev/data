@@ -17,6 +17,7 @@
 - [Lexopt](https://github.com/blyxxyz/lexopt) - Simple argument parser for Rust.
 - [xflags](https://github.com/matklad/xflags) - Moderately simple command line arguments parsing.
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/)) ([clap-markdown](https://github.com/ConnorGray/clap-markdown))
+- [clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using clap.
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
@@ -2528,6 +2529,8 @@
 - [rust_box2d](https://github.com/Bastacyclop/rust_box2d) - Library wrapping around the Box2D physics engine.
 - [LogLog](https://github.com/rustshop/loglog) - Distributed, fault tolerant, strongly consistent, performant (event)log in Rust.
 - [redeez-rs](https://github.com/m1guelpf/redeez-rs) - Simplified general-purpose queueing system for Rust apps.
+- [Rust LiveKit SDK](https://github.com/livekit/client-sdk-rust)
+- [glob-match](https://github.com/devongovett/glob-match) - Extremely fast glob matching library with support for wildcards, character classes, and brace expansion.
 
 ## Cargo Plugins
 
@@ -2642,6 +2645,7 @@
 - [cargo-sandbox](https://github.com/insanitybit/cargo-sandbox/) - Drop-in replacement for cargo, with the added benefit of isolating those commands from other parts of your system. ([Lobsters](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed))
 - [cargo-cabal](https://github.com/yvan-sraka/cargo-cabal) - Tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
 - [cargo-config2](https://github.com/taiki-e/cargo-config2) - Load and resolve Cargo configuration.
+- [cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package.
 
 ## Notes
 
@@ -2840,3 +2844,4 @@
 - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
 - [Easy-Release](https://github.com/jkelleyrtp/cargo-easy-release) - GUI tool written in Dioxus to make it easy to release a workspace of crates to crates.io.
 - [What are some less popular but well-made crates you'd like others to know about? (2023)](https://www.reddit.com/r/rust/comments/106w4ao/what_are_some_less_popular_but_wellmade_crates/)
+- [Aya Template](https://github.com/aya-rs/aya-template) - Cargo-generate template for Rust eBPF Projects using Aya.

@@ -94,3 +94,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [WGSL 2D Outline Shader](https://github.com/theseatoad/bevy-simple-2d-outline)
 - [Inverse kinematics for Bevy](https://github.com/Kurble/bevy_mod_inverse_kinematics)
 - [bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy.
+- [Scaling Bevy Development (2023)](https://bevyengine.org/news/scaling-bevy-development/) ([HN](https://news.ycombinator.com/item?id=34387062))

@@ -817,3 +817,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [ExifTool](https://exiftool.org/) - Read, Write and Edit Meta Information. ([HN](https://news.ycombinator.com/item?id=34373928))
 - [Kody Tools](https://www.kodytools.com/) - Various tools. ([HN](https://news.ycombinator.com/item?id=34381895))
 - [Quill](https://quill.do) - Craft forms, pages, and documents. ([Twitter](https://twitter.com/CraftQuill))
+- [Golden Kitty Awards | Product Hunt](https://www.producthunt.com/golden-kitty-awards)

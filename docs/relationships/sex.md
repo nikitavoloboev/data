@@ -171,3 +171,4 @@
 - [Non hormonal birth control options](https://www.reddit.com/r/sex/comments/10b44ay/after_trying_out_sex_without_a_condom_bf_no/)
 - [What are the chances of getting Herpes?](https://www.reddit.com/r/sexover30/comments/10ahey0/what_are_the_chances_of_getting_herpes/)
 - [Advice on post divorce 38M](https://www.reddit.com/r/sexover30/comments/zzjgaa/im_getting_divorced_after_infidelity_38m_married/)
+- [Как делать кунилингус](https://twitter.com/capwell_cc/status/1615056345308270600)

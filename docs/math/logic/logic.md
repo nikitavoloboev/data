@@ -96,3 +96,4 @@
 - [W-types in setoids (2018)](https://arxiv.org/abs/1809.02375) ([Code](https://github.com/j-emmen/W-types-in-setoids))
 - [The Logic of Logical Necessity (2022)](https://philpapers.org/archive/BACTLO-7.pdf)
 - [What logic can teach us, Scala programmers (2022)](https://www.youtube.com/watch?v=ZgZUFomu8pQ)
+- [Logic at its Limit: The Grelling-Nelson Paradox (2023)](https://www.youtube.com/watch?v=U2l-Ty5yyU4) ([Lobsters](https://lobste.rs/s/jwrrjo/logic_at_its_limit_grelling_nelson))

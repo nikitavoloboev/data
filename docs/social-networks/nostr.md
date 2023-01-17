@@ -6,6 +6,7 @@ title: Nostr
 
 ## Links
 
+- [Nostr Code](https://github.com/fiatjaf/nostr)
 - [Nostr Implementation Possibilities](https://github.com/nostr-protocol/nips)
 - [Nostr Tools](https://github.com/fiatjaf/nostr-tools) - Tools for developing Nostr clients.
 - [Easy Nostr](https://github.com/fiatjaf/easy-nostr) - Nostr interface for building clients that abstracts all the complexity.
@@ -24,3 +25,9 @@ title: Nostr
 - [strfry](https://github.com/hoytech/strfry) - Nostr relay.
 - [nostcat](https://github.com/blakejakopovic/nostcat) - WebSocket client for nostr relay scripting.
 - [nostreq](https://github.com/blakejakopovic/nostreq) - Nostr relay event request generator.
+- [Lobsters: Nostr](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by)
+- [HN: Nostr](https://news.ycombinator.com/item?id=29749061)
+- [Nostr Intro](https://wiki.wellorder.net/post/nostr-intro/)
+- [Lobsters: Nostr](https://lobste.rs/s/mv74ka/nostr_introduction)
+- [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
+- [HN: Nostr](https://news.ycombinator.com/item?id=33746360)

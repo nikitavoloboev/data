@@ -142,3 +142,4 @@ title: Electrical engineering
 - [The Inner Beauty of Basic Electronics (2023)](https://spectrum.ieee.org/open-circuits) ([HN](https://news.ycombinator.com/item?id=34384825))
 - [PCBmodE](https://github.com/boldport/pcbmode) - Circuit board design software written in Python.
 - [pcbflow](https://github.com/michaelgale/pcbflow) - Python based Printed Circuit Board (PCB) layout and design package based on CuFlow.
+- [TAB electronics books](https://worldradiohistory.com/BOOKSHELF-ARH/Bookshelf_TAB.htm) ([HN](https://news.ycombinator.com/item?id=34386066))

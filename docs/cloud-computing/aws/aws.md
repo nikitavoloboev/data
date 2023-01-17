@@ -434,3 +434,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [eksdemo](https://github.com/aaroniscode/eksdemo) - kubectl-like CLI for Amazon EKS.
 - [aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [Basti](https://github.com/BohdanPetryshyn/basti) - Connect to AWS DBs with no idle cost. No SSH keys. IAM-driven.
+- [s3s](https://github.com/Nugine/s3s) - S3 Service Adapter.

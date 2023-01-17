@@ -42,3 +42,4 @@
 - [Ask HN: Where are the good platforms for contract work? (2022)](https://news.ycombinator.com/item?id=32837800)
 - [instaprice](https://instaprice.app/) - Freelance quotes calculator.
 - [Ask HN: Hourly billers, do you bill for only focused work? (2022)](https://news.ycombinator.com/item?id=33610147)
+- [Ask HN: When to make the jump to freelance/consultant? (2023)](https://news.ycombinator.com/item?id=34400435)

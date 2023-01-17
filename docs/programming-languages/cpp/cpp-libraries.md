@@ -472,6 +472,7 @@
 - [riptide_cpp](https://github.com/rtosholdings/riptide_cpp) - Multihreaded 64 bit c++ files for processing numba arrays.
 - [ProxSuite](https://github.com/Simple-Robotics/proxsuite) - Advanced Proximal Optimization Toolbox.
 - [bin2cpp](https://github.com/end2endzone/bin2cpp) - Easiest way to embed small files into a c++ executable.
+- [gcl](https://github.com/bloomen/gcl) - Graph concurrent library for C++.
 
 ## Links
 

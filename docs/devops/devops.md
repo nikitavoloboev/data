@@ -241,3 +241,5 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Miradors](https://github.com/benjaminch/miradors) - Simple tool allowing you to monitor is your websites are up and send you an email if not.
 - [tandem](https://github.com/rosszurowski/tandem) - Parallel task runner for servers and long-running commands.
 - [Single-file scripts that download their dependencies](https://dbohdan.com/scripts-with-dependencies) ([HN](https://news.ycombinator.com/item?id=34388826))
+- [EnvShare](https://envshare.dev/) - Share Environment Variables Securely. ([Code](https://github.com/chronark/envshare))
+- [Edge Flags](https://github.com/upstash/edge-flags) - Feature flags for edge functions.

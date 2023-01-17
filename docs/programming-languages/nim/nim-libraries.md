@@ -33,6 +33,7 @@
 
 - [CLIche](https://github.com/juancarlospaco/cliche) - AutoMagic CLI argument parsing is cliche.
 - [Bossy](https://github.com/guzba/bossy) - Simpler way to work with command line arguments.
+- [cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing.
 
 ## DB
 
