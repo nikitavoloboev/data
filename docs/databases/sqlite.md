@@ -297,3 +297,4 @@ Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/lib
 - [LiteSync](https://litesync.io/en/index.html) - Easy synchronization of SQLite databases. ([HN](https://news.ycombinator.com/item?id=34265261))
 - [Mycelite](https://github.com/mycelial/mycelite) - SQLite extension that allows you to synchronize changes from one instance of SQLite to another. ([Web](https://mycelial.com/))
 - [SQLite WASM in the browser backed by the origin private file system (2023)](https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/) ([HN](https://news.ycombinator.com/item?id=34352935))
+- [sqlite-xsv](https://github.com/asg017/sqlite-xsv) - Fastest CSV SQLite extension, written in Rust. ([Intro](https://observablehq.com/@asg017/introducing-sqlite-xsv))

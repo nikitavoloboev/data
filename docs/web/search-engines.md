@@ -309,3 +309,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Rust Search](https://github.com/ParthJadhav/rust_search) - Fast file search library built in Rust.
 - [Building an Internet Scale Meme Search Engine (2023)](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html) ([HN](https://news.ycombinator.com/item?id=34315782))
 - [Pathery](https://github.com/tvanhens/pathery) - Serverless search service built on AWS using Rust, CDK and Tantivy.
+- [FindThatMeme](https://findthatmeme.com/) - Meme Search Engine.

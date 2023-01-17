@@ -36,3 +36,4 @@ title: tRPC
 - [tRPC starter repo with E2E-testing](https://github.com/trpc/examples-next-prisma-starter)
 - [tRPC Limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Multiple Frameworks.
 - [GraphQL or tRPC Data Discussion (2023)](https://www.youtube.com/watch?v=TFTpOn-MvCA)
+- [How tRPC really works (2023)](https://www.youtube.com/watch?v=x4mu-jOiA0Q)
