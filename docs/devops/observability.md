@@ -82,3 +82,7 @@ title: Observability
 - [Using eBPF and predefined inspections to minimize “observability tax” (2022)](https://coroot.com/blog/minimizing-observability-tax) ([HN](https://news.ycombinator.com/item?id=34149804))
 - [Odigos](https://github.com/keyval-dev/odigos) - Adopt Distributed Tracing in Minutes.
 - [Last9](https://last9.io/) - Providing visibility into microservices.
+- [Weasel](https://github.com/instana/weasel) - Gather end-user browser performance data.
+- [Instana](https://www.instana.com/) - Enterprise Observability and APM for Cloud-Native Applications. ([GitHub](https://github.com/instana))
+- [Instana Go Collector](https://github.com/instana/go-sensor) - Go Distributed Tracing & Metrics Sensor for Instana.
+- [Dynolog](https://github.com/facebookincubator/dynolog) - Performance monitoring daemon for heterogeneous CPU-GPU systems.

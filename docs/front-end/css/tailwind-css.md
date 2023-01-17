@@ -190,3 +190,4 @@ I always value readability and extendability over being able to write/edit thing
 - [stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast.
 - [Don't use Tailwind for your Design System (2021)](https://sancho.dev/blog/tailwind-and-design-systems) ([HN](https://news.ycombinator.com/item?id=34336576))
 - [Tailwind Tagged](https://github.com/jacob-ebey/tailwind-tagged) - Way to use tailwind by writing standard CSS.
+- [tw variants](https://github.com/Mokshit06/tw-variants) - Tailwind variant grouping without increasing CSS size.

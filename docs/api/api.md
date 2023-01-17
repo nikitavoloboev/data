@@ -12,7 +12,7 @@ Looking into using [Chiselstrike](../tools/chiselstrike.md) for making [REST](..
 
 ## Other
 
-- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli)) ([Node](https://github.com/openai/openai-node))
+- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli)) ([Node](https://github.com/openai/openai-node)) ([Rust](https://github.com/deontologician/openai-api-rust))
 - [OpenAI Fetch](https://github.com/rileytomasek/openai-fetch) - Minimal and opinionated OpenAI client powered by fetch.
 - [OpenAI Elixir](https://github.com/hernanat/open_ai_ex)
 - [Google Drive](https://github.com/prasmussen/gdrive)
@@ -461,3 +461,5 @@ Looking into using [Chiselstrike](../tools/chiselstrike.md) for making [REST](..
 - [Nice Texting APIs (2022)](https://twitter.com/VictorPontis/status/1606010064011087872)
 - [CyberAPI](https://github.com/vicanso/cyberapi) - API tool based on tauri, it is smaller and faster.
 - [Postman to OpenAPI](https://github.com/joolfe/postman-to-openapi)
+- [Postman Mock Server](https://github.com/dvincenz/postman-mockserver) - Console application that starts a server which reads postman collection configuration and emulates a mock server.
+- [OpenAPI Mock Server](https://github.com/muonsoft/openapi-mock) - OpenAPI API mock server with random data generation by specified schemas.

@@ -690,7 +690,7 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [huffplate](https://github.com/abigger87/huffplate) - Robust, Extensible Template for Huff Projects.
 - [optimint](https://github.com/celestiaorg/optimint) - ABCI-client implementation for Optimistic Rollups.
 - [pair_sync](https://github.com/0xKitsune/pair_sync) - Simple library to get all pairs from any Dex and sync reserves.
-- [Tornado Cash](https://github.com/tornadocash) - Privacy Solution for Ethereum.
+- [Tornado Cash](https://github.com/tornadocash) - Privacy Solution for Ethereum. ([Code](https://github.com/tornadocash/tornado-core))
 - [Art Gobblers](https://github.com/artgobblers/art-gobblers) - Experimental decentralized art factory by Justin Roiland and Paradigm.
 - [Zora Create / Mint Page Template](https://github.com/ourzora/mint-page-template)
 - [Solbase](https://github.com/Sol-DAO/solbase) - Modern, opinionated, and gas optimized base for smart contract development.
@@ -754,3 +754,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Papyrus](https://github.com/starkware-libs/papyrus) - StarkNet full node written in Rust.
 - [AA - Bundler](https://github.com/Vid201/aa-bundler) - EIP-4337 (Account Abstraction) - Bundler implementation in Rust.
 - [Disassembling EVM Bytecode (the Basics) (2023)](https://whileydave.com/2023/01/04/disassembling-evm-bytecode-the-basics/)
+- [Calldata Decoder](https://github.com/degatchi/calldata-decoder) - Black-box raw calldata decoder using only calldata to guess types and parse parameters.

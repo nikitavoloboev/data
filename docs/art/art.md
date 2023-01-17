@@ -579,3 +579,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Art Prints by Titsay](https://www.inprnt.com/gallery/titsay/)
 - [INPRNT](https://www.inprnt.com/) - Gallery Quality Art Prints.
 - [Moiré no more (2021)](https://newsletter.shifthappens.site/archive/moire-no-more/)
+- [Ask HN: How do I get into Art? (2023)](https://news.ycombinator.com/item?id=34416748)

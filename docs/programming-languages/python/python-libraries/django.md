@@ -183,3 +183,4 @@ title: Django
 - [Weeknotes: DjangoCon, SQLite in Django, datasette-gunicorn (2022)](https://simonwillison.net/2022/Oct/23/datasette-gunicorn/)
 - [Django safedelete](https://github.com/makinacorpus/django-safedelete) - Mask your objects instead of deleting them from your database.
 - [Strawberry GraphQL Django integration](https://github.com/strawberry-graphql/strawberry-graphql-django)
+- [Silk](https://github.com/jazzband/django-silk) - Live profiling and inspection tool for the Django framework.

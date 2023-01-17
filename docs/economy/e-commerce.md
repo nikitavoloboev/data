@@ -197,3 +197,4 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 - [WooNuxt](https://github.com/scottyzen/woonuxt) - Headless eCommerce powered by WooCommerce and Nuxt.
 - [EverShop](https://github.com/evershopcommerce/evershop) - GraphQL Based and React ecommerce platform with essential commerce features.
 - [Remix E Commerce Site](https://github.com/jacob-ebey/remix-ecommerce)
+- [A Journey in E-commerce Search (2023)](https://danpalmer.me/2023-01-15-ecommerce-search-journey/)

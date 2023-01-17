@@ -320,3 +320,4 @@ title: HTTP
 - [HTTP/3 Prioritization Demystified (2022)](https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/) ([HN](https://news.ycombinator.com/item?id=34231934))
 - [HTTPie AI (2023)](https://httpie.io/blog/ai)
 - [Peeking into HTTPS Traffic with a Proxy (2022)](https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy)
+- [Killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go.

@@ -61,3 +61,4 @@ Love [0010](https://www.instagram.com/dhjs_0010/)'s [art](art.md).
 - [Kim Jung Gi's drawing is incredible](https://twitter.com/kimsokol/status/1577746930242813952)
 - [NetCanv](https://github.com/liquidev/netcanv) - Lightweight app for real-time online collaborative painting.
 - [A quick beginner’s guide to drawing (2022)](https://ralphammer.substack.com/p/a-quick-beginners-guide-to-drawing)
+- [Keys to Drawing](https://archive.org/details/Keys_to_Drawing/mode/2up)

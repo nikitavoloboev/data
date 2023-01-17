@@ -245,3 +245,4 @@ title: Vue.js
 - [Nuxt Prometheus](https://github.com/artmizu/nuxt-prometheus) - Prometheus metrics for NodeJS and a set of custom metrics for Nuxt applications.
 - [Server Routes in Nuxt 3 (2023)](https://masteringnuxt.com/blog/server-routes-in-nuxt-3)
 - [Nuxt Config Schema](https://github.com/nuxt-experiments/nuxt-config-schema) - Automatically infers and generates schema based on user provided configuration for Nuxt.
+- [NuxtJS Robots](https://github.com/nuxt-community/robots-module) - Nuxt.js module that injects a middleware to generate a robots.txt file.

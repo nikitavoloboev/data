@@ -844,6 +844,7 @@
 - [Burn](https://github.com/burn-rs/burn) - Deep learning framework with extreme flexibility written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ynquym/announcing_burn_new_deep_learning_framework_with/))
 - [FFSVM-Rust](https://github.com/ralfbiedert/ffsvm-rust) - Really Fast Support Vector Machine.
 - [rusTy](https://github.com/dluman/rusTy) - Rust bindings for the spaCy library.
+- [RSRL](https://github.com/tspooner/rsrl) - Fast, safe and easy to use reinforcement learning framework in Rust.
 
 ## macOS
 
@@ -870,6 +871,7 @@
 - [coreaudio-rs](https://github.com/RustAudio/coreaudio-rs) - Friendly rust interface to Apple's Core Audio API.
 - [Applevisor](https://github.com/Impalabs/applevisor) - Rust bindings for the Apple Silicon Hypervisor.framework.
 - [darwin-libproc](https://github.com/heim-rs/darwin-libproc) - Rust FFI bindings for macOS libproc.
+- [imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics.
 
 ## Macros
 
@@ -2531,6 +2533,10 @@
 - [redeez-rs](https://github.com/m1guelpf/redeez-rs) - Simplified general-purpose queueing system for Rust apps.
 - [Rust LiveKit SDK](https://github.com/livekit/client-sdk-rust)
 - [glob-match](https://github.com/devongovett/glob-match) - Extremely fast glob matching library with support for wildcards, character classes, and brace expansion.
+- [fastblur](https://github.com/fschutt/fastblur) - Fast (linear time) implementation of the Gaussian Blur algorithm in Rust.
+- [Serde Querystrings](https://github.com/samscott89/serde_qs) - Rust library for serialising to and deserialising from querystrings.
+- [Scoped-Arena](https://github.com/zakarumych/scoped-arena) - Arena allocator with explicit scopes.
+- [HIDEFIX](https://github.com/gauteh/hidefix) - Concurrent HDF5 and NetCDF4 reader.
 
 ## Cargo Plugins
 

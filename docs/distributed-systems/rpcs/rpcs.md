@@ -64,3 +64,4 @@ title: Remote Procedure Calls
 - [SPRC](https://github.com/sogou/srpc) - High performance, low latency, lightweight enterprise-level RPC system. Supports Baidu bRPC, Tencent tRPC, thrift protocols.
 - [eRPC](https://github.com/erpc-io/eRPC) - Fast and general-purpose RPC library for datacenter networks. ([Tweet](https://twitter.com/trishume/status/1610427542955257857))
 - [dudirekta](https://github.com/pojntfx/dudirekta) - Transport-agnostic framework that allows exposing and calling functions on both clients and servers.
+- [TSRPC](https://github.com/k8w/tsrpc) - TypeScript RPC framework with runtime type checking and binary serialization.

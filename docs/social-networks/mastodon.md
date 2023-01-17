@@ -130,7 +130,7 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Movetodon](https://www.movetodon.org/) - Find your Twitter Friends on Mastodon.
 - [I Was Wrong About Mastodon (2022)](https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html)
 - [Toot-Relay](https://github.com/DagAgren/toot-relay) - Relay that forwards web push notifications to APNs, built for Toot!.app but usable for anyone.
-- [Mastodon Digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular tweets from your Mastodon timeline.
+- [Mastodon Digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular tweets from your Mastodon timeline. ([Fork](https://github.com/mauforonda/mastodon_digest))
 - [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU social-compatible ActivityPub and OStatus server implementation.
 - [Phanpy](https://github.com/cheeaun/phanpy) - Minimalistic opinionated Mastodon web client.
 - [FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
@@ -160,3 +160,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Mastodon on AWS](https://github.com/widdix/mastodon-on-aws)
 - [Ivory](https://tapbots.com/ivory/) - Mastodon iOS client.
 - [Adventures in Mastoland (2023)](https://searchtodon.social/Adventures-in-Mastoland.html) ([HN](https://news.ycombinator.com/item?id=34400143))
+- [Ask HN: What interesting people are you following on Mastodon? (2023)](https://news.ycombinator.com/item?id=34413641)

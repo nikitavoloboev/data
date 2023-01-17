@@ -517,3 +517,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Is MusicGPT a viable possibility? (2023)](https://www.reddit.com/r/MachineLearning/comments/10bddey/d_is_musicgpt_a_viable_possibility/)
 - [Interactive Music Theory Cheat Sheet](https://muted.io/cheat-sheet/) ([HN](https://news.ycombinator.com/item?id=34387982))
 - [Music Mixing Style Transfer](https://github.com/jhtonyKoo/music_mixing_style_transfer)
+- [Common Lisp and Music Composition](https://ldbeth.sdf.org/articles/cm.html)

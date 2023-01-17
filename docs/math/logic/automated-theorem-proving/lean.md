@@ -129,3 +129,4 @@ title: Lean
 - [mlir-lean](https://github.com/opencompl/lean-mlir) - Embedded MLIR in LEAN.
 - [Parser for ANSI C, in Lean 4](https://github.com/opencompl/C-parsing-for-Lean4)
 - [Formalization of DBSP in Lean](https://github.com/tchajed/database-stream-processing-theory)
+- [Mechanizing Modern Mathematics (2023)](https://www.typetheoryforall.com/2023/01/16/26-Kevin-Buzzard.html#07a08a85)

@@ -4,6 +4,8 @@ I keep a [Notion page](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5
 
 [Zotero](https://www.zotero.org/) is neat. [Papers We Love](https://github.com/papers-we-love/papers-we-love) is a great community.
 
+[Math as Code](https://github.com/Jam3/math-as-code) is nice to read to better understand math notation in papers.
+
 Below is a list of research papers I read with a link to my own notes of the paper.
 
 ## 2017

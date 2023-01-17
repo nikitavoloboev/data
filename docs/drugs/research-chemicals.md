@@ -36,7 +36,7 @@ Mostly only do occasional trips on [tryptamines](psychedelics/tryptamines/trypta
 - [A Beginner's Guide to RC Psychedelics](https://www.reddit.com/r/researchchemicals/comments/7qep7b/a_beginners_guide_to_rc_psychedelics/)
 - [Ban RC in Netherlands, what substances you are going to stock up? (2019)](https://www.reddit.com/r/researchchemicals/comments/bhxh6o/ban_rc_in_netherlands_what_substances_you_are/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/cf4431/what_is_your_favorite_rc_and_why/)
-- [Lizard Labs](https://lizardlabs.eu/) - Wholesale supplier of novel lysergamides, tryptamines, phenethylamines and related compounds. ([Retailers](https://lizardlabs.eu/retailers/))
+- [Lizard Labs](https://lizardlabs.nl/) - Wholesale supplier of novel lysergamides, tryptamines, phenethylamines and related compounds. ([Retailers](https://lizardlabs.nl/retailers/))
 - [Chem.eu](https://www.chem.eu/) - EU based supplier of research chemicals.
 - [RealChems](https://realchems.net/) - EU based supplier of research chemicals.
 - [Chemical Collective](https://chemical-collective.com/) - US-based supplier of research chemicals.

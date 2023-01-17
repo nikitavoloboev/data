@@ -147,3 +147,4 @@ title: Zero knowledge proofs
 - [Verifiable AES: encryption using zero-knowledge proofs (2023)](https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/) ([Lobsters](https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero))
 - [Decentralized private computation: ZEXE and VERI-ZEXE (2023)](https://www.notamonadtutorial.com/decentralized-private-computations-zexe-and-veri-zexe/)
 - [Arithmetization schemes for ZK-SNARKs (2023)](https://www.notamonadtutorial.com/arithmetization-schemes-for-zk-snarks/)
+- [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia) - Middleware to compile Circom circuits to Nova prover.

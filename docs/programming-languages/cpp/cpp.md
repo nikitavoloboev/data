@@ -416,4 +416,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection (2023)](https://download.vusec.net/papers/chop_ndss23.pdf)
 - [CppBenchmark](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision.
 - [C++ vs Rust: which is faster? (2023)](https://www.youtube.com/watch?v=VMpSYJ_7aYM)
-- [Rust vs. C++ Formatting (2023)](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/) ([HN](https://news.ycombinator.com/item?id=34392590))
+- [Rust vs. C++ Formatting (2023)](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/) ([HN](https://news.ycombinator.com/item?id=34392590)) ([Reddit](https://www.reddit.com/r/rust/comments/10dpw5r/c_vs_rust_which_is_faster_x86_assembly_inside/))

@@ -1,6 +1,6 @@
 # Stream processing
 
-[ksqlDB](https://ksqldb.io/) & [RisingWave](https://github.com/risingwavelabs/risingwave) are neat.
+[ksqlDB](https://ksqldb.io/) & [RisingWave](https://github.com/risingwavelabs/risingwave) are neat. I use [go-streams](https://github.com/reugn/go-streams) for stream processing in [Go](../programming-languages/go/go.md).
 
 ## Links
 

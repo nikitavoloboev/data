@@ -710,6 +710,7 @@
 
 - [Elliptic Curve Key Pair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave on iOS and MacOS.
 - [CBORCoding](https://github.com/SomeRandomiOSDev/CBORCoding) - Lightweight framework containing a coder pair for encoding and decoding Codable conforming types to and from CBOR document format.
+- [SwiftECC](https://github.com/leif-ibsen/SwiftECC) - Swift Elliptic Curve Cryptography (ECIES, ECDSA and ECDH).
 
 ## WebSocket
 
@@ -1388,6 +1389,8 @@
 - [AttributedString Builder](https://github.com/objcio/attributed-string-builder) - Simple way to build up attributed strings using result builders from a variety of sources.
 - [StripeKit](https://github.com/vapor-community/stripe-kit) - Swift package used to communicate with the Stripe API for Server Side Swift Apps.
 - [TaskGroupsResultBuilder](https://github.com/AvdLee/TaskGroupsResultBuilder) - ResultBuilder to use to bundle tasks together.
+- [Compress NIO](https://github.com/adam-fowler/compress-nio) - Compression/Decompression support for Swift NIO ByteBuffer.
+- [JavaScriptCoreExt](https://github.com/js-play/JavaScriptCoreExt) - Adds more functionality to the built-in JavaScriptCore framework by exposing some new APIs.
 
 ## Other (not lib)
 

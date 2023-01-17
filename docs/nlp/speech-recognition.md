@@ -169,3 +169,6 @@ title: Speech recognition
 - [Whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to whisper.cpp.
 - [OpenAI's Whisper ported to CoreML](https://github.com/tanmayb123/OpenAI-Whisper-CoreML)
 - [Real Time Whisper Transcription](https://github.com/davabase/whisper_real_time)
+- [Multilingual Automatic Speech Recognition with Word-level Timestamps](https://github.com/Jeronymous/whisper-timestamped)
+- [Quick Caption](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT and FCPXML) without manually entering time codes.
+- [ArchiSound](https://github.com/archinetai/archisound) - Collection of pre-trained audio models, in PyTorch.

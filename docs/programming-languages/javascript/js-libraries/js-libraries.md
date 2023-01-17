@@ -1100,6 +1100,7 @@
 - [throat](https://github.com/ForbesLindesay/throat) - Throttle a collection of promise returning functions.
 - [Rempl](https://github.com/rempl/rempl) - Framework for moderated access with custom UI to remote JavaScript runtime.
 - [GScroll](https://github.com/grcmichael/gscroll) - Simple smooth scroll based on GSAP library.
+- [Cookie Consent](https://github.com/orestbida/cookieconsent) - Lightweight & GDPR compliant cookie consent plugin written in plain JS.
 
 ## Links
 

@@ -4,6 +4,8 @@ title: ChatGPT
 
 # [ChatGPT](https://chat.openai.com/chat)
 
+[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) is great overview of how it works.
+
 I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
 
 [NanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
@@ -53,3 +55,6 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [How to implement Q&A against your documentation with GPT3, embeddings and Datasette (2023)](https://simonwillison.net/2023/Jan/13/semantic-search-answers/)
 - [ShareGPT](https://sharegpt.com/) - Share your wildest ChatGPT conversations with one click. ([Code](https://github.com/domeccleston/sharegpt))
 - [Why is Chat GPT so expensive to operate? (2023)](https://news.ycombinator.com/item?id=34390123)
+- [Reflect's GPT-3 Prompts](https://gist.github.com/maccman/e0576c40f321b81e996ca91a8152d2f4) ([Tweet](https://twitter.com/maccaw/status/1615361066451566594))
+- [Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy (2023)](https://www.youtube.com/watch?v=kCc8FmEb1nY) ([HN](https://news.ycombinator.com/item?id=34414716))
+- [LearnGPT](https://www.learngpt.com/) - Browse, share, and discuss ChatGPT examples.

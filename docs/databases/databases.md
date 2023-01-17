@@ -278,6 +278,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Kuzu](https://github.com/kuzudb/kuzu) - In-process property graph database management system (GDBMS) built for query speed and scalability.
 - [zgraph](https://github.com/vescale/zgraph) - Embeddable graph database for large-scale vertices and edges.
 - [Flink Table Store](https://github.com/apache/flink-table-store) - Data lake storage for streaming updates/deletes changelog ingestion and high-performance queries in real time.
+- [Snowflake](https://www.snowflake.com/en/) ([Learn SnowflakeDB](https://github.com/lynnlangit/learn-snowflakedb))
 
 ## Tools
 

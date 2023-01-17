@@ -36,3 +36,5 @@
 - [Русский язык за 18 минут](https://www.youtube.com/watch?v=vDSn1HWY8J8)
 - [Предложник](https://predlozhnik.ru/) - Показывает с какими падежами употребляются предлоги в русском языке. ([Reddit](https://www.reddit.com/r/russian/comments/wafjbm/предложник_tiny_tool_to_look_up_предлогпадеж/))
 - [Russian Reddit](https://www.reddit.com/r/russian/)
+- [pymorphy2](https://github.com/pymorphy2/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages.
+- [OpenCorpora](http://opencorpora.org/) - Открытый корпус русского языка. ([Code](https://github.com/OpenCorpora/opencorpora))

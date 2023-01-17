@@ -265,3 +265,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Analog Chess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid. ([HN](https://news.ycombinator.com/item?id=34370440))
 - [chasse](https://chasse.fun/) - Simple chessboard - without timers, rules etc. ([Code](https://github.com/leonidasdeim/chasse))
 - [How do you memorize certain openings](https://www.reddit.com/r/chess/comments/10ch9tb/how_do_you_memorize_certain_openings/)
+- [Fairy Stockfish](https://github.com/ianfab/Fairy-Stockfish) - Chess variant engine supporting Xiangqi, Shogi, Janggi, Makruk, S-Chess, Crazyhouse, Bughouse, and many more. ([Web](https://fairy-stockfish.github.io/))

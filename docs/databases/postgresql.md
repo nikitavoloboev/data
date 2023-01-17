@@ -644,3 +644,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Neon: Serverless PostgreSQL Overview (Heikki Linnakangas) (2022)](https://www.youtube.com/watch?v=rES0yzeERns) ([Tweet](https://twitter.com/Sirupsen/status/1612494427322474498))
 - [Orafce](https://github.com/orafce/orafce) - Implements in Postgres some of the functions from the Oracle database.
 - [Enums vs Check Constraints in Postgres (2023)](https://www.crunchydata.com/blog/enums-vs-check-constraints-in-postgres)
+- [Building a PostgreSQL Wire Protocol Server using Java (2023)](https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21)

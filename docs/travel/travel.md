@@ -4,6 +4,8 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 
 [Here](https://open.spotify.com/track/2k750ut7R7B2M2oWZtE2jC) is a nice song to listen to when walking some new city in evening.
 
+Use [Google Flights](https://www.google.com/travel/flights) to buy plane tickets.
+
 ## Notes
 
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.

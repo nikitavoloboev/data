@@ -56,3 +56,4 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [Serverless XState](https://github.com/tom-sherman/serverless-xstate)
 - [Serverless XState Demo](https://github.com/ovotech/serverless-xstate-demo) - Implementation Serverless XState using AWS Lambda, SQS, and DynamoDB.
 - [Stately docs](https://stately.ai/docs) ([Code](https://github.com/statelyai/docs))
+- [State Machines, Statecharts & Xstate](https://abooayoob.github.io/statecharts-article/)

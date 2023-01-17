@@ -4,7 +4,7 @@
 
 Looking into using [envd](https://github.com/tensorchord/envd) together with [PyTorch Lightning](https://www.pytorchlightning.ai/) for my ML experiments.
 
-[Lilian's Blog](https://lilianweng.github.io/) is superb.
+[Lilian's Blog](https://lilianweng.github.io/) & [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) are great reads.
 
 [Practical Deep Learning for Coders](https://course.fast.ai/) is nice intro course. [Andrej Karpathy](https://github.com/karpathy) does great open research on ML.
 

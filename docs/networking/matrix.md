@@ -124,3 +124,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Matrix Specification](https://spec.matrix.org/latest/)
 - [Matrix 1.5 release](https://matrix.org/blog/2022/11/17/matrix-v-1-5-release)
 - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
+- [Matrix Webhook](https://github.com/nim65s/matrix-webhook) - Post a message to a matrix room with a simple HTTP POST.

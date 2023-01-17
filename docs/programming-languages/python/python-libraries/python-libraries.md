@@ -1123,6 +1123,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [pca](https://github.com/erdogant/pca) - Python Package for Principal Component Analysis.
 - [cppimport](https://github.com/tbenthompson/cppimport) - Import C++ directly from Python.
 - [Grandalf](https://github.com/bdcht/grandalf) - Graph and drawing algorithms framework.
+- [chemcoord](https://github.com/mcocdawc/chemcoord) - Python module for manipulating cartesian and internal coordinates.
 
 ## Notes
 

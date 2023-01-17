@@ -82,7 +82,7 @@
 - [Quake3e](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
 - [Pyxel](https://github.com/kitao/pyxel) - Retro game engine for Python.
 - [PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine. ([Web](https://www.puzzlescript.net/))
-- [Box2D-Lite](https://github.com/erincatto/box2d-lite) - Small 2D physics engine. ([Web](https://box2d.org/))
+- [Box2D-Lite](https://github.com/erincatto/box2d-lite) - Small 2D physics engine. ([Web](https://box2d.org/)) ([3.0](https://box2d.org/posts/2023/01/starting-box2d-3.0/))
 - [MxEngine](https://github.com/asc-community/MxEngine) - C++ open source 3D game engine.
 - [Flame](https://github.com/flame-engine/flame) - 2D game engine made on top of Flutter. ([Web](https://flame-engine.org/))
 - [Open 3D Engine (O3DE)](https://o3de.org/) - Open-source, real-time 3D development engine. ([Code](https://github.com/o3de/o3de)) ([HN](https://news.ycombinator.com/item?id=27751358))

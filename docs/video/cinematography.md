@@ -2,6 +2,12 @@
 
 I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls080598863/).
 
+[ALEXA Mini](https://www.arri.com/en/camera-systems/cameras/alexa-mini) camera with [Cooke S4](https://cookeoptics.com/lens/s4-i-prime/) lenses are great for filming.
+
+## Notes
+
+- [If you ever wanna know what something is shot on, Google “[Name of Film] IMDB Tech Specs”.](https://www.reddit.com/r/cinematography/comments/10dyo22/what_was_the_last_of_us_shot_on/)
+
 ## Links
 
 - [You know It's a Sofia Coppola Movie IF... (2017)](https://www.youtube.com/watch?v=ryzgxwJpv1A)
@@ -50,3 +56,6 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Why Andor Feels So Real (2022)](https://www.youtube.com/watch?v=UhgXXhcPQEM)
 - [Is Andor Actually THAT Good? (Yes, and here's why)](https://www.youtube.com/watch?v=im0rqLhSPEE)
 - [Movies with exquisite cinematography (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10cbsy0/movies_with_exquisite_cinematography/)
+- [What was The Last of Us shot on](https://www.reddit.com/r/cinematography/comments/10dyo22/what_was_the_last_of_us_shot_on/)
+- [ShotOnWhat?](https://shotonwhat.com/)
+- [Cooke Optics](https://cookeoptics.com/) - Cinematography Lenses.

@@ -51,6 +51,7 @@
 ## Android
 
 - [emo](https://github.com/cgspine/emo) - Speed up android development.
+- [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 
 ## Other
 
@@ -104,6 +105,7 @@
 - [KoWasm](https://github.com/sdeleuze/kowasm) - WASI and WebAssembly Component Model support for Kotlin/Wasm.
 - [Wisp](https://github.com/cashapp/wisp) - Utilities, including config, logging, feature flags and more.
 - [Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform.
+- [Misk](https://github.com/cashapp/misk) - Microservice Kontainer.
 
 ## Links
 

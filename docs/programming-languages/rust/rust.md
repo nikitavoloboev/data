@@ -1021,3 +1021,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Unpopular Opinion (2023)](https://news.ycombinator.com/item?id=34386622)
 - [Rust Nation 23](https://www.rustnationuk.com/)
 - [From Python to Rust course](https://github.com/bedroombuilds/python2rust)
+- [RFC: Start working on a Rust specification](https://github.com/rust-lang/rfcs/pull/3355)

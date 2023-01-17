@@ -12,7 +12,7 @@ Use [Warp](warp.md) as my terminal & [Fish](fish.md) as my shell.
 
 [rc](https://manpages.ubuntu.com/manpages/bionic/man1/rc.1.html) shell from [Plan 9 OS](https://9p.io/plan9/) is interesting too.
 
-[fzf](https://github.com/junegunn/fzf), [Atuin](https://github.com/ellie/atuin), [shell2http](https://github.com/msoap/shell2http) & [Pipr](https://github.com/elkowar/pipr) &  are great additions to the shell.
+[fzf](https://github.com/junegunn/fzf), [Atuin](https://github.com/ellie/atuin), [shell2http](https://github.com/msoap/shell2http) & [Pipr](https://github.com/elkowar/pipr) & are great additions to the shell.
 
 Liked [this article](https://thevaluable.dev/guide-terminal-shell-console/) as intro to shell.
 
@@ -287,3 +287,4 @@ All active variables can be seen by running `env`.
 - [ShellCheck Python](https://github.com/shellcheck-py/shellcheck-py) - Python wrapper to provide a pip-installable shellcheck binary.
 - [Unix shell script tactics - best practices style guide](https://github.com/SixArm/unix-shell-script-tactics)
 - [What happens when you open a terminal and enter ‘ls’ (2023)](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls) ([HN](https://news.ycombinator.com/item?id=34342438))
+- [cosh](https://github.com/tomhrr/cosh) - Concatenative command-line shell.

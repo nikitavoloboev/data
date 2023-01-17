@@ -193,6 +193,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Kandria](https://github.com/Shirakumo/kandria) - Post-apocalyptic action RPG built with Common Lisp. ([HN](https://news.ycombinator.com/item?id=34338629))
 - [Duelyst](https://github.com/open-duelyst/duelyst) - Digital collectible card game and turn-based strategy hybrid.
 - [Xain'd Sleena arcade game for MiSTer](https://github.com/MiSTer-devel/Arcade-XSleena_MiSTer)
+- [Sunflower Land](https://github.com/sunflower-land/sunflower-land) - Decentralized and community driven MetaVerse style game.
 
 ## Awesome games (other)
 
@@ -412,3 +413,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Scrabble Solver](https://github.com/kamilmielnik/scrabble-solver)
 - [What are some “video gamey” things games do that you dislike? (2023)](https://www.reddit.com/r/patientgamers/comments/106yjde/what_are_some_video_gamey_things_games_do_that/)
 - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets)
+- [Echo Games Discord](https://discord.com/invite/echogames)

@@ -11,6 +11,7 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 ## Interesting
 
 - [Behringer RD-9 Rhythm Designer](https://www.behringer.com/product.html)
+- [Waldorf Quantum Mk2](https://www.reddit.com/r/synthesizers/comments/10djhn0/waldorf_quantum_mk2_announced/)
 
 ## Links
 

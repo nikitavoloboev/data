@@ -360,6 +360,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Reading List - Lex Fridman](https://lexfridman.com/reading-list/) ([Analysis](https://blog.des.io/posts/lex-fridmans-reading-plan/)) ([HN](https://news.ycombinator.com/item?id=34253810))
 - [Bookshelf - Kent Hendricks](https://kenthendricks.com/bookshelf/)
 - [Ask HN: What are you looking forward to reading in 2023?](https://news.ycombinator.com/item?id=34300803)
+- [Ask HN: Books that teach programming by building a series of small projects? (2023)](https://news.ycombinator.com/item?id=34412069)
 
 ## Interesting Prose Books
 

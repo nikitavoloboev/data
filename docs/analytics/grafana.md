@@ -32,3 +32,4 @@ title: Grafana
 - [Dynamic Text Panel plugin for Grafana](https://github.com/VolkovLabs/volkovlabs-dynamictext-panel)
 - [Grafana Faro Web SDK](https://github.com/grafana/faro-web-sdk) - Instrument frontend JavaScript applications to collect telemetry and forward it to the Grafana Agent. ([Docs](https://github.com/grafana/faro))
 - [Grafana Phlare](https://github.com/grafana/phlare) - Horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system. ([Announcement](https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/))
+- [Caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map , right to your Grafana.

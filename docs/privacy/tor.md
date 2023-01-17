@@ -64,3 +64,4 @@ title: Tor Project
 - [iCepa](https://github.com/iCepa/iCepa) - iOS system-wide VPN based Tor client.
 - [Tor Browser 12.0 (2022)](https://blog.torproject.org/new-release-tor-browser-120/) ([HN](https://news.ycombinator.com/item?id=33896890))
 - [Congestion Control Arrives in Tor (2022)](https://blog.torproject.org/congestion-contrl-047/)
+- [tor.taxi](http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/) - Your guide to dark net.

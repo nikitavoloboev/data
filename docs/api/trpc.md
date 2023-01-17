@@ -6,7 +6,7 @@ title: tRPC
 
 > End-to-end typesafe APIs made easy
 
-[Here](https://www.youtube.com/watch?v=GryES84SSEU) is a great intro.
+[Here](https://www.youtube.com/watch?v=x4mu-jOiA0Q) is a great intro. I use it as part of [create JD app](https://github.com/OrJDev/create-jd-app) in [Solid](../programming-languages/javascript/js-libraries/solid.md).
 
 ## Links
 

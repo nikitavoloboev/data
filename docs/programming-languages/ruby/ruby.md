@@ -159,3 +159,4 @@
 - [Install Ruby 3.2.0 + YJIT with ASDF (2022)](https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82)
 - [Ruby 3.2.0 Is from Another Dimension (2023)](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9) ([HN](https://news.ycombinator.com/item?id=34242820))
 - [Making Sorbet more incremental (2023)](https://blog.jez.io/making-sorbet-more-incremental/) ([Lobsters](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental))
+- [Ruby 3.2’s YJIT is Production-Ready (2023)](https://shopify.engineering/ruby-yjit-is-production-ready) ([HN](https://news.ycombinator.com/item?id=34413012))

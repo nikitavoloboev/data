@@ -456,3 +456,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Big Model Era.
 - [difflogic](https://github.com/Felix-Petersen/difflogic) - Library for Differentiable Logic Gate Networks.
 - [EZKL](https://github.com/zkonduit/ezkl) - Library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
+- [DeLFT](https://github.com/kermitt2/delft) - Deep Learning Framework for Text.

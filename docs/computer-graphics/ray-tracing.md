@@ -132,3 +132,4 @@ title: Ray tracing
 - [Aurora](https://github.com/Autodesk/Aurora) - Real-time path tracing renderer that leverages GPU hardware ray tracing.
 - [Real time GPU ray tracer created with Vulkano](https://github.com/vaffeine/vulkano-raytracing)
 - [Strolle](https://github.com/Patryk27/strolle) - Real-time raytracing engine written entirely in Rust, running on CPU & GPU. With Bevy integration.
+- [Ray Tracing in One Weekend (Zig)](https://github.com/Nelarius/weekend-raytracer-zig)

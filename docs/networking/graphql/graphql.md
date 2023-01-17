@@ -367,3 +367,4 @@ title: GraphQL
 - [GraphQL Constraint Directive](https://github.com/confuser/graphql-constraint-directive) - Validate GraphQL fields.
 - [GraphQL Ideal API notes](https://github.com/orta/graphql-api-goals)
 - [GraphQL Scalars specifications](https://github.com/graphql/graphql-scalars)
+- [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader) - Zero-dependency esbuild plugin that allows for the importing of GraphQL files.

@@ -473,6 +473,7 @@
 - [ProxSuite](https://github.com/Simple-Robotics/proxsuite) - Advanced Proximal Optimization Toolbox.
 - [bin2cpp](https://github.com/end2endzone/bin2cpp) - Easiest way to embed small files into a c++ executable.
 - [gcl](https://github.com/bloomen/gcl) - Graph concurrent library for C++.
+- [type_safe](https://github.com/foonathan/type_safe) - Zero overhead utilities for preventing bugs at compile time.
 
 ## Links
 
@@ -500,3 +501,4 @@
 - [How to Use C++20 Modules with Bazel and Clang (2022)](https://buildingblock.ai/cpp20-modules-bazel)
 - [C++ Template Project (with vcpkg support)](https://github.com/mod-cpp/cpp-template-project-vcpkg)
 - [sokol-tools](https://github.com/floooh/sokol-tools) - Command line tools for use with sokol headers.
+- [Prefab](https://github.com/google/prefab) - Tool for generating build system integrations for prebuilt C/C++ libraries.

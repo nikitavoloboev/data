@@ -582,3 +582,4 @@ for i, _ in enumerate(nums):
 - [Mapping Python to LLVM (2023)](https://blog.exaloop.io/python-llvm/) ([HN](https://news.ycombinator.com/item?id=34312474))
 - [Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 - [Why Polars uses less memory than Pandas (2023)](https://pythonspeed.com/articles/polars-memory-pandas/) ([Lobsters](https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas))
+- [Skulpt](https://github.com/skulpt/skulpt) - JavaScript implementation of Python.

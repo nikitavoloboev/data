@@ -814,6 +814,8 @@
 - [LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - Common framework for implementing and using log densities for inference.
 - [OpenAPI](https://github.com/JuliaComputing/OpenAPI.jl) - OpenAPI helper and code generator for Julia.
 - [GraphMakie](https://github.com/MakieOrg/GraphMakie.jl) - Plotting graphs with Makie.
+- [Crystals](https://github.com/mdavezac/Crystals.jl) - Atomic crystal structures for Julia.
+- [IsDef](https://github.com/jolin-io/IsDef.jl) - Maintainable type inference.
 
 ## Links
 

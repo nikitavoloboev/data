@@ -510,5 +510,7 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Microfeatures I'd like to see in more languages (2023)](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/) ([HN](https://news.ycombinator.com/item?id=34266078)) ([Lobsters](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/104lxrd/microfeatures_id_like_to_see_in_more_languages/))
 - [Vel](https://github.com/hopv/vel) - Language for verified low-level software.
 - [Compiled and Interpreted Languages: Two Ways of Saying Tomato (2023)](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
-- [Faster virtual machines: Speeding up programming language execution (2023)](https://mort.coffee/home/fast-interpreters/)
+- [Faster virtual machines: Speeding up programming language execution (2023)](https://mort.coffee/home/fast-interpreters/) ([HN](https://news.ycombinator.com/item?id=34390348))
 - [Type Checking If Expressions (2023)](https://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions/)
+- [Adding For Loops to an Interpreter (2023)](https://healeycodes.com/adding-for-loops-to-an-interpreter) ([Lobsters](https://www.reddit.com/r/ProgrammingLanguages/comments/10dikdx/adding_for_loops_to_an_interpreter/))
+- [Squirrel](http://www.squirrel-lang.org/) - High level imperative, object-oriented programming language. ([Code](https://github.com/albertodemichelis/squirrel))

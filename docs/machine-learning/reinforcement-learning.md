@@ -426,3 +426,4 @@ title: Reinforcement learning
 - [Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
 - [A Succinct Summary of Reinforcement Learning (2023)](https://arxiv.org/abs/2301.01379)
 - [TextRL](https://github.com/voidful/TextRL) - Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback).
+- [Extreme Q-Learning: MaxEnt RL without Entropy (2023)](https://arxiv.org/abs/2301.02328) ([Code](https://github.com/Div99/XQL))

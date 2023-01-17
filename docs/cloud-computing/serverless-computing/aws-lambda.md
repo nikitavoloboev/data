@@ -152,3 +152,4 @@ title: AWS Lambda
 - [AWS Lambda storage options (2022)](https://dev.to/aws-heroes/aws-lambda-storage-options-o5p) ([Tweet](https://twitter.com/MarcJBrooker/status/1572970442725666816))
 - [AWS Lambda Powertools TypeScript Logger example](https://github.com/ChristianRich/lambda-powertools-logger-typescript)
 - [AWS re:Invent 2022 - A closer look at AWS Lambda](https://www.youtube.com/watch?v=0_jfH6qijVY)
+- [Does Maximum Concurrency Solve the Lambda+SQS Issue? (2023)](https://zaccharles.medium.com/does-maximum-concurrency-solve-the-lambda-sqs-issue-3c19701e6e75)

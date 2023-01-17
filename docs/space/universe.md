@@ -78,3 +78,4 @@ Liked this video on [why cosmic inflation doesn't make much sense](https://www.y
 - [How certain are we that the universe began 13.77 billion years ago? (2022)](https://www.reddit.com/r/askscience/comments/zv5bij/how_certain_are_we_that_the_universe_began_1377/)
 - [The Crisis in Cosmology (2022)](https://www.youtube.com/watch?v=mNsISbFaJ0I)
 - [The James Webb Space Telescope is finding too many early galaxies (2023)](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-is-finding-too-many-early-galaxies/) ([HN](https://news.ycombinator.com/item?id=34360010))
+- [What Is Our Universe Expanding Into? (2023)](https://nautil.us/what-is-our-universe-expanding-into-258168/) ([HN](https://news.ycombinator.com/item?id=34417936))

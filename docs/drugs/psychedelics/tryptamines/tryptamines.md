@@ -34,6 +34,7 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - In short: DMT eradicates your physical reality, but you keep yourself, while 5-MeO-DMT eradicates YOU (your ego).
 - [One way to compare them would be that nn dmt is an immersive visual experience but there is still a perceiver of events as there is a duality between subject and object, eg seeing entities that are perceived to be separate from the self, 5 meo dmt induces complete ego death where there is no longer even a perciever of events, all boundaries disappear and your awareness becomes infinite. This is why people believe that you become God on a 5 meo breakthrough](https://www.reddit.com/r/DMT/comments/9ssa0g/dmt_vs_5meo_dmt/)
 - [A recent study showed that the neurogenesis caused by Psilocybin occurred even when a 5-HT2Ar antagonist was given alongside it. The trip was prevented but not the neurogenesis. I think all we currently know is that it’s more complicated than simply activation of the 5-HT2Ar leading to neurogenesis.](https://www.reddit.com/r/AskDrugNerds/comments/ogdvnd/why_does_mdma_cause_a_comedown_while_psilocybin/)
+- [Psilocin is 4-HO-DMT. This is what you get after acid destroys the phosphor molecule in the stomach. 4-PO-DMT is Psilocybin , which is much more stable against oxidation and stuff. So 4-PO is in the shrooms. If you eat them your body will convert it to 4-HO, which will produces the effects.](https://www.reddit.com/r/4acodmt/comments/ov4f4g/4acodmt_vs_4acomet/)
 
 ## Links
 

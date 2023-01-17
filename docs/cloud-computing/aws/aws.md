@@ -435,3 +435,5 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [Basti](https://github.com/BohdanPetryshyn/basti) - Connect to AWS DBs with no idle cost. No SSH keys. IAM-driven.
 - [s3s](https://github.com/Nugine/s3s) - S3 Service Adapter.
+- [itty-aws](https://github.com/sam-goodwin/itty-aws) - Tiny AWS SDK for TypeScript.
+- [Hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.

@@ -777,3 +777,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [TFKit](https://github.com/voidful/TFkit) - Handling multiple NLP task in one pipeline.
 - [ReAct: Synergizing Reasoning and Acting in Language Models (2022)](https://arxiv.org/abs/2210.03629)
 - [Repository of Language Instructions for NLP Tasks](https://github.com/allenai/natural-instructions)
+- [tasksource](https://github.com/sileod/tasksource) - Datasets curation and datasets metadata for NLP extreme multitask learning.

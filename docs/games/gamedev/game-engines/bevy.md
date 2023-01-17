@@ -95,3 +95,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Inverse kinematics for Bevy](https://github.com/Kurble/bevy_mod_inverse_kinematics)
 - [bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy.
 - [Scaling Bevy Development (2023)](https://bevyengine.org/news/scaling-bevy-development/) ([HN](https://news.ycombinator.com/item?id=34387062))
+- [Oxidized Navigation](https://github.com/TheGrimsey/oxidized_navigation) - Nav-Mesh generation plugin based on Recast's Navmesh generation to Bevy Engine in Rust.

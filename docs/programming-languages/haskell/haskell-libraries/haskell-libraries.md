@@ -411,6 +411,7 @@
 - [posix-api](https://github.com/andrewthad/posix-api) - Haskell posix bindings.
 - [Shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell.
 - [StrongPath](https://github.com/wasp-lang/strong-path) - Strongly typed file paths in Haskell.
+- [generic-constructors](https://github.com/akrmn/generic-constructors)
 
 ## Notes
 
