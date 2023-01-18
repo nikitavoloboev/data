@@ -109,6 +109,7 @@ Below is a list of extensions I use.
 - [reTypewriter](https://marketplace.visualstudio.com/items?itemName=antfu.retypewriter) - Replay the steps of your changes at ease. ([Code](https://github.com/antfu/retypewriter))
 - [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) - Allows you to record and playback guided tours of codebases, directly within the editor. ([Code](https://github.com/microsoft/codetour))
 - [Data Preview](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-preview) - Extension for importing, viewing, slicing, dicing, charting & exporting large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files. ([Code](https://github.com/RandomFractals/vscode-data-preview))
+- [Caddyfile Support](https://marketplace.visualstudio.com/items?itemName=matthewpi.caddyfile-support) ([Code](https://github.com/caddyserver/vscode-caddyfile))
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) ([Code](https://github.com/hediet/vscode-drawio)) ([HN](https://news.ycombinator.com/item?id=24686707))
 - [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) - Extended CMake support. ([Code](https://github.com/microsoft/vscode-cmake-tools))
 - [VSCode Essentials](https://marketplace.visualstudio.com/items?itemName=jabacchetta.vscode-essentials) - Turn VSCode into a supercharged IDE. ([Code](https://github.com/jabacchetta/vscode-essentials))
@@ -472,6 +473,7 @@ Below is a list of extensions I use.
 ## Docker
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
+- [hadolint](https://marketplace.visualstudio.com/items?itemName=exiasr.hadolint) - Integrates hadolint, a Dockerfile linter, into VS Code. ([Code](https://github.com/michaellzc/vscode-hadolint))
 
 ## Kubernetes
 

@@ -820,3 +820,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Golden Kitty Awards | Product Hunt](https://www.producthunt.com/golden-kitty-awards)
 - [rate.house](https://rate.house/) - Comprehensive media database.
 - [Summate.it](https://summate.it/) - Quickly summarize web articles with OpenAI. ([HN](https://news.ycombinator.com/item?id=34421314))
+- [Hilde](https://github.com/nehalist/hilde) - Open source match tracking tool for games like foosball, air hockey, chess and similar.

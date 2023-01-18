@@ -678,3 +678,4 @@ title: Linux
 - [SystemD socket activation lesson learned (2023)](https://blog.podman.io/2023/01/systemd-socket-activation-lesson-learned/) ([Lobsters](https://lobste.rs/s/lhukga/systemd_socket_activation_lesson))
 - [Learning eBPF Exploitation (2022)](<https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html>) ([HN](https://news.ycombinator.com/item?id=34371123))
 - [Revisiting KDE (2023)](https://jackevansevo.github.io/revisiting-kde.html) ([HN](https://news.ycombinator.com/item?id=34390655))
+- [ELKS](https://github.com/jbruchon/elks) - Embeddable Linux Kernel Subset.

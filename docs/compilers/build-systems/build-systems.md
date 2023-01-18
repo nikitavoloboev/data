@@ -136,3 +136,4 @@
 - [Buildomat](https://github.com/oxidecomputer/buildomat) - Manages the provisioning of ephemeral UNIX systems (e.g., instances in AWS EC2) on which to run software builds.
 - [sold](https://github.com/bluewhalesystems/sold) - Commercial version of the mold linker. ([Lobsters](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering))
 - [Buck2](https://github.com/facebookincubator/buck2) - Build system, successor to Buck.
+- [How I learned to love build systems (2021)](https://www.youtube.com/watch?v=7_DExGdUw7w)

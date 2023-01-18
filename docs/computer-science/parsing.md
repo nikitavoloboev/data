@@ -143,3 +143,4 @@
 - [Hammer Primer](https://github.com/sergeybratus/HammerPrimer) - Introduction to using the Hammer parser construction toolkit by Meredith L. Patterson.
 - [Why We Need to Know LR and Recursive Descent Parsing Techniques (2023)](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html) ([HN](https://news.ycombinator.com/item?id=34410776)) ([Lobsters](https://lobste.rs/s/oq54qt/why_we_need_know_lr_recursive_descent))
 - [An overview of parsing algorithms (2021)](https://stereobooster.com/posts/an-overview-of-parsing-algorithms/)
+- [Tree Sitter Module](https://github.com/casouri/tree-sitter-module) - Building script for tree-sitter language definitions.

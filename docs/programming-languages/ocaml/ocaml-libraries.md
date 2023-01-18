@@ -241,6 +241,7 @@ title: OCaml libraries
 - [Stores](https://github.com/fpottier/stores) - OCaml library that offers several implementations of (in-memory) stores.
 - [Logger](https://github.com/prosyslab/logger) - Library logger.
 - [Combo](https://github.com/4y8/combo) - Simple parser combinator library for Ocaml.
+- [ocaml-search](https://github.com/patricoferris/ocaml-search) - Simple, in-memory, monomorphic and heterogeneous search indexes in OCaml.
 
 ## Links
 

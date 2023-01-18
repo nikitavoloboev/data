@@ -6,7 +6,7 @@ Progress in models like [Midjourney](https://www.midjourney.com/) is getting [in
 
 Using [Gauss](https://github.com/justjake/Gauss) ([Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) is nice too) (built on [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion)) to generate prompts.
 
-Trying to use more of these technologies in my day to life. Specifically [ChatGPT](https://chat.openai.com/) seems [incredible](https://news.ycombinator.com/item?id=33940303). [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
+Trying to use more of these technologies in my day to life. Specifically [ChatGPT](chatgpt.md) seems [incredible](https://news.ycombinator.com/item?id=33940303). [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
 
 [Fast Stable Diffusion Colab Notebooks](https://github.com/TheLastBen/fast-stable-diffusion) is great.
 

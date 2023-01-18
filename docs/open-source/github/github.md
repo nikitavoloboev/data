@@ -505,3 +505,4 @@ Awesome List
 - [gh-worktree](https://github.com/despreston/gh-worktree) - Worktrees and GitHub.
 - [Gist Database](https://github.com/TimMikeladze/gist-database) - Transform gist into your personal key/value datastore.
 - [New GitHub CLI extension tools (2023)](https://github.blog/2023-01-13-new-github-cli-extension-tools/)
+- [CodeQL path graphs (2023)](https://mechanicalsympathy.nl/posts/codeql-path-graphs/)

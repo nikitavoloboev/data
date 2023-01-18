@@ -1022,3 +1022,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Nation 23](https://www.rustnationuk.com/)
 - [From Python to Rust course](https://github.com/bedroombuilds/python2rust)
 - [RFC: Start working on a Rust specification](https://github.com/rust-lang/rfcs/pull/3355)
+- [Why is Rust's build system uniquely hard to use? (2023)](https://jyn.dev/2023/01/12/Bootstrapping-Rust-in-2023.html)
+- [Rust Concepts I Wish I Learned Earlier (2023)](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) ([Reddit](https://www.reddit.com/r/rust/comments/10eu2aw/rust_concepts_i_wish_i_learned_earlier/))

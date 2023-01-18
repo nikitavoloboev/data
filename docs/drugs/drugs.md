@@ -96,3 +96,4 @@ Always [know your substance, have good set (mindset) and setting (environment)](
 - [Hyperlab.info](https://hyperlab.info/inv/index.php) ([Rules](https://hyperlab.info/inv/index.php?act=ST&f=17&t=30352&lang=en))
 - [Druglike](https://druglike.com/) - Drug discovery democratized.
 - [Dark Net Tor Markets Reddit](https://www.reddit.com/r/darknetmarketonions/)
+- [Fragment-based generative RL with Explorative Experience replay for Drug design (FREED)](https://github.com/AITRICS/FREED)

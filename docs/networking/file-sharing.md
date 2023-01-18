@@ -140,3 +140,4 @@
 - [Blaze](https://github.com/blenderskool/blaze) - File sharing progressive web app built using WebTorrent and WebSockets. ([Web](https://blaze.vercel.app/))
 - [CDC File Transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux. ([HN](https://news.ycombinator.com/item?id=34303497))
 - [acp](https://github.com/Contextualist/acp) - P2P file transfer with edge-function-based TCP hole-punching. ([HN](https://news.ycombinator.com/item?id=34408197))
+- [Zipline](https://github.com/diced/zipline) - ShareX/file upload server that is easy to use, packed with features, and with an easy setup.

@@ -243,3 +243,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Single-file scripts that download their dependencies](https://dbohdan.com/scripts-with-dependencies) ([HN](https://news.ycombinator.com/item?id=34388826))
 - [EnvShare](https://envshare.dev/) - Share Environment Variables Securely. ([Code](https://github.com/chronark/envshare))
 - [Edge Flags](https://github.com/upstash/edge-flags) - Feature flags for edge functions.
+- [Learn DevOps Links](https://github.com/codeaprendiz/learn-devops)

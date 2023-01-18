@@ -139,3 +139,4 @@
 - [DBpedia Information Extraction Framework](https://github.com/dbpedia/extraction-framework) - Software used to extract structured data from Wikipedia.
 - [QLever](https://github.com/ad-freiburg/qlever) - SPARQL engine that can efficiently index and query very large knowledge graphs.
 - [Queries to Find Patterns in Your Knowledge Graph (2023)](https://memgraph.com/blog/3-powerful-queries-to-find-patterns-in-your-knowledge-graph-you-havent-noticed-before)
+- [Knowledge-aware Global Reasoning for Situation Recognition (2023)](https://github.com/haofanwang/KGRN-SR)

@@ -237,3 +237,4 @@ title: Genomics
 - [plastiC](https://github.com/Finn-Lab/plastiC) - Snakemake workflow for recovery of plastid genomes from metagenomic samples.
 - [RGT](https://github.com/CostaLab/reg-gen) - Regulatory Genomics Toolbox.
 - [Circlator](https://github.com/sanger-pathogens/circlator) - Tool to circularize genome assemblies.
+- [Goalign](https://github.com/evolbioinfo/goalign) - Set of command line tools to manipulate multiple alignments.

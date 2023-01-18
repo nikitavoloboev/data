@@ -607,6 +607,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [pgeo](https://github.com/saulortega/pgeo) - Geometric Types for Postgres.
 - [BarrelDB](https://github.com/mr-karan/barreldb) - Disk based key-value store based on Bitcask.
 - [DBML Go](https://github.com/duythinht/dbml-go) - DBML parser and tools for Go.
+- [catena](https://github.com/Cistern/catena) - Storage engine for time series data.
 
 ## ML
 
@@ -2011,6 +2012,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [goset](https://github.com/b1tkeeper/goset) - Fast and Safe Implementation of Set for Go.
 - [flagd](https://github.com/open-feature/flagd) - Feature flag daemon with a Unix philosophy.
 - [Holster](https://github.com/mailgun/holster) - Mailgun's Go libraries and tools.
+- [gostream](https://github.com/edaniels/gostream) - Library to simplify the streaming of images as video and audio chunks to audio to a series of WebRTC peers.
+- [Maestro](https://github.com/topfreegames/maestro) - Game server management service, designed to manage multiple game servers fleets in isolated schedulers.
 
 ## Links
 

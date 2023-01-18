@@ -2537,6 +2537,16 @@
 - [Serde Querystrings](https://github.com/samscott89/serde_qs) - Rust library for serialising to and deserialising from querystrings.
 - [Scoped-Arena](https://github.com/zakarumych/scoped-arena) - Arena allocator with explicit scopes.
 - [HIDEFIX](https://github.com/gauteh/hidefix) - Concurrent HDF5 and NetCDF4 reader.
+- [Skima](https://github.com/s-panferov/skima) - Rust structural web UI library.
+- [Observe](https://github.com/s-panferov/observe) - Lightweight Rust observables inspired by MobX.
+- [tiny-bench](https://github.com/EmbarkStudios/tiny-bench) - Tiny benchmarking library.
+- [slug](https://github.com/Stebalien/slug-rs) - Small library for generating slugs from unicode strings.
+- [quickraw](https://github.com/qdwang/quickraw) - Pure rust library to handle camera raw files.
+- [do-notation](https://github.com/phaazon/do-notation) - Monadic do notation brought to Rust.
+- [bicoro](https://github.com/btrepp/bicoro) - Bidirectional co-routine data structures.
+- [semaphore-key](https://github.com/neliusdelange/semaphore-key) - Control concurrent thread access by key using a shared semaphore.
+- [symbol_table](https://github.com/mwillsey/symbol_table) - Easy-to-use SymbolTable that's fast, suitable for concurrent access.
+- [intaglio](https://github.com/artichoke/intaglio) - UTF-8 string and byte string interner and symbol table.
 
 ## Cargo Plugins
 

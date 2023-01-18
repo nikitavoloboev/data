@@ -129,3 +129,4 @@ title: Field-programmable gate array
 - [F4PGA examples](https://github.com/chipsalliance/f4pga-examples) - Example designs showing different ways to use F4PGA toolchains.
 - [Rust HDL](https://github.com/samitbasu/rust-hdl) - Write FPGA Firmware using Rust.
 - [Experiments with Cologne Chip's GateMate FPGA architecture](https://github.com/tmeissner/gatemate_experiments)
+- [Spatial](https://github.com/stanford-ppl/spatial) - Argon DSL for programming reconfigurable hardware from a parameterized, high level abstraction.

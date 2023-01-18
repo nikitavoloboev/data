@@ -746,3 +746,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [HomeBox](https://github.com/hay-kot/homebox) - Inventory and organization system built for the Home User. ([Docs](https://hay-kot.github.io/homebox/))
 - [Tax System in the Faroe Islands (2022)](https://prospect.org/world/best-tax-system-on-earth-faroe-islands/) ([HN](https://news.ycombinator.com/item?id=34298234))
 - [A modular system for isometric pixel blocks](https://c6y.github.io/tilix-reference/) ([HN](https://news.ycombinator.com/item?id=34352133))
+- [Party Corgi Network](https://www.partycorgi.com/) - Community of content creators helping each other grow. ([Discord](https://discord.com/invite/partycorgi))

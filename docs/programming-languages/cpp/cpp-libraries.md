@@ -21,6 +21,7 @@
 - [UT](https://github.com/boost-ext/ut) - C++20 μ(micro)/Unit Testing Framework.
 - [Tau](https://github.com/jasmcaus/tau) - Micro Unit Test Framework for C/C++.
 - [FuzzTest](https://github.com/google/fuzztest) - Open-source C++ fuzz testing framework targeted for developers.
+- [snitch](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework.
 
 ## Concurrency
 

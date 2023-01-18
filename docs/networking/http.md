@@ -18,7 +18,7 @@ title: HTTP
 5xx: I fucked up
 ```
 
-[kawipiko](https://github.com/volution/kawipiko) is neat static HTTP server.
+[kawipiko](https://github.com/volution/kawipiko) is neat static HTTP server. [Svix](https://github.com/svix/svix-webhooks) is nice for webhooks.
 
 ## Notes
 

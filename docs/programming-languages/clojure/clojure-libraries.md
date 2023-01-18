@@ -270,6 +270,7 @@
 - [match](https://github.com/clojure/core.match) - Optimized pattern matching library for Clojure.
 - [deps-deploy](https://github.com/slipset/deps-deploy) - Clojure library to deploy your stuff to clojars with clj or clojure.
 - [flex](https://github.com/lilactown/flex) - Library for building reactive computation graphs in Clojure(Script).
+- [Tab](https://github.com/eerohele/tab) - Tool for tabulating Clojure collections.
 
 ## Links
 

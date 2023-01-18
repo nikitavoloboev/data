@@ -756,6 +756,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Clipboard TS](https://github.com/wesbos/clipboard-ts) - Take TS via argv[2], convert to JS and pass back via process.stdout.
 - [Structura.js](https://github.com/giusepperaso/structura.js) - Very fast and lightweight Typescript library to create immutable states with a mutable syntax.
 - [Effect TS IO](https://github.com/Effect-TS/io) - Fiber-based Implementation of Structured Concurrency.
+- [Akte](https://github.com/lihbr/akte) - Minimal file generator, for websites and more.
 
 ## Links
 

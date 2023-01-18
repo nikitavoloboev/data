@@ -38,6 +38,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [zustand-signal](https://github.com/dai-shi/zustand-signal) - React binding for Zustand.
 - [Yjs React Bindings](https://github.com/joebobmiles/y-react)
 - [Yjs Middleware for Zustand](https://github.com/joebobmiles/zustand-middleware-yjs)
+- [Create React Signals](https://github.com/dai-shi/create-react-signals) - Factory function to create signals for React.
 
 ## DB
 

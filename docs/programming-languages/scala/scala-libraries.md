@@ -89,6 +89,7 @@
 
 - [Noether](https://github.com/spotify/noether) - Scala Aggregators used for ML Model metrics mo.
 - [Lamp](https://github.com/pityka/lamp) - Scala library for deep learning and scientific computing. It features a native CPU and GPU backend and operates on off-heap memory.
+- [scala-torch](https://github.com/microsoft/scala_torch) - Scala bindings for LibTorch.
 
 ## Other
 

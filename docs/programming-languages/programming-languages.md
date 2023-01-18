@@ -514,3 +514,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Type Checking If Expressions (2023)](https://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions/)
 - [Adding For Loops to an Interpreter (2023)](https://healeycodes.com/adding-for-loops-to-an-interpreter) ([Lobsters](https://www.reddit.com/r/ProgrammingLanguages/comments/10dikdx/adding_for_loops_to_an_interpreter/))
 - [Squirrel](http://www.squirrel-lang.org/) - High level imperative, object-oriented programming language. ([Code](https://github.com/albertodemichelis/squirrel))
+- [What does it mean to have an "algebraic" type system? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/10ewz92/what_does_it_mean_to_have_an_algebraic_type_system/)

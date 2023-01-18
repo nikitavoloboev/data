@@ -194,6 +194,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Duelyst](https://github.com/open-duelyst/duelyst) - Digital collectible card game and turn-based strategy hybrid.
 - [Xain'd Sleena arcade game for MiSTer](https://github.com/MiSTer-devel/Arcade-XSleena_MiSTer)
 - [Sunflower Land](https://github.com/sunflower-land/sunflower-land) - Decentralized and community driven MetaVerse style game.
+- [Emergence](https://github.com/Leafwing-Studios/Emergence) - Organic factory-builder set in a micro-scale, post-apocalyptic future.
 
 ## Awesome games (other)
 
@@ -414,3 +415,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What are some “video gamey” things games do that you dislike? (2023)](https://www.reddit.com/r/patientgamers/comments/106yjde/what_are_some_video_gamey_things_games_do_that/)
 - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets)
 - [Echo Games Discord](https://discord.com/invite/echogames)
+- [What’s a line in a video game that made you feel this way?](https://twitter.com/ArkhamNumb/status/1614733996503474176)

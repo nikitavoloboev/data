@@ -34,6 +34,7 @@ title: Android
 - [Url Forwarder](https://github.com/daverix/urlforwarder) - Enables you to use bookmarklets on Android.
 - [Jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker.
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android.
+- [CloudStream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 
 ## Links
 

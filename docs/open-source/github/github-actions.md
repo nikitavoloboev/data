@@ -400,6 +400,7 @@ title: GitHub actions
 - [GitHub Action to set up Docker Buildx](https://github.com/docker/setup-buildx-action)
 - [bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command.
 - [repo2docker](https://github.com/jupyterhub/repo2docker-action) - GitHub action to build data science environment images with repo2docker and push them to registries.
+- [Docker Hub Description](https://github.com/peter-evans/dockerhub-description) - GitHub action to update a Docker Hub repository description from readme.
 
 ## Postgres
 

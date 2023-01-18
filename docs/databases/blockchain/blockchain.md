@@ -77,6 +77,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Study of 6.1M NFT trades finds a few folks at the center of the market. The top 10% of traders account for 85% of transactions & trade at least once 97% of all assets. 10% of buyer–seller pairs have the same volume as the remaining 90%.](https://twitter.com/emollick/status/1465505077083389960)
 - [Forget web3/blockchain/crypto/defi/buzz word. This is the "Community Computer" revolution. Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people. Community Computers will do same for groups.](https://twitter.com/buchmanster/status/1466092508316905478)
 - [As a user of Web 3.0, all interactions will be carried out pseudonymously, securely and for many services, trustlessly.](https://twitter.com/lightcoin/status/1473419653896716288)
+- [The whole concept of “going multichain” is so silly. Don’t bring your product to a new chain. Bring a new chain to your product.](https://twitter.com/armaniferrante/status/1615532677645623296)
 
 ## Links
 

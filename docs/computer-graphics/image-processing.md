@@ -237,3 +237,4 @@
 - [Rust Image Worker](https://github.com/jupiter/rust-image-worker) - Dynamically crop, resize and cache images, all on the CDN.
 - [Face Photo Restorer](https://www.restorephotos.io/) - Restoring old and blurry face photos with AI. ([Code](https://github.com/Nutlope/restorePhotos))
 - [Lid – Lo-fi image dithering](https://rawtext.club/~sloum/lid.html) ([HN](https://news.ycombinator.com/item?id=34358828))
+- [CropScore](https://cropper.madza.dev/) - Online Image Cropper for Content Creators. ([Code](https://github.com/madzadev/cropper))
