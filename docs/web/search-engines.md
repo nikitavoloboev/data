@@ -311,3 +311,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Pathery](https://github.com/tvanhens/pathery) - Serverless search service built on AWS using Rust, CDK and Tantivy.
 - [FindThatMeme](https://findthatmeme.com/) - Meme Search Engine.
 - [Addok](https://github.com/addok/addok) - Index your address data and provide an HTTP API for full text search.
+- [goris](https://github.com/tanaikech/goris) - CLI tool to search for images with Google Reverse Image Search.

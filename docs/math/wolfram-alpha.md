@@ -15,3 +15,4 @@ title: Wolfram Alpha
 - [It’s Time to Launch the Wolfram Institute (2022)](https://writings.stephenwolfram.com/2022/04/weve-got-a-science-opportunity-overload-its-time-to-launch-the-wolfram-institute/) ([HN](https://news.ycombinator.com/item?id=30940813))
 - [wstp](https://github.com/WolframResearch/wstp-rs) - Rust bindings to the Wolfram Symbolic Transport Protocol (WSTP).
 - [md2nb](https://github.com/ConnorGray/md2nb) - Markdown to Wolfram Notebook converter.
+- [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) ([HN](https://news.ycombinator.com/item?id=34422122))

@@ -206,3 +206,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Solid Wrap Balancer](https://github.com/nirtamir2/solid-wrap-balancer) - Simple Solid Component That Makes Titles More Readable.
 - [Preset for building your SolidJS package with tsup](https://github.com/solidjs-community/tsup-preset-solid)
 - [Solid Navigation](https://github.com/ammarahm-ed/solid-navigation) - Native navigation for SolidJS mobile apps built with NativeScript.
+- [Solid Rewind](https://solidrewind.io/) - Redux-style time-travel debugger and component-tree visualizer for apps made with SolidJS.

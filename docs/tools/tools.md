@@ -819,3 +819,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Quill](https://quill.do) - Craft forms, pages, and documents. ([Twitter](https://twitter.com/CraftQuill))
 - [Golden Kitty Awards | Product Hunt](https://www.producthunt.com/golden-kitty-awards)
 - [rate.house](https://rate.house/) - Comprehensive media database.
+- [Summate.it](https://summate.it/) - Quickly summarize web articles with OpenAI. ([HN](https://news.ycombinator.com/item?id=34421314))
