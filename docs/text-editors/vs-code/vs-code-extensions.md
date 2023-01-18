@@ -600,3 +600,4 @@ Below is a list of extensions I use.
 - [VS Code Notebook APIs](https://code.visualstudio.com/api/extension-guides/notebook)
 - [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver.
 - [Template for VS Code python tools extensions](https://github.com/microsoft/vscode-python-tools-extension-template)
+- [Awesome VSCode Extension](https://github.com/stateful/vscode-awesome-ux) - Showcase of how to employ best practices to provide a high-fidelity user experience inside of VS Code extensions.

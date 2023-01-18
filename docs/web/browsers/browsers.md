@@ -4,7 +4,7 @@
 
 [Microlink](https://microlink.io/) is nice tool.
 
-Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-template) template to build extensions.
+Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-template) template to build extensions. [WebExtension Vite Starter](https://github.com/antfu/vitesse-webext) is great too.
 
 And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](../../macOS/macOS.md) is [Safari](safari.md). I do find ideas from [Arc Browser](https://thebrowser.company/) interesting though.
 

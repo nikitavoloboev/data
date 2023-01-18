@@ -4,7 +4,7 @@
 
 [Zstandard](https://github.com/facebook/zstd) is [great](https://news.ycombinator.com/item?id=34058711).
 
-Use [Squoosh](https://squoosh.app/) to compress images without losing quality.
+Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [Brotli-WASM](https://github.com/httptoolkit/brotli-wasm) is great compression library.
 
 ## Notes
 

@@ -620,6 +620,7 @@
 - [ParallaxSwiftUI](https://github.com/Priva28/ParallaxSwiftUI) - Add a motion parallax effect to your SwiftUI views to add some depth to your UI.
 - [SwiftUI Hooks Form](https://github.com/dungntm58/swiftui-hooks-form) - SwiftUI implementation of React Hooks Form.
 - [FloatingTabBar](https://github.com/claudiaeng/FloatingTabBar) - Aesthetic floating tab bar – SwiftUI & Combine.
+- [DidUpdate](https://github.com/PimCoumans/DidUpdate) - SwiftUI inspired State observing without SwiftUI.
 
 ## Test
 
