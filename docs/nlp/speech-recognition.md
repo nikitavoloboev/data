@@ -172,3 +172,4 @@ title: Speech recognition
 - [Multilingual Automatic Speech Recognition with Word-level Timestamps](https://github.com/Jeronymous/whisper-timestamped)
 - [Quick Caption](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT and FCPXML) without manually entering time codes.
 - [ArchiSound](https://github.com/archinetai/archisound) - Collection of pre-trained audio models, in PyTorch.
+- [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper.

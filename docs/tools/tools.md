@@ -489,7 +489,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
 - [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web. ([Code](https://github.com/NodeBB/NodeBB))
 - [Gist.cafe](https://gist.cafe/) - Execute Gists of code. ([HN](https://news.ycombinator.com/item?id=25871598))
-- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar)) ([HN](https://news.ycombinator.com/item?id=24882480))
+- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar)) ([HN](https://news.ycombinator.com/item?id=24882480)) ([HN](https://news.ycombinator.com/item?id=34438115))
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
 - [Appsmith](https://www.appsmith.com/) - Open source admin panel, CRUD, and workflow builder. ([Code](https://github.com/appsmithorg/appsmith))

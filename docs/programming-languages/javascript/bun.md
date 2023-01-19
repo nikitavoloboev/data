@@ -46,3 +46,4 @@ I use Bun to make sure I don't have to write [Node](../../web/nodejs/nodejs.md) 
 - [Elysia with HMR](https://github.com/SaltyAom/elysia-hmr)
 - [jlbun](https://github.com/lucifer1004/jlbun) - Using Julia in Bun.
 - [KVBase](https://github.com/gaurishhs/kvb) - Key-value store for Bun. It internally uses bun:sqlite for the storage.
+- [Bun 0.5 (2023)](https://bun.sh/blog/bun-v0.5.0) ([HN](https://news.ycombinator.com/item?id=34430458))

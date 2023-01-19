@@ -305,3 +305,4 @@ title: Spatial analysis
 - [nebula.gl](https://github.com/uber/nebula.gl) - Suite of 3D-enabled data editing overlays, suitable for deck.gl.
 - [polars_gdal](https://github.com/phayes/polars_gdal) - Read GDAL compatible file formats into polars / geopolars.
 - [splot](https://github.com/pysal/splot) - Lightweight plotting for geospatial analysis in PySAL.
+- [GeoServer](https://geoserver.org/) - Open source server for sharing geospatial data. ([Code](https://github.com/geoserver/geoserver))

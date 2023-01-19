@@ -270,3 +270,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [What are you planning to learn in 2023? | Lobsters](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 - [HN: What are you planning to learn in 2023?](https://news.ycombinator.com/item?id=34307741)
 - [Tech you should of learned sooner (2023)](https://twitter.com/rauchg/status/1614295403221979136)
+- [Learn the art of teaching dev from these people](https://fromdevtodev.com/people-to-follow-to-learn-art-of-teaching-dev)
