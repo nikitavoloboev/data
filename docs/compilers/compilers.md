@@ -281,3 +281,4 @@
 - [Favorite compiler and interpreter resources (2023)](https://lists.eatonphil.com/compilers-and-interpreters.html)
 - [xDSL](https://github.com/xdslproject/xdsl) - Compiler toolkit natively developed in Python.
 - [Devito](https://github.com/devitocodes/devito) - Code generation framework for automated finite difference computation.
+- [Ezno in '23](https://kaleidawave.github.io/posts/ezno-23/)

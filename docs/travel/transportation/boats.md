@@ -41,3 +41,4 @@ Only issue is that I can't imagine going without internet for long periods of ti
 - [The Long Way: Sheridan House Maritime Classic](https://www.goodreads.com/en/book/show/404437)
 - [How One Woman Pulled Anchor and Set Sail in a Solar-Powered Tiny Home](https://www.dwell.com/article/solar-design-tiny-home-on-the-water-crossboundaries-floating-tiny-home75ed6890-14b512c6)
 - [Boat International](https://www.boatinternational.com/) - Superyacht and Luxury Yacht Guide.
+- [Working from a narrowboat - Internet connectivity (2023)](https://qmacro.org/blog/posts/2023/01/09/working-from-a-narrowboat-internet-connectivity/)

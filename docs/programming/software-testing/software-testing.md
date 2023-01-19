@@ -30,7 +30,7 @@
 - [Awesome Software Testing](https://github.com/ligurio/awesome-software-quality)
 - [Rainforest](https://www.rainforestqa.com/) - Flexible software testing platform. ([CLI](https://github.com/rainforestapp/rainforest-cli))
 - [Puppetron](https://github.com/cheeaun/puppetron) - Headless Chrome Node API)-based rendering solution.
-- [Tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
+- [Tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool. ([Docs](https://tox.wiki/en/latest/)) ([Why I like Nox](https://hynek.me/articles/why-i-like-nox/))
 - [How We Test Vector (2020)](https://vector.dev/blog/how-we-test-vector/) - Survey of techniques we've found useful.
 - [puppeteer + dom-testing-library](https://github.com/testing-library/pptr-testing-library)
 - [How SQLite Is Tested](https://sqlite.org/testing.html) ([HN](https://news.ycombinator.com/item?id=29460240)) ([Lobsters](https://lobste.rs/s/jkg945/how_sqlite_is_tested))

@@ -648,3 +648,4 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Ask HN: Do you hate software engineering but love programming? (2023)](https://news.ycombinator.com/item?id=34366610)
 - [Locality of Behavior is important](https://htmx.org/essays/locality-of-behaviour/)
 - [Benchmarking Gone Wrong (2013)](https://www.youtube.com/watch?v=vm1GJMp0QN4&t=1069s)
+- [Examples of problems with integers (2023)](https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/)

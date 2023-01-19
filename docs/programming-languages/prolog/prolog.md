@@ -77,3 +77,4 @@ title: Prolog
 - [Djot implementation in Prolog](https://github.com/aarroyoc/djota)
 - [PostgreSQL Prolog](https://github.com/aarroyoc/postgresql-prolog) - Prolog library to connect to PostgreSQL databases. ([HN](https://news.ycombinator.com/item?id=28660202))
 - [Praxis](https://github.com/toblotron/praxis-ide) - Online IDE for visual programming in Prolog. ([HN](https://news.ycombinator.com/item?id=34344412))
+- [tar creator + extractor in ~100 lines of Prolog](https://github.com/SuperDisk/tar.pl)

@@ -39,3 +39,4 @@
 - [VAEL: Bridging Variational Autoencoders and Probabilistic Logic Programming (2022)](https://arxiv.org/abs/2202.04178) ([Code](https://github.com/EleMisi/VAEL))
 - [Multiset Rewriting in miniKanren](https://github.com/webyrd/linear-logic-multiset-rewriting)
 - [Minilog](https://github.com/lambduli/minilog) - Small relational (logic) programming language.
+- [Can Logic Programming Execute as Fast as Imperative Programming? (1990)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf)
