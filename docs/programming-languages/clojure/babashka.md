@@ -18,3 +18,4 @@ title: Babashka
 - [Babashka Tasks](https://github.com/ferdinand-beyer/vscode-babashka-tasks) - Run Babashka Tasks from VS-Code.
 - [Obsidian Babashka](https://github.com/filipesilva/obsidian-babashka) - Run Obsidian Clojure(Script) codeblocks in Babashka.
 - [http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http.
+- [Simple TUIs with Babashka and Gum (2023)](https://rattlin.blog/bbgum.html)

@@ -151,3 +151,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Slapo](https://github.com/awslabs/slapo) - Schedule language for progressive optimization of large deep learning model training.
 - [How DoorDash Upgraded a Heuristic with ML to Save Thousands of Canceled Orders (2023)](https://doordash.engineering/2023/01/10/how-doordash-upgraded-a-heuristic-with-ml-to-save-thousands-of-canceled-orders/)
 - [featureimpact](https://github.com/bloomen/featureimpact) - Python package for estimating the impact of features on ML models.
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) - Playbook for systematically maximizing the performance of deep learning models.

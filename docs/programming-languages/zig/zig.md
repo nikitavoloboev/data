@@ -169,3 +169,4 @@ title: Zig
 - [zdb](https://github.com/kubkon/zdb) - Simple debugger in Zig for Zig.
 - [A Zig Diary (2023)](https://kihlander.net/post/a-zig-diary/)
 - [Thoughts on Zig (2023)](https://www.youtube.com/watch?v=zlWqpRTgXBg)
+- [3 things you might like about Zig (2023)](https://www.youtube.com/watch?v=3DxjZmLBizI)

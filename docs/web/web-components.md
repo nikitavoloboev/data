@@ -122,3 +122,4 @@ title: Web Components
 - [Web Components bookmarks](https://webcomponents.today/) ([Code](https://github.com/web-padawan/webcomponents.today))
 - [ESLint rules for Web Components](https://github.com/43081j/eslint-plugin-wc)
 - [Web Components Guide](https://webcomponents.guide/) ([Code](https://github.com/WebComponentsGuide/webcomponents.guide))
+- [Improved Web Component for Pixel-Accurate Atkinson Dithered Images](https://sheep.horse/2023/1/improved_web_component_for_pixel-accurate_atkinson.html) ([Lobsters](https://lobste.rs/s/otzvj2/improved_web_component_for_pixel))

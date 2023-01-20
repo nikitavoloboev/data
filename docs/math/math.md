@@ -427,3 +427,4 @@
 - [Complementary foundations for mathematics: when do we choose? (2022)](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf) ([HN](https://news.ycombinator.com/item?id=34197169))
 - [Chaos Hypertext book](https://hypertextbook.com/chaos/) ([HN](https://news.ycombinator.com/item?id=34244977))
 - [Julia Robinson helped define the limits of mathematical knowledge (2019)](https://www.sciencenews.org/article/how-julia-robinson-helped-define-limits-mathematical-knowledge) ([HN](https://news.ycombinator.com/item?id=34367035))
+- [Ask HN: Math books that made you significantly better at math? (2023)](https://news.ycombinator.com/item?id=34439828)
