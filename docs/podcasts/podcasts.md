@@ -170,6 +170,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [What are some of the best podcasts for developers? (2022)](https://news.ycombinator.com/item?id=33943707)
 - [Ask HN: What is the best podcast you listened to in 2022?](https://news.ycombinator.com/item?id=34056715)
 - [What podcasts deserve to be adapted into TV shows? (2023)](https://www.reddit.com/r/podcasts/comments/106sc41/what_podcasts_deserve_to_be_adapted_into_tv_shows/)
+- [Ask HN: What is your favorite Tech Podcasts these days? (2023)](https://news.ycombinator.com/item?id=34450924)
 
 ## Notes
 

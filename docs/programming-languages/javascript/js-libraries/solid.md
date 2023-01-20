@@ -208,3 +208,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Solid Navigation](https://github.com/ammarahm-ed/solid-navigation) - Native navigation for SolidJS mobile apps built with NativeScript.
 - [Solid Rewind](https://solidrewind.io/) - Redux-style time-travel debugger and component-tree visualizer for apps made with SolidJS.
 - [A Comprehensive Guide to SolidJS Stores](https://raqueebuddinaziz.com/blog/comprehensive-guide-to-solid-js-stores/)
+- [SolidJS in React? Reconciling Disparate Worlds (2023)](https://www.youtube.com/watch?v=p9pwHyM5Z98)

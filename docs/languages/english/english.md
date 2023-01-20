@@ -2,6 +2,10 @@
 
 [Colin Farrell has my favorite accent](https://www.youtube.com/watch?v=pf9M8Ckomo0). It's Irish but not as intense as in [Derry Girls](https://www.youtube.com/watch?v=0CtrWhyj1TM) or [Normal People](https://www.youtube.com/watch?v=hoex8Hz5UGc) and is understandable.
 
+## Favorite accents
+
+- [Matthew Macfadyen](https://www.youtube.com/watch?v=jXSzJV04O3o)
+
 ## Words
 
 Some interesting words I like:

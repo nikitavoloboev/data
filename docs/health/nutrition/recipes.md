@@ -142,3 +142,5 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [A Couple Cooks](https://www.acouplecooks.com/) - Healthy vegetarian, vegan, and whole food recipes.
 - [Вкусная минутка - YouTube](https://www.youtube.com/@tastyminute/videos)
 - [My Online Cookbook](https://github.com/maeligg/my-online-cookbook) - Starter kit to create your own website of recipes.
+- [Rotten Recipes](https://rotten.recipes/)
+- [Find flavors pairings](https://rotten.recipes/find/pairings) - Select an ingrdient to find flavor pairings.

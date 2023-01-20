@@ -419,7 +419,7 @@ if (
 - [Proposal for Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/) ([Code](https://github.com/giltayar/proposal-types-as-comments)) ([Reddit](https://www.reddit.com/r/javascript/comments/taejmb/a_proposal_for_type_syntax_in_javascript/)) ([Tweet](https://twitter.com/Rich_Harris/status/1501638466857283588)) ([Reddit](https://www.reddit.com/r/programming/comments/taejl7/a_proposal_for_type_syntax_in_javascript/)) ([Tweet](https://twitter.com/alexandereardon/status/1501768797501341699)) ([HN](https://news.ycombinator.com/item?id=30653574))
 - [First look: adding type annotations to JavaScript (2022)](https://2ality.com/2022/03/type-annotations-first-look.html) ([HN](https://news.ycombinator.com/item?id=30626458))
 - [Escargot](https://github.com/Samsung/escargot) - Memory optimized JavaScript engine for mid-range devices such as mobile phone, tablet and TV.
-- [Pipe Operator (|>) for JavaScript](https://github.com/tc39/proposal-pipeline-operator) ([Tweet](https://twitter.com/ianstormtaylor/status/1537837121553178626))
+- [Pipe Operator (|>) for JavaScript](https://github.com/tc39/proposal-pipeline-operator) ([Tweet](https://twitter.com/ianstormtaylor/status/1537837121553178626)) ([HN](https://news.ycombinator.com/item?id=34454184))
 - [Partial Application Syntax for ECMAScript](https://github.com/tc39/proposal-partial-application)
 - [The Elephant in The Event Loop (2022)](https://gashamola.com/2022/03/16/the-elephant-in-the-event-loop.html)
 - [Moon](https://github.com/milesj/moon) - Rust program for managing JavaScript based monorepo's.

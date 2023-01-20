@@ -205,3 +205,4 @@ Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) m
 - [What happens when a CPU starts](https://lateblt.tripod.com/bit68.txt) ([HN](https://news.ycombinator.com/item?id=34333638))
 - [CPU11](https://github.com/1801BM1/cpu11) - Historical PDP-11 microprocessors reverse engineering.
 - [Evaluating the Cost of Atomic Operations on Modern Architectures](https://spcl.inf.ethz.ch/Publications/.pdf/atomic-bench.pdf)
+- [Huge Pages are a Good Idea (2023)](https://www.evanjones.ca/hugepages-are-a-good-idea.html) ([Lobsters](https://lobste.rs/s/hwf01p/huge_pages_are_good_idea))

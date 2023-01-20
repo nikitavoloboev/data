@@ -306,6 +306,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Laurence Tratt](https://tratt.net/laurie/blog/)
 - [Chips and Cheese](https://chipsandcheese.com/)
 - [Вастрик](https://vas3k.blog/) ([Code](https://github.com/vas3k/vas3k.blog))
+- [Evan Jones](https://www.evanjones.ca/chronological.html)
 
 ## Notes
 

@@ -46,3 +46,4 @@ title: ClickHouse
 - [Querying the GitHub archive with the ClickHouse playground (2022)](https://til.simonwillison.net/clickhouse/github-explorer) ([HN](https://news.ycombinator.com/item?id=34207883))
 - [Getting Data Into ClickHouse (2022)](https://clickhouse.com/blog/getting-data-into-clickhouse-part-1)
 - [Extracting, converting, and querying data in local files using clickhouse-local (2023)](https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local) ([HN](https://news.ycombinator.com/item?id=34265206))
+- [Using ClickHouse for financial market data - Christoph Wurm (ClickHouse) (2023)](https://www.youtube.com/watch?v=Ojv6LPXKy2U)
