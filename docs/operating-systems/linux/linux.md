@@ -680,3 +680,4 @@ title: Linux
 - [Revisiting KDE (2023)](https://jackevansevo.github.io/revisiting-kde.html) ([HN](https://news.ycombinator.com/item?id=34390655))
 - [ELKS](https://github.com/jbruchon/elks) - Embeddable Linux Kernel Subset.
 - [Kernel-WASM](https://github.com/wasmerio/kernel-wasm) - Sandboxed kernel mode WebAssembly runtime for Linux. ([HN](https://news.ycombinator.com/item?id=34463828))
+- [Libbpf](https://github.com/libbpf/libbpf) - BPF program loader.

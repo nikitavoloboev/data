@@ -1108,3 +1108,4 @@
 - [Multiview Compressive Coding for 3D Reconstruction (2023)](https://arxiv.org/abs/2301.08247) ([Code](https://github.com/facebookresearch/MCC))
 - [Deep Learning Object Detection Paper List](https://github.com/hoya012/deep_learning_object_detection)
 - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video (2022)](https://arxiv.org/abs/2112.01517) ([Code](https://github.com/zju3dv/ENeRF))
+- [InstructPix2Pix: Learning to Follow Image Editing Instructions (2022)](https://arxiv.org/abs/2211.09800) ([Code](https://github.com/timothybrooks/instruct-pix2pix))

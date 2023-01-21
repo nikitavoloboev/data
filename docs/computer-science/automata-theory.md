@@ -8,7 +8,7 @@ title: Automata theory
 
 ## Links
 
-- [Particle Life - A Game of Life Made of Particles (2018)](https://www.youtube.com/watch?v=Z_zmZ23grXE) ([GitHub](https://github.com/HackerPoet/Particle-Life))
+- [Particle Life - A Game of Life Made of Particles (2018)](https://www.youtube.com/watch?v=Z_zmZ23grXE) ([Code](https://github.com/HackerPoet/Particle-Life))
 - [Game of life with particles (in JS)](https://github.com/fnky/particle-life)
 - [Terra](https://github.com/rileyjshaw/terra) - JS library for simple biological simulations and cellular automata.
 - [Lenia](https://github.com/Chakazul/Lenia) - 2D cellular automata with continuous space, time and states. It produces a huge variety of interesting life forms.

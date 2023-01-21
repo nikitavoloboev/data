@@ -33,3 +33,4 @@ title: Hasura
 - [Streaming data in Postgres to 1M clients with GraphQL](https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md) ([HN](https://news.ycombinator.com/item?id=33227840))
 - [Hasura + Express Server](https://github.com/barelyhuman/hes)
 - [SQLite Data Connector Agent for Hasura GQL Engine](https://github.com/hasura/sqlite-dataconnector-agent)
+- [Hasura Discord](https://discord.com/invite/hasura)
