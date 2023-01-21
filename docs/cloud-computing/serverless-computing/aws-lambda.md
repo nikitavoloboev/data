@@ -153,3 +153,4 @@ title: AWS Lambda
 - [AWS Lambda Powertools TypeScript Logger example](https://github.com/ChristianRich/lambda-powertools-logger-typescript)
 - [AWS re:Invent 2022 - A closer look at AWS Lambda](https://www.youtube.com/watch?v=0_jfH6qijVY)
 - [Does Maximum Concurrency Solve the Lambda+SQS Issue? (2023)](https://zaccharles.medium.com/does-maximum-concurrency-solve-the-lambda-sqs-issue-3c19701e6e75)
+- [Enable your AWS Lambda hosted applications to stream responses via Cloudflare Workers](https://github.com/jacob-ebey/cf-lambda-streaming)

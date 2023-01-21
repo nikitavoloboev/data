@@ -217,6 +217,7 @@ div.CodeMirror-cursor,
 - [Mermaid Tools for Obsidian](https://github.com/dartungar/obsidian-mermaid)
 - [Tikz Renderer](https://github.com/thequilo/obsidian-tikz-renderer)
 - [QuickShare](https://github.com/mcndt/obsidian-quickshare) - Securely share your Obsidian notes with one click.
+- [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) - Obsidian plugin for manipulating sentences as a unit of movement.
 
 ## Themes
 

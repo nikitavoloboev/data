@@ -1486,3 +1486,5 @@
 - [Correctly playing audio in iOS applications (2022)](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
 - [Swift Macro Examples](https://github.com/DougGregor/swift-macro-examples) ([Fork](https://github.com/kishikawakatsumi/swift-power-assert))
 - [Apple announces full Swift rewrite of the Foundation framework (2022)](https://news.ycombinator.com/item?id=34339153)
+- [Swift Package Manager Rules for Bazel](https://github.com/cgrindel/rules_spm)
+- [Gazelle Plugin for Swift and Swit Package Rules for Bazel](https://github.com/cgrindel/swift_bazel)

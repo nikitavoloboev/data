@@ -325,3 +325,4 @@ title: Swift
 - [The evolution of Swift, with Nick Lockwood (2022)](https://www.swiftbysundell.com/podcast/123/)
 - [A Tour through Swift Attributes (2022)](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)
 - [Using Swift for Scripting (2019)](https://rderik.com/blog/using-swift-for-scripting/) ([HN](https://news.ycombinator.com/item?id=34265566))
+- [Visual Studio Code Development Container for Swift](https://github.com/swift-server/swift-dev-container)

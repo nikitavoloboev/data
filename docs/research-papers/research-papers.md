@@ -212,3 +212,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [ArXiV-Notify](https://github.com/DavidMChan/ArXiV-Notify) - ArXiV Notification Bot which sends you an email with the latest updates.
 - [Mdnotes](https://github.com/argenos/zotero-mdnotes) - Zotero plugin to export item metadata and notes as markdown files.
 - [Google Scholar Top publications](https://scholar.google.com/citations?view_op=top_venues)
+- [Paper Hero](https://github.com/Spico197/paper-hero) - Toolkit to help search for papers from aclanthology, arXiv and dblp.

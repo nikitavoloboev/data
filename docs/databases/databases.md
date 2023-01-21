@@ -760,3 +760,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Bullshit graph database performance benchmarks (2023)](https://maxdemarzi.com/2023/01/11/bullshit-graph-database-performance-benchmarks/) ([HN](https://news.ycombinator.com/item?id=34342371))
 - [Modern storage is plenty fast. It is the APIs that are bad (2020)](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a)
 - [Time Series Benchmark Suite](https://github.com/timescale/tsbs) - Tool for comparing and evaluating databases for time series data.
+- [CaskDB](https://github.com/avinassh/go-caskdb) - Build your own disk based KV store in Go.

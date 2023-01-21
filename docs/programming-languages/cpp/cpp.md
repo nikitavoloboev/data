@@ -417,3 +417,5 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [CppBenchmark](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision.
 - [C++ vs Rust: which is faster? (2023)](https://www.youtube.com/watch?v=VMpSYJ_7aYM)
 - [Rust vs. C++ Formatting (2023)](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/) ([HN](https://news.ycombinator.com/item?id=34392590)) ([Reddit](https://www.reddit.com/r/rust/comments/10dpw5r/c_vs_rust_which_is_faster_x86_assembly_inside/))
+- [Trading at light speed: designing low latency systems in C++ - David Gross (2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
+- [Meeting Cpp - YouTube](https://www.youtube.com/@MeetingCPP/videos)

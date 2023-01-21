@@ -144,3 +144,4 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [My Online Cookbook](https://github.com/maeligg/my-online-cookbook) - Starter kit to create your own website of recipes.
 - [Rotten Recipes](https://rotten.recipes/)
 - [Find flavors pairings](https://rotten.recipes/find/pairings) - Select an ingrdient to find flavor pairings.
+- [My favorite Greek mediterranean foods](https://www.reddit.com/r/nutrition/comments/10hr5xz/my_favourite_greek_mediterranean_foods/)

@@ -80,3 +80,4 @@
 - [What Is an Eigenvalue? (2022)](https://nhigham.com/2022/11/08/what-is-an-eigenvalue/) ([HN](https://news.ycombinator.com/item?id=33517795))
 - [Linear algebra with transformers (2022)](https://openreview.net/forum?id=Hp4g7FAXXG) ([Code](https://github.com/facebookresearch/LAWT))
 - [Unary Computer for Matrix Multiplication (2020)](https://jsm.ece.wisc.edu/docs/wu-isca2020.pdf)
+- [NumLin: Linear Types for Linear Algebra](https://github.com/dc-mak/NumLin)
