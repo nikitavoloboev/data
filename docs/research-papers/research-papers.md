@@ -213,3 +213,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Mdnotes](https://github.com/argenos/zotero-mdnotes) - Zotero plugin to export item metadata and notes as markdown files.
 - [Google Scholar Top publications](https://scholar.google.com/citations?view_op=top_venues)
 - [Paper Hero](https://github.com/Spico197/paper-hero) - Toolkit to help search for papers from aclanthology, arXiv and dblp.
+- [Citation Manager for JupyterLab using Zotero Web API](https://github.com/krassowski/jupyterlab-citation-manager)
+- [Typst](https://typst.app/) - Compose papers faster. ([GitHub](https://github.com/typst))

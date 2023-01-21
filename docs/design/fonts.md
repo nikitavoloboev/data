@@ -456,3 +456,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [OpenType Collective](https://www.opentypecollective.com/) - Collection of open source typefaces that you can use on any open source project. ([Reddit](https://www.reddit.com/r/sveltejs/comments/10dhtdu/just_launched_my_first_svelte_project_an/))
 - [Wakamai Fondue](https://wakamaifondue.com/beta/) - Tool that answers the question “what can my font do?”
 - [Fontmatrix](https://github.com/fontmatrix/fontmatrix) - Font management application.
+- [subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts with TrueType or CFF outlines.

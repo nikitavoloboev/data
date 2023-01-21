@@ -94,3 +94,4 @@
 - [Simple PDF Embed](https://github.com/bendersej/simplepdf-embed) - Add a powerful PDF editor directly into your website or React App.
 - [PDF to Image](https://github.com/k-yle/pdf-to-img) - Converts PDFs to images in Node with no native dependencies.
 - [SVG 2 PDF](https://github.com/typst/svg2pdf) - Converts SVG files to PDF.
+- [PDF Writer](https://github.com/typst/pdf-writer) - Step-by-step PDF writer.

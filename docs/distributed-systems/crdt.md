@@ -4,11 +4,13 @@ title: Conflict-free replicated data type
 
 # [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
-[Liveblocks](https://github.com/liveblocks/liveblocks) is a neat application of CRDTs. [Yjs](https://github.com/yjs/yjs) & [CROWDs](https://github.com/hyoo-ru/crowd.hyoo.ru) are nice too. [CRDT wiki](https://crdt.tech/) is great.
+[Liveblocks](https://github.com/liveblocks/liveblocks) is a neat application of CRDTs. [Yjs](https://github.com/yjs/yjs) (with [Hocuspocus](https://github.com/ueberdosis/hocuspocus)) & [CROWDs](https://github.com/hyoo-ru/crowd.hyoo.ru) are nice too. [CRDT wiki](https://crdt.tech/) is great.
 
 [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/) is nice read.
 
 [Diamond Types](https://github.com/josephg/diamond-types) seem like a nice Rust CRDT implementation.
+
+[CRStore](https://github.com/Azarattum/CRStore) is nice CRDT plugin for [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Would love to build same one for [Solid](../programming-languages/javascript/js-libraries/solid.md).
 
 ## Notes
 

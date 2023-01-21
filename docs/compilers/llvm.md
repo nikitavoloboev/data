@@ -154,3 +154,4 @@ title: LLVM
 - [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
 - [Go LLVM](https://github.com/tinygo-org/go-llvm) - Go bindings to a system-installed LLVM. Used as part of TinyGo.
 - [Compile and run LLVM IR in the browser](https://soedirgo.github.io/llvm-wasm/) ([Code](https://github.com/soedirgo/llvm-wasm))
+- [Encoding Variable-Length Instructions in LLVM (2022)](https://m680x0.github.io/blog/2022/02/varlen-encoder.html)

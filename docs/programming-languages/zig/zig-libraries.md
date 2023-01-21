@@ -160,6 +160,7 @@
 - [Composable allocators](https://github.com/dweiller/zig-composable-allocators)
 - [zubench](https://github.com/dweiller/zubench) - Micro-benchmarking package for Zig.
 - [zasp](https://github.com/fengb/zasp) - Streaming parser.
+- [zig-csv](https://github.com/beho/zig-csv) - Low-level CSV parser library for Zig.
 
 ## Links
 

@@ -429,3 +429,4 @@ title: Reinforcement learning
 - [Extreme Q-Learning: MaxEnt RL without Entropy (2023)](https://arxiv.org/abs/2301.02328) ([Code](https://github.com/Div99/XQL))
 - [DTQN](https://github.com/kevslinger/DTQN) - Deep Transformer Q-Networks for Partially Observable Reinforcement Learning.
 - [What are the current state-of-the-art RL algorithms? (2023)](https://www.reddit.com/r/reinforcementlearning/comments/10h4gms/what_are_the_current_stateoftheart_algorithms/)
+- [AutoCAT](https://github.com/facebookresearch/AutoCAT) - Reinforcement Learning for Automated Exploration of Cache-Timing Attacks.

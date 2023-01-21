@@ -23,3 +23,4 @@ title: DuckDB
 - [Lightweight Compression in DuckDB (2022)](https://duckdb.org/2022/10/28/lightweight-compression.html)
 - [Go SQL driver for DuckDB](https://github.com/marcboeker/go-duckdb)
 - [Using Polars on results from DuckDB's Arrow interface in Rust (2022)](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)
+- [PuffinDB](https://github.com/sutoiku/puffin) - Serverless data lake query engine powered by Iceberg × DuckDB × Arrow.

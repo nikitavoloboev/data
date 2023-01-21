@@ -784,3 +784,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning.
 - [Large Transformer Model Inference Optimization (2023)](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) ([HN](https://news.ycombinator.com/item?id=34458414))
 - [Embed-VTT](https://github.com/gmchad/embed-vtt) - Generate & query embeddings from VTT files using openai & pinecone on Andrej Karpathy's's latest GPT tutorial.
+- [CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation (2021)](https://arxiv.org/abs/2109.00859) ([Code](https://github.com/salesforce/CodeT5))

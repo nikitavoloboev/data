@@ -759,6 +759,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Akte](https://github.com/lihbr/akte) - Minimal file generator, for websites and more.
 - [v8-serde](https://github.com/losfair/v8-serde) - Pure-JavaScript implementation of the V8 value serializer.
 - [webm-muxer](https://github.com/Vanilagy/webm-muxer) - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.
+- [random-delay](https://github.com/Cadienvan/random-delay) - Library providing a parametrized random delay mechanism for functions (Both async and sync).
 
 ## Links
 

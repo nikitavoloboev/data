@@ -264,3 +264,4 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [Вездесущий синий кот: Depot провело ребрендинг молочной продукции «Милград»](https://www.sostav.ru/publication/depot-44723.html)
 - [Design tool performance signatures](https://bjango.com/articles/perfsignatures/)
 - [Learn UI Design](https://www.learnui.design/) - Complete Online Video Course.
+- [Layers](https://layers.to) - Home for designers.

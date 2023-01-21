@@ -12,3 +12,4 @@ title: Playwright
 - [Preact playwright component testing](https://github.com/preactjs/playwright-ct)
 - [Content Preview Scraper](https://github.com/cdk-dev/link-scraper) - Uses Playwright to extract content previews from a given URL.
 - [Playwright Python](https://playwright.dev/python/)
+- [Create Playwright](https://github.com/microsoft/create-playwright) - Getting started with Playwright with a single command.

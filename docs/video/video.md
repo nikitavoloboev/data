@@ -479,3 +479,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [libcamera](https://github.com/raspberrypi/libcamera) - Complex camera support library for Linux, Android, and ChromeOS.
 - [Awesome mpv](https://github.com/stax76/awesome-mpv)
 - [Vento](https://vento.so/) - Screen recorder that lets you rewind and record over mistakes. ([HN](https://news.ycombinator.com/item?id=34406340))
+- [Video Features](https://github.com/v-iashin/video_features) - Extract video features from raw videos using multiple GPUs.

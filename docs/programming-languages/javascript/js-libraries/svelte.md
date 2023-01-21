@@ -8,6 +8,8 @@ title: Svelte
 
 [Svelte Query](https://sveltequery.vercel.app/) is great for requests. [Marko](https://markojs.com/) is a nice alternative to Svelte that's also [compiler based](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s). I personally use [SolidJS](../js-libraries/solid.md) for all my web apps/sites.
 
+[CRStore](https://github.com/Azarattum/CRStore) is interesting.
+
 ## Example sites
 
 - [Pocketbase SvelteKit Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth)
@@ -339,3 +341,4 @@ title: Svelte
 - [List of awesome Svelte stores](https://github.com/samuba/awesome-svelte-stores)
 - [Svelte Image Gallery](https://github.com/react2svelte/image-gallery)
 - [Fluent Svelte](https://github.com/Tropix126/fluent-svelte) - Faithful implementation of Microsoft's Fluent Design System in Svelte.
+- [CRStore](https://github.com/Azarattum/CRStore) - Conflict-free replicated svelte store.
