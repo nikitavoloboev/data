@@ -1046,3 +1046,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Tracr: Compiled Transformers as a Laboratory for Interpretability (2023)](https://arxiv.org/abs/2301.05062) ([Code](https://github.com/deepmind/tracr))
 - [Understanding Deep Learning Book (2022)](https://udlbook.github.io/udlbook/) ([Code](https://github.com/udlbook/udlbook))
 - [Riemannian Score-Based Generative Modelling (2022)](https://arxiv.org/abs/2202.02763) ([Code](https://github.com/oxcsml/riemannian-score-sde))
+- [Techniques to improve reliability of LLMs](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md) ([HN](https://news.ycombinator.com/item?id=34462926))

@@ -661,3 +661,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Калинкин! - YouTube](https://www.youtube.com/@mutaboring/videos)
 - [Коллектив - YouTube](https://www.youtube.com/@kollektiv_doc/videos)
 - [Туземный совет трудящихся - YouTube](https://www.youtube.com/@user-nj9zr6go3d/videos)
+- [Your guide to the Russian economy — The Bell](https://thebell.io/en/your-guide-to-the-russian-economy/)

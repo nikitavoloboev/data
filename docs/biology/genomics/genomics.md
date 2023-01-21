@@ -238,3 +238,4 @@ title: Genomics
 - [RGT](https://github.com/CostaLab/reg-gen) - Regulatory Genomics Toolbox.
 - [Circlator](https://github.com/sanger-pathogens/circlator) - Tool to circularize genome assemblies.
 - [Goalign](https://github.com/evolbioinfo/goalign) - Set of command line tools to manipulate multiple alignments.
+- [gos](https://github.com/gosling-lang/gos) - Declarative library for Python designed to create interactive multi-scale visualizations of genomics and epigenomics data.

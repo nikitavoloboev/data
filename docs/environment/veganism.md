@@ -75,3 +75,4 @@ That's why it's so essential everyone acts nicely to each other. Because in some
 - [Growing muscles on vegan diet](https://www.reddit.com/r/veganfitness/comments/zhrfr6/im_beginning_my_vegan_lifestyle_ive_always/)
 - [Plant Protein vs Animal Protein](https://www.reddit.com/r/nutrition/comments/zl66tk/plant_protein_vs_animal_protein/)
 - [My kid doesn't want to be vegan any more](https://www.reddit.com/r/vegan/comments/zmrxcm/im_devastated_my_kid_doesnt_want_to_be_vegan/)
+- [Great Vegan cook books (2023)](https://www.reddit.com/r/vegan/comments/10gyxa4/looking_to_grow_my_vegan_cookbooks_and_vegan/)

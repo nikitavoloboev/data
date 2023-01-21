@@ -143,3 +143,4 @@ title: Electrical engineering
 - [PCBmodE](https://github.com/boldport/pcbmode) - Circuit board design software written in Python.
 - [pcbflow](https://github.com/michaelgale/pcbflow) - Python based Printed Circuit Board (PCB) layout and design package based on CuFlow.
 - [TAB electronics books](https://worldradiohistory.com/BOOKSHELF-ARH/Bookshelf_TAB.htm) ([HN](https://news.ycombinator.com/item?id=34386066))
+- [Self-Soldering Circuits (2023)](https://www.youtube.com/watch?v=r0csHZveVvY) ([HN](https://news.ycombinator.com/item?id=34463869))

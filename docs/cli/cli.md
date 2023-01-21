@@ -184,3 +184,6 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Catimg](https://github.com/posva/catimg) - Renders images in the terminal.
 - [Just](https://github.com/casey/just) - Command Runner. ([HN](https://news.ycombinator.com/item?id=34315779))
 - [felix](https://github.com/kyoheiu/felix) - TUI file manager with Vim-like key mapping, written in Rust.
+- [Rmt](https://github.com/AmineZouitine/rmt.rs) - Similar to the rm command but saves the deleted elements in the trash and restores them.
+- [Commands.dev](https://www.commands.dev/) - Find commands at the speed of thought. ([Code](https://github.com/warpdotdev/commands.dev))
+- [sudo at home](https://github.com/Xe/xn--ts9h) ([HN](https://news.ycombinator.com/item?id=34454165))

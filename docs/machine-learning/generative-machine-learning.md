@@ -307,3 +307,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Neural Frames](https://www.neuralframes.com/) - Create your own video clips with Stable Diffusion.
 - [Collection of generative AI applications](https://github.com/ai-collection/ai-collection)
 - [Sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content.
+- [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates)

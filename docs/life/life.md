@@ -157,3 +157,4 @@ For me personally the end goal and purpose is ultimate freedom. Doing what I lov
 - [life lessons from 2022](https://nicoles.substack.com/p/life-lessons-from-2022)
 - [Robin Williams' Speech | Good Will Hunting](https://www.youtube.com/watch?v=8GY3sO47YYo)
 - [Four thousand weeks](https://leebyron.com/4000/) ([HN](https://news.ycombinator.com/item?id=34385766))
+- [Photos capture life inside a drop of seawater](https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/) ([HN](https://news.ycombinator.com/item?id=34439525))

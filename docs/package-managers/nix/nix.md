@@ -490,3 +490,6 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Over-engineering Your Thesis with Nix, Pandoc and make (2023)](https://pascal.jungblut.me/posts/overengineering-thesis-template/) ([Lobsters](https://lobste.rs/s/vforxs/over_engineering_your_thesis_with_nix))
 - [nix-stdlib](https://github.com/numtide/nix-stdlib) - Batteries-included standard library for Nix.
 - [Nix Types RFC](https://github.com/hsjobeki/nix-types)
+- [Laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
+- [Rime](https://github.com/aakropotkin/rime) - Implements a spec compliant URI parser in pure Nix.
+- [floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin.

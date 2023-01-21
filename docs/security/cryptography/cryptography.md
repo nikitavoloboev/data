@@ -209,3 +209,4 @@
 - [Elliptic Curves: The Great Mystery (2023)](https://www.cantorsparadise.com/elliptic-curves-the-great-mystery-61599a93c61d) ([HN](https://news.ycombinator.com/item?id=34394594))
 - [Elliptic Tales: Curves, Counting, and Number Theory (2012)](https://press.princeton.edu/books/hardcover/9780691151199/elliptic-tales)
 - [Describe-curve](https://github.com/daira/describe-curve) - Utility for describing elliptic curves used in cryptography.
+- [A Gentle Tutorial for Lattice-Based Cryptanalysis (2023)](https://eprint.iacr.org/2023/032.pdf)

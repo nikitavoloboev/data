@@ -227,6 +227,7 @@
 - [minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
 - [eightfish](https://github.com/miketang84/eightfish) - Framework for open web.
 - [jittr](https://github.com/Hum-Systems/jittr) - Binary heap based jitter buffer implementation for zero latency udp/rtp streams.
+- [Retty](https://github.com/retty-io/retty) - Asynchronous Rust networking framework that makes it easy to build protocols, application clients/servers.
 
 ## Auth
 
@@ -845,6 +846,7 @@
 - [FFSVM-Rust](https://github.com/ralfbiedert/ffsvm-rust) - Really Fast Support Vector Machine.
 - [rusTy](https://github.com/dluman/rusTy) - Rust bindings for the spaCy library.
 - [RSRL](https://github.com/tspooner/rsrl) - Fast, safe and easy to use reinforcement learning framework in Rust.
+- [autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust.
 
 ## macOS
 
@@ -2547,6 +2549,9 @@
 - [semaphore-key](https://github.com/neliusdelange/semaphore-key) - Control concurrent thread access by key using a shared semaphore.
 - [symbol_table](https://github.com/mwillsey/symbol_table) - Easy-to-use SymbolTable that's fast, suitable for concurrent access.
 - [intaglio](https://github.com/artichoke/intaglio) - UTF-8 string and byte string interner and symbol table.
+- [mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs) - Rust bits in mitmproxy.
+- [Easy Quick JS](https://github.com/tyrchen/easy-qjs) - Simple way to embed QuickJS into your rust project.
+- [JustJSON](https://github.com/khonsulabs/justjson) - Efficient JSON Value parser.
 
 ## Cargo Plugins
 
@@ -2644,7 +2649,7 @@
 - [cargo add-dynamic](https://github.com/rksm/cargo-add-dynamic) - Allows to wrap dependencies as dylibs.
 - [cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Custom cargo command that analyses all cargo target directories under a given parent directory and allows for cleaning them.
 - [cargo-changelog](https://github.com/matthiasbeyer/cargo-changelog) - Changelog management tool for CLI.
-- [cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way.
+- [cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way. ([Article](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html))
 - [cargo-docset](https://github.com/Robzz/cargo-docset) - Generate a Zeal/Dash docset for your Rust crate or workspace.
 - [cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - Easy to configure wrapper for Rust's clippy.
 - [Cargo Sort](https://github.com/DevinR528/cargo-sort) - Tool to check that your Cargo.toml dependencies are sorted alphabetically.

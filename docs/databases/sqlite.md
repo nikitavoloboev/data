@@ -299,4 +299,4 @@ Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/lib
 - [SQLite WASM in the browser backed by the origin private file system (2023)](https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/) ([HN](https://news.ycombinator.com/item?id=34352935))
 - [sqlite-xsv](https://github.com/asg017/sqlite-xsv) - Fastest CSV SQLite extension, written in Rust. ([Intro](https://observablehq.com/@asg017/introducing-sqlite-xsv))
 - [Capacitor SQLite](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases.
-- [HC-tree](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html) - Prototype for write concurrently in SQLite.
+- [HC-tree](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html) - Prototype for write concurrently in SQLite. ([HN](https://news.ycombinator.com/item?id=34434025))

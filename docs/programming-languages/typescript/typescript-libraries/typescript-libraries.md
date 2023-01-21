@@ -757,6 +757,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Structura.js](https://github.com/giusepperaso/structura.js) - Very fast and lightweight Typescript library to create immutable states with a mutable syntax.
 - [Effect TS IO](https://github.com/Effect-TS/io) - Fiber-based Implementation of Structured Concurrency.
 - [Akte](https://github.com/lihbr/akte) - Minimal file generator, for websites and more.
+- [v8-serde](https://github.com/losfair/v8-serde) - Pure-JavaScript implementation of the V8 value serializer.
 
 ## Links
 

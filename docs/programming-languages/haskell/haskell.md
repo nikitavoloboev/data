@@ -514,3 +514,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [A dancing space leak (2023)](https://cs-syd.eu/posts/2023-01-06-a-dancing-space-leak)
 - [Get Programming with Haskell (2018)](https://www.manning.com/books/get-programming-with-haskell)
 - [Haskell Guide](https://haskell-docs.netlify.app/) ([Code](https://github.com/reubenharry/haskell-docs))
+- [Space leaks exploration in Haskell](https://cs.stanford.edu/~sumith/docs/report-spaceleaks.pdf) ([Lobsters](https://lobste.rs/s/ct1u0s/space_leaks_exploration_haskell))

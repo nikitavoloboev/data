@@ -64,3 +64,4 @@ Here is a list of various things I track for my own use and reference.
 - [Haptic](https://haptic.app/) - Private journal to track anything. ([Twitter](https://twitter.com/hapticapp))
 - [Stalker](https://github.com/kognise/stalker) - Thing that watches everything I do.
 - [Toggl](https://toggl.com/) - Time tracking that's easy, powerful, and frictionless. ([CLI](https://github.com/AuHau/toggl-cli))
+- [Regard](https://github.com/AmineZouitine/regard.rs) - Self-hosted tool written in Rust and React that tracks the time you spend working on specific projects.

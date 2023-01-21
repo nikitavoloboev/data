@@ -123,3 +123,4 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) library. [Here](ht
 - [WebGL experiments](https://github.com/FarazzShaikh/experiments)
 - [Crescent](https://github.com/silversquirl/crescent) - Simple WebGPU implementation written in Zig.
 - [3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library.
+- [Summer Afternoon - WebGL Experiment](https://summer-afternoon.vlucendo.com/) ([HN](https://news.ycombinator.com/item?id=34461808))

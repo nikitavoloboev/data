@@ -780,3 +780,6 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [tasksource](https://github.com/sileod/tasksource) - Datasets curation and datasets metadata for NLP extreme multitask learning.
 - [ChatLangChain](https://github.com/hwchase17/chat-langchain) - Implementation of a chatbot specifically focused on question answering over the LangChain documentation.
 - [summaries](https://github.com/dennlinger/summaries) - Toolkit for summarization analysis and aspect-based summarizers.
+- [SymbolicAI](https://github.com/Xpitfire/symbolicai) - Neuro-Symbolic Perspective on Large Language Models (LLMs).
+- [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning.
+- [Large Transformer Model Inference Optimization (2023)](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) ([HN](https://news.ycombinator.com/item?id=34458414))

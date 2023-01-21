@@ -25,3 +25,4 @@ title: Ebiten
 - [Ebitengine input library](https://github.com/quasilyte/ebitengine-input) - Godot-inspired action input handling system for Ebitengine.
 - [ganim8](https://github.com/yohamta/ganim8) - Sprite Animation library for Ebitengine inspired by anim8.
 - [Ebiten Game Template](https://github.com/sinisterstuf/ebiten-game-template)
+- [Kage's desk](https://github.com/tinne26/kage-desk) - Make Kage shaders more accessible to Ebitengine.

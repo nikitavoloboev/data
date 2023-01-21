@@ -80,7 +80,7 @@ title: Observability
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool.
 - [Stanza](https://github.com/observIQ/stanza) - Fast and lightweight log transport and processing agent.
 - [Using eBPF and predefined inspections to minimize “observability tax” (2022)](https://coroot.com/blog/minimizing-observability-tax) ([HN](https://news.ycombinator.com/item?id=34149804))
-- [Odigos](https://github.com/keyval-dev/odigos) - Adopt Distributed Tracing in Minutes.
+- [Odigos](https://github.com/keyval-dev/odigos) - Instant distributed tracing for Kubernetes clusters. ([HN](https://news.ycombinator.com/item?id=34442603))
 - [Last9](https://last9.io/) - Providing visibility into microservices.
 - [Weasel](https://github.com/instana/weasel) - Gather end-user browser performance data.
 - [Instana](https://www.instana.com/) - Enterprise Observability and APM for Cloud-Native Applications. ([GitHub](https://github.com/instana))

@@ -911,3 +911,4 @@ title: Kubernetes
 - [Traefik Hub Agent for Kubernetes](https://github.com/traefik/hub-agent-kubernetes)
 - [Vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources.
 - [KubeVela Workflow](https://github.com/kubevela/workflow) - Declarative Workflow of KubeVela which can run as standalone.
+- [Namespace](https://github.com/namespacelabs/foundation) - Application development platform that helps you manage your development, testing, and production workflows, in a consistent and unified way.

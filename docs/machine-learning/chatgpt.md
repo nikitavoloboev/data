@@ -60,3 +60,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [LearnGPT](https://www.learngpt.com/) - Browse, share, and discuss ChatGPT examples.
 - [Awesome AnthropicAI Claude](https://github.com/taranjeet/awesome-claude)
 - [[2301.04655] ChatGPT is not all you need. A State of the Art Review of large Generative AI models (2023)](https://arxiv.org/abs/2301.04655)
+- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - Like ChatGPT but powered by the RWKV (RNN-based, open) language model. ([HN](https://news.ycombinator.com/item?id=34445873))

@@ -286,3 +286,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Architecture diagrams should be code (2023)](https://brianmckenna.org/blog/architecture_code) ([Lobsters](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code))
 - [Just use a monorepo (2023)](https://buttondown.email/blog/just-use-a-monorepo) ([HN](https://news.ycombinator.com/item?id=34359736))
 - [Your tech stack is not the product (2023)](https://hoho.com/posts/your-stack-is-not-the-product/) ([HN](https://news.ycombinator.com/item?id=34361063))
+- [Disassembling Rewind.ai](https://kevinchen.co/blog/rewind-ai-app-teardown/) ([HN](https://news.ycombinator.com/item?id=34449940))

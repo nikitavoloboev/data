@@ -1105,3 +1105,6 @@
 - [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels (2023)](https://arxiv.org/abs/2212.05897) ([Code](https://github.com/TaeryungLee/MultiAct_RELEASE))
 - [GLIGEN: Open-Set Grounded Text-to-Image Generation (2023)](https://arxiv.org/abs/2301.07093) ([Code](https://github.com/gligen/GLIGEN))
 - [T2M-GPT: Generating Human Motion from Textual Descriptions with discrete Representations (2023)](https://arxiv.org/abs/2301.06052) ([Code](https://github.com/Mael-zys/T2M-GPT))
+- [Multiview Compressive Coding for 3D Reconstruction (2023)](https://arxiv.org/abs/2301.08247) ([Code](https://github.com/facebookresearch/MCC))
+- [Deep Learning Object Detection Paper List](https://github.com/hoya012/deep_learning_object_detection)
+- [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video (2022)](https://arxiv.org/abs/2112.01517) ([Code](https://github.com/zju3dv/ENeRF))

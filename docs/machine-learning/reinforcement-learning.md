@@ -427,3 +427,5 @@ title: Reinforcement learning
 - [A Succinct Summary of Reinforcement Learning (2023)](https://arxiv.org/abs/2301.01379)
 - [TextRL](https://github.com/voidful/TextRL) - Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback).
 - [Extreme Q-Learning: MaxEnt RL without Entropy (2023)](https://arxiv.org/abs/2301.02328) ([Code](https://github.com/Div99/XQL))
+- [DTQN](https://github.com/kevslinger/DTQN) - Deep Transformer Q-Networks for Partially Observable Reinforcement Learning.
+- [What are the current state-of-the-art RL algorithms? (2023)](https://www.reddit.com/r/reinforcementlearning/comments/10h4gms/what_are_the_current_stateoftheart_algorithms/)

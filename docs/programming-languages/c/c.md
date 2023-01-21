@@ -314,3 +314,4 @@
 - [SOCC](https://github.com/noti0na1/socc) - Simple C Compiler in OCaml.
 - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 - [Safe memory reclamation for BIND (2023)](https://dotat.at/@/2023-01-10-qsbr.html)
+- [From Zero to main(): Bare metal C (2019)](https://interrupt.memfault.com/blog/zero-to-main-1) ([HN](https://news.ycombinator.com/item?id=34459053))

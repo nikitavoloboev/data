@@ -4,7 +4,7 @@ Would love to visit or maybe live in US one day but [they don't make it easy](ht
 
 Sadly many great companies still only hire if you're physically present in US. Including some top tier companies in computers and space industries.
 
-Thankfully this is changing as more companies wake up and realize the world is bigger than US and you can build successful companies that embrace the benefits of whole company being [remote and async communication first](../../work/remote-work.md). 
+Thankfully this is changing as more companies wake up and realize the world is bigger than US and you can build successful companies that embrace the benefits of whole company being [remote and async communication first](../../work/remote-work.md).
 
 It's sad really as US could be a great country if they didn't close themselves off from the world. The fact that with US passport you are [taxed globally no matter what country you stay in](https://www.youtube.com/watch?v=PSJEwxV2QQ8) is not enticing either.
 
@@ -198,3 +198,4 @@ I try to avoid pointless politics news as much as possible but do like [John Mea
 - [History of the united states, I guess (2022)](https://www.youtube.com/watch?v=JcfEaT86HSU)
 - [Is it better to be rich and on the fatFIRE path in America or Europe? (2023)](https://www.reddit.com/r/fatFIRE/comments/101bgfr/is_it_better_to_be_rich_and_on_the_fatfire_path/)
 - [Why Can't America Do Taxes Like the Faroe Islands? (2023)](https://www.theatlantic.com/ideas/archive/2023/01/faroe-islands-denmark-tax-system-america/672401/)
+- [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) - Do Your Taxes for Free. ([HN](https://news.ycombinator.com/item?id=34462122))

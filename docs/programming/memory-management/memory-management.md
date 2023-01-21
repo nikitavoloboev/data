@@ -128,3 +128,4 @@
 - [Pictures of a working garbage collector (2023)](https://www.oilshell.org/blog/2023/01/garbage-collector.html) ([HN](https://news.ycombinator.com/item?id=34350260))
 - [ugc](https://github.com/bullno1/ugc) - Single-header incremental garbage collector library.
 - [How Memory Safety Approaches Speed Up and Slow Down Development Velocity (2023)](https://verdagon.dev/blog/when-to-use-memory-safe-part-2)
+- [Garbage Collection (Mark & Sweep) - Computerphile (2023)](https://www.youtube.com/watch?v=c32zXYAK7CI) ([Lobsters](https://lobste.rs/s/lkle1s/automatic_reference_counting_vs_mark))
