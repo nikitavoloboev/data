@@ -22,3 +22,4 @@ Wish you could simply pay IG to never see ads.
 - [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
 - [Goofy](https://github.com/yvessavoy/goofy) - Rust bindings to the mobile Instagram API.
 - [Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.
+- [Instagram bot](https://github.com/czQery/instagram-bot) - Bot for removing following accounts or for farming followers.

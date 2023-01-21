@@ -242,6 +242,8 @@ title: OCaml libraries
 - [Logger](https://github.com/prosyslab/logger) - Library logger.
 - [Combo](https://github.com/4y8/combo) - Simple parser combinator library for Ocaml.
 - [ocaml-search](https://github.com/patricoferris/ocaml-search) - Simple, in-memory, monomorphic and heterogeneous search indexes in OCaml.
+- [Decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
+- [Idle-Domains](https://github.com/polytypic/idle-domains) - Co-operative allocation of domains for OCaml.
 
 ## Links
 

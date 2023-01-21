@@ -1394,7 +1394,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Dragonboat](https://github.com/lni/dragonboat) - High performance multi-group Raft consensus library in pure Go.
 - [RSDic](https://github.com/hillbig/rsdic) - Go library for space-efficient rank/select operations for both sparse and dense bit arrays.
 - [Scriggo](https://github.com/open2b/scriggo) - World’s most powerful template engine and Go embeddable interpreter. ([Web](https://scriggo.com/))
-- [browser](https://github.com/pkg/browser) - Provides helpers to open files, readers, and urls in a browser window.
+- [browser](https://github.com/pkg/browser) - Provides helpers to open files, readers, and urls in a browser window. ([Fork](https://github.com/cli/browser))
 - [go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
 - [Pion MediaDevices](https://github.com/pion/mediadevices) - Provides access to media input devices like cameras, microphones, and screen capture.
 - [dot](https://github.com/emicklei/dot) - Go package for writing descriptions using the Graphviz DOT language.

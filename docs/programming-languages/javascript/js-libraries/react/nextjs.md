@@ -107,6 +107,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [NextJS Shop demo](https://github.com/vercel/cert-demo)
 - [Next 13 on Cloudflare Pages](https://github.com/cloudflare/next-on-pages)
 - [Next Multilingual Example](https://github.com/Avansai/next-multilingual-example)
+- [Extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 + Workers.
 
 ## NextJS plugins
 

@@ -131,3 +131,4 @@ title: Vite
 - [How Vite Came to Be | Evan You (2022)](https://www.youtube.com/watch?v=fxQXUqdzzFw)
 - [ViteConf 2022 Frameworks Panel](https://www.youtube.com/watch?v=gEJU-MuNoyU)
 - [R&D Bundler 3D Plugins](https://github.com/nytimes/rd-bundler-3d-plugins) - Bundler plugins for optimizing glTF 3D models.
+- [Vite Plugin SVGO](https://github.com/r3dDoX/vite-plugin-svgo) - Vite plugin to import and compress svg files with SVGO.

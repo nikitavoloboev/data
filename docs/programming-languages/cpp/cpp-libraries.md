@@ -475,6 +475,7 @@
 - [bin2cpp](https://github.com/end2endzone/bin2cpp) - Easiest way to embed small files into a c++ executable.
 - [gcl](https://github.com/bloomen/gcl) - Graph concurrent library for C++.
 - [type_safe](https://github.com/foonathan/type_safe) - Zero overhead utilities for preventing bugs at compile time.
+- [JSONCONS](https://github.com/danielaparker/jsoncons) - C++, header-only library for constructing JSON and JSON-like data formats such as CBOR.
 
 ## Links
 

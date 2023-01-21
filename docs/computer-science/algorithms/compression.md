@@ -163,3 +163,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [XCompress](https://github.com/magiclen/xcompress) - Free file archiver utility on Linux, providing multi-format archiving to and extracting from ZIP, Z, GZIP, BZIP2, LZ, XZ, LZMA, 7ZIP, TAR, RAR and ZSTD.
 - [SOZip Spec](https://github.com/sozip/sozip-spec) - Specification of seek-optimized zip file profile.
 - [lzwCompress.js](https://github.com/floydpink/lzwCompress.js) - Lossless LZW compression/decompression implemented in JavaScript for strings/JSON/JS objects.
+- [zx](https://github.com/jondot/zx) - Make extracting archive plain and simple.

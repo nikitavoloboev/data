@@ -232,3 +232,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare Community](https://community.cloudflare.com/)
 - [Fine-Grained Sandboxing with V8 Isolates (2019)](https://www.youtube.com/watch?v=HK04UxENH10)
 - [Google OAuth & Cloudflare Workers](https://github.com/Schachte/cloudflare-google-auth) ([Article](https://ryan-schachte.com/article/cloudflare_workers_google_auth))
+- [Workers KV backup](https://github.com/xtuc/kv-backup) - Copy the content of a Workers KV locally.

@@ -1125,6 +1125,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Grandalf](https://github.com/bdcht/grandalf) - Graph and drawing algorithms framework.
 - [chemcoord](https://github.com/mcocdawc/chemcoord) - Python module for manipulating cartesian and internal coordinates.
 - [bcpandas](https://github.com/yehoshuadimarsky/bcpandas) - High-level wrapper around BCP for high performance data transfers between pandas and SQL Server.
+- [routingpy](https://github.com/gis-ops/routingpy) - Python library to access all public routing, isochrones and matrix APIs in a consistent manner.
 
 ## Notes
 

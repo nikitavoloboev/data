@@ -815,6 +815,7 @@
 - [critical-section](https://github.com/rust-embedded/critical-section) - Pluggable critical section.
 - [stm32-data](https://github.com/embassy-rs/stm32-data) - Produce clean machine-readable data about the STM32 microcontroller families.
 - [bl602-hal](https://github.com/sipeed/bl602-hal) - Hardware Abstract Layer for BL602 RISC-V WiFi SoC in embedded Rust.
+- [USRs](https://github.com/ktemkin/usrs) - Pure-rust library for working with USB devices.
 
 ## ML
 
@@ -2552,6 +2553,8 @@
 - [mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs) - Rust bits in mitmproxy.
 - [Easy Quick JS](https://github.com/tyrchen/easy-qjs) - Simple way to embed QuickJS into your rust project.
 - [JustJSON](https://github.com/khonsulabs/justjson) - Efficient JSON Value parser.
+- [Rust for Flipper Zero](https://github.com/flipperzero-rs/flipperzero)
+- [Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust.
 
 ## Cargo Plugins
 

@@ -783,3 +783,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [SymbolicAI](https://github.com/Xpitfire/symbolicai) - Neuro-Symbolic Perspective on Large Language Models (LLMs).
 - [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning.
 - [Large Transformer Model Inference Optimization (2023)](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) ([HN](https://news.ycombinator.com/item?id=34458414))
+- [Embed-VTT](https://github.com/gmchad/embed-vtt) - Generate & query embeddings from VTT files using openai & pinecone on Andrej Karpathy's's latest GPT tutorial.

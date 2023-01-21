@@ -955,3 +955,4 @@ if *boolArgPtr != false {
 - [Mage](https://magefile.org/) - Make/rake-like build tool using Go. ([Code](https://github.com/magefile/mage)) ([Awesome](https://github.com/magefile/awesome-mage))
 - [gokrazy: instance-centric configuration released (2023)](https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/)
 - [Atomic operations composition in Go (2023)](https://antonz.org/atomics-composition/)
+- [Weaver](https://github.com/grantseltzer/weaver) - Trace Go program execution with uprobes and eBPF.

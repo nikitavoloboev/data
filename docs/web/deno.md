@@ -363,3 +363,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno Starter Kit](https://github.com/type-driven/hello_deno)
 - [appy](https://github.com/appy-js/appy) - Fully featured web framework for Deno.
 - [Mess](https://github.com/denosaurs/mess) - Modern, broker-agnostic message queue for use in a distributed environment.
+- [Endofunctor](https://github.com/mimiMonads/functor) - Functional router for Deno.

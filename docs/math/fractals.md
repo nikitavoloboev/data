@@ -75,3 +75,4 @@
 - [Crouching Trig, Hidden Fractal](https://kylehovey.github.io/blog/crouching-trig-hidden-fractal)
 - [Vintage-Style Map of the Mandelbrot Set (2022)](https://kottke.org/22/12/vintage-map-mandelbrot-set) ([HN](https://news.ycombinator.com/item?id=34004927))
 - [How do I calculate how fractal like an image is?](https://www.reddit.com/r/math/comments/1097do2/how_do_i_calculate_how_fractal_like_an_image_is/)
+- [LabLab](https://github.com/TodePond/LabLab) - Fractals in fractals in fractals.
