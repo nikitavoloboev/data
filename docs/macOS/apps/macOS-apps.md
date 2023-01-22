@@ -238,6 +238,31 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) - macOS app to show applications menu shortcuts.
 - [TextTransformer](https://github.com/insidegui/TextTransformer) - Apple ExtensionFoundation/ExtensionKit sample app.
 
+## Apps I used but dropped
+
+#### [Popclip](https://pilotmoon.com/popclip/)
+
+> iOS like mouse text selection popover
+
+Brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching selected text on Google, YouTube or copy the text. Here are the extensions I have activated:
+
+![](https://i.imgur.com/PS3HFvS.png)
+
+How it looked for me
+
+<img src="https://i.imgur.com/dxt2qjK.png" width="400" alt="img">
+
+Everything I use comes by default with PopClip except YouTube extension which you can download [here](https://www.dropbox.com/sh/gckplsy5d4mg4rq/AABgvWT9QKg0NlwC9Bz8X9B0a?dl=0). I used [PopMaker](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator/) tool to create this web search extension.
+
+#### [Reeder](http://reederapp.com/mac/)
+
+> RSS Reeder
+
+The app I once used to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
+I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../research/blogs.md) between phone and mac. Here is how it looked like for me:
+
+![](https://i.imgur.com/l0Cq6ZT.jpg)
+
 ## Notes
 
 - [macOS Preview app has a built-in feature to remove image background](https://twitter.com/poorlybatched/status/1608339437754421250)

@@ -6,6 +6,13 @@ title: Safari
 
 My favorite browser. It is incredibly fast & cares about my privacy unlike Chrome.
 
+### Extensions I use
+
+- [Vimari](https://github.com/televator-apps/vimari) adds custom layer of keybinds you can customize to personalize the browsing experience like hinting and moving between tabs.
+- [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) is great ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
+- [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) gives clean UI when browsing [Twitter](../../tools/twitter.md).
+- [Svadilfari](https://github.com/shumbo/Svadilfari) us it on iOS as it gives nice gestures to open new tabs especially. 
+
 Here are websites I have in my `Favorites` which are usually sites I want super fast access to from iOS Safari:
 
 ![](https://i.imgur.com/uDjnhwX.jpg)
@@ -26,7 +33,6 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Open in Apollo Safari Extension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo.
 - [Paint it Red](https://github.com/kukushechkin/paint-it-red) - Safari Web Extension to custom color Safari 15 pages with theme-color.
 - [HighlightJSON](https://github.com/lexrus/HighlightJSON) - Tiny Safari Web Extension for presenting highlighted JSON files.
-- [Svadilfari](https://apps.apple.com/us/app/svadilfari/id1586432379) - Gesture Control for Safari on iOS and iPadOS. ([Code](https://github.com/shumbo/Svadilfari))
 - [Session Buddy](https://github.com/dwarvesf/session-buddy) - Ultra-light Safari extension helps you save open tabs as collections that can be easily restored later.
 
 ## Other

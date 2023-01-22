@@ -6,6 +6,8 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 
 [Riffusion](https://www.riffusion.com) is [exciting](https://news.ycombinator.com/item?id=33999162).
 
+[Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) is useful [Alfred](../macOS/apps/alfred/alfred.md) plugin. Use it to [get info on current song](https://i.imgur.com/WqobmyT.png), easily add song to some playlist and more.
+
 ## Interesting clips
 
 - [Everyone You Know - The Drive](https://www.youtube.com/watch?v=nzsMGm9m-kE)
