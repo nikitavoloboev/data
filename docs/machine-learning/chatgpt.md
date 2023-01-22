@@ -18,6 +18,7 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Summarize tabular data](https://twitter.com/jaukia/status/1601569254998159362)
 - [Organize my notes into outline](https://twitter.com/danshipper/status/1611134727011844098)
 - [Music discovery assistant](https://twitter.com/nikitavoloboev/status/1613261011922083840)
+- [Help writing freelancing contract](https://twitter.com/dannypostmaa/status/1617132416690458625)
 
 ## Links
 

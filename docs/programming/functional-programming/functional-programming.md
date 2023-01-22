@@ -221,6 +221,7 @@
 - [Functional languages index](https://github.com/cblp/funlangs)
 - [Postfix Haskell](https://github.com/dvtate/postfix-haskell) - Low-level, postfix, functional programming language that compiles to WebAssembly.
 - [Glask](https://github.com/lambduli/glask) - Statically typed, lazy, pure functional programming language.
+- [Do you guys know a pure functional language with good tooling? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/10i02jd/do_you_guys_know_a_pure_functional_language_with/)
 
 ## Images
 

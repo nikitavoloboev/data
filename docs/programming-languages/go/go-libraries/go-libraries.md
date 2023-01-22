@@ -16,6 +16,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 
 [Go JSON Struct](https://github.com/twpayne/go-jsonstruct) is nice for creating Go types from JSON.
 
+[Prometheus client](https://github.com/prometheus/client_golang) is nice for observability.
+
 ## CLI
 
 - [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.

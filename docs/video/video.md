@@ -480,3 +480,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Awesome mpv](https://github.com/stax76/awesome-mpv)
 - [Vento](https://vento.so/) - Screen recorder that lets you rewind and record over mistakes. ([HN](https://news.ycombinator.com/item?id=34406340))
 - [Video Features](https://github.com/v-iashin/video_features) - Extract video features from raw videos using multiple GPUs.
+- [Fast video rendering and encoding using web APIs (2023)](https://pietrasiak.com/fast-video-rendering-and-encoding-using-web-apis)

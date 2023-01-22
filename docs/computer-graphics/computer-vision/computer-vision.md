@@ -1111,3 +1111,4 @@
 - [InstructPix2Pix: Learning to Follow Image Editing Instructions (2022)](https://arxiv.org/abs/2211.09800) ([Code](https://github.com/timothybrooks/instruct-pix2pix))
 - [Learned reconstructions for practical mask-based lensless imaging](https://waller-lab.github.io/LenslessLearning/) ([Code](https://github.com/Waller-Lab/LenslessLearning))
 - [NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos (2022)](https://arxiv.org/abs/2210.12352) ([Code](https://github.com/gaoalexander/neuphysics))
+- [Domain Expansion of Image Generators (2023)](https://arxiv.org/abs/2301.05225) ([Code](https://github.com/adobe-research/domain-expansion))

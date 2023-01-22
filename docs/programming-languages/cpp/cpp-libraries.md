@@ -476,6 +476,7 @@
 - [gcl](https://github.com/bloomen/gcl) - Graph concurrent library for C++.
 - [type_safe](https://github.com/foonathan/type_safe) - Zero overhead utilities for preventing bugs at compile time.
 - [JSONCONS](https://github.com/danielaparker/jsoncons) - C++, header-only library for constructing JSON and JSON-like data formats such as CBOR.
+- [CTHASH](https://github.com/hanickadot/cthash) - Compile Time Hash. Constexpr implementation of SHA-2 family of hashes.
 
 ## Links
 

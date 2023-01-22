@@ -162,3 +162,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Adventures in Mastoland (2023)](https://searchtodon.social/Adventures-in-Mastoland.html) ([HN](https://news.ycombinator.com/item?id=34400143))
 - [Ask HN: What interesting people are you following on Mastodon? (2023)](https://news.ycombinator.com/item?id=34413641)
 - [Mastodon Thread Renderer](https://thread.choomba.one/) - Render Mastodon thread as a web page. ([Code](https://github.com/vrutkovs/masto-thread-renderer))
+- [Semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon.
