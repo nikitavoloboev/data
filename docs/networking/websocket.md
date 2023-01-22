@@ -130,3 +130,4 @@ title: WebSocket
 - [fsf](https://github.com/akash-joshi/fsf) - Typesafe WebSocket client-server framework which thins the borders between clients and servers.
 - [WebSocket Framing: Masking, Fragmentation and More (2022)](https://www.openmymind.net/WebSocket-Framing-Masking-Fragmentation-and-More/)
 - [Swift WebSocket](https://github.com/DanboDuan/swift-websocket) - Light WebSocket written in Swift base on Swift NIO.
+- [Defined.fi](https://github.com/smolstudios/defined-realtime-websocket) - Real time WebSocket SDK.

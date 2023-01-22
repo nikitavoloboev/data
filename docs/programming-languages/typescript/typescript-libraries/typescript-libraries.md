@@ -174,6 +174,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [iron-webcrypto](https://github.com/brc-dd/iron-webcrypto) - Encapsulated tokens (encrypted and mac'ed objects).
 - [noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, zero-dependency JS implementation of elliptic curve cryptography.
 - [Huffy](https://github.com/fabiospampinato/huffy) - Tiny compression library based on Huffman coding.
+- [merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - JavaScript library to generate merkle trees and merkle proofs.
 
 ## Error
 

@@ -46,3 +46,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Martin McDonagh: Things I've Learned as a Moviemaker (2022)](https://www.moviemaker.com/martin-mcdonagh-things-ive-learned-as-a-moviemaker/) ([Reddit](https://www.reddit.com/r/Filmmakers/comments/y9ftsf/martin_mcdonagh_things_hes_learned_as_a_filmmaker/))
 - [Any young filmmakers to look out for? (2022)](https://www.reddit.com/r/TrueFilm/comments/zuuexz/any_young_filmmakers_to_look_out_for/)
 - [Your Highest Rated Directors (2022)](https://www.reddit.com/r/Letterboxd/comments/zy75qo/highest_rated_directors_what_are_yours/)
+- [The contagious visual blandness of Netflix (2023)](https://haleynahman.substack.com/p/132-the-contagious-visual-blandness) ([HN](https://news.ycombinator.com/item?id=34477928))

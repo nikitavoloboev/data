@@ -256,6 +256,7 @@ I am excited by [Replit Bounties](https://replit.com/bounties) and what they can
 - [Collabora](https://www.collabora.com/) - Open Source Software Consulting.
 - [Spaceteams](https://www.spaceteams.de/) ([GitHub](https://github.com/spaceteams))
 - [0No Co](https://0no.co/)
+- [Red Badger](https://red-badger.com/) ([GitHub](https://github.com/redbadger))
 
 ## Notes
 
