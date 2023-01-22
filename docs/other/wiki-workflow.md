@@ -158,6 +158,7 @@ I want to:
 - [Quinn Casey](https://quinncasey.com/projects/digital-garden/)
 - [Bharathi Joshi's Notes](https://github.com/iambrj/notes)
 - [Ten Digits](https://tendigits.space/)
+- [Merve Noyan's ML Notes](https://github.com/merveenoyan/my_notes)
 - [Alex Forencich's Wiki](http://www.alexforencich.com/wiki/en/start)
 - [RDerik](https://rderik.com/)
 - [Félix Saparelli](https://passcod.name/)

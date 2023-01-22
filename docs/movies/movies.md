@@ -193,3 +193,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Animated must-watch movies (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10de8gk/animated_mustwatch_movies/)
 - [SciFi movies better than the book (2023)](https://www.reddit.com/r/scifi/comments/10file1/the_movie_was_better_than_the_book/)
 - [Movie you'd love to see again for first time (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10h76ns/what_movie_did_you_like_so_much_you_wish_you/)
+- [Movies where ""Every frame is a painting" (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10i7kvv/movies_where_every_frame_is_a_painting/)

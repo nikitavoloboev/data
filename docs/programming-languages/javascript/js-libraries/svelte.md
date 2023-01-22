@@ -342,3 +342,4 @@ title: Svelte
 - [Svelte Image Gallery](https://github.com/react2svelte/image-gallery)
 - [Fluent Svelte](https://github.com/Tropix126/fluent-svelte) - Faithful implementation of Microsoft's Fluent Design System in Svelte.
 - [CRStore](https://github.com/Azarattum/CRStore) - Conflict-free replicated svelte store.
+- [Simple Svelte Autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete)

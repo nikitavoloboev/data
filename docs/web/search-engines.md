@@ -314,3 +314,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [goris](https://github.com/tanaikech/goris) - CLI tool to search for images with Google Reverse Image Search.
 - [Lyra Cache](https://github.com/mateonunez/lyra-cache) - Plugin provides a cache system for Lyra.
 - [Asterism](https://github.com/mateonunez/asterism) - CLI that provides a set of tools to build a Lyra instance from your favorite database. ([Article](https://mateonunez.dev/blog/asterism-the-bf-of-lyra))
+- [fast-fuzzy](https://github.com/EthanRutherford/fast-fuzzy) - Fast fuzzy-search utility in JS.

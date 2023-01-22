@@ -191,3 +191,4 @@
 - [Functional Imperative Programming With Elixir (2018)](http://bitwalker.org/posts/2018-03-18-functional-imperative-programming-with-elixir/)
 - [The Complete Guide to Full-text Search with Postgres and Ecto (2022)](https://www.peterullrich.com/complete-guide-to-full-text-search-with-postgres-and-ecto)
 - [Awesome Elixir Books](https://github.com/sger/ElixirBooks)
+- [Elixir and its lab by Cédric Paumard (2023)](https://www.youtube.com/watch?v=lbcim_O1a-s)

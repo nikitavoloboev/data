@@ -189,3 +189,4 @@
 - [cauldron](https://github.com/camel-cdr/cauldron) - Collection of single-file C libraries and tools with the goal to be portable and modifiable.
 - [qLibc](https://github.com/wolkykim/qlibc) - Simple and yet powerful C library providing generic data structures and algorithms.
 - [bloom](https://github.com/barrust/bloom) - Bloom filter implementation.
+- [Ring-Buffer](https://github.com/AndersKaloer/Ring-Buffer) - Simple ring buffer (circular buffer) designed for embedded systems.
