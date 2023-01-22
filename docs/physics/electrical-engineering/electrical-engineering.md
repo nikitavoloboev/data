@@ -144,3 +144,4 @@ title: Electrical engineering
 - [pcbflow](https://github.com/michaelgale/pcbflow) - Python based Printed Circuit Board (PCB) layout and design package based on CuFlow.
 - [TAB electronics books](https://worldradiohistory.com/BOOKSHELF-ARH/Bookshelf_TAB.htm) ([HN](https://news.ycombinator.com/item?id=34386066))
 - [Self-Soldering Circuits (2023)](https://www.youtube.com/watch?v=r0csHZveVvY) ([HN](https://news.ycombinator.com/item?id=34463869))
+- [Ask HN: Best Layman's Book on Electricity (2023)](https://news.ycombinator.com/item?id=34474403)

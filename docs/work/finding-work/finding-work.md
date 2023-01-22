@@ -185,3 +185,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Tell HN: Beware 'Ungrowth' in Your Job (2022)](https://news.ycombinator.com/item?id=33246841)
 - [Keyboard Jobs](https://keyboardjobs.com/) - Job board which truly understands software developers. ([HN](https://news.ycombinator.com/item?id=33340548))
 - [Ask HN: Are you a “lifer”? If so why? (2022)](https://news.ycombinator.com/item?id=33794293)
+- [Job Hunting in 2022](https://mhlakhani.com/blog/2023/01/tech-job-market/) ([HN](https://news.ycombinator.com/item?id=34456416))

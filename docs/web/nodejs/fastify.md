@@ -76,3 +76,4 @@ title: Fastify
 - [Fastify-routes](https://github.com/fastify/fastify-routes) - Decorates fastify instance with a map of routes.
 - [Template for Fastify plugin](https://github.com/Eomm/fastify-plugin-template)
 - [Fastify Bearer Auth](https://github.com/fastify/fastify-bearer-auth) - Fastify plugin to require bearer Authorization headers.
+- [Fastify Lyra](https://github.com/mateonunez/fastify-lyra) - Lyra plugin for Fastify.

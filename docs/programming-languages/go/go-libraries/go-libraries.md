@@ -2014,6 +2014,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Holster](https://github.com/mailgun/holster) - Mailgun's Go libraries and tools.
 - [gostream](https://github.com/edaniels/gostream) - Library to simplify the streaming of images as video and audio chunks to audio to a series of WebRTC peers.
 - [Maestro](https://github.com/topfreegames/maestro) - Game server management service, designed to manage multiple game servers fleets in isolated schedulers.
+- [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 
 ## Links
 

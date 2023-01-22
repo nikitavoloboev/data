@@ -463,7 +463,7 @@ Below is a list of extensions I use.
 ## Swift
 
 - [Swift](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang) ([Forum Post](https://forums.swift.org/t/introducing-swift-for-visual-studio-code/54246))
-- [Swift for VSCode](https://github.com/swift-server/vscode-swift)
+- [Swift for VSCode](https://github.com/swift-server/vscode-swift) ([HN](https://news.ycombinator.com/item?id=34466693))
 - [Swift Development Environment](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-swift-development-environment) ([Code](https://github.com/vknabel/vscode-swift-development-environment))
 
 ## WASM

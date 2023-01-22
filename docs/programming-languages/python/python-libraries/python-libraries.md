@@ -1338,4 +1338,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python.
 - [How to improve Python packaging (2023)](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/) ([HN](https://news.ycombinator.com/item?id=34390585)) ([Lobsters](https://lobste.rs/s/gzi3vk/how_improve_python_packaging_why_14_tools))
 - [Getting Started with Property-Based Testing in Python with Hypothesis and Pytest (2023)](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
-- [Thoughts on the Python packaging ecosystem (2023)](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
+- [Thoughts on the Python packaging ecosystem (2023)](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/) ([HN](https://news.ycombinator.com/item?id=34467952))

@@ -313,3 +313,4 @@ Hi<div>oh no break</div>
 - [DOM Clobbering (2022)](https://www.htmhell.dev/adventcalendar/2022/12/)
 - [JSX Specification](https://github.com/facebook/jsx)
 - [HTML with Superpowers: The Guidebook (2023)](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/)
+- [Three attributes for better web forms (2023)](https://adactio.com/journal/19842)

@@ -428,3 +428,4 @@
 - [Chaos Hypertext book](https://hypertextbook.com/chaos/) ([HN](https://news.ycombinator.com/item?id=34244977))
 - [Julia Robinson helped define the limits of mathematical knowledge (2019)](https://www.sciencenews.org/article/how-julia-robinson-helped-define-limits-mathematical-knowledge) ([HN](https://news.ycombinator.com/item?id=34367035))
 - [Ask HN: Math books that made you significantly better at math? (2023)](https://news.ycombinator.com/item?id=34439828)
+- [Pattern theory: the mathematics of perception (2022)](https://arxiv.org/abs/math/0212400) ([HN](https://news.ycombinator.com/item?id=34470799))

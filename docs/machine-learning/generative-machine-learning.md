@@ -4,7 +4,7 @@
 
 Progress in models like [Midjourney](https://www.midjourney.com/) is getting [insanely good](https://www.reddit.com/r/midjourney/comments/yyom8a/london_1910/). Can even generate [nice header images](https://twitter.com/euboid/status/1593174650262986754) or [logos](https://twitter.com/sindresorhus/status/1590640203781533696).
 
-Using [Gauss](https://github.com/justjake/Gauss) ([Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) is nice too) (built on [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion)) to generate prompts.
+Using [Gauss](https://github.com/justjake/Gauss) ([Mochi Diffusion](https://github.com/godly-devotion/mochi-diffusion) is nice too) (built on [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion)) to generate prompts. [ImaginAIry](https://github.com/brycedrennan/imaginAIry) is useful too.
 
 Trying to use more of these technologies in my day to life. Specifically [ChatGPT](chatgpt.md) seems [incredible](https://news.ycombinator.com/item?id=33940303). [Generates nice code](https://twitter.com/onybose/status/1598534390833098753) too. Need to [be wary](https://twitter.com/johnolilly/status/1598517624031555584) though as they don't do [much novelty yet](https://twitter.com/Noahpinion/status/1598499746263732224).
 
@@ -82,7 +82,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Open Prompts](https://github.com/krea-ai/open-prompts) - Dataset of 10M Stable Diffusion generations. ([HN](https://news.ycombinator.com/item?id=32943224))
 - [KREA](https://www.krea.ai/) - Create better prompts.
 - [GLID-3-XL-stable](https://github.com/Jack000/glid-3-xl-stable) - Stable diffusion back-ported to the OpenAI guided diffusion codebase, for easier development and training.
-- [ImaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [ImaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images. ([HN](https://news.ycombinator.com/item?id=34474270))
 - [UnstableFusion](https://github.com/ahrm/UnstableFusion) - Stable Diffusion desktop frontend with inpainting, img2img and more.
 - [Dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D) - Colab friendly toolkit to generate 3D mesh model / video / nerf instance / multiview images of colourful 3D objects by text and image prompts input, based on dreamfields.
 - [Fast Stable Diffusion Colab Notebooks](https://github.com/TheLastBen/fast-stable-diffusion) - 25% speed increase + memory efficient. ([Colab](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb))
@@ -308,3 +308,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Collection of generative AI applications](https://github.com/ai-collection/ai-collection)
 - [Sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content.
 - [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates)
+- [Stable Diffusion in Code (AI Image Generation) - Computerphile (2022)](https://www.youtube.com/watch?v=-lz30by8-sU)

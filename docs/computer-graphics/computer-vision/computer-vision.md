@@ -1110,3 +1110,4 @@
 - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video (2022)](https://arxiv.org/abs/2112.01517) ([Code](https://github.com/zju3dv/ENeRF))
 - [InstructPix2Pix: Learning to Follow Image Editing Instructions (2022)](https://arxiv.org/abs/2211.09800) ([Code](https://github.com/timothybrooks/instruct-pix2pix))
 - [Learned reconstructions for practical mask-based lensless imaging](https://waller-lab.github.io/LenslessLearning/) ([Code](https://github.com/Waller-Lab/LenslessLearning))
+- [NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos (2022)](https://arxiv.org/abs/2210.12352) ([Code](https://github.com/gaoalexander/neuphysics))

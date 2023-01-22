@@ -187,3 +187,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Rmt](https://github.com/AmineZouitine/rmt.rs) - Similar to the rm command but saves the deleted elements in the trash and restores them.
 - [Commands.dev](https://www.commands.dev/) - Find commands at the speed of thought. ([Code](https://github.com/warpdotdev/commands.dev))
 - [sudo at home](https://github.com/Xe/xn--ts9h) ([HN](https://news.ycombinator.com/item?id=34454165))
+- [CSView](https://github.com/hymkor/csview) - Simple CSV viewer/editor.

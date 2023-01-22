@@ -1013,6 +1013,7 @@
 - [matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
 - [watermill](https://github.com/online-ml/watermill.rs) - Fast, generic and serializable online statistics.
 - [Cycle](https://github.com/hrkz/cycle) - Modern and safe symbolic mathematics.
+- [num-complex](https://github.com/rust-num/num-complex) - Complex numbers for Rust.
 
 ## CSS
 
@@ -2555,6 +2556,8 @@
 - [JustJSON](https://github.com/khonsulabs/justjson) - Efficient JSON Value parser.
 - [Rust for Flipper Zero](https://github.com/flipperzero-rs/flipperzero)
 - [Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust.
+- [tzfile](https://github.com/kennytm/tzfile) - Rust chrono::TimeZone implementation using the system tz database.
+- [xdg-user](https://github.com/rijenkii/xdg-user-rs) - Crate to give you paths to user dirs.
 
 ## Cargo Plugins
 

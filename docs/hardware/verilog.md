@@ -65,3 +65,4 @@
 - [NEORV32 in Verilog](https://github.com/stnolting/neorv32-verilog) - Convert the NEORV32 processor into a synthesizable plain-Verilog netlist module using GHDL.
 - [UVM Verilator](https://github.com/chipsalliance/uvm-verilator)
 - [Learning Verilog and FPGA (2023)](https://johanneshoff.com/learning-fpga/) ([HN](https://news.ycombinator.com/item?id=34308876))
+- [Silver](https://github.com/melt-umn/silver) - Attribute grammar-based programming language for composable language extensions.

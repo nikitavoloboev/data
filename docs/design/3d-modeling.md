@@ -101,3 +101,4 @@
 - [model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models.
 - [Blockbench](https://www.blockbench.net/) - Low-poly 3D model editor. ([HN](https://news.ycombinator.com/item?id=33845291))
 - [TurboDesigner](https://github.com/Turbodesigner/turbodesigner) - Open source tool to generate Jet Engine compressors. ([HN](https://news.ycombinator.com/item?id=34249737))
+- [lasercut.scad](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts.

@@ -4,7 +4,7 @@ title: Xcode
 
 # [Xcode](https://developer.apple.com/xcode/)
 
-[Tuist](https://github.com/tuist/tuist) is great.
+[Tuist](https://github.com/tuist/tuist) & [Xcode Copilot](https://github.com/intitni/CopilotForXcode) are great.
 
 ## Notes
 

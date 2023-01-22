@@ -139,3 +139,4 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [Reverse-engineering the source prompts of Notion AI (2022)](https://lspace.swyx.io/p/reverse-prompt-eng) ([HN](https://news.ycombinator.com/item?id=34165522))
 - [ChatGPT to Notion](https://github.com/L-a-r-t/chatgpt-to-notion)
 - [Notion Question-Answering](https://github.com/hwchase17/notion-qa) - Ask questions to your Notion database in natural language.
+- [Astro Notion Blog](https://github.com/otoyo/astro-notion-blog)

@@ -302,3 +302,4 @@
 - [Datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems. ([Reddit](https://www.reddit.com/r/rust/comments/104xebb/introducing_datacake_the_batteries_included/))
 - [Past Conferences | USENIX](https://www.usenix.org/conferences/past) ([Tweet](https://twitter.com/trishume/status/1615056984440553472?s=20))
 - [Systems Distributed Event](https://systemsdistributed.com/)
+- [Myths and Legends in High-Performance Computing (2023)](https://arxiv.org/abs/2301.02432)

@@ -155,3 +155,4 @@
 - [Text Processing in Linux: Understanding Grep, sed, and AWK (2023)](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/)
 - [Demystifying Apache Arrow (2020)](https://www.robinlinacre.com/demystifying_arrow/) ([HN](https://news.ycombinator.com/item?id=34311468))
 - [Awk: Power and Promise of a 40 yr old language (2021)](https://www.fosslife.org/awk-power-and-promise-40-year-old-language) ([HN](https://news.ycombinator.com/item?id=34393085))
+- [Replacing Pandas with Polars (2023)](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/) ([HN](https://news.ycombinator.com/item?id=34452526))

@@ -823,3 +823,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Hilde](https://github.com/nehalist/hilde) - Open source match tracking tool for games like foosball, air hockey, chess and similar.
 - [Retool Mobile](https://retool.com/products/mobile) ([HN](https://news.ycombinator.com/item?id=34441346))
 - [Crontool](https://tool.crontap.com/cronjob-debugger) - Free crontab/cron expressions editor online. ([Reddit](https://www.reddit.com/r/programming/comments/10hnl5z/finally_understood_cron/))
+- [Vikunja](https://vikunja.io/) - Open-source, self-hostable to-do app. ([HN](https://news.ycombinator.com/item?id=34469078)) ([GitHub](https://github.com/go-vikunja))

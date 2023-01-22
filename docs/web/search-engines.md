@@ -312,3 +312,5 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [FindThatMeme](https://findthatmeme.com/) - Meme Search Engine.
 - [Addok](https://github.com/addok/addok) - Index your address data and provide an HTTP API for full text search.
 - [goris](https://github.com/tanaikech/goris) - CLI tool to search for images with Google Reverse Image Search.
+- [Lyra Cache](https://github.com/mateonunez/lyra-cache) - Plugin provides a cache system for Lyra.
+- [Asterism](https://github.com/mateonunez/asterism) - CLI that provides a set of tools to build a Lyra instance from your favorite database. ([Article](https://mateonunez.dev/blog/asterism-the-bf-of-lyra))

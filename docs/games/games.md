@@ -274,6 +274,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Your best examples of video games as high art (2022)](https://www.reddit.com/r/patientgamers/comments/zxf52s/your_best_examples_of_video_games_as_high_art/)
 - [What’s your favorite PlayStation exclusive game? (2022)](https://www.reddit.com/r/PS5/comments/100kuzv/whats_your_favorite_playstation_exclusive_game/)
 - [r/PatientGamers Essential Games List: PC](https://www.reddit.com/r/patientgamers/comments/101kjtz/rpatientgamers_essential_games_list_pc/)
+- [Ask HN: Great text based games to play? (2023)](https://news.ycombinator.com/item?id=34469154)
 
 ## Links
 

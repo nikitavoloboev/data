@@ -266,3 +266,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [chasse](https://chasse.fun/) - Simple chessboard - without timers, rules etc. ([Code](https://github.com/leonidasdeim/chasse))
 - [How do you memorize certain openings](https://www.reddit.com/r/chess/comments/10ch9tb/how_do_you_memorize_certain_openings/)
 - [Fairy Stockfish](https://github.com/ianfab/Fairy-Stockfish) - Chess variant engine supporting Xiangqi, Shogi, Janggi, Makruk, S-Chess, Crazyhouse, Bughouse, and many more. ([Web](https://fairy-stockfish.github.io/))
+- [Looking for the best Chess960 starting position (2023)](https://www.amolas.dev/blog/chess-960-initial-position/) ([HN](https://news.ycombinator.com/item?id=34475122))

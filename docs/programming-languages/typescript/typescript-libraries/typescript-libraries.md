@@ -760,6 +760,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [v8-serde](https://github.com/losfair/v8-serde) - Pure-JavaScript implementation of the V8 value serializer.
 - [webm-muxer](https://github.com/Vanilagy/webm-muxer) - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.
 - [random-delay](https://github.com/Cadienvan/random-delay) - Library providing a parametrized random delay mechanism for functions (Both async and sync).
+- [shiki-es](https://github.com/unjs/shiki-es) - Standalone build of shiki fully compatible with all ESM environments.
+- [good-dag](https://github.com/isaacs/good-dag) - Expandable append-only immutable directed acyclic graph using linked lists.
+- [sysinfo](https://github.com/Brooooooklyn/sysinfo) - System information.
 
 ## Links
 

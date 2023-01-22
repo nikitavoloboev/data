@@ -81,3 +81,4 @@
 - [Linear algebra with transformers (2022)](https://openreview.net/forum?id=Hp4g7FAXXG) ([Code](https://github.com/facebookresearch/LAWT))
 - [Unary Computer for Matrix Multiplication (2020)](https://jsm.ece.wisc.edu/docs/wu-isca2020.pdf)
 - [NumLin: Linear Types for Linear Algebra](https://github.com/dc-mak/NumLin)
+- [I❤️LA: Compilable Markdown for Linear Algebra](https://iheartla.github.io/)

@@ -65,3 +65,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [tea](https://tea.xyz/) - Unified package manager. ([CLI](https://github.com/teaxyz/cli)) ([GitHub](https://github.com/teaxyz))
 - [prefix.dev](https://prefix.dev/)
 - [Conveyor](https://github.com/hydraulic-software/conveyor) - Makes distributing desktop and command line apps as easy as shipping a web app. ([Reddit](https://www.reddit.com/r/javascript/comments/10as6hv/tool_for_simpler_packaging_of_desktop_apps/)) ([Docs](https://conveyor.hydraulic.dev/)) ([Web](https://www.hydraulic.software/))
+- [Peru](https://github.com/buildinspace/peru) - Generic package manager, for including other people's code in your projects.

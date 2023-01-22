@@ -319,6 +319,7 @@
 - [LoginItemKit](https://github.com/chrenn/LoginItemKit) - Add non-sandboxed macOS applications to user login items.
 - [DSFMenuBuilder](https://github.com/dagronf/DSFMenuBuilder) - SwiftUI-style DSL for generating `NSMenu` instances for AppKit.
 - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds.
+- [DSFQuickActionBar](https://github.com/dagronf/DSFQuickActionBar) - Spotlight-inspired quick action bar for macOS.
 
 ## Web
 
@@ -389,6 +390,7 @@
 - [Clairvoyant](https://github.com/christophhagen/Clairvoyant) - Monitoring framework for Vapor servers.
 - [Swift Web](https://github.com/pointfreeco/swift-web) - Collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
 - [URLQueryEncoder](https://github.com/CreateAPI/URLQueryEncoder) - URL query encoder with support for all OpenAPI serialization options.
+- [Vercel](https://github.com/swift-cloud/Vercel) - Swift runtime for Vercel Serverless Functions.
 
 ## GraphQL
 
