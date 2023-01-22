@@ -348,3 +348,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Hacking myself to prove a point (2023)](https://www.macchaffee.com/blog/2023/hacking-myself/) ([Lobsters](https://lobste.rs/s/azbogy/hacking_myself_prove_point))
 - [offsec.tools](https://offsec.tools/) - Vast collection of security tools.
 - [How You Respond to Security Researchers Says Everything About You (2023)](https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/) ([Lobsters](https://lobste.rs/s/qjuqpi/how_you_respond_security_researchers))
+- [SLF Digest](https://slf.fish/)

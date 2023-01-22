@@ -1,6 +1,6 @@
 # Graph neural networks
 
-[Introduction to Graph Machine Learning](https://huggingface.co/blog/intro-graphml) is great read.
+[Introduction to Graph Machine Learning](https://huggingface.co/blog/intro-graphml) & [Everything is Connected: Graph Neural Networks](https://arxiv.org/abs/2301.08210) are great reads.
 
 [DIG](https://github.com/divelab/DIG) library is neat.
 
@@ -147,3 +147,4 @@
 - [E3NN.jl](https://github.com/Dsantra92/e3nn.jl) - Julia implementation of Euclidean neural networks.
 - [GNN4Traffic](https://github.com/jwwthu/GNN4Traffic) - Collection of Graph Neural Network for Traffic Forecasting.
 - [Introduction to Graph Machine Learning (2023)](https://huggingface.co/blog/intro-graphml)
+- [Everything is Connected: Graph Neural Networks (2023)](https://arxiv.org/abs/2301.08210)

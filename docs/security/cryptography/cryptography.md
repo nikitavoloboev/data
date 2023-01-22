@@ -1,6 +1,6 @@
 # Cryptography
 
-[Learning Cryptography in Public](https://github.com/ncitron/badcrypto) is nice.
+[Learning Cryptography in Public](https://github.com/ncitron/badcrypto) & [Crypto Dictionary](https://www.crypto-dictionary.com/) are great.
 
 ## Notes
 
@@ -210,3 +210,4 @@
 - [Elliptic Tales: Curves, Counting, and Number Theory (2012)](https://press.princeton.edu/books/hardcover/9780691151199/elliptic-tales)
 - [Describe-curve](https://github.com/daira/describe-curve) - Utility for describing elliptic curves used in cryptography.
 - [A Gentle Tutorial for Lattice-Based Cryptanalysis (2023)](https://eprint.iacr.org/2023/032.pdf)
+- [Crypto Dictionary](https://www.crypto-dictionary.com/)

@@ -6,6 +6,7 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 
 ## Nice shops
 
+- [Vacation](https://www.vacation.inc/collections/all)
 - [Sneak in Peace](https://www.sneakinpeace.com/)
 - [Björn Borg](https://www.bjornborg.com/en/)
 - [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))

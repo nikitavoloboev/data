@@ -366,6 +366,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Ines Rehberger](https://www.flickr.com/photos/inesrehbergerphotography/)
 - [Philipp Urlich](https://www.instagram.com/philippurlich/) ([Web](https://urlich.art/))
 - [Kyle Thompson](https://www.instagram.com/kylejthompson/)
+- [Ivan Troyanovsky](https://www.instagram.com/ivantroyanovsky/)
 - [Alex Currie](https://www.instagram.com/alex.currie/)
 - [Weronika Izdebska](https://www.instagram.com/ovors/)
 - [Henri Prestes](https://henriprestesp.com/)
