@@ -228,6 +228,7 @@
 - [eightfish](https://github.com/miketang84/eightfish) - Framework for open web.
 - [jittr](https://github.com/Hum-Systems/jittr) - Binary heap based jitter buffer implementation for zero latency udp/rtp streams.
 - [Retty](https://github.com/retty-io/retty) - Asynchronous Rust networking framework that makes it easy to build protocols, application clients/servers.
+- [may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - Mini HTTP server that implemented on top of may.
 
 ## Auth
 
@@ -2558,6 +2559,7 @@
 - [Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust.
 - [tzfile](https://github.com/kennytm/tzfile) - Rust chrono::TimeZone implementation using the system tz database.
 - [xdg-user](https://github.com/rijenkii/xdg-user-rs) - Crate to give you paths to user dirs.
+- [VPlugin](https://github.com/VPlugin/VPlugin) - Plugin framework for Rust.
 
 ## Cargo Plugins
 

@@ -178,3 +178,4 @@
 - [Using GitHub Copilot for unit testing](https://www.strictmode.io/articles/using-github-copilot-for-testing) ([Lobsters](https://lobste.rs/s/dfmiko/using_github_copilot_for_unit_testing))
 - [Ask HN: Do you test in production? (2023)](https://news.ycombinator.com/item?id=34384656)
 - [Maestro](https://maestro.mobile.dev/) - Simplest and most effective mobile UI testing framework.
+- [An unexpected benefit of unit tests (2023)](https://matthewc.dev/musings/unit-tests/) ([HN](https://news.ycombinator.com/item?id=34467523))

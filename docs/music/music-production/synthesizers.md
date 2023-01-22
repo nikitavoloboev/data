@@ -25,7 +25,7 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [Reverse engineering the OP-1 drum patch (2020)](https://schollz.com/blog/op1/) ([HN](https://news.ycombinator.com/item?id=23211467))
 - [Love Hulten](https://www.lovehulten.com/) - Designs tiny synthesizers.
 - [PLANTYFLUTESIZER being explored by Pico and Verdi](https://twitter.com/_bichopalo_/status/1248919043161182209)
-- [M8](https://dirtywave.com/) - Portable synthesizer and sequencer. ([Demo](https://www.youtube.com/watch?v=DCFJ-3QfqZA))
+- [Dirtywave](https://dirtywave.com/) - Portable synthesizer and sequencer. ([Demo](https://www.youtube.com/watch?v=DCFJ-3QfqZA)) ([Discord](https://discord.com/invite/WEavjFNYHh))
 - [Helm](https://tytel.org/helm/) - Free polyphonic synth with lots of modulation. ([Code](https://github.com/mtytel/helm))
 - [DIY SYNTH VCO: How to build an analog oscillator core from scratch (2020)](https://www.youtube.com/watch?v=QBatvo8bCa4)
 - [Patchcab](https://github.com/spectrome/patchcab) - Modular Eurorack style synthesizer made with Web Audio. ([Web](https://patch.cab/))

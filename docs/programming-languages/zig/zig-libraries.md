@@ -161,6 +161,7 @@
 - [zubench](https://github.com/dweiller/zubench) - Micro-benchmarking package for Zig.
 - [zasp](https://github.com/fengb/zasp) - Streaming parser.
 - [zig-csv](https://github.com/beho/zig-csv) - Low-level CSV parser library for Zig.
+- [libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Zig bindings to libpcre.
 
 ## Links
 

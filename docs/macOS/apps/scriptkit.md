@@ -2,7 +2,7 @@
 title: ScriptKit
 ---
 
-# [ScriptKit](https://www.scriptkit.com/)
+# [Script Kit](https://www.scriptkit.com/)
 
 ## Notes
 

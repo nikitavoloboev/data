@@ -185,3 +185,4 @@
 - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
 - [Applied Stochastic Differential Equations (2019)](https://users.aalto.fi/~ssarkka/pub/sde_book.pdf)
 - [Stochastic Differential Equations: Introduction with Applications](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581)
+- [Probabilistic Filters By Example: Cuckoo Filter and Bloom Filters](https://bdupras.github.io/filter-tutorial/)

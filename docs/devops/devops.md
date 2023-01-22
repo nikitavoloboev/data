@@ -245,3 +245,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Edge Flags](https://github.com/upstash/edge-flags) - Feature flags for edge functions.
 - [Learn DevOps Links](https://github.com/codeaprendiz/learn-devops)
 - [octocov](https://github.com/k1LoW/octocov) - Toolkit for collecting code metrics (code coverage, code to test ratio and test execution time).
+- [Envless](https://envless.dev/) - Secure and sync your secrets. ([Code](https://github.com/envless/envless))

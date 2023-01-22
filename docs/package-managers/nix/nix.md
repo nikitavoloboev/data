@@ -493,3 +493,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
 - [Rime](https://github.com/aakropotkin/rime) - Implements a spec compliant URI parser in pure Nix.
 - [floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin.
+- [Edict](https://github.com/DavHau/edict) - Run nix commands on remote machines.
