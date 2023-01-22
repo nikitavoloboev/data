@@ -229,6 +229,7 @@
 - [jittr](https://github.com/Hum-Systems/jittr) - Binary heap based jitter buffer implementation for zero latency udp/rtp streams.
 - [Retty](https://github.com/retty-io/retty) - Asynchronous Rust networking framework that makes it easy to build protocols, application clients/servers.
 - [may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - Mini HTTP server that implemented on top of may.
+- [Nanoproxy](https://github.com/lily-mara/nanoproxy) - Combination of two protocols - HTTP request proxying and mDNS advertisements.
 
 ## Auth
 
@@ -717,6 +718,7 @@
 - [Miden Crypto](https://github.com/0xPolygonMiden/crypto) - Cryptographic primitives used in Polygon Miden.
 - [eciesrs](https://github.com/ecies/rs) - Elliptic Curve Integrated Encryption Scheme for secp256k1.
 - [Sponge](https://github.com/arkworks-rs/sponge) - Library for cryptographic sponges.
+- [halo2curves](https://github.com/privacy-scaling-explorations/halo2curves) - BN256 pairing library that implements original traits from zkcrypto.
 
 ## Linux
 
@@ -2562,6 +2564,7 @@
 - [tzfile](https://github.com/kennytm/tzfile) - Rust chrono::TimeZone implementation using the system tz database.
 - [xdg-user](https://github.com/rijenkii/xdg-user-rs) - Crate to give you paths to user dirs.
 - [VPlugin](https://github.com/VPlugin/VPlugin) - Plugin framework for Rust.
+- [Geodesy](https://github.com/busstoptaktik/geodesy) - Platform for experiments with geodetic software, transformations, and standards.
 
 ## Cargo Plugins
 

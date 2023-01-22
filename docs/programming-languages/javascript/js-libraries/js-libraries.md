@@ -1103,6 +1103,7 @@
 - [Cookie Consent](https://github.com/orestbida/cookieconsent) - Lightweight & GDPR compliant cookie consent plugin written in plain JS.
 - [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) - Hast utility to transform a tree to preact, react, solid, svelte, vue, etc., with an automatic JSX runtime.
 - [Graph](https://github.com/datastructures-js/graph) - Graph & Directed Graph implementation in JS.
+- [User-Routine](https://github.com/CoryLR/user-routine) - JavaScript library to automate user routines on web pages.
 
 ## Links
 

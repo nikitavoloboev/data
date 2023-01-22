@@ -159,6 +159,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [monaco-unified](https://github.com/remcohaszing/monaco-unified) - Get warnings and error messages in monaco editor based on a unified processor.
 - [notitap](https://github.com/sereneinserenade/notitap) - Pro version of Notion like editor built on top of Tiptap.
 - [Monaco Editor Wrapper](https://github.com/CodinGame/monaco-editor-wrapper)
+- [lighter](https://github.com/code-hike/lighter) - Syntax highlighter used by Code Hike.
 
 ## Notes
 

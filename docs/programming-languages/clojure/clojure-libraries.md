@@ -102,6 +102,7 @@
 - [cartestian](https://github.com/nathell/cartestian) - Test all the combinations.
 - [datapotato](https://github.com/donut-party/datapotato) - Better database fixtures for tests.
 - [spec.alpha](https://github.com/clojure/spec.alpha) - Clojure library to describe the structure of data and functions.
+- [Hawk](https://github.com/metabase/hawk) - State-of-the-art Clojure test runner.
 
 ## Graphics
 

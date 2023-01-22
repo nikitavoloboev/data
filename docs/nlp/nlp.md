@@ -786,3 +786,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Embed-VTT](https://github.com/gmchad/embed-vtt) - Generate & query embeddings from VTT files using openai & pinecone on Andrej Karpathy's's latest GPT tutorial.
 - [CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation (2021)](https://arxiv.org/abs/2109.00859) ([Code](https://github.com/salesforce/CodeT5))
 - [Awesome LLM Engineering](https://github.com/rynst/awesome-llm-engineering)
+- [Minimal GPT-NeoX-20B in PyTorch](https://github.com/zphang/minimal-gpt-neox-20b)

@@ -420,3 +420,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Trading at light speed: designing low latency systems in C++ - David Gross (2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
 - [Meeting Cpp - YouTube](https://www.youtube.com/@MeetingCPP/videos)
 - [memorymanager](https://github.com/schulkinator/memorymanager) - Simple, cross-platform, thread-safe heap memory manager for 64bit C++ applications and games.
+- [How to fix safety in C++ (2023)](https://twitter.com/timur_audio/status/1617235997384753155)

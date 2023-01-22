@@ -437,3 +437,5 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [s3s](https://github.com/Nugine/s3s) - S3 Service Adapter.
 - [itty-aws](https://github.com/sam-goodwin/itty-aws) - Tiny AWS SDK for TypeScript.
 - [Hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
+- [Understanding AWS Services for Modern Cloud Architectures (2023)](https://bas.codes/posts/aws-architecture-overengineering)
+- [AWS Cost CLI](https://github.com/kamranahmedse/aws-cost-cli) - CLI tool to perform cost analysis on your AWS account with Slack integration.

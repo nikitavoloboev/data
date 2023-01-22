@@ -164,3 +164,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [SOZip Spec](https://github.com/sozip/sozip-spec) - Specification of seek-optimized zip file profile.
 - [lzwCompress.js](https://github.com/floydpink/lzwCompress.js) - Lossless LZW compression/decompression implemented in JavaScript for strings/JSON/JS objects.
 - [zx](https://github.com/jondot/zx) - Make extracting archive plain and simple.
+- [ndzip](https://github.com/celerity/ndzip) - High-Throughput Parallel Lossless Compressor for Scientific Data.

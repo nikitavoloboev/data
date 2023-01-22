@@ -6,6 +6,7 @@ title: Eleventy
 
 ## Templates
 
+- [11ty Solid Base](https://github.com/woodcox/11ty-solid-base) - Building SPA in 11ty with Solid-js, Is-land, WebC and esbuild.
 - [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) - Opiniated Eleventy starter based on the workflow suggested by Andy Bell.
 - [Eleventy Plus Vite](https://github.com/matthiasott/eleventy-plus-vite)
 - [Henry Desroches's Eleventy template](https://github.com/xdesro/welcome-traveler)

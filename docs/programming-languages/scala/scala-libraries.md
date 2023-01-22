@@ -231,6 +231,7 @@
 - [dependency](https://github.com/coursier/dependency) - Library to parse and handle Java and Scala dependencies.
 - [eff](https://github.com/atnos-org/eff) - Eff monad for cats.
 - [Choam](https://github.com/durban/choam) - Experiments with composable lock-free concurrency.
+- [Yin-Yang](https://github.com/scala-yinyang/scala-yinyang) - Library for deep embedding of DSLs based on Scala macros.
 
 ## Links
 

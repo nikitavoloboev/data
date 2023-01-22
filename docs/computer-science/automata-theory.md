@@ -82,3 +82,4 @@ title: Automata theory
 - [Building arbitrary Life patterns in 15 gliders (2022)](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/) ([HN](https://news.ycombinator.com/item?id=33797799))
 - [Recursive Game of Life](https://oimo.io/works/life/) ([HN](https://news.ycombinator.com/item?id=33978978))
 - [Elegant implementation to John Conway's Game of Life with JSXGraph](https://github.com/Leslie-Wong-H/game_of_life)
+- [Dominux Go Server](https://github.com/Dominux/DGS) - Game of Go implementation in VR.

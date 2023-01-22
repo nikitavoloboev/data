@@ -111,3 +111,6 @@ title: Vulkan API
 - [A look at Vulkan extensions in Venus (2022)](https://www.collabora.com/news-and-blog/blog/2022/10/19/a-look-at-vulkan-extensions-in-venus/)
 - [Vulkan Video decoding (2022)](https://lynne.ee/vulkan-video-decoding.html)
 - [Vulkan Tutorial in Rust](https://kylemayes.github.io/vulkanalia/) ([HN](https://news.ycombinator.com/item?id=34356060))
+- [RetroWarp](https://github.com/Themaister/RetroWarp) - Vulkan compute shader implementation of a fictional retro GPU.
+- [Vulkan Template](https://github.com/SaschaWillems/VulkanTemplate) - Vulkan template with light abstraction as a base for personal projects.
+- [Vulkan Hardware Capability Viewer](https://github.com/SaschaWillems/VulkanCapsViewer)

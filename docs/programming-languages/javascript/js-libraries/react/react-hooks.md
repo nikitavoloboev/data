@@ -39,6 +39,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Yjs React Bindings](https://github.com/joebobmiles/y-react)
 - [Yjs Middleware for Zustand](https://github.com/joebobmiles/zustand-middleware-yjs)
 - [Create React Signals](https://github.com/dai-shi/create-react-signals) - Factory function to create signals for React.
+- [SWR Global State](https://github.com/gadingnst/swr-global-state) - Zero-setup & simple global state management for React Components based on SWR helpers.
 
 ## DB
 

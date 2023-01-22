@@ -1,6 +1,6 @@
 # PDF
 
-[pdfcpu](https://github.com/pdfcpu/pdfcpu) is great Go lib to parse PDFs.
+[pdfcpu](https://github.com/pdfcpu/pdfcpu) is great Go lib to parse PDFs. [React PDF REPL](https://react-pdf-repl.vercel.app/) is interesting.
 
 ## Notes
 
@@ -95,3 +95,4 @@
 - [PDF to Image](https://github.com/k-yle/pdf-to-img) - Converts PDFs to images in Node with no native dependencies.
 - [SVG 2 PDF](https://github.com/typst/svg2pdf) - Converts SVG files to PDF.
 - [PDF Writer](https://github.com/typst/pdf-writer) - Step-by-step PDF writer.
+- [React PDF REPL](https://react-pdf-repl.vercel.app/) ([Code](https://github.com/jeetiss/react-pdf-repl))

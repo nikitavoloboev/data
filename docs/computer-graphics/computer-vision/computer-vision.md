@@ -1100,7 +1100,7 @@
 - [Generalized Decoding for Pixel, Image, and Language (2022)](https://arxiv.org/abs/2212.11270) ([Code](https://github.com/microsoft/X-Decoder))
 - [Global Context Vision Transformers (2022)](https://arxiv.org/abs/2206.09959) ([Code](https://github.com/NVlabs/GCVit))
 - [Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning (2023)](https://arxiv.org/abs/2301.05219) ([Code](https://github.com/MingSun-Tse/Why-the-State-of-Pruning-so-Confusing))
-- [DensePose From WiFi (2022)](https://arxiv.org/abs/2301.00250) ([Tweet](https://twitter.com/nearcyan/status/1615229929825656835)) ([HN](https://news.ycombinator.com/item?id=34423395))
+- [DensePose From WiFi (2022)](https://arxiv.org/abs/2301.00250) ([Tweet](https://twitter.com/nearcyan/status/1615229929825656835)) ([HN](https://news.ycombinator.com/item?id=34423395)) ([HN](https://news.ycombinator.com/item?id=34480760))
 - [CHAIRS: Towards Full-Body Articulated Human-Object Interaction (2022)](https://arxiv.org/abs/2212.10621) ([Code](https://github.com/jnnan/chairs))
 - [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels (2023)](https://arxiv.org/abs/2212.05897) ([Code](https://github.com/TaeryungLee/MultiAct_RELEASE))
 - [GLIGEN: Open-Set Grounded Text-to-Image Generation (2023)](https://arxiv.org/abs/2301.07093) ([Code](https://github.com/gligen/GLIGEN))

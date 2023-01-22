@@ -478,6 +478,8 @@
 - [type_safe](https://github.com/foonathan/type_safe) - Zero overhead utilities for preventing bugs at compile time.
 - [JSONCONS](https://github.com/danielaparker/jsoncons) - C++, header-only library for constructing JSON and JSON-like data formats such as CBOR.
 - [CTHASH](https://github.com/hanickadot/cthash) - Compile Time Hash. Constexpr implementation of SHA-2 family of hashes.
+- [Celerity Runtime](https://github.com/celerity/celerity-runtime) - High-level C++ for Accelerator Clusters.
+- [Algorithm](https://github.com/boostorg/algorithm) - Boost.org algorithm module.
 
 ## Links
 
