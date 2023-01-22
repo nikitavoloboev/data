@@ -255,7 +255,7 @@ if (
 - [Basho](https://github.com/bashojs/basho) - Shell Automation with Plain JavaScript. ([Docs](https://bashojs.org/))
 - [What is the JS Event Loop and Call Stack?](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
 - [Starving the Event Loop with microtasks](https://gist.github.com/jesstelford/bbb30b983bddaa6e5fef2eb867d37678)
-- [GPU.js](https://gpu.rocks/#/) - GPU accelerated JavaScript. ([HN](https://news.ycombinator.com/item?id=24027487)) ([HN](https://news.ycombinator.com/item?id=28797182))
+- [GPU.js](https://gpu.rocks/#/) - GPU accelerated JavaScript. ([HN](https://news.ycombinator.com/item?id=24027487)) ([HN](https://news.ycombinator.com/item?id=28797182)) ([Code](https://github.com/gpujs/gpu.js))
 - [The JavaScript Promise Tutorial (2020)](https://adrianmejia.com/promises-tutorial-concurrency-in-javascript-node/)
 - [Underrated JS array methods (2020)](https://dev.to/assuncaocharles/underrated-array-methods-2mdj)
 - [Javascript Generators, Meet XPath (2020)](https://jack.wrenn.fyi/blog/xpath-for-2020/) ([Lobsters](https://lobste.rs/s/5fsljg/javascript_generators_meet_xpath))

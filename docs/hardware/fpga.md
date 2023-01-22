@@ -130,3 +130,4 @@ title: Field-programmable gate array
 - [Rust HDL](https://github.com/samitbasu/rust-hdl) - Write FPGA Firmware using Rust.
 - [Experiments with Cologne Chip's GateMate FPGA architecture](https://github.com/tmeissner/gatemate_experiments)
 - [Spatial](https://github.com/stanford-ppl/spatial) - Argon DSL for programming reconfigurable hardware from a parameterized, high level abstraction.
+- [FPGA programming for beginners (2023)](https://www.reddit.com/r/embedded/comments/10imczw/fpga_programming_for_beginners/)

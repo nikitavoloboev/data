@@ -137,3 +137,4 @@
 - [Pyrsia](https://github.com/pyrsia/pyrsia) - Decentralized Package Network.
 - [Peer-to-Peer Connection Managers](https://github.com/mycognosist/p2p-connection-managers)
 - [airpaste](https://github.com/mafintosh/airpaste) - 1-1 network pipe that auto discovers other peers using mdns.
+- [Chitchatter](https://github.com/jeremyckahn/chitchatter) - Peer-to-peer chat app that is serverless, decentralized, and ephemeral. ([Web](https://chitchatter.im/))

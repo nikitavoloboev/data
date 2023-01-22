@@ -191,3 +191,4 @@
 - [First Look at z > 1 Bars in the Rest-Frame Near-Infrared with JWST Early CEERS Imaging (2022)](https://arxiv.org/abs/2210.08658) ([HN](https://news.ycombinator.com/item?id=34309625))
 - [Webb confirms its first exoplanet (2023)](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_confirms_its_first_exoplanet) ([HN](https://news.ycombinator.com/item?id=34359839))
 - [SkyFi](https://www.skyfi.com/) - Buy hi-resolution satellite images of any place on earth. ([HN](https://news.ycombinator.com/item?id=34468644))
+- [Decoding Lunar Flashlight (2023)](https://destevez.net/2023/01/decoding-lunar-flashlight/)

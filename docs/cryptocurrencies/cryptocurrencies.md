@@ -316,3 +316,4 @@ I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_g
 - [Ledger](https://www.ledger.com/) - Hardware wallet. ([Interview with team](https://www.wired.com/story/tony-fadell-is-trying-to-build-the-ipod-of-crypto-ledger-stax/))
 - [SealVault](https://github.com/sealvault/sealvault) - Web3 key manager app with automated transaction approval.
 - [Decentralized app design: first aid for common dApp UI pains (2022)](https://evilmartians.com/chronicles/decentralized-app-design-first-aid-common-dapp-ui-pains)
+- [Web3Privacy](https://github.com/Msiusko/web3privacy) - 350+ privacy projects empowering Web3.
