@@ -157,3 +157,4 @@
 - [Awk: Power and Promise of a 40 yr old language (2021)](https://www.fosslife.org/awk-power-and-promise-40-year-old-language) ([HN](https://news.ycombinator.com/item?id=34393085))
 - [Replacing Pandas with Polars (2023)](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/) ([HN](https://news.ycombinator.com/item?id=34452526))
 - [dbt-prql](https://github.com/PRQL/dbt-prql) - Allows writing PRQL in dbt models.
+- [Using Rust to write a Data Pipeline (2023)](https://www.confessionsofadataguy.com/using-rust-to-write-a-data-pipeline-thoughts-musings/) ([Code](https://github.com/danielbeach/RustForDataPipelines))

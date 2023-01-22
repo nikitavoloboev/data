@@ -108,3 +108,4 @@ title: Godot
 - [Godot for AA/AAA game development – What's missing? (2023)](https://godotengine.org/article/whats-missing-in-godot-for-aaa/) ([HN](https://news.ycombinator.com/item?id=34401530)) ([Reddit](https://www.reddit.com/r/godot/comments/10dn40y/godot_for_aaaaa_game_development_whats_missing/))
 - [Godot Haskell](https://github.com/SimulaVR/godot-haskell)
 - [A Week of Progress on my Godot 4 RPG (2022)](https://www.youtube.com/watch?v=sYcJP5GyRa4)
+- [Godot Jolt](https://github.com/godot-jolt/godot-jolt) - Godot extension that integrates the Jolt physics engine.

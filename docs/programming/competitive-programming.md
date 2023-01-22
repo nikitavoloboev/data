@@ -50,3 +50,4 @@
 - [PyRival](https://github.com/cheran-senthil/PyRival) - Python Library for Competitive Programming.
 - [Yandex Cup](https://yandex.ru/cup/) - Чемпионат по программированию.
 - [Procon Input Compiler](https://github.com/akiradeveloper/procon-input-compiler) - Parsing the competitive programming input elegantly.
+- [Competitive Companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems from various online judges.
