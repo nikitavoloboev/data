@@ -65,3 +65,4 @@ title: Tauri
 - [Bevy Snake in Tauri via WASM (2022)](https://www.youtube.com/watch?v=0KBsbrhKt34)
 - [Vite Tauri Plugin](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [Tauri Global Hotkey](https://github.com/amrbashir/global-hotkey) - Global hotkeys for Desktop Applications.
+- [Tauri SQL Plugin](https://github.com/tauri-apps/tauri-plugin-sql)

@@ -149,3 +149,4 @@ title: Zero knowledge proofs
 - [Arithmetization schemes for ZK-SNARKs (2023)](https://www.notamonadtutorial.com/arithmetization-schemes-for-zk-snarks/)
 - [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia) - Middleware to compile Circom circuits to Nova prover.
 - [poseidon](https://github.com/privacy-scaling-explorations/poseidon) - Built to be used in SNARK and non native recursion friendly transcript for appliedzkp/halo2.
+- [zkLLVM Circuit Compiler](https://github.com/NilFoundation/zkllvm) - Zero-Knowledge Proof Systems Circuit Compiler.

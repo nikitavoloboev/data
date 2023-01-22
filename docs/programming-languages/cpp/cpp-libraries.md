@@ -100,6 +100,7 @@
 - [OpenABE](https://github.com/zeutro/openabe) - Open source cryptographic library with attribute-based encryption implementations in C/C++.
 - [Crypto++](https://github.com/weidai11/cryptopp) - Free C++ class library of cryptographic schemes.
 - [AZTEC](https://github.com/AztecProtocol/barretenberg) - C++ elliptic curve library.
+- [Crypto3](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17.
 
 ## ML
 

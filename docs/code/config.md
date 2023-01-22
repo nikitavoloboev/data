@@ -4,57 +4,127 @@
 
 ```bash
 # Output of `ls /Applications`
-1Password 7.app
+1Password.app
 2Do.app
-Alfred 4.app
-Android Studio.app
-AppCleaner.app
-Aviary.app
+AI Photo.app
+Alfred 5.app
+Altair GraphQL Client.app
+Amie.app
+Amphetamine.app
+Anaconda-Navigator.app
+Anki.app
+Anybox.app
+Aqueduct.app
+Arc.app
+Arctype.app
+Ask Command.app
+Beam.app
 BetterTouchTool.app
+Bike.app
+Blender.app
+Campsite.app
+ChatGPT.app
+Clay.app
 CleanShot X.app
-Darkroom.app
+Coffee.app
+Color Picker.app
+Crouton.app
+DaisyDisk.app
 Dash.app
-Deliveries.app
+Day One.app
+Developer.app
+DiffusionBee.app
 Discord.app
 Docker.app
+Dropcode.app
+Element.app
+Elk.app
+Endel.app
+Excalidraw.app
+FSNotes.app
 Fantastical.app
 Figma.app
+Framer.app
+GarageBand.app
+GoLand.app
+Godot.app
 Google Chrome Canary.app
+Google Chrome.app
+GraphQL.app
+HTTPie.app
+Height.app
 IINA.app
+ImageOptim.app
+IntelliJ IDEA CE.app
 Karabiner-Elements.app
 Karabiner-EventViewer.app
+Keyboard Cleaner.app
 Keyboard Maestro.app
+Keynote.app
+Kit.app
+Latest.app
+Learn Anything.app
+Linear.app
 Loom.app
 Marked 2.app
+Medis.app
+Mela.app
 MindNode.app
+Mockview.app
+Mullvad VPN.app
+Neo4j Desktop.app
+NetNewsWire.app
+Nota.app
 Notion.app
+Numbers.app
+OBS.app
+Obsidian.app
+PDF Expert.app
+Pages.app
 Paw.app
+Picsee.app
 Pixave.app
 Pixelmator Pro.app
+Poolsuite FM.app
+Postgres.app
 Postico 2.app
-Proxyman.app
+Raycast.app
 Reeder.app
+Rosefinch.app
+Safari Technology Preview.app
 Safari.app
-Sip.app
+SamsungPortableSSD_1.0.app
+Screen Studio.app
+Simplified for Twitter.app
 Slack.app
+SnippetsLab.app
 Spark.app
-Spline.app
 Spotify.app
 Sublime Merge.app
 Sublime Text.app
-Syncalicious.app
+TablePlus.app
+Tandem.app
 Telegram.app
-Textual 7.app
+Telik.app
+TickTick.app
+Todoist.app
+Tor Browser.app
 Transmission.app
 Tweetbot.app
+Twitter.app
 Utilities
 Vimari.app
-Visly.app
 Visual Studio Code - Insiders.app
+Warp.app
+WebStorm.app
 WhatsApp.app
 Wipr.app
+Wombat.app
 Xcode.app
+Zas Editor.app
+iMovie.app
 iTerm.app
+massCode.app
 zoom.us.app
 ```
 
