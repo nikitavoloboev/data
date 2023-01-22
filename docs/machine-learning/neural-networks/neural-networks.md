@@ -324,3 +324,4 @@
 - [DecoMon](https://github.com/airbus/decomon) - Automatic Certified Perturbation Analysis of Neural Networks.
 - [Directional Message Passing Neural Network (DimeNet and DimeNet++)](https://github.com/gasteigerjo/dimenet)
 - [Reverse Engineering a Neural Network's Clever Solution to Binary Addition](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/) ([HN](https://news.ycombinator.com/item?id=34399142))
+- [10 Days Of Grad: Deep Learning From The First Principles](https://github.com/masterdezign/10-days-of-grad)

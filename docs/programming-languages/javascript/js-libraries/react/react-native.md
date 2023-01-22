@@ -10,6 +10,8 @@ title: React Native
 
 [Tamagui](https://github.com/tamagui/tamagui) is interesting for styling.
 
+[NativeScript](https://github.com/NativeScript/NativeScript) is interesting alternative.
+
 ## Nice OSS RN apps
 
 - [RNN Starter](https://github.com/kanzitelli/rnn-starter) - Powered by cli-rn, React Native Navigation, Expo Modules, RNN Screens, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.

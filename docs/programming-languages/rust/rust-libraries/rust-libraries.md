@@ -532,6 +532,7 @@
 - [tween](https://github.com/sanbox-irl/tween) - Std-optional tweening library, designed for use in games and animations.
 - [apecs](https://github.com/schell/apecs) - Asyncronous Parallel Entity Component System.
 - [Game Loop](https://github.com/tuzz/game-loop) - Rust crate that implements a frame-rate-independent game loop.
+- [Bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees.
 
 ## GraphQL
 

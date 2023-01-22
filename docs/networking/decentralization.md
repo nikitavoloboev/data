@@ -166,3 +166,4 @@ title: Decentralization
 - [How much decentralization is too much? (2022)](https://shkspr.mobi/blog/2022/12/how-much-decentralisation-is-too-much/) ([HN](https://news.ycombinator.com/item?id=33951939))
 - [Radicle Heartwood Protocol & Stack](https://github.com/radicle-dev/heartwood)
 - [Edelweiss](https://github.com/ipld/edelweiss) - Decentralized Protocol Compiler.
+- [indigo](https://github.com/bluesky-social/indigo) - Go code for Bluesky's atproto services.

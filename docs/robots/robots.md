@@ -198,3 +198,4 @@
 - [Robotic Systems Book](https://github.com/krishauser/RoboticSystemsBook)
 - [OpenDR](https://github.com/opendr-eu/opendr) - Modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning.
 - [Bot Box](https://github.com/roboportal/bot_box) - Universal remote control for robots. Works via the internet. ([Web](https://roboportal.io/))
+- [CleanIt](https://github.com/Sollimann/CleanIt) - Open-source Autonomy Software in Rust-lang with gRPC for the Roomba series robot vacuum cleaners.

@@ -62,3 +62,4 @@ title: QUIC
 - [QUIC Is Not a TCP Replacement (2022)](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
 - [Comparing TCP and QUIC (2022)](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 - [Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
+- [quinn-holepunch](https://github.com/Frando/quinn-holepunch) - Holepuncheable QUIC sockets through a rendevouz server.

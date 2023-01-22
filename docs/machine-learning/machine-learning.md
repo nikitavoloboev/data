@@ -1047,3 +1047,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Understanding Deep Learning Book (2022)](https://udlbook.github.io/udlbook/) ([Code](https://github.com/udlbook/udlbook))
 - [Riemannian Score-Based Generative Modelling (2022)](https://arxiv.org/abs/2202.02763) ([Code](https://github.com/oxcsml/riemannian-score-sde))
 - [Techniques to improve reliability of LLMs](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md) ([HN](https://news.ycombinator.com/item?id=34462926))
+- [Learning Compressed Transforms with Low Displacement Rank (2018)](https://arxiv.org/abs/1810.02309) ([Code](https://github.com/HazyResearch/structured-nets))

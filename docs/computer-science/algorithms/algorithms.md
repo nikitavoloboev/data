@@ -131,6 +131,7 @@
 - [Zurich Algorithms Course (2020)](https://cadmo.ethz.ch/education/lectures/HS20/algolab/index.html) ([Code](https://github.com/simon-hrabec/Algolab-2020))
 - [Go Algorithms and Data Structures and Go Solution for LeetCode algorithm problems](https://github.com/TomorrowWu/golang-algorithms)
 - [Introduction to data structures and algorithms in Python](https://github.com/albanie/algorithms-and-data-structures)
+- [Algorithms and Data Structure Visualization Book](https://patternize.github.io/docs/Patterns/Backtracking/Introduction) ([Code](https://github.com/patternize/patternize.io))
 
 ## Images
 

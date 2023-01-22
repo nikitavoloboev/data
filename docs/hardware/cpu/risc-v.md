@@ -212,3 +212,4 @@ title: RISC-V
 - [How Secure Are RISC-V Chips? (2023)](https://semiengineering.com/how-secure-are-risc-v-chips/)
 - [Selfie](https://github.com/cksystemsteaching/selfie) - Tiny RISC-V C compiler, emulator and hypervisor. ([HN](https://news.ycombinator.com/item?id=34397514))
 - [MIPS Rolls Out Its First RISC-V Processor Core (2023)](https://www.eejournal.com/article/mips-rolls-out-its-first-risc-v-processor-core-its-a-big-un/) ([Tweet](https://twitter.com/NickTernovoy/status/1614994623113400321))
+- [RISC-V Code Size Reduction Group](https://github.com/riscv/riscv-code-size-reduction)

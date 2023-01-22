@@ -111,6 +111,7 @@
 ## Exercism exercise solutions
 
 - [TypeScript](https://github.com/exercism/typescript)
+- [C++](https://github.com/exercism/cpp)
 
 ## Other solutions
 

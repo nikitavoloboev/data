@@ -958,3 +958,4 @@ if *boolArgPtr != false {
 - [Weaver](https://github.com/grantseltzer/weaver) - Trace Go program execution with uprobes and eBPF.
 - [traceutils](https://github.com/felixge/traceutils) - Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top.
 - [gocheckcompilerdirectives](https://github.com/leighmcculloch/gocheckcompilerdirectives) - Check that go directories (//go: comments) are good.
+- [Parsing in Go Examples for Talk](https://github.com/awalterschulze/parsing-in-go-example)

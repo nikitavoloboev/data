@@ -230,6 +230,7 @@ I want to:
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Ben Steadman's notes](https://github.com/SteadBytes/study)
+- [Xinrong Meng's Knowledge](https://github.com/xinrong-meng/knowledge-sharing)
 - [Muhammad Muhajir's Notes](https://www.muhajir.dev/#notes)
 - [Binny's garden](https://notes.binnyva.com/)
 - [David Winterbottom's TIL](https://til.codeinthehole.com/)
@@ -562,3 +563,4 @@ I want to:
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) ([HN](https://news.ycombinator.com/item?id=34137751))
 - [Silicon Notes](https://github.com/cu/silicon) - Web-based personal knowledge base with few frills.
 - [Lumen](https://github.com/lumen-notes/lumen) - Opinionated note-taking system for thinking, writing, learning, and mindfulness.
+- [grdn](https://github.com/chriskrycho/grdn) - Simple protocol for garden-style content feeds.

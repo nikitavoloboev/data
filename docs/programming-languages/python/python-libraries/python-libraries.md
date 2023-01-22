@@ -88,6 +88,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [hface](https://github.com/akamai/hface) - Hackable HTTP/{1,2,3} {client,server,proxy}.
 - [rush](https://github.com/sigmavirus24/rush) - Library for throttles.
 - [Esmerald](https://github.com/dymmond/esmerald) - Highly scalable, performant, easy to learn, easy to code and for every application python web framework.
+- [yhttp](https://github.com/yhttp/yhttp) - Lightweight flask-like HTTP framework.
 
 ## ML
 
@@ -238,6 +239,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [μSQLite](https://github.com/spatialdude/usqlite) - SQLite module for MicroPython.
 - [mincePy](https://github.com/muhrin/mincepy) - Object storage with versioning made simple.
 - [Graphene-SQLAlchemy](https://github.com/graphql-python/graphene-sqlalchemy) - SQLAlchemy integration for Graphene.
+- [yhttp-pony](https://github.com/yhttp/yhttp-pony) - Pony ORM extension for yhttp.
 
 ## WebSocket
 

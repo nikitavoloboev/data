@@ -1,6 +1,6 @@
 # R language
 
-[R for Data Science](https://r4ds.had.co.nz/index.html) is nice.
+[R for Data Science](https://r4ds.had.co.nz/index.html) & [Advanced R Book](https://adv-r.hadley.nz/) are nice.
 
 ## Links
 
@@ -202,3 +202,4 @@
 - [Deep R Programming](https://deepr.gagolewski.com/) ([Code](https://github.com/gagolews/deepr))
 - [rtables](https://github.com/Roche/rtables) - Reporting tables with R.
 - [torchaudio](https://github.com/mlverse/torchaudio) - R interface to torchaudio.
+- [Advanced R Book](https://adv-r.hadley.nz/) ([Code](https://github.com/hadley/adv-r))

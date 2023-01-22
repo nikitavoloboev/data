@@ -315,3 +315,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Lyra Cache](https://github.com/mateonunez/lyra-cache) - Plugin provides a cache system for Lyra.
 - [Asterism](https://github.com/mateonunez/asterism) - CLI that provides a set of tools to build a Lyra instance from your favorite database. ([Article](https://mateonunez.dev/blog/asterism-the-bf-of-lyra))
 - [fast-fuzzy](https://github.com/EthanRutherford/fast-fuzzy) - Fast fuzzy-search utility in JS.
+- [Инструкции по бытовому каждодневному поиску](https://github.com/soxoj/everyday-search-guide-ru)

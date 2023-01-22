@@ -756,3 +756,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Disassembling EVM Bytecode (the Basics) (2023)](https://whileydave.com/2023/01/04/disassembling-evm-bytecode-the-basics/)
 - [Calldata Decoder](https://github.com/degatchi/calldata-decoder) - Black-box raw calldata decoder using only calldata to guess types and parse parameters.
 - [ChugSplash](https://github.com/chugsplash/chugsplash) - Modern smart contract deployment system.
+- [EVM Blockchain Indexer](https://github.com/llamafolio/evm-indexer) - Scalable SQL indexer for EVM compatible blockchains.

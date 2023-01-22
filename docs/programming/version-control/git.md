@@ -628,3 +628,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git packaging sources: state of the art (2023)](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
 - [Where are my Git UI features from the future? (2023)](https://blog.waleedkhan.name/git-ui-features/) ([HN](https://news.ycombinator.com/item?id=34301543))
 - [parse-git-diff](https://github.com/yeonjuan/parse-git-diff) - Parse git diff.
+- [Gill](https://github.com/oknozor/gill) - Free and open-source git-service based on ActivityPub and ForgeFed.

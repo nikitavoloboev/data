@@ -46,3 +46,4 @@
 - [Japanese Manga are being eclipsed by Korean webtoons (2022)](https://www.economist.com/asia/2022/12/08/japanese-manga-are-being-eclipsed-by-korean-webtoons) ([HN](https://news.ycombinator.com/item?id=33948243))
 - [anifunnel](https://github.com/Hamuko/anifunnel) - Plex webhook service to automatically update your Anilist watching list.
 - [Anime Now](https://github.com/AnimeNow-Team/AnimeNow) - Watch your favorite anime shows anywhere! Built with SwiftUI and TCA.
+- [AutoAnimeBot](https://github.com/kaif-00z/AutoAnimeBot) - Upload Ongoing Animes Automatically.

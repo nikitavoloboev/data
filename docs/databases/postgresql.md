@@ -648,3 +648,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PGmigrate](https://github.com/yandex/pgmigrate) - PostgreSQL migrations made easy.
 - [Postgres large sub-string query performance (2022)](https://www.evanjones.ca/postgres-large-string-performance.html)
 - [pg_background](https://github.com/vibhorkum/pg_background) - Postgres Background Worker.
+- [Nano ID for PostgreSQL](https://github.com/viascom/nanoid-postgres)
+- [pgperms](https://github.com/SnoozeThis-org/pgperms) - Declarative PostgreSQL permissions as code.
