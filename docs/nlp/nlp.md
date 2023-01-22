@@ -787,3 +787,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation (2021)](https://arxiv.org/abs/2109.00859) ([Code](https://github.com/salesforce/CodeT5))
 - [Awesome LLM Engineering](https://github.com/rynst/awesome-llm-engineering)
 - [Minimal GPT-NeoX-20B in PyTorch](https://github.com/zphang/minimal-gpt-neox-20b)
+- [Language Models of Code are Few-Shot Commonsense Learners (2022)](https://arxiv.org/abs/2210.07128) ([Code](https://github.com/reasoning-machines/CoCoGen))

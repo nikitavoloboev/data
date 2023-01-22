@@ -8,7 +8,7 @@ AWS has a [nice free tier](https://aws.amazon.com/free/). [AWS CDK](https://gith
 
 Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thing I learned is that settting up billing alerts is a must have so as to not overpay for compute. Also ideally you use services you truly need from these cloud providers, because the pricing does get a bit crazy at times.
 
-[SST](https://github.com/serverless-stack/sst) seems like useful framework.
+[SST](https://github.com/serverless-stack/sst) seems like useful framework. [Pulumi AWS](https://github.com/pulumi/pulumi-awsx) is nice too.
 
 ## Interesting
 
@@ -439,3 +439,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [Hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
 - [Understanding AWS Services for Modern Cloud Architectures (2023)](https://bas.codes/posts/aws-architecture-overengineering)
 - [AWS Cost CLI](https://github.com/kamranahmedse/aws-cost-cli) - CLI tool to perform cost analysis on your AWS account with Slack integration.
+- [Pulumi AWS Infrastructure Components](https://github.com/pulumi/pulumi-awsx)

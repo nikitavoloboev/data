@@ -88,3 +88,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [FireQL](https://github.com/pgollangi/FireQL) - Query Google Firestore database using SQL syntax.
 - [Firebase Functions Downloader](https://github.com/omar-dulaimi/firebase-functions-downloader) - Downloads Firebase/Google Cloud Functions code.
 - [Firebase Dynamic Links: Getting Started (2023)](https://www.kodeco.com/21376846-firebase-dynamic-links-getting-started)
+- [Firegraph](https://github.com/sejr/firegraph) - GraphQL Superpowers for Google Cloud Firestore.

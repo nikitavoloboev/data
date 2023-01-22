@@ -2565,6 +2565,7 @@
 - [xdg-user](https://github.com/rijenkii/xdg-user-rs) - Crate to give you paths to user dirs.
 - [VPlugin](https://github.com/VPlugin/VPlugin) - Plugin framework for Rust.
 - [Geodesy](https://github.com/busstoptaktik/geodesy) - Platform for experiments with geodetic software, transformations, and standards.
+- [BumpSlab](https://github.com/jkelleyrtp/bumpslab) - Bump allocator with reusable slots.
 
 ## Cargo Plugins
 
