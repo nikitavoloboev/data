@@ -250,7 +250,7 @@ Brings up a quick menu whenever some text is selected on which I can do a number
 
 How it looked for me
 
-<img src="https://i.imgur.com/dxt2qjK.png" width="400" alt="img">
+![](https://i.imgur.com/dxt2qjK.png)
 
 Everything I use comes by default with PopClip except YouTube extension which you can download [here](https://www.dropbox.com/sh/gckplsy5d4mg4rq/AABgvWT9QKg0NlwC9Bz8X9B0a?dl=0). I used [PopMaker](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator/) tool to create this web search extension.
 

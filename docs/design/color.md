@@ -220,3 +220,4 @@
 - [React Gradient Color Picker](https://github.com/hxf31891/react-gradient-color-picker)
 - [Pylette](https://github.com/qTipTip/Pylette) - Python library for extracting color palettes from supplied images.
 - [Linear Style](https://linear.style/) - Index for Linear themes. ([Code](https://github.com/alii/linear-style))
+- [Get-Image-Colors](https://github.com/colorjs/get-image-colors) - Extract colors from GIF, PNG, JPG, and SVG images.

@@ -1,21 +1,67 @@
 # Command Line Tools
 
-I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
-
-[cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful. [Command Line Interface Guidelines](https://clig.dev/) are great.
+[cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful tools. [Command Line Interface Guidelines](https://clig.dev/) are great.
 
 [nap](https://github.com/maaslalani/nap) & [circumflex](https://github.com/bensadeh/circumflex) are nicely made CLIs written in [Go](../programming-languages/go/go.md) & [Bubble Tea](https://github.com/charmbracelet/bubbletea) (my preferred CLI stack).
 
-## Favorite
+There is also a [nice curated CLI list](https://github.com/learn-anything/command-line-tools)
 
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches your current directory for a regex pattern. ([Andrew Gallant, creator of ripgrep - Sourcegraph Podcast (2020)](https://open.spotify.com/episode/1F6oqtDiBuyeYokEAm3dXx?si=YcYYd-NnTGa6XQcNGrFGbw)) ([Lobsters](https://lobste.rs/s/vunje1/burntsushi_talks_about_creating_ripgrep))
-- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder. ([Advanced Examples](https://github.com/junegunn/fzf/blob/master/ADVANCED.md))
-- [Watchexec](https://github.com/watchexec/watchexec) - Essential for running code and auto reloading on file save changes.
+## In Use
+
+- [ripgrep](https://github.com/BurntSushi/ripgrep) to search for text.
+- [fzf](https://github.com/junegunn/fzf) to fuzzy search through inputs.
+- [watchexec](https://github.com/watchexec/watchexec) to rerun command when files of certain type change. Essential for fast feedback workflows. I usually have code on the left and terminal on right in [VSCode](../text-editors/vs-code/vs-code.md). Use some [fish functions](https://github.com/nikitavoloboev/dotfiles/blob/master/fish/functions.fish#L20) for common commands.
+- [exa](https://github.com/ogham/exa) to replace ls as it has prettier output.
+- [bat](https://github.com/sharkdp/bat) to show contents of the file.
+- [jq](https://github.com/stedolan/jq) to process/modify JSON.
+- [git](../programming/version-control/git.md) for all version control.
+- [curl](https://curl.haxx.se/docs/manpage.html) to do HTTP requests in terminal.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download videos.
 
 ## Interesting
 
 - [rga](https://github.com/phiresky/ripgrep-all) - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. ([Article](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)) ([HN](https://news.ycombinator.com/item?id=25277280))
-
+- [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
+- [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
+- [direnv](https://direnv.net/) - Environment switcher for the shell.
+- [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
+- [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
+- [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
+- [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
+- [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
+- [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
+- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat.html) but for images.
+- [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+- [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+- [modd](https://github.com/cortesi/modd) - Flexible tool for responding to file system changes.
+- [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+- [hub](https://github.com/github/hub) - GitHub wrapper.
+- [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
+- [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer.
+- [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+- [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
+- [loc](https://github.com/cgag/loc) - Count lines of code quickly.
+- [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) - Manage Go-based Alfred workflows.
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
+- [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+- [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
+- [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
+- [npx](https://github.com/zkat/npx) - Execute npm package binaries.
+- [devd](https://github.com/cortesi/devd) - Local webserver for developers.
+- [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
+- [ran](https://github.com/m3ng9i/ran) - Simple static web server written in Go.
+- [mcfly](https://github.com/cantino/mcfly) - Fast visual command history search.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - Excellent command-line benchmarking tool.
 ## Notes
 
 - Look into [gh cli](https://github.com/cli/cli) for example of a well designed CLI. The `-h` is amazing.
