@@ -607,3 +607,4 @@ all: unset
 - [PostCSS Values Parser](https://github.com/shellscape/postcss-values-parser) - CSS property value parser for PostCSS.
 - [Conditional CSS (2023)](https://ishadeed.com/article/conditional-css/) ([HN](https://news.ycombinator.com/item?id=34403742))
 - [The truth about CSS selector performance (2023)](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/) ([HN](https://news.ycombinator.com/item?id=34428619))
+- [Great CSS posts/videos (2023)](https://twitter.com/BHolmesDev/status/1617248463103598593)

@@ -298,3 +298,4 @@ I am excited by [Replit Bounties](https://replit.com/bounties) and what they can
 - [Ask HN: What are good self hosted time tracking software for consultants? (2022)](https://news.ycombinator.com/item?id=34013754)
 - [Flexile](https://flexile.com/) - Operating system for flexible business.
 - [Ask HN: Is there a site for quality short-term contract programming work? (2022)](https://news.ycombinator.com/item?id=34069496)
+- [Ask HN: What is your experience in tech consulting? (2023)](https://news.ycombinator.com/item?id=34484710)

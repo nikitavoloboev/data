@@ -72,3 +72,4 @@
 - [A personal history of visual programming environments (2021)](https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/) ([HN](https://news.ycombinator.com/item?id=34094223))
 - [Awesome Playgrounds](https://github.com/marcosnils/awesome-playgrounds)
 - [Estuary](https://github.com/dktr0/estuary) - Platform for collaboration and learning through live coding.
+- [Ask HN: Has anyone fully attempted Bret Victor's vision? (2023)](https://news.ycombinator.com/item?id=34485254)
