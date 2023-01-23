@@ -347,3 +347,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [What are some of your more "uncommon" red flags?](https://www.reddit.com/r/polyamory/comments/103d6li/what_are_some_of_your_more_uncommon_red_flags/)
 - [Destiny and Melina on their open relationship](https://www.youtube.com/watch?v=3hZg8qL6YxM)
 - [7 Things To Know About Your Partner](https://twitter.com/Theholisticpsyc/status/1615019005877817351?s=20)
+- [Ask HN: What do you do to start and develop friendships? (2023)](https://news.ycombinator.com/item?id=34487606)

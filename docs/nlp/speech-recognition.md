@@ -173,3 +173,4 @@ title: Speech recognition
 - [Quick Caption](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT and FCPXML) without manually entering time codes.
 - [ArchiSound](https://github.com/archinetai/archisound) - Collection of pre-trained audio models, in PyTorch.
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper.
+- [Whisper.cpp example running fully in the browser](https://whisper.ggerganov.com/) ([HN](https://news.ycombinator.com/item?id=34484937))

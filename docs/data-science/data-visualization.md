@@ -206,3 +206,4 @@
 - [Guide To Getting Data Visualization Right (2023)](https://www.smashingmagazine.com/2023/01/guide-getting-data-visualization-right/)
 - [Rath](https://github.com/Kanaries/Rath) - Automated data exploratory analysis and visualization tools.
 - [Inviwo](https://github.com/inviwo/inviwo) - Interactive Visualization Workshop.
+- [Population Pyramids of the World](https://www.populationpyramid.net/)

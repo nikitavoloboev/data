@@ -29,3 +29,4 @@ title: Scuttlebutt
 - [ssb-threads](https://github.com/ssbc/ssb-threads) - Scuttlebot plugin for fetching messages as threads.
 - [scuttlego](https://github.com/planetary-social/scuttlego) - Go implementation of the Secure Scuttlebutt protocol.
 - [ssb-archive feature proposal](https://github.com/gpicron/ssb-archive)
+- [HN: Secure Scuttlebutt (2023)](https://news.ycombinator.com/item?id=34480864)

@@ -251,3 +251,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Open Source Grindset Explained (2022)](https://blog.orhun.dev/open-source-grindset/) ([Lobsters](https://lobste.rs/s/q6qy6r/open_source_grindset_explained))
 - [Vamp](https://www.vamp.sh/) - Open Source Bounties. ([Code](https://github.com/DavidTParks/vamp))
 - [What it feels like to be an open-source maintainer (2017)](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
+- [9 years maintaining a sorta-popular open source package: lessons learned (2023)](https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/)

@@ -4,7 +4,7 @@ title: Nix
 
 # [Nix](https://github.com/NixOS/nix)
 
-[Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/), [nix.dev](https://nix.dev/), [Nix One Pager](https://github.com/tazjin/nix-1p) & [Nix Book](https://github.com/NixOS/nix-book) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
+[Zero to Nix](https://zero-to-nix.com/), [Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/), [nix.dev](https://nix.dev/), [Nix One Pager](https://github.com/tazjin/nix-1p) & [Nix Book](https://github.com/NixOS/nix-book) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
 
 Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell), [statix](https://github.com/nerdypepper/statix), [deploy-rs](https://github.com/serokell/deploy-rs) & [devenv](https://devenv.sh/) are neat.
 
@@ -494,3 +494,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Rime](https://github.com/aakropotkin/rime) - Implements a spec compliant URI parser in pure Nix.
 - [floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin.
 - [Edict](https://github.com/DavHau/edict) - Run nix commands on remote machines.
+- [Zero to Nix](https://zero-to-nix.com/) - Opinionated, gentle introduction to Nix. ([HN](https://news.ycombinator.com/item?id=34490376))

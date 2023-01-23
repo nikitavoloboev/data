@@ -748,3 +748,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [A modular system for isometric pixel blocks](https://c6y.github.io/tilix-reference/) ([HN](https://news.ycombinator.com/item?id=34352133))
 - [Party Corgi Network](https://www.partycorgi.com/) - Community of content creators helping each other grow. ([Discord](https://discord.com/invite/partycorgi))
 - [Generating diagrams programmatically (2023)](https://terrastruct.com/blog/post/generate-diagrams-programmatically/)
+- [Aella Asks Destiny What Aspect Of His Morality Is Inconsistent (2023)](https://www.youtube.com/watch?v=ny5UzlQatN4)

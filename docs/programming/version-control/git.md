@@ -630,3 +630,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [parse-git-diff](https://github.com/yeonjuan/parse-git-diff) - Parse git diff.
 - [Gill](https://github.com/oknozor/gill) - Free and open-source git-service based on ActivityPub and ForgeFed.
 - [Git-Sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command. ([Article](https://initialcommit.com/blog/git-sim)) ([HN](https://news.ycombinator.com/item?id=34477976))
+- [Git Commands You Probably Do Not Need (2023)](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html) ([HN](https://news.ycombinator.com/item?id=34487201))

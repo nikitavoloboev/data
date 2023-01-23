@@ -421,3 +421,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Meeting Cpp - YouTube](https://www.youtube.com/@MeetingCPP/videos)
 - [memorymanager](https://github.com/schulkinator/memorymanager) - Simple, cross-platform, thread-safe heap memory manager for 64bit C++ applications and games.
 - [How to fix safety in C++ (2023)](https://twitter.com/timur_audio/status/1617235997384753155)
+- [New Circle C++ Build](https://github.com/seanbaxter/circle/blob/master/new-circle/README.md) ([HN](https://news.ycombinator.com/item?id=34482684))

@@ -44,3 +44,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Yerba Mate – A Long but Current History](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/) ([HN](https://news.ycombinator.com/item?id=33967335))
 - [Факты о чае](https://twitter.com/pyanibatya/status/1166472155779031041) ([Tweet](https://twitter.com/Umi_no_Iruka/status/1613118439731642368))
 - [Невский Чай](http://neva-tea.ru/)
+- [Tea Quality Question (2023)](https://www.reddit.com/r/nutrition/comments/10invco/tea_quality_question/)
