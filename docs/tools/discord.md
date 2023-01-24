@@ -214,3 +214,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [WidgetBot](https://widgetbot.io/) - Pixel perfect Discord widgets for your website. ([Code](https://github.com/widgetbot-io/embed))
 - [Sign into Discord on Cloudflare Access, powered by Cloudflare Workers](https://github.com/Erisa/discord-oidc-worker)
 - [Discord Forum to Website](https://github.com/domitriusclark/discord-forum-to-website) - Scrape your active and archived threads inside of your Forums channel to SEO configured website.
+- [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and WebSocket compatibility layer for Discord->Revolt.

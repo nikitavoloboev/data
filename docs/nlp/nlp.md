@@ -791,3 +791,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Talking About Large Language Models (2022)](https://www.arxiv-vanity.com/papers/2212.03551/)
 - [Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP (2022)](https://arxiv.org/abs/2212.14024) ([Code](https://github.com/stanfordnlp/dsp))
 - [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations (2022)](https://aclanthology.org/2021.acl-long.72/) ([Code](https://github.com/JohnGiorgi/DeCLUTR))
+- [LangChainHub](https://github.com/hwchase17/langchain-hub) ([Article](https://blog.langchain.dev/langchainhub/))

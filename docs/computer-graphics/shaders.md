@@ -120,3 +120,4 @@ title: Shaders
 - [Shader Sketches](https://github.com/winkerVSbecks/shader-sketches)
 - [twigl.app](https://twigl.app/) - Online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding. ([Code](https://github.com/doxas/twigl))
 - [HLSL Specifications](https://github.com/microsoft/hlsl-specs)
+- [Refraction, dispersion, and other shader light effects (2023)](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)
