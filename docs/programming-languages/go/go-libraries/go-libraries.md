@@ -2018,6 +2018,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Maestro](https://github.com/topfreegames/maestro) - Game server management service, designed to manage multiple game servers fleets in isolated schedulers.
 - [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 - [diff](https://github.com/pkg/diff) - Create, modify, and print diffs.
+- [Merkle](https://github.com/bobg/merkle) - Efficient calculation of merkle roots and proofs.
 
 ## Links
 

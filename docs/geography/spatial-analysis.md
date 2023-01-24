@@ -308,3 +308,4 @@ title: Spatial analysis
 - [GeoServer](https://geoserver.org/) - Open source server for sharing geospatial data. ([Code](https://github.com/geoserver/geoserver))
 - [Fiona](https://github.com/Toblerity/Fiona) - Reads and writes geographic data files.
 - [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program and Bubble Tea Bubble.
+- [MapillaryJS](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery map experiences in the browser, powered by WebGL.

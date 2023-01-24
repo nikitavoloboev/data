@@ -317,3 +317,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [ProcInfo](https://github.com/objective-see/ProcInfo) - Process info/monitoring library for macOS.
 - [How do you know when macOS detects and remediates malware? (2023)](https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/) ([HN](https://news.ycombinator.com/item?id=34249018))
 - [Surprising Consequences of macOS’s Environment Variable Sanitization (2023)](https://hynek.me/articles/macos-dyld-env/) ([HN](https://news.ycombinator.com/item?id=34309530))
+- [Fun with macOS's SIP MetalBear (2023)](https://metalbear.co/blog/fun-with-macoss-sip/)
