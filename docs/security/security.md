@@ -350,3 +350,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [How You Respond to Security Researchers Says Everything About You (2023)](https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/) ([Lobsters](https://lobste.rs/s/qjuqpi/how_you_respond_security_researchers))
 - [SLF Digest](https://slf.fish/)
 - [GPT3 Auditor](https://github.com/handrew/gpt3-auditor) - What if GPT3 could read your code and tell you where it was vulnerable.
+- [Encrypting Data in the Browser Using WebAuthn (2023)](https://blog.millerti.me/2023/01/22/encrypting-data-in-the-browser-using-webauthn/)
+- [About Security Keys for Apple ID](https://support.apple.com/en-us/HT213154) ([HN](https://news.ycombinator.com/item?id=34495879))

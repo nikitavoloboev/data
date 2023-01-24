@@ -41,7 +41,7 @@
 - [HAGL](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded.
 - [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) - Graphics library for all our displays, providing a common set of graphics primitives (points, lines, circles, etc.).
 - [Olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C. ([Demos](https://tsoding.org/olive.c/)) ([HN](https://news.ycombinator.com/item?id=32932631))
-- [Fenster](https://github.com/zserge/fenster) - Most minimal cross-platform GUI library. ([Article](https://zserge.com/posts/fenster/))
+- [Fenster](https://github.com/zserge/fenster) - Most minimal cross-platform GUI library. ([Article](https://zserge.com/posts/fenster/)) ([HN](https://news.ycombinator.com/item?id=34500134))
 - [SDL](https://github.com/libsdl-org/SDL) - Cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 
 ## Test

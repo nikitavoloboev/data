@@ -1,6 +1,6 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and take over the country.
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
 
 Potential reasons why such risky gambit was made could be to [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep [status quo political power](https://twitter.com/ulrichspeck/status/1610247946834178049).
 
@@ -195,3 +195,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [The Hidden Battle that Saved Ukraine (2023)](https://www.youtube.com/watch?v=hh9xT9d6SJU)
 - [UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) - Collection of links to Ukrainian language tools.
 - [Russia Ukraine War Equipment Loss Tracking](https://github.com/leedrake5/Russia-Ukraine) ([Web](https://bleedrake.shinyapps.io/Russia-Ukraine/))
+- [Why Russia Miscalculated in Ukraine: A Self-Inflicted Disaster in Three Acts (2023)](https://www.youtube.com/watch?v=8YkGrKQXZxE)

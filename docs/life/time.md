@@ -64,3 +64,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [TimezoneDB](https://github.com/SynapseTech/TimezoneDB) - Easy, cross-platform method of keeping track of other people's timezones.
 - [Unix time is bad and needs replacement, not UTC (2022)](https://z.vandillen.dev/2022/11/21/unix-time-bad/) ([HN](https://news.ycombinator.com/item?id=33716613))
 - [On Time, Time Zones, and Software (2021)](https://lukasz.medium.com/on-time-time-zones-and-software-6617a4c22d05)
+- [Setting the clock ahead to see what breaks (2023)](https://rachelbythebay.com/w/2023/01/19/time/) ([HN](https://news.ycombinator.com/item?id=34496287))

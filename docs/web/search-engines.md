@@ -318,3 +318,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Инструкции по бытовому каждодневному поиску](https://github.com/soxoj/everyday-search-guide-ru)
 - [FuzzySearch](https://github.com/Syfaro/fuzzysearch) - Site that allows you to reverse image search millions of furry images in under a second.
 - [FuzzySearch OwO](https://github.com/Syfaro/fuzzysearch-owo) - Builds off the technologies (and database) of FuzzySearch to detect reposts of artwork.
+- [Are you indexing the smart way? (2023)](https://blog.meilisearch.com/best-practices-for-faster-indexing/)

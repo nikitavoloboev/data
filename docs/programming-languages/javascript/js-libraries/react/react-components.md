@@ -1,10 +1,10 @@
 # React components
 
-[Ladle](https://github.com/tajo/ladle) is nice tool to develop/share react components. [How to use Props in React](https://www.robinwieruch.de/react-pass-props-to-component/) is a good guide.
+I now am using [Solid](../../js-libraries/solid.md) for all my web apps and static sites, so trying to port many useful components from here to Solid.
 
-I now am using [Solid](../../js-libraries/solid.md) for all my web apps and static sites, so trying to port many useful hooks from here for Solid.
+[React Spectrum](https://github.com/adobe/react-spectrum) & [shadcn UI](https://github.com/shadcn/ui) have quality UI components. [React TS Form](https://github.com/iway1/react-ts-form) is great for form handling.
 
-[React Spectrum](https://github.com/adobe/react-spectrum) has quality UI components. [React TS Form](https://github.com/iway1/react-ts-form) is great for form handling.
+[Ladle](https://github.com/tajo/ladle) seem like nice alternative to [Storybook](https://storybook.js.org/). [How to use Props in React](https://www.robinwieruch.de/react-pass-props-to-component/) is a good read.
 
 ## Notes
 

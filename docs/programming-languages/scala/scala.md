@@ -197,3 +197,4 @@ title: Scala
 - [Scala Puzzlers](https://scalapuzzlers.com/) ([Code](https://github.com/scalapuzzlers/scalapuzzlers.github.com))
 - [Serving 5 Million Chess Games a Day with 125 Volunteers and €5 Donations (2022)](https://www.youtube.com/watch?v=crKNBSpO2_I)
 - [SBT Welcome](https://github.com/reibitto/sbt-welcome) - SBT plugin for displaying a welcome message and commonly used tasks.
+- [It quacks but it’s not a duck structural typing in Scala 3 - Michał Pałka (2022)](https://www.youtube.com/watch?v=0BmuHmjBgNg)

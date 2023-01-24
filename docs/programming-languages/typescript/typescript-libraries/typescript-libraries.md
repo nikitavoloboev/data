@@ -20,7 +20,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [IDB-Keyval](https://github.com/jakearchibald/idb-keyval) - Super-simple-small promise-based keyval store implemented with IndexedDB.
 - [squid](https://github.com/andywer/squid) - SQL tagged template strings and schema definitions for JavaScript & TypeScript.
 - [KVS](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
-- [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder.
+- [Kysely](https://github.com/koskimas/kysely) - Type-safe typescript SQL query builder. ([HN](https://news.ycombinator.com/item?id=34506657))
 - [Kysely Codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generates Kysely type definitions from your database.
 - [Keydb](https://github.com/DjDeveloperr/Keydb) - Simple Key-value storage module with support for multiple database backends.
 - [shapes/core](https://github.com/punchcard/shapes) - Type-safe DSLs and ORMs for TypeScript.

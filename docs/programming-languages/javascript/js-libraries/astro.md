@@ -76,3 +76,4 @@ title: Astro
 - [Radix Icons for Astro](https://github.com/astro-community/icons)
 - [Astro-i18n](https://github.com/Alexandre-Fernandez/astro-i18n) - TypeScript-first internationalization library for Astro.
 - [Astro, React and SolidJS Dancing Together (2022)](https://dev.to/mbarzeev/astro-react-and-solidjs-dancing-together-56oc)
+- [Astro 2.0 (2023)hvh](https://astro.build/blog/astro-2/) ([HN](https://news.ycombinator.com/item?id=34507170))
