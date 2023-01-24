@@ -40,6 +40,8 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Yjs Middleware for Zustand](https://github.com/joebobmiles/zustand-middleware-yjs)
 - [Create React Signals](https://github.com/dai-shi/create-react-signals) - Factory function to create signals for React.
 - [SWR Global State](https://github.com/gadingnst/swr-global-state) - Zero-setup & simple global state management for React Components based on SWR helpers.
+- [Alveron](https://github.com/robinweser/alveron) - Elm & Reason inspired state management for React.
+- [use-valtio](https://github.com/dai-shi/use-valtio) - Custom hook to use Valtio proxy state.
 
 ## DB
 

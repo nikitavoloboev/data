@@ -506,3 +506,4 @@ Awesome List
 - [Gist Database](https://github.com/TimMikeladze/gist-database) - Transform gist into your personal key/value datastore.
 - [New GitHub CLI extension tools (2023)](https://github.blog/2023-01-13-new-github-cli-extension-tools/)
 - [CodeQL path graphs (2023)](https://mechanicalsympathy.nl/posts/codeql-path-graphs/)
+- [Ask HN: When did GitHub replace standard Git commands with the “GitHub CLI?” (2023)](https://news.ycombinator.com/item?id=34489301)

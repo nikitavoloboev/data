@@ -25,3 +25,4 @@
 - [What are some of your favorite purchases you've made for your digital nomading? (2022)](https://www.reddit.com/r/digitalnomad/comments/y40vu9/im_just_getting_into_the_digital_nomad_life_what/)
 - [Best apps and tools for digital nomads (2022)](https://www.reddit.com/r/digitalnomad/comments/zvqw0m/best_apps_and_tools_for_digital_nomads/)
 - [My Minimal and Efficient Digital Nomad Packing Process (2023)](https://journal.valeriansaliou.name/my-minimal-and-efficient-digital-nomad-packing-process/)
+- [Worst place you've ever DN'd? (2023)](https://www.reddit.com/r/digitalnomad/comments/10jrr8y/worst_place_youve_ever_dnd/)

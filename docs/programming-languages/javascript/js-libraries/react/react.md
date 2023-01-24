@@ -364,3 +364,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Reactant](https://github.com/unadlib/reactant) - Framework for building React applications.
 - [Type-safe React Query (2023)](https://tkdodo.eu/blog/type-safe-react-query)
 - [Embedding Our New React UI in Go (2023)](https://www.flipt.io/blog/embedding-react-in-go)
+- [The Joy of React](https://www.joyofreact.com/)

@@ -195,6 +195,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Xain'd Sleena arcade game for MiSTer](https://github.com/MiSTer-devel/Arcade-XSleena_MiSTer)
 - [Sunflower Land](https://github.com/sunflower-land/sunflower-land) - Decentralized and community driven MetaVerse style game.
 - [Emergence](https://github.com/Leafwing-Studios/Emergence) - Organic factory-builder set in a micro-scale, post-apocalyptic future.
+- [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Open reimplementation of Might and Magic 6 7 8 game engine.
 
 ## Awesome games (other)
 
@@ -275,6 +276,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What’s your favorite PlayStation exclusive game? (2022)](https://www.reddit.com/r/PS5/comments/100kuzv/whats_your_favorite_playstation_exclusive_game/)
 - [r/PatientGamers Essential Games List: PC](https://www.reddit.com/r/patientgamers/comments/101kjtz/rpatientgamers_essential_games_list_pc/)
 - [Ask HN: Great text based games to play? (2023)](https://news.ycombinator.com/item?id=34469154)
+- [PS5 Hidden Gems (2023)](https://www.reddit.com/r/PS5/comments/10jgpmd/what_games_are_your_hidden_gems/)
 
 ## Links
 
@@ -417,3 +419,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets)
 - [Echo Games Discord](https://discord.com/invite/echogames)
 - [What’s a line in a video game that made you feel this way?](https://twitter.com/ArkhamNumb/status/1614733996503474176)
+- [Something like zombies but not typical zombies (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10jfocw/something_like_zombies_but_not_typical_zombies/)

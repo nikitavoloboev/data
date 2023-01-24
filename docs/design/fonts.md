@@ -457,3 +457,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Wakamai Fondue](https://wakamaifondue.com/beta/) - Tool that answers the question “what can my font do?”
 - [Fontmatrix](https://github.com/fontmatrix/fontmatrix) - Font management application.
 - [subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts with TrueType or CFF outlines.
+- [Pentiment | Lettermatic (2022)](https://lettermatic.com/custom/pentiment)

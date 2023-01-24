@@ -788,3 +788,6 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Awesome LLM Engineering](https://github.com/rynst/awesome-llm-engineering)
 - [Minimal GPT-NeoX-20B in PyTorch](https://github.com/zphang/minimal-gpt-neox-20b)
 - [Language Models of Code are Few-Shot Commonsense Learners (2022)](https://arxiv.org/abs/2210.07128) ([Code](https://github.com/reasoning-machines/CoCoGen))
+- [Talking About Large Language Models (2022)](https://www.arxiv-vanity.com/papers/2212.03551/)
+- [Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP (2022)](https://arxiv.org/abs/2212.14024) ([Code](https://github.com/stanfordnlp/dsp))
+- [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations (2022)](https://aclanthology.org/2021.acl-long.72/) ([Code](https://github.com/JohnGiorgi/DeCLUTR))

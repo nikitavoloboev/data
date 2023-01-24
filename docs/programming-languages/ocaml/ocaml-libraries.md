@@ -244,6 +244,7 @@ title: OCaml libraries
 - [ocaml-search](https://github.com/patricoferris/ocaml-search) - Simple, in-memory, monomorphic and heterogeneous search indexes in OCaml.
 - [Decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
 - [Idle-Domains](https://github.com/polytypic/idle-domains) - Co-operative allocation of domains for OCaml.
+- [talaria_bibtex](https://github.com/Octachron/talaria_bibtex) - Bibtex file parser.
 
 ## Links
 

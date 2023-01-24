@@ -86,6 +86,7 @@
 - [iCalendar](https://github.com/icalendar/icalendar) - Internet calendaring, Ruby style.
 - [Polars Ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby.
 - [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - Single-process Ruby asynchronous processing library.
+- [Zeitwerk](https://github.com/fxn/zeitwerk) - Efficient and thread-safe code loader for Ruby.
 
 ## Links
 

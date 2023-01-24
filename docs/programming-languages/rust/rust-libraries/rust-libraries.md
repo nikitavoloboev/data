@@ -230,6 +230,8 @@
 - [Retty](https://github.com/retty-io/retty) - Asynchronous Rust networking framework that makes it easy to build protocols, application clients/servers.
 - [may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - Mini HTTP server that implemented on top of may.
 - [Nanoproxy](https://github.com/lily-mara/nanoproxy) - Combination of two protocols - HTTP request proxying and mDNS advertisements.
+- [Zino](https://github.com/photino/zino) - Full-featured web application framework for Rust.
+- [hyperlocal](https://github.com/softprops/hyperlocal) - Hyper client and server bindings for Unix domain sockets.
 
 ## Auth
 
@@ -273,6 +275,7 @@
 - [cargo wasi](https://github.com/bytecodealliance/cargo-wasi) - Lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target.
 - [wasm-sockets](https://github.com/scratchyone/wasm-sockets) - Rust WASM-specific WebSocket library.
 - [Wasmer Pack](https://github.com/wasmerio/wasmer-pack) - Import your WebAssembly code just like any other dependency.
+- [wasi_snapshot_preview1](https://github.com/bytecodealliance/preview2-prototyping) - Polyfill adapter for preview1-using wasm modules to call preview2 functions.
 
 ## GUI
 
@@ -719,6 +722,7 @@
 - [eciesrs](https://github.com/ecies/rs) - Elliptic Curve Integrated Encryption Scheme for secp256k1.
 - [Sponge](https://github.com/arkworks-rs/sponge) - Library for cryptographic sponges.
 - [halo2curves](https://github.com/privacy-scaling-explorations/halo2curves) - BN256 pairing library that implements original traits from zkcrypto.
+- [halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) - Consist of a simple PLONK gate and non native arithmetic based applications.
 
 ## Linux
 
@@ -821,6 +825,7 @@
 - [stm32-data](https://github.com/embassy-rs/stm32-data) - Produce clean machine-readable data about the STM32 microcontroller families.
 - [bl602-hal](https://github.com/sipeed/bl602-hal) - Hardware Abstract Layer for BL602 RISC-V WiFi SoC in embedded Rust.
 - [USRs](https://github.com/ktemkin/usrs) - Pure-rust library for working with USB devices.
+- [esp8266-hal](https://github.com/esp-rs/esp8266-hal) - Hardware abstraction layer for the esp8266 written in Rust.
 
 ## ML
 
@@ -2566,6 +2571,10 @@
 - [VPlugin](https://github.com/VPlugin/VPlugin) - Plugin framework for Rust.
 - [Geodesy](https://github.com/busstoptaktik/geodesy) - Platform for experiments with geodetic software, transformations, and standards.
 - [BumpSlab](https://github.com/jkelleyrtp/bumpslab) - Bump allocator with reusable slots.
+- [tokio-pipe](https://github.com/yskszk63/tokio-pipe) - Asynchronous pipe library using tokio.
+- [fd-lock](https://github.com/yoshuawuyts/fd-lock) - Cross-platform file locks using file descriptors.
+- [rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - BK-tree implementation in Rust.
+- [serde-hashkey](https://github.com/udoprog/serde-hashkey) - Space efficient, in-memory serde serialization which supports hashing.
 
 ## Cargo Plugins
 

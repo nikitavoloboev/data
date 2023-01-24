@@ -160,6 +160,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [notitap](https://github.com/sereneinserenade/notitap) - Pro version of Notion like editor built on top of Tiptap.
 - [Monaco Editor Wrapper](https://github.com/CodinGame/monaco-editor-wrapper)
 - [lighter](https://github.com/code-hike/lighter) - Syntax highlighter used by Code Hike.
+- [VZCode](https://github.com/vizhub-core/vzcode) - Multiplayer code editor system.
 
 ## Notes
 

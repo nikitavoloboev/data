@@ -160,3 +160,4 @@
 - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/) ([Lobsters](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems))
 - [Simple Scaffold](https://github.com/chenasraf/simple-scaffold) - Generate any set of files in the easiest way possible with simple commands.
 - [Enigma](https://github.com/aegistudio/enigma) - Simple cross-platform encrypted file system. ([HN](https://news.ycombinator.com/item?id=34474039))
+- [FDUPES](https://github.com/adrianlopezroche/fdupes) - Program for identifying duplicate files residing within specified directories.

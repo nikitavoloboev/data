@@ -482,3 +482,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Video Features](https://github.com/v-iashin/video_features) - Extract video features from raw videos using multiple GPUs.
 - [Fast video rendering and encoding using web APIs (2023)](https://pietrasiak.com/fast-video-rendering-and-encoding-using-web-apis)
 - [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube live stream downloader.
+- [Napari Live Recording](https://github.com/jacopoabramo/napari-live-recording) - Napari plugin for live video recording with a generic camera device and generate a stack of TIFF images from said device.

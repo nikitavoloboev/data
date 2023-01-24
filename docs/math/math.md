@@ -430,3 +430,4 @@
 - [Ask HN: Math books that made you significantly better at math? (2023)](https://news.ycombinator.com/item?id=34439828)
 - [Pattern theory: the mathematics of perception (2022)](https://arxiv.org/abs/math/0212400) ([HN](https://news.ycombinator.com/item?id=34470799))
 - [The Point Of The Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn) ([HN](https://news.ycombinator.com/item?id=34482226))
+- [What are some of your favorite math texts on "fun" or highly specific topics, rather than larger topics? (2023)](https://www.reddit.com/r/math/comments/10jek56/what_are_some_of_your_favorite_math_texts_on_fun/)

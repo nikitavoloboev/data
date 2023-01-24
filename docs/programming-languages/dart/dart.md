@@ -57,3 +57,4 @@ title: Dart
 - [The road to Dart 3: A fully sound, null safe language (2022)](https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa) ([HN](https://news.ycombinator.com/item?id=33908134))
 - [Crimson](https://github.com/simc/crimson) - Fast, efficient and easy-to-use JSON parser and serializer for Dart.
 - [sembast](https://github.com/tekartik/sembast.dart) - NoSQL persistent embedded file system document-based database for Dart VM and Flutter with encryption support.
+- [Pub](https://github.com/dart-lang/pub) - Package manager for Dart. ([Solver](https://github.com/dart-lang/pub/blob/master/doc/solver.md))

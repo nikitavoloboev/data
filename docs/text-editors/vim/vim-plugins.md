@@ -132,6 +132,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Undotree](https://github.com/mbbill/undotree) - Undo history visualizer.
 - [Aerojump](https://github.com/ripxorip/aerojump.nvim) - Fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation.
 - [Tabular](https://github.com/godlygeek/tabular) - Text filtering and alignment.
+- [Codeium](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim.
 - [vim-ultest](https://github.com/rcarriga/vim-ultest) - Ultimate testing plugin for (Neo)Vim.
 - [Easyclip](https://github.com/svermeulen/vim-easyclip) - Simplified clipboard functionality.
 - [Yank stack](https://github.com/maxbrunsfeld/vim-yankstack) - Lightweight implementation of emacs's kill-ring for Vim.

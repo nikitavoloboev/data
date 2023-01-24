@@ -2,9 +2,9 @@
 
 Most important thing I always try to be mindful of is keeping straight back (no slouching). Good chair / standing desk is super useful in that regard. As well as taking breaks walking/cycling or doing some sport. Straight back with some kind of [exercise](../fitness/exercises.md) daily should be enough to keep my body healthy for long time I think. I try to do some kind of [strength training](../fitness/strength-training.md) workout weekly too.
 
-I use [Herman Miller Embody with standing desk](https://esgaming.hermanmiller.com/collections/all/products/silla-para-videojuegos-embody-herman-miller-y-logitech-g-negro) I like. I try work with clean air around whether its from the open windows or by being outside. 
+I use [Herman Miller Embody with standing desk](https://esgaming.hermanmiller.com/collections/all/products/silla-para-videojuegos-embody-herman-miller-y-logitech-g-negro) I like. I try work with clean air around whether its from the open windows or by being outside.
 
-I can't stand working on chairs that don't let me relax my spine properly. If I do it often enough I actually get pains in the back. 
+I can't stand working on chairs that don't let me relax my spine properly. If I do it often enough I actually get pains in the back.
 
 Together with above, I try do many [exercises](../fitness/exercises.md) that target my back muscles. [Here](https://www.reddit.com/r/Posture/comments/t7guck/fix_your_spine_a_goldmine_of_practices_for_better/) is a list of many great exercises for this.
 
@@ -24,6 +24,7 @@ I found when I don't have proper table/chair to work from it's not as bad to wor
 - [Cosm](https://twitter.com/UltraLinx/status/1435985680207843336)
 - [Steelcase Think](https://www.steelcase.com/products/office-chairs/think/) ([Tweet](https://twitter.com/stroughtonsmith/status/1451604715817603076))
 - [Favorite office chairs (2021)](https://twitter.com/mjackson/status/1453815791707582485)
+- [Aeris Swopper](https://en.aeris.de/products/aeris-swopper-wollmischung-capture-gruen)
 
 ## Standing desks
 

@@ -218,3 +218,4 @@ title: Terraform
 - [Tfstate](https://github.com/alex067/tfstate) - Wrapper around Terraform state commands to provide guard rails.
 - [Terrateam](https://terrateam.io/) - Terraform Automation for Teams.
 - [Terranix](https://terranix.org/) - Terraform in nix.
+- [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow.

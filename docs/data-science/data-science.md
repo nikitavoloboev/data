@@ -276,3 +276,4 @@
 - [Take the tools out of 'Data', but don't take the data out of the tools (2023)](https://csvbase.com/blog/1)
 - [Kaggle Python docker image](https://github.com/Kaggle/docker-python)
 - [Data Science Cookie Cutter for Prefect](https://github.com/khuyentran1401/data-science-template)
+- [Time series resources](https://github.com/lmmentel/awesome-time-series)

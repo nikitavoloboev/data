@@ -66,3 +66,4 @@ title: Tauri
 - [Vite Tauri Plugin](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [Tauri Global Hotkey](https://github.com/amrbashir/global-hotkey) - Global hotkeys for Desktop Applications.
 - [Tauri SQL Plugin](https://github.com/tauri-apps/tauri-plugin-sql)
+- [nsis-tauri-utils](https://github.com/tauri-apps/nsis-tauri-utils) - Collection of NSIS plugins written in rust.

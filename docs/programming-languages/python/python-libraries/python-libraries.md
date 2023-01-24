@@ -240,6 +240,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [mincePy](https://github.com/muhrin/mincepy) - Object storage with versioning made simple.
 - [Graphene-SQLAlchemy](https://github.com/graphql-python/graphene-sqlalchemy) - SQLAlchemy integration for Graphene.
 - [yhttp-pony](https://github.com/yhttp/yhttp-pony) - Pony ORM extension for yhttp.
+- [greendb](https://github.com/coleifer/greendb) - Lightweight server (and Python client) for symas lmdb.
 
 ## WebSocket
 
@@ -356,6 +357,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [HypoFuzz](https://github.com/Zac-HD/hypofuzz) - Adaptive fuzzing of Hypothesis tests.
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python.
 - [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
+- [pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - Pytest plugin for pretty printing the test summary.
 
 ## Error
 
@@ -1128,6 +1130,8 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [chemcoord](https://github.com/mcocdawc/chemcoord) - Python module for manipulating cartesian and internal coordinates.
 - [bcpandas](https://github.com/yehoshuadimarsky/bcpandas) - High-level wrapper around BCP for high performance data transfers between pandas and SQL Server.
 - [routingpy](https://github.com/gis-ops/routingpy) - Python library to access all public routing, isochrones and matrix APIs in a consistent manner.
+- [rele](https://github.com/mercadona/rele) - Easy to use Google Pub/Sub.
+- [tsflex](https://github.com/predict-idlab/tsflex) - Flexible time series feature extraction & processing.
 
 ## Notes
 

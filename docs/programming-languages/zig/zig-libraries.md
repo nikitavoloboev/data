@@ -162,6 +162,8 @@
 - [zasp](https://github.com/fengb/zasp) - Streaming parser.
 - [zig-csv](https://github.com/beho/zig-csv) - Low-level CSV parser library for Zig.
 - [libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Zig bindings to libpcre.
+- [zigpb](https://github.com/mlugg/zigpb) - Simple Protobuf encoder and decoder in Zig.
+- [Zig Tree Formattar](https://github.com/speed2exe/tree-fmt) - Colored tree-like formatter for Zig.
 
 ## Links
 

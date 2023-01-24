@@ -364,3 +364,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [appy](https://github.com/appy-js/appy) - Fully featured web framework for Deno.
 - [Mess](https://github.com/denosaurs/mess) - Modern, broker-agnostic message queue for use in a distributed environment.
 - [Endofunctor](https://github.com/mimiMonads/functor) - Functional router for Deno.
+- [Rutt](https://github.com/denosaurs/rutt) - Tiny and fast http request router designed for use with deno and deno deploy.

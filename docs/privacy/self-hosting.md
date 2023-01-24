@@ -56,3 +56,4 @@
 - [Most used selfhosted services in 2022?](https://www.reddit.com/r/selfhosted/comments/zwcns3/most_used_selfhosted_services_in_2022/)
 - [Ask HN: What's on your home server? (2023)](https://news.ycombinator.com/item?id=34271167)
 - [What do you regret trying to self host and why? (2023)](https://www.reddit.com/r/selfhosted/comments/10da4yi/what_do_you_regret_trying_to_selfhost_and_why/)
+- [Ask HN: Self-hosting in 2023: Nextcloud on Linode, or...? (2023)](https://news.ycombinator.com/item?id=34503176)

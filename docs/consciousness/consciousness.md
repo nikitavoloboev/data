@@ -1,6 +1,6 @@
 # Consciousness
 
-Consciousness is fascinating. [Joscha Bach](https://www.youtube.com/results?search_query=joscha+bach+consciousness) & [Stanislav Grof](https://www.youtube.com/results?search_query=Stanislav+Grof+) had some interesting things to say about it.
+Consciousness is fascinating. [Joscha Bach](https://www.youtube.com/watch?v=ApHnqHfFWBk) has some interesting things to say about it.
 
 I practice self reflection (via [journaling](../life/journaling.md)) & [meditation](../mindfulness/meditation.md) (walks in nature) to get a deeper awareness of myself and my surroundings.
 
@@ -91,3 +91,4 @@ I practice self reflection (via [journaling](../life/journaling.md)) & [meditati
 - [Some people who appear to be in a coma may be conscious](https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/) ([HN](https://news.ycombinator.com/item?id=33299419))
 - [Roger Penrose: "Consciousness must be beyond computable physics." (2022)](https://www.youtube.com/watch?v=TfouEFuB-co)
 - [Consciousness's ability to 'merge' and 'unmerge'](https://twitter.com/nosilverv/status/1596092796724994049)
+- [From Language to Consciousness (Guest: Joscha Bach) (2022)](https://www.youtube.com/watch?v=ApHnqHfFWBk)

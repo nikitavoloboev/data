@@ -480,6 +480,8 @@
 - [CTHASH](https://github.com/hanickadot/cthash) - Compile Time Hash. Constexpr implementation of SHA-2 family of hashes.
 - [Celerity Runtime](https://github.com/celerity/celerity-runtime) - High-level C++ for Accelerator Clusters.
 - [Algorithm](https://github.com/boostorg/algorithm) - Boost.org algorithm module.
+- [polymorphic_value](https://github.com/jbcoe/polymorphic_value) - Polymorphic value-type for C++.
+- [Proxy](https://github.com/microsoft/proxy) - Easy Polymorphism in C++.
 
 ## Links
 

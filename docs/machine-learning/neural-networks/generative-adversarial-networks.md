@@ -4,6 +4,8 @@ title: Generative adversarial networks
 
 # [Generative adversarial networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
+[StyleGAN-T](https://arxiv.org/abs/2301.09515) is interesting.
+
 ## Links
 
 - [Introduction to GANs, NIPS 2016 | Ian Goodfellow](https://www.youtube.com/watch?v=9JpdAg6uMXs)
@@ -235,3 +237,4 @@ title: Generative adversarial networks
 - [Unified Source-Filter GAN with Harmonic-plus-Noise Source Excitation Generation (2022)](https://arxiv.org/abs/2205.06053) ([Code](https://github.com/chomeyama/HN-UnifiedSourceFilterGAN))
 - [JoliGAN: Image-to-Image Translation with GANs and Diffusion for Real-World Applications](https://github.com/jolibrain/joliGAN)
 - [Diffusion-GAN: Training GANs with Diffusion (2022)](https://arxiv.org/abs/2206.02262) ([Code](https://github.com/Zhendong-Wang/Diffusion-GAN))
+- [StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis (2023)](https://arxiv.org/abs/2301.09515) ([Code](https://github.com/autonomousvision/stylegan-t))

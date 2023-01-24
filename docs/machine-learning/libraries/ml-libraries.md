@@ -460,3 +460,5 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - Functional programming interface for building AI systems.
 - [D-Adaptation](https://github.com/facebookresearch/dadaptation) - D-Adaptation for SGD, Adam and AdaGrad.
 - [BBopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization made easy.
+- [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) - Bayesian marketing toolbox in PyMC. Media Mix, CLV models and more.
+- [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with scikit-learn regressors.

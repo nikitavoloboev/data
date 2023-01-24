@@ -519,3 +519,5 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Music Mixing Style Transfer](https://github.com/jhtonyKoo/music_mixing_style_transfer)
 - [Common Lisp and Music Composition](https://ldbeth.sdf.org/articles/cm.html)
 - [Msanii: High Fidelity Music Synthesis on a Shoestring Budget (2023)](https://arxiv.org/abs/2301.06468) ([Code](https://github.com/Kinyugo/msanii))
+- [Oilcan](https://github.com/zjb-s/oilcan) - Monophonic digital-style percussion voice.
+- [sempra](https://github.com/zjb-s/sempra) - Dynamic melody sequencer.

@@ -357,6 +357,9 @@
 - [ACFlow](https://github.com/huangli712/ACFlow) - Full-Fledged Analytical Continuation Toolkit in Julia.
 - [Quantum Dynamics](https://github.com/amartyabose/QuantumDynamics) - Quantum dynamics simulation environment.
 - [QuantumClifford.jl](https://github.com/Krastanov/QuantumClifford.jl) - Clifford circuits, graph states, and other quantum Stabilizer formalism tools.
+- [GreenFunc](https://github.com/numericalEFT/GreenFunc.jl) - Differentiable numerical framework to manipulate multidimensional Green's functions.
+- [NumericalEFT](https://github.com/numericalEFT/NumericalEFT.jl) - Numerical effective field theory toolbox for quantum many-body problem.
+- [Lehmann](https://github.com/numericalEFT/Lehmann.jl) - Compact Spectral Representation for Imaginary-time/Matsubara-frequency Green's Functions.
 
 ## LaTeX
 
@@ -817,6 +820,7 @@
 - [GraphMakie](https://github.com/MakieOrg/GraphMakie.jl) - Plotting graphs with Makie.
 - [Crystals](https://github.com/mdavezac/Crystals.jl) - Atomic crystal structures for Julia.
 - [IsDef](https://github.com/jolin-io/IsDef.jl) - Maintainable type inference.
+- [MCIntegration](https://github.com/numericalEFT/MCIntegration.jl) - Robust and fast Monte Carlo algorithm for high dimension integration.
 
 ## Links
 

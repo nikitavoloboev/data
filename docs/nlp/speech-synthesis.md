@@ -108,3 +108,4 @@
 - [This Voice Doesn't Exist – Generative Voice AI (2023)](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/) ([HN](https://news.ycombinator.com/item?id=34361651))
 - [Autotone](https://github.com/alexcrist/autotone) - Vocal pitch correction web application, like Autotune. ([HN](https://news.ycombinator.com/item?id=34396303))
 - [Voice Cloning Model with Zero-Shot Attention-Based TTS](https://github.com/MartinMashalov/VoiceCloning)
+- [ElevenLabs | Speech Synthesis](https://beta.elevenlabs.io/speech-synthesis)

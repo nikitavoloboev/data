@@ -420,3 +420,5 @@ title: WebAssembly
 - [WebAssembly Opcode Table](https://pengowray.github.io/wasm-ops/) - Chart of WebAssembly Instructions. ([Code](https://github.com/pengowray/wasm-ops))
 - [Web49](https://github.com/FastVM/Web49) - WebAssembly Interpreter and Toolkit in C. ([HN](https://news.ycombinator.com/item?id=34310395))
 - [WasmEdge Reqwest Demo](https://github.com/WasmEdge/wasmedge_reqwest_demo)
+- [function-runner](https://github.com/Shopify/function-runner) - Run Wasm Functions intended for the Shopify Functions infrastructure.
+- [I/O Types proposal for WASI](https://github.com/WebAssembly/wasi-io)

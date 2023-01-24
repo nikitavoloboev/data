@@ -912,3 +912,6 @@ title: Kubernetes
 - [Vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources.
 - [KubeVela Workflow](https://github.com/kubevela/workflow) - Declarative Workflow of KubeVela which can run as standalone.
 - [Namespace](https://github.com/namespacelabs/foundation) - Application development platform that helps you manage your development, testing, and production workflows, in a consistent and unified way.
+- [kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes without Kubelet - Simulates thousands of Nodes and Clusters.
+- [sealos](https://github.com/labring/sealos) - Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications.
+- [OpenID Connect Webhook Authenticator for Kubernetes](https://github.com/gardener/oidc-webhook-authenticator)

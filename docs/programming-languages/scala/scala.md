@@ -196,3 +196,4 @@ title: Scala
 - [sbt-scalafix](https://github.com/scalacenter/sbt-scalafix) - sbt plugin for Scalafix.
 - [Scala Puzzlers](https://scalapuzzlers.com/) ([Code](https://github.com/scalapuzzlers/scalapuzzlers.github.com))
 - [Serving 5 Million Chess Games a Day with 125 Volunteers and €5 Donations (2022)](https://www.youtube.com/watch?v=crKNBSpO2_I)
+- [SBT Welcome](https://github.com/reibitto/sbt-welcome) - SBT plugin for displaying a welcome message and commonly used tasks.

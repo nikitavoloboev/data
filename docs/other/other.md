@@ -749,3 +749,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Party Corgi Network](https://www.partycorgi.com/) - Community of content creators helping each other grow. ([Discord](https://discord.com/invite/partycorgi))
 - [Generating diagrams programmatically (2023)](https://terrastruct.com/blog/post/generate-diagrams-programmatically/)
 - [Aella Asks Destiny What Aspect Of His Morality Is Inconsistent (2023)](https://www.youtube.com/watch?v=ny5UzlQatN4)
+- [Ask HN: What is the weirdest or most surreal recent technology you have seen? (2023)](https://news.ycombinator.com/item?id=34502566)

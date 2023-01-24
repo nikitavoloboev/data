@@ -207,3 +207,4 @@
 - [Rath](https://github.com/Kanaries/Rath) - Automated data exploratory analysis and visualization tools.
 - [Inviwo](https://github.com/inviwo/inviwo) - Interactive Visualization Workshop.
 - [Population Pyramids of the World](https://www.populationpyramid.net/)
+- [plotly_resampler](https://github.com/predict-idlab/plotly-resampler) - Visualize large sequential data by adding resampling functionality to Plotly figures.

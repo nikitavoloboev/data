@@ -25,6 +25,7 @@
 - [Apache Pekko](https://github.com/apache/incubator-pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala.
 - [Slinky](https://github.com/shadaj/slinky) - Write Scala React apps just like you would in ES6.
 - [Calico](https://github.com/armanbilge/calico) - Build reactive web applications in Scala.js with Cats Effect, FS2, and friends.
+- [netty-http4s](https://github.com/http4s/http4s-netty) - Http4s on pure netty.
 
 ## CLI
 
@@ -232,6 +233,7 @@
 - [eff](https://github.com/atnos-org/eff) - Eff monad for cats.
 - [Choam](https://github.com/durban/choam) - Experiments with composable lock-free concurrency.
 - [Yin-Yang](https://github.com/scala-yinyang/scala-yinyang) - Library for deep embedding of DSLs based on Scala macros.
+- [ZIO Process](https://github.com/zio/zio-process) - ZIO library for interacting with external processes and command-line programs.
 
 ## Links
 

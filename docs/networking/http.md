@@ -321,3 +321,4 @@ title: HTTP
 - [HTTPie AI (2023)](https://httpie.io/blog/ai)
 - [Peeking into HTTPS Traffic with a Proxy (2022)](https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy)
 - [Killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go.
+- [A Short, Totally Unofficial, History of Port Numbers in Web Development (2023)](https://blog.jim-nielsen.com/2023/short-history-of-port-numbers/)

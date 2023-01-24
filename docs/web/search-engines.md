@@ -316,3 +316,5 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Asterism](https://github.com/mateonunez/asterism) - CLI that provides a set of tools to build a Lyra instance from your favorite database. ([Article](https://mateonunez.dev/blog/asterism-the-bf-of-lyra))
 - [fast-fuzzy](https://github.com/EthanRutherford/fast-fuzzy) - Fast fuzzy-search utility in JS.
 - [Инструкции по бытовому каждодневному поиску](https://github.com/soxoj/everyday-search-guide-ru)
+- [FuzzySearch](https://github.com/Syfaro/fuzzysearch) - Site that allows you to reverse image search millions of furry images in under a second.
+- [FuzzySearch OwO](https://github.com/Syfaro/fuzzysearch-owo) - Builds off the technologies (and database) of FuzzySearch to detect reposts of artwork.

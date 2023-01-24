@@ -326,3 +326,4 @@
 - [Reverse Engineering a Neural Network's Clever Solution to Binary Addition](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/) ([HN](https://news.ycombinator.com/item?id=34399142))
 - [10 Days Of Grad: Deep Learning From The First Principles](https://github.com/masterdezign/10-days-of-grad)
 - [Neural Networks and the Chomsky Hierarchy (2022)](https://arxiv.org/abs/2207.02098) ([HN](https://news.ycombinator.com/item?id=34485631))
+- [Sizing Up Neural Nets](https://jott.live/markdown/nn_sizing)

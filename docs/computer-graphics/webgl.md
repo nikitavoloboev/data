@@ -125,3 +125,4 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) library. [Here](ht
 - [3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library.
 - [Summer Afternoon - WebGL Experiment](https://summer-afternoon.vlucendo.com/) ([HN](https://news.ycombinator.com/item?id=34461808))
 - [MathBox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing.
+- [Personal WebGL notes](https://github.com/agviegas/learning-webgl)

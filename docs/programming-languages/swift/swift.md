@@ -326,3 +326,4 @@ title: Swift
 - [A Tour through Swift Attributes (2022)](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)
 - [Using Swift for Scripting (2019)](https://rderik.com/blog/using-swift-for-scripting/) ([HN](https://news.ycombinator.com/item?id=34265566))
 - [Visual Studio Code Development Container for Swift](https://github.com/swift-server/swift-dev-container)
+- [MUD game using Swift and NIO framework](https://www.youtube.com/playlist?list=PLhUrOtMlcKDAa0_WYh_J4vQ6Lzw0DvLLK) ([Code](https://github.com/maartene/NIOSwiftMUD))

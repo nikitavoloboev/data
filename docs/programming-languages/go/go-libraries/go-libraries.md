@@ -2017,6 +2017,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [gostream](https://github.com/edaniels/gostream) - Library to simplify the streaming of images as video and audio chunks to audio to a series of WebRTC peers.
 - [Maestro](https://github.com/topfreegames/maestro) - Game server management service, designed to manage multiple game servers fleets in isolated schedulers.
 - [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
+- [diff](https://github.com/pkg/diff) - Create, modify, and print diffs.
 
 ## Links
 

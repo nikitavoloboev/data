@@ -1104,6 +1104,8 @@
 - [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) - Hast utility to transform a tree to preact, react, solid, svelte, vue, etc., with an automatic JSX runtime.
 - [Graph](https://github.com/datastructures-js/graph) - Graph & Directed Graph implementation in JS.
 - [User-Routine](https://github.com/CoryLR/user-routine) - JavaScript library to automate user routines on web pages.
+- [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript.
+- [Origami](https://github.com/robbykraft/Origami) - JavaScript library for modeling origami.
 
 ## Links
 

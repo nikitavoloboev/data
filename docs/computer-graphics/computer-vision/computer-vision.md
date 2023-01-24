@@ -2,7 +2,7 @@
 
 [LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch). [Kornia](https://github.com/kornia/kornia) & [Scenic](https://github.com/google-research/scenic) seem like great libraries. [Imagen](https://github.com/lucidrains/imagen-pytorch) is fascinating.
 
-[Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/) is a nice read.
+[Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/) & [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) are nice reads.
 
 [Rerun](https://www.rerun.io/) is great CV visualization tool.
 
@@ -1112,3 +1112,6 @@
 - [Learned reconstructions for practical mask-based lensless imaging](https://waller-lab.github.io/LenslessLearning/) ([Code](https://github.com/Waller-Lab/LenslessLearning))
 - [NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos (2022)](https://arxiv.org/abs/2210.12352) ([Code](https://github.com/gaoalexander/neuphysics))
 - [Domain Expansion of Image Generators (2023)](https://arxiv.org/abs/2301.05225) ([Code](https://github.com/adobe-research/domain-expansion))
+- [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/)
+- [Reversible Column Networks (2022)](https://arxiv.org/abs/2212.11696) ([Code](https://github.com/megvii-research/RevCol))
+- [Rethinking Text Segmentation: A Novel Dataset and A Text-Specific Refinement Approach (2021)](https://arxiv.org/abs/2011.14021) ([Code](https://github.com/SHI-Labs/Rethinking-Text-Segmentation))

@@ -179,3 +179,4 @@
 - [Ask HN: Do you test in production? (2023)](https://news.ycombinator.com/item?id=34384656)
 - [Maestro](https://maestro.mobile.dev/) - Simplest and most effective mobile UI testing framework.
 - [An unexpected benefit of unit tests (2023)](https://matthewc.dev/musings/unit-tests/) ([HN](https://news.ycombinator.com/item?id=34467523))
+- [Hermione](https://github.com/gemini-testing/hermione) - Browser test runner based on mocha and wdio.

@@ -764,6 +764,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [shiki-es](https://github.com/unjs/shiki-es) - Standalone build of shiki fully compatible with all ESM environments.
 - [good-dag](https://github.com/isaacs/good-dag) - Expandable append-only immutable directed acyclic graph using linked lists.
 - [sysinfo](https://github.com/Brooooooklyn/sysinfo) - System information.
+- [Gesto](https://github.com/daybrush/gesto) - Set up drag, pinch events in any browser.
 
 ## Links
 

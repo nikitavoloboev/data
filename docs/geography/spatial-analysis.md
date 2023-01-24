@@ -306,3 +306,5 @@ title: Spatial analysis
 - [polars_gdal](https://github.com/phayes/polars_gdal) - Read GDAL compatible file formats into polars / geopolars.
 - [splot](https://github.com/pysal/splot) - Lightweight plotting for geospatial analysis in PySAL.
 - [GeoServer](https://geoserver.org/) - Open source server for sharing geospatial data. ([Code](https://github.com/geoserver/geoserver))
+- [Fiona](https://github.com/Toblerity/Fiona) - Reads and writes geographic data files.
+- [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program and Bubble Tea Bubble.

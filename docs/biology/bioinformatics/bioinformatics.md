@@ -282,3 +282,4 @@ title: Bioinformatics
 - [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)
 - [Ankh](https://github.com/agemagician/Ankh) - Optimized Protein Language Model Unlocks General-Purpose Modelling.
 - [Gotree](https://github.com/evolbioinfo/gotree) - Set of command line tools and an API to manipulate phylogenetic trees.
+- [biopix](https://github.com/arpandaze/biopix) - 3D Protein Structure Visualizer Built with Rust.

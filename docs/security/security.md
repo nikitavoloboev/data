@@ -349,3 +349,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [offsec.tools](https://offsec.tools/) - Vast collection of security tools.
 - [How You Respond to Security Researchers Says Everything About You (2023)](https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/) ([Lobsters](https://lobste.rs/s/qjuqpi/how_you_respond_security_researchers))
 - [SLF Digest](https://slf.fish/)
+- [GPT3 Auditor](https://github.com/handrew/gpt3-auditor) - What if GPT3 could read your code and tell you where it was vulnerable.

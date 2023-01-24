@@ -404,6 +404,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Andrea Mete](http://andreamete.com/) ([IG](https://www.instagram.com/andreamete/))
 - [Dan Otis](https://www.instagram.com/danotis/)
 - [Chantal Convertini](https://www.instagram.com/paeulini/)
+- [Vazgen Harutyunyan](https://www.instagram.com/vazgi/)
 - [David Ignaz](https://www.instagram.com/davidignaz/) ([Web](https://www.davidignaz.com/))
 - [Evgeny Feldman](https://www.feldmanphotography.com/) ([IG](https://www.instagram.com/evgenyfeldman/))
 - [Tyler Mitchell](https://www.instagram.com/tylersphotos/)

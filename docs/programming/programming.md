@@ -649,3 +649,4 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Locality of Behavior is important](https://htmx.org/essays/locality-of-behaviour/)
 - [Benchmarking Gone Wrong (2013)](https://www.youtube.com/watch?v=vm1GJMp0QN4&t=1069s)
 - [Examples of problems with integers (2023)](https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/)
+- [Sources of Complexity: Constraints (2023)](https://www.hillelwayne.com/post/complexity-constraints/) ([Lobsters](https://lobste.rs/s/ncec23/sources_complexity_constraints))

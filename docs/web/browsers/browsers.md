@@ -278,3 +278,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [For your next side project, make a browser extension (2023)](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html) ([HN](https://news.ycombinator.com/item?id=34391619)) ([Lobsters](https://lobste.rs/s/e8w5bd/for_your_next_side_project_make_browser))
 - [Can I Use Data](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com.
 - [Browser Extension Template](https://github.com/Debdut/browser-extension)
+- [ActGPT](https://github.com/yihui-he/ActGPT) - Chat bot that controls browser. ([Tweet](https://twitter.com/he_yi_hui/status/1617328366876786688))

@@ -446,3 +446,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [stale-dep](https://github.com/sxzz/stale-dep) - Check if your node_modules is stale.
 - [http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.
 - [Building Reliable Distributed Systems in Node.js (2023)](https://temporal.io/blog/building-reliable-distributed-systems-in-node) ([HN](https://news.ycombinator.com/item?id=34462105))
+- [Node calls Python](https://github.com/hmenyus/node-calls-python) - Call Python from NodeJS directly in-process without spawning processes.
