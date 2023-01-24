@@ -1397,6 +1397,7 @@
 - [Compress NIO](https://github.com/adam-fowler/compress-nio) - Compression/Decompression support for Swift NIO ByteBuffer.
 - [JavaScriptCoreExt](https://github.com/js-play/JavaScriptCoreExt) - Adds more functionality to the built-in JavaScriptCore framework by exposing some new APIs.
 - [CodeEditLanguages](https://github.com/CodeEditApp/CodeEditLanguages) - Collection of Tree-Sitter Parsers for Syntax Highlighting.
+- [y-uniffi](https://github.com/y-crdt/y-uniffi) - Yrs UniFFI Language Binding.
 
 ## Other (not lib)
 
