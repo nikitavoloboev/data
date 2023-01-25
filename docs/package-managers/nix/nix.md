@@ -495,3 +495,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin.
 - [Edict](https://github.com/DavHau/edict) - Run nix commands on remote machines.
 - [Zero to Nix](https://zero-to-nix.com/) - Opinionated, gentle introduction to Nix. ([HN](https://news.ycombinator.com/item?id=34490376)) ([Lobsters](https://lobste.rs/s/kf3xym/introducing_zero_nix)) ([Code](https://github.com/DeterminateSystems/zero-to-nix))
+- [runix](https://github.com/timbertson/runix) - Run nix software without installing nix.

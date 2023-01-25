@@ -177,6 +177,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [EuraliOS](https://github.com/bendudson/EuraliOS) - Hobby x86-64 operating system written in Rust.
 - [LakeOS](https://github.com/vincenthouyi/LakeOS) - L4-like micro-kernel OS written in Rust.
 - [BetaOS](https://github.com/admkopec/BetaOS) - Operating system written in Swift.
+- [HellOS](https://github.com/andrewrk/HellOS) - Bare bones "hello world" i386 kernel written in Zig.
 
 ## Notes
 

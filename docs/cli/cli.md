@@ -62,6 +62,7 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [ran](https://github.com/m3ng9i/ran) - Simple static web server written in Go.
 - [mcfly](https://github.com/cantino/mcfly) - Fast visual command history search.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Excellent command-line benchmarking tool.
+
 ## Notes
 
 - Look into [gh cli](https://github.com/cli/cli) for example of a well designed CLI. The `-h` is amazing.
@@ -234,3 +235,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [Commands.dev](https://www.commands.dev/) - Find commands at the speed of thought. ([Code](https://github.com/warpdotdev/commands.dev))
 - [sudo at home](https://github.com/Xe/xn--ts9h) ([HN](https://news.ycombinator.com/item?id=34454165))
 - [CSView](https://github.com/hymkor/csview) - Simple CSV viewer/editor.
+- [Flagon](https://github.com/Pondidum/Flagon) - Feature Flags from your CLI.

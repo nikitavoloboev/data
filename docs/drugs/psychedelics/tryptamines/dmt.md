@@ -133,3 +133,4 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 - [DMT Guide Reddit](https://www.reddit.com/r/dmtguide/)
 - [DMT(s) Analysis Compilation](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=950490)
 - [Any consequences of doing DMT every day?](https://www.reddit.com/r/Drugs/comments/107eztr/any_consequences_of_doing_dmt_everyday/)
+- [Has anyone asked an entity who the true God is?](https://www.reddit.com/r/DMT/comments/10kjtkh/has_anyone_asked_an_entity_who_the_true_god_is/)

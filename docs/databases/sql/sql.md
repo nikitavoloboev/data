@@ -241,3 +241,5 @@ title: SQL
 - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md) ([Lobsters](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch))
 - [Atlas v0.9: SQL as a First-Class Citizen (2023)](https://atlasgo.io/blog/2023/01/05/atlas-v090)
 - [API Mismatch: Why bolting SQL onto noSQL is a bad idea (2023)](https://www.chrisarmstrong.dev/posts/api-mismatch--why-bolting-sql-onto-nosql-is-a-bad-idea) ([HN](https://news.ycombinator.com/item?id=34347183))
+- [QueryScript](https://github.com/qscl/queryscript) - SQL compiler that supports higher order abstractions and compiles to your favorite databases.
+- [Electric](https://github.com/electric-sql/electric) - Local-first SQL platform.

@@ -74,3 +74,4 @@ title: Caddy
 - [Caddy HTTP Rate Limit Module](https://github.com/mholt/caddy-ratelimit)
 - [Caddy Git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2.
 - [HTTPS Reverse Proxy: Caddy Outperforms Nginx 4x (2022)](https://manishrjain.com/reverse-proxy-caddy-nginx) ([HN](https://news.ycombinator.com/item?id=33725154))
+- [Caddy s3browser](https://github.com/techknowlogick/caddy-s3browser) - Caddy plugin to generate file indexes of S3 buckets to browse via Web Client.

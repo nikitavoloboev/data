@@ -2019,6 +2019,10 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 - [diff](https://github.com/pkg/diff) - Create, modify, and print diffs.
 - [Merkle](https://github.com/bobg/merkle) - Efficient calculation of merkle roots and proofs.
+- [WardleyToGo](https://github.com/owulveryck/wardleyToGo) - Create your WardleyMaps as code/data and render it as SVG.
+- [binstruct](https://github.com/ghostiam/binstruct) - Go binary decoder for mapping data into the structure.
+- [conv](https://github.com/tidwall/conv) - Convert primitive types.
+- [OpenAPI Go](https://github.com/swaggest/openapi-go) - OpenAPI structures for Go.
 
 ## Links
 

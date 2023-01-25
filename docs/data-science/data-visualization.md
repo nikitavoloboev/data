@@ -208,3 +208,5 @@
 - [Inviwo](https://github.com/inviwo/inviwo) - Interactive Visualization Workshop.
 - [Population Pyramids of the World](https://www.populationpyramid.net/)
 - [plotly_resampler](https://github.com/predict-idlab/plotly-resampler) - Visualize large sequential data by adding resampling functionality to Plotly figures.
+- [Lyra](https://github.com/vega/lyra) - Interactive, graphical Visualization Design Environment.
+- [Olli](https://github.com/mitvis/olli) - Screen Reader Accessibility for Data Visualization.

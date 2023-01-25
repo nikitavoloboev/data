@@ -67,3 +67,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [ChatGPT in an iOS Shortcut – Worlds Smartest HomeKit Voice Assistant (2023)](https://matemarschalko.medium.com/chatgpt-in-an-ios-shortcut-worlds-smartest-homekit-voice-assistant-9a33b780007a) ([HN](https://news.ycombinator.com/item?id=34475005))
 - [ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view) ([HN](https://news.ycombinator.com/item?id=34503723))
 - [GPT is all you need for the back end](https://github.com/TheAppleTucker/backend-GPT) ([HN](https://news.ycombinator.com/item?id=34503418))
+- [GPT-3 chatbot with long-term memory and external sources](https://github.com/daveshap/LongtermChatExternalSources)

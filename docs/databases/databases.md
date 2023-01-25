@@ -763,3 +763,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [CaskDB](https://github.com/avinassh/go-caskdb) - Build your own disk based KV store in Go.
 - [Query Graphs](https://tableau.github.io/query-graphs/) - Visualizer for queries - Hyper, Postgres, Tableau. ([Code](https://github.com/tableau/query-graphs))
 - [Building a Simple DB in Rust (2023)](https://johns.codes/blog/build-a-db/part01) ([Part 2](https://johns.codes/blog/build-a-db/part02))
+- [cder](https://github.com/estie-inc/cder) - Lightweight, simple database seeding tool for Rust.

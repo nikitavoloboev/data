@@ -650,3 +650,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg_background](https://github.com/vibhorkum/pg_background) - Postgres Background Worker.
 - [Nano ID for PostgreSQL](https://github.com/viascom/nanoid-postgres)
 - [pgperms](https://github.com/SnoozeThis-org/pgperms) - Declarative PostgreSQL permissions as code.
+- [pgscripts](https://github.com/afiskon/pgscripts) - Scripts related to PostgreSQL development.
+- [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression.

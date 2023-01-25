@@ -486,3 +486,4 @@
 - [Mozilla Specification Positions](https://mozilla.github.io/standards-positions/) ([Code](https://github.com/mozilla/standards-positions))
 - [Awesome Web Development Resources](https://web-dev-resources.com/#/) ([Code](https://github.com/markodenic/web-development-resources))
 - [Runtime Keys](https://runtime-keys.proposal.wintercg.org/) ([Code](https://github.com/wintercg/runtime-keys))
+- [DriftDB](https://github.com/drifting-in-space/driftdb) - Real-time data backend for browser-based applications. ([Web](https://driftdb.com/))

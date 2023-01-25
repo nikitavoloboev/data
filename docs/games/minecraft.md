@@ -154,3 +154,4 @@ title: Minecraft
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Tool to display an overview of a Minecraft world, without actually creating it.
 - [Lodestone](https://github.com/Lodestone-Team/lodestone) - Free, open source server hosting tool for Minecraft and other multiplayers.
 - [Minecraft server optimization guide](https://github.com/YouHaveTrouble/minecraft-optimization)
+- [Maximum Performance Launch Flags for Minecraft Server](https://github.com/hilltty/hilltty-flags)

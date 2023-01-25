@@ -295,6 +295,7 @@
 - [PureLayout](https://github.com/PureLayout/PureLayout) - Extends UIView/NSView, NSArray, and NSLayoutConstraint with a comprehensive Auto Layout API that is modeled after Apple's own frameworks.
 - [Beeline](https://github.com/TimOliver/Beeline) - Small library that aims to provide a lean, automatic implementation of the classic iOS router pattern.
 - [DynamicIslandUtilities](https://github.com/theblixguy/DynamicIslandUtilities) - Collection of utilities that provides functionality around the Dynamic Island.
+- [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 
 ## macOS
 

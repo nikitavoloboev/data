@@ -243,6 +243,7 @@
 - [PolyChaos](https://github.com/SciML/PolyChaos.jl) - Orthogonal Polynomials, Quadrature, and Polynomial Chaos.
 - [ParallelRandomFields.jl](https://github.com/luraess/ParallelRandomFields.jl) - Efficient multi-XPU parallel random field generator for large 2D and 3D problems.
 - [NaNMath](https://github.com/JuliaMath/NaNMath.jl) - Julia math built-ins which return NaN and accumulator functions which ignore NaN.
+- [GenericArpack.jl](https://github.com/dgleich/GenericArpack.jl) - Pure Julia translation of the Arpack library for eigenvalues and eigenvectors but for any numeric types.
 
 ## NLP
 

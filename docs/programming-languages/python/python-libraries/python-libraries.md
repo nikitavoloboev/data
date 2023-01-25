@@ -358,6 +358,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python.
 - [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - Pytest plugin for pretty printing the test summary.
+- [pytest-subtests](https://github.com/pytest-dev/pytest-subtests) - Unittest subTest() support and subtests fixture.
 
 ## Error
 
@@ -1132,6 +1133,9 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [routingpy](https://github.com/gis-ops/routingpy) - Python library to access all public routing, isochrones and matrix APIs in a consistent manner.
 - [rele](https://github.com/mercadona/rele) - Easy to use Google Pub/Sub.
 - [tsflex](https://github.com/predict-idlab/tsflex) - Flexible time series feature extraction & processing.
+- [dyvider](https://github.com/jg-you/dyvider) - Dynamic programming algorithms for exact linear clustering in networks.
+- [rBloom](https://github.com/kenbyte/rbloom) - Fast, simple and lightweight Bloom filter library for Python, fully implemented in Rust.
+- [beetrace](https://github.com/furkanonder/beetrace) - Trace your python process line by line with low overhead.
 
 ## Notes
 

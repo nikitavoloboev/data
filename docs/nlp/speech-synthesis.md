@@ -109,3 +109,4 @@
 - [Autotone](https://github.com/alexcrist/autotone) - Vocal pitch correction web application, like Autotune. ([HN](https://news.ycombinator.com/item?id=34396303))
 - [Voice Cloning Model with Zero-Shot Attention-Based TTS](https://github.com/MartinMashalov/VoiceCloning)
 - [ElevenLabs | Speech Synthesis](https://beta.elevenlabs.io/speech-synthesis)
+- [Praat](https://github.com/praat/praat) - Speech analysis tool used for doing phonetics by computer. ([Web](https://www.fon.hum.uva.nl/praat/))

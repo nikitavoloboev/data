@@ -1,10 +1,12 @@
 # Artificial intelligence
 
-I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI) as it gives a nice overview of what symbiosis of AI with humans can look like. Language models like [DALL·E](https://openai.com/blog/dall-e/) are fascinating. I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that can eventually solve this problem as LA will know in a lot of detail which knowledge do you actually have. No other company is tracking this.
+I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk) on evolution of AI and how it relates to understanding [consciousness](../consciousness/consciousness.md).
 
-[On the Measure of Intelligence](https://twitter.com/alexkowsik/status/1518602848421961730) is a good read. [Bleeding Edge AI](https://bleedingedge.ai/) is nice way to stay up to date.
+[Language models](../nlp/nlp.md) like [DALL·E](https://openai.com/blog/dall-e/) and [Midjourney](https://www.midjourney.com/) are fascinating. I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that hopefully eventually solves this problem as it will know in a lot of detail which knowledge you have and your preferences in learning.
 
-[Andrej Karpathy](https://github.com/karpathy) does amazing work in ML. His [interview with Lex](https://www.youtube.com/watch?v=cdiD-9MMpb0) was insightful. Transformer ML models as described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762) are very useful.
+[On the Measure of Intelligence](https://twitter.com/alexkowsik/status/1518602848421961730) is a good read. [Bleeding Edge AI](https://bleedingedge.ai/) is nice way to stay up to date on AI.
+
+[Andrej Karpathy](https://github.com/karpathy) does amazing work in ML. His [interview with Lex](https://www.youtube.com/watch?v=cdiD-9MMpb0) and his [Neural Networks: Zero to Hero course](https://github.com/karpathy/nn-zero-to-hero) were insightful. Transformer ML models as described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762) are very useful.
 
 [Midjourney](https://www.midjourney.com/) & [ChatGPT](chatgpt.md) are my favorite uses of AI right now.
 
@@ -184,3 +186,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Mastering Diverse Domains through World Models (2023)](https://arxiv.org/abs/2301.04104v1) ([Code](https://github.com/lucidrains/dreamerv3-pytorch))
 - [The Next button (2023)](https://maxhodak.com/nonfiction/2023/01/14/the-next-button.html) ([Tweet](https://twitter.com/maxhodak_/status/1614413993275437056))
 - [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit)
+- [AI Product Index](https://github.com/dair-ai/AI-Product-Index) - Curated index to track AI-powered products.

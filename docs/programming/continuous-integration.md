@@ -109,3 +109,4 @@
 - [Continuous Benchmarking, Done Right](https://github.com/asayers/cbdr) - Run benchmarks as part of your continuous integration ⇒ automatically flag MRs which regress performance.
 - [Feature Flags in a CI Pipeline (2023)](https://andydote.co.uk/2023/01/16/feature-flags-ci/) ([HN](https://news.ycombinator.com/item?id=34409878))
 - [Open source Python project CI pipeline (2023)](https://brntn.me/blog/open-source-python-ci/) ([Lobsters](https://lobste.rs/s/9t7qtu/open_source_python_project_ci_pipeline))
+- [An Ideal CI/CD System (2022)](https://matt-rickard.com/an-ideal-ci-cd-system)

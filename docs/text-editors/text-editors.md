@@ -256,3 +256,4 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Bike: Innovative Rich Text Editing (2022)](https://www.hogbaysoftware.com/posts/bike-rich-text/) ([HN](https://news.ycombinator.com/item?id=33489123))
 - [Codux](https://www.codux.com/) - Visual IDE for React.
 - [Gem](https://www.dropgem.app/) - Add images, audio notes, drawings and more in any text editor.
+- [TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage) - TextMate grammar files for TypeScript for VS Code, Sublime Text.

@@ -792,3 +792,6 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP (2022)](https://arxiv.org/abs/2212.14024) ([Code](https://github.com/stanfordnlp/dsp))
 - [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations (2022)](https://aclanthology.org/2021.acl-long.72/) ([Code](https://github.com/JohnGiorgi/DeCLUTR))
 - [LangChainHub](https://github.com/hwchase17/langchain-hub) ([Article](https://blog.langchain.dev/langchainhub/))
+- [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing.
+- [Dust](https://dust.tt/) - Design and Deploy Large Language Models Apps. ([Code](https://github.com/dust-tt/dust)) ([Twitter](https://twitter.com/dust4ai))
+- [Awesome papers on Language-Model-as-a-Service (LMaaS)](https://github.com/txsun1997/LMaaS-Papers)

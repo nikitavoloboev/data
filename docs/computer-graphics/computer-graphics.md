@@ -268,3 +268,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Ask HN: What software was used to make 90s cutscenes? (2023)](https://news.ycombinator.com/item?id=34305515)
 - [Mesh Processing Resources](https://github.com/QiujieDong/Mesh_Segmentation)
 - [Rendering in Camera Space(ish) (2018)](https://pharr.org/matt/blog/2018/03/02/rendering-in-camera-space)
+- [Teardown Frame Teardown (2023)](https://acko.net/blog/teardown-frame-teardown/)

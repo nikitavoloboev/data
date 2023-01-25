@@ -156,3 +156,4 @@
 - [Common Lisp: 2022 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/) ([HN](https://news.ycombinator.com/item?id=34321090))
 - [Clozure Common Lisp Wiki](https://github.com/Clozure/ccl/wiki)
 - [SLT](https://github.com/Enerccio/SLT) - Common Lisp Language Plugin for Jetbrains IDE Lineup. ([HN](https://news.ycombinator.com/item?id=34388369))
+- [LMDB bindings for Common Lisp](https://github.com/antimer/lmdb)

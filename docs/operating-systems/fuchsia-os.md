@@ -26,3 +26,4 @@ title: Fuchsia OS
 - [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation) ([HN](https://news.ycombinator.com/item?id=30827210))
 - [A Kernel Hacker Meets Fuchsia OS (2022)](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/) ([HN](https://news.ycombinator.com/item?id=31497827))
 - [FuchsiAware](https://github.com/google/fuchsiaware) - Fuchsia Source Tree Browsing Assistance.
+- [A Kernel Hacker Meets Fuchsia OS | Alexander Popov (2022)](https://www.youtube.com/watch?v=TZz-cbPp2uc)

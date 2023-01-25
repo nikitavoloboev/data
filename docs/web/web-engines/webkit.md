@@ -36,3 +36,4 @@ title: WebKit
 - [WebKit Quirks.cpp](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp) ([HN](https://news.ycombinator.com/item?id=33207685))
 - [Rust-Darwin-WebKit](https://github.com/yamadapc/rust-darwin-webkit) - Bindings to some of the WebKit's API on MacOS for Rust.
 - [WebKit Features in Safari 16.2 (2022)](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
+- [Fast JavaScript-to-WASM Call from FTL in WebKit](https://github.com/WebKit/WebKit/pull/8607) ([HN](https://news.ycombinator.com/item?id=34511840))

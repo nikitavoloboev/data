@@ -173,3 +173,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [Keyboard layout evaluation](https://github.com/bclnr/kb-layout-evaluation)
 - [Shift Happens](https://shifthappens.site/) - Book about keyboards. ([Newsletter](https://newsletter.shifthappens.site/))
 - [Yet another keyboard post, or, introducing ErgoNICE (2023)](https://val.packett.cool/blog/ergonice/) ([Lobsters](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing))
+- [Compare split keyboards](https://jhelvy.github.io/splitKbCompare/) ([Code](https://github.com/jhelvy/splitKbCompare))

@@ -61,3 +61,4 @@
 - [The End of Windows Software (2022)](https://hardcoresoftware.learningbyshipping.com/p/103-end-of-windows-software) ([Tweet](https://twitter.com/stevesi/status/1584226645149638656))
 - [WinSafe](https://github.com/rodrigocfd/winsafe) - Windows API and GUI in safe, idiomatic Rust.
 - [Windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
+- [Wine 8.0 (2023)](https://www.winehq.org/announce/8.0) ([HN](https://news.ycombinator.com/item?id=34505239))

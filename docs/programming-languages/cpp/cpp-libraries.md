@@ -105,6 +105,7 @@
 ## ML
 
 - [ML++](https://github.com/novak-99/MLPP) - Library created to revitalize C++ as a machine learning front end.
+- [Tensor](https://github.com/thenumbernine/Tensor) - Differential Geometry Tensor Library.
 
 ## Math
 

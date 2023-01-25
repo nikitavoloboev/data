@@ -386,7 +386,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [A Smarter, Dumb Breadcrumb (2019)](https://jjenzz.com/smarter-dumb-breadcrumb)
 - [Compound Components (2019)](https://jjenzz.com/compound-components)
 - [react-scanner](https://github.com/moroshko/react-scanner) - Statically analyzes the given code (TypeScript supported) and extracts React components and props usage.
-- [Refine](https://refine.dev/) - React-based framework for building data-intensive applications in no time. ([Code](https://github.com/pankod/refine))
+- [Refine](https://refine.dev/) - React-based framework for building data-intensive applications in no time. ([Code](https://github.com/refinedev/refine)) ([HN](https://news.ycombinator.com/item?id=34515128))
 - [Good React charting libraries (2021)](https://twitter.com/gill_kyle/status/1448321353870757888)
 - [Converting a React component to TypeScript (2021)](https://dev.to/mbarzeev/converting-a-react-component-to-typescript-15cl)
 - [Agrippa](https://github.com/NitzanHen/agrippa) - React CLI for component generation.

@@ -125,3 +125,4 @@ I do like the distinction of distributing content over distributing links. Each 
 - [GraphSync](https://github.com/retrieval-markets-lab/rs-graphsync) - IPFS data transfer protocol used across the IPFS and Web3 ecosystem for exchanging IPLD data.
 - [Autoretrieve](https://github.com/application-research/autoretrieve) - Server to make GraphSync data accessible on IPFS.
 - [IPFS client for Deno](https://github.com/deno-libs/ipfs)
+- [go-libipfs](https://github.com/ipfs/go-libipfs) - Library for building IPFS implementations.

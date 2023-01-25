@@ -16,6 +16,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Create T3 Turbo with Clerk Authentication](https://github.com/clerkinc/t3-turbo-and-clerk)
 - [Create T3 App](https://github.com/t3-oss/create-t3-app) - NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth.
 - [Next 13 Pocketbase Demo](https://github.com/fireship-io/next13-pocketbase-demo)
+- [Next Radix Tailwind template](https://github.com/shadcn/next-template)
 - [Dub](https://dub.sh/) - Open-Source Bitly Alternative. ([Code](https://github.com/steven-tey/dub)) ([HN](https://news.ycombinator.com/item?id=32939407)) ([Tweet](https://twitter.com/steventey/status/1572958186667233282))
 - [Linktree](https://github.com/leerob/linktree) - Linktree Clone! (Next.js, React, Tailwind CSS). ([Video](https://www.youtube.com/watch?v=eFzNekhVhmM))
 - [Slug](https://github.com/pheralb/slug) - URL shortener built with T3 Stack: Nextjs 13 + Tailwind CSS + Typescript + tRPC (9) + NextAuth.js & Prisma.

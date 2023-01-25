@@ -174,3 +174,4 @@ title: Speech recognition
 - [ArchiSound](https://github.com/archinetai/archisound) - Collection of pre-trained audio models, in PyTorch.
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper.
 - [Whisper.cpp example running fully in the browser](https://whisper.ggerganov.com/) ([HN](https://news.ycombinator.com/item?id=34484937))
+- [Mesostructures: Beyond Spectrogram Loss in Differentiable Time-Frequency Analysis (2023)](https://arxiv.org/abs/2301.10183) ([Code](https://github.com/cyrusvahidi/meso-dtfa))

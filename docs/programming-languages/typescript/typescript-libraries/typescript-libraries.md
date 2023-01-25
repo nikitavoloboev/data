@@ -140,6 +140,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## Auth
 
 - [jwt-cache](https://github.com/ForbesLindesay/jwt-cache) - Cache an async function for generating a JSON Web Token.
+- [oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications.
 
 ## Animation
 
@@ -765,6 +766,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [good-dag](https://github.com/isaacs/good-dag) - Expandable append-only immutable directed acyclic graph using linked lists.
 - [sysinfo](https://github.com/Brooooooklyn/sysinfo) - System information.
 - [Gesto](https://github.com/daybrush/gesto) - Set up drag, pinch events in any browser.
+- [GROQZ](https://github.com/stipsan/groqz) - Transforms GROQ strings to zod schemas in your TypeScript codebase.
 
 ## Links
 

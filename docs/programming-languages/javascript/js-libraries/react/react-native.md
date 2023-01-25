@@ -344,3 +344,5 @@ title: React Native
 - [React Native Reactions](https://github.com/SimformSolutionsPvtLtd/react-native-reactions) - React Native animated reaction picker component.
 - [React Native Track Player](https://github.com/doublesymmetry/react-native-track-player) - Fully fledged audio module created for music apps.
 - [Showtime Tab View](https://github.com/showtime-xyz/showtime-tab-view) - React Native component that supports a collapsible header and custom refresh control.
+- [React Native Plaid](https://github.com/cawfree/react-native-use-plaid) - Hooks for Plaid open banking on React Native.
+- [React Native QR Code SVG](https://github.com/exzos28/react-native-qrcode-svg)

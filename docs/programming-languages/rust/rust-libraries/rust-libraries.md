@@ -276,6 +276,7 @@
 - [wasm-sockets](https://github.com/scratchyone/wasm-sockets) - Rust WASM-specific WebSocket library.
 - [Wasmer Pack](https://github.com/wasmerio/wasmer-pack) - Import your WebAssembly code just like any other dependency.
 - [wasi_snapshot_preview1](https://github.com/bytecodealliance/preview2-prototyping) - Polyfill adapter for preview1-using wasm modules to call preview2 functions.
+- [WasmBox](https://github.com/drifting-in-space/wasmbox) - Turns running Rust code into a serializable data structure.
 
 ## GUI
 
@@ -2575,6 +2576,9 @@
 - [fd-lock](https://github.com/yoshuawuyts/fd-lock) - Cross-platform file locks using file descriptors.
 - [rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - BK-tree implementation in Rust.
 - [serde-hashkey](https://github.com/udoprog/serde-hashkey) - Space efficient, in-memory serde serialization which supports hashing.
+- [rxing](https://github.com/hschimke/rxing) - Barcode library in pure rust.
+- [mtzip](https://github.com/JohnTheCoolingFan/mtzip) - Rust library for making zip files, focused on multithreading the process.
+- [axoasset](https://github.com/axodotdev/axoasset) - Load, write, and copy remote and local assets.
 
 ## Cargo Plugins
 
@@ -2690,6 +2694,7 @@
 - [cargo-cabal](https://github.com/yvan-sraka/cargo-cabal) - Tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
 - [cargo-config2](https://github.com/taiki-e/cargo-config2) - Load and resolve Cargo configuration.
 - [cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package.
+- [cargo-manifest](https://github.com/LukeMathWalker/cargo-manifest) - Fork of cargo_toml to fix some issues for cargo-chef.
 
 ## Notes
 
@@ -2889,3 +2894,4 @@
 - [Easy-Release](https://github.com/jkelleyrtp/cargo-easy-release) - GUI tool written in Dioxus to make it easy to release a workspace of crates to crates.io.
 - [What are some less popular but well-made crates you'd like others to know about? (2023)](https://www.reddit.com/r/rust/comments/106w4ao/what_are_some_less_popular_but_wellmade_crates/)
 - [Aya Template](https://github.com/aya-rs/aya-template) - Cargo-generate template for Rust eBPF Projects using Aya.
+- [Packaging Rust Applications for the NPM Registry (2023)](https://blog.orhun.dev/packaging-rust-for-npm/)

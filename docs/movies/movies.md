@@ -194,3 +194,5 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [SciFi movies better than the book (2023)](https://www.reddit.com/r/scifi/comments/10file1/the_movie_was_better_than_the_book/)
 - [Movie you'd love to see again for first time (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10h76ns/what_movie_did_you_like_so_much_you_wish_you/)
 - [Movies where ""Every frame is a painting" (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10i7kvv/movies_where_every_frame_is_a_painting/)
+- [Best films with a positive message/outlook (2023)](https://www.reddit.com/r/criterion/comments/10knf98/best_films_with_a_positive_messageoutlook/)
+- [(1) What are some films from the last 10 years or so that you think will be considered classics in the future? (2023)](https://www.reddit.com/r/criterion/comments/10kdda8/what_are_some_films_from_the_last_10_years_or_so/)

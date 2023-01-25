@@ -232,3 +232,5 @@
 - [Database of 200k cell images yields new mathematical framework (2023)](https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells) ([HN](https://news.ycombinator.com/item?id=34266683))
 - [Fashion IQ dataset](https://github.com/XiaoxiaoGuo/fashion-iq)
 - [City2BA](https://github.com/tkonolige/city2ba) - Tools for generating synthetic bundle adjustment datasets.
+- [Toolbox for HuMMan Dataset](https://github.com/caizhongang/humman_toolbox)
+- [Datasets for deep learning with satellite & aerial imagery](https://github.com/satellite-image-deep-learning/datasets)

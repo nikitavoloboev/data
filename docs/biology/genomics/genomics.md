@@ -241,3 +241,4 @@ title: Genomics
 - [gos](https://github.com/gosling-lang/gos) - Declarative library for Python designed to create interactive multi-scale visualizations of genomics and epigenomics data.
 - [bap](https://github.com/caleblareau/bap) - Bead-based scATAC-seq data Processing.
 - [mgatk](https://github.com/caleblareau/mgatk) - Mitochondrial genome analysis toolkit.
+- [Falco](https://github.com/smithlabcode/falco) - C++ drop-in replacement of FastQC to assess the quality of sequence read data.

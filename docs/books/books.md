@@ -634,3 +634,5 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [I don't read web articles anymore, but I read books (2023)](https://news.ycombinator.com/item?id=34309671)
 - [EPUB 3 Samples](http://idpf.github.io/epub3-samples/) ([Code](https://github.com/IDPF/epub3-samples))
 - [Doc Search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3.
+- [Konjer](https://www.konjer.xyz/) - Turning books into chatbots with GPT-3. ([HN](https://news.ycombinator.com/item?id=34509335))
+- [I “wrote” a kid's book with ChatGPT and Midjourney](https://adventure-of-penelope.vercel.app/) ([HN](https://news.ycombinator.com/item?id=34514480))

@@ -296,3 +296,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [How to learn using NixOS? (2023)](https://www.reddit.com/r/NixOS/comments/10dsx63/how_to_learn_using_nixos/)
 - [The NixOS “settings” option: when and how to use it (2023)](https://zimbatm.com/notes/the-nixos-settings-option-when-and-how-to-use-it) ([Lobsters](https://lobste.rs/s/aja2hg/nixos_settings_option_when_how_use_it))
 - [Announcing nixos-rebuild: a "new" deployment tool for NixOS (2023)](https://www.haskellforall.com/2023/01/announcing-nixos-rebuild-new-deployment.html)
+- [nh](https://github.com/viperML/nh) - Reimplements some basic NixOS commands.

@@ -1115,3 +1115,6 @@
 - [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/)
 - [Reversible Column Networks (2022)](https://arxiv.org/abs/2212.11696) ([Code](https://github.com/megvii-research/RevCol))
 - [Rethinking Text Segmentation: A Novel Dataset and A Text-Specific Refinement Approach (2021)](https://arxiv.org/abs/2011.14021) ([Code](https://github.com/SHI-Labs/Rethinking-Text-Segmentation))
+- [Long-tail Detection with Effective Class-Margins (2022)](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680684.pdf) ([Code](https://github.com/janghyuncho/ECM-Loss))
+- [Diffusion-SDF: Text-to-Shape via Voxelized Diffusion (2022)](https://arxiv.org/abs/2212.03293) ([Code](https://github.com/ttlmh/Diffusion-SDF))
+- [Learning 3D-aware Image Synthesis with Unknown Pose Distribution (2023)](https://arxiv.org/abs/2301.07702) ([Code](https://github.com/VivianSZF/pof3d))

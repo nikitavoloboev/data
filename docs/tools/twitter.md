@@ -225,7 +225,7 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [How you can reach 0 to 1000 followers on Twitter quickly](https://devvnomad.notion.site/How-you-can-reach-0-to-1000-followers-on-Twitter-quickly-928cef4051e2454290549f53303e791a)
 - [Awesome Modern Twitter API](https://github.com/andypiper/awesome-modern-twitter-api)
 - [Twitter web has nice shortcuts](https://twitter.com/ossia/status/1533448928242417666)
-- [Tweak New Twitter](https://github.com/insin/tweak-new-twitter/) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline.
+- [Tweak New Twitter](https://github.com/insin/tweak-new-twitter/) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline. ([HN](https://news.ycombinator.com/item?id=34499615))
 - [Static twitter embed](https://ianmuchina.com/blog/12-tweet-embed/) ([Lobsters](https://lobste.rs/s/owbvhi/static_twitter_embed))
 - [Twitter Video Downloader](https://twitter-video-download.com/)
 - [memory.lol](https://github.com/travisbrown/memory.lol) - Tiny web service that provides historical information about social media accounts. ([Private](https://github.com/travisbrown/memory.lol-private))
@@ -323,3 +323,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter Blue data](https://github.com/travisbrown/blue)
 - [Twitter Bio Generator](https://www.twitterbio.com/) ([Code](https://github.com/Nutlope/twitterbio))
 - [BirdsiteLIVE](https://github.com/NicolasConstant/BirdsiteLive) - ActivityPub bridge from Twitter.
+- [Twitter Video Tools](https://github.com/code-yeongyu/TwitterVideoTools) - Multi-processing supported twitter video downloader.

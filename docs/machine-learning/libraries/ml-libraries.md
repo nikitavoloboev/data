@@ -462,3 +462,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [BBopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization made easy.
 - [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) - Bayesian marketing toolbox in PyMC. Media Mix, CLV models and more.
 - [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with scikit-learn regressors.
+- [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models.
