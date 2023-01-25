@@ -300,3 +300,4 @@ Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/lib
 - [sqlite-xsv](https://github.com/asg017/sqlite-xsv) - Fastest CSV SQLite extension, written in Rust. ([Intro](https://observablehq.com/@asg017/introducing-sqlite-xsv))
 - [Capacitor SQLite](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases.
 - [HC-tree](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html) - Prototype for write concurrently in SQLite. ([HN](https://news.ycombinator.com/item?id=34434025))
+- [SQLite-based databases on the Postgres protocol (2023)](https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65) ([HN](https://news.ycombinator.com/item?id=34517474))

@@ -162,3 +162,4 @@
 - [Datacore](https://github.com/blacksmithgu/datacore) - High-performance data index and query language over Markdown files.
 - [goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) - Extension for goldmark Markdown parser adding support for parsing and rendering wikilinks.
 - [parsedown](https://github.com/rodneylab/parsedown) - WASM code for parsing Markdown into HTML with light output tweaking.
+- [MDRB](https://github.com/andrewbrey/mdrb) - Turn your Markdown documentation into executable runbooks.

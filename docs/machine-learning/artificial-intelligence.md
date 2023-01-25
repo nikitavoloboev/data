@@ -1,6 +1,6 @@
 # Artificial intelligence
 
-I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk) on evolution of AI and how it relates to understanding [consciousness](../consciousness/consciousness.md).
+I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk) on evolution of AI and how it relates to understanding of [consciousness](../consciousness/consciousness.md).
 
 [Language models](../nlp/nlp.md) like [DALL·E](https://openai.com/blog/dall-e/) and [Midjourney](https://www.midjourney.com/) are fascinating. I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that hopefully eventually solves this problem as it will know in a lot of detail which knowledge you have and your preferences in learning.
 
