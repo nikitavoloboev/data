@@ -243,3 +243,4 @@ title: SQL
 - [API Mismatch: Why bolting SQL onto noSQL is a bad idea (2023)](https://www.chrisarmstrong.dev/posts/api-mismatch--why-bolting-sql-onto-nosql-is-a-bad-idea) ([HN](https://news.ycombinator.com/item?id=34347183))
 - [QueryScript](https://github.com/qscl/queryscript) - SQL compiler that supports higher order abstractions and compiles to your favorite databases.
 - [Electric](https://github.com/electric-sql/electric) - Local-first SQL platform.
+- [Replacing a SQL analyst with 26 recursive GPT prompts (2023)](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/) ([HN](https://news.ycombinator.com/item?id=34521149))

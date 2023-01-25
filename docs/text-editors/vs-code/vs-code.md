@@ -87,3 +87,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VS Code Sandboxing (2022)](https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox)
 - [Making Remote Development Even Better (2022)](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
 - [VS Code's schemas](https://github.com/wraith13/vscode-schemas)
+- [Configuring VSCode as a Keyboard-Centric IDE (2023)](https://davi.sh/blog/2023/01/vscode-like-emacs/) ([Lobsters](https://lobste.rs/s/xqlzax/configuring_vscode_as_keyboard_centric))

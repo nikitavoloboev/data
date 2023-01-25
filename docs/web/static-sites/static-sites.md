@@ -2,6 +2,8 @@
 
 I use [SolidJS](../../programming-languages/javascript/js-libraries/solid.md) for all my websites published on [Netlify](https://www.netlify.com/).
 
+[Astro](../../programming-languages/javascript/js-libraries/astro.md) is great too.
+
 [tinypages](https://github.com/Borrus-sudo/tinypages), [Eleventy](eleventy.md), [Hugo](hugo.md), [Capri](https://capri.build/) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
 
 I liked [this article](https://sabrinajewson.org/blog/building-this-site) on building a minimal static site generator in Rust.

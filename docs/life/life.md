@@ -158,3 +158,4 @@ For me personally the end goal and purpose is ultimate freedom. Doing what I lov
 - [Robin Williams' Speech | Good Will Hunting](https://www.youtube.com/watch?v=8GY3sO47YYo)
 - [Four thousand weeks](https://leebyron.com/4000/) ([HN](https://news.ycombinator.com/item?id=34385766))
 - [Photos capture life inside a drop of seawater](https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/) ([HN](https://news.ycombinator.com/item?id=34439525))
+- [Ask HN: What are we even chasing? (2023)](https://news.ycombinator.com/item?id=34519487)

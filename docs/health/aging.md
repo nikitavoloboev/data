@@ -8,6 +8,8 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 
 Like the advice of: [try everything, figure out what you do best, make money from it. Stop caring what people think about you early](https://www.tiktok.com/@_notesformen/video/7167063418308971781). I try define these kind of [rules and more for myself](../focusing/rules.md).
 
+[Blueprint](https://blueprint.bryanjohnson.co/) has interesting ideas.
+
 ## Notes
 
 - [Curcumin](http://en.wikipedia.org/wiki/Curcumin), [Pterostilbene](http://en.wikipedia.org/wiki/Pterostilbene) and [Nicotinamide riboside](http://en.wikipedia.org/wiki/Nicotinamide_riboside) supposedly have anti aging properties.
@@ -127,3 +129,4 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Loss of epigenetic information can drive aging in mice (2023)](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse) ([HN](https://news.ycombinator.com/item?id=34362210))
 - [ITP | National Institute on Aging](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp/about-itp)
 - [Two research teams reverse signs of aging in mice (2023)](https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice) ([HN](https://news.ycombinator.com/item?id=34385785))
+- [Blueprint](https://blueprint.bryanjohnson.co/)

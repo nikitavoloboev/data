@@ -483,3 +483,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Fast video rendering and encoding using web APIs (2023)](https://pietrasiak.com/fast-video-rendering-and-encoding-using-web-apis)
 - [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube live stream downloader.
 - [Napari Live Recording](https://github.com/jacopoabramo/napari-live-recording) - Napari plugin for live video recording with a generic camera device and generate a stack of TIFF images from said device.
+- [Reduct](https://reduct.video/) - Collaborative transcript-based video platform where everyone can review, search, highlight and edit video, as easily as text.
