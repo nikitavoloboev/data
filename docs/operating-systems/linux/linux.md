@@ -681,3 +681,4 @@ title: Linux
 - [ELKS](https://github.com/jbruchon/elks) - Embeddable Linux Kernel Subset.
 - [Kernel-WASM](https://github.com/wasmerio/kernel-wasm) - Sandboxed kernel mode WebAssembly runtime for Linux. ([HN](https://news.ycombinator.com/item?id=34463828))
 - [Libbpf](https://github.com/libbpf/libbpf) - BPF program loader.
+- [Linux SVSM (Secure VM Service Module)](https://github.com/AMDESE/linux-svsm)

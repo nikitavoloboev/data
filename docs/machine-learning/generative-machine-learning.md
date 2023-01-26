@@ -309,3 +309,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content.
 - [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates)
 - [Stable Diffusion in Code (AI Image Generation) - Computerphile (2022)](https://www.youtube.com/watch?v=-lz30by8-sU)
+- [Imitating Human Behaviour with Diffusion Models (2023)](https://arxiv.org/abs/2301.10677)

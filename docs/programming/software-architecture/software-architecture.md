@@ -287,3 +287,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Just use a monorepo (2023)](https://buttondown.email/blog/just-use-a-monorepo) ([HN](https://news.ycombinator.com/item?id=34359736))
 - [Your tech stack is not the product (2023)](https://hoho.com/posts/your-stack-is-not-the-product/) ([HN](https://news.ycombinator.com/item?id=34361063))
 - [Disassembling Rewind.ai](https://kevinchen.co/blog/rewind-ai-app-teardown/) ([HN](https://news.ycombinator.com/item?id=34449940))
+- [Ask HN: What would be your stack if you are building an MVP today? (2023)](https://news.ycombinator.com/item?id=34530052)

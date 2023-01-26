@@ -431,3 +431,4 @@
 - [Pattern theory: the mathematics of perception (2022)](https://arxiv.org/abs/math/0212400) ([HN](https://news.ycombinator.com/item?id=34470799))
 - [The Point Of The Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn) ([HN](https://news.ycombinator.com/item?id=34482226))
 - [What are some of your favorite math texts on "fun" or highly specific topics, rather than larger topics? (2023)](https://www.reddit.com/r/math/comments/10jek56/what_are_some_of_your_favorite_math_texts_on_fun/)
+- [Convergence verification of the Collatz problem](https://pcbarina.fit.vutbr.cz/) ([Lobsters](https://lobste.rs/s/2dwnx4/convergence_verification_collatz))

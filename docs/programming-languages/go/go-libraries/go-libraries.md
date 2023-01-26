@@ -2206,3 +2206,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Designing Go Libraries (2022)](https://abhinavg.net/2022/12/06/designing-go-libraries/)
 - [Major standard library changes in Go 1.20 (2023)](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/) ([HN](https://news.ycombinator.com/item?id=34406127)) ([Lobsters](https://lobste.rs/s/kj74hc/major_standard_library_changes_go_1_20))
 - [s3cme](https://github.com/mchmarny/s3cme) - Template Go app repo with image build/publish pipelines, SBOM, and SLSA provenance using OIDC, KMS and Artifact Registry.
+- [Examples of nice Go APIs (2023)](https://www.reddit.com/r/golang/comments/10l8r9n/is_there_a_good_example_of_an_open_source/)

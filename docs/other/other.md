@@ -750,3 +750,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Generating diagrams programmatically (2023)](https://terrastruct.com/blog/post/generate-diagrams-programmatically/)
 - [Aella Asks Destiny What Aspect Of His Morality Is Inconsistent (2023)](https://www.youtube.com/watch?v=ny5UzlQatN4)
 - [Ask HN: What is the weirdest or most surreal recent technology you have seen? (2023)](https://news.ycombinator.com/item?id=34502566)
+- [Yandex Services Source Code Leak (2023)](https://arseniyshestakov.com/2023/01/26/yandex-services-source-code-leak/) ([HN](https://news.ycombinator.com/item?id=34525936))

@@ -29,6 +29,6 @@ title: Nostr
 - [HN: Nostr](https://news.ycombinator.com/item?id=29749061)
 - [Nostr Intro](https://wiki.wellorder.net/post/nostr-intro/)
 - [Lobsters: Nostr](https://lobste.rs/s/mv74ka/nostr_introduction)
-- [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
+- [Awesome Nostr](https://github.com/aljazceru/awesome-nostr) ([HN](https://news.ycombinator.com/item?id=34526562))
 - [HN: Nostr](https://news.ycombinator.com/item?id=33746360)
 - [snort.social](https://snort.social/) - Nostr interface. ([Code](https://github.com/v0l/snort))
