@@ -196,6 +196,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Sunflower Land](https://github.com/sunflower-land/sunflower-land) - Decentralized and community driven MetaVerse style game.
 - [Emergence](https://github.com/Leafwing-Studios/Emergence) - Organic factory-builder set in a micro-scale, post-apocalyptic future.
 - [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Open reimplementation of Might and Magic 6 7 8 game engine.
+- [Gardens of Kadesh in WebAssembly](https://gardensofkadesh.github.io/) ([Code](https://github.com/GardensOfKadesh/Homeworld))
 
 ## Awesome games (other)
 

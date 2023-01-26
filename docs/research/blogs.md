@@ -310,6 +310,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Danijela Vrzan](https://www.danijelavrzan.com/)
 - [Bob Nystrom](http://journal.stuffwithstuff.com/) ([Code](https://github.com/munificent/journal))
 - [Steven Wittens](https://acko.net/)
+- [Florian Noeding](https://florian.noeding.com/)
 
 ## Notes
 

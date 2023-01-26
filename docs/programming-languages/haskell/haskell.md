@@ -515,3 +515,6 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Get Programming with Haskell (2018)](https://www.manning.com/books/get-programming-with-haskell)
 - [Haskell Guide](https://haskell-docs.netlify.app/) ([Code](https://github.com/reubenharry/haskell-docs))
 - [Space leaks exploration in Haskell](https://cs.stanford.edu/~sumith/docs/report-spaceleaks.pdf) ([Lobsters](https://lobste.rs/s/ct1u0s/space_leaks_exploration_haskell))
+- [Haskell for Elm developers: giving names to stuff (Part 1 - Functors) (2023)](https://dev.to/flaviocorpa/haskell-for-elm-developers-giving-names-to-stuff-part-1-functors-36n3)
+- [Pair Programming with ChatGPT & Haskell (2023)](https://cdsmithus.medium.com/pair-programming-with-chatgpt-haskell-1c4490b71da6)
+- [Linear Constraints: the problem with O(1) freeze (2023)](https://www.tweag.io/blog/2023-01-26-linear-constraints-freeze/)

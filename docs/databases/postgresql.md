@@ -652,3 +652,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pgperms](https://github.com/SnoozeThis-org/pgperms) - Declarative PostgreSQL permissions as code.
 - [pgscripts](https://github.com/afiskon/pgscripts) - Scripts related to PostgreSQL development.
 - [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression.
+- [Postgres without a superuser - coming to v16 (2023)](http://rhaas.blogspot.com/2023/01/surviving-without-superuser-coming-to.html)

@@ -520,6 +520,7 @@
 - [threerender](https://github.com/keiya01/threerender) - Simple 3D rendering engine.
 - [naga-oil](https://github.com/robtfm/naga_oil) - Crate for combining and manipulating shaders.
 - [Crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust.
+- [Blade](https://github.com/kvark/blade) - Sharp and simple graphics library.
 
 ## Games
 

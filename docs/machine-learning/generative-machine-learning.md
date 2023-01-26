@@ -310,3 +310,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates)
 - [Stable Diffusion in Code (AI Image Generation) - Computerphile (2022)](https://www.youtube.com/watch?v=-lz30by8-sU)
 - [Imitating Human Behaviour with Diffusion Models (2023)](https://arxiv.org/abs/2301.10677)
+- [Mann-E](https://opencognitives.com/mann-e/) - OpenJourney: Midjourney, but Open Source. ([HN](https://news.ycombinator.com/item?id=34522311))

@@ -4,8 +4,6 @@ title: Rails
 
 # [Rails](https://github.com/rails/rails)
 
-[Bullet Train Rails template](https://bullettrain.co/) seems nice.
-
 ## OSS Rails apps
 
 - [HotTable](https://github.com/fractaledmind/hottable) - Minimal Airtable clone built with Rails and HotWire.
@@ -201,3 +199,4 @@ title: Rails
 - [Gemfile of dreams: the libraries we use to build Rails apps (2023)](https://evilmartians.com/chronicles/gemfile-of-dreams-libraries-we-use-to-build-rails-apps)
 - [Ruby on Jets](https://github.com/boltops-tools/jets) - Like Rails but serverless. ([HN](https://news.ycombinator.com/item?id=34474049))
 - [Safe PG Migrations](https://github.com/doctolib/safe-pg-migrations) - ActiveRecord migrations for Postgres made safe.
+- [Rails on Docker · Fly (2023)](https://fly.io/ruby-dispatch/rails-on-docker/) ([HN](https://news.ycombinator.com/item?id=34533930))

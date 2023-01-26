@@ -4,9 +4,13 @@
 
 I [share](../sharing/sharing.md) most things on [Twitter](https://twitter.com/nikitavoloboev), [Instagram](https://instagram.com/nikitavoloboev) & [Reddit](https://www.reddit.com/user/nikivi).
 
-Below are all my public [journal](../life/journaling.md) entries. 
+Below are all my public [journal](../life/journaling.md) entries.
 
 <!-- I do monthly reflections on life here. Comes as part of [my newsletter](https://buttondown.email/nikitavoloboev). -->
+
+## 2023
+
+- [January](2023/2023-january.md)
 
 ## [2022](2022/2022.md)
 

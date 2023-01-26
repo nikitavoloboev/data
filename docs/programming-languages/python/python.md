@@ -583,3 +583,4 @@ for i, _ in enumerate(nums):
 - [Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 - [Why Polars uses less memory than Pandas (2023)](https://pythonspeed.com/articles/polars-memory-pandas/) ([Lobsters](https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas))
 - [Skulpt](https://github.com/skulpt/skulpt) - JavaScript implementation of Python.
+- [Ruff LSP](https://github.com/charliermarsh/ruff-lsp) - Language Server Protocol implementation for Ruff.

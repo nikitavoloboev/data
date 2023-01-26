@@ -2,6 +2,8 @@
 
 [hyperlink.academy](https://hyperlink.academy/) has some nice courses. [Rust for JS Developers](https://rustforjs.dev/) has nice layout/design.
 
+I like the idea of doing [early release of a course on a discount](https://www.joshwcomeau.com/email/jor-launch-004-faq-primary/) as you finish up the last parts of it preparing for the final release.
+
 ## Links
 
 - [Awesome courses](https://github.com/learn-anything/courses)

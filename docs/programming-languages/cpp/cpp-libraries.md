@@ -511,3 +511,4 @@
 - [C++ Template Project (with vcpkg support)](https://github.com/mod-cpp/cpp-template-project-vcpkg)
 - [sokol-tools](https://github.com/floooh/sokol-tools) - Command line tools for use with sokol headers.
 - [Prefab](https://github.com/google/prefab) - Tool for generating build system integrations for prebuilt C/C++ libraries.
+- [xsimd](https://github.com/xtensor-stack/xsimd) - C++ wrappers for SIMD intrinsics.
