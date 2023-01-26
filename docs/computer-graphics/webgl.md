@@ -126,3 +126,4 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) library. [Here](ht
 - [Summer Afternoon - WebGL Experiment](https://summer-afternoon.vlucendo.com/) ([HN](https://news.ycombinator.com/item?id=34461808))
 - [MathBox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing.
 - [Personal WebGL notes](https://github.com/agviegas/learning-webgl)
+- [Reimplementation of Matthias Müller's "Ten Minute Physics" demos in Rust with WASM + WebGL](https://github.com/cerrno/ten-minute-physics-rs)

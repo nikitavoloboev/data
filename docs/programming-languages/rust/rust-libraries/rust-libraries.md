@@ -82,6 +82,7 @@
 - [supports-color](https://github.com/zkat/supports-color) - Detects whether a terminal supports color, and gives details about that support.
 - [TUI-Input](https://github.com/sayanarijit/tui-input) - TUI input library supporting multiple backends and tui-rs.
 - [CLI Batteries](https://github.com/recmo/cli-batteries) - Batteries included command line interfaces.
+- [kdam](https://github.com/clitic/kdam) - Console progress bar library for rust.
 
 ## Web
 
@@ -232,6 +233,7 @@
 - [Nanoproxy](https://github.com/lily-mara/nanoproxy) - Combination of two protocols - HTTP request proxying and mDNS advertisements.
 - [Zino](https://github.com/photino/zino) - Full-featured web application framework for Rust.
 - [hyperlocal](https://github.com/softprops/hyperlocal) - Hyper client and server bindings for Unix domain sockets.
+- [Astra](https://github.com/ibraheemdev/astra) - High performance Rust web servers without async/await.
 
 ## Auth
 
@@ -2580,6 +2582,8 @@
 - [rxing](https://github.com/hschimke/rxing) - Barcode library in pure rust.
 - [mtzip](https://github.com/JohnTheCoolingFan/mtzip) - Rust library for making zip files, focused on multithreading the process.
 - [axoasset](https://github.com/axodotdev/axoasset) - Load, write, and copy remote and local assets.
+- [llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust.
+- [csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context.
 
 ## Cargo Plugins
 
@@ -2896,3 +2900,4 @@
 - [What are some less popular but well-made crates you'd like others to know about? (2023)](https://www.reddit.com/r/rust/comments/106w4ao/what_are_some_less_popular_but_wellmade_crates/)
 - [Aya Template](https://github.com/aya-rs/aya-template) - Cargo-generate template for Rust eBPF Projects using Aya.
 - [Packaging Rust Applications for the NPM Registry (2023)](https://blog.orhun.dev/packaging-rust-for-npm/)
+- [Fallible - The Lost Sibling of Result and Option (2023)](https://datavirke.dk/posts/fallible-missing-rust-error-handling/)

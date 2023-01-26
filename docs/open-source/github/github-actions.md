@@ -282,6 +282,7 @@ title: GitHub actions
 - [Push git subdirectory as branch](https://github.com/s0/git-publish-subdir-action)
 - [Branch Deploy Action](https://github.com/github/branch-deploy) - GitHub Action to enable branch deployments using IssueOps.
 - [Dependent Issues](https://github.com/z0al/dependent-issues) - GitHub Action for marking issues as dependent on another.
+- [Pull Request Comment Branch](https://github.com/xt0rted/pull-request-comment-branch) - Get the head ref and sha of a pull request comment.
 
 ## Go
 

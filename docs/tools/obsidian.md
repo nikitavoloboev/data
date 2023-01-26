@@ -219,6 +219,7 @@ div.CodeMirror-cursor,
 - [QuickShare](https://github.com/mcndt/obsidian-quickshare) - Securely share your Obsidian notes with one click.
 - [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) - Obsidian plugin for manipulating sentences as a unit of movement.
 - [Obsidian Transcription](https://github.com/djmango/obsidian-transcription) - Create high-quality transcriptions from markdown linked audio files.
+- [Clipper](https://github.com/jgchristopher/obsidian-clipper) - Capture highlights from the web as Markdown entries in Obsidian.
 
 ## Themes
 

@@ -18,7 +18,7 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics/) is great book.
 
-[MacroKata](https://github.com/tfpk/macrokata) is great for learning macros. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is nice read to learn best practices.
+[MacroKata](https://github.com/tfpk/macrokata) is great for learning macros. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) & [Rust Performance](https://nnethercote.github.io/perf-book/introduction.html) are nice reads to learn best practices.
 
 [Fenix](https://github.com/nix-community/fenix) is interesting.
 
@@ -1028,3 +1028,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Marker](https://github.com/rust-marker/marker) - Stable linting interface for Rust.
 - [Some Rust breaking changes don't require a major version (2023)](https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/)
 - [Too many words about Rust's function syntax (2023)](https://steveklabnik.com/writing/too-many-words-about-rusts-function-syntax)
+- [Next Rust Compiler (2023)](https://matklad.github.io/2023/01/25/next-rust-compiler.html) ([Reddit](https://www.reddit.com/r/rust/comments/10ld2vn/blog_post_next_rust_compiler/))

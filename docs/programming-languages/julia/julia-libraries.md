@@ -822,6 +822,7 @@
 - [Crystals](https://github.com/mdavezac/Crystals.jl) - Atomic crystal structures for Julia.
 - [IsDef](https://github.com/jolin-io/IsDef.jl) - Maintainable type inference.
 - [MCIntegration](https://github.com/numericalEFT/MCIntegration.jl) - Robust and fast Monte Carlo algorithm for high dimension integration.
+- [EasyModelAnalysis.jl](https://github.com/SciML/EasyModelAnalysis.jl) - High level functions for analyzing the output of simulations.
 
 ## Links
 

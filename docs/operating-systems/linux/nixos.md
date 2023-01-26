@@ -93,6 +93,7 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [Jakub](https://github.com/jakubgs/nixos-config)
 - [Dustin Lacewell](https://github.com/dustinlacewell/dotfiles)
 - [Ryan Gibb](https://github.com/RyanGibb/nixos)
+- [Jonas Carpay](https://github.com/jonascarpay/nix)
 
 ## Nix configs (macOS)
 
@@ -297,3 +298,5 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [The NixOS “settings” option: when and how to use it (2023)](https://zimbatm.com/notes/the-nixos-settings-option-when-and-how-to-use-it) ([Lobsters](https://lobste.rs/s/aja2hg/nixos_settings_option_when_how_use_it))
 - [Announcing nixos-rebuild: a "new" deployment tool for NixOS (2023)](https://www.haskellforall.com/2023/01/announcing-nixos-rebuild-new-deployment.html)
 - [nh](https://github.com/viperML/nh) - Reimplements some basic NixOS commands.
+- [NixOS Vault Service](https://github.com/DeterminateSystems/nixos-vault-service) - NixOS module that allows easily integrating Vault with existing systemd services.
+- [Terraform NixOS Provider](https://github.com/corpix/terraform-provider-nixos)

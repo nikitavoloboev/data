@@ -33,3 +33,4 @@ Learning to make [icons](icons.md) of all kinds.
 - [Can AI design a logo? (2022)](https://twitter.com/LinusEkenstam/status/1603276180823547904)
 - [Great books on doing logo design (2022)](https://twitter.com/kevintwohy/status/1607884379921215490)
 - [Logo Scrape](https://github.com/fritzh321/logo-scrape) - Scrapes/Crawls the logo from a provided url(s)/website for your Node.js applications.
+- [Logos as SF Symbols](https://github.com/jeremieb/social-symbols)

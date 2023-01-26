@@ -768,6 +768,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Gesto](https://github.com/daybrush/gesto) - Set up drag, pinch events in any browser.
 - [GROQZ](https://github.com/stipsan/groqz) - Transforms GROQ strings to zod schemas in your TypeScript codebase.
 - [Current.js](https://github.com/marcoroth/current.js) - Allows you to access data stored in "current" HTML meta elements.
+- [extra-iterable](https://github.com/nodef/extra-iterable) - Collection of functions for operating upon iterables.
 
 ## Links
 

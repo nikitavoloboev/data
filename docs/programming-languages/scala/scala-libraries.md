@@ -52,6 +52,7 @@
 - [ProtoQuill](https://github.com/zio/zio-protoquill) - Compile-time Language Integrated Queries for Scala.
 - [SPL-to-PySpark transpiler](https://github.com/databrickslabs/transpiler)
 - [ZIO-Schema](https://github.com/zio/zio-schema) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
+- [Gluten](https://github.com/oap-project/gluten) - Spark Plugin to Offload SQL Engine to Native Library.
 
 ## Math
 

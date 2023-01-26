@@ -357,6 +357,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Glimpse](https://github.com/beskar-co/glimpse) - Fast, unstyled link preview React component.
 - [Virtualform](https://github.com/chiefGui/virtualform) - Ultra-fast, responsive and headless virtualization engine for React.
 - [Flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars.
+- [React Data Grid](https://github.com/inovua/reactdatagrid)
 
 ## Links
 

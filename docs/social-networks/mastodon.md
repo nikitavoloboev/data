@@ -164,3 +164,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Mastodon Thread Renderer](https://thread.choomba.one/) - Render Mastodon thread as a web page. ([Code](https://github.com/vrutkovs/masto-thread-renderer))
 - [Semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon.
 - [Hastodon](https://github.com/syucream/hastodon) - Mastodon client module for Haskell.
+- [Emfed](https://github.com/sampsyo/emfed) - Embed your Mastodon feed into your web page.
