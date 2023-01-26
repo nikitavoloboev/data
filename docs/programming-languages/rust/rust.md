@@ -1026,3 +1026,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Concepts I Wish I Learned Earlier (2023)](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) ([Reddit](https://www.reddit.com/r/rust/comments/10eu2aw/rust_concepts_i_wish_i_learned_earlier/))
 - [Rust in 2023: Growing Up](http://smallcultfollowing.com/babysteps/blog/2023/01/20/rust-in-2023-growing-up/) ([HN](https://news.ycombinator.com/item?id=34454124))
 - [Marker](https://github.com/rust-marker/marker) - Stable linting interface for Rust.
+- [Some Rust breaking changes don't require a major version (2023)](https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/)
+- [Too many words about Rust's function syntax (2023)](https://steveklabnik.com/writing/too-many-words-about-rusts-function-syntax)
