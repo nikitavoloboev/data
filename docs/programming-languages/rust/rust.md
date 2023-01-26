@@ -1025,3 +1025,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Why is Rust's build system uniquely hard to use? (2023)](https://jyn.dev/2023/01/12/Bootstrapping-Rust-in-2023.html)
 - [Rust Concepts I Wish I Learned Earlier (2023)](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) ([Reddit](https://www.reddit.com/r/rust/comments/10eu2aw/rust_concepts_i_wish_i_learned_earlier/))
 - [Rust in 2023: Growing Up](http://smallcultfollowing.com/babysteps/blog/2023/01/20/rust-in-2023-growing-up/) ([HN](https://news.ycombinator.com/item?id=34454124))
+- [Marker](https://github.com/rust-marker/marker) - Stable linting interface for Rust.

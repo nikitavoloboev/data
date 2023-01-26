@@ -131,3 +131,4 @@ title: WebSocket
 - [WebSocket Framing: Masking, Fragmentation and More (2022)](https://www.openmymind.net/WebSocket-Framing-Masking-Fragmentation-and-More/)
 - [Swift WebSocket](https://github.com/DanboDuan/swift-websocket) - Light WebSocket written in Swift base on Swift NIO.
 - [Defined.fi](https://github.com/smolstudios/defined-realtime-websocket) - Real time WebSocket SDK.
+- [wsproxy](https://github.com/neondatabase/wsproxy) - Lightweight WebSocket->TCP proxy.

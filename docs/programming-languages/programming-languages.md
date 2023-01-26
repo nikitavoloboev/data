@@ -517,3 +517,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [What does it mean to have an "algebraic" type system? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/10ewz92/what_does_it_mean_to_have_an_algebraic_type_system/)
 - [Troupe](https://github.com/TroupeLang/Troupe) - Programming language based on the actor model for concurrent and distributed programming that provides dynamic information flow control.
 - [Sylver](https://github.com/sylver-dev/sylver-cli) - Language agnostic source code exploration and analysis. ([Lobsters](https://lobste.rs/s/pyrmyn/i_made_multi_language_programmable))
+- [duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.

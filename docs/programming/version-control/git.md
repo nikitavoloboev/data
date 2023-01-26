@@ -633,3 +633,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Commands You Probably Do Not Need (2023)](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html) ([HN](https://news.ycombinator.com/item?id=34487201))
 - [git-autofixup](https://github.com/torbiak/git-autofixup) - Create fixup commits for topic branches.
 - [gptcommit](https://github.com/zurawiki/gptcommit) - Git prepare-commit-msg hook for authoring commit messages with GPT-3.
+- [git-graph](https://github.com/mlange-42/git-graph) - Command line tool to visualize Git history graphs in a comprehensible way.
