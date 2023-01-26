@@ -60,3 +60,4 @@ Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-system
 - [uBlock Origin Core](https://www.npmjs.com/package/@gorhill/ubo-core) ([HN](https://news.ycombinator.com/item?id=33979379))
 - [Orbital Sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances.
 - [HN: Pi-hole (2023)](https://news.ycombinator.com/item?id=34374725)
+- [DNS Blocklists](https://github.com/hagezi/dns-blocklists)

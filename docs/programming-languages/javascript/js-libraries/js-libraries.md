@@ -1107,6 +1107,7 @@
 - [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript.
 - [Origami](https://github.com/robbykraft/Origami) - JavaScript library for modeling origami.
 - [emoji-palette](https://github.com/anubra266/emoji-palette) - Get color palettes from emojis.
+- [Scrub](https://github.com/benfoxall/scrub) - Video scrubbing with WebCodecs.
 
 ## Links
 

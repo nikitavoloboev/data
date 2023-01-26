@@ -564,3 +564,4 @@ I want to:
 - [Silicon Notes](https://github.com/cu/silicon) - Web-based personal knowledge base with few frills.
 - [Lumen](https://github.com/lumen-notes/lumen) - Opinionated note-taking system for thinking, writing, learning, and mindfulness.
 - [grdn](https://github.com/chriskrycho/grdn) - Simple protocol for garden-style content feeds.
+- [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
