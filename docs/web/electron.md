@@ -6,7 +6,7 @@ title: Electron
 
 I use [Tauri](../programming-languages/rust/rust-libraries/tauri.md) currently to build desktop apps. Tauri wraps over [Solid](../programming-languages/javascript/js-libraries/solid.md) web UI.
 
-[Wails](../programming-languages/go/go-libraries/wails.md) is great too if you like [Go](../programming-languages/go/go.md). 
+[Wails](../programming-languages/go/go-libraries/wails.md) is great too if you like [Go](../programming-languages/go/go.md).
 
 I try to minimize amount of Electron apps I run on my mac as I find them wasteful in how they bundle entire chrome JS engine with every app. Hopefully soon, I won't be running any more Electron apps on my computer.
 
@@ -20,6 +20,7 @@ I also use [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) 
 
 ## Nice templates
 
+- [Electron Vite](https://github.com/alex8088/electron-vite)
 - [Vite-SolidJS-Electron](https://github.com/ch99q/vite-solid-electron)
 - [Vite-Vue-Electron](https://github.com/electron-vite/electron-vite-vue)
 - [Electron Esbuild](https://github.com/Kiyozz/electron-esbuild)

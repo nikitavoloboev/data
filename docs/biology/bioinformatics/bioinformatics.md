@@ -283,3 +283,4 @@ title: Bioinformatics
 - [Ankh](https://github.com/agemagician/Ankh) - Optimized Protein Language Model Unlocks General-Purpose Modelling.
 - [Gotree](https://github.com/evolbioinfo/gotree) - Set of command line tools and an API to manipulate phylogenetic trees.
 - [biopix](https://github.com/arpandaze/biopix) - 3D Protein Structure Visualizer Built with Rust.
+- [vesta_vectors.py](https://github.com/lucydot/vesta_vectors) - Python 3 script to visualize atomic displacement using the Vesta file format.
