@@ -2584,6 +2584,7 @@
 - [axoasset](https://github.com/axodotdev/axoasset) - Load, write, and copy remote and local assets.
 - [llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust.
 - [csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context.
+- [nuts-rs](https://github.com/pymc-devs/nuts-rs) - No U-turn Sampler in Rust.
 
 ## Cargo Plugins
 

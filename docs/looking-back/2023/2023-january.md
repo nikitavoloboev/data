@@ -2,7 +2,7 @@
 
 ![](https://images.nikiv.dev/broke-2023.PNG)
 
-Incredibly tired of being this broke. YouTube premium was a luxury anyway. And I can't afford health insurance (mandated by NL) or food. Only food I eat are eggs with water.
+I'm living the sketch of being so broke where the [bank charges me money for being too broke](https://www.youtube.com/watch?v=Y_-1l_SlA7c&t=262s). YouTube premium was a luxury anyway. And I can't afford health insurance (mandated by NL) or food. Only food I eat are eggs with water.
 
 In other news, [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show.
 

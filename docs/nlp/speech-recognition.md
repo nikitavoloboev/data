@@ -4,7 +4,7 @@ title: Speech recognition
 
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
-[OpenAI Whisper](https://github.com/openai/whisper) (has [nice C++ port](https://github.com/ggerganov/whisper.cpp)), [ocotillo](https://github.com/neonbjb/ocotillo) & [SpeechBrain](https://github.com/speechbrain/speechbrain) are nice.
+[OpenAI Whisper](https://github.com/openai/whisper) (has nice [C++](https://github.com/ggerganov/whisper.cpp) & [CoreML](https://github.com/vade/OpenAI-Whisper-CoreML) ports), [ocotillo](https://github.com/neonbjb/ocotillo) & [SpeechBrain](https://github.com/speechbrain/speechbrain) are nice.
 
 ## Notes
 
@@ -167,7 +167,7 @@ title: Speech recognition
 - [Zero-shot Audio Classification using Whisper](https://github.com/jumon/zac)
 - [Whisper CLI, built with Rust](https://github.com/m1guelpf/whisper-cli-rs)
 - [Whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to whisper.cpp.
-- [OpenAI's Whisper ported to CoreML](https://github.com/tanmayb123/OpenAI-Whisper-CoreML)
+- [OpenAI's Whisper ported to CoreML](https://github.com/vade/OpenAI-Whisper-CoreML)
 - [Real Time Whisper Transcription](https://github.com/davabase/whisper_real_time)
 - [Multilingual Automatic Speech Recognition with Word-level Timestamps](https://github.com/Jeronymous/whisper-timestamped)
 - [Quick Caption](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT and FCPXML) without manually entering time codes.

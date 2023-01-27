@@ -44,3 +44,4 @@ I mention exercises I do [here](fitness.md).
 - [Stretch based exercises](https://www.youtube.com/watch?v=xW79HPiyidk)
 - [How To Start Calisthenics at Home for Beginners (No Equipment)](https://www.youtube.com/watch?v=hEXjX6nwDoY)
 - [Ask HN: What's a good program for calisthenics for beginners that YOU have tried (2023)](https://news.ycombinator.com/item?id=34208729)
+- [Ask HN: How do you exercise? (2023)](https://news.ycombinator.com/item?id=34542172)

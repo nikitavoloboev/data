@@ -8,7 +8,7 @@ There are [many nice EU countries with lower tax](https://www.youtube.com/watch?
 
 I am also curious how you can make EU political system more efficient, right now it seems incredibly messy. I am also not sure how to [stop the stagnation of EU financially](https://twitter.com/zebulgar/status/1525201411641856001). I think focusing on removing useless guardrails to do entrepreneurship with better access to local funding will go a long way in accelerating building more value everywhere. It's also quite unfortunate that US and China are the only countries that are focused on building companies in the space industry.
 
-So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](united-kingdom.md). 
+So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](united-kingdom.md).
 
 Currently reside in [Spain](spain.md). Want to spend some time in [Portugal](portugal.md) or [Georgia](georgia.md) soon.
 
@@ -103,3 +103,4 @@ Currently reside in [Spain](spain.md). Want to spend some time in [Portugal](por
 - [European pension systems are the biggest scam ever existed (2022)](https://www.reddit.com/r/EuropeFIRE/comments/ze1tkn/european_pension_systems_are_the_biggest_scam/)
 - [Top 100 Places To Visit in Europe (2022)](https://www.youtube.com/watch?v=IQzfprW0Yl0)
 - [Is Europe Just Not Good at Innovating? (2022)](https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/) ([HN](https://news.ycombinator.com/item?id=33971577))
+- [Ask HN: EU Bank with Good API? (2023)](https://news.ycombinator.com/item?id=34543832)

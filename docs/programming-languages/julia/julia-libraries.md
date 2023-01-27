@@ -823,6 +823,7 @@
 - [IsDef](https://github.com/jolin-io/IsDef.jl) - Maintainable type inference.
 - [MCIntegration](https://github.com/numericalEFT/MCIntegration.jl) - Robust and fast Monte Carlo algorithm for high dimension integration.
 - [EasyModelAnalysis.jl](https://github.com/SciML/EasyModelAnalysis.jl) - High level functions for analyzing the output of simulations.
+- [CommutativeRings.jl](https://github.com/KlausC/CommutativeRings.jl) - CAS, Commutative Rings, Fraction Fields, Quotient Rings, Polynomial Rings, Galois Fields.
 
 ## Links
 

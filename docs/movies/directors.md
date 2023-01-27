@@ -47,3 +47,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Any young filmmakers to look out for? (2022)](https://www.reddit.com/r/TrueFilm/comments/zuuexz/any_young_filmmakers_to_look_out_for/)
 - [Your Highest Rated Directors (2022)](https://www.reddit.com/r/Letterboxd/comments/zy75qo/highest_rated_directors_what_are_yours/)
 - [The contagious visual blandness of Netflix (2023)](https://haleynahman.substack.com/p/132-the-contagious-visual-blandness) ([HN](https://news.ycombinator.com/item?id=34477928))
+- [Who are your favorite directors? (2023)](https://www.reddit.com/r/Letterboxd/comments/10lssuf/who_are_your_favorite_directors/)

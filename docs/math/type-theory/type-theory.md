@@ -228,3 +228,4 @@ title: Type Theory
 - [Linear F in OCaml](https://github.com/EduardoRFS/f-omega)
 - [Hindley-Milner Type Inference implemented in Python](https://github.com/rob-smallshire/hindley-milner-python)
 - [Types are moving to the right (2023)](https://elizarov.medium.com/types-are-moving-to-the-right-22c0ef31dd4a) ([Lobsters](https://lobste.rs/s/yymnmm/types_are_moving_right))
+- [All you need is higher kinded types (2023)](https://las.rs/blog/all-you-need-is-hkt-s.html)

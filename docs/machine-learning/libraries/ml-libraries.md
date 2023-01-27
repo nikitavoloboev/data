@@ -464,3 +464,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with scikit-learn regressors.
 - [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models.
 - [UCC](https://github.com/openucx/ucc) - Unified Communication Collectives Library.
+- [Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning.
