@@ -417,6 +417,7 @@
 - [Butane](https://github.com/Electron100/butane) - ORM for Rust with a focus on simplicity and on writing Rust, not SQL.
 - [OpenSrv](https://github.com/datafuselabs/opensrv) - Async bindings for emulating database servers. Currently, support for ClickHouse and MySql/MariaDB is provided.
 - [cdbc](https://github.com/co-rs/cdbc) - Coroutine Database driver Connectivity.based on mco.
+- [ormlite](https://github.com/kurtbuilds/ormlite) - ORM in Rust for developers that love SQL.
 
 ## Video
 
