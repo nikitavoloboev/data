@@ -103,3 +103,4 @@
 - [Thread is taking over IoT: How IP will change the game (2022)](https://blog.whn.se/posts/thread-is-taking-over-iot-how-ip-will-change-the-game)
 - [Shifu](https://github.com/Edgenesis/shifu) - Kubernetes native IoT software development framework.
 - [Taking over a Dead IoT Company (2023)](https://blog.kchung.co/taking-over-a-dead-iot-company/) ([Lobsters](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company)) ([HN](https://news.ycombinator.com/item?id=34325695))
+- [Bytebeam ESP SDK](https://github.com/bytebeamio/esp-bytebeam-sdk) - Application for connecting ESP devices to Bytebeam IoT platform.

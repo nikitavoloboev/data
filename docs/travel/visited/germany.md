@@ -2,9 +2,9 @@
 
 I find it unfortunate that some [minor political 'green party' managed to ban off nuclear in Germany](https://twitter.com/mark_lynas/status/1545345583262695424). Supposedly Germany is taking measures to reverse these decisions by investing and building more nuclear plants.
 
-There's lots of fascinating research happening to [solve fusion](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion) so I hope for that Germany and [EU](europe.md) at large become energy independent in near future.   
+There's lots of fascinating research happening to [solve fusion](https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion) so I hope for that Germany and [EU](europe.md) at large become energy independent in near future.
 
-Germany seems like a nice place to live in if you ignore the super high taxes and a certain reliance on bureaucracy/papers to get things done, especially when it comes to starting business. 
+Germany seems like a nice place to live in if you ignore the super high taxes and a certain reliance on bureaucracy/papers to get things done, especially when it comes to starting business.
 
 Berlin is [one of](visited.md) my favorite cities to visit. The food and people there are amazing.
 
@@ -68,3 +68,4 @@ Berlin is [one of](visited.md) my favorite cities to visit. The food and people 
 - [Just how complicated could it be to register a German company? (2022)](https://major-grooves.medium.com/just-how-complicated-could-it-be-to-register-a-german-company-e5eb6e50db79) ([HN](https://news.ycombinator.com/item?id=33586536))
 - [timur](https://github.com/wrznr/timur) - Finite-state morphology for German.
 - [Germany's Energy Catastrophe (2022)](https://news.ycombinator.com/item?id=32104875)
+- [Taxel](https://github.com/quambene/taxel) - CLI and Rust bindings for the ELSTER Rich Client (ERiC).

@@ -1051,3 +1051,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Ask HN: ML Papers to Implement (2023)](https://news.ycombinator.com/item?id=34503362)
 - [Hungry Hungry Hippos: Towards Language Modeling with State Space Models (2022)](https://arxiv.org/abs/2212.14052) ([Code](https://github.com/HazyResearch/H3))
 - [Intuitive Tutorial to Gaussian Processes Regression](https://github.com/jwangjie/Gaussian-Processes-Regression-Tutorial)
+- [MPCFormer: fast, performant and private Transformer inference with MPC (2022)](https://arxiv.org/abs/2211.01452) ([Code](https://github.com/MccRee177/MPCFormer))

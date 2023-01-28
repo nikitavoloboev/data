@@ -146,3 +146,4 @@ title: Raspberry Pi
 - [Raspberry Pi security alarm – the basics (2023)](https://blog.cavelab.dev/2022/12/rpi-security-alarm/) ([HN](https://news.ycombinator.com/item?id=34191749))
 - [Raspberry Pi RP2040 Second-Stage Bootloader](https://github.com/rp-rs/rp2040-boot2)
 - [Mycelia](https://github.com/organix/mycelia) - Bare-metal actor operating system for Raspberry Pi.
+- [Thorium Special](https://github.com/Alex313031/Thorium-Special) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.

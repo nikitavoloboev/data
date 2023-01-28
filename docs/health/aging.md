@@ -2,7 +2,7 @@
 
 Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](https://en.wikipedia.org/wiki/Turritopsis_dohrnii) jelly fish ages backwards.
 
-[Information theory of aging](https://youtu.be/CwQMMzoeH9s?t=4957) is fascinating as described in [this paper](<https://www.cell.com/cell/fulltext/S0092-8674(22)01570-7#%20>).
+[Information theory of aging](https://youtu.be/CwQMMzoeH9s?t=4959) is fascinating as described in [this paper](<https://www.cell.com/cell/fulltext/S0092-8674(22)01570-7#%20>).
 
 I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my [life](../life/life.md) experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain. Especially chronic. So best [try avoid that](https://twitter.com/statto/status/1595398429018312705) (that includes prisons, [diseases](../medicine/diseases/diseases.md)..).
 
@@ -132,3 +132,4 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [ITP | National Institute on Aging](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp/about-itp)
 - [Two research teams reverse signs of aging in mice (2023)](https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice) ([HN](https://news.ycombinator.com/item?id=34385785))
 - [Blueprint](https://blueprint.bryanjohnson.co/)
+- [Loss of epigenetic information as a cause of mammalian aging (2023)](<https://www.cell.com/cell/fulltext/S0092-8674(22)01570-7#%20>)

@@ -311,3 +311,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Diffusion in Code (AI Image Generation) - Computerphile (2022)](https://www.youtube.com/watch?v=-lz30by8-sU)
 - [Imitating Human Behaviour with Diffusion Models (2023)](https://arxiv.org/abs/2301.10677)
 - [Mann-E](https://opencognitives.com/mann-e/) - OpenJourney: Midjourney, but Open Source. ([HN](https://news.ycombinator.com/item?id=34522311))
+- [Docker Diffusers API](https://github.com/kiri-art/docker-diffusers-api) - Diffusers / Stable Diffusion in docker with a REST API, supporting various models, pipelines & schedulers.

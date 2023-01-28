@@ -99,3 +99,4 @@ Always [know your substance, have good set (mindset) and setting (environment)](
 - [Fragment-based generative RL with Explorative Experience replay for Drug design (FREED)](https://github.com/AITRICS/FREED)
 - [Complete Guide to Avoid Meth Neurotoxicity (2023)](https://www.reddit.com/r/Drugs/comments/10i6iir/complete_guide_to_avoid_meth_neurotoxicity/)
 - [OnSIDES](https://github.com/tatonetti-lab/onsides) - Resource of adverse drug effects extracted from FDA structured product labels.
+- [Tips to recover from drug induced neurotoxicity](https://www.reddit.com/r/researchchemicals/comments/106lfhv/tips_to_recover_from_drug_induced_neurotoxicity/)

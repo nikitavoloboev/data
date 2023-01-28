@@ -1136,6 +1136,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [dyvider](https://github.com/jg-you/dyvider) - Dynamic programming algorithms for exact linear clustering in networks.
 - [rBloom](https://github.com/kenbyte/rbloom) - Fast, simple and lightweight Bloom filter library for Python, fully implemented in Rust.
 - [beetrace](https://github.com/furkanonder/beetrace) - Trace your python process line by line with low overhead.
+- [OpenGraph](https://github.com/erikriver/opengraph) - Python module to parse the Open Graph Protocol.
 
 ## Notes
 

@@ -6,7 +6,7 @@ title: Research chemicals
 
 Mostly only do occasional trips on [tryptamines](psychedelics/tryptamines/tryptamines.md) and [lysergamides](psychedelics/lysergamides/lysergamides.md). Usually with 2+ month breaks in between.
 
-[Realchems](https://realchems.net/) is great vendor.
+[Realchems](https://realchems.net/) is great vendor. [RC subreddit](https://www.reddit.com/r/researchchemicals/) is insightful.
 
 ## Interesting
 
@@ -71,3 +71,4 @@ Mostly only do occasional trips on [tryptamines](psychedelics/tryptamines/trypta
 - [Has anyone of you permanent damage?](https://www.reddit.com/r/researchchemicals/comments/uyyny6/has_anyone_of_you_permanent_damage/)
 - [What's your favorite vapeable RC? (2022)](https://www.reddit.com/r/researchchemicals/comments/v6q8c3/whats_your_favorite_vapeable_rc/)
 - [What research chemicals are especially dangerous and must be avoided at all costs? (2022)](https://www.reddit.com/r/researchchemicals/comments/yr5sjd/what_research_chemicals_are_especially_dangerous/)
+- [RCs that are completely different than anything else (2023)](https://www.reddit.com/r/researchchemicals/comments/10cpds8/rcs_that_are_completely_different_than_anything/)

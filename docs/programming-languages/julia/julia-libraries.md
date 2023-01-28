@@ -139,6 +139,7 @@
 - [ForwardDiffChainRules.jl](https://github.com/ThummeTo/ForwardDiffChainRules.jl)
 - [tinyrocm.jl](https://github.com/pxl-th/tinyrocm.jl) - Minimal implementation of AMDGPU ROCm programming in Julia from scratch.
 - [DiffEqNoiseProcess.jl](https://github.com/SciML/DiffEqNoiseProcess.jl) - Library of noise processes for stochastic systems like stochastic differential equations (SDEs) and other systems.
+- [LearnAPI.jl](https://github.com/JuliaAI/LearnAPI.jl) - Julia interface for training and applying models in machine learning and statistics.
 
 ## Math
 

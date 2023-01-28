@@ -35,6 +35,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Will & Louisa | Don't forget about me](https://www.youtube.com/watch?v=kDvmNts2NsA)
 - [Nathaniel Drew](https://www.youtube.com/c/nathanieldrewofficial/videos)
 - [𝒇𝒆𝒍𝒊𝒏𝒂](https://www.youtube.com/watch?v=OgF7CiE3yVw)
+- [𝒐𝒛𝒚𝒎𝒂𝒏𝒅𝒊𝒂𝒔](https://www.youtube.com/watch?v=_ZTjxIfEKO0)
 
 ## Favorite clips
 

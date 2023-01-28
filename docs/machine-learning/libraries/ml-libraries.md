@@ -465,3 +465,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models.
 - [UCC](https://github.com/openucx/ucc) - Unified Communication Collectives Library.
 - [Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning.
+- [CausalAI](https://github.com/salesforce/causalai) - Fast and Scalable framework for Causal Analysis of Time Series and Tabular Data.

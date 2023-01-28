@@ -103,6 +103,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [nfigure](https://github.com/muir/nfigure) - Go struct-tag based configfile and flag parsing.
 - [go-tty](https://github.com/mattn/go-tty) - Simple tty utility.
 - [shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments.
+- [mainer](https://github.com/mna/mainer) - Defines types relevant to flag parsing and command entrypoint implementation.
 
 ## Test
 
