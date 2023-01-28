@@ -1007,6 +1007,7 @@
 - [hs-bindgen](https://github.com/yvan-sraka/hs-bindgen) - Handy macro to generate C-FFI bindings to Rust for Haskell.
 - [tuple_list](https://github.com/VFLashM/tuple_list) - Rust crate for macro-free variadic tuple metaprogramming.
 - [naked-function](https://github.com/Amanieu/naked-function) - Proc macro version of the #[naked] attribute.
+- [syntactic-for](https://github.com/xlambein/syntactic-for) - Syntactic "for" loop Rust macro.
 
 ## Math
 

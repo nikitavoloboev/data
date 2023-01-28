@@ -151,3 +151,5 @@ title: Zero knowledge proofs
 - [poseidon](https://github.com/privacy-scaling-explorations/poseidon) - Built to be used in SNARK and non native recursion friendly transcript for appliedzkp/halo2.
 - [zkLLVM Circuit Compiler](https://github.com/NilFoundation/zkllvm) - Zero-Knowledge Proof Systems Circuit Compiler.
 - [Hyperplonk](https://github.com/EspressoSystems/hyperplonk) - Linear-time FFT-free SNARK proof system.
+- [Zator](https://github.com/lyronctk/zator) - Proving the execution of arbitrarily deep neural networks with recursive SNARKs.
+- [Snarky Sudoku](https://github.com/nalinbhardwaj/snarky-sudoku) - Zero-knowledge Sudoku using zk-SNARKs.

@@ -421,3 +421,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Re-implement xv6-riscv in Rust](https://github.com/Ko-oK-OS/xv6-rust)
 - [A Functional Approach to Memory-Safe Operating Systems (2011)](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1498&context=open_access_etds)
 - [Gasang](https://github.com/ArtBlnd/gasang) - VM machine that runs on web browser.
+- [Projects for an Operating Systems Class](https://github.com/remzi-arpacidusseau/ostep-projects)

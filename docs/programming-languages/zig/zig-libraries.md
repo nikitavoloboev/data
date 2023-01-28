@@ -164,6 +164,7 @@
 - [libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Zig bindings to libpcre.
 - [zigpb](https://github.com/mlugg/zigpb) - Simple Protobuf encoder and decoder in Zig.
 - [Zig Tree Formattar](https://github.com/speed2exe/tree-fmt) - Colored tree-like formatter for Zig.
+- [libxev](https://github.com/mitchellh/libxev) - Cross-platform event loop. libxev provides a unified event loop abstraction for non-blocking IO, timers, signals, events.
 
 ## Links
 

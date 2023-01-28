@@ -115,3 +115,4 @@ title: Flutter
 - [Flet](https://github.com/flet-dev/flet) - Framework that enables you to easily build real time web, mobile and desktop apps in Python.
 - [Dart/Flutter Lint](https://github.com/passsy/dart-lint)
 - [Dashbook](https://github.com/bluefireteam/dashbook) - Development tools to help you building UI on Flutter.
+- [Mimir](https://github.com/GregoryConrad/mimir) - Supercharged Flutter/Dart Database.

@@ -168,3 +168,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Random collection of standalone TikZ images](https://github.com/janosh/tikz)
 - [The Art of LaTeX: Advice for Typesetting Beautiful, Delightful Proofs (2023)](https://fanpu.io/blog/2023/latex-tips/) ([HN](https://news.ycombinator.com/item?id=34299304))
 - [Typst: A Programmable Markup Language for Typesetting](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf) ([HN](https://news.ycombinator.com/item?id=34423590)) ([Lobsters](https://lobste.rs/s/zd8b6p/typst_programmable_markup_language_for))
+- [Coauthor](https://github.com/varunshenoy/coauthor) - Copilot for Overleaf. Convert natural language to LaTeX within Overleaf using GPT-3.

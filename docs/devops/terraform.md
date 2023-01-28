@@ -219,3 +219,4 @@ title: Terraform
 - [Terrateam](https://terrateam.io/) - Terraform Automation for Teams.
 - [Terranix](https://terranix.org/) - Terraform in nix.
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow.
+- [tf-nix](https://github.com/arcnmx/tf-nix) - Terraform meets nix.

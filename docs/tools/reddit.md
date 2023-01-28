@@ -101,3 +101,4 @@ title: Reddit
 - [Easy Reddit Post Downloader](https://github.com/josephrcox/easy-reddit-downloader) - Simple & Powerful Reddit Post Downloader.
 - [Reddit Image Fetcher](https://github.com/arifszn/reddit-image-fetcher) - JavaScript package for fetching reddit images, memes, wallpapers and more.
 - [Reddit Clone in React](https://github.com/SashenJayathilaka/Reddit-Clone)
+- [Reddit Playlists](https://github.com/jameslawlor/reddit-playlists)

@@ -331,3 +331,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [CatalystCustomSavePanels](https://github.com/steventroughtonsmith/CatalystCustomSavePanels) - Mac Catalyst example showcases a way to use NSSavePanel through an AppKit bridge.
 - [printents](https://github.com/SerenaKit/printents) - CommandLine tool that prints the entitlements of an .app bundle or any executable on device.
 - [Platypus](https://sveinbjorn.org/platypus) - Create Mac apps from command line scripts. ([Code](https://github.com/sveinbjornt/Platypus))
+- [Apple Dictionary Tools](https://github.com/JadedTuna/apple-dictionary) - Tools for extracting data from Apple dictionary files.
