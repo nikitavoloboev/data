@@ -102,3 +102,4 @@ I am confident that the advancements in computer vision can let you write your o
 - [Building a Dynamic VRChat World (2022)](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)
 - [VR Performance Toolkit](https://github.com/fholger/vrperfkit) - Performance-oriented collection of mods for VR games.
 - [Virtual and Augmented Reality (2022)](https://ryan.freumh.org/blog/vr_ar/)
+- [The Billions-Dollar VR/AR Headset Question (2023)](https://daringfireball.net/2023/01/the_billions-dollar_vr_ar_headset_question) ([Reddit](https://www.reddit.com/r/apple/comments/10mmjtk/the_billionsdollar_vrar_headset_question/))

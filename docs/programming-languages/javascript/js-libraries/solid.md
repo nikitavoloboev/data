@@ -211,3 +211,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [A Comprehensive Guide to SolidJS Stores](https://raqueebuddinaziz.com/blog/comprehensive-guide-to-solid-js-stores/)
 - [SolidJS in React? Reconciling Disparate Worlds (2023)](https://www.youtube.com/watch?v=p9pwHyM5Z98)
 - [Esbuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid) - Plugin to compile solid-js jsx components with esbuild.
+- [Demystifying SolidJS' JSX (2023)](https://www.youtube.com/watch?v=5du6jBlryIc)

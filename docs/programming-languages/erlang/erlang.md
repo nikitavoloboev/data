@@ -180,3 +180,4 @@ title: Erlang
 - [Telemetry](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
 - [procket](https://github.com/msantos/procket) - Erlang interface to low level socket operations.
 - [PGMP](https://github.com/shortishly/pgmp) - Erlang/OTP 25 PostgreSQL client.
+- [Erlang's not about lightweight processes and message passing (2023)](https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md) ([HN](https://news.ycombinator.com/item?id=34545061))

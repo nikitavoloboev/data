@@ -58,3 +58,4 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Who else do you listen to/read other than Alan? (2021)](https://www.reddit.com/r/AlanWatts/comments/mczidz/who_else_do_you_listen_toread_other_than_alan/)
 - [Alan Watts recordings](https://drive.google.com/drive/folders/1Nva-MQ7DJkzeT_KktFQmFerjQuYOOhlF)
 - [Alan Watts: genius or charlatan?](https://julesevans.medium.com/alan-watts-genius-or-charlatan-72313fae997d)
+- [Similar humans to Alan Watts](https://www.reddit.com/r/AlanWatts/comments/10ma2hj/if_you_could_recommend_one_other_person_that_is/)

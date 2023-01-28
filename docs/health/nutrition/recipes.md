@@ -48,6 +48,7 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [Vegetable salad](https://www.reddit.com/r/PlantBasedDiet/comments/yyp19l/where_did_our_lunch_go/)
 - [Seasoned Brown Lentils](https://www.acouplecooks.com/seasoned-brown-lentils/)
 - [Торт Мамулин](https://www.youtube.com/watch?v=Pxys9FxJQsc)
+- [Garlic Crostini](https://www.youtube.com/watch?v=26ixBG5LCXk)
 
 ## Links
 
