@@ -796,4 +796,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Dust](https://dust.tt/) - Design and Deploy Large Language Models Apps. ([Code](https://github.com/dust-tt/dust)) ([Twitter](https://twitter.com/dust4ai))
 - [Awesome papers on Language-Model-as-a-Service (LMaaS)](https://github.com/txsun1997/LMaaS-Papers)
 - [Sentences](https://github.com/neurosnap/sentences) - Command line sentence tokenizer.
-- [Diff Models – A New Way to Edit Code (2023)](https://carper.ai/diff-models-a-new-way-to-edit-code/)
+- [Diff Models – A New Way to Edit Code (2023)](https://carper.ai/diff-models-a-new-way-to-edit-code/) ([HN](https://news.ycombinator.com/item?id=34556688))

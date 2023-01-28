@@ -274,4 +274,4 @@ title: SwiftUI
 - [SwiftUI View Lifecycle](https://github.com/ole/swiftui-view-lifecycle) - iOS and macOS app that demonstrates how different SwiftUI constructs and SwiftUI container views affect.
 - [MacPreviewUtils](https://github.com/insidegui/MacPreviewUtils) - Handy tools for SwiftUI previews on macOS.
 - [SwiftUI Subscription Paywall](https://github.com/JamesSedlacek/PaywallDemo)
-- [30k lines of SwiftUI in production later (2023)](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/)
+- [30k lines of SwiftUI in production later (2023)](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/) ([HN](https://news.ycombinator.com/item?id=34556370))

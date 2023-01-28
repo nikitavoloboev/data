@@ -498,7 +498,7 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Jonathan Blow - Programming Language Q&A (2022)](https://www.youtube.com/watch?v=OAIqCpqszVw)
 - [SantaCoder: New 1.1B code model for generation and infilling](https://huggingface.co/spaces/bigcode/santacoder-demo)
 - [Language design: providing guarantees (Rust) vs communicating intent (Raku)](https://raku-advent.blog/2022/12/23/sigils-2/) ([Reddit](https://www.reddit.com/r/rust/comments/ztlhf4/language_design_providing_guarantees_rust_vs/))
-- [Cyber](https://github.com/fubark/cyber) - Fast, efficient, and concurrent scripting language. ([Web](https://cyberscript.dev/)) ([Lobsters](https://lobste.rs/s/v8edeu/cyber_is_new_language_for_fast_efficient))
+- [Cyber](https://github.com/fubark/cyber) - Fast, efficient, and concurrent scripting language. ([Web](https://cyberscript.dev/)) ([Lobsters](https://lobste.rs/s/v8edeu/cyber_is_new_language_for_fast_efficient)) ([HN](https://news.ycombinator.com/item?id=34553236))
 - [Compilation Speed discussed (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zw3tn8/compilation_speed/)
 - [Vox](https://github.com/MrSmith33/vox) - Small and fast JIT/AOT compiler with zero dependencies.
 - [APScript](https://github.com/sno2/apscript) - Speedy interpreter for the AP Computer Science Principles pseudocode language built in Rust.
