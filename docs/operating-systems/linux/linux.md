@@ -683,3 +683,4 @@ title: Linux
 - [Libbpf](https://github.com/libbpf/libbpf) - BPF program loader.
 - [Linux SVSM (Secure VM Service Module)](https://github.com/AMDESE/linux-svsm)
 - [Linux Security and Hardening Security Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide)
+- [Ask HN: What Next After Ubuntu? (2023)](https://news.ycombinator.com/item?id=34570047)

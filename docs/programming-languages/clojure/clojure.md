@@ -266,3 +266,4 @@ title: Clojure
 - [Contributing to Clojure (2022)](https://insideclojure.org/2022/07/18/contributing-clojure/)
 - [Using Clerk for Advent of Code](https://www.juxt.pro/blog/using-clerk-for-aoc/)
 - [Advent of Clojure: Need for Speed (2023)](https://narimiran.github.io/2023/01/17/advent-of-clojure.html)
+- [A Primer on Clojure Macros (2023)](https://blog.janetacarr.com/a-primer-on-clojure-macros/)
