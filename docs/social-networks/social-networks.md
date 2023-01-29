@@ -208,3 +208,4 @@ Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app to
 - [NodeInfo](https://github.com/jhass/nodeinfo) - Standardized way to expose metadata about an installation of a distributed social network.
 - [folkvangr](https://github.com/HeavyRain266/folkvangr) - Decentralized network based on Social Graph theory.
 - [Ask HN: Techwise, how did TikTok get so good? (2023)](https://news.ycombinator.com/item?id=34421594)
+- [Highest earning YouTubers from every country in the world](https://twitter.com/gregisenberg/status/1619764369293983746)

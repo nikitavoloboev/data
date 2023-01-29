@@ -156,3 +156,4 @@ Use [Google Flights](https://www.google.com/travel/flights) to buy plane tickets
 - [Tripsy](https://tripsy.app/) - Trip Planner.
 - [Getaiway](https://getaiway.com/) - Create Personalized Travel Plans with GPT-3.
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/) ([HN](https://news.ycombinator.com/item?id=34492052))
+- [Самое красивое место в котором вы были в жизни](https://twitter.com/ohhiiana/status/1619740412981420034)

@@ -43,3 +43,4 @@ title: Qwik
 - [Hono meets Qwik](https://github.com/yusukebe/hono-with-qwik) - Qwik City works on Cloudflare Workers and Bun with Hono / Qwik middleware.
 - [Qwik Nx Plugin](https://github.com/qwikifiers/qwik-nx)
 - [Qwik UI Components](https://github.com/qwikifiers/qwik-ui)
+- [Qwik nice form example](https://twitter.com/manucorporat/status/1619746669452750848)

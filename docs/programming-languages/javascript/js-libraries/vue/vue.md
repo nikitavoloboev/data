@@ -248,3 +248,4 @@ title: Vue.js
 - [NuxtJS Robots](https://github.com/nuxt-community/robots-module) - Nuxt.js module that injects a middleware to generate a robots.txt file.
 - [Nuxt Auth](https://github.com/sidebase/nuxt-auth) - Nuxt user authentication and sessions via NextAuth.
 - [BaklavaJS](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS.
+- [Advanced Data Fetching with Nuxt 3 (2023)](https://serversideup.net/advanced-data-fetching-with-nuxt-3/)

@@ -803,3 +803,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [polymath](https://github.com/dglazkov/polymath) - Utility that uses AI to intelligently answer free-form questions based on a particular library of content.
 - [Incorporating External Knowledge through Pre-training for Natural Language to Code Generation (2020)](https://arxiv.org/abs/2004.09015) ([Code](https://github.com/neulab/external-knowledge-codegen))
 - [Longformer: The Long-Document Transformer (2020)](https://arxiv.org/abs/2004.05150) ([Code](https://github.com/allenai/longformer))
+- [ProbSem](https://github.com/benlipkin/probsem) - Probabilistic semantic parsing with program synthesis LLMs.

@@ -132,3 +132,4 @@ title: Vite
 - [ViteConf 2022 Frameworks Panel](https://www.youtube.com/watch?v=gEJU-MuNoyU)
 - [R&D Bundler 3D Plugins](https://github.com/nytimes/rd-bundler-3d-plugins) - Bundler plugins for optimizing glTF 3D models.
 - [Vite Plugin SVGO](https://github.com/r3dDoX/vite-plugin-svgo) - Vite plugin to import and compress svg files with SVGO.
+- [Vite PWA](https://vite-pwa-org.netlify.app/) ([GitHub](https://github.com/vite-pwa))
