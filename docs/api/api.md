@@ -8,7 +8,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 
 [Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs.
 
-Looking into using [Chiselstrike](../tools/chiselstrike.md) for making [REST](../networking/rest.md) like APIs fast with [TypeScript](../programming-languages/typescript/typescript.md).
+[Chiselstrike](../tools/chiselstrike.md) seems nice for making [REST](../networking/rest.md) like APIs fast with [TypeScript](../programming-languages/typescript/typescript.md).
 
 ## Other
 

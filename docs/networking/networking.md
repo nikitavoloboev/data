@@ -579,3 +579,5 @@
 - [Netiquette](https://github.com/objective-see/Netiquette) - Lightweight open-source network monitor designed exclusively for macOS.
 - [Ask HN: Is it just me or is 5G strictly worse than LTE? (2023)](https://news.ycombinator.com/item?id=34564590)
 - [Ask HN: What's with the DIY state of the art long-range Wi-Fi? (2023)](https://news.ycombinator.com/item?id=34567704)
+- [3proxy](https://github.com/3proxy/3proxy) - Tiny free proxy server.
+- [MicroSocks](https://github.com/rofl0r/microsocks) - Portable SOCKS5 server with very moderate resource usage.

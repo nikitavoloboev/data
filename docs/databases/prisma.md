@@ -4,7 +4,9 @@ title: Prisma
 
 # [Prisma](https://www.prisma.io/)
 
-I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to do queries](https://www.youtube.com/watch?v=WVRLim8A8-I&t=1906s).
+Using it to currently to manage my schema and ORM for [LA](../ideas/learn-anything.md). 
+
+[EdgeDB](edgedb.md) is nice alternative and has a [better way to do queries](https://www.youtube.com/watch?v=WVRLim8A8-I&t=1906s). Might move to it soon.
 
 [Schemix](https://github.com/ridafkih/schemix) is neat.
 
