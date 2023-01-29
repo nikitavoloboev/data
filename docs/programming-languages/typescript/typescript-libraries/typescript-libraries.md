@@ -770,6 +770,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Current.js](https://github.com/marcoroth/current.js) - Allows you to access data stored in "current" HTML meta elements.
 - [extra-iterable](https://github.com/nodef/extra-iterable) - Collection of functions for operating upon iterables.
 - [ultramatter](https://github.com/natemoo-re/ultramatter) - 700B library for parsing frontmatter.
+- [Codemorph](https://github.com/razroo/codemorph) - Extensible, easy to understand, easy to contribute to, easy to use Codemod library.
+- [fast-check-io-ts](https://github.com/giogonzo/fast-check-io-ts) - io-ts codecs mapped to fast-check arbitraries.
+- [Dettle](https://github.com/fabiospampinato/dettle) - Tiny fully-featured debounce and throttle implementation.
 
 ## Links
 

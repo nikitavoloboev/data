@@ -609,3 +609,4 @@ all: unset
 - [The truth about CSS selector performance (2023)](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/) ([HN](https://news.ycombinator.com/item?id=34428619))
 - [Great CSS posts/videos (2023)](https://twitter.com/BHolmesDev/status/1617248463103598593)
 - [border emboiderer](https://github.com/MaxBittker/broider) - LoFi CSS border embroidery design maker. ([Web](https://maxbittker.github.io/broider/))
+- [dprint-plugin-css](https://github.com/disrupted/dprint-plugin-css) - Fast CSS code formatting using dprint.

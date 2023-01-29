@@ -37,6 +37,7 @@ Looking into using [Chiselstrike](../tools/chiselstrike.md) for making [REST](..
 - [GitHub R](https://github.com/r-lib/gh)
 - [GitHub Scala](https://github.com/47degrees/github4s)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
+- [Lemon Squeezy TS](https://github.com/NuroDev/lemonsqueezy.ts)
 - [HN](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Go HN](https://github.com/alexferrari88/GoHN)
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.

@@ -112,6 +112,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [live-command.nvim](https://github.com/smjonas/live-command.nvim) - Text editing in Neovim with immediate visual feedback.
+- [Neural](https://github.com/dense-analysis/neural) - Blazingly fast AI code generation, editing and completion plugin for Neovim.
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
 - [refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - Refactoring library based off the Refactoring book by Martin Fowler.
 - [traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim.

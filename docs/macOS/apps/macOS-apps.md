@@ -173,6 +173,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Spotify Notify](https://github.com/nahive/spotify-notify) - Rich, native Spotify notifications.
 - [Pinch](https://github.com/danqing/Pinch) - One-click fix for Mac trackpad pinch to zoom gesture.
 - [Dashlane macOS/iOS Code](https://github.com/Dashlane/apple-apps)
+- [Scoot](https://github.com/mjrusso/scoot) - Efficiently move your mouse cursor, using keyboard shortcuts.
 
 ## Other interesting apps
 

@@ -4,6 +4,8 @@
 
 [Intro to Parsing with Parsec in Haskell](https://github.com/JakeWheat/intro_to_parsing) is nice read.
 
+[basic-toml](https://github.com/dtolnay/basic-toml) has nice parsing code in Rust.
+
 ## Links
 
 - [Crowdsourcing the evolution of text parsing with unified (2018)](https://medium.com/unifiedjs/collectively-evolving-through-crowdsourcing-22c359ea95cc)

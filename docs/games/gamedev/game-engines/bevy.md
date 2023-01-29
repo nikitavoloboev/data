@@ -97,3 +97,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Scaling Bevy Development (2023)](https://bevyengine.org/news/scaling-bevy-development/) ([HN](https://news.ycombinator.com/item?id=34387062))
 - [Oxidized Navigation](https://github.com/TheGrimsey/oxidized_navigation) - Nav-Mesh generation plugin based on Recast's Navmesh generation to Bevy Engine in Rust.
 - [bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - Display bevy diagnostics on the window without any hassle.
+- [bevy_particle_systems](https://github.com/abnormalbrain/bevy_particle_systems) - Native and WASM compatible Particle System implementation for Bevy.

@@ -57,3 +57,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [kbs2](https://github.com/woodruffw/kbs2) - Secret manager backed by age.
 - [Ask HN: How do you manage your passwords in 2023?](https://news.ycombinator.com/item?id=34206768)
 - [Bitwarden Client Applications](https://github.com/bitwarden/clients)
+- [spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package.

@@ -1137,6 +1137,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [rBloom](https://github.com/kenbyte/rbloom) - Fast, simple and lightweight Bloom filter library for Python, fully implemented in Rust.
 - [beetrace](https://github.com/furkanonder/beetrace) - Trace your python process line by line with low overhead.
 - [OpenGraph](https://github.com/erikriver/opengraph) - Python module to parse the Open Graph Protocol.
+- [icalendar](https://github.com/collective/icalendar) - Internet Calendaring and Scheduling (iCalendar) for Python.
 
 ## Notes
 

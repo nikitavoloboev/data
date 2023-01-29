@@ -76,6 +76,7 @@
 - [Ecto.DevLogger](https://github.com/fuelen/ecto_dev_logger) - Alternative logger for Ecto queries.
 - [Ecto.ERD](https://github.com/fuelen/ecto_erd) - Mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.
 - [Flop](https://github.com/woylie/flop) - Filtering, ordering and pagination for Ecto.
+- [EctoDbg](https://github.com/akoutmos/ecto_dbg) - Utility to format and output Ecto queries.
 
 ## Test
 
@@ -295,3 +296,4 @@
 - [Rustler Precompiled](https://github.com/philss/rustler_precompiled) - Use precompiled NIFs from trusted sources in your Elixir code.
 - [Building a Cache in Elixir (2022)](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
 - [Elixir Without Ecto - Dynamic Queries (2022)](https://www.openmymind.net/Elixir-Without-Ecto-Dynamic-Queries/)
+- [Doctor](https://github.com/akoutmos/doctor) - Ensure that your Elixir project documentation is healthy.

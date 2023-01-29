@@ -6,7 +6,7 @@ title: Nix
 
 [Zero to Nix](https://zero-to-nix.com/), [Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/), [nix.dev](https://nix.dev/), [Nix One Pager](https://github.com/tazjin/nix-1p) & [Nix Book](https://github.com/NixOS/nix-book) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
 
-Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell), [statix](https://github.com/nerdypepper/statix), [deploy-rs](https://github.com/serokell/deploy-rs) & [devenv](https://devenv.sh/) are neat.
+Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell), [statix](https://github.com/nerdypepper/statix), [deploy-rs](https://github.com/serokell/deploy-rs), [devenv](https://devenv.sh/) & [nix-tree](https://github.com/utdemir/nix-tree) are neat.
 
 I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to install Nix on my mac.
 

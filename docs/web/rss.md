@@ -201,3 +201,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Gripes with RSS after one week (2022)](https://blog.jez.io/rss-after-one-week/) ([HN](https://news.ycombinator.com/item?id=34198759))
 - [Feeds: The Only Civilised Way to Read Online (2023)](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
 - [GoRead](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS feeds right in the terminal.
+- [goeland](https://github.com/slurdge/goeland) - RSS to email in Go.
