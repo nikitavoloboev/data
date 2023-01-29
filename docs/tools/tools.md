@@ -825,4 +825,5 @@ One of my favorite things in life is building little tools for solving even the 
 - [Crontool](https://tool.crontap.com/cronjob-debugger) - Free crontab/cron expressions editor online. ([Reddit](https://www.reddit.com/r/programming/comments/10hnl5z/finally_understood_cron/))
 - [Vikunja](https://vikunja.io/) - Open-source, self-hostable to-do app. ([HN](https://news.ycombinator.com/item?id=34469078)) ([GitHub](https://github.com/go-vikunja))
 - [tsxmod](https://github.com/souporserious/tsxmod) - Refactor code, migrate to new APIs, and better understand your codebase.
-- [CollabUML](https://github.com/AlexITC/collabuml) - PlantUML based app for online collaborative design on UML.
+- [CollabUML](https://github.com/AlexITC/collabuml) - PlantUML based app for online collaborative design on UML. ([HN](https://news.ycombinator.com/item?id=34555283))
+- [Eightify](https://www.eightify.app/) - YouTube Summaries Using GPT. ([HN](https://news.ycombinator.com/item?id=34548154))

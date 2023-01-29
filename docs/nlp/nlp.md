@@ -798,3 +798,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Sentences](https://github.com/neurosnap/sentences) - Command line sentence tokenizer.
 - [Diff Models – A New Way to Edit Code (2023)](https://carper.ai/diff-models-a-new-way-to-edit-code/) ([HN](https://news.ycombinator.com/item?id=34556688))
 - [MegaBlocks](https://github.com/stanford-futuredata/megablocks) - Light-weight library for mixture-of-experts (MoE) training.
+- [Read Pilot](https://readpilot.vercel.app/) - Analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js. ([Code](https://github.com/forrestchang/readpilot))
+- [Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts.
+- [polymath](https://github.com/dglazkov/polymath) - Utility that uses AI to intelligently answer free-form questions based on a particular library of content.
+- [Incorporating External Knowledge through Pre-training for Natural Language to Code Generation (2020)](https://arxiv.org/abs/2004.09015) ([Code](https://github.com/neulab/external-knowledge-codegen))

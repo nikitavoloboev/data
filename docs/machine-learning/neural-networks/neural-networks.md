@@ -327,3 +327,4 @@
 - [10 Days Of Grad: Deep Learning From The First Principles](https://github.com/masterdezign/10-days-of-grad)
 - [Neural Networks and the Chomsky Hierarchy (2022)](https://arxiv.org/abs/2207.02098) ([HN](https://news.ycombinator.com/item?id=34485631))
 - [Sizing Up Neural Nets](https://jott.live/markdown/nn_sizing)
+- [ManimML](https://github.com/helblazer811/ManimML) - Neural Network Animations with Python.

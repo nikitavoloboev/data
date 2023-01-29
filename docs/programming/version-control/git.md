@@ -634,3 +634,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-autofixup](https://github.com/torbiak/git-autofixup) - Create fixup commits for topic branches.
 - [gptcommit](https://github.com/zurawiki/gptcommit) - Git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [git-graph](https://github.com/mlange-42/git-graph) - Command line tool to visualize Git history graphs in a comprehensible way.
+- [Git Heat Map](https://github.com/jmforsythe/Git-Heat-Map) ([HN](https://news.ycombinator.com/item?id=34563851))
+- [Merging with diff3: the “three-way merge” (2017)](https://blog.jcoglan.com/2017/05/08/merging-with-diff3/) ([HN](https://news.ycombinator.com/item?id=34557827))

@@ -186,3 +186,4 @@
 - [Applied Stochastic Differential Equations (2019)](https://users.aalto.fi/~ssarkka/pub/sde_book.pdf)
 - [Stochastic Differential Equations: Introduction with Applications](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581)
 - [Probabilistic Filters By Example: Cuckoo Filter and Bloom Filters](https://bdupras.github.io/filter-tutorial/)
+- [Much Ado About Sampling (2022)](https://www.jeremyong.com/math/monte%20carlo/2022/05/17/much-ado-about-sampling/)

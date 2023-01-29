@@ -269,3 +269,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Mesh Processing Resources](https://github.com/QiujieDong/Mesh_Segmentation)
 - [Rendering in Camera Space(ish) (2018)](https://pharr.org/matt/blog/2018/03/02/rendering-in-camera-space)
 - [Teardown Frame Teardown (2023)](https://acko.net/blog/teardown-frame-teardown/)
+- [Tangent Spaces and Diamond Encoding (2023)](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)

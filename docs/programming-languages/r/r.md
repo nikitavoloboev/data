@@ -203,3 +203,4 @@
 - [rtables](https://github.com/Roche/rtables) - Reporting tables with R.
 - [torchaudio](https://github.com/mlverse/torchaudio) - R interface to torchaudio.
 - [Advanced R Book](https://adv-r.hadley.nz/) ([Code](https://github.com/hadley/adv-r))
+- [My Journey from R to Julia (2023)](https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/) ([HN](https://news.ycombinator.com/item?id=34566340))

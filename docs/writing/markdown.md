@@ -163,3 +163,5 @@
 - [goldmark-wikilink](https://github.com/abhinav/goldmark-wikilink) - Extension for goldmark Markdown parser adding support for parsing and rendering wikilinks.
 - [parsedown](https://github.com/rodneylab/parsedown) - WASM code for parsing Markdown into HTML with light output tweaking.
 - [MDRB](https://github.com/andrewbrey/mdrb) - Turn your Markdown documentation into executable runbooks.
+- [ultramark](https://github.com/natemoo-re/ultramark) - Tiny, spec-compliant Markdown library.
+- [remark-tree-sitter](https://github.com/s0/remark-tree-sitter) - Highlight code in Markdown files using tree-sitter and remark.

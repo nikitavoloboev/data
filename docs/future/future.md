@@ -122,3 +122,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: What are your predictions for the world in 2023?](https://news.ycombinator.com/item?id=34196161)
 - [Optimistic 2023 predictions](https://twitter.com/immad/status/1609664234664886272)
 - [2022 letter | Zhengdong](https://zhengdongwang.com/2022/12/28/2022-letter.html)
+- [Ask HN: What are those strategic skills to master for the next 5, 10 years? (2023)](https://news.ycombinator.com/item?id=34564382)

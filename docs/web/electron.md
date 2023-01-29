@@ -88,3 +88,4 @@ I also use [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) 
 - [Electron ASAR](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing.
 - [Debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app.
 - [Electron Context Menu](https://github.com/sindresorhus/electron-context-menu)
+- [electron/osx-sign](https://github.com/electron/osx-sign) - Codesign Electron macOS apps.

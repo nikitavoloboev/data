@@ -653,4 +653,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pgscripts](https://github.com/afiskon/pgscripts) - Scripts related to PostgreSQL development.
 - [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression.
 - [Postgres without a superuser - coming to v16 (2023)](http://rhaas.blogspot.com/2023/01/surviving-without-superuser-coming-to.html)
-- [Features I'd Like in PostgreSQL (2023)](https://gilslotd.com/blog/features_id_postgresql) ([HN](https://news.ycombinator.com/item?id=34560332))
+- [Features I'd Like in PostgreSQL (2023)](https://gilslotd.com/blog/features_id_postgresql) ([HN](https://news.ycombinator.com/item?id=34560332)) ([Lobsters](https://lobste.rs/s/s8vphc/features_i_d_like_postgresql))

@@ -66,3 +66,4 @@
 - [iA Presenter Theme Builder](https://themes.ia.net/presenter/builder)
 - [ChatBCG](https://www.chatbcg.com/) - Generative AI for Slides. ([HN](https://news.ycombinator.com/item?id=34167099))
 - [Manim Slides](https://github.com/jeertmans/manim-slides) - Tool for live presentations using manim.
+- [Search The Deck](https://www.searchthedeck.com/) - Search inside 15,000 pitchdeck slides. ([HN](https://news.ycombinator.com/item?id=34551000))

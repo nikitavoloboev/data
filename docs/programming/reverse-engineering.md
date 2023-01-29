@@ -135,3 +135,4 @@
 - [Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering.
 - [Sierra’s Macintosh Timebomb (2021)](https://www.benshoof.org/blog/sierras-macintosh-timebomb)
 - [binview](https://github.com/hymkor/binview) - Binary data view/editor on the terminal.
+- [Documenting reverse engineering of the original Lytro lightfield camera](https://github.com/ea/lytro_unlock)

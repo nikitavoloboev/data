@@ -2592,6 +2592,8 @@
 - [Autometrics](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries.
 - [Twinsies](https://github.com/Lucretiel/twinsies) - Specialized reference-counting pointer where the item is jointly owned in 2 places.
 - [Sediment](https://github.com/khonsulabs/sediment) - Low-level MVCC file format for storing blobs.
+- [bytebuffer](https://github.com/terahlunah/bytebuffer) - Easy to use API to read/write data from/to a bunch of bytes.
+- [force-directed-graph](https://github.com/zackradisic/force-directed-graph)
 
 ## Cargo Plugins
 
@@ -2908,4 +2910,5 @@
 - [What are some less popular but well-made crates you'd like others to know about? (2023)](https://www.reddit.com/r/rust/comments/106w4ao/what_are_some_less_popular_but_wellmade_crates/)
 - [Aya Template](https://github.com/aya-rs/aya-template) - Cargo-generate template for Rust eBPF Projects using Aya.
 - [Packaging Rust Applications for the NPM Registry (2023)](https://blog.orhun.dev/packaging-rust-for-npm/)
-- [Fallible - The Lost Sibling of Result and Option (2023)](https://datavirke.dk/posts/fallible-missing-rust-error-handling/)
+- [Fallible - The Lost Sibling of Result and Option (2023)](https://datavirke.dk/posts/fallible-missing-rust-error-handling/) ([Lobsters](https://lobste.rs/s/8mnx1e/fallible_lost_sibling_result_option))
+- [Using `tracing` with Rust CLI applications (2023)](https://blog.waleedkhan.name/tracing-rust-cli-apps/)

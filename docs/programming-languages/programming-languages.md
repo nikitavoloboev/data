@@ -520,3 +520,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [rtx](https://github.com/jdxcode/rtx) - Tool for managing programming language and tool versions.
 - [Garble](https://github.com/sine-fdn/garble-lang) - Turing-Incomplete Programming Language for Multi-Party Computation with Garbled Circuits.
+- [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)

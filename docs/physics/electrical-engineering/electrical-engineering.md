@@ -145,3 +145,4 @@ title: Electrical engineering
 - [TAB electronics books](https://worldradiohistory.com/BOOKSHELF-ARH/Bookshelf_TAB.htm) ([HN](https://news.ycombinator.com/item?id=34386066))
 - [Self-Soldering Circuits (2023)](https://www.youtube.com/watch?v=r0csHZveVvY) ([HN](https://news.ycombinator.com/item?id=34463869))
 - [Ask HN: Best Layman's Book on Electricity (2023)](https://news.ycombinator.com/item?id=34474403)
+- [Can an electric circuit do recursion?](https://electronics.stackexchange.com/questions/158897/can-an-electric-circuit-do-recursion/158915#158915) ([HN](https://news.ycombinator.com/item?id=34564279))

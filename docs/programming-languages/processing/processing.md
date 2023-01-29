@@ -29,3 +29,4 @@ title: Processing
 - [Flutter Processing](https://github.com/matthew-carroll/flutter_processing) - Flutter port of Processing.
 - [Processing 4.0](https://github.com/processing/processing4)
 - [Testing some things in Processing](https://github.com/JoseCutileiro/NiceStuff)
+- [Creative coding, making loops with Processing](https://bleuje.com/) ([HN](https://news.ycombinator.com/item?id=34556309))

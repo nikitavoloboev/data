@@ -311,6 +311,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Bob Nystrom](http://journal.stuffwithstuff.com/) ([Code](https://github.com/munificent/journal))
 - [Steven Wittens](https://acko.net/)
 - [Florian Noeding](https://florian.noeding.com/)
+- [Steno & PL](https://blog.waleedkhan.name/)
+- [Fernando Borretti](https://borretti.me/article/)
+- [Jeremy Ong](https://www.jeremyong.com/)
 
 ## Notes
 

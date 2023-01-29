@@ -27,3 +27,4 @@
 - [Optical Illusions of the Year (2022)](https://kottke.org/22/02/the-best-optical-illusions-of-the-year) ([HN](https://news.ycombinator.com/item?id=32735346))
 - [WoahDude Discord](https://discord.com/invite/woahdude)
 - [104 Mesmerizing Mosque Ceilings That Highlight The Wonders Of Islamic Architecture](https://www.boredpanda.com/mosque-ceilings/)
+- [Interactive Mathematics Miscellany and Puzzles](http://cut-the-knot.org/)

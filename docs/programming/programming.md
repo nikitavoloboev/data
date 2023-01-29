@@ -651,3 +651,4 @@ My current stack for writing software is described [here](https://twitter.com/ni
 - [Examples of problems with integers (2023)](https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/)
 - [Sources of Complexity: Constraints (2023)](https://www.hillelwayne.com/post/complexity-constraints/) ([Lobsters](https://lobste.rs/s/ncec23/sources_complexity_constraints))
 - [On the Algebraic Properties of Flame Graphs (2023)](https://arxiv.org/abs/2301.08941) ([Lobsters](https://lobste.rs/s/q2a1xu/on_algebraic_properties_flame_graphs)) ([HN](https://news.ycombinator.com/item?id=34500973))
+- [Grokking big unfamiliar codebases (2023)](https://www.jeremyong.com/game%20engines/2023/01/25/grokking-big-unfamiliar-codebases/) ([HN](https://news.ycombinator.com/item?id=34540051))

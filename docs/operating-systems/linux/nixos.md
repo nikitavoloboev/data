@@ -94,6 +94,7 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [Dustin Lacewell](https://github.com/dustinlacewell/dotfiles)
 - [Ryan Gibb](https://github.com/RyanGibb/nixos)
 - [Jonas Carpay](https://github.com/jonascarpay/nix)
+- [Morpheus's NixOS Flakes](https://github.com/Icy-Thought/snowflake)
 
 ## Nix configs (macOS)
 
@@ -300,3 +301,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [nh](https://github.com/viperML/nh) - Reimplements some basic NixOS commands.
 - [NixOS Vault Service](https://github.com/DeterminateSystems/nixos-vault-service) - NixOS module that allows easily integrating Vault with existing systemd services.
 - [Terraform NixOS Provider](https://github.com/corpix/terraform-provider-nixos)
+- [NixOS Installers for T2 Macs](https://github.com/t2linux/nixos-t2-iso)

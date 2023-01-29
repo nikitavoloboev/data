@@ -220,6 +220,7 @@ div.CodeMirror-cursor,
 - [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) - Obsidian plugin for manipulating sentences as a unit of movement.
 - [Obsidian Transcription](https://github.com/djmango/obsidian-transcription) - Create high-quality transcriptions from markdown linked audio files.
 - [Clipper](https://github.com/jgchristopher/obsidian-clipper) - Capture highlights from the web as Markdown entries in Obsidian.
+- [ActivityWatch Obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) - Obsidian plugin to track user activity with ActivityWatch.
 
 ## Themes
 

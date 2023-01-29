@@ -69,3 +69,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [GPT is all you need for the back end](https://github.com/TheAppleTucker/backend-GPT) ([HN](https://news.ycombinator.com/item?id=34503418))
 - [GPT-3 chatbot with long-term memory and external sources](https://github.com/daveshap/LongtermChatExternalSources)
 - [GPT Shell](https://github.com/firtoz/GPT-Shell) - OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
+- [Loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration.
+- [GPTZero](https://github.com/BurhanUlTayyab/GPTZero) - Implementing GPTZero from scratch – Reverse engineering GPTZero. ([HN](https://news.ycombinator.com/item?id=34557382))

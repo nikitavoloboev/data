@@ -23,3 +23,6 @@ title: Datasette
 - [Over-engineering Secret Santa with Python cryptography and Datasette (2022)](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/) ([Lobsters](https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with))
 - [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
 - [Datasette is my data hammer (2023)](https://www.jeremiak.com/blog/datasette-the-data-hammer/) ([HN](https://news.ycombinator.com/item?id=34416467))
+- [datasette-rewrite-sql](https://github.com/cldellow/datasette-rewrite-sql) - Datasette hook to inspect/rewrite the SQL users run.
+- [datasette-scraper](https://github.com/cldellow/datasette-scraper) - Add website scraping abilities to Datasette.
+- [datasette-ui-extras](https://github.com/cldellow/datasette-ui-extras) - Add some UI flourishes to Datasette.

@@ -240,6 +240,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [useLocalStorage](https://github.com/nas5w/use-local-storage) - Flexible React Hook for using Local Storage.
 - [useShareState](https://github.com/gus3inov/use-share-state) - Share state between tabs/windows.
 - [Frontend Essentials](https://github.com/theninthsky/frontend-essentials) - Set of useful functions, components and hooks.
+- [useScramble](https://github.com/tol-is/use-scramble) - React-hook to create randomized text animation.
 
 ## Code
 

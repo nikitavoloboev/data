@@ -10,7 +10,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro. [depu](https://github.com/kevwan/depu) is nice for updating dependencies.
 
-[mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON. [FreeCache](https://github.com/coocood/freecache) is nice caching lib.
+[mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON. [zerolo](https://github.com/rs/zerolog) is nice for parsing JSON too. [FreeCache](https://github.com/coocood/freecache) is nice caching lib.
 
 Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) is great for concurrency tasks. [script](https://github.com/bitfield/script) is nice for running shell commands. [Logrus](https://github.com/sirupsen/logrus) is nice for logging.
 
@@ -181,6 +181,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) - Tool for generating self-contained, type-safe test doubles in go.
 - [cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple Go snapshot testing.
 - [Go Snaps](https://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Go.
+- [Mocktail](https://github.com/traefik/mocktail) - Naive code generator that creates mock implementation using testify.mock.
 
 ## Web
 
@@ -1066,7 +1067,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [channels](https://github.com/eapache/channels) - Collection of helper functions and special types for working with and extending Go's existing channels.
 - [combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct.
 - [NTP](https://github.com/facebookincubator/ntp) - Collection of Facebook's NTP libraries.
-- [Ergo](https://github.com/ergo-services/ergo) - Framework for creating microservices using technologies and design patterns of Erlang/OTP in Go. ([Lobsters](https://lobste.rs/s/rqycvz/halturin_ergo_erlang_flavored_go)) ([Tweet](https://twitter.com/adolfont/status/1449139174276280320))
+- [Ergo](https://github.com/ergo-services/ergo) - Framework for creating microservices using technologies and design patterns of Erlang/OTP in Go. ([Lobsters](https://lobste.rs/s/rqycvz/halturin_ergo_erlang_flavored_go)) ([Tweet](https://twitter.com/adolfont/status/1449139174276280320)) ([Web](https://cloud.ergo.services/)) ([HN](https://news.ycombinator.com/item?id=34557116))
 - [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go.
 - [circuitbreaker](https://github.com/rubyist/circuitbreaker) - Provides an easy way to use the Circuit Breaker pattern in a Go program.
 - [UniPDF](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files.

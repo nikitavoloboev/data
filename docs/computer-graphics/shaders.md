@@ -121,3 +121,5 @@ title: Shaders
 - [twigl.app](https://twigl.app/) - Online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding. ([Code](https://github.com/doxas/twigl))
 - [HLSL Specifications](https://github.com/microsoft/hlsl-specs)
 - [Refraction, dispersion, and other shader light effects (2023)](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)
+- [Exploring Shaders with Compiler Explorer (2022)](https://www.jeremyong.com/shaders/gpus/assembly/2022/08/19/exploring-shaders-with-compiler-explorer/)
+- [Shader Playground](https://shader-playground.timjones.io/) - Exploring HLSL, GLSL, SPIR-V compilers. ([Code](https://github.com/tgjones/shader-playground))

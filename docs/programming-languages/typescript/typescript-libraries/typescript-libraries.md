@@ -773,6 +773,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Codemorph](https://github.com/razroo/codemorph) - Extensible, easy to understand, easy to contribute to, easy to use Codemod library.
 - [fast-check-io-ts](https://github.com/giogonzo/fast-check-io-ts) - io-ts codecs mapped to fast-check arbitraries.
 - [Dettle](https://github.com/fabiospampinato/dettle) - Tiny fully-featured debounce and throttle implementation.
+- [Promptable](https://github.com/promptable/Promptable.js) - Build your prompt engineering pipeline in Typescript.
+- [TTS-Schema](https://github.com/tusharmath/tts-schema) - Reify your types in Typescript.
 
 ## Links
 

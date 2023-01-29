@@ -243,3 +243,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Riffusion](https://www.riffusion.com) - Stable Diffusion fine-tuned to generate music. ([HN](https://news.ycombinator.com/item?id=33999162)) ([About](https://www.riffusion.com/about))
 - [Seesu](http://seesu.me/) - Last.fm recommendations and music downloads mashup application.
 - [Jazz Is Freedom (2022)](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) ([HN](https://news.ycombinator.com/item?id=34284645))
+- [Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds.

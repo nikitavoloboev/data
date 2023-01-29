@@ -497,3 +497,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Zero to Nix](https://zero-to-nix.com/) - Opinionated, gentle introduction to Nix. ([HN](https://news.ycombinator.com/item?id=34490376)) ([Lobsters](https://lobste.rs/s/kf3xym/introducing_zero_nix)) ([Code](https://github.com/DeterminateSystems/zero-to-nix))
 - [runix](https://github.com/timbertson/runix) - Run nix software without installing nix.
 - [iplz](https://github.com/jonascarpay/iplz) - Demo project for building, provisioning, and deploying a web service with a single command, using Terraform and Nix.
+- [nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs.

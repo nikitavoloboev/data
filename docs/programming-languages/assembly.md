@@ -119,3 +119,4 @@ title: Assembly
 - [The faker's guide to reading (x86) assembly language (2023)](https://www.timdbg.com/posts/fakers-guide-to-assembly/) ([HN](https://news.ycombinator.com/item?id=34241907))
 - [Simple examples of Assembly code for the Apple Silicon (M1) CPU](https://github.com/jdshaffer/Apple-Silicon-ASM-Examples)
 - [Small VMs & Coroutines (2023)](https://blog.dziban.net/coroutines/) ([Lobsters](https://lobste.rs/s/jrp9gv/small_vms_coroutines))
+- [Easy 6502, an assembly language tutorial (2015)](https://skilldrick.github.io/easy6502/) ([Code](https://github.com/skilldrick/easy6502/tree/gh-pages))

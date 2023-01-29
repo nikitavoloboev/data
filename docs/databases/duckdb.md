@@ -24,3 +24,4 @@ title: DuckDB
 - [Go SQL driver for DuckDB](https://github.com/marcboeker/go-duckdb)
 - [Using Polars on results from DuckDB's Arrow interface in Rust (2022)](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)
 - [PuffinDB](https://github.com/sutoiku/puffin) - Serverless data lake query engine powered by Iceberg × DuckDB × Arrow.
+- [duckdb_engine](https://github.com/Mause/duckdb_engine) - SQLAlchemy driver for DuckDB.

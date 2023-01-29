@@ -577,3 +577,4 @@
 - [MT-bulk](https://github.com/migotom/mt-bulk) - Automate sending mass commands to Mikrotik devices using SSH, SSL API and by REST API gateway.
 - [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker.
 - [Netiquette](https://github.com/objective-see/Netiquette) - Lightweight open-source network monitor designed exclusively for macOS.
+- [Ask HN: Is it just me or is 5G strictly worse than LTE? (2023)](https://news.ycombinator.com/item?id=34564590)

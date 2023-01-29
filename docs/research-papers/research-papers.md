@@ -216,3 +216,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Citation Manager for JupyterLab using Zotero Web API](https://github.com/krassowski/jupyterlab-citation-manager)
 - [Typst](https://typst.app/) - Compose papers faster. ([GitHub](https://github.com/typst))
 - [Ask HN: How do you read an academic paper? (2023)](https://news.ycombinator.com/item?id=34513835)
+- [Sci-Hub](https://sci-hub.ru/) - Knowledge as a human right. ([HN](https://news.ycombinator.com/item?id=34541505))

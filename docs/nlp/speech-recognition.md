@@ -175,3 +175,4 @@ title: Speech recognition
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper.
 - [Whisper.cpp example running fully in the browser](https://whisper.ggerganov.com/) ([HN](https://news.ycombinator.com/item?id=34484937))
 - [Mesostructures: Beyond Spectrogram Loss in Differentiable Time-Frequency Analysis (2023)](https://arxiv.org/abs/2301.10183) ([Code](https://github.com/cyrusvahidi/meso-dtfa))
+- [CLAP (Contrastive Language-Audio Pretraining)](https://github.com/microsoft/CLAP) - Neural network model that learns acoustic concepts from natural language supervision.

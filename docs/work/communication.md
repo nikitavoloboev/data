@@ -234,3 +234,4 @@ It's hard to really know someone's life story based on what others said or wrote
 - [Steve Jobs Insult Response](https://www.youtube.com/watch?v=oeqPrUmVz-o) ([HN](https://news.ycombinator.com/item?id=34032672))
 - [Conversation skills essentials](https://tynan.com/letstalk/) ([HN](https://news.ycombinator.com/item?id=34206418))
 - [Don't just say hello in chat](https://nohello.net/en/)
+- [Ask HN: I'd like to learn how to tell stories better to friends (2023)](https://news.ycombinator.com/item?id=34562930)

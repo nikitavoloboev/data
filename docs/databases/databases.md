@@ -765,3 +765,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Query Graphs](https://tableau.github.io/query-graphs/) - Visualizer for queries - Hyper, Postgres, Tableau. ([Code](https://github.com/tableau/query-graphs))
 - [Building a Simple DB in Rust (2023)](https://johns.codes/blog/build-a-db/part01) ([Part 2](https://johns.codes/blog/build-a-db/part02))
 - [cder](https://github.com/estie-inc/cder) - Lightweight, simple database seeding tool for Rust.
+- [The Magic of Small Databases (2023)](https://tomcritchlow.com/2023/01/27/small-databases/) ([HN](https://news.ycombinator.com/item?id=34558054))

@@ -314,3 +314,4 @@ Hi<div>oh no break</div>
 - [JSX Specification](https://github.com/facebook/jsx)
 - [HTML with Superpowers: The Guidebook (2023)](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/)
 - [Three attributes for better web forms (2023)](https://adactio.com/journal/19842)
+- [Use the dialog element (reasonably) (2023)](https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html)

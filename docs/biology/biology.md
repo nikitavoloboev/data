@@ -148,3 +148,4 @@
 - [Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D&index=1)
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations)
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology)
+- [Evidence of Multicellularity in Single Cell Organism (2023)](https://research.gatech.edu/more-e-coli-meets-eye-bme-lab-discovers-evidence-multicellularity-single-cell-organism) ([HN](https://news.ycombinator.com/item?id=34546273))
