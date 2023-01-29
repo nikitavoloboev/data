@@ -6,9 +6,13 @@ Russian culture and history is [fascinating](https://www.youtube.com/watch?v=9Lx
 
 It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
 
-Potential reasons why such risky gambit was made could be to [prevent Ukraine from getting access to its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), get land access to illegally annexed Crimea and distract Russian population with external threats to keep [status quo political power](https://twitter.com/ulrichspeck/status/1610247946834178049).
+Potential reasons why such risky gambit was made could to get land access to illegally annexed Crimea and solve [Crimea's water situation](https://www.youtube.com/watch?v=Aqq8clIceys), [prevent Ukraine from getting access and exporting its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3) and as a way to potentially repeat the political success that Crimea had on Putin. It's also 'easy' to distract Russian population with external threats and keep [status quo political power](https://twitter.com/ulrichspeck/status/1610247946834178049) when country is in a state of ongoing conflict. Official reasoning however is denazification and protection of borders from [NATO bases expanding even further](https://www.youtube.com/watch?v=I9fsYyMMD9Q).
 
-It is clear that after the initial attack has failed, there were no further plans made on how to adapt and Russia government has been trying to survive politically ever since.
+It is clear that after the initial attack has failed, there were no further plans made on how to adapt to prolonged conflict and Russia's government has been trying to survive politically ever since.
+
+In hindsight, while the blame of starting the war is on Putin and those who support the regime. It is still a political failure that this could not be sorted diplomatically. It could be that NATO could of given guarantees that Ukraine won't be in NATO after all instead of hinting at potential future where Ukraine will be in NATO. Although any kind of guarantees, even written ones, have been broken many times so I imagine that wouldn't have changed much anyway.
+
+We are not privy to what kinds of conversations took place before the war happened so it's hard to judge the situation from afar. I just hope that with the military loss of Russia in this conflict, such conflicts won't happen again at this scale. There are some silver linings in this war but they shouldn't have come at this cost.
 
 There's a lot of talk around collective guilt of Russians for these monstrous decisions. But given the sham that elections in Russia are and that people in Russia have no say in which direction Russia goes especially with respect to its foreign policy, it's tough subject.
 

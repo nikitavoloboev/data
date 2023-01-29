@@ -324,3 +324,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter Bio Generator](https://www.twitterbio.com/) ([Code](https://github.com/Nutlope/twitterbio))
 - [BirdsiteLIVE](https://github.com/NicolasConstant/BirdsiteLive) - ActivityPub bridge from Twitter.
 - [Twitter Video Tools](https://github.com/code-yeongyu/TwitterVideoTools) - Multi-processing supported twitter video downloader.
+- [Intercepting t.co links using DNS rewrites (2023)](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/)
