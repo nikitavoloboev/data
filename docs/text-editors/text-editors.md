@@ -161,6 +161,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Monaco Editor Wrapper](https://github.com/CodinGame/monaco-editor-wrapper)
 - [lighter](https://github.com/code-hike/lighter) - Syntax highlighter used by Code Hike.
 - [VZCode](https://github.com/vizhub-core/vzcode) - Multiplayer code editor system.
+- [HTML5 Text Editor](https://github.com/GoogleChromeLabs/text-editor) - Text editor build on the Native File System APIs.
 
 ## Notes
 
@@ -257,3 +258,4 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Codux](https://www.codux.com/) - Visual IDE for React.
 - [Gem](https://www.dropgem.app/) - Add images, audio notes, drawings and more in any text editor.
 - [TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage) - TextMate grammar files for TypeScript for VS Code, Sublime Text.
+- [Monaco tree-sitter](https://github.com/Menci/monaco-tree-sitter) - Highlight your Monaco Editor with tree-sitter grammar.

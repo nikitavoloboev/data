@@ -283,6 +283,7 @@ title: GitHub actions
 - [Branch Deploy Action](https://github.com/github/branch-deploy) - GitHub Action to enable branch deployments using IssueOps.
 - [Dependent Issues](https://github.com/z0al/dependent-issues) - GitHub Action for marking issues as dependent on another.
 - [Pull Request Comment Branch](https://github.com/xt0rted/pull-request-comment-branch) - Get the head ref and sha of a pull request comment.
+- [Cosign Installer](https://github.com/sigstore/cosign-installer)
 
 ## Go
 
@@ -321,6 +322,7 @@ title: GitHub actions
 - [Cargo Release PR](https://github.com/cargo-bins/release-pr) - GitHub Action to create a release PR using cargo-release.
 - [cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks-action) - GitHub Action for running cargo-semver-checks.
 - [release-meta](https://github.com/cargo-bins/release-meta) - Extract the metadata of a PR created by cargo-bins/release-pr.
+- [Clippy](https://github.com/giraffate/clippy-action) - Runs Clippy with reviewdog on pull requests to improve code review experience.
 
 ## Python
 

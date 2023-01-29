@@ -282,3 +282,4 @@
 - [xDSL](https://github.com/xdslproject/xdsl) - Compiler toolkit natively developed in Python.
 - [Devito](https://github.com/devitocodes/devito) - Code generation framework for automated finite difference computation.
 - [Ezno in '23](https://kaleidawave.github.io/posts/ezno-23/)
+- [Symbol Interposing & Hooking Shenanigans](https://github.com/DerekSelander/symbol-interposing)

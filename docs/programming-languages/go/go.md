@@ -960,3 +960,4 @@ if *boolArgPtr != false {
 - [gocheckcompilerdirectives](https://github.com/leighmcculloch/gocheckcompilerdirectives) - Check that go directories (//go: comments) are good.
 - [Parsing in Go Examples for Talk](https://github.com/awalterschulze/parsing-in-go-example)
 - [Go Random Chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat with high performance and linear scalability, written in go.
+- [Asobiba](https://soko.hajimehoshi.com/asobiba/) - Go playground in WebAssembly. ([Code](https://github.com/hajimehoshi/asobiba))

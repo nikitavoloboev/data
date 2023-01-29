@@ -344,3 +344,4 @@ title: Svelte
 - [CRStore](https://github.com/Azarattum/CRStore) - Conflict-free replicated svelte store.
 - [Simple Svelte Autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete)
 - [Svelte 4.0 feature speculation & suggestions](https://www.reddit.com/r/sveltejs/comments/10iud65/svelte_40_feature_speculation_suggestions/)
+- [Svelte app showing CRDT capabilities](https://github.com/oskarhane/svelte-grid-sync)

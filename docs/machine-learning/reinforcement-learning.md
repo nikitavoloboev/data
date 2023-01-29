@@ -430,3 +430,4 @@ title: Reinforcement learning
 - [DTQN](https://github.com/kevslinger/DTQN) - Deep Transformer Q-Networks for Partially Observable Reinforcement Learning.
 - [What are the current state-of-the-art RL algorithms? (2023)](https://www.reddit.com/r/reinforcementlearning/comments/10h4gms/what_are_the_current_stateoftheart_algorithms/)
 - [AutoCAT](https://github.com/facebookresearch/AutoCAT) - Reinforcement Learning for Automated Exploration of Cache-Timing Attacks.
+- [Miniworld](https://github.com/Farama-Foundation/Miniworld) - Simple and easily configurable 3D FPS-game-like environments for reinforcement learning.

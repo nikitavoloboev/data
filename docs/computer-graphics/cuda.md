@@ -50,3 +50,4 @@ title: CUDA
 - [CUDA rules for Bazel](https://github.com/bazel-contrib/rules_cuda)
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog (2022)](https://siboehm.com/articles/22/CUDA-MMM) ([HN](https://news.ycombinator.com/item?id=34256392))
 - [cutex](https://github.com/tjyuyao/cutex) - PyCUDA based PyTorch Extension Made Easy.
+- [Neural Network CUDA Example](https://github.com/godweiyang/NN-CUDA-Example) - Several simple examples for neural network toolkits (PyTorch, TensorFlow, etc.) calling custom CUDA operators.

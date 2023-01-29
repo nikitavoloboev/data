@@ -797,3 +797,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Awesome papers on Language-Model-as-a-Service (LMaaS)](https://github.com/txsun1997/LMaaS-Papers)
 - [Sentences](https://github.com/neurosnap/sentences) - Command line sentence tokenizer.
 - [Diff Models – A New Way to Edit Code (2023)](https://carper.ai/diff-models-a-new-way-to-edit-code/) ([HN](https://news.ycombinator.com/item?id=34556688))
+- [MegaBlocks](https://github.com/stanford-futuredata/megablocks) - Light-weight library for mixture-of-experts (MoE) training.

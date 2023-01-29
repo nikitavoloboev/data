@@ -243,3 +243,4 @@ title: Jupyter Notebooks
 - [You can run Rust code in a Jupyter notebook](https://github.com/google/evcxr/blob/1a2d6c40c467267801c7382edfa28028f99bbd9a/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb) ([HN](https://news.ycombinator.com/item?id=34380914))
 - [anywidget](https://github.com/manzt/anywidget) - Custom Jupyter widgets made easy.
 - [Jupyter-FS](https://github.com/jpmorganchase/jupyter-fs) - File system-like contents manager for multiple backends in Jupyter.
+- [Jupyter Notebook Viewer for macOS](https://github.com/tuxu/nbviewer-app)

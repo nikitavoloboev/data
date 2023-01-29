@@ -275,6 +275,7 @@ Below is a list of extensions I use.
 - [EffectTS LSP](https://github.com/Effect-TS/language-service)
 - [TS Extract Interface](https://github.com/luthfianto/ts-extract-interface) - VSCode extension to extract an interface from a TypeScript class.
 - [TypeScript Explorer](https://marketplace.visualstudio.com/items?itemName=mxsdev.typescript-explorer) ([Code](https://github.com/mxsdev/ts-type-explorer))
+- [TSConfig Helper](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-tsconfig-helper) ([Code](https://github.com/johnsoncodehk/vscode-tsconfig-helper))
 
 ## DB
 

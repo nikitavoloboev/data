@@ -220,3 +220,4 @@ title: Terraform
 - [Terranix](https://terranix.org/) - Terraform in nix.
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow.
 - [tf-nix](https://github.com/arcnmx/tf-nix) - Terraform meets nix.
+- [Crossplane provider for Terraform](https://github.com/upbound/provider-terraform)

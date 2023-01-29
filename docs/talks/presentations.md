@@ -65,3 +65,4 @@
 - [iA Presenter](https://ia.net/presenter) - Fast and fun way to create and hold presentations. ([Twitter](https://twitter.com/iAPresenter))
 - [iA Presenter Theme Builder](https://themes.ia.net/presenter/builder)
 - [ChatBCG](https://www.chatbcg.com/) - Generative AI for Slides. ([HN](https://news.ycombinator.com/item?id=34167099))
+- [Manim Slides](https://github.com/jeertmans/manim-slides) - Tool for live presentations using manim.

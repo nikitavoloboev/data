@@ -10,6 +10,7 @@ Here is a list of various things I track for my own use and reference.
 ## Movies
 
 - [Letterboxd](https://letterboxd.com/nikitavoloboev) - Movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well [movies I saw](https://letterboxd.com/nikitavoloboev/films/) together with [reviews I wrote](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various [movie lists](https://letterboxd.com/nikitavoloboev/lists/) I made and shared.
+- [Kinopoisk](https://www.kinopoisk.ru/user/56364706/) - Russian movies/series tracked.
 
 ## TV series
 

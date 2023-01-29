@@ -2026,6 +2026,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [OpenAPI Go](https://github.com/swaggest/openapi-go) - OpenAPI structures for Go.
 - [Bytemap](https://github.com/carlmjohnson/bytemap) - Types for making maps from bytes to bool, integer, or float using a backing array.
 - [pointy](https://github.com/openlyinc/pointy) - Simple Go helper functions to provide a shorthand to get a pointer to a variable holding a constant.
+- [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Go.
 
 ## Links
 

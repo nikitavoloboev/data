@@ -192,3 +192,4 @@ I always value readability and extendability over being able to write/edit thing
 - [Tailwind Tagged](https://github.com/jacob-ebey/tailwind-tagged) - Way to use tailwind by writing standard CSS.
 - [tw variants](https://github.com/Mokshit06/tw-variants) - Tailwind variant grouping without increasing CSS size.
 - [Typewind](https://github.com/mokshit06/typewind) - Safety of Typescript with the magic of Tailwind. ([Tweet](https://twitter.com/Mokshit06/status/1617880004846825474))
+- [Tailwind Radix Colors](https://github.com/mrcaidev/tailwindcss-radix-colors) - Bring Radix UI's color system to Tailwind CSS.

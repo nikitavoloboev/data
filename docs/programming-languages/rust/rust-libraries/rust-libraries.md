@@ -2589,6 +2589,8 @@
 - [nuts-rs](https://github.com/pymc-devs/nuts-rs) - No U-turn Sampler in Rust.
 - [basic-toml](https://github.com/dtolnay/basic-toml) - Minimal TOML library with few dependencies.
 - [Either](https://github.com/bluss/either) - Enum Either with variants Left and Right and trait implementations including Iterator, Read, Write.
+- [Autometrics](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries.
+- [Twinsies](https://github.com/Lucretiel/twinsies) - Specialized reference-counting pointer where the item is jointly owned in 2 places.
 
 ## Cargo Plugins
 
