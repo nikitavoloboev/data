@@ -37,6 +37,7 @@
 - [Lakeside Theatre / Hexia Architects + MADAM](https://www.archdaily.com/988443/lakeside-theatre-hexia-architects-plus-madam)
 - [Inside Sienna Miller's Secluded Country Cottage](https://www.youtube.com/watch?v=w4HmK4JCN2U)
 - [Romee Strijd's new home](https://www.youtube.com/watch?v=_hP6SNX2Xps)
+- [Hoke House](https://skylabarchitecture.com/work/hoke-house/)
 
 ## Inspiring
 
@@ -120,3 +121,4 @@
 - [50 Фотографий беседок, в которых хочется жить](https://make-self.net/masterskaya/item/besedka-photo.html)
 - [Why was Roman concrete so durable? (2023)](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106) ([HN](https://news.ycombinator.com/item?id=34280239))
 - [The Pretty Good House](https://www.prettygoodhouse.org/) ([HN](https://news.ycombinator.com/item?id=34408123))
+- [Skylab Architecture](https://skylabarchitecture.com/)

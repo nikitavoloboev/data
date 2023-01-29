@@ -2,7 +2,7 @@
 
 Most important thing I always try to be mindful of is keeping straight back (no slouching). Good chair / standing desk is super useful in that regard. As well as taking breaks walking/cycling or doing some sport. Straight back with some kind of [exercise](../fitness/exercises.md) daily should be enough to keep my body healthy for long time I think. I try to do some kind of [strength training](../fitness/strength-training.md) workout weekly too.
 
-I use [Herman Miller Embody with standing desk](https://esgaming.hermanmiller.com/collections/all/products/silla-para-videojuegos-embody-herman-miller-y-logitech-g-negro) I like. I try work with clean air around whether its from the open windows or by being outside.
+I use [Herman Miller Embody](https://esgaming.hermanmiller.com/products/embody-gaming-chair-black) with [standing desk](https://esgaming.hermanmiller.com/collections/menu/products/nevi-gaming-desk-black-black) I like. I try work with clean air around whether its from the open windows or by being outside.
 
 I can't stand working on chairs that don't let me relax my spine properly. If I do it often enough I actually get pains in the back.
 

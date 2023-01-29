@@ -566,3 +566,4 @@ I want to:
 - [grdn](https://github.com/chriskrycho/grdn) - Simple protocol for garden-style content feeds.
 - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [Zotero Tag](https://github.com/windingwind/zotero-tag) - One add-on to rule Tags all. Manage all your Tags in one Zotero add-on.
+- [docstore](https://github.com/alexwlchan/docstore) - Tool I wrote to help me manage my scanned documents and reference files.

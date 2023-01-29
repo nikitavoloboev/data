@@ -585,3 +585,4 @@ for i, _ in enumerate(nums):
 - [Skulpt](https://github.com/skulpt/skulpt) - JavaScript implementation of Python.
 - [Ruff LSP](https://github.com/charliermarsh/ruff-lsp) - Language Server Protocol implementation for Ruff.
 - [Notes on ruff (2023)](https://whynothugo.nl/journal/2023/01/20/notes-on-ruff/)
+- [Ask HN: Which book would you recommend for learning Python in detail? (2023)](https://news.ycombinator.com/item?id=34569425)

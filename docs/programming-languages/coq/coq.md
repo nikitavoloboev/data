@@ -187,3 +187,4 @@ title: Coq
 - [Purely functional IO for Coq](https://github.com/Lysxia/coq-simple-io)
 - [File Synchroniser](https://github.com/liyishuai/file-sync) - File synchroniser specification in Coq.
 - [Proof of the Church-Rosser theorem using locally nameless representation in Coq](https://github.com/sweirich/lambda-calculus)
+- [Clutch](https://github.com/logsem/clutch) - Higher-order probabilistic relational separation logic with support for asynchronous probabilistic couplings.

@@ -315,6 +315,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Steno & PL](https://blog.waleedkhan.name/)
 - [Fernando Borretti](https://borretti.me/article/)
 - [Jeremy Ong](https://www.jeremyong.com/)
+- [Alex Chan](https://alexwlchan.net/all-posts/)
 
 ## Notes
 

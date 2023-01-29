@@ -753,3 +753,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Yandex Services Source Code Leak (2023)](https://arseniyshestakov.com/2023/01/26/yandex-services-source-code-leak/) ([HN](https://news.ycombinator.com/item?id=34525936))
 - [Calligrapher.ai](https://www.calligrapher.ai/) - Realistic computer-generated handwriting. ([HN](https://news.ycombinator.com/item?id=34530011))
 - [Ask HN: Why Is Everything Declining? (2023)](https://news.ycombinator.com/item?id=34560255)
+- [Gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+- [Take more screenshots (2022)](https://alexwlchan.net/2022/screenshots/) ([HN](https://news.ycombinator.com/item?id=34544199))
