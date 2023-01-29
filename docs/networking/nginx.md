@@ -94,3 +94,4 @@ title: Nginx
 - [ngx](https://github.com/qba73/ngx) - Go client library for NGINX Plus API.
 - [ngx_mruby](https://github.com/matsumotory/ngx_mruby) - Fast and Memory-Efficient TCP/UDP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx.
 - [NGINX Kubernetes Gateway](https://github.com/nginxinc/nginx-kubernetes-gateway) - Implementation for the Gateway API using NGINX as the data plane.
+- [Angie](https://github.com/webserver-llc/angie) - Drop-in replacement for Nginx.
