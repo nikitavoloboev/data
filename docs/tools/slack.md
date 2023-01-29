@@ -105,3 +105,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Ask HN: I have diagnosed ADHD and cannot work with Slack anymore – advice? (2022)](https://news.ycombinator.com/item?id=34013643)
 - [Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)
 - [Deno Slack Data Mapper](https://github.com/seratch/deno-slack-data-mapper) - Handy way to manage data using Slack's next-generation hosting platform datastores.
+- [Notify Slack Action](https://github.com/ravsamhq/notify-slack-action) - Send a Slack Notification from Github Actions regarding failure, warnings, or even success.

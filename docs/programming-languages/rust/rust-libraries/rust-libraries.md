@@ -2587,6 +2587,8 @@
 - [llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust.
 - [csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context.
 - [nuts-rs](https://github.com/pymc-devs/nuts-rs) - No U-turn Sampler in Rust.
+- [basic-toml](https://github.com/dtolnay/basic-toml) - Minimal TOML library with few dependencies.
+- [Either](https://github.com/bluss/either) - Enum Either with variants Left and Right and trait implementations including Iterator, Read, Write.
 
 ## Cargo Plugins
 

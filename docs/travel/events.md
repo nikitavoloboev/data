@@ -4,6 +4,10 @@ I love meeting new people. Best places to meet people are usually events of some
 
 I add any person I found interesting to [my contacts](../macOS/apps/contacts.md). [Luma](https://lu.ma/) is my preferred way to organize events. [Guild](https://beta.guild.host/) seems nice too.
 
+## Neat event pages
+
+- [Flat Camp](https://flatcamp.com/)
+
 ## Links
 
 - [Awesome events](https://github.com/learn-anything/events)

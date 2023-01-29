@@ -364,3 +364,4 @@ It's wild [how far humans got](https://www.youtube.com/watch?v=PHiyQID7SBs) to u
 - [Arvin Ash - YouTube](https://www.youtube.com/@ArvinAsh/videos)
 - [The Equation That Explains (Nearly) Everything! (2023)](https://www.youtube.com/watch?v=PHiyQID7SBs)
 - [Why Is Everything Made Of Atoms? (2022)](https://www.youtube.com/watch?v=ae36scLdCsE)
+- [Diamond formation from hydrocarbon mixtures in planets (2022)](https://arxiv.org/abs/2207.02927) ([Code](https://github.com/BingqingCheng/highp-ch))

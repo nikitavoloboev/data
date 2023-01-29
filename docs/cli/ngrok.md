@@ -29,3 +29,4 @@ If I started my local server on port 3000. This command: `ngrok http 3000` will 
 - [CRProxy](https://crproxy.com/) - Simple and affordable ngrok alternative. ([HN](https://news.ycombinator.com/item?id=31886120))
 - [Ngrok Firewall Toolkit](https://github.com/ngrok/firewall_toolkit)
 - [ngrok-rs](https://github.com/ngrok/ngrok-rs) - Ngrok agent in library form, suitable for integrating directly into your Rust application.
+- [SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
