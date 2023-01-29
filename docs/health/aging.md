@@ -133,3 +133,4 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Two research teams reverse signs of aging in mice (2023)](https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice) ([HN](https://news.ycombinator.com/item?id=34385785))
 - [Blueprint](https://blueprint.bryanjohnson.co/)
 - [Loss of epigenetic information as a cause of mammalian aging (2023)](<https://www.cell.com/cell/fulltext/S0092-8674(22)01570-7#%20>)
+- [For longevity, muscle strength may be as important as aerobic exercise](https://www.washingtonpost.com/wellness/2023/01/29/strength-training-all-ages/) ([HN](https://news.ycombinator.com/item?id=34570264))

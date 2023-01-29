@@ -1055,3 +1055,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Deep Equilibrium Approaches to Diffusion Models (2022)](https://arxiv.org/abs/2210.12867) ([Code](https://github.com/locuslab/deq-ddim))
 - [Causal Transformer Decoder](https://github.com/alex-matton/causal-transformer-decoder)
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) ([Code](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io))
+- [The Transformer Family (2023)](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) ([HN](https://news.ycombinator.com/item?id=34566275))

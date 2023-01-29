@@ -316,6 +316,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Fernando Borretti](https://borretti.me/article/)
 - [Jeremy Ong](https://www.jeremyong.com/)
 - [Alex Chan](https://alexwlchan.net/all-posts/)
+- [Daniel Harper](https://djharper.dev/)
 
 ## Notes
 
