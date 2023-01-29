@@ -1054,3 +1054,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [MPCFormer: fast, performant and private Transformer inference with MPC (2022)](https://arxiv.org/abs/2211.01452) ([Code](https://github.com/MccRee177/MPCFormer))
 - [Deep Equilibrium Approaches to Diffusion Models (2022)](https://arxiv.org/abs/2210.12867) ([Code](https://github.com/locuslab/deq-ddim))
 - [Causal Transformer Decoder](https://github.com/alex-matton/causal-transformer-decoder)
+- [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) ([Code](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io))

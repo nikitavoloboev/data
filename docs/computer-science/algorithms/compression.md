@@ -165,3 +165,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [lzwCompress.js](https://github.com/floydpink/lzwCompress.js) - Lossless LZW compression/decompression implemented in JavaScript for strings/JSON/JS objects.
 - [zx](https://github.com/jondot/zx) - Make extracting archive plain and simple.
 - [ndzip](https://github.com/celerity/ndzip) - High-Throughput Parallel Lossless Compressor for Scientific Data.
+- [Zap](https://github.com/SteveGremory/Zap) - Extremely fast alternative to zip which is written in rust.

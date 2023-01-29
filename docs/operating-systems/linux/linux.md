@@ -682,3 +682,4 @@ title: Linux
 - [Kernel-WASM](https://github.com/wasmerio/kernel-wasm) - Sandboxed kernel mode WebAssembly runtime for Linux. ([HN](https://news.ycombinator.com/item?id=34463828))
 - [Libbpf](https://github.com/libbpf/libbpf) - BPF program loader.
 - [Linux SVSM (Secure VM Service Module)](https://github.com/AMDESE/linux-svsm)
+- [Linux Security and Hardening Security Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide)

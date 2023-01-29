@@ -142,3 +142,4 @@
 - [acp](https://github.com/Contextualist/acp) - P2P file transfer with edge-function-based TCP hole-punching. ([HN](https://news.ycombinator.com/item?id=34408197))
 - [Zipline](https://github.com/diced/zipline) - ShareX/file upload server that is easy to use, packed with features, and with an easy setup.
 - [sendme](https://github.com/n0-computer/sendme) - Send data over the internet.
+- [LocalSend](https://github.com/localsend/localsend) - Open source cross-platform alternative to AirDrop.

@@ -118,3 +118,4 @@ I made [my CV](https://nikiv.dev/cv.pdf) using [Awesome CV](https://github.com/p
 - [Unsolicited Resume Advice from a hiring manager](https://www.reddit.com/r/sysadmin/comments/u7urub/unsolicited_resume_advice_from_a_hiring_manager/)
 - [Resume-Operator - Jeff Davis](https://github.com/JefeDavis/Resume-Operator) - Kubernetes operator to build & host my resume, powered by operator-builder.
 - [Make a Resume in LaTeX (2022)](https://drshika.me/2022/04/15/latex-resumes) ([HN](https://news.ycombinator.com/item?id=34503888))
+- [What we look for in a resume (2023)](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) ([HN](https://news.ycombinator.com/item?id=34519268))

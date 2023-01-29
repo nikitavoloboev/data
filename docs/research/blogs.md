@@ -23,6 +23,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 ## Favorite blogs
 
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
+- [Chip Huyen](https://huyenchip.com/blog/)
 - [Not a Number](https://www.nan.fyi/)
 - [Armin Ronacher](https://lucumr.pocoo.org/)
 - [Simon Sarris](https://simonsarris.substack.com/)

@@ -8,7 +8,7 @@ I dislike languages with semicolons which is why I prefer [Swift](swift/swift.md
 
 I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded code without GC or target [WASM](../web/webassembly.md). Although even there, [TinyGo](https://tinygo.org/) can be enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
 
-[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md). [Gluon](https://github.com/gluon-lang/gluon) is nice embedded functional language. [Austral](https://github.com/austral/austral) is great implementation of linear types. [Cyber](https://cyberscript.dev/) is neat scripting language.
+[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md). [Gluon](https://github.com/gluon-lang/gluon) is nice embedded functional language. [Austral](https://github.com/austral/austral) is great implementation of linear types. [Cyber](https://cyberscript.dev/) & [Bog](https://github.com/Vexu/bog) seem nice for scripting although I prefer [TS](typescript/typescript.md)/[Bun](javascript/bun.md).
 
 [Effects bibliography](https://github.com/yallop/effects-bibliography) is a nice read.
 
@@ -521,3 +521,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [rtx](https://github.com/jdxcode/rtx) - Tool for managing programming language and tool versions.
 - [Garble](https://github.com/sine-fdn/garble-lang) - Turing-Incomplete Programming Language for Multi-Party Computation with Garbled Circuits.
 - [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)
+- [Bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language. ([HN](https://news.ycombinator.com/item?id=34567815))

@@ -1123,3 +1123,4 @@
 - [Text2LIVE: Text-Driven Layered Image and Video Editing (2022)](https://arxiv.org/abs/2204.02491) ([Code](https://github.com/omerbt/Text2LIVE))
 - [Disentangled Representation Learning for Text-Video Retrieval (2022)](https://arxiv.org/abs/2203.07111) ([Code](https://github.com/foolwood/DRL))
 - [Text-To-4D Dynamic Scene Generation (2023)](https://arxiv.org/abs/2301.11280) ([HN](https://news.ycombinator.com/item?id=34544630))
+- [PhyCV](https://github.com/JalaliLabUCLA/phycv) - Physics-inspired Computer Vision Library.

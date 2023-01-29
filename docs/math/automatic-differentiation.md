@@ -50,3 +50,4 @@ title: Automatic differentiation
 - [Automatic Differentiation: Forward and Reverse (2022)](https://jingnanshi.com/blog/autodiff.html) ([HN](https://news.ycombinator.com/item?id=31318865))
 - [Diffuzers](https://github.com/abhishekkrthakur/diffuzers) - Web UI for diffusers.
 - [PT-AD](https://github.com/PTsolvers/PT-AD) - Combine solvers using the Pseudo-Transient Method with Automatic Differentiation (AD) tools.
+- [horde-ad](https://github.com/Mikolaj/horde-ad) - Higher Order Reverse Derivatives Efficiently.

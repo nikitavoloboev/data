@@ -34,3 +34,4 @@ Learning to make [icons](icons.md) of all kinds.
 - [Great books on doing logo design (2022)](https://twitter.com/kevintwohy/status/1607884379921215490)
 - [Logo Scrape](https://github.com/fritzh321/logo-scrape) - Scrapes/Crawls the logo from a provided url(s)/website for your Node.js applications.
 - [Logos as SF Symbols](https://github.com/jeremieb/social-symbols)
+- [Logggos](https://www.logggos.club/) - Well-Designed Logos for Your Inspiration.

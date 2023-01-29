@@ -96,3 +96,4 @@ title: Android
 - [Apk.sh](https://github.com/ax/apk.sh) - Bash script that makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK. ([HN](https://news.ycombinator.com/item?id=34028601))
 - [Rust bindings to the Android NDK](https://github.com/rust-mobile/ndk)
 - [Android Dev Notes](https://twitter.com/androiddevnotes)
+- [Android Basics with Compose course](https://developer.android.com/courses/android-basics-compose/course)

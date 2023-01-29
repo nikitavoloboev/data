@@ -2,6 +2,8 @@
 
 [FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management. [Sheet](https://github.com/danielsaidi/Sheeeeeeeeet) is neat for action sheets. [Cache](https://github.com/hyperoslo/Cache) is nice lib for caching. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) is nice too. [SwiftPrettyPrint](https://github.com/YusukeHosonuma/SwiftPrettyPrint) is useful for printing.
 
+[swift-rs](https://github.com/Brendonovich/swift-rs) is neat way to call Swift functions from [Rust](../../rust/rust.md).
+
 ## CLI
 
 - [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
@@ -659,6 +661,7 @@
 - [UITestingPlus](https://github.com/ChimeHQ/UITestingPlus) - Utilities for working with XCUI testing.
 - [BDDSwift](https://github.com/KaneCheshire/BDDSwift) - Type-safe, compiler-enforced way of writing BDD steps and scenarios in Swift for XCTest.
 - [Distribute XCFramework with mixed implementation only and exported dependencies](https://github.com/DrAma999/XCFramework-with-dep-example)
+- [SwiftDocTest](https://github.com/schwa/SwiftDocTest) - Experimental tool for testing Swift example code in documentation.
 
 ## API
 
@@ -1401,6 +1404,8 @@
 - [CodeEditLanguages](https://github.com/CodeEditApp/CodeEditLanguages) - Collection of Tree-Sitter Parsers for Syntax Highlighting.
 - [y-uniffi](https://github.com/y-crdt/y-uniffi) - Yrs UniFFI Language Binding.
 - [RoundedPath](https://github.com/mayoff/RoundedPath) - Swift package for rounding the corners of a graphics path.
+- [YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor.
+- [Timerable](https://github.com/EmadBeyrami/Timerable) - Protocol-oriented Timer Factory with all the features you'll ever need.
 
 ## Other (not lib)
 

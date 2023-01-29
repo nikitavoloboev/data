@@ -4,7 +4,7 @@ title: Software architecture
 
 # [Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
 
-I love the idea of [building truly offline first software where backend failing isn't a big deal. All operations are done locally (fast), then sync deltas to server](https://twitter.com/_vojto/status/1466540419404247043). Like [Replicache](https://replicache.dev/). Good example of such app is [Linear](https://linear.app/).
+I love the idea of [building truly offline first software where backend failing isn't a big deal. All operations are done locally (fast), then sync deltas to server](https://twitter.com/_vojto/status/1466540419404247043). Like [Replicache](https://replicache.dev/) or [TinyBase](https://tinybase.org/). Good example of such app is [Linear](https://linear.app/).
 
 My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/Deno services](https://news.ycombinator.com/item?id=29627047). [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) has nice architecture insights.
 
@@ -288,3 +288,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Your tech stack is not the product (2023)](https://hoho.com/posts/your-stack-is-not-the-product/) ([HN](https://news.ycombinator.com/item?id=34361063))
 - [Disassembling Rewind.ai](https://kevinchen.co/blog/rewind-ai-app-teardown/) ([HN](https://news.ycombinator.com/item?id=34449940))
 - [Ask HN: What would be your stack if you are building an MVP today? (2023)](https://news.ycombinator.com/item?id=34530052)
+- [Building a Startup from Scratch: My Mistakes as CTO (2023)](https://egor-romanov.medium.com/building-a-startup-from-scratch-my-mistakes-as-cto-b20b463e0058)

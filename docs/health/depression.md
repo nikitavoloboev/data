@@ -81,3 +81,4 @@ Another thing that grealy helped overcome any sadness or depressive thoughts I h
 - [Study: Electroshock therapy more successful for depression than ketamine (2022)](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/) ([HN](https://news.ycombinator.com/item?id=33310076))
 - [Getting Out of a Rut (2022)](https://news.ycombinator.com/item?id=33297934)
 - [Depression (2022)](https://muan.co/posts/depression)
+- [The Cause of Depression Is Probably Not What You Think (2023)](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)

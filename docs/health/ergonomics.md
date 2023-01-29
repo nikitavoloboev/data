@@ -10,6 +10,8 @@ Together with above, I try do many [exercises](../fitness/exercises.md) that tar
 
 I found when I don't have proper table/chair to work from it's not as bad to work in bed by lying down on the stomach with pillow under the chin and macbook in front. The spine is stretched out and there is no unnecessary pressure anywhere. It's much nicer than sitting on chairs where you are forced to slouch or put pressure to keep proper posture.
 
+My favorite work setup is something [like this](https://twitter.com/neee_eeed/status/1619368842677059584) but with proper chair/table.
+
 ## Chairs
 
 - [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody-gaming-chair/2517590.html) ([Review](https://www.youtube.com/watch?v=GgdsxxO88oQ)) ([Review](https://www.youtube.com/watch?v=y9kSNdxA8y8))

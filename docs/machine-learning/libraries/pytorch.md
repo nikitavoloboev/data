@@ -495,3 +495,4 @@ title: PyTorch
 - [MVTorch](https://github.com/ajhamdi/mvtorch) - Modular PyTorch library for multi-view research on 3D understanding and 3D generation.
 - [TorchMD](https://github.com/torchmd/torchmd) - End-To-End Molecular Dynamics (MD) Engine using PyTorch.
 - [PyTorch Vulkan Back End User Workflow](https://pytorch.org/tutorials/prototype/vulkan_workflow.html)
+- [tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - Minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.

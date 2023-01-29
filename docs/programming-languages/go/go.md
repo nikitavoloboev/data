@@ -163,7 +163,7 @@ if *boolArgPtr != false {
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)
 - [GitHub Actions for Go](https://github.com/mvdan/github-actions-golang) - Using GitHub Actions as CI effectively for Go.
 - [NFPM](https://github.com/goreleaser/nfpm) - Simple deb and rpm packager written in Go.
-- [Why Go and not Rust? (2019)](https://kristoff.it/blog/why-go-and-not-rust/) ([HN](https://news.ycombinator.com/item?id=20983922))
+- [Why Go and not Rust? (2019)](https://kristoff.it/blog/why-go-and-not-rust/) ([HN](https://news.ycombinator.com/item?id=20983922)) ([HN](https://news.ycombinator.com/item?id=34552981))
 - [Algorithms implemented in Go (for education)](https://github.com/TheAlgorithms/Go)
 - [go-callvis](https://github.com/TrueFurby/go-callvis) - Visualize call graph of a Go program using dot (Graphviz).
 - [goo](https://github.com/benbjohnson/goo) - Simple wrapper around the Go toolchain.

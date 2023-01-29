@@ -25,6 +25,7 @@
 - [network](https://github.com/haskell/network) - Low-level networking interface.
 - [OpenAPI Code Generator](https://github.com/Haskell-OpenAPI-Code-Generator/Haskell-OpenAPI-Client-Code-Generator) - Generate Haskell client code from an OpenAPI 3 specification.
 - [Yesod](https://github.com/yesodweb/yesod) - RESTful Haskell web framework built on WAI.
+- [Snap](https://github.com/snapframework/snap) - Simple and fast web development framework and server written in Haskell.
 
 ## DB
 

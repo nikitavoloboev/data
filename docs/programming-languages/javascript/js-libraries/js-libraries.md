@@ -1108,6 +1108,7 @@
 - [Origami](https://github.com/robbykraft/Origami) - JavaScript library for modeling origami.
 - [emoji-palette](https://github.com/anubra266/emoji-palette) - Get color palettes from emojis.
 - [Scrub](https://github.com/benfoxall/scrub) - Video scrubbing with WebCodecs.
+- [iter-tools](https://github.com/iter-tools/iter-tools) - Comprehensive suite of utility methods for working with JS iterables and async iterables.
 
 ## Links
 

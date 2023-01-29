@@ -106,6 +106,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nest.nvim](https://github.com/LionC/nest.nvim) - Neovim utility plugin to define keymaps in concise, readable, cascading lists and trees.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+- [lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - Partial implementation of LSP inlay hint.
 - [rest.nvim](https://github.com/rest-nvim/rest.nvim) - Fast Neovim HTTP client written in Lua.
 - [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
 - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Next generation library for creating floating pickers with advanced features.
@@ -118,6 +119,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim.
 - [Which key](https://github.com/liuchengxu/vim-which-key) - Show keybindings in popup.
 - [Sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
+- [sg.nvim](https://github.com/tjdevries/sg.nvim) - Plugin focused on bringing many of the features of sourcegraph.com into Neovim.
 - [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
 - [Neo-Minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex.
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.

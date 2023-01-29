@@ -71,6 +71,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Wikipedia Speedruns](https://wikispeedruns.com/) - Go from one wiki article to another as fast as possible.
 - [Elevator Saga](https://play.elevatorsaga.com/) - Elevator programming game. ([Lobsters](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game))
 - [Rotaboxes](https://rotaboxes.com/) - Daily image puzzle game. ([HN](https://news.ycombinator.com/item?id=33718124))
+- [b](https://github.com/knvi/b) - Multiplayer Voxel Engine written in C.
 
 ## Awesome OSS games
 
@@ -198,6 +199,8 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Open reimplementation of Might and Magic 6 7 8 game engine.
 - [Gardens of Kadesh in WebAssembly](https://gardensofkadesh.github.io/) ([Code](https://github.com/GardensOfKadesh/Homeworld))
 - [ZF](https://github.com/yue4u/zf) - Game about using command line to accomplish tasks and fight in space.
+- [FreeHL](https://github.com/eukara/freehl) - Clean-room reimplementation of Half-Life: Deathmatch and Half-Life in QuakeC.
+- [Jactorio](https://github.com/jaihysc/Jactorio) - Recreating Factorio in C++ OpenGL.
 
 ## Awesome games (other)
 

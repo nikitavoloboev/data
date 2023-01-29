@@ -153,3 +153,4 @@
 - [Atlas Icons](https://atlasicons.vectopus.com/) ([Code](https://github.com/Vectopus/Atlas-icons-font))
 - [Iconists](https://iconists.co/) ([Twitter](https://twitter.com/iconists))
 - [Spectrum — iOS Icons](https://crares.gumroad.com/l/spectrum)
+- [Mac 30th Anniversary Icons](https://rknightuk.github.io/mac-30-font-svg/) ([Code](https://github.com/rknightuk/mac-30-font-svg))

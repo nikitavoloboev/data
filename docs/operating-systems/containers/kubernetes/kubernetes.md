@@ -915,3 +915,4 @@ title: Kubernetes
 - [kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes without Kubelet - Simulates thousands of Nodes and Clusters.
 - [sealos](https://github.com/labring/sealos) - Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications.
 - [OpenID Connect Webhook Authenticator for Kubernetes](https://github.com/gardener/oidc-webhook-authenticator)
+- [cloudtty](https://github.com/cloudtty/cloudtty) - Kubernates Cloud Shell (Web Terminal) Operator.

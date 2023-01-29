@@ -524,6 +524,7 @@
 - [naga-oil](https://github.com/robtfm/naga_oil) - Crate for combining and manipulating shaders.
 - [Crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust.
 - [Blade](https://github.com/kvark/blade) - Sharp and simple graphics library.
+- [guee](https://github.com/setzer22/guee) - GUI library for Rust.
 
 ## Games
 
@@ -2912,3 +2913,4 @@
 - [Packaging Rust Applications for the NPM Registry (2023)](https://blog.orhun.dev/packaging-rust-for-npm/)
 - [Fallible - The Lost Sibling of Result and Option (2023)](https://datavirke.dk/posts/fallible-missing-rust-error-handling/) ([Lobsters](https://lobste.rs/s/8mnx1e/fallible_lost_sibling_result_option))
 - [Using `tracing` with Rust CLI applications (2023)](https://blog.waleedkhan.name/tracing-rust-cli-apps/)
+- [Why should you use Tokio vs. threads in Rust?](https://twitter.com/rikarends/status/1619312946420789248) ([HN](https://news.ycombinator.com/item?id=34567550))
