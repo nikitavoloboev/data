@@ -1139,6 +1139,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [OpenGraph](https://github.com/erikriver/opengraph) - Python module to parse the Open Graph Protocol.
 - [icalendar](https://github.com/collective/icalendar) - Internet Calendaring and Scheduling (iCalendar) for Python.
 - [path](https://github.com/jaraco/path) - Object-oriented file system path manipulation.
+- [Python Decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
 
 ## Notes
 

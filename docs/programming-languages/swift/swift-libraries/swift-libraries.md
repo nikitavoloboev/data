@@ -629,6 +629,7 @@
 - [SwiftUI Hooks Form](https://github.com/dungntm58/swiftui-hooks-form) - SwiftUI implementation of React Hooks Form.
 - [FloatingTabBar](https://github.com/claudiaeng/FloatingTabBar) - Aesthetic floating tab bar – SwiftUI & Combine.
 - [DidUpdate](https://github.com/PimCoumans/DidUpdate) - SwiftUI inspired State observing without SwiftUI.
+- [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 
 ## Test
 
@@ -1406,6 +1407,7 @@
 - [RoundedPath](https://github.com/mayoff/RoundedPath) - Swift package for rounding the corners of a graphics path.
 - [YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor.
 - [Timerable](https://github.com/EmadBeyrami/Timerable) - Protocol-oriented Timer Factory with all the features you'll ever need.
+- [PeriodDuration](https://github.com/davdroman/PeriodDuration) - ISO 8601 period/duration APIs missing in Foundation.
 
 ## Other (not lib)
 

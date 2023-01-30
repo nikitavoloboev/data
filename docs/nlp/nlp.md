@@ -804,3 +804,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Incorporating External Knowledge through Pre-training for Natural Language to Code Generation (2020)](https://arxiv.org/abs/2004.09015) ([Code](https://github.com/neulab/external-knowledge-codegen))
 - [Longformer: The Long-Document Transformer (2020)](https://arxiv.org/abs/2004.05150) ([Code](https://github.com/allenai/longformer))
 - [ProbSem](https://github.com/benlipkin/probsem) - Probabilistic semantic parsing with program synthesis LLMs.
+- [Generate rather than Retrieve: Large Language Models are Strong Context Generators (2023)](https://arxiv.org/abs/2209.10063) ([Code](https://github.com/wyu97/GenRead))
