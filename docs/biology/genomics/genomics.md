@@ -244,3 +244,4 @@ title: Genomics
 - [Falco](https://github.com/smithlabcode/falco) - C++ drop-in replacement of FastQC to assess the quality of sequence read data.
 - [Haplotype-based variant detection from short-read sequencing (2012)](https://arxiv.org/abs/1207.3907) ([Code](https://github.com/freebayes/freebayes))
 - [spacepile](https://github.com/brentp/spacepile) - Convert reads from repeated measures of same piece of DNA into spaced matricies for deep learners.
+- [NGSNGS](https://github.com/RAHenriksen/NGSNGS) - Next Generation Simulator for Next Generator Sequencing Data.

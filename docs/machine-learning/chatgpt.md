@@ -72,3 +72,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration.
 - [GPTZero](https://github.com/BurhanUlTayyab/GPTZero) - Implementing GPTZero from scratch – Reverse engineering GPTZero. ([HN](https://news.ycombinator.com/item?id=34557382))
 - [Training nanoGPT on my Journal (2023)](https://hut.pm/nanogpt.html)
+- [Drawing pictures of animals with ChatGPT (2023)](https://george.mand.is/2023/01/drawing-pictures-of-animals-with-chatgpt/) ([Code](https://github.com/georgemandis/chatgpt-svgs))

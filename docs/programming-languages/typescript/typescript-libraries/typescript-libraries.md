@@ -776,6 +776,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Dettle](https://github.com/fabiospampinato/dettle) - Tiny fully-featured debounce and throttle implementation.
 - [Promptable](https://github.com/promptable/Promptable.js) - Build your prompt engineering pipeline in Typescript.
 - [TTS-Schema](https://github.com/tusharmath/tts-schema) - Reify your types in Typescript.
+- [Exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript.
 
 ## Links
 

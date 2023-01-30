@@ -1,6 +1,6 @@
 # Comics
 
-[Li Chen](https://twitter.com/Exocomics) does cute comics.
+[Li Chen](https://twitter.com/Exocomics) & [Enii](https://twitter.com/Enii_draws) make cute comics.
 
 ## Links
 
@@ -27,3 +27,4 @@
 - [Goomics](https://goomics.net/) - Comics about life at Google.
 - [Black Cats sad comic](https://twitter.com/JennyJinya/status/1603462510107332609)
 - [eReader Mangas](https://ereader-mangas.vercel.app/) - Read Mangas on eReaders. ([Code](https://github.com/samuba/ereader-mangas))
+- [o_l_bom](https://www.instagram.com/o_l_bom/) ([Twitter](https://twitter.com/o_l_bom))

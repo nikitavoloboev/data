@@ -32,3 +32,4 @@ title: Nostr
 - [Awesome Nostr](https://github.com/aljazceru/awesome-nostr) ([HN](https://news.ycombinator.com/item?id=34526562))
 - [HN: Nostr](https://news.ycombinator.com/item?id=33746360)
 - [snort.social](https://snort.social/) - Nostr interface. ([Code](https://github.com/v0l/snort))
+- [Nostr Connect SDK for TypeScript](https://github.com/nostr-connect/connect)

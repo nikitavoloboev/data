@@ -201,6 +201,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [ZF](https://github.com/yue4u/zf) - Game about using command line to accomplish tasks and fight in space.
 - [FreeHL](https://github.com/eukara/freehl) - Clean-room reimplementation of Half-Life: Deathmatch and Half-Life in QuakeC.
 - [Jactorio](https://github.com/jaihysc/Jactorio) - Recreating Factorio in C++ OpenGL.
+- [Zelda 3](https://github.com/snesrev/zelda3) - Reimplementation of Zelda 3.
 
 ## Awesome games (other)
 

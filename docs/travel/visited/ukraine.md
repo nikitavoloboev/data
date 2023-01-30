@@ -1,6 +1,6 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE). All [based of greed](https://twitter.com/ChrisO_wiki/status/1619990400508510208?t=MnC5Fdl551WZEk5TFAJIFQ&s=19).
 
 Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities](https://twitter.com/MaximEristavi/status/1513576913431941135) of its neighbors and oppressing it's own citizens, I hope one day a sane government comes where such a disastrous decision will be impossible to enact.
 
