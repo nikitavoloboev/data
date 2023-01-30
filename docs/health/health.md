@@ -95,3 +95,4 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Биосеминары](https://bioseminars.wordpress.com/)
 - [Apple Health Grafana](https://github.com/k0rventen/apple-health-grafana) - Visualize your apple health export in Grafana.
 - [Ask HN: How do you work on your mental health? (2023)](https://news.ycombinator.com/item?id=34218240)
+- [Dr. Sara Gottfried: How to Optimize Female Hormone Health for Vitality & Longevity (2023)](https://hubermanlab.com/dr-sara-gottfried-how-to-optimize-female-hormone-health-for-vitality-and-longevity/)

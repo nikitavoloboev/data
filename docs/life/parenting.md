@@ -109,3 +109,4 @@ Not parent yet but did like this [advice on fatherhood](https://twitter.com/simo
 - [What happens when babies are left to cry it out? (2022)](https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies) ([HN](https://news.ycombinator.com/item?id=34173006))
 - [Kids and music lessons: why do many promising players quit early? (2023)](https://thewalrus.ca/why-do-kids-hate-music-lessons/) ([HN](https://news.ycombinator.com/item?id=34250707))
 - [Movies about being great dad (2023)](https://www.reddit.com/r/MovieSuggestions/comments/104fqcu/i_am_a_soon_to_be_father_looking_to_learn_lessons/)
+- [Ask HN: What's your approach to raising kids? (2023)](https://news.ycombinator.com/item?id=34577487)

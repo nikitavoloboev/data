@@ -767,3 +767,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [cder](https://github.com/estie-inc/cder) - Lightweight, simple database seeding tool for Rust.
 - [The Magic of Small Databases (2023)](https://tomcritchlow.com/2023/01/27/small-databases/) ([HN](https://news.ycombinator.com/item?id=34558054))
 - [Client-side reactive databases (2023)](https://twitter.com/maccaw/status/1619714277715378178)
+- [2023 State of Databases for Serverless & Edge](https://leerob.io/blog/backend)

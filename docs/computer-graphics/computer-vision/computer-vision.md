@@ -1124,3 +1124,4 @@
 - [Disentangled Representation Learning for Text-Video Retrieval (2022)](https://arxiv.org/abs/2203.07111) ([Code](https://github.com/foolwood/DRL))
 - [Text-To-4D Dynamic Scene Generation (2023)](https://arxiv.org/abs/2301.11280) ([HN](https://news.ycombinator.com/item?id=34544630))
 - [PhyCV](https://github.com/JalaliLabUCLA/phycv) - Physics-inspired Computer Vision Library.
+- [Fast Dynamic Radiance Fields with Time-Aware Neural Voxels (2022)](https://arxiv.org/abs/2205.15285) ([Code](https://github.com/hustvl/TiNeuVox))

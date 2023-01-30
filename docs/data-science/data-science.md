@@ -50,7 +50,7 @@
 - [Redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. ([Web](https://redash.io/))
 - [Prefect](https://github.com/PrefectHQ/prefect) - New workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine.
 - [Turn Python Scripts into Beautiful ML Tools (2019)](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace) ([HN](https://news.ycombinator.com/item?id=21158487))
-- [Foundations of Data Science (2019)](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) ([HN](https://news.ycombinator.com/item?id=21179378))
+- [Foundations of Data Science (2019)](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) ([HN](https://news.ycombinator.com/item?id=21179378)) ([HN](https://news.ycombinator.com/item?id=34575637))
 - [Gyana](https://www.gyana.com/) - No code desktop data science tool. ([Article](https://www.gyana.com/post/a-bicycle-for-data))
 - [Monument](https://www.monument.ai/) - High-productivity toolkit for predictions. AutoML for time series on any desktop, laptop or server.
 - [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html)) ([Web](http://numba.pydata.org/)) ([Make Python code 1000x Faster with Numba](https://www.youtube.com/watch?v=x58W9A2lnQc)) ([HN](https://news.ycombinator.com/item?id=34148455))

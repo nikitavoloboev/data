@@ -246,3 +246,4 @@ title: SQL
 - [Replacing a SQL analyst with 26 recursive GPT prompts (2023)](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/) ([HN](https://news.ycombinator.com/item?id=34521149))
 - [pretty-xmlish](https://github.com/risinglightdb/pretty-xmlish) - Pretty printing library for SQL.
 - [RaySQL](https://github.com/andygrove/ray-sql) - Distributed SQL Query Engine in Python using Ray.
+- [SQL should be your default choice for data engineering pipelines (2023)](https://www.robinlinacre.com/recommend_sql/)
