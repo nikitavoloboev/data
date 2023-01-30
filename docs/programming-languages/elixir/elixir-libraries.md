@@ -277,6 +277,7 @@
 - [Matcha](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
 - [mix_deploy](https://github.com/cogini/mix_deploy) - Mix tasks to deploy an Elixir release to servers (cloud instance or bare metal, automated deploy).
 - [Wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
+- [Toolshed](https://github.com/elixir-toolshed/toolshed) - Toolshed of IEx helpers.
 
 ## Links
 
