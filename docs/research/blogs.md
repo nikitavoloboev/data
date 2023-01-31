@@ -318,6 +318,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Alex Chan](https://alexwlchan.net/all-posts/)
 - [Daniel Harper](https://djharper.dev/)
 - [Aria Beingessner](https://faultlore.com/blah/#articles)
+- [Will Yager](https://yager.io/)
 
 ## Notes
 

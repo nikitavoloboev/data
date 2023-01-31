@@ -4,6 +4,8 @@ title: DNA
 
 # [DNA](http://en.wikipedia.org/wiki/DNA)
 
+[ASML of DNA Sequencing](https://www.youtube.com/watch?v=pEwkpQV691A) is nice watch.
+
 ## Notes
 
 - [Is DNA compressed?](https://www.reddit.com/r/askscience/comments/637gyu/is_dna_compressed/)
@@ -86,3 +88,4 @@ title: DNA
 - [Breakfast](https://github.com/annalam/breakfast) - Software for detecting genomic structural variants from DNA sequencing data.
 - [RegTools](https://github.com/griffithlab/regtools) - Integrate DNA-seq and RNA-seq data to identify mutations that are associated with regulatory effects on gene expression.
 - [We're wasting money by only supporting gzip for raw DNA files (2023)](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/) ([HN](https://news.ycombinator.com/item?id=34313589))
+- [The ASML of DNA Sequencing (2023)](https://www.youtube.com/watch?v=pEwkpQV691A)

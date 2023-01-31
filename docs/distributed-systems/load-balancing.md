@@ -53,3 +53,4 @@ title: Load balancing
 - [Chproxy](https://github.com/ContentSquare/chproxy) - ClickHouse HTTP proxy and load balancer.
 - [Mallob](https://github.com/domschrei/mallob) - Malleable Load Balancer. Multitasking Agile Logic Blackbox. Award-winning SAT solving for the cloud.
 - [sangfroid](https://github.com/arindas/sangfroid) - Load balanced threadpool.
+- [loxilb](https://github.com/loxilb-io/loxilb) - EBPF based cloud-native service load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.

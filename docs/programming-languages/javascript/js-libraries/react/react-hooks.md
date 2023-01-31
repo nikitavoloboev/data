@@ -344,3 +344,4 @@ useEffect(() => {
 - [When to use useStoreMap hook](https://twitter.com/_sergeysova/status/1606564476634939392)
 - [Visual Guide to React's useEffect (2021)](https://alexsidorenko.com/blog/useeffect/) ([HN](https://news.ycombinator.com/item?id=34142168))
 - [Mastering Mutations in React Query (2021)](https://tkdodo.eu/blog/mastering-mutations-in-react-query)
+- [You Might Not Need React Query for Jotai (2023)](https://blog.axlight.com/posts/you-might-not-need-react-query-for-jotai/)

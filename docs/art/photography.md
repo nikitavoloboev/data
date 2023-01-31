@@ -272,3 +272,5 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Post-processing is ruining iPhone photos (2023)](https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/) ([HN](https://news.ycombinator.com/item?id=34290470))
 - [Minimalism and the art of photography](https://johnpweiss.com/blog/183699/minimalism-and-the-art-of-photography) ([HN](https://news.ycombinator.com/item?id=34322813))
 - [Photonix Photo Manager](https://photonix.org/) - Modern, web-based photo management server. ([Code](https://github.com/photonixapp/photonix))
+- [The limits of "computational photography" (2023)](https://yager.io/comp/comp.html) ([HN](https://news.ycombinator.com/item?id=34590094))
+- [Visual Diary Practice (2023)](https://www.youtube.com/watch?v=K20HswGAChQ&t=3s)

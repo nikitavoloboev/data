@@ -521,4 +521,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Msanii: High Fidelity Music Synthesis on a Shoestring Budget (2023)](https://arxiv.org/abs/2301.06468) ([Code](https://github.com/Kinyugo/msanii))
 - [Oilcan](https://github.com/zjb-s/oilcan) - Monophonic digital-style percussion voice.
 - [sempra](https://github.com/zjb-s/sempra) - Dynamic melody sequencer.
-- [MusicLM: Generating Music From Text (2023)](https://arxiv.org/abs/2301.11325) ([HN](https://news.ycombinator.com/item?id=34541836)) ([Code](https://github.com/lucidrains/musiclm-pytorch)) ([Examples](https://google-research.github.io/seanet/musiclm/examples/)) ([HN](https://news.ycombinator.com/item?id=34541693))
+- [MusicLM: Generating Music From Text (2023)](https://arxiv.org/abs/2301.11325) ([HN](https://news.ycombinator.com/item?id=34541836)) ([Code](https://github.com/lucidrains/musiclm-pytorch)) ([Examples](https://google-research.github.io/seanet/musiclm/examples/)) ([HN](https://news.ycombinator.com/item?id=34541693)) ([HN](https://news.ycombinator.com/item?id=34588764))

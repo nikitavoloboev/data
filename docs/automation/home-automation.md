@@ -89,3 +89,4 @@
 - [Matt Caminiti's Home Assistant Config](https://github.com/mcaminiti/homeassistant)
 - [ESPresense](https://github.com/ESPresense/ESPresense) - ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.
 - [Automating Heating with Home Assistant (2022)](https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant)
+- [Home-Heat - YouTube](https://www.youtube.com/@home_heat/videos)

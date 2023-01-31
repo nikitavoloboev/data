@@ -320,3 +320,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [FuzzySearch OwO](https://github.com/Syfaro/fuzzysearch-owo) - Builds off the technologies (and database) of FuzzySearch to detect reposts of artwork.
 - [Are you indexing the smart way? (2023)](https://blog.meilisearch.com/best-practices-for-faster-indexing/)
 - [Whoosh](https://github.com/mchaput/whoosh) - Pure-Python full-text search library.
+- [Hybrid Search and Learning-to-Rank](https://www.pinecone.io/learn/metarank/) ([HN](https://news.ycombinator.com/item?id=34581003))

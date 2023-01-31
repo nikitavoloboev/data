@@ -8,7 +8,7 @@ title: Deno
 
 Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](https://www.youtube.com/watch?v=SYkzk_j3yb0) is a nice overview.
 
-[Bun](../programming-languages/javascript/bun.md) seems like a nice competitor to Deno.
+[Bun](../programming-languages/javascript/bun.md) is a nice alternative to Deno that's quite fast too thanks to [JavaScriptCore](https://developer.apple.com/documentation/javascriptcore) and clever engineering.
 
 [Wren](https://github.com/zaiste/wren) is interesting HTTP lib.
 

@@ -139,3 +139,5 @@ I try to get better at it and learning as I go. Noting funny moments that happen
 - [Now it's your time to study statistical mechanics](https://twitter.com/lexipenia/status/1572237780104761348)
 - [ИНЖЕНЕР «каждый день»](https://www.youtube.com/watch?v=kRc3nAvyCfk)
 - [ИНЖЕНЕР "ПРО РУТИНУ"](https://www.youtube.com/watch?v=YYXbQjPAIdY)
+- [The contestants of love island discussing brexit](https://twitter.com/TylerDinucci/status/1619766605344542720)
+- [Issue with left wing people](https://twitter.com/sonia_trofimova/status/1620315966193434629)

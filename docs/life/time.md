@@ -65,3 +65,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Unix time is bad and needs replacement, not UTC (2022)](https://z.vandillen.dev/2022/11/21/unix-time-bad/) ([HN](https://news.ycombinator.com/item?id=33716613))
 - [On Time, Time Zones, and Software (2021)](https://lukasz.medium.com/on-time-time-zones-and-software-6617a4c22d05)
 - [Setting the clock ahead to see what breaks (2023)](https://rachelbythebay.com/w/2023/01/19/time/) ([HN](https://news.ycombinator.com/item?id=34496287))
+- [Henri Poincaré believed time was slowing down](https://twitter.com/CWingUexkull/status/1619939153365585920)
