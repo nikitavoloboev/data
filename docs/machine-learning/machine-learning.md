@@ -1056,3 +1056,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Causal Transformer Decoder](https://github.com/alex-matton/causal-transformer-decoder)
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) ([Code](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io))
 - [The Transformer Family (2023)](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) ([HN](https://news.ycombinator.com/item?id=34566275))
+- [Just know stuff (or, how to achieve success in a machine learning PhD) (2023)](https://kidger.site/thoughts/just-know-stuff/) ([HN](https://news.ycombinator.com/item?id=34547358))

@@ -134,3 +134,4 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Blueprint](https://blueprint.bryanjohnson.co/)
 - [Loss of epigenetic information as a cause of mammalian aging (2023)](<https://www.cell.com/cell/fulltext/S0092-8674(22)01570-7#%20>)
 - [For longevity, muscle strength may be as important as aerobic exercise](https://www.washingtonpost.com/wellness/2023/01/29/strength-training-all-ages/) ([HN](https://news.ycombinator.com/item?id=34570264))
+- [Anti-Aging Techniques Taken to Extreme by Bryan Johnson (2023)](https://www.bloomberg.com/news/features/2023-01-25/anti-aging-techniques-taken-to-extreme-by-bryan-johnson)

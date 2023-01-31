@@ -259,3 +259,4 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Gem](https://www.dropgem.app/) - Add images, audio notes, drawings and more in any text editor.
 - [TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage) - TextMate grammar files for TypeScript for VS Code, Sublime Text.
 - [Monaco tree-sitter](https://github.com/Menci/monaco-tree-sitter) - Highlight your Monaco Editor with tree-sitter grammar.
+- [Embrace the Chaos: How to Write a Code Editor from Scratch in 4 Months (2023)](https://edita.vercel.app/blog/approach/) ([HN](https://news.ycombinator.com/item?id=34577246))

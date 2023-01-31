@@ -78,7 +78,7 @@ title: Swift
 - [Building the Server-side Swift ecosystem, Ian Partridge (2019)](https://www.youtube.com/watch?v=CzTikweGO3E)
 - [Learn Swift in Y minutes](https://learnxinyminutes.com/docs/swift/)
 - [Swift tricks (2019)](http://eon.codes/blog/2019/10/19/Swift-tricks/)
-- [How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)](https://gankra.github.io/blah/swift-abi/) ([HN](https://news.ycombinator.com/item?id=21488415))
+- [How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)](https://faultlore.com/blah/swift-abi/) ([HN](https://news.ycombinator.com/item?id=21488415)) ([HN](https://news.ycombinator.com/item?id=34573527))
 - [The Best Swift and iOS conferences in 2020](https://www.hackingwithswift.com/articles/206/the-best-swift-and-ios-conferences-in-2020)
 - [Swift 5.1 cheat sheet & quick reference](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
 - [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)

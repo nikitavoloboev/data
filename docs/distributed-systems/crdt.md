@@ -4,7 +4,7 @@ title: Conflict-free replicated data type
 
 # [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
-[Liveblocks](https://github.com/liveblocks/liveblocks) is a neat application of CRDTs. [Yjs](https://github.com/yjs/yjs) (with [Hocuspocus](https://github.com/ueberdosis/hocuspocus)) & [CROWDs](https://github.com/hyoo-ru/crowd.hyoo.ru) are nice too. [CRDT wiki](https://crdt.tech/) is great.
+[Liveblocks](https://github.com/liveblocks/liveblocks) is a neat application of CRDTs. [Automerge](https://github.com/automerge/automerge), [Yjs](https://github.com/yjs/yjs) (with [Hocuspocus](https://github.com/ueberdosis/hocuspocus)) & [CROWDs](https://github.com/hyoo-ru/crowd.hyoo.ru) are great libraries. [CRDT wiki](https://crdt.tech/) is great.
 
 [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/) is nice read.
 
@@ -31,7 +31,7 @@ title: Conflict-free replicated data type
 - [CRDTs wiki](https://crdt.tech/) ([Code](https://github.com/ept/crdt-website)) ([HN](https://news.ycombinator.com/item?id=30983770))
 - [Awesome CRDT](https://github.com/alangibson/awesome-crdt)
 - [Local-first packages & explorations](https://github.com/jaredly/local-first)
-- [Automerge in JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. ([Tweet](https://twitter.com/steveruizok/status/1421865156724805639)) ([HN](https://news.ycombinator.com/item?id=30412550)) ([Docs](https://automerge.org/docs/hello/)) ([HN](https://news.ycombinator.com/item?id=30881016))
+- [Automerge JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. ([Tweet](https://twitter.com/steveruizok/status/1421865156724805639)) ([HN](https://news.ycombinator.com/item?id=30412550)) ([Docs](https://automerge.org/docs/hello/)) ([HN](https://news.ycombinator.com/item?id=30881016)) ([2.0](https://automerge.org/blog/automerge-2/)) ([HN](https://news.ycombinator.com/item?id=34586433))
 - [Automergeable](https://github.com/jeffa5/automergeable)
 - [Automerge in Rust](https://github.com/alexjg/automerge-rs)
 - [Automerge persistent](https://github.com/jeffa5/automerge-persistent)

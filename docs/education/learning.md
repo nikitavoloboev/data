@@ -273,3 +273,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Learn the art of teaching dev from these people](https://fromdevtodev.com/people-to-follow-to-learn-art-of-teaching-dev)
 - [Ask HN: What simple facts have you learned surprisingly late in life? (2023)](https://news.ycombinator.com/item?id=34555343)
 - [Ask HN: Something you’ve done your whole life that you realized is wrong? (2023)](https://news.ycombinator.com/item?id=34579175)
+- [Ask HN: What's the best lecture series you've seen? (2023)](https://news.ycombinator.com/item?id=34591291)

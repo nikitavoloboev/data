@@ -44,3 +44,4 @@ I use Fish as my main shell now. My config for it is [here](https://github.com/n
 - [fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - Help you remembering your abbreviations.
 - [fifc](https://github.com/gazorby/fifc) - Configurable fzf completions for fish shell.
 - [Fish 3.6.0 (2023)](https://github.com/fish-shell/fish-shell/releases/tag/3.6.0) ([HN](https://news.ycombinator.com/item?id=34298157))
+- [Fish (shell) porting to Rust from C++ (2023)](https://lobste.rs/s/fdcpy3/fish_shell_be_rewritten_rust) ([Lobsters](https://lobste.rs/s/fdcpy3/fish_shell_be_rewritten_rust)) ([HN](https://news.ycombinator.com/item?id=34588340)) ([Reddit](https://www.reddit.com/r/rust/comments/10pf7m8/fish_shell_porting_to_rust_from_c/))
