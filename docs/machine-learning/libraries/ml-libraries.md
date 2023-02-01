@@ -467,3 +467,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning.
 - [CausalAI](https://github.com/salesforce/causalai) - Fast and Scalable framework for Causal Analysis of Time Series and Tabular Data.
 - [Flashy](https://github.com/facebookresearch/flashy) - Framework for writing deep learning training loops. Lightweight, and retaining full freedom to design as you see fits.
+- [Streaming](https://github.com/mosaicml/streaming) - Data Streaming Library for Efficient Neural Network Training.

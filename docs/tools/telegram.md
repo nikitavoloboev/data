@@ -164,6 +164,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TgRedditBot](https://github.com/kaif-00z/TgRedditBot) - Control Reddit from Telegram.
 - [FileSharingBot](https://github.com/kaif-00z/FileSharingBot) - Telegram Bot which can store multiple private files and other users can access it from sharable link.
 - [FoxBot](https://github.com/Syfaro/foxbot) - Telegram bot for easily collecting furry images from multiple sites.
+- [JsonBot](https://github.com/SpEcHiDe/JsonBot) - Bot to Display telegram-bot-api JSON of all sent messages.
 
 ## Notes
 

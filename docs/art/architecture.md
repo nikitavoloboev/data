@@ -122,3 +122,4 @@
 - [Why was Roman concrete so durable? (2023)](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106) ([HN](https://news.ycombinator.com/item?id=34280239))
 - [The Pretty Good House](https://www.prettygoodhouse.org/) ([HN](https://news.ycombinator.com/item?id=34408123))
 - [Skylab Architecture](https://skylabarchitecture.com/)
+- [The window trick of Las Vegas hotels (2023)](https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html) ([HN](https://news.ycombinator.com/item?id=34568624))

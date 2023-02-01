@@ -48,3 +48,4 @@ title: ClickHouse
 - [Extracting, converting, and querying data in local files using clickhouse-local (2023)](https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local) ([HN](https://news.ycombinator.com/item?id=34265206))
 - [Using ClickHouse for financial market data - Christoph Wurm (ClickHouse) (2023)](https://www.youtube.com/watch?v=Ojv6LPXKy2U)
 - [ClickHouse and PostgreSQL - a Match Made in Data Heaven (2022)](https://clickhouse.com/blog/migrating-data-between-clickhouse-postgres) ([Part 2](https://clickhouse.com/blog/migrating-data-between-clickhouse-postgres-part-2))
+- [ClickHouse Top](https://github.com/chhetripradeep/chtop) - Show live statistics for monitoring your ClickHouse node.

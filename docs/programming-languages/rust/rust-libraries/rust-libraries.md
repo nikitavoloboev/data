@@ -525,6 +525,8 @@
 - [Crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust.
 - [Blade](https://github.com/kvark/blade) - Sharp and simple graphics library.
 - [guee](https://github.com/setzer22/guee) - GUI library for Rust.
+- [Polyhedron Operators](https://github.com/virtualritz/polyhedron-ops) - Implements the Conway Polyhedron Operators and their extensions by George W. Hart and others.
+- [NSI](https://github.com/virtualritz/nsi) - High level Rust bindings for Illumination Research’s Nodal Scene Interface.
 
 ## Games
 
@@ -2595,6 +2597,7 @@
 - [Sediment](https://github.com/khonsulabs/sediment) - Low-level MVCC file format for storing blobs.
 - [bytebuffer](https://github.com/terahlunah/bytebuffer) - Easy to use API to read/write data from/to a bunch of bytes.
 - [force-directed-graph](https://github.com/zackradisic/force-directed-graph)
+- [npm-package](https://github.com/TheLarkInn/npm-package) - Lightweight client for fetching package metadata from the npm registry.
 
 ## Cargo Plugins
 

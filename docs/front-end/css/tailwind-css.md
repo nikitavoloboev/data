@@ -194,3 +194,4 @@ I always value readability and extendability over being able to write/edit thing
 - [Typewind](https://github.com/mokshit06/typewind) - Safety of Typescript with the magic of Tailwind. ([Tweet](https://twitter.com/Mokshit06/status/1617880004846825474))
 - [Tailwind Radix Colors](https://github.com/mrcaidev/tailwindcss-radix-colors) - Bring Radix UI's color system to Tailwind CSS.
 - [tw-to-css](https://github.com/vinicoder/tw-to-css) - Transform Tailwind classes to pure CSS.
+- [Tailwind Mistakes You're Probably Making (2023)](https://www.youtube.com/watch?v=QBajvZaWLXs)

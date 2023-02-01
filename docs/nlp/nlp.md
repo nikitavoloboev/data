@@ -805,3 +805,6 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Longformer: The Long-Document Transformer (2020)](https://arxiv.org/abs/2004.05150) ([Code](https://github.com/allenai/longformer))
 - [ProbSem](https://github.com/benlipkin/probsem) - Probabilistic semantic parsing with program synthesis LLMs.
 - [Generate rather than Retrieve: Large Language Models are Strong Context Generators (2023)](https://arxiv.org/abs/2209.10063) ([Code](https://github.com/wyu97/GenRead))
+- [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference.
+- [New AI classifier for indicating AI-written text (2023)](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) ([HN](https://news.ycombinator.com/item?id=34599106))
+- [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (2023)](https://arxiv.org/abs/2301.11305) ([HN](https://news.ycombinator.com/item?id=34600232))

@@ -154,3 +154,4 @@ title: Zero knowledge proofs
 - [Zator](https://github.com/lyronctk/zator) - Proving the execution of arbitrarily deep neural networks with recursive SNARKs.
 - [Snarky Sudoku](https://github.com/nalinbhardwaj/snarky-sudoku) - Zero-knowledge Sudoku using zk-SNARKs.
 - [Tornado Cats](https://github.com/minaminao/tornado-cats) - Book for learning zero-knowledge applications and decentralized mixing through the creation of a simple mixer protocol based on Tornado Cash.
+- [Zero Knowledge Message Board](https://github.com/nulven/zk-polling)

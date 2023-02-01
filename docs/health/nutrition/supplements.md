@@ -107,3 +107,4 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [Do Supplements Really Help? (2022)](https://www.reddit.com/r/nutrition/comments/zufldt/do_supplements_really_help/)
 - [Top 5 supplements/vitamins/minerals (2022)](https://www.reddit.com/r/Biohackers/comments/zy989v/top_5_supplementsvitaminsmineralsnootripics/)
 - [Ask HN: What supplements do you take that have good scientific backing? (2023)](https://news.ycombinator.com/item?id=34315926)
+- [Blueprint supplements organized into their primary purpose](https://www.reddit.com/r/blueprint_/comments/10mtrhf/blueprint_supplements_organized_into_their/)

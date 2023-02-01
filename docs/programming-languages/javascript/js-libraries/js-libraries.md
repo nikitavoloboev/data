@@ -1109,6 +1109,7 @@
 - [emoji-palette](https://github.com/anubra266/emoji-palette) - Get color palettes from emojis.
 - [Scrub](https://github.com/benfoxall/scrub) - Video scrubbing with WebCodecs.
 - [iter-tools](https://github.com/iter-tools/iter-tools) - Comprehensive suite of utility methods for working with JS iterables and async iterables.
+- [JS Graph Algorithms](https://github.com/chen0040/js-graph-algorithms)
 
 ## Links
 

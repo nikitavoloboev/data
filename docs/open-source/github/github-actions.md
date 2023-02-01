@@ -353,6 +353,10 @@ title: GitHub actions
 
 - [Setup Zig](https://github.com/korandoru/setup-zig) - Set up your GitHub Actions workflow with a specific version of Zig.
 
+## Lua
+
+- [GitHub action for Lua/LuaJIT](https://github.com/leafo/gh-actions-lua)
+
 ## Web
 
 - [Cloudflare Pages GitHub Action](https://github.com/cloudflare/pages-action) - GitHub Action for creating Cloudflare Pages deployments.

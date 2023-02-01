@@ -174,6 +174,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Pinch](https://github.com/danqing/Pinch) - One-click fix for Mac trackpad pinch to zoom gesture.
 - [Dashlane macOS/iOS Code](https://github.com/Dashlane/apple-apps)
 - [Scoot](https://github.com/mjrusso/scoot) - Efficiently move your mouse cursor, using keyboard shortcuts.
+- [MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS and Android emulators.
 
 ## Other interesting apps
 

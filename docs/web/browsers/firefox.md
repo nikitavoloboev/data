@@ -39,3 +39,4 @@ title: Firefox
 - [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/) ([HN](https://news.ycombinator.com/item?id=30663266))
 - [Firefox UI/UX History](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history) ([HN](https://news.ycombinator.com/item?id=30820894))
 - [Pulse Browser](https://pulsebrowser.app/) - Better Firefox fork. ([Code](https://github.com/pulse-browser/browser))
+- [Sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.

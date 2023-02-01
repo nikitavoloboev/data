@@ -305,3 +305,4 @@
 - [Myths and Legends in High-Performance Computing (2023)](https://arxiv.org/abs/2301.02432)
 - [HotShot](https://github.com/EspressoSystems/HotShot) - BFT consensus protocol based off of HotStuff, with the addition of proof-of-stake and VRF committee elections.
 - [Armstrong distributed systems](https://github.com/stevana/armstrong-distributed-systems)
+- [What is consensus](https://twitter.com/AlexMillerDB/status/1592470377284112385)

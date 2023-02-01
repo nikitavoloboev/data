@@ -133,6 +133,7 @@
 - [Introduction to data structures and algorithms in Python](https://github.com/albanie/algorithms-and-data-structures)
 - [Algorithms and Data Structure Visualization Book](https://patternize.github.io/docs/Patterns/Backtracking/Introduction) ([Code](https://github.com/patternize/patternize.io))
 - [Negative-Weight Single-Source Shortest Paths in Near-linear Time (2022)](https://arxiv.org/abs/2203.03456) ([HN](https://news.ycombinator.com/item?id=34479148))
+- [Compromise-free path finding on a navigation mesh (2017)](https://research.monash.edu/en/publications/compromise-free-pathfinding-on-a-navigation-mesh) ([HN](https://news.ycombinator.com/item?id=34594612))
 
 ## Images
 

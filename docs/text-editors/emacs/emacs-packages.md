@@ -44,3 +44,4 @@
 - [Modern Org Style](https://github.com/minad/org-modern)
 - [Denote (denote.el)](https://protesilaos.com/emacs/denote) - Simple Emacs Zettelkasten. ([HN](https://news.ycombinator.com/item?id=32066513))
 - [MELPA](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo.
+- [The benefits of everything being a buffer in Emacs (2023)](https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer) ([HN](https://news.ycombinator.com/item?id=34580943))

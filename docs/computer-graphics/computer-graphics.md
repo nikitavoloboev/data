@@ -271,3 +271,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Teardown Frame Teardown (2023)](https://acko.net/blog/teardown-frame-teardown/)
 - [Tangent Spaces and Diamond Encoding (2023)](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
 - [RenderDoc](https://github.com/baldurk/renderdoc) - Stand-alone graphics debugging tool.
+- [Generative Modelling of BRDF Textures from Flash Images (2021)](https://arxiv.org/abs/2102.11861) ([Code](https://github.com/henzler/neuralmaterial))

@@ -413,6 +413,8 @@
 - [Shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell.
 - [StrongPath](https://github.com/wasp-lang/strong-path) - Strongly typed file paths in Haskell.
 - [generic-constructors](https://github.com/akrmn/generic-constructors)
+- [managed](https://github.com/Gabriella439/managed) - Monad for managed values.
+- [transitive-anns](https://github.com/isovector/transitive-anns) - Transitively track and reify annotations across a codebase.
 
 ## Notes
 

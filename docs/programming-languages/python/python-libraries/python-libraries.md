@@ -1140,6 +1140,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [icalendar](https://github.com/collective/icalendar) - Internet Calendaring and Scheduling (iCalendar) for Python.
 - [path](https://github.com/jaraco/path) - Object-oriented file system path manipulation.
 - [Python Decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
+- [Spherely](https://github.com/benbovy/spherely) - Python library for manipulation and analysis of geometric objects on the sphere.
 
 ## Notes
 

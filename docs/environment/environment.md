@@ -204,3 +204,6 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Request for Startups: Climate Tech (2022)](https://www.ycombinator.com/blog/rfs-climatetech) ([HN](https://news.ycombinator.com/item?id=34002518))
 - [Ask HN: Why aim for reducing climate change? (2022)](https://news.ycombinator.com/item?id=33999229)
 - [EcoSnap](https://github.com/alyssaxuu/ecosnap) - Recycle your plastic better with Artificial Intelligence.
+- [Where our gasoline comes from](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php) ([HN](https://news.ycombinator.com/item?id=34575601))
+- [AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/) ([HN](https://news.ycombinator.com/item?id=34571885))
+- [Data-driven predictions of the time remaining until critical global warming thresholds are reached (2023)](https://www.pnas.org/doi/10.1073/pnas.2207183120)

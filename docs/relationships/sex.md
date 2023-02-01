@@ -4,7 +4,7 @@
 
 [Come as You Are](https://www.goodreads.com/en/book/show/22609341) & [She Comes First](https://www.goodreads.com/book/show/528985.She_Comes_First) are great books.
 
-[SKYN Ultra Thin](https://skynfeel.com/collections/elite) are least bad condoms I found. It's best to [get tested](https://www.youtube.com/watch?v=yEQclXsXhYk) though and use other birth controls like [NuvaRing](https://www.nuvaring.com/) once you find a [stable partner](relationships.md). Or get a [vasectomy](https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/) once you're certain you don't want any more kids.
+[SKYN Ultra Thin](https://skynfeel.com/collections/elite) are least bad condoms I found. It's best to [get tested](https://www.youtube.com/watch?v=yEQclXsXhYk) though and use other birth controls like [NuvaRing](https://www.nuvaring.com/) or [copper UID](https://www.mayoclinic.org/tests-procedures/paragard/about/pac-20391270) once you find a [stable partner](relationships.md). Or get a [vasectomy](https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/) once you're certain you don't want any more kids.
 
 ## Notes
 

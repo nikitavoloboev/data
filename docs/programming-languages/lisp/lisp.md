@@ -233,3 +233,4 @@
 - [Debugging Lisp: trace options, break on conditions (2022)](https://lisp-journey.gitlab.io/blog/debugging-lisp-trace-options-break-on-conditions/) ([HN](https://news.ycombinator.com/item?id=34252796))
 - [Learn Lisp The Hard Way](https://llthw.common-lisp.dev/)
 - [Lisp curse vs Lisp envy (by Mauricio Szabo) (2023)](https://www.youtube.com/watch?v=FgHAlEzvkwA)
+- [Typed Lisp, A Primer (2019)](http://alhassy.com/TypedLisp) ([HN](https://news.ycombinator.com/item?id=34594675))

@@ -74,3 +74,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Training nanoGPT on my Journal (2023)](https://hut.pm/nanogpt.html)
 - [Drawing pictures of animals with ChatGPT (2023)](https://george.mand.is/2023/01/drawing-pictures-of-animals-with-chatgpt/) ([Code](https://github.com/georgemandis/chatgpt-svgs))
 - [GPT JAX](https://github.com/jaymody/gpt-jax) - Stupidly simple GPT implementation in JAX.
+- [Build ChatGPT like chatbots on your website (2022)](https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626) ([HN](https://news.ycombinator.com/item?id=34566070))

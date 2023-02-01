@@ -6,4 +6,4 @@ I'm living the sketch of being so broke where the [bank charges me money for bei
 
 In other news, [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show.
 
-And I started real work on [LA](https://github.com/learn-anything/learn-anything). Goal is to reach ramen profitability within next year. 😻
+And I started real work on [LA](https://github.com/learn-anything/learn-anything). Goal is to reach ramen profitability within this decade. 😻

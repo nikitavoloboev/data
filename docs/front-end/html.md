@@ -188,7 +188,7 @@ Hi<div>oh no break</div>
 - [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser.
 - [HTML Recipes](https://htmlrecipes.dev/) - Collection of quick copy HTML snippets for a variety of common scenarios. ([Code](https://github.com/5t3ph/htmlrecipes))
 - [xPath Finder](https://github.com/trembacz/xpath-finder) - Click on any element to get the xPath.
-- [Marko](https://github.com/marko-js/marko) - Declarative, HTML-based language that makes building web apps fun. ([Web](https://markojs.com/)) ([Marko Tags](https://dev.to/ryansolid/introducing-the-marko-tags-api-preview-37o4))
+- [Marko](https://github.com/marko-js/marko) - Declarative, HTML-based language that makes building web apps fun. ([Web](https://markojs.com/)) ([Marko Tags](https://dev.to/ryansolid/introducing-the-marko-tags-api-preview-37o4)) ([HN](https://news.ycombinator.com/item?id=34591625))
 - [Why are there no PUT and DELETE methods on HTML forms?](https://softwareengineering.stackexchange.com/questions/114156/why-are-there-no-put-and-delete-methods-on-html-forms) ([Lobsters](https://lobste.rs/s/an3e64/why_are_there_no_put_delete_methods_on_html))
 - [Improving responsiveness in text inputs (2021)](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/)
 - [Does shadow DOM improve style performance? (2021)](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)

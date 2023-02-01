@@ -123,3 +123,4 @@ title: Web Components
 - [ESLint rules for Web Components](https://github.com/43081j/eslint-plugin-wc)
 - [Web Components Guide](https://webcomponents.guide/) ([Code](https://github.com/WebComponentsGuide/webcomponents.guide))
 - [Improved Web Component for Pixel-Accurate Atkinson Dithered Images](https://sheep.horse/2023/1/improved_web_component_for_pixel-accurate_atkinson.html) ([Lobsters](https://lobste.rs/s/otzvj2/improved_web_component_for_pixel))
+- [Ardi](https://github.com/jameslovallo/ardi) - Makes it easy to create reactive custom elements that work with any website or JavaScript framework. ([Docs](https://ardi.netlify.app/))

@@ -141,3 +141,4 @@
 - [Queries to Find Patterns in Your Knowledge Graph (2023)](https://memgraph.com/blog/3-powerful-queries-to-find-patterns-in-your-knowledge-graph-you-havent-noticed-before)
 - [Knowledge-aware Global Reasoning for Situation Recognition (2023)](https://github.com/haofanwang/KGRN-SR)
 - [Knowledge Graph Generation From Text (2022)](https://arxiv.org/abs/2211.10511) ([Code](https://github.com/IBM/Grapher))
+- [GraphGPT](https://graphgpt.vercel.app/) - Build complex, directed graphs to add structure to your ideas using natural language. ([Code](https://github.com/varunshenoy/GraphGPT))

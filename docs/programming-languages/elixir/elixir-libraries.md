@@ -278,6 +278,7 @@
 - [mix_deploy](https://github.com/cogini/mix_deploy) - Mix tasks to deploy an Elixir release to servers (cloud instance or bare metal, automated deploy).
 - [Wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [Toolshed](https://github.com/elixir-toolshed/toolshed) - Toolshed of IEx helpers.
+- [Briefly](https://github.com/CargoSense/briefly) - Simple, robust temporary file support for Elixir.
 
 ## Links
 

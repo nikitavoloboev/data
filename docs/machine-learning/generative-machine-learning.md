@@ -313,3 +313,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Mann-E](https://opencognitives.com/mann-e/) - OpenJourney: Midjourney, but Open Source. ([HN](https://news.ycombinator.com/item?id=34522311))
 - [Docker Diffusers API](https://github.com/kiri-art/docker-diffusers-api) - Diffusers / Stable Diffusion in docker with a REST API, supporting various models, pipelines & schedulers.
 - [Stable Diffusion Accelerated](https://github.com/chavinlo/sda-node)
+- [Paint by Text](https://paintbytext.chat/) - Edit your photos using written instructions, with the help of an AI. ([Code](https://github.com/replicate/paint-by-text))

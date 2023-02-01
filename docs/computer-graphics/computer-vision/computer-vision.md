@@ -1127,3 +1127,4 @@
 - [Fast Dynamic Radiance Fields with Time-Aware Neural Voxels (2022)](https://arxiv.org/abs/2205.15285) ([Code](https://github.com/hustvl/TiNeuVox))
 - [Learning Customized Visual Models with Retrieval-Augmented Knowledge (2023)](https://arxiv.org/abs/2301.07094) ([Code](https://github.com/microsoft/react))
 - [Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models (2022)](https://arxiv.org/abs/2211.17091) ([Code](https://github.com/alsdudrla10/Discriminator-Guidance))
+- [Accelerating Guided Diffusion Sampling with Splitting Numerical Methods (2023)](https://arxiv.org/abs/2301.11558) ([Code](https://github.com/sWizad/split-diffusion))

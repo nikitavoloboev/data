@@ -353,3 +353,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Encrypting Data in the Browser Using WebAuthn (2023)](https://blog.millerti.me/2023/01/22/encrypting-data-in-the-browser-using-webauthn/)
 - [About Security Keys for Apple ID](https://support.apple.com/en-us/HT213154) ([HN](https://news.ycombinator.com/item?id=34495879))
 - [Breach Forums](https://breached.vc/)
+- [Ask HN: How can I get into cyber security research? (2023)](https://news.ycombinator.com/item?id=34572912)
+- [Knox](https://github.com/pinterest/knox) - Service for storing and rotation of secrets, keys, and passwords used by other services.

@@ -10,7 +10,7 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 
 Like the advice of: [try everything, figure out what you do best, make money from it. Stop caring what people think about you early](https://www.tiktok.com/@_notesformen/video/7167063418308971781). I try define these kind of [rules and more for myself](../focusing/rules.md).
 
-[Blueprint](https://blueprint.bryanjohnson.co/) has interesting ideas.
+[Blueprint](https://blueprint.bryanjohnson.co/) has [interesting ideas](https://www.youtube.com/watch?v=aXdEPiFlqH8). I love that it's [vegan](../environment/veganism.md) based too.
 
 ## Notes
 
@@ -135,3 +135,5 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Loss of epigenetic information as a cause of mammalian aging (2023)](<https://www.cell.com/cell/fulltext/S0092-8674(22)01570-7#%20>)
 - [For longevity, muscle strength may be as important as aerobic exercise](https://www.washingtonpost.com/wellness/2023/01/29/strength-training-all-ages/) ([HN](https://news.ycombinator.com/item?id=34570264))
 - [Anti-Aging Techniques Taken to Extreme by Bryan Johnson (2023)](https://www.bloomberg.com/news/features/2023-01-25/anti-aging-techniques-taken-to-extreme-by-bryan-johnson)
+- [My Anti-Aging Protocol Broke a World Record (2023)](https://www.youtube.com/watch?v=aXdEPiFlqH8)
+- [Observations from 9 Months of (Modified) Blueprint](https://www.reddit.com/r/blueprint_/comments/ywys43/observations_from_9_months_of_modified_blueprint/)

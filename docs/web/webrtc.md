@@ -128,3 +128,4 @@ title: WebRTC
 - [How to test whether a STUN/TURN server is working properly (2022)](https://mirotalk.hashnode.dev/how-to-test-whether-a-stunturn-server-is-working-properly)
 - [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) - WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [FTL](https://github.com/hironichu/FTL) - Fast WebRTC based server for Deno.
+- [werift](https://github.com/shinyoshiaki/werift-webrtc) - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM.

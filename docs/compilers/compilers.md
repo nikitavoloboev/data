@@ -283,3 +283,4 @@
 - [Devito](https://github.com/devitocodes/devito) - Code generation framework for automated finite difference computation.
 - [Ezno in '23](https://kaleidawave.github.io/posts/ezno-23/)
 - [Symbol Interposing & Hooking Shenanigans](https://github.com/DerekSelander/symbol-interposing)
+- [Ask HN: What is it about compiling that is so time-consuming? (2023)](https://news.ycombinator.com/item?id=34583577)

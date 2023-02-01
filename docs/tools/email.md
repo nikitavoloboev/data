@@ -309,3 +309,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Mailbox](https://mailbox.org/en/) - Secure e-mail for private and business customers.
 - [Email Cleaner](https://github.com/destroyer22719/email-cleaner) - Prevent users from inputting email addresses that'll still send to the same account.
 - [mjml react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly.
+- [Various Ways of Sending Mail via SMTP (2023)](https://blog.bityard.net/articles/2023/January/various-ways-of-sending-mail-via-smtp) ([Lobsters](https://lobste.rs/s/aiizbh/various_ways_sending_mail_via_smtp))

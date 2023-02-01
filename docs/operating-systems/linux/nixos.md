@@ -96,6 +96,7 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [Jonas Carpay](https://github.com/jonascarpay/nix)
 - [Morpheus's NixOS Flakes](https://github.com/Icy-Thought/snowflake)
 - [Yusuf Ertan](https://github.com/yusdacra/ark)
+- [Wil Taylor](https://github.com/wiltaylor/dotfiles)
 
 ## Nix configs (macOS)
 

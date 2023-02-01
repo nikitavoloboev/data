@@ -33,3 +33,4 @@ title: Nostr
 - [HN: Nostr](https://news.ycombinator.com/item?id=33746360)
 - [snort.social](https://snort.social/) - Nostr interface. ([Code](https://github.com/v0l/snort))
 - [Nostr Connect SDK for TypeScript](https://github.com/nostr-connect/connect)
+- [noscl](https://github.com/fiatjaf/noscl) - Command line client for Nostr.

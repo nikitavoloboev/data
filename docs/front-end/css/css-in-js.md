@@ -66,3 +66,4 @@
 - [En Vogue](https://github.com/cyco130/en-vogue) - Zero-runtime CSS-in-JS with static CSS extraction.
 - [Writing Performant CSS with vanilla-extract (2022)](https://www.lekoarts.de/javascript/writing-performant-css-with-vanilla-extract) ([Reddit](https://www.reddit.com/r/javascript/comments/yza2la/writing_performant_css_with_vanillaextract/))
 - [ecsstatic](https://github.com/mayank99/ecsstatic) - Predefinite CSS-in-JS library for Vite.
+- [box-extractor](https://github.com/astahmer/box-extractor) - Static code extraction. Zero-runtime CSS-in-TS Box.

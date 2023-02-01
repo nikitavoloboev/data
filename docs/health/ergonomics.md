@@ -119,3 +119,4 @@ My favorite work setup is something [like this](https://twitter.com/neee_eeed/st
 - [How You Can Fix a Dowager’s Hump + Prevention Tips](https://health.clevelandclinic.org/how-you-can-fix-a-dowagers-hump-prevention-tips/)
 - [Is it possible to get out of forward head posture?](https://www.reddit.com/r/Posture/comments/108hr0h/is_it_possible_to_get_out_of_forward_head_posture/)
 - [Sitting all day is terrible for your health](https://theconversation.com/sitting-all-day-is-terrible-for-your-health-now-a-new-study-finds-a-relatively-easy-way-to-counteract-it-197507) ([HN](https://news.ycombinator.com/item?id=34382603))
+- [Which is the single BEST exercise for posture correction? (2023)](https://www.reddit.com/r/Posture/comments/10pvhcs/which_is_the_single_best_exercise_for_posture/)

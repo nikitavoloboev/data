@@ -12,6 +12,8 @@ title: Conflict-free replicated data type
 
 [CRStore](https://github.com/Azarattum/CRStore) is nice CRDT plugin for [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Would love to build same one for [Solid](../programming-languages/javascript/js-libraries/solid.md).
 
+[libSQL Discord](https://discord.com/invite/TxwbQTWHSr) has insight crdt room with discussions.
+
 ## Notes
 
 - [Distributed state is so fundamentally complex that I think we actually need CRDTs (or something like them) to reason about it effectively. And certainly to build reliable systems. The abstraction of a single, global, logical truth is so nice and tidy and appealing, but it becomes so leaky that I think all successful systems for distributed state will abandon it beyond a certain scale.](https://lobste.rs/s/9fufgr/i_was_wrong_crdts_are_future)

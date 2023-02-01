@@ -961,3 +961,4 @@ if *boolArgPtr != false {
 - [Parsing in Go Examples for Talk](https://github.com/awalterschulze/parsing-in-go-example)
 - [Go Random Chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat with high performance and linear scalability, written in go.
 - [Asobiba](https://soko.hajimehoshi.com/asobiba/) - Go playground in WebAssembly. ([Code](https://github.com/hajimehoshi/asobiba))
+- [Reducing Go execution tracer overhead with frame pointer unwinding (2023)](https://blog.felixge.de/reducing-gos-execution-tracer-overhead-with-frame-pointer-unwinding/) ([HN](https://news.ycombinator.com/item?id=34600101))
