@@ -34,3 +34,4 @@ title: FoundationDB
 - [Skipping the boring parts of building a database using FoundationDB (2022)](https://blog.tigrisdata.com/building-a-database-using-foundationdb) ([HN](https://news.ycombinator.com/item?id=32931713))
 - [Storage and transaction in mvSQLite, the distributed SQLite on FoundationDB (2022)](https://univalence.me/posts/mvsqlite-2)
 - [How we built our data layer on FoundationDB (2022)](https://blog.tigrisdata.com/data-layer-foundationdb)
+- [Tigris RFC – building secondary indexes on FoundationDB](https://github.com/tigrisdata/tigris/blob/main/docs/rfcs/001-secondary-indexes.md)

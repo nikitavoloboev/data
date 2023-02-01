@@ -1030,3 +1030,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Too many words about Rust's function syntax (2023)](https://steveklabnik.com/writing/too-many-words-about-rusts-function-syntax)
 - [Next Rust Compiler (2023)](https://matklad.github.io/2023/01/25/next-rust-compiler.html) ([Reddit](https://www.reddit.com/r/rust/comments/10ld2vn/blog_post_next_rust_compiler/))
 - [Rust's Ugly Syntax (2023)](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html) ([HN](https://news.ycombinator.com/item?id=34541695)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/10mncte/too_many_words_about_rusts_function_syntax/)) ([Lobsters](https://lobste.rs/s/tn9gho/rust_s_ugly_syntax))
+- [Capability-Safety I: Prelude (2023)](https://blog.yoshuawuyts.com/capabilities-1/)
+- [My Vision for Creating Cross-platform Applications with Rust (2022)](https://ecton.dev/my-rusty-vision/)

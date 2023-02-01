@@ -196,4 +196,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Movies where ""Every frame is a painting" (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10i7kvv/movies_where_every_frame_is_a_painting/)
 - [Best films with a positive message/outlook (2023)](https://www.reddit.com/r/criterion/comments/10knf98/best_films_with_a_positive_messageoutlook/)
 - [What are some films from the last 10 years or so that you think will be considered classics in the future? (2023)](https://www.reddit.com/r/criterion/comments/10kdda8/what_are_some_films_from_the_last_10_years_or_so/)
-- [Scriptnotes 403 - How to Write a Movie (2020)](https://www.youtube.com/watch?v=vSX-DROZuzY)
+- [Scriptnotes - How to Write a Movie (2020)](https://www.youtube.com/watch?v=vSX-DROZuzY)

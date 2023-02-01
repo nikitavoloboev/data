@@ -105,3 +105,4 @@ I love the fact that I can set up any new mac or phone to use my exact and perfe
 - [rsnapshot](https://github.com/rsnapshot/rsnapshot) - Tool for backing up your data using rsync.
 - [Ask HN: What tools/strategy do you use for backups? (2022)](https://news.ycombinator.com/item?id=34197837)
 - [Introducing Content Defined Chunking (CDC) (2015)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
+- [What Losing Everything Taught Me About Backing Up (2023)](https://hackaday.com/2023/01/30/what-losing-everything-taught-me-about-backing-up/)

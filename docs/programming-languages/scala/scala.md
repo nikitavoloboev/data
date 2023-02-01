@@ -200,3 +200,4 @@ title: Scala
 - [It quacks but it’s not a duck structural typing in Scala 3 - Michał Pałka (2022)](https://www.youtube.com/watch?v=0BmuHmjBgNg)
 - [Fury](https://github.com/propensive/fury) - Build tool for Scala.
 - [scalafix rules](https://github.com/xuwei-k/scalafix-rules)
+- [Scala News](https://www.scalanews.net/)
