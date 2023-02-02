@@ -415,6 +415,7 @@
 - [generic-constructors](https://github.com/akrmn/generic-constructors)
 - [managed](https://github.com/Gabriella439/managed) - Monad for managed values.
 - [transitive-anns](https://github.com/isovector/transitive-anns) - Transitively track and reify annotations across a codebase.
+- [jrec](https://github.com/juspay/jrec) - Anonymous records for busy people.
 
 ## Notes
 

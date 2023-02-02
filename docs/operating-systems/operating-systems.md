@@ -8,6 +8,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 
 [xv6-riscv in Rust](https://github.com/Ko-oK-OS/xv6-rust) is nice read.
 
+[Unikraft](https://unikraft.org/) is awesome fit for [serverless edge deployments](../cloud-computing/serverless-computing/serverless-computing.md). It would be great for [sqld](https://github.com/libsql/sqld) to run on top of Unikraft and [Firecracker](https://firecracker-microvm.github.io/) for insanely fast suspend/resume cycle to support instantenous scale to zero and back.
+
 ## Interesting OSes
 
 - [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5)) ([The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI)) ([MirageOS 4.0](https://mirage.io/blog/announcing-mirage-40)) ([HN](https://news.ycombinator.com/item?id=30840571)) ([Examples of simple MirageOS apps](https://github.com/mirage/mirage-skeleton))

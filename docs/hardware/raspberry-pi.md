@@ -147,3 +147,4 @@ title: Raspberry Pi
 - [Raspberry Pi RP2040 Second-Stage Bootloader](https://github.com/rp-rs/rp2040-boot2)
 - [Mycelia](https://github.com/organix/mycelia) - Bare-metal actor operating system for Raspberry Pi.
 - [Thorium Special](https://github.com/Alex313031/Thorium-Special) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [The Rock 5B is not a Raspberry Pi killer–yet (2023)](https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet) ([HN](https://news.ycombinator.com/item?id=34612277))

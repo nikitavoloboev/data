@@ -6,3 +6,4 @@
 - [Kylie's Climb Log](https://github.com/kale-stew/climb-log) - Hiking blog and climbing log, build in Next.js with data sourced from a Notion.so database.
 - [Ask HN: Are you hiking? How old are you and how many kilometers can you Hike? (2022)](https://news.ycombinator.com/item?id=32044296)
 - [KT Companion](https://github.com/jamealg/KT-companion) - Offline-ready hiking trail companion app. ([HN](https://news.ycombinator.com/item?id=33420852))
+- [Hitchmap](https://hitchmap.com/) - Like Yelp, but for Hitchhiking Spots.

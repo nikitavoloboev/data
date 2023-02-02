@@ -2714,6 +2714,7 @@
 - [cargo-config2](https://github.com/taiki-e/cargo-config2) - Load and resolve Cargo configuration.
 - [cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package.
 - [cargo-manifest](https://github.com/LukeMathWalker/cargo-manifest) - Fork of cargo_toml to fix some issues for cargo-chef.
+- [wasm-server-runner](https://github.com/jakobhellermann/wasm-server-runner) - Allows you to run programs in the browser using web assembly using a simple cargo run.
 
 ## Notes
 
@@ -2918,3 +2919,4 @@
 - [Using `tracing` with Rust CLI applications (2023)](https://blog.waleedkhan.name/tracing-rust-cli-apps/)
 - [Why should you use Tokio vs. threads in Rust?](https://twitter.com/rikarends/status/1619312946420789248) ([HN](https://news.ycombinator.com/item?id=34567550))
 - [Surprises in the Rust JSON Ecosystem](https://ecton.dev/rust-json-ecosystem/)
+- [FFI examples written in Rust](https://github.com/sn99/rust-ffi-examples)

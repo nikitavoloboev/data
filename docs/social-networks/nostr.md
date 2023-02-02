@@ -34,3 +34,4 @@ title: Nostr
 - [snort.social](https://snort.social/) - Nostr interface. ([Code](https://github.com/v0l/snort))
 - [Nostr Connect SDK for TypeScript](https://github.com/nostr-connect/connect)
 - [noscl](https://github.com/fiatjaf/noscl) - Command line client for Nostr.
+- [Nostr Directory](https://nostr.directory/) - Find people you know from other social media sites on nostr. ([Code](https://github.com/pseudozach/nostr.directory))

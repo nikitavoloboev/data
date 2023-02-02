@@ -828,3 +828,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [CollabUML](https://github.com/AlexITC/collabuml) - PlantUML based app for online collaborative design on UML. ([HN](https://news.ycombinator.com/item?id=34555283))
 - [Eightify](https://www.eightify.app/) - YouTube Summaries Using GPT. ([HN](https://news.ycombinator.com/item?id=34548154))
 - [Watermark Remover](https://www.watermarkremover.io/) - Remove Watermarks Online from Images for Free.
+- [jamie](https://www.meetjamie.ai/) - AI Assistant for Meeting Summaries. ([HN](https://news.ycombinator.com/item?id=34613598))

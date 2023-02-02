@@ -322,3 +322,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Whoosh](https://github.com/mchaput/whoosh) - Pure-Python full-text search library.
 - [Hybrid Search and Learning-to-Rank](https://www.pinecone.io/learn/metarank/) ([HN](https://news.ycombinator.com/item?id=34581003))
 - [Needl](https://www.needl.tech/) - Simple search across all your apps. ([HN](https://news.ycombinator.com/item?id=34598406))
+- [Same Energy](https://same.energy/) - Image Search by Similarity.

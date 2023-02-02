@@ -663,6 +663,7 @@
 - [BDDSwift](https://github.com/KaneCheshire/BDDSwift) - Type-safe, compiler-enforced way of writing BDD steps and scenarios in Swift for XCTest.
 - [Distribute XCFramework with mixed implementation only and exported dependencies](https://github.com/DrAma999/XCFramework-with-dep-example)
 - [SwiftDocTest](https://github.com/schwa/SwiftDocTest) - Experimental tool for testing Swift example code in documentation.
+- [PreviewSnapshots](https://github.com/doordash-oss/swiftui-preview-snapshots) - Library for sharing view configurations between SwiftUI previews and SnapshotTesting snapshot tests.
 
 ## API
 

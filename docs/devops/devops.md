@@ -249,3 +249,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Cron-Job.org](https://cron-job.org/en/) - Scheduled execution of your websites and scripts. ([Code](https://github.com/pschlan/cron-job.org))
 - [precloud](https://github.com/tinystacks/precloud) - Dynamic tests for infrastructure-as-code.
 - [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
+- [vendir](https://github.com/carvel-dev/vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively. ([Web](https://carvel.dev/vendir/))

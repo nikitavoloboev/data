@@ -146,3 +146,4 @@ Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton
 - [Rotten Recipes](https://rotten.recipes/)
 - [Find flavors pairings](https://rotten.recipes/find/pairings) - Select an ingrdient to find flavor pairings.
 - [My favorite Greek mediterranean foods](https://www.reddit.com/r/nutrition/comments/10hr5xz/my_favourite_greek_mediterranean_foods/)
+- [Why are online recipes so long-winded? (2023)](https://jjpryor.substack.com/p/why-are-online-recipes-always-so) ([HN](https://news.ycombinator.com/item?id=34611222))

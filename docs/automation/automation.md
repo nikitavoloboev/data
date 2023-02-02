@@ -59,7 +59,7 @@
 - [Automatisch](https://automatisch.io/) - Open Source Zapier Alternative. ([Code](https://github.com/automatisch/automatisch))
 - [arx](https://github.com/norskeld/arx) - Simple CLI for scaffolding projects from templates in a touch.
 - [Collective Knowledge concept (CK)](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, describe, connect and reuse any artifacts, scripts, tools and workflows on any platform.
-- [Trigger.dev](https://trigger.dev/) - Automate complex workflows with code. ([Code](https://github.com/triggerdotdev/trigger.dev))
+- [Trigger.dev](https://trigger.dev/) - Automate complex workflows with code. ([Code](https://github.com/triggerdotdev/trigger.dev)) ([HN](https://news.ycombinator.com/item?id=34610686))
 
 ## Images
 

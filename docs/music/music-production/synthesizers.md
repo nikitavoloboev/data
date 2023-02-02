@@ -116,3 +116,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [osci-render](https://github.com/jameshball/osci-render) - Synthesizer for making music by drawing objects on an oscilloscope using audio.
 - [The Best Synth Player (2023)](https://www.reddit.com/r/synthesizers/comments/10dygzd/the_best_synth_player/)
 - [Most in depth synth YouTuber (2023)](https://www.reddit.com/r/synthesizers/comments/10id6c5/most_in_depth_synth_youtuber/)
+- [What are the most innovative and experimental synths on the market today? (2023)](https://www.reddit.com/r/synthesizers/comments/10qydgj/what_are_the_most_innovative_and_experimental/)

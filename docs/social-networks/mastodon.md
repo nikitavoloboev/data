@@ -166,3 +166,5 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Hastodon](https://github.com/syucream/hastodon) - Mastodon client module for Haskell.
 - [Emfed](https://github.com/sampsyo/emfed) - Embed your Mastodon feed into your web page.
 - [fedistar](https://github.com/h3poteto/fedistar) - Mastodon and Pleroma client application for desktop.
+- [StreetPass](https://streetpass.social/) - Browser extension that helps you find your people on Mastodon. ([Code](https://github.com/tvler/streetpass))
+- [fediview](https://fediview.com/) - Get a digest of popular posts and boosts from your Mastodon (fediverse) timeline. ([Code](https://github.com/adamghill/fediview))

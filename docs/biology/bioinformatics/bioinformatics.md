@@ -284,3 +284,4 @@ title: Bioinformatics
 - [Gotree](https://github.com/evolbioinfo/gotree) - Set of command line tools and an API to manipulate phylogenetic trees.
 - [biopix](https://github.com/arpandaze/biopix) - 3D Protein Structure Visualizer Built with Rust.
 - [vesta_vectors.py](https://github.com/lucydot/vesta_vectors) - Python 3 script to visualize atomic displacement using the Vesta file format.
+- [BioGPT: A language model pre-trained on large-scale biomedical literature (2023)](https://www.marktechpost.com/2023/01/31/microsoft-research-proposes-biogpt-a-domain-specific-generative-transformer-language-model-pre-trained-on-large-scale-biomedical-literature/) ([HN](https://news.ycombinator.com/item?id=34609648))

@@ -76,3 +76,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [GPT JAX](https://github.com/jaymody/gpt-jax) - Stupidly simple GPT implementation in JAX.
 - [Build ChatGPT like chatbots on your website (2022)](https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626) ([HN](https://news.ycombinator.com/item?id=34566070))
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
+- [HN: ChatGPT Plus (2023)](https://news.ycombinator.com/item?id=34614796)
