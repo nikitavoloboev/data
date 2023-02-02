@@ -29,6 +29,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 - [Fantastical](../macOS/apps/fantastical.md) - Plan meetings & events.
 - [Calendly](https://calendly.com/) - Sharing my availability for efficient event arrangement.
 - [Luma](https://lu.ma) - Organizing online & IRL events. Sending newsletter updates for events.
+
 ## Chat
 
 - [Telegram](../tools/telegram.md) - Best native messenger with great stickers.
@@ -128,7 +129,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Payment
 
-- [Stripe Checkout](https://stripe.com/payments/checkout)
+- [Stripe Checkout](https://stripe.com/payments/checkout) - Evaluating alternatives now as [fees have become too much](https://news.ycombinator.com/item?id=34609182).
 
 ## Analytics
 

@@ -12,9 +12,11 @@ It would also be nice to automate moving money from main account to good ETFs. F
 
 [Mercury](https://mercury.com/) & [Column](https://news.ycombinator.com/item?id=31109170) are great company banks.
 
-I use [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) to process online payments. But [Lemon Squeezy](https://www.lemonsqueezy.com/) or [Paddle](https://www.paddle.com/) seem [nice for processing payments](https://news.ycombinator.com/item?id=31522127) too among [other options](https://twitter.com/JordanMorgan10/status/1604324809583857664).
+I found [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) to process online payments to have nice DX but their [pricing is insane compared to alternatives](https://news.ycombinator.com/item?id=34609182) so avoid Stripe now.
 
-Would love to build some things on top of global payment infrastructure. Using something like [TrueLayer](https://truelayer.com/) perhaps.
+[Lemon Squeezy](https://www.lemonsqueezy.com/) or [Paddle](https://www.paddle.com/) seem [nice for processing payments](https://news.ycombinator.com/item?id=31522127) too among [other options](https://twitter.com/JordanMorgan10/status/1604324809583857664). My goal though is to minimize the fee I pay on each transaction over how nice DX is as I can abstract that away.
+
+Would love to build some things on top of global payment infrastructure and get those fees closer to minimum as possible. Perhaps by building on something like [TrueLayer](https://truelayer.com/) as you need a banking license to innovate in fin tech at least in US.
 
 ## Ongoing subscriptions
 

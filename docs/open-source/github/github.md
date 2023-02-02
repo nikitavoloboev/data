@@ -508,3 +508,4 @@ Awesome List
 - [CodeQL path graphs (2023)](https://mechanicalsympathy.nl/posts/codeql-path-graphs/)
 - [Ask HN: When did GitHub replace standard Git commands with the “GitHub CLI?” (2023)](https://news.ycombinator.com/item?id=34489301)
 - [GitHub Issues Notebooks for VS Code](https://github.com/microsoft/vscode-github-issue-notebooks)
+- [GitHub Notion Sync](https://github.com/temporalio/github-repo-notion-sync) - Sync an organization's GitHub repo list to a Notion DB.
