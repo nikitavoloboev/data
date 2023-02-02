@@ -437,6 +437,7 @@ title: GitHub actions
 - [Edit Cabal Version](https://github.com/nikita-volkov/edit-cabal-version.github-action) - GitHub Action for bumping and retrieving the package version in .cabal files for Haskell projects.
 - [Automate Haskell releases](https://github.com/cachix/haskell-release-action)
 - [get-tested](https://github.com/Kleidukos/get-tested) - CLI tool that retrieves the tested-with stanza of a cabal file and formats it in such a way that GitHub Actions can use it.
+- [Stack Cache Action](https://github.com/freckle/stack-cache-action) - One-line caching action for Stack-based Haskell projects.
 
 ## LLVM
 
@@ -649,3 +650,4 @@ title: GitHub actions
 - [Using larger GitHub runners](https://docs.github.com/en/actions/using-github-hosted-runners/using-larger-runners)
 - [Deploying Edge Functions with GitHub Actions (2022)](https://www.youtube.com/watch?v=l2KlzGrhB6w)
 - [Docker Layer Caching in GitHub Actions](https://github.com/jpribyl/action-docker-layer-caching)
+- [action-validator](https://github.com/mpalmer/action-validator) - Tool to validate GitHub Action and Workflow YAML files.

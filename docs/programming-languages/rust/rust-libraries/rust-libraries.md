@@ -418,6 +418,7 @@
 - [OpenSrv](https://github.com/datafuselabs/opensrv) - Async bindings for emulating database servers. Currently, support for ClickHouse and MySql/MariaDB is provided.
 - [cdbc](https://github.com/co-rs/cdbc) - Coroutine Database driver Connectivity.based on mco.
 - [ormlite](https://github.com/kurtbuilds/ormlite) - ORM in Rust for developers that love SQL.
+- [boh](https://github.com/EmbarkStudios/boh) - Tiny thing that can hold many things.
 
 ## Video
 
@@ -2598,6 +2599,7 @@
 - [bytebuffer](https://github.com/terahlunah/bytebuffer) - Easy to use API to read/write data from/to a bunch of bytes.
 - [force-directed-graph](https://github.com/zackradisic/force-directed-graph)
 - [npm-package](https://github.com/TheLarkInn/npm-package) - Lightweight client for fetching package metadata from the npm registry.
+- [system-deps](https://github.com/gdesmott/system-deps) - Run pkg-config from declarative dependencies in Cargo.toml.
 
 ## Cargo Plugins
 
@@ -2715,6 +2717,7 @@
 - [cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package.
 - [cargo-manifest](https://github.com/LukeMathWalker/cargo-manifest) - Fork of cargo_toml to fix some issues for cargo-chef.
 - [wasm-server-runner](https://github.com/jakobhellermann/wasm-server-runner) - Allows you to run programs in the browser using web assembly using a simple cargo run.
+- [cargo-dist](https://github.com/axodotdev/cargo-dist) - cargo build but For Building Final Distributable Artifacts and uploading them to an archive. ([Article](https://blog.axo.dev/2023/02/cargo-dist))
 
 ## Notes
 
@@ -2920,3 +2923,4 @@
 - [Why should you use Tokio vs. threads in Rust?](https://twitter.com/rikarends/status/1619312946420789248) ([HN](https://news.ycombinator.com/item?id=34567550))
 - [Surprises in the Rust JSON Ecosystem](https://ecton.dev/rust-json-ecosystem/)
 - [FFI examples written in Rust](https://github.com/sn99/rust-ffi-examples)
+- [get-all-crates](https://github.com/dtolnay/get-all-crates) - Download .crate files of all versions of all crates from crates.io.

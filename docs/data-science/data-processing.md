@@ -159,3 +159,4 @@
 - [dbt-prql](https://github.com/PRQL/dbt-prql) - Allows writing PRQL in dbt models.
 - [Using Rust to write a Data Pipeline (2023)](https://www.confessionsofadataguy.com/using-rust-to-write-a-data-pipeline-thoughts-musings/) ([Code](https://github.com/danielbeach/RustForDataPipelines))
 - [Pandas Illustrated: Visual Guide to Pandas (2023)](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) ([HN](https://news.ycombinator.com/item?id=34550735))
+- [Arrow CLI Tools](https://github.com/domoritz/arrow-tools) - Collection of handy CLI tools to convert CSV and JSON to Apache Arrow and Parquet.

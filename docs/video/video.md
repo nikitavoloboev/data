@@ -487,3 +487,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Napari Live Recording](https://github.com/jacopoabramo/napari-live-recording) - Napari plugin for live video recording with a generic camera device and generate a stack of TIFF images from said device.
 - [Reduct](https://reduct.video/) - Collaborative transcript-based video platform where everyone can review, search, highlight and edit video, as easily as text.
 - [FFdynamic](https://github.com/Xingtao/FFdynamic) - Extend FFmpeg with run time control and dynamic audio/video composition.
+- [YoutubeSync](https://github.com/Joystream/youtube-synch)

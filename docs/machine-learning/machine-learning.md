@@ -1057,3 +1057,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) ([Code](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io))
 - [The Transformer Family (2023)](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) ([HN](https://news.ycombinator.com/item?id=34566275))
 - [Just know stuff (or, how to achieve success in a machine learning PhD) (2023)](https://kidger.site/thoughts/just-know-stuff/) ([HN](https://news.ycombinator.com/item?id=34547358))
+- [Deep invariant networks with differentiable augmentation layers (2022)](https://arxiv.org/abs/2202.02142) ([Code](https://github.com/cedricrommel/augnet))
+- [Weakly-supervised Anomaly Detection: A Survey](https://github.com/yzhao062/WSAD)
+- [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)

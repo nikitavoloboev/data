@@ -2,7 +2,7 @@
 
 [Hugging Face Datasets](https://huggingface.co/datasets) & [TensorFlow Datasets](https://github.com/tensorflow/datasets) have nice collections.
 
-[AutoViz](https://github.com/AutoViML/AutoViz) is nice for visualizing datasets.
+[AutoViz](https://github.com/AutoViML/AutoViz) is nice for visualizing datasets. [Label Studio](https://github.com/heartexlabs/label-studio) is nice for data annotating.
 
 ## Links
 

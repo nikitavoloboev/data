@@ -210,3 +210,5 @@
 - [plotly_resampler](https://github.com/predict-idlab/plotly-resampler) - Visualize large sequential data by adding resampling functionality to Plotly figures.
 - [Lyra](https://github.com/vega/lyra) - Interactive, graphical Visualization Design Environment.
 - [Olli](https://github.com/mitvis/olli) - Screen Reader Accessibility for Data Visualization.
+- [Graphy](https://graphy.new/) - Slick, interactive charts that make your work stand out. ([Twitter](https://twitter.com/GraphyHQ))
+- [Matching Many Classes to Fewer Colors (2023)](https://nik.bo/colormatch) ([Lobsters](https://lobste.rs/s/pbpfei/matching_many_classes_fewer_colors))

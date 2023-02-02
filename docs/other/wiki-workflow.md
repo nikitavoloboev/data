@@ -255,6 +255,7 @@ I want to:
 - [Eduardo Julian's bookmarks](https://github.com/LuxLang/lux/tree/master/documentation/bookmark)
 - [Raphael Sprenger](https://garden.raphaelsprenger.de/index.html)
 - [Личная вики](https://ndrewnee.gitbook.io/wiki/)
+- [Daryll Santos](https://github.com/daryllxd/lifelong-learning)
 - [Boris Mann](https://bmannconsulting.com/)
 - [Yu-An Chan's wiki](https://alanchan.netlify.app/index.html)
 - [The Wise Opportunist](https://opportunist.luseeds.com/)

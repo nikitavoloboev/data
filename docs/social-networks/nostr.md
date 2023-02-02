@@ -35,3 +35,4 @@ title: Nostr
 - [Nostr Connect SDK for TypeScript](https://github.com/nostr-connect/connect)
 - [noscl](https://github.com/fiatjaf/noscl) - Command line client for Nostr.
 - [Nostr Directory](https://nostr.directory/) - Find people you know from other social media sites on nostr. ([Code](https://github.com/pseudozach/nostr.directory))
+- [Nostr Key Converter](https://github.com/rot13maxi/key-convertr) - Convert nostr keys and note-ids between hex and bech32.

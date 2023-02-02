@@ -916,3 +916,4 @@ title: Kubernetes
 - [sealos](https://github.com/labring/sealos) - Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications.
 - [OpenID Connect Webhook Authenticator for Kubernetes](https://github.com/gardener/oidc-webhook-authenticator)
 - [cloudtty](https://github.com/cloudtty/cloudtty) - Kubernates Cloud Shell (Web Terminal) Operator.
+- [NVIDIA Driver Manager For Kubernetes](https://github.com/NVIDIA/k8s-driver-manager)

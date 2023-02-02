@@ -777,6 +777,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Promptable](https://github.com/promptable/Promptable.js) - Build your prompt engineering pipeline in Typescript.
 - [TTS-Schema](https://github.com/tusharmath/tts-schema) - Reify your types in Typescript.
 - [Exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript.
+- [taggy](https://github.com/open-taggy/taggy) - TypeScript-based frontend package to automatically tag (or categorize) textual content.
 
 ## Links
 

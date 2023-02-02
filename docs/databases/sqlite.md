@@ -303,3 +303,4 @@ Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/lib
 - [SQLite-based databases on the Postgres protocol (2023)](https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65) ([HN](https://news.ycombinator.com/item?id=34517474))
 - [sqlite-ulid](https://github.com/asg017/sqlite-ulid) - SQLite extension for generating and working with ULIDs.
 - [LiteFS JS](https://github.com/fly-apps/litefs-js) - JavaScript utilities for working with LiteFS on Fly.io. ([Tweet](https://twitter.com/kentcdodds/status/1620430543681908739))
+- [Writing a Custom SQLite Function (in C) (2023)](https://www.openmymind.net/Writing-A-Custom-Sqlite-Function-Part-1/)

@@ -318,3 +318,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Proof of history: what is it good for? (2022)](https://www.shoup.net/papers/poh.pdf) ([Tweet](https://twitter.com/VictorShoup/status/1523015525814894597))
 - [Solana Froth VSCode](https://marketplace.visualstudio.com/items?itemName=SiriusHash.solana-froth) - Get info about Solana blockchain and wallets from VSCode. ([Code](https://github.com/Sirius-Hash/solana-froth-vscode))
 - [Bokken](https://github.com/Blade-Labs-Corp/bokken) - Solana program debugger. ([Web](https://www.blade.so/solana-debugger))
+- [Drift Protocol v2](https://github.com/drift-labs/protocol-v2) - On-chain perpetuals dex with multiple liquidity mechanisms.

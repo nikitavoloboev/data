@@ -29,6 +29,8 @@ title: Tauri
 - [Elk Desktop](https://github.com/elk-zone/elk-desktop) - Mastodon web client.
 - [Verve](https://github.com/ParthJadhav/verve) - Lightweight and fast launcher for accessing and opening applications, files and documents.
 - [Nasoone](https://github.com/davideaimar/nasoone) - Application that allows you to collect statistics about the traffic in your network.
+- [Emoji Mart](https://github.com/Simon-Laux/tauri-emoji-mart-app) - Tauri app, click on an emoji to copy it to the clipboard.
+- [Tauri + Vue + Vite Template](https://github.com/Uninen/tauri-vue-template)
 
 ## Notes
 
@@ -67,3 +69,4 @@ title: Tauri
 - [Tauri Global Hotkey](https://github.com/amrbashir/global-hotkey) - Global hotkeys for Desktop Applications.
 - [Tauri SQL Plugin](https://github.com/tauri-apps/tauri-plugin-sql)
 - [nsis-tauri-utils](https://github.com/tauri-apps/nsis-tauri-utils) - Collection of NSIS plugins written in rust.
+- [Why we built a Rust-powered desktop app for previewing documentation (2023)](https://www.doctave.com/blog/2023/02/02/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation.html)

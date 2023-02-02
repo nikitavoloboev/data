@@ -655,3 +655,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres without a superuser - coming to v16 (2023)](http://rhaas.blogspot.com/2023/01/surviving-without-superuser-coming-to.html)
 - [Features I'd Like in PostgreSQL (2023)](https://gilslotd.com/blog/features_id_postgresql) ([HN](https://news.ycombinator.com/item?id=34560332)) ([Lobsters](https://lobste.rs/s/s8vphc/features_i_d_like_postgresql))
 - [pgpq](https://github.com/adriangb/pgpq) - Stream Arrow data into Postgres.
+- [DB Webhooks](https://github.com/portola-labs/db-webhooks) - Utility for Postgres that triggers webhooks when rows are inserted, updated, or deleted.
+- [Will Postgres Use My Index? Hypothetical Indexing for Postgres (2023)](https://www.crunchydata.com/blog/will-postgres-use-my-index-hypothetical-indexing-with-postgres)

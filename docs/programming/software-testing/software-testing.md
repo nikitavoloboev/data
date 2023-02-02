@@ -181,3 +181,4 @@
 - [An unexpected benefit of unit tests (2023)](https://matthewc.dev/musings/unit-tests/) ([HN](https://news.ycombinator.com/item?id=34467523))
 - [Hermione](https://github.com/gemini-testing/hermione) - Browser test runner based on mocha and wdio.
 - [Tutorial about how to apply property-based testing to stateful systems](https://github.com/stevana/property-based-testing-stateful-systems-tutorial)
+- [Efficient and Flexible Model-Based Testing (2023)](https://concerningquality.com/model-based-testing-theory/) ([Lobsters](https://lobste.rs/s/sjltvu/efficient_flexible_model_based_testing))

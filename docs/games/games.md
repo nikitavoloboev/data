@@ -72,6 +72,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Elevator Saga](https://play.elevatorsaga.com/) - Elevator programming game. ([Lobsters](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game))
 - [Rotaboxes](https://rotaboxes.com/) - Daily image puzzle game. ([HN](https://news.ycombinator.com/item?id=33718124))
 - [b](https://github.com/knvi/b) - Multiplayer Voxel Engine written in C.
+- [Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers) ([HN](https://news.ycombinator.com/item?id=34628386))
 
 ## Awesome OSS games
 

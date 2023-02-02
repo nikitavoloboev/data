@@ -365,3 +365,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Type-safe React Query (2023)](https://tkdodo.eu/blog/type-safe-react-query)
 - [Embedding Our New React UI in Go (2023)](https://www.flipt.io/blog/embedding-react-in-go)
 - [The Joy of React](https://www.joyofreact.com/)
+- [Udibo React App](https://github.com/udibo/react_app) - React Framework for Deno.

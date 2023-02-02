@@ -152,6 +152,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Amperfy](https://github.com/BLeeEZ/amperfy) - iOS app to play songs from an Ampache or Subsonic server.
 - [Fosdem.app](https://github.com/mttcrsp/fosdem) - iOS app for all things FOSDEM.
 - [Expenso](https://github.com/sameersyd/Expenso-iOS) - Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics.
+- [CollegeCGPAios](https://github.com/AbGhost-cyber/CollegeCGPAios) - Offline academic tracker app.
 
 ## Other
 

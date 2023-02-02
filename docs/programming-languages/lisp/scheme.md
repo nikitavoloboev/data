@@ -114,3 +114,4 @@ title: Scheme
 - [Growing a Networked Garden with Spritely Goblins (2022)](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
 - [Hop](https://github.com/manuel-serrano/hop) - Multitier JavaScript.
 - [Practical Scheme](http://practical-scheme.net/) ([HN](https://news.ycombinator.com/item?id=34452163))
+- [Scheme Libraries](https://github.com/mnieper/scheme-libraries)

@@ -140,3 +140,4 @@ title: Xcode
 - [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)
 - [Bazelize](https://github.com/XCodeBazelize/Bazelize) - CLI tool turn your Xcode project to Bazel.
 - [XcodeMigrate](https://github.com/XcodeMigrate/XcodeMigrate) - Generate Bazel BUILD files from Xcode projects.
+- [Squirrel](https://github.com/aheze/Squirrel) - Enable scrolling in the Xcode Simulator.

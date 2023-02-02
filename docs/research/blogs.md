@@ -320,6 +320,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Aria Beingessner](https://faultlore.com/blah/#articles)
 - [Will Yager](https://yager.io/)
 - [Jonathan Johnson](https://ecton.dev/)
+- [Concerning Quality](https://concerningquality.com/)
 
 ## Notes
 

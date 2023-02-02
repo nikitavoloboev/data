@@ -77,3 +77,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Build ChatGPT like chatbots on your website (2022)](https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626) ([HN](https://news.ycombinator.com/item?id=34566070))
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 - [HN: ChatGPT Plus (2023)](https://news.ycombinator.com/item?id=34614796)
+- [ChatGPT failure archive](https://github.com/giuven95/chatgpt-failures)
+- [KnowledgeGPT](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.

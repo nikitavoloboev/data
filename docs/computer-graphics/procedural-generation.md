@@ -67,3 +67,4 @@
 - [Wave Function Collapse in Rust](https://github.com/AustinHellerRepo/WaveFunctionCollapse)
 - [Kraut](https://github.com/jankrassnigg/Kraut) - Program to procedurally generate plants, especially trees.
 - [Implementation of Wave Function Collapse with a focus on performance](https://github.com/math-fehr/fast-wfc)
+- [Infinite World](https://github.com/brunosimon/infinite-world) - Infinite procedurally generated world generated in WebGL with Three.js.

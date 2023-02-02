@@ -498,3 +498,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [runix](https://github.com/timbertson/runix) - Run nix software without installing nix.
 - [iplz](https://github.com/jonascarpay/iplz) - Demo project for building, provisioning, and deploying a web service with a single command, using Terraform and Nix.
 - [nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs.
+- [Tvix](https://github.com/tvlfyi/tvix) - Rust implementation of Nix.

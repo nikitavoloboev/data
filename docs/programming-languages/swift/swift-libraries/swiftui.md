@@ -276,3 +276,4 @@ title: SwiftUI
 - [SwiftUI Subscription Paywall](https://github.com/JamesSedlacek/PaywallDemo)
 - [30k lines of SwiftUI in production later (2023)](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/) ([HN](https://news.ycombinator.com/item?id=34556370))
 - [Styling Components in SwiftUI (2023)](https://movingparts.io/styling-components-in-swiftui)
+- [SwiftUI iOS App with Bazel](https://github.com/mattrobmattrob/bazel-ios-swiftui-template)

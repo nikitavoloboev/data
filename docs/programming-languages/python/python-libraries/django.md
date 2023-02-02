@@ -184,3 +184,4 @@ title: Django
 - [Django safedelete](https://github.com/makinacorpus/django-safedelete) - Mask your objects instead of deleting them from your database.
 - [Strawberry GraphQL Django integration](https://github.com/strawberry-graphql/strawberry-graphql-django)
 - [Silk](https://github.com/jazzband/django-silk) - Live profiling and inspection tool for the Django framework.
+- [Strawberry Django](https://github.com/blb-ventures/strawberry-django-plus) - Enhanced Strawberry integration with Django.

@@ -334,3 +334,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [printents](https://github.com/SerenaKit/printents) - CommandLine tool that prints the entitlements of an .app bundle or any executable on device.
 - [Platypus](https://sveinbjorn.org/platypus) - Create Mac apps from command line scripts. ([Code](https://github.com/sveinbjornt/Platypus))
 - [Apple Dictionary Tools](https://github.com/JadedTuna/apple-dictionary) - Tools for extracting data from Apple dictionary files.
+- [Dockhunt](https://dockhunt.vercel.app/) - Share your dock and see who else has docked the apps you use. ([Code](https://github.com/Basedash/dockhunt))

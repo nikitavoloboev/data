@@ -106,3 +106,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)
 - [Deno Slack Data Mapper](https://github.com/seratch/deno-slack-data-mapper) - Handy way to manage data using Slack's next-generation hosting platform datastores.
 - [Notify Slack Action](https://github.com/ravsamhq/notify-slack-action) - Send a Slack Notification from Github Actions regarding failure, warnings, or even success.
+- [gh-slack](https://github.com/rneatherway/gh-slack) - Utility for archiving a slack conversation as markdown.

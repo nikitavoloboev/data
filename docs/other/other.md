@@ -756,3 +756,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 - [Take more screenshots (2022)](https://alexwlchan.net/2022/screenshots/) ([HN](https://news.ycombinator.com/item?id=34544199))
 - [Create word clouds](https://github.com/isaackd/wcloud-dev)
+- [Insulation: first the body, then the home](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html)

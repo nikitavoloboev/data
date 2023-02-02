@@ -809,3 +809,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [New AI classifier for indicating AI-written text (2023)](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) ([HN](https://news.ycombinator.com/item?id=34599106))
 - [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (2023)](https://arxiv.org/abs/2301.11305) ([HN](https://news.ycombinator.com/item?id=34600232))
 - [Towards Continual Knowledge Learning of Language Models (2022)](https://arxiv.org/abs/2110.03215) ([Code](https://github.com/joeljang/continual-knowledge-learning))
+- [AI Text Classifier - OpenAI API](https://platform.openai.com/ai-text-classifier)

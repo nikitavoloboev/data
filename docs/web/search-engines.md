@@ -323,3 +323,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Hybrid Search and Learning-to-Rank](https://www.pinecone.io/learn/metarank/) ([HN](https://news.ycombinator.com/item?id=34581003))
 - [Needl](https://www.needl.tech/) - Simple search across all your apps. ([HN](https://news.ycombinator.com/item?id=34598406))
 - [Same Energy](https://same.energy/) - Image Search by Similarity.
+- [meilisearch-docsearch](https://github.com/amrbashir/meilisearch-docsearch) - Algloia-inspired quick search component for meilisearch.
