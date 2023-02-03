@@ -161,3 +161,4 @@
 - [Making Sorbet more incremental (2023)](https://blog.jez.io/making-sorbet-more-incremental/) ([Lobsters](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental))
 - [Ruby 3.2’s YJIT is Production-Ready (2023)](https://shopify.engineering/ruby-yjit-is-production-ready) ([HN](https://news.ycombinator.com/item?id=34413012))
 - [Pattern Matching Interfaces in Ruby](https://dev.to/baweaver/pattern-matching-interfaces-in-ruby-1b15) ([RFC](https://docs.google.com/document/d/1spnuQTKy5i7Lx-sDCsORKN981Iam1IuNdOsYkhh9Yi0/edit#))
+- [Ruby Internals Glossary](https://github.com/tenderlove/ruby-glossary) - Acronyms I've run across in the Ruby source code and their meanings.

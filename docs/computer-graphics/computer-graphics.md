@@ -272,3 +272,5 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Tangent Spaces and Diamond Encoding (2023)](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
 - [RenderDoc](https://github.com/baldurk/renderdoc) - Stand-alone graphics debugging tool.
 - [Generative Modelling of BRDF Textures from Flash Images (2021)](https://arxiv.org/abs/2102.11861) ([Code](https://github.com/henzler/neuralmaterial))
+- [Render engine for NeRFs](https://github.com/JamesPerlman/NeRFRenderCore)
+- [Quine](https://github.com/ekmett/quine) - Graphics experiments in Haskell.

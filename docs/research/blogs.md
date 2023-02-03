@@ -321,6 +321,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Will Yager](https://yager.io/)
 - [Jonathan Johnson](https://ecton.dev/)
 - [Concerning Quality](https://concerningquality.com/)
+- [Tim Misiak](https://www.timdbg.com/)
 
 ## Notes
 

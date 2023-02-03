@@ -111,3 +111,4 @@
 - [ElevenLabs | Speech Synthesis](https://beta.elevenlabs.io/speech-synthesis)
 - [Praat](https://github.com/praat/praat) - Speech analysis tool used for doing phonetics by computer. ([Web](https://www.fon.hum.uva.nl/praat/))
 - [Audio AI Timeline](https://github.com/archinetai/audio-ai-timeline) - Timeline of the latest AI models for audio generation.
+- [AudioLDM](https://github.com/haoheliu/AudioLDM) - Text-to-Audio Generation with Latent Diffusion Models.

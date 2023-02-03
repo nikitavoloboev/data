@@ -188,3 +188,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Ask HN: Skeptical about my company going “full serverless”. What am I missing? (2022)](https://news.ycombinator.com/item?id=33520733)
 - [Latency drives modern infrastructure architecture (2022)](https://blog.chiselstrike.com/latency-is-driving-edge-and-serverless-computing-infrastructure-21b708cbdfce)
 - [FunctionClarity](https://github.com/openclarity/functionclarity) - Infrastructure solution for signing and verifying serverless functions.
+- [Carving The Scheduler Out Of Our Orchestrator (2023)](https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/)

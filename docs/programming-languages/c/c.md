@@ -316,4 +316,4 @@
 - [Safe memory reclamation for BIND (2023)](https://dotat.at/@/2023-01-10-qsbr.html)
 - [From Zero to main(): Bare metal C (2019)](https://interrupt.memfault.com/blog/zero-to-main-1) ([HN](https://news.ycombinator.com/item?id=34459053))
 - [Bounded Flexible Arrays in C (2023)](https://people.kernel.org/kees/bounded-flexible-arrays-in-c)
-- [C was not created as an abstract machine (2023)](https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine) ([HN](https://news.ycombinator.com/item?id=34623007))
+- [C was not created as an abstract machine (2023)](https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine) ([HN](https://news.ycombinator.com/item?id=34623007)) ([Lobsters](https://lobste.rs/s/cnuxq6/c_was_not_created_as_abstract_machine))

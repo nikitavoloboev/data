@@ -6,6 +6,8 @@ Don't be afraid to charge more for good products as they get better. Especially 
 
 I personally like the model where you buy something and you own the copy and get updates for next x months (usually a year), then you have to update by paying. [Cleanshot](https://cleanshot.com/) or [JetBrains](https://www.jetbrains.com/) do this model well.
 
+[tier](https://github.com/tierrun/tier) is interesting.
+
 ## Nice pricing pages
 
 - [Fathom](https://app.usefathom.com/register)

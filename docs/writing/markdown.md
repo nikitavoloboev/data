@@ -165,3 +165,4 @@
 - [MDRB](https://github.com/andrewbrey/mdrb) - Turn your Markdown documentation into executable runbooks.
 - [ultramark](https://github.com/natemoo-re/ultramark) - Tiny, spec-compliant Markdown library.
 - [remark-tree-sitter](https://github.com/s0/remark-tree-sitter) - Highlight code in Markdown files using tree-sitter and remark.
+- [markdown-it-prism](https://github.com/jGleitz/markdown-it-prism) - Highlight code blocks in markdown-it using prism.

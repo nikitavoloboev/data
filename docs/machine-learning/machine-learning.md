@@ -1060,3 +1060,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Deep invariant networks with differentiable augmentation layers (2022)](https://arxiv.org/abs/2202.02142) ([Code](https://github.com/cedricrommel/augnet))
 - [Weakly-supervised Anomaly Detection: A Survey](https://github.com/yzhao062/WSAD)
 - [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
+- [Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale (2022)](https://github.com/deepmind/transformer_grammars)

@@ -77,3 +77,4 @@ I wish there were more electric superchargers in EU. Tesla cars seem nice too. C
 - [How Transportation Technologies Shaped Empires (2023)](https://unchartedterritories.tomaspueyo.com/p/transportation-tech-shaped-empires)
 - [PorscheConnect](https://github.com/driven-app/porsche-connect) - Unofficial Porsche Connect API library written in Swift.
 - [Realistic daily range of an electric vehicle (2023)](https://blog.forret.com/2023/01/15/realistic-daily-range-ev/) ([HN](https://news.ycombinator.com/item?id=34391407))
+- [Tesla Prep](https://github.com/mykeln/teslaprep) - Comprehensive guide on buying and owning a Tesla.

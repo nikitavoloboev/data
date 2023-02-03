@@ -81,3 +81,4 @@ Love what [Andrei](https://github.com/anvaka) is doing with graphs.
 - [Zef](https://github.com/zefhub/zef) - Data-oriented toolkit for graph data.
 - [2-Opt Search Algorithm](https://github.com/pdrm83/py2opt) - Solve the traveling salesman problem with the 2-opt algorithm, a fast heuristic search algorithm.
 - [Proceedings of Learning on Graphs 2022](https://github.com/mlresearch/v198)
+- [Finally, a Fast Algorithm for Shortest Paths on Negative Graphs (2023)](https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/)

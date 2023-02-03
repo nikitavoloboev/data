@@ -1033,3 +1033,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Capability-Safety I: Prelude (2023)](https://blog.yoshuawuyts.com/capabilities-1/)
 - [My Vision for Creating Cross-platform Applications with Rust (2022)](https://ecton.dev/my-rusty-vision/)
 - [Async trait send bounds (2023)](https://smallcultfollowing.com/babysteps/blog/2023/02/01/async-trait-send-bounds-part-1-intro/)
+- [Learn unsafe Rust](https://github.com/google/learn_unsafe_rust)

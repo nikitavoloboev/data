@@ -58,3 +58,4 @@ title: Dart
 - [Crimson](https://github.com/simc/crimson) - Fast, efficient and easy-to-use JSON parser and serializer for Dart.
 - [sembast](https://github.com/tekartik/sembast.dart) - NoSQL persistent embedded file system document-based database for Dart VM and Flutter with encryption support.
 - [Pub](https://github.com/dart-lang/pub) - Package manager for Dart. ([Solver](https://github.com/dart-lang/pub/blob/master/doc/solver.md))
+- [Dart Edge](https://github.com/invertase/dart_edge) - Run Dart on on the Edge - supporting Vercel & Cloudflare Workers.

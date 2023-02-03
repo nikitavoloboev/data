@@ -32,6 +32,7 @@ I note all my ideas in [LA](learn-anything.md). For ideas I am exceptionally exc
 - [Good idea generator: 1: Have any idea. 2: Pursue it. 3: Build something that makes it easier to achieve. 4: #3 is your good idea.](https://twitter.com/mattwensing/status/1552136584224509954)
 - [Build things for yourself. It's much more motivating and fun to build for yourself. You know precisely what you want.](https://twitter.com/thomaspaulmann/status/1589238572296859652)
 - [Everything is a remix. Human brains are wired for pattern recognition, and this is what we do. Pure spontaneous creativity doesn't exist.](https://twitter.com/rossipedia/status/1599431992575086593)
+- [One of the things that I trained myself to do a few decades ago is pulling ideas out and pursuing them in a way where I’m excited about them, knowing that most of them don’t pan out in the end. Much earlier in my career, when I’d have a really bright idea that didn’t work out, I was crushed afterwards. But eventually I got to the point where I’m really good at just shoveling ideas through my processing and shooting them down, almost making it a game to say, ‘How quickly can I bust my own idea, rather than protecting it as a pet idea.](https://news.ycombinator.com/item?id=34637650)
 
 ## Links
 

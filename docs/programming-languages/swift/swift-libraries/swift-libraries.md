@@ -1409,6 +1409,7 @@
 - [YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor.
 - [Timerable](https://github.com/EmadBeyrami/Timerable) - Protocol-oriented Timer Factory with all the features you'll ever need.
 - [PeriodDuration](https://github.com/davdroman/PeriodDuration) - ISO 8601 period/duration APIs missing in Foundation.
+- [SummarizedCollection](https://github.com/jessegrosjean/SummarizedCollection) - Flexible Collections for Swift Using In-Memory B+Trees.
 
 ## Other (not lib)
 
@@ -1504,3 +1505,4 @@
 - [Apple announces full Swift rewrite of the Foundation framework (2022)](https://news.ycombinator.com/item?id=34339153)
 - [Swift Package Manager Rules for Bazel](https://github.com/cgrindel/rules_spm)
 - [Gazelle Plugin for Swift and Swit Package Rules for Bazel](https://github.com/cgrindel/swift_bazel)
+- [dependency-graph](https://github.com/simonbs/dependency-graph) - Command-line tool that can visualize the dependencies of packages.

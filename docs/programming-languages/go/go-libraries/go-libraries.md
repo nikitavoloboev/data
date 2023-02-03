@@ -401,6 +401,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Gain](https://github.com/pawelgaczynski/gain) - High-performance io_uring networking framework written entirely in Go.
 - [Pushup](https://github.com/adhocteam/pushup) - Page-oriented web framework for Go. ([Web](https://pushup.adhoc.dev/)) ([HN](https://news.ycombinator.com/item?id=34246960)) ([Lobsters](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go))
 - [genhapi](https://github.com/thnxdev/genhapi) - Opinionated tool for generating request-handler boilerplate for Go.
+- [GoLive](https://github.com/canopyclimate/golive) - Library for building LiveViews in Go.
 
 ## GraphQL
 

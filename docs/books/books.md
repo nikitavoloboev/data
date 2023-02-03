@@ -636,3 +636,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Doc Search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3.
 - [Konjer](https://www.konjer.xyz/) - Turning books into chatbots with GPT-3. ([HN](https://news.ycombinator.com/item?id=34509335))
 - [I “wrote” a kid's book with ChatGPT and Midjourney](https://adventure-of-penelope.vercel.app/) ([HN](https://news.ycombinator.com/item?id=34514480))
+- [Постсоветская литература: что это было?](https://polka.academy/podcasts/899)
