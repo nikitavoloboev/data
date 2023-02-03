@@ -128,6 +128,10 @@
 - [AshGraphql](https://github.com/ash-project/ash_graphql) - Absinthe backed graphql API extension for the Ash Framework.
 - [AshThrift](https://github.com/arisechurch/ash_thrift) - Thrift extension for the Ash framework.
 
+## WASM
+
+- [Wasmtube](https://github.com/kentaro/wasmtube) - Bridging library that allows us to communicate between Elixir and WASM using JSON.
+
 ## Other
 
 - [GraphQL toolkit for Elixir](https://github.com/absinthe-graphql/absinthe)

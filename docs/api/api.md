@@ -464,3 +464,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Postman to OpenAPI](https://github.com/joolfe/postman-to-openapi)
 - [Postman Mock Server](https://github.com/dvincenz/postman-mockserver) - Console application that starts a server which reads postman collection configuration and emulates a mock server.
 - [OpenAPI Mock Server](https://github.com/muonsoft/openapi-mock) - OpenAPI API mock server with random data generation by specified schemas.
+- [Dozer](https://github.com/getdozer/dozer) - Open-source platform to build, publish and manage blazing-fast real-time data APIs in minutes. ([Web](https://getdozer.io/))

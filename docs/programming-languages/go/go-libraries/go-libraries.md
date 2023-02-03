@@ -2033,6 +2033,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [paths](https://github.com/SolarLune/paths) - Path finding library written in Go for use with games.
 - [mjml-go](https://github.com/Boostport/mjml-go) - Compile MJML to HTML directly in your Go applications.
 - [go-blurhash](https://github.com/bbrks/go-blurhash) - Pure Go implementation of Blurhash.
+- [Go Promise](https://github.com/Ompluscator/go-promise) - Introduces Promise feature from JavaScript in Go.
 
 ## Links
 

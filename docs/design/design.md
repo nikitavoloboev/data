@@ -265,3 +265,4 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [Design tool performance signatures](https://bjango.com/articles/perfsignatures/)
 - [Learn UI Design](https://www.learnui.design/) - Complete Online Video Course.
 - [Layers](https://layers.to) - Home for designers.
+- [UI design for HTTPie: macOS vibes for the API testing client (2023)](https://evilmartians.com/chronicles/ui-design-for-httpie-macos-vibes-for-the-api-testing-client)

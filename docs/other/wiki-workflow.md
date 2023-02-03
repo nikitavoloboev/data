@@ -568,3 +568,4 @@ I want to:
 - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [Zotero Tag](https://github.com/windingwind/zotero-tag) - One add-on to rule Tags all. Manage all your Tags in one Zotero add-on.
 - [docstore](https://github.com/alexwlchan/docstore) - Tool I wrote to help me manage my scanned documents and reference files.
+- [Bolik Timeline](https://github.com/boliktech/bolik) - Local-first software for keeping notes and files. ([Web](https://bolik.tech/))

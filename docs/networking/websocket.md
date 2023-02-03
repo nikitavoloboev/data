@@ -9,6 +9,8 @@ title: WebSocket
 
 [Using WebSockets with Cloudflare Workers](https://developers.cloudflare.com/workers/learning/using-websockets/) is awesome read.
 
+[DriftDB](https://driftdb.com/) is nice.
+
 ## Links
 
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ([Web](http://websocketd.com/)) ([HN](https://news.ycombinator.com/item?id=29656456))

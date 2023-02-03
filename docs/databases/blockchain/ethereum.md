@@ -760,3 +760,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [ethereum-consensus](https://github.com/ralexstokes/ethereum-consensus) - Library for interacting with ethereum consensus objects.
 - [Halmos](https://github.com/a16z/halmos) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode.
 - [Ser](https://github.com/WilfredTA/ser) - Symbolic EVM in Rust.
+- [Awesome Account Abstraction](https://github.com/PaymagicXYZ/awesome-account-abstraction) - Resources for designing, building, and using account abstraction wallets on Ethereum and EVM blockchains.

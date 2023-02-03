@@ -14,6 +14,8 @@ Which I then use with [Vinegar/Lime A/B Extraction Tek](https://wiki.dmt-nexus.m
 
 [DMT-Nexus Wiki](https://wiki.dmt-nexus.me/Main_Page) together with [DMT](https://www.reddit.com/r/dmt) & [DMT Guide](https://www.reddit.com/r/dmtguide/) subreddits have nice info.
 
+It's fascinating that [DMT is made out of just carbon, hydrogen, and nitrogen](https://www.reddit.com/r/DMT/comments/10sb6qx/what_is_dmt_made_out_of_very_curious/) & can still have such effect.
+
 ## Notes
 
 - [There's one study that implies that the brain releases endogenous DMT while it's in hypoxia, to prevent neuronal death. They confirmed that brain neurons resisted hypoxia much better when they administered DMT (in vitro). This isn't conclusive evidence, but it may explain why some Near Death Experiences resemble DMT experiences, as many Near Death situations imply brain hypoxia.](https://www.reddit.com/r/DMT/comments/yx4qcy/dmt_death/)

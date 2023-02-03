@@ -1410,6 +1410,7 @@
 - [Timerable](https://github.com/EmadBeyrami/Timerable) - Protocol-oriented Timer Factory with all the features you'll ever need.
 - [PeriodDuration](https://github.com/davdroman/PeriodDuration) - ISO 8601 period/duration APIs missing in Foundation.
 - [SummarizedCollection](https://github.com/jessegrosjean/SummarizedCollection) - Flexible Collections for Swift Using In-Memory B+Trees.
+- [d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new concurrency model in Swift.
 
 ## Other (not lib)
 

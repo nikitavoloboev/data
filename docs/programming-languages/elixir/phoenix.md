@@ -140,3 +140,4 @@ title: Phoenix framework
 - [content](https://github.com/dwyl/content) - Plug to add Content Negotiation to any Phoenix App so you can render HTML or JSON for the same route.
 - [Async processing in LiveView (2023)](https://fly.io/phoenix-files/liveview-async-task/)
 - [VPS](https://github.com/axelson/vps) - Ties together 4 different Phoenix applications and runs them all on a single instance of the BEAM that is running Nerves on a Vultr.
+- [Phoenix.HTML](https://github.com/phoenixframework/phoenix_html) - Helpers to generate and manipulate HTML contents.

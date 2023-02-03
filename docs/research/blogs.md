@@ -322,6 +322,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Jonathan Johnson](https://ecton.dev/)
 - [Concerning Quality](https://concerningquality.com/)
 - [Tim Misiak](https://www.timdbg.com/)
+- [Martian Chronicles](https://evilmartians.com/chronicles)
+- [Roman Zaynetdinov](https://www.zaynetro.com/)
 
 ## Notes
 

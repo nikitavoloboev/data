@@ -525,3 +525,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Aocla](https://github.com/antirez/aocla/) - Advent of Code toy language. ([Lobsters](https://lobste.rs/s/jsso8q/aocla_small_stack_based_programming))
 - [FLAME: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779) ([HN](https://news.ycombinator.com/item?id=34607738))
 - [UwU](https://github.com/Deltaphish/UwUpp) - Next generation esoteric language.
+- [Compis](https://github.com/rsms/compis) - Contemporary systems programming language in the spirit of C.

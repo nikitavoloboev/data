@@ -96,3 +96,4 @@
 - [SVG 2 PDF](https://github.com/typst/svg2pdf) - Converts SVG files to PDF.
 - [PDF Writer](https://github.com/typst/pdf-writer) - Step-by-step PDF writer.
 - [React PDF REPL](https://react-pdf-repl.vercel.app/) ([Code](https://github.com/jeetiss/react-pdf-repl))
+- [jendeley](https://github.com/akawashiro/jendeley) - JSON-based PDF paper organizing software.

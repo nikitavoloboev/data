@@ -125,3 +125,4 @@ title: Web Components
 - [Improved Web Component for Pixel-Accurate Atkinson Dithered Images](https://sheep.horse/2023/1/improved_web_component_for_pixel-accurate_atkinson.html) ([Lobsters](https://lobste.rs/s/otzvj2/improved_web_component_for_pixel))
 - [Ardi](https://github.com/jameslovallo/ardi) - Makes it easy to create reactive custom elements that work with any website or JavaScript framework. ([Docs](https://ardi.netlify.app/))
 - [hydron](https://github.com/loreanvictor/hydron) - SSR for Web Components.
+- [Redefine Custom Elements](https://github.com/caridy/redefine-custom-elements) - Patches the global custom elements registry to allow re-defining or reload a custom element.
