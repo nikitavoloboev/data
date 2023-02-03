@@ -674,3 +674,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Things that you're proud of being a Russian in modern world?](https://www.reddit.com/r/AskARussian/comments/10jl2nw/dear_russian_friends_what_are_the_things_that/)
 - [Кирилл Мартынов\* – что ждёт Россию в 2023?](https://www.youtube.com/watch?v=PXdOMGoshUU)
 - [Living alone in the wild Siberian forest (2023)](https://www.youtube.com/watch?v=IOltGIaDPlY) ([HN](https://news.ycombinator.com/item?id=34566111))
+- [List of inventions Russia copied from abroad](https://twitter.com/OrwellsShaddow/status/1621084130456006657)

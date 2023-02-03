@@ -8,7 +8,7 @@ title: Nix
 
 Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell), [statix](https://github.com/nerdypepper/statix), [deploy-rs](https://github.com/serokell/deploy-rs), [devenv](https://devenv.sh/) & [nix-tree](https://github.com/utdemir/nix-tree) are neat.
 
-I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to install Nix on my mac.
+I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to install Nix on my mac. [Tvix](https://github.com/tvlfyi/tvix) is exciting implementation of Nix in Rust.
 
 [Evolution of Nix](https://www.youtube.com/watch?v=h8hWX_aGGDc&list=PLt4-_lkyRrOMWyp5G-m_d1wtTcbBaOxZk&index=1) is a nice historical talk on Nix.
 

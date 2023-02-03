@@ -245,3 +245,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Jazz Is Freedom (2022)](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) ([HN](https://news.ycombinator.com/item?id=34284645))
 - [Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds.
 - [Song Describer](https://github.com/ilaria-manco/song-describer) - Data collection platform for annotating music with textual descriptions.
+- [Maroofy](https://maroofy.com/) - Discover similar music you'll love. ([HN](https://news.ycombinator.com/item?id=34635352))
