@@ -778,6 +778,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TTS-Schema](https://github.com/tusharmath/tts-schema) - Reify your types in Typescript.
 - [Exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript.
 - [taggy](https://github.com/open-taggy/taggy) - TypeScript-based frontend package to automatically tag (or categorize) textual content.
+- [Coloquent](https://github.com/DavidDuwaer/Coloquent) - Library mapping objects and their interrelations to JSON API, with a clean, fluent ActiveRecord-like syntax.
+- [dot-path-value](https://github.com/g-makarov/dot-path-value) - Safely get deep nested properties using dot notation.
 
 ## Links
 
@@ -891,3 +893,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [How to publish packages to npm in 2023](https://www.youtube.com/watch?v=eh89VE3Mk5g)
 - [pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) - Better and interactive pnpm patch.
 - [Blazing Fast Tips: TypeScript Utility Types (2023)](https://www.youtube.com/watch?v=EU0TB_8KHpY)
+- [pkg-ok](https://github.com/abraham/pkg-ok) - Checks paths and scripts defined in package.json before you publish.

@@ -236,3 +236,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [sudo at home](https://github.com/Xe/xn--ts9h) ([HN](https://news.ycombinator.com/item?id=34454165))
 - [CSView](https://github.com/hymkor/csview) - Simple CSV viewer/editor.
 - [Flagon](https://github.com/Pondidum/Flagon) - Feature Flags from your CLI.
+- [Solitaire TUI](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal. Built with Bubble Tea Go.

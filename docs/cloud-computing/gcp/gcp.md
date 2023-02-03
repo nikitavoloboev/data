@@ -152,3 +152,4 @@ Also looking into [Railway](https://railway.app/) & [Cloudflare](https://www.clo
 - [Google API TS Type Generator](https://github.com/Maxim-Mazurok/google-api-typings-generator)
 - [Google Cloud Platform NodeJS Samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
 - [gtail](https://github.com/owenrumney/gtail) - Simple Tail app for GCP Cloud Build, Cloud Run and PubSub.
+- [Disco](https://github.com/mchmarny/disco) - Utility for bulk image, license, package, and vulnerability discovery in containerize workloads on GCP.

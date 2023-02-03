@@ -562,3 +562,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Device Authority for iOS](https://github.com/getsidetrack/swift-device-authority) - Manage feature access using iOS configuration profiles.
 - [Awesome Scriptable](https://github.com/dersvenhesse/awesome-scriptable)
 - [Ask HN: What Happened to iOS Widgets? (2023)](https://news.ycombinator.com/item?id=34467116)
+- [touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps.

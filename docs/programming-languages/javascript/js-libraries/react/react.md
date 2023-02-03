@@ -366,3 +366,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Embedding Our New React UI in Go (2023)](https://www.flipt.io/blog/embedding-react-in-go)
 - [The Joy of React](https://www.joyofreact.com/)
 - [Udibo React App](https://github.com/udibo/react_app) - React Framework for Deno.
+- [Animating a Radix Dropdown with Framer Motion (2023)](https://www.youtube.com/watch?v=p8CsotWUas0)

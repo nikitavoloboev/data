@@ -132,3 +132,5 @@ title: Field-programmable gate array
 - [Spatial](https://github.com/stanford-ppl/spatial) - Argon DSL for programming reconfigurable hardware from a parameterized, high level abstraction.
 - [FPGA programming for beginners (2023)](https://www.reddit.com/r/embedded/comments/10imczw/fpga_programming_for_beginners/)
 - [SimulaVR FPGA Image Processing Pipeline (2023)](https://simulavr.com/blog/fpga-image-processing-pipeline/) ([HN](https://news.ycombinator.com/item?id=34584473))
+- [Awesome Lattice FPGA boards](https://github.com/kelu124/awesome-latticeFPGAs)
+- [Eurorack PMOD](https://github.com/schnommus/eurorack-pmod) - Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.

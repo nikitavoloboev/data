@@ -203,6 +203,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [FreeHL](https://github.com/eukara/freehl) - Clean-room reimplementation of Half-Life: Deathmatch and Half-Life in QuakeC.
 - [Jactorio](https://github.com/jaihysc/Jactorio) - Recreating Factorio in C++ OpenGL.
 - [Zelda 3](https://github.com/snesrev/zelda3) - Reimplementation of Zelda 3.
+- [Stella Dei](https://github.com/PixelGuys/Stella-Dei) - SimEarth-like sandbox game where you can make and develop your very own planet.
 
 ## Awesome games (other)
 

@@ -166,6 +166,7 @@
 - [Zig Tree Formattar](https://github.com/speed2exe/tree-fmt) - Colored tree-like formatter for Zig.
 - [libxev](https://github.com/mitchellh/libxev) - Cross-platform event loop. libxev provides a unified event loop abstraction for non-blocking IO, timers, signals, events.
 - [funzig](https://github.com/ziglibs/funzig) - Functional Zig features.
+- [protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - Protocol buffers implementation in zig.
 
 ## Links
 

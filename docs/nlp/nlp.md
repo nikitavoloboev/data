@@ -810,3 +810,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (2023)](https://arxiv.org/abs/2301.11305) ([HN](https://news.ycombinator.com/item?id=34600232))
 - [Towards Continual Knowledge Learning of Language Models (2022)](https://arxiv.org/abs/2110.03215) ([Code](https://github.com/joeljang/continual-knowledge-learning))
 - [AI Text Classifier - OpenAI API](https://platform.openai.com/ai-text-classifier)
+- [Fine-tuning GPTJ and other GPT models](https://github.com/mallorbc/Finetune_GPTNEO_GPTJ6B)
+- [Adversarial Prompts](https://github.com/hwchase17/adversarial-prompts)
+- [Ignore Previous Prompt: Attack Techniques For Language Models (2022)](https://arxiv.org/abs/2211.09527) ([Code](https://github.com/agencyenterprise/PromptInject))
+- [Multimodal Chain-of-Thought Reasoning in Language Models (2023)](https://github.com/amazon-science/mm-cot)

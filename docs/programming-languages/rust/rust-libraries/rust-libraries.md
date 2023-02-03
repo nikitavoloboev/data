@@ -234,6 +234,7 @@
 - [Zino](https://github.com/photino/zino) - Full-featured web application framework for Rust.
 - [hyperlocal](https://github.com/softprops/hyperlocal) - Hyper client and server bindings for Unix domain sockets.
 - [Astra](https://github.com/ibraheemdev/astra) - High performance Rust web servers without async/await.
+- [Valar](https://github.com/ConsoleTVs/Valar) - Developer Centric Async Rust Web Framework.
 
 ## Auth
 
@@ -279,6 +280,7 @@
 - [Wasmer Pack](https://github.com/wasmerio/wasmer-pack) - Import your WebAssembly code just like any other dependency.
 - [wasi_snapshot_preview1](https://github.com/bytecodealliance/preview2-prototyping) - Polyfill adapter for preview1-using wasm modules to call preview2 functions.
 - [WasmBox](https://github.com/drifting-in-space/wasmbox) - Turns running Rust code into a serializable data structure.
+- [leptos_aria](https://github.com/ifiokjr/leptos_aria) - Port of the react-aria ecosystem for the leptos framework.
 
 ## GUI
 
@@ -419,6 +421,7 @@
 - [cdbc](https://github.com/co-rs/cdbc) - Coroutine Database driver Connectivity.based on mco.
 - [ormlite](https://github.com/kurtbuilds/ormlite) - ORM in Rust for developers that love SQL.
 - [boh](https://github.com/EmbarkStudios/boh) - Tiny thing that can hold many things.
+- [Nut](https://github.com/Reeywhaar/nut) - Port of Bolt DB in Rust.
 
 ## Video
 
@@ -2600,6 +2603,9 @@
 - [force-directed-graph](https://github.com/zackradisic/force-directed-graph)
 - [npm-package](https://github.com/TheLarkInn/npm-package) - Lightweight client for fetching package metadata from the npm registry.
 - [system-deps](https://github.com/gdesmott/system-deps) - Run pkg-config from declarative dependencies in Cargo.toml.
+- [vectrix](https://github.com/rossmacarthur/vectrix) - Stack-allocated, constant-size, matrix type implemented with const generics.
+- [winnow](https://github.com/winnow-rs/winnow) - Parser combinators library written in Rust.
+- [Git Testament](https://github.com/kinnison/git-testament) - Library to embed a testament as to the state of a git working tree during the build of a Rust program.
 
 ## Cargo Plugins
 
@@ -2924,3 +2930,4 @@
 - [Surprises in the Rust JSON Ecosystem](https://ecton.dev/rust-json-ecosystem/)
 - [FFI examples written in Rust](https://github.com/sn99/rust-ffi-examples)
 - [get-all-crates](https://github.com/dtolnay/get-all-crates) - Download .crate files of all versions of all crates from crates.io.
+- [zerus](https://github.com/wcampbell0x2a/zerus) - Lightweight binary to download only project required crates for offline crates.io mirror.

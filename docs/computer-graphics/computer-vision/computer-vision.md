@@ -1128,3 +1128,6 @@
 - [Learning Customized Visual Models with Retrieval-Augmented Knowledge (2023)](https://arxiv.org/abs/2301.07094) ([Code](https://github.com/microsoft/react))
 - [Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models (2022)](https://arxiv.org/abs/2211.17091) ([Code](https://github.com/alsdudrla10/Discriminator-Guidance))
 - [Accelerating Guided Diffusion Sampling with Splitting Numerical Methods (2023)](https://arxiv.org/abs/2301.11558) ([Code](https://github.com/sWizad/split-diffusion))
+- [SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections (2023)](https://scene-dreamer.github.io/) ([Code](https://github.com/Scene-Dreamer/SceneDreamer))
+- [STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation (2023)](https://arxiv.org/abs/2302.01334) ([Code](https://github.com/ucaszyp/STEPS))
+- [Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline (2023)](https://arxiv.org/abs/2301.12511) ([Code](https://github.com/Sense-GVT/Fast-BEV))

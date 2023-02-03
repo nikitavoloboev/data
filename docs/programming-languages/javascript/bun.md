@@ -48,3 +48,4 @@ I never use [Node](../../web/nodejs/nodejs.md) now as Bun is simply faster and h
 - [KVBase](https://github.com/gaurishhs/kvb) - Key-value store for Bun. It internally uses bun:sqlite for the storage.
 - [Bun 0.5 (2023)](https://bun.sh/blog/bun-v0.5.0) ([HN](https://news.ycombinator.com/item?id=34430458))
 - [Is Bun Ready Yet](https://is-bun-ready.pages.dev/) ([Code](https://github.com/SaltyAom/is-bun-ready))
+- [Vercel Bun](https://github.com/peterbartha/vercel-bun) - Bun runtime for Vercel Serverless Functions.

@@ -2031,6 +2031,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [pointy](https://github.com/openlyinc/pointy) - Simple Go helper functions to provide a shorthand to get a pointer to a variable holding a constant.
 - [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Go.
 - [paths](https://github.com/SolarLune/paths) - Path finding library written in Go for use with games.
+- [mjml-go](https://github.com/Boostport/mjml-go) - Compile MJML to HTML directly in your Go applications.
+- [go-blurhash](https://github.com/bbrks/go-blurhash) - Pure Go implementation of Blurhash.
 
 ## Links
 

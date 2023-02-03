@@ -611,3 +611,4 @@ all: unset
 - [Broider](https://maxbittker.github.io/broider/) - LoFi CSS border embroidery design maker. ([Code](https://github.com/MaxBittker/broider)) ([HN](https://news.ycombinator.com/item?id=34553190))
 - [dprint-plugin-css](https://github.com/disrupted/dprint-plugin-css) - Fast CSS code formatting using dprint.
 - [CSS Pattern: Fancy backgrounds with CSS gradients](https://css-pattern.com/) ([Code](https://github.com/Afif13/CSS-Pattern))
+- [skribble](https://github.com/ifiokjr/skribble) - Fully typed atomic CSS compiler for rust, node, deno and the browser.

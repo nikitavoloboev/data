@@ -2,9 +2,9 @@
 
 [Compiler Explorer](https://godbolt.org) is great tool.
 
-[Crafting Interpreters](https://craftinginterpreters.com/introduction.html), [Writing A Compiler In Go](https://compilerbook.com/) & [Compiler Writing Journey](https://github.com/DoctorWkt/acwj) are great intros.
+[Crafting Interpreters](https://craftinginterpreters.com/introduction.html), [Writing A Compiler In Go](https://compilerbook.com/), [Compiler Writing Journey](https://github.com/DoctorWkt/acwj) & [Stanford compiler course](https://web.stanford.edu/class/cs143/) are great intros.
 
-[SSA-based Compiler Design](https://link.springer.com/book/10.1007/978-3-030-80515-9) goes over some state of the art compiler writing techniques.
+[Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) & [SSA-based Compiler Design](https://link.springer.com/book/10.1007/978-3-030-80515-9) seem nice for more in depth study.
 
 [Austral](https://github.com/austral/austral) has interesting compiler I want to study.
 

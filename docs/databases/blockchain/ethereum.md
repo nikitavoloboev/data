@@ -758,3 +758,5 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [ChugSplash](https://github.com/chugsplash/chugsplash) - Modern smart contract deployment system.
 - [EVM Blockchain Indexer](https://github.com/llamafolio/evm-indexer) - Scalable SQL indexer for EVM compatible blockchains.
 - [ethereum-consensus](https://github.com/ralexstokes/ethereum-consensus) - Library for interacting with ethereum consensus objects.
+- [Halmos](https://github.com/a16z/halmos) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode.
+- [Ser](https://github.com/WilfredTA/ser) - Symbolic EVM in Rust.

@@ -1034,3 +1034,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [My Vision for Creating Cross-platform Applications with Rust (2022)](https://ecton.dev/my-rusty-vision/)
 - [Async trait send bounds (2023)](https://smallcultfollowing.com/babysteps/blog/2023/02/01/async-trait-send-bounds-part-1-intro/)
 - [Learn unsafe Rust](https://github.com/google/learn_unsafe_rust)
+- [Improving Rust compile times to enable adoption of memory safety (2023)](https://www.memorysafety.org/blog/remy-rakic-compile-times/) ([Reddit](https://www.reddit.com/r/rust/comments/10s5nkq/improving_rust_compile_times_to_enable_adoption/))

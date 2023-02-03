@@ -280,6 +280,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 ## GraphQL
 
 - [Graphique](https://github.com/coady/graphique) - GraphQL service for arrow tables and parquet data sets.
+- [Ariadne Code Generator](https://github.com/mirumee/ariadne-codegen) - Generate fully typed Python client for any GraphQL API from schema, queries and mutations.
 
 ## macOS
 

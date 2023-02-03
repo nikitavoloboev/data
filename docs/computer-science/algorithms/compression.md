@@ -166,3 +166,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [zx](https://github.com/jondot/zx) - Make extracting archive plain and simple.
 - [ndzip](https://github.com/celerity/ndzip) - High-Throughput Parallel Lossless Compressor for Scientific Data.
 - [Zap](https://github.com/SteveGremory/Zap) - Extremely fast alternative to zip which is written in rust.
+- [WASM compression benchmarks and the cost of missing compression APIs (2023)](https://nickb.dev/blog/wasm-compression-benchmarks-and-the-cost-of-missing-compression-apis/) ([HN](https://news.ycombinator.com/item?id=34609093))

@@ -105,3 +105,4 @@ Like using [Rive](rive.md) for making animations.
 - [Motionity](https://www.motionity.app/) - Web-based motion graphics editor for everyone. ([Code](https://github.com/alyssaxuu/motionity))
 - [Which Animated Films should be added to the Criterion Collection? (2023)](https://www.reddit.com/r/criterion/comments/10ib9h2/which_animated_films_should_be_added_to_the/)
 - [Manim Voiceover](https://github.com/ManimCommunity/manim-voiceover) - Manim plugin for all things voiceover.
+- [to-dot-lottie](https://github.com/theapache64/to-dot-lottie) - CLI tool to bulk convert all .json lottie files to .lottie format.

@@ -56,3 +56,4 @@ title: Perl
 - [Perl is Actually Portable (2022)](https://computoid.com/posts/Perl-is-Actually-Portable.html)
 - [Actually Portable Perl](https://computoid.com/APPerl/) ([HN](https://news.ycombinator.com/item?id=33966755))
 - [Perl Weekly](https://perlweekly.com/)
+- [Perl Power Tools](https://github.com/briandfoy/PerlPowerTools)

@@ -154,3 +154,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) - Playbook for systematically maximizing the performance of deep learning models.
 - [UpTrain](https://github.com/uptrain-ai/uptrain) - Open-source ML observability and refinement tool. ([HN](https://news.ycombinator.com/item?id=34519052))
 - [FastQL Inference Server](https://github.com/happy-machine/FastQL) - Spin up a blazing fast Rust GraphQL API to serve your ML model in one line of Python code.
+- [Zeno](https://github.com/zeno-ml/zeno) - Interactive framework for machine learning evaluation.

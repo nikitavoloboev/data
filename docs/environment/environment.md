@@ -207,3 +207,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Where our gasoline comes from](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php) ([HN](https://news.ycombinator.com/item?id=34575601))
 - [AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/) ([HN](https://news.ycombinator.com/item?id=34571885))
 - [Data-driven predictions of the time remaining until critical global warming thresholds are reached (2023)](https://www.pnas.org/doi/10.1073/pnas.2207183120)
+- [Scaphandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
