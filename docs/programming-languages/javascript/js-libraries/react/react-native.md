@@ -347,3 +347,4 @@ title: React Native
 - [React Native Plaid](https://github.com/cawfree/react-native-use-plaid) - Hooks for Plaid open banking on React Native.
 - [React Native QR Code SVG](https://github.com/exzos28/react-native-qrcode-svg)
 - [Hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native.
+- [React Native Code Push](https://github.com/microsoft/react-native-code-push) - Easily add a dynamic update experience to your React Native app(s).

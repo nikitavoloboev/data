@@ -449,3 +449,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [Node calls Python](https://github.com/hmenyus/node-calls-python) - Call Python from NodeJS directly in-process without spawning processes.
 - [Jazzer.js](https://github.com/CodeIntelligenceTesting/jazzer.js) - Coverage-guided, in-process fuzzing for the Node.js.
 - [Needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.
+- [Nodeiflux Discord](https://discord.com/invite/aD42zPx)

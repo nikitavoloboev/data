@@ -116,6 +116,7 @@
 - [lol](https://github.com/cpeikert/Lol) - Functional Lattice Cryptography.
 - [haskell-crypto](https://github.com/serokell/haskell-crypto) - High-level cryptography for Haskell.
 - [hage](https://github.com/hercules-ci/hage) - Simple, modern and secure file encryption tool, format, and library.
+- [Z-Botan](https://github.com/ZHaskell/z-botan) - Comprehensive crypto primitives based on botan.
 
 ## Auth
 

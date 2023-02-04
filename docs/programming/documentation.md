@@ -4,6 +4,8 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 
 [React Docs](https://beta.reactjs.org/) is a great example of what great docs are. I love their illustrations.
 
+[DocsGPT](https://github.com/arc53/docsgpt) is exciting approach for making docs more useful.
+
 ## Examples of nice docs
 
 - [Linear Guide](https://linear.app/docs)
@@ -215,3 +217,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Writing docs well: why should a software engineer care? (2022)](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
 - [Plus](https://www.plusdocs.com/) - Self Updating Screenshots. ([HN](https://news.ycombinator.com/item?id=34416386))
 - [DocAsker](https://www.docasker.com/) - Use LLMs to ask documentation questions. ([HN](https://news.ycombinator.com/item?id=34595180))
+- [DocsGPT](https://github.com/arc53/docsgpt) - Use documentation and asks questions directly with DocsGPT.

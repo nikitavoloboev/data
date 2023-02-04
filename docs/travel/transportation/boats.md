@@ -2,7 +2,7 @@
 
 Would love to try live on a boat one day. [100 Rabbits](https://100r.co/site/home.html) are inspirational in that they do [live on a boat and still manage to make some amazing software and art](https://www.youtube.com/watch?v=BW32yUEymvU).
 
-Only issue is that I can't imagine going without internet for long periods of time so something like [Starlink Maritime](https://www.starlink.com/maritime) would be ideal to get fast internet wherever my boat stays. Only issue is that it's very expensive for personal use.
+Only issue is that I can't imagine going without internet for long periods of time so something like [Starlink Maritime](https://www.starlink.com/maritime) would be ideal to get fast internet wherever my boat stays. Only issue is that it's very expensive for personal use. You can use [regular Starlink for non deep boat journeys](https://twitter.com/maccaw/status/1621213354604765185) though.
 
 ## Interesting
 

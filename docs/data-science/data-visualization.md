@@ -212,3 +212,4 @@
 - [Olli](https://github.com/mitvis/olli) - Screen Reader Accessibility for Data Visualization.
 - [Graphy](https://graphy.new/) - Slick, interactive charts that make your work stand out. ([Twitter](https://twitter.com/GraphyHQ))
 - [Matching Many Classes to Fewer Colors (2023)](https://nik.bo/colormatch) ([Lobsters](https://lobste.rs/s/pbpfei/matching_many_classes_fewer_colors))
+- [Vega-Lite](https://github.com/shadfrigui/vega-lite) - Graphics created using the Vega-Lite language.

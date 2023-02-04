@@ -79,3 +79,4 @@ title: Astro
 - [Astro, React and SolidJS Dancing Together (2022)](https://dev.to/mbarzeev/astro-react-and-solidjs-dancing-together-56oc)
 - [Astro 2.0 (2023)](https://astro.build/blog/astro-2/) ([HN](https://news.ycombinator.com/item?id=34507170))
 - [HoustonAI](https://houston.astro.build/) - Astro Assistant. ([Code](https://github.com/withastro/houston.astro.build))
+- [Astro Examples](https://github.com/MicroWebStacks/astro-examples) - Astro design patterns examples, client-server state management, markdown, caching.

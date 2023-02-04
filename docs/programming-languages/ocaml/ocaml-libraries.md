@@ -246,6 +246,7 @@ title: OCaml libraries
 - [Idle-Domains](https://github.com/polytypic/idle-domains) - Co-operative allocation of domains for OCaml.
 - [talaria_bibtex](https://github.com/Octachron/talaria_bibtex) - Bibtex file parser.
 - [Mmap](https://github.com/deepin-community/ocaml-mmap) - Functions for mapping files in memory.
+- [PCRE-OCaml](https://github.com/mmottl/pcre-ocaml) - Perl Compatibility Regular Expressions for OCaml.
 
 ## Links
 

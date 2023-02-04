@@ -422,6 +422,7 @@
 - [ormlite](https://github.com/kurtbuilds/ormlite) - ORM in Rust for developers that love SQL.
 - [boh](https://github.com/EmbarkStudios/boh) - Tiny thing that can hold many things.
 - [Nut](https://github.com/Reeywhaar/nut) - Port of Bolt DB in Rust.
+- [Remi](https://github.com/Noelware/remi-rs) - Robust, and simple asynchronous Rust crate to handle storage-related communications with different storage providers.
 
 ## Video
 
@@ -2609,6 +2610,8 @@
 - [sharpie](https://github.com/jondot/sharpie) - Signing and verifying digital signatures using RSA or ED25519.
 - [h264_webcam_stream](https://github.com/D1plo1d/h264_webcam_stream) - Rust-based proof of concept for streaming from a webcam (using v4l2) in h264 over webrtc.
 - [Config Reload](https://github.com/kondanta/reload_config) - Automatically reloads given config file.
+- [nom-greedyerror](https://github.com/dalance/nom-greedyerror) - Custom error type of nom to improve accuracy of error position.
+- [Glidesort](https://github.com/orlp/glidesort) - Stable adaptive quicksort/mergesort hybrid sorting algorithm.
 
 ## Cargo Plugins
 

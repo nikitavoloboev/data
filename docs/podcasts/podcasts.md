@@ -272,3 +272,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Voilib](https://voilib.com/) - Semantic Search in Podcasts Transcriptions.
 - [Podcst Web](https://www.podcst.app/) - Modern PWA to listen to podcasts. ([Code](https://github.com/shantanuraj/podcst-web))
 - [Podcst API](https://github.com/shantanuraj/podcst-api) - Thin wrapper around the iTunes Search API.
+- [Podcast Summarizer](https://github.com/FanaHOVA/podcast-summarizer) - OpenAI Whisper + davinci for podcast summarization.

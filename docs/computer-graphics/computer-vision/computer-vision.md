@@ -1131,3 +1131,5 @@
 - [SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections (2023)](https://scene-dreamer.github.io/) ([Code](https://github.com/Scene-Dreamer/SceneDreamer))
 - [STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation (2023)](https://arxiv.org/abs/2302.01334) ([Code](https://github.com/ucaszyp/STEPS))
 - [Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline (2023)](https://arxiv.org/abs/2301.12511) ([Code](https://github.com/Sense-GVT/Fast-BEV))
+- [Awesome Vision Transformer Collection](https://github.com/GuanRunwei/Awesome-Vision-Transformer-Collection)
+- [Compressed Vision for Efficient Video Understanding (2022)](https://arxiv.org/abs/2210.02995) ([Code](https://github.com/deepmind/compressed_vision))

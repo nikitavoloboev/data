@@ -4,6 +4,8 @@ title: Nostr
 
 # [Nostr](https://nostr.com/)
 
+[Nostr.how](https://nostr-how.vercel.app/) is good read.
+
 ## Links
 
 - [Nostr Code](https://github.com/fiatjaf/nostr)
@@ -37,3 +39,4 @@ title: Nostr
 - [Nostr Directory](https://nostr.directory/) - Find people you know from other social media sites on nostr. ([Code](https://github.com/pseudozach/nostr.directory))
 - [Nostr Key Converter](https://github.com/rot13maxi/key-convertr) - Convert nostr keys and note-ids between hex and bech32.
 - [Go Nostr](https://github.com/nbd-wtf/go-nostr) - Nostr library for Go.
+- [Nostr.how](https://nostr-how.vercel.app/) - Complete guide to Nostr. ([Code](https://github.com/erskingardner/nostr-how))

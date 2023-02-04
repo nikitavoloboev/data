@@ -187,3 +187,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [The Next button (2023)](https://maxhodak.com/nonfiction/2023/01/14/the-next-button.html) ([Tweet](https://twitter.com/maxhodak_/status/1614413993275437056))
 - [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit)
 - [AI Product Index](https://github.com/dair-ai/AI-Product-Index) - Curated index to track AI-powered products.
+- [AI Toolbox](https://github.com/enbifa/AI-Toolbox) - Comprehensive list of Artificial Intelligence tools divided by category.

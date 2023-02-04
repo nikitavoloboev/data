@@ -483,6 +483,7 @@
 - [Algorithm](https://github.com/boostorg/algorithm) - Boost.org algorithm module.
 - [polymorphic_value](https://github.com/jbcoe/polymorphic_value) - Polymorphic value-type for C++.
 - [Proxy](https://github.com/microsoft/proxy) - Easy Polymorphism in C++.
+- [BinOpt](https://github.com/aengelke/binopt) - Library for Self-guided Runtime Binary Optimization.
 
 ## Links
 

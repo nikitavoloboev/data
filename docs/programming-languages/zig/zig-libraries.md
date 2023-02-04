@@ -167,6 +167,7 @@
 - [libxev](https://github.com/mitchellh/libxev) - Cross-platform event loop. libxev provides a unified event loop abstraction for non-blocking IO, timers, signals, events.
 - [funzig](https://github.com/ziglibs/funzig) - Functional Zig features.
 - [protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - Protocol buffers implementation in zig.
+- [coyote-ecs](https://github.com/linuxy/coyote-ecs) - Fast and simple zig native ECS.
 
 ## Links
 

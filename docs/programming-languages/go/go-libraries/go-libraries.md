@@ -232,7 +232,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
-- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/)) ([Docs](https://docs.gofiber.io/)) ([Docs Code](https://github.com/gofiber/docs)) ([Fiber OpenTelemetry](https://github.com/psmarcin/fiber-opentelemetry)) ([GoFiber Docker Boilerplate](https://github.com/gofiber/boilerplate)) ([Storage](https://github.com/gofiber/storage))
+- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/)) ([Docs](https://docs.gofiber.io/)) ([Docs Code](https://github.com/gofiber/docs)) ([Fiber OpenTelemetry](https://github.com/psmarcin/fiber-opentelemetry)) ([GoFiber Docker Boilerplate](https://github.com/gofiber/boilerplate)) ([Storage](https://github.com/gofiber/storage)) ([contrib](https://github.com/gofiber/contrib))
 - [Fiber Swagger](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [Fiber Swagger](https://github.com/gofiber/swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
@@ -2034,6 +2034,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [mjml-go](https://github.com/Boostport/mjml-go) - Compile MJML to HTML directly in your Go applications.
 - [go-blurhash](https://github.com/bbrks/go-blurhash) - Pure Go implementation of Blurhash.
 - [Go Promise](https://github.com/Ompluscator/go-promise) - Introduces Promise feature from JavaScript in Go.
+- [Debugger Middleware](https://github.com/dlsniper/debugger) - Debugging middleware for Go applications to enable better display of goroutines in the debugger.
 
 ## Links
 

@@ -489,3 +489,4 @@
 - [DriftDB](https://github.com/drifting-in-space/driftdb) - Real-time data backend for browser-based applications. ([Web](https://driftdb.com/)) ([HN](https://news.ycombinator.com/item?id=34639728))
 - [What are some interesting uses of WebUSB you have come across? (2023)](https://news.ycombinator.com/item?id=34562256)
 - [DriftDB: minimum viable state synchronization (2023)](https://driftingin.space/posts/driftdb)
+- [Hypermedia Clients](https://htmx.org/essays/hypermedia-clients/)

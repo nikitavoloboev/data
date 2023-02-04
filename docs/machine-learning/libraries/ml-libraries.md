@@ -470,3 +470,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Streaming](https://github.com/mosaicml/streaming) - Data Streaming Library for Efficient Neural Network Training.
 - [LogAI](https://github.com/salesforce/logai) - Library for Log Analytics and Intelligence.
 - [nn-Meter](https://github.com/microsoft/nn-Meter) - DNN inference latency prediction toolkit for accurately modeling and predicting the latency on diverse edge devices.
+- [pyhf](https://github.com/scikit-hep/pyhf) - Pure-Python HistFactory implementation with tensors and autodiff.

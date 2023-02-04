@@ -631,6 +631,7 @@
 - [FloatingTabBar](https://github.com/claudiaeng/FloatingTabBar) - Aesthetic floating tab bar – SwiftUI & Combine.
 - [DidUpdate](https://github.com/PimCoumans/DidUpdate) - SwiftUI inspired State observing without SwiftUI.
 - [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
+- [SwiftUI Async Button](https://github.com/rlziii/swiftui-async-button) - SwiftUI Button Async Initializers.
 
 ## Test
 
