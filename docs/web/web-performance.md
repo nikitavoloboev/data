@@ -222,3 +222,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Predicting Resource Usage From Increased Traffic (2023)](https://two-wrongs.com/predicting-resource-usage-from-increased-traffic)
 - [Our top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/)
 - [Web Performance Snippets](https://github.com/nucliweb/webperf-snippets)
+- [Learn Images](https://web.dev/learn/images/) - In-depth course on images for the web.

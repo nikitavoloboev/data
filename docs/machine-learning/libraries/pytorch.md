@@ -497,3 +497,4 @@ title: PyTorch
 - [PyTorch Vulkan Back End User Workflow](https://pytorch.org/tutorials/prototype/vulkan_workflow.html)
 - [tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - Minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
 - [Transformer implementation in PyTorch](https://github.com/tunz/transformer-pytorch)
+- [PyTorch Snake](https://github.com/falkaer/pytorch-snake) - Memory and compute-efficient fused PyTorch implementation of the Snake activation function from Neural Networks Fail to Learn Periodic Functions and How to Fix It.
