@@ -737,7 +737,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [OpenAI Question Answering using Embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb)
 - [GreaseLM: Graph REASoning Enhanced Language Models for Question Answering (2022)](https://arxiv.org/abs/2201.08860) ([Code](https://github.com/snap-stanford/GreaseLM))
 - [Rank-One Model Editing (ROME)](https://github.com/kmeng01/rome) - Locating and editing factual associations in GPT.
-- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - Give everyone access to a great chat based large language model.
+- [Open Assistant](https://github.com/LAION-AI/Open-Assistant) - Give everyone access to a great chat based large language model. ([Web](https://open-assistant.io/)) ([HN](https://news.ycombinator.com/item?id=34654809))
 - [Characterizing Emergent Phenomena in Large Language Models (2022)](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
 - [SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features (2022)](https://arxiv.org/abs/2206.07023) ([Code](https://github.com/flipz357/S3BERT))
 - [Blob](https://github.com/minskylab/blob) - Powerful tool that uses language large models (LLMs) to assist in the creation and maintenance of software projects.

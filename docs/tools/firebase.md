@@ -90,3 +90,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firebase Dynamic Links: Getting Started (2023)](https://www.kodeco.com/21376846-firebase-dynamic-links-getting-started)
 - [Firegraph](https://github.com/sejr/firegraph) - GraphQL Superpowers for Google Cloud Firestore.
 - [I tried 5 Firebase alternatives (2023)](https://www.youtube.com/watch?v=SXmYUalHyYk)
+- [Firestore Indexes Diff](https://github.com/omar-dulaimi/firestore-indexes-diff) - Displays differences between two Firestore index config files.
