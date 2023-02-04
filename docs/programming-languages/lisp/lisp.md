@@ -235,3 +235,4 @@
 - [Lisp curse vs Lisp envy (by Mauricio Szabo) (2023)](https://www.youtube.com/watch?v=FgHAlEzvkwA)
 - [Typed Lisp, A Primer (2019)](http://alhassy.com/TypedLisp) ([HN](https://news.ycombinator.com/item?id=34594675))
 - [GLisp](https://github.com/zhemao/glisp) - LISP dialect implemented in Go.
+- [Sussman Explains the End of SICP (2023)](https://irreal.org/blog/?p=11127) ([HN](https://news.ycombinator.com/item?id=34657535))

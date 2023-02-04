@@ -108,3 +108,4 @@ title: Prometheus
 - [Deploying Prometheus & Grafana Behind Nginx & Cloudflare (2022)](https://ryan-schachte.com/article/prometheus_grafana)
 - [Histogram Experiments](https://github.com/beorn7/histogram_experiments) - Simulated Prometheus histograms from real-world datasets.
 - [OBS Studio Prometheus Exporter](https://github.com/lukegb/obs_studio_exporter)
+- [ts_prometheus](https://github.com/marcopacini/ts_prometheus) - Prometheus client in Typescript for Deno.

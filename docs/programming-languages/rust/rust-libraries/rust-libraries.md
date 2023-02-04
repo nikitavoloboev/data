@@ -618,6 +618,7 @@
 - [cargo-is-tested](https://github.com/blyxyas/cargo-is-tested) - Assure that your tests are there, and well written.
 - [Assertables](https://github.com/SixArm/assertables-rust-crate) - Rust crate of assert macros for testing.
 - [assert2](https://github.com/de-vri-es/assert2-rs) - All-purpose assert!(...) and check!(...) macros, inspired by Catch2.
+- [speculoos](https://github.com/oknozor/speculoos) - Fluent test assertions for Rust.
 
 ## Error
 
@@ -2613,6 +2614,8 @@
 - [Config Reload](https://github.com/kondanta/reload_config) - Automatically reloads given config file.
 - [nom-greedyerror](https://github.com/dalance/nom-greedyerror) - Custom error type of nom to improve accuracy of error position.
 - [Glidesort](https://github.com/orlp/glidesort) - Stable adaptive quicksort/mergesort hybrid sorting algorithm. ([HN](https://news.ycombinator.com/item?id=34646199))
+- [autosurgeon](https://github.com/automerge/autosurgeon) - Rust library for working with data in automerge documents.
+- [Syner](https://github.com/28Smiles/syner) - Derive your Attribute Parsers.
 
 ## Cargo Plugins
 

@@ -782,6 +782,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [dot-path-value](https://github.com/g-makarov/dot-path-value) - Safely get deep nested properties using dot notation.
 - [cache-candidate](https://github.com/JointlyTech/cache-candidate) - Higher-order function and a decorator to cache the result of a function/method if given conditions are met.
 - [demuxer](https://github.com/goldvideo/demuxer) - Tool for demux ts/mp4/flv by typescript. Support HEVC/AVC/AAC codec.
+- [h3-cors](https://github.com/NozomuIkuta/h3-cors) - h3-native CORS event handler.
 
 ## Links
 

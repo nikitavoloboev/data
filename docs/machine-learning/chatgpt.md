@@ -81,3 +81,5 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [KnowledgeGPT](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [The unequal treatment of demographic groups by ChatGPT/OpenAI content moderation (2023)](https://davidrozado.substack.com/p/openaicms) ([HN](https://news.ycombinator.com/item?id=34625001))
 - [Node ChatGPT API](https://github.com/waylaidwanderer/node-chatgpt-api)
+- [Medical ChatGPT](https://github.com/lucidrains/medical-chatgpt)
+- [Ask HN: Are you tired of reading ChatGPT headlines? (2023)](https://news.ycombinator.com/item?id=34657854)
