@@ -13,6 +13,7 @@ title: Svelte
 ## Example sites
 
 - [Pocketbase SvelteKit Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth)
+- [UpSnap](https://github.com/seriousm4x/UpSnap) - Simple wake on lan app written with SvelteKit, Go, PocketBase and nmap.
 - [Go Svelte SPA](https://github.com/saas-templates/go-svelte)
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
 - [SvelteKit Commerce](https://github.com/vercel/sveltekit-commerce)

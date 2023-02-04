@@ -189,3 +189,4 @@ title: Coq
 - [Proof of the Church-Rosser theorem using locally nameless representation in Coq](https://github.com/sweirich/lambda-calculus)
 - [Clutch](https://github.com/logsem/clutch) - Higher-order probabilistic relational separation logic with support for asynchronous probabilistic couplings.
 - [mech.v](https://github.com/jouvelot/mech.v) - Coq/Mathematical Components library for mechanism design.
+- [CoqCP](https://github.com/huynhtrankhanh/CoqCP) - Formally verified competitive programming code.

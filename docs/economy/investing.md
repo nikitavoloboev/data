@@ -315,3 +315,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [What is the most valuable investing/trading lesson you have learned? (2023)](https://www.reddit.com/r/investing/comments/106ixk8/what_is_the_most_valuable_investingtrading_lesson/)
 - [Ask HN: How to Invest $700k USD? (2023)](https://news.ycombinator.com/item?id=34304142)
 - [What do you think are the best long-term investment trends (10-20 year+ horizon) (2023)](https://www.reddit.com/r/investing/comments/10c8jes/what_do_you_think_are_the_best_longterm/)
+- [Martin Gives Great Tips & Tricks Reading Financial Reports | Shkreli Analyses Salesforce](https://www.youtube.com/watch?v=gPBrHwGZueg)

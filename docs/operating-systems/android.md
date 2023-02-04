@@ -98,3 +98,4 @@ title: Android
 - [Rust bindings to the Android NDK](https://github.com/rust-mobile/ndk)
 - [Android Dev Notes](https://twitter.com/androiddevnotes)
 - [Android Basics with Compose course](https://developer.android.com/courses/android-basics-compose/course)
+- [Android SDKs for Swift](https://github.com/buttaface/swift-android-sdk)

@@ -86,3 +86,5 @@ title: Observability
 - [Instana](https://www.instana.com/) - Enterprise Observability and APM for Cloud-Native Applications. ([GitHub](https://github.com/instana))
 - [Instana Go Collector](https://github.com/instana/go-sensor) - Go Distributed Tracing & Metrics Sensor for Instana.
 - [Dynolog](https://github.com/facebookincubator/dynolog) - Performance monitoring daemon for heterogeneous CPU-GPU systems.
+- [Zinc Observe](https://github.com/zinclabs/zinc-observe) - Cheap petabyte scale observability platform.
+- [highlight.io](https://www.highlight.io/) - Open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. ([Code](https://github.com/highlight/highlight))

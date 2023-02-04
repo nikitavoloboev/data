@@ -299,6 +299,7 @@
 - [DynamicIslandUtilities](https://github.com/theblixguy/DynamicIslandUtilities) - Collection of utilities that provides functionality around the Dynamic Island.
 - [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 - [SwiftUICalendar](https://github.com/GGJJack/SwiftUICalendar) - Simple calendar for SwiftUI.
+- [SideMenu](https://github.com/kukushi/SideMenu) - Interactive iOS side menu with rich features.
 
 ## macOS
 

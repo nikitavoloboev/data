@@ -2608,6 +2608,7 @@
 - [Git Testament](https://github.com/kinnison/git-testament) - Library to embed a testament as to the state of a git working tree during the build of a Rust program.
 - [sharpie](https://github.com/jondot/sharpie) - Signing and verifying digital signatures using RSA or ED25519.
 - [h264_webcam_stream](https://github.com/D1plo1d/h264_webcam_stream) - Rust-based proof of concept for streaming from a webcam (using v4l2) in h264 over webrtc.
+- [Config Reload](https://github.com/kondanta/reload_config) - Automatically reloads given config file.
 
 ## Cargo Plugins
 

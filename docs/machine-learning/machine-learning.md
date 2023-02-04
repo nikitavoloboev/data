@@ -1061,3 +1061,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Weakly-supervised Anomaly Detection: A Survey](https://github.com/yzhao062/WSAD)
 - [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
 - [Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale (2022)](https://github.com/deepmind/transformer_grammars)
+- [Impactful and widely cited papers and literature on ML](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
