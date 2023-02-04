@@ -243,3 +243,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Amazon Product API Scraping](https://github.com/drawrowfly/amazon-product-api) - Scrape products from the amazon search result or reviews from the specific product.
 - [A Year of Writing about Web Scraping in Review (2023)](https://scrapecrow.com/year-of-writing-in-review.html)
 - [goq](https://github.com/andrewstuart/goq) - Declarative struct-tag-based HTML unmarshaling or scraping package for Go built on top of the goquery library.
+- [Facepager](https://github.com/strohne/Facepager) - Fetching public available data from YouTube, Twitter and other websites on the basis of APIs and web scraping.

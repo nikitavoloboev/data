@@ -827,6 +827,7 @@
 - [EasyModelAnalysis.jl](https://github.com/SciML/EasyModelAnalysis.jl) - High level functions for analyzing the output of simulations.
 - [CommutativeRings.jl](https://github.com/KlausC/CommutativeRings.jl) - CAS, Commutative Rings, Fraction Fields, Quotient Rings, Polynomial Rings, Galois Fields.
 - [MapTiles](https://github.com/JuliaGeo/MapTiles.jl) - Work with tiled web maps in Julia.
+- [MakiePublication.jl](https://github.com/liuyxpp/MakiePublication.jl) - Julia package for producing publication quality figures based on Makie.jl.
 
 ## Links
 

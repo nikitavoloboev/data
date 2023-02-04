@@ -234,3 +234,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Google OAuth & Cloudflare Workers](https://github.com/Schachte/cloudflare-google-auth) ([Article](https://ryan-schachte.com/article/cloudflare_workers_google_auth))
 - [Workers KV backup](https://github.com/xtuc/kv-backup) - Copy the content of a Workers KV locally.
 - [ulid-workers](https://github.com/ryan-mars/ulid-workers) - ULID generator for Cloudflare Workers.
+- [Hono Middleware](https://github.com/honojs/middleware) - Monorepo for third-party middleware of Hono.

@@ -288,3 +288,4 @@ All active variables can be seen by running `env`.
 - [Unix shell script tactics - best practices style guide](https://github.com/SixArm/unix-shell-script-tactics)
 - [What happens when you open a terminal and enter ‘ls’ (2023)](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls) ([HN](https://news.ycombinator.com/item?id=34342438))
 - [cosh](https://github.com/tomhrr/cosh) - Concatenative command-line shell.
+- [zig-embshell](https://github.com/ringtailsoftware/zig-embshell) - Small embeddable command line shell in zig.

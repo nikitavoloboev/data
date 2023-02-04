@@ -1110,6 +1110,8 @@
 - [Scrub](https://github.com/benfoxall/scrub) - Video scrubbing with WebCodecs.
 - [iter-tools](https://github.com/iter-tools/iter-tools) - Comprehensive suite of utility methods for working with JS iterables and async iterables.
 - [JS Graph Algorithms](https://github.com/chen0040/js-graph-algorithms)
+- [globrex](https://github.com/terkelg/globrex) - Glob to regular expression with support for extended globs.
+- [Warp.js](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser.
 
 ## Links
 

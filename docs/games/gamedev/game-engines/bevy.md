@@ -99,3 +99,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - Display bevy diagnostics on the window without any hassle.
 - [bevy_particle_systems](https://github.com/abnormalbrain/bevy_particle_systems) - Native and WASM compatible Particle System implementation for Bevy.
 - [Foxtrot](https://github.com/janhohenheim/foxtrot) - All-in-one Bevy 3D game template.
+- [bevy-tokio-tasks](https://github.com/EkardNT/bevy-tokio-tasks) - Simple Bevy plugin which integrates a Tokio runtime into a Bevy app.

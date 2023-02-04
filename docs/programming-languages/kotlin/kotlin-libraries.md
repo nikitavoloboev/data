@@ -52,6 +52,7 @@
 
 - [emo](https://github.com/cgspine/emo) - Speed up android development.
 - [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+- [Fuse](https://github.com/kittinunf/Fuse) - Simple generic LRU memory/disk cache for Android written in Kotlin.
 
 ## Other
 

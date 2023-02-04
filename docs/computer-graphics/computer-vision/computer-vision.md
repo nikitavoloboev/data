@@ -1133,3 +1133,4 @@
 - [Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline (2023)](https://arxiv.org/abs/2301.12511) ([Code](https://github.com/Sense-GVT/Fast-BEV))
 - [Awesome Vision Transformer Collection](https://github.com/GuanRunwei/Awesome-Vision-Transformer-Collection)
 - [Compressed Vision for Efficient Video Understanding (2022)](https://arxiv.org/abs/2210.02995) ([Code](https://github.com/deepmind/compressed_vision))
+- [Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation (2023)](https://arxiv.org/abs/2206.07771) ([Code](https://github.com/L-YeZhu/CDCD))

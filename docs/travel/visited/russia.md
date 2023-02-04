@@ -674,3 +674,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Living alone in the wild Siberian forest (2023)](https://www.youtube.com/watch?v=IOltGIaDPlY) ([HN](https://news.ycombinator.com/item?id=34566111))
 - [List of inventions Russia copied from abroad](https://twitter.com/OrwellsShaddow/status/1621084130456006657)
 - [Putin's Road to War: Julia Ioffe (interview) (2022)](https://www.youtube.com/watch?v=kSNo2FPQDQw)
+- [Putin and the Presidents: Julia Ioffe (interview) (2023)](https://www.youtube.com/watch?v=qEu0oRajJxE)

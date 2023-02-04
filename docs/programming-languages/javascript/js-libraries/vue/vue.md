@@ -250,3 +250,4 @@ title: Vue.js
 - [BaklavaJS](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS.
 - [Advanced Data Fetching with Nuxt 3 (2023)](https://serversideup.net/advanced-data-fetching-with-nuxt-3/)
 - [Vute Vue Jump Plugin](https://github.com/johnsoncodehk/vite-plugin-vue-jump) - Support jump to source code of the specific element from your web page.
+- [Vue Final Modal](https://github.com/vue-final/vue-final-modal) - Renderless, mobile-friendly, feature-rich modal component.

@@ -780,6 +780,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [taggy](https://github.com/open-taggy/taggy) - TypeScript-based frontend package to automatically tag (or categorize) textual content.
 - [Coloquent](https://github.com/DavidDuwaer/Coloquent) - Library mapping objects and their interrelations to JSON API, with a clean, fluent ActiveRecord-like syntax.
 - [dot-path-value](https://github.com/g-makarov/dot-path-value) - Safely get deep nested properties using dot notation.
+- [cache-candidate](https://github.com/JointlyTech/cache-candidate) - Higher-order function and a decorator to cache the result of a function/method if given conditions are met.
+- [demuxer](https://github.com/goldvideo/demuxer) - Tool for demux ts/mp4/flv by typescript. Support HEVC/AVC/AAC codec.
 
 ## Links
 

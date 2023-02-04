@@ -524,3 +524,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [MusicLM: Generating Music From Text (2023)](https://arxiv.org/abs/2301.11325) ([HN](https://news.ycombinator.com/item?id=34541836)) ([Code](https://github.com/lucidrains/musiclm-pytorch)) ([Examples](https://google-research.github.io/seanet/musiclm/examples/)) ([HN](https://news.ycombinator.com/item?id=34541693)) ([HN](https://news.ycombinator.com/item?id=34588764))
 - [ensemble](https://github.com/JBetz/ensemble) - High level audio engine for building DAWs.
 - [Audio Generation Evaluation](https://github.com/haoheliu/audioldm_eval) - Toolbox aims to unify audio generation model evaluation for easier future comparison.
+- [SuperCollider Tree Sitter](https://github.com/madskjeldgaard/tree-sitter-supercollider) - SuperCollider grammar for the tree-sitter code parser.

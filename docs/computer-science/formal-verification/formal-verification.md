@@ -170,3 +170,4 @@ title: Formal verification
 - [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations) ([Lobsters](https://lobste.rs/s/x1uqji/verifiable_software_development))
 - [Quint](https://github.com/informalsystems/quint) - Specification language based on the Temporal Logic of Actions.
 - [Formalizing a new proof that the square root of two is irrational (2023)](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
+- [SuperNova: Proving universal machine executions without universal circuits (2022)](https://eprint.iacr.org/2022/1758) ([Code](https://github.com/jules/supernova))

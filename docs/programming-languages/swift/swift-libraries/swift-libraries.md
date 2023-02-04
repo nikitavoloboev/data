@@ -632,6 +632,7 @@
 - [DidUpdate](https://github.com/PimCoumans/DidUpdate) - SwiftUI inspired State observing without SwiftUI.
 - [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 - [SwiftUI Async Button](https://github.com/rlziii/swiftui-async-button) - SwiftUI Button Async Initializers.
+- [ScrollKit](https://github.com/danielsaidi/ScrollKit) - SwiftUI library that adds powerful scrolling features to SwiftUI, such as offset tracking and pinnable scroll header views.
 
 ## Test
 
@@ -1413,6 +1414,7 @@
 - [PeriodDuration](https://github.com/davdroman/PeriodDuration) - ISO 8601 period/duration APIs missing in Foundation.
 - [SummarizedCollection](https://github.com/jessegrosjean/SummarizedCollection) - Flexible Collections for Swift Using In-Memory B+Trees.
 - [d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new concurrency model in Swift.
+- [SimulatorServices](https://github.com/brightdigit/SimulatorServices) - Swift Interface into simctl.
 
 ## Other (not lib)
 

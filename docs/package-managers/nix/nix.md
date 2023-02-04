@@ -499,3 +499,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [iplz](https://github.com/jonascarpay/iplz) - Demo project for building, provisioning, and deploying a web service with a single command, using Terraform and Nix.
 - [nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs.
 - [Tvix](https://github.com/tvlfyi/tvix) - Rust implementation of Nix.
+- [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review PRs on nixpkgs.

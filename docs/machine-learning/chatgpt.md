@@ -10,7 +10,7 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 
 [NanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
 
-[RWKV](https://github.com/BlinkDL/RWKV-LM) model is great.
+[RWKV](https://github.com/BlinkDL/RWKV-LM) model is great. [Open Assistant](https://github.com/LAION-AI/Open-Assistant) seems like a nice open alternative.
 
 ## Interesting queries
 
@@ -80,3 +80,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [ChatGPT failure archive](https://github.com/giuven95/chatgpt-failures)
 - [KnowledgeGPT](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [The unequal treatment of demographic groups by ChatGPT/OpenAI content moderation (2023)](https://davidrozado.substack.com/p/openaicms) ([HN](https://news.ycombinator.com/item?id=34625001))
+- [Node ChatGPT API](https://github.com/waylaidwanderer/node-chatgpt-api)

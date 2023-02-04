@@ -80,3 +80,4 @@ title: Astro
 - [Astro 2.0 (2023)](https://astro.build/blog/astro-2/) ([HN](https://news.ycombinator.com/item?id=34507170))
 - [HoustonAI](https://houston.astro.build/) - Astro Assistant. ([Code](https://github.com/withastro/houston.astro.build))
 - [Astro Examples](https://github.com/MicroWebStacks/astro-examples) - Astro design patterns examples, client-server state management, markdown, caching.
+- [How to add client-side search with PageFind to your Astro blog static website (2023)](https://lirantal.com/blog/2023-01-01_-how_to_add_client-side_search_to_your_astro_blog_static_website)

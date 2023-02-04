@@ -56,3 +56,4 @@
 - [Zod Internationalization](https://github.com/aiji42/zod-i18n) - Used to translate Zod's default error messages.
 - [Talkr](https://github.com/DoneDeal0/Talkr) - Lightest i18n provider for React applications. It supports Typescript, provides autocompletion, has 0 dependencies, and is very easy to use.
 - [Designing for the World: An Introduction to Localization by Spotify (2022)](https://spotify.design/article/designing-for-the-world-an-introduction-to-localization)
+- [tmsg](https://github.com/tanekloc/tmsg) - Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.

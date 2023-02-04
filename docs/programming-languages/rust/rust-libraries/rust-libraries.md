@@ -617,6 +617,7 @@
 - [Mry](https://github.com/ryo33/mry) - Simple but powerful mocking library for structs, traits, and function.
 - [cargo-is-tested](https://github.com/blyxyas/cargo-is-tested) - Assure that your tests are there, and well written.
 - [Assertables](https://github.com/SixArm/assertables-rust-crate) - Rust crate of assert macros for testing.
+- [assert2](https://github.com/de-vri-es/assert2-rs) - All-purpose assert!(...) and check!(...) macros, inspired by Catch2.
 
 ## Error
 

@@ -815,3 +815,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Ignore Previous Prompt: Attack Techniques For Language Models (2022)](https://arxiv.org/abs/2211.09527) ([Code](https://github.com/agencyenterprise/PromptInject))
 - [Multimodal Chain-of-Thought Reasoning in Language Models (2023)](https://github.com/amazon-science/mm-cot)
 - [Prodigy OpenAI recipes](https://github.com/explosion/prodigy-openai-recipes) - Bootstrap annotation with zero- & few-shot learning via OpenAI GPT-3.
+- [Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees (2023)](https://arxiv.org/abs/2209.10492) ([Code](https://github.com/swarnaHub/SummarizationPrograms))
