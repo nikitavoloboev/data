@@ -324,3 +324,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Needl](https://www.needl.tech/) - Simple search across all your apps. ([HN](https://news.ycombinator.com/item?id=34598406))
 - [Same Energy](https://same.energy/) - Image Search by Similarity.
 - [meilisearch-docsearch](https://github.com/amrbashir/meilisearch-docsearch) - Algloia-inspired quick search component for meilisearch.
+- [Ask HN: What is your replacement for Google search (2023)](https://news.ycombinator.com/item?id=34643512)

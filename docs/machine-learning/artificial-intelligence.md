@@ -188,3 +188,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit)
 - [AI Product Index](https://github.com/dair-ai/AI-Product-Index) - Curated index to track AI-powered products.
 - [AI Toolbox](https://github.com/enbifa/AI-Toolbox) - Comprehensive list of Artificial Intelligence tools divided by category.
+- [John Carmack’s ‘Different Path’ to Artificial General Intelligence (2023)](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/) ([HN](https://news.ycombinator.com/item?id=34637650))

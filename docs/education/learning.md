@@ -275,3 +275,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: Something you’ve done your whole life that you realized is wrong? (2023)](https://news.ycombinator.com/item?id=34579175)
 - [Ask HN: What's the best lecture series you've seen? (2023)](https://news.ycombinator.com/item?id=34591291)
 - [Ask HN: Are you as passionate as you used to be? (2023)](https://news.ycombinator.com/item?id=34599433)
+- [Ask HN: What will be the most valuable technology skills in future? (2023)](https://news.ycombinator.com/item?id=34644966)

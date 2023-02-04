@@ -113,3 +113,4 @@ title: TCP
 - [zstd-proxy](https://github.com/fathyb/zstd-proxy) - High-performance real-time TCP compression.
 - [teeceepee](https://github.com/jvns/teeceepee) - Mini-TCP stack in Python.
 - [Tonel](https://github.com/sabify/tonel) - Multi-Stream UDP over TCP Tunneler for Lightning-Fast Network Layer 3 Transmission with TUN Interface.
+- [tcpdump is amazing (2016)](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) ([HN](https://news.ycombinator.com/item?id=34623604))
