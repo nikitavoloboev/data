@@ -588,3 +588,4 @@ for i, _ in enumerate(nums):
 - [Ask HN: Which book would you recommend for learning Python in detail? (2023)](https://news.ycombinator.com/item?id=34569425)
 - [WebAssembly: Adding Python support to WASM language runtimes (2023)](https://wasmlabs.dev/articles/python-wasm32-wasi/) ([HN](https://news.ycombinator.com/item?id=34581487))
 - [Python's “disappointing” superpowers (2023)](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/) ([HN](https://news.ycombinator.com/item?id=34611969)) ([Lobsters](https://lobste.rs/s/9w7ylg/python_s_disappointing_superpowers))
+- [How I added C-style for-loops to Python (2022)](https://sadh.life/post/cursed-for/)

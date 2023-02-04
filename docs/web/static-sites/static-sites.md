@@ -137,3 +137,4 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Booklit](https://booklit.page/) - Tool for building static websites from semantic documents. ([Code](https://github.com/vito/booklit))
 - [Adventures in making this website: static site generation (2022)](https://prefetch.eu/blog/2022/website-adventures-generators/)
 - [Writing a Static Site Generator Using Shake (2022)](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)
+- [Soupault 4.4.0 release and a review of cache implementations in static site generators (2023)](https://soupault.app/blog/soupault-4.4.0-release-and-ssg-caching/)
