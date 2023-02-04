@@ -116,3 +116,4 @@ title: Flutter
 - [Dart/Flutter Lint](https://github.com/passsy/dart-lint)
 - [Dashbook](https://github.com/bluefireteam/dashbook) - Development tools to help you building UI on Flutter.
 - [Mimir](https://github.com/GregoryConrad/mimir) - Supercharged Flutter/Dart Database.
+- [Flutter desktop isn’t there yet (2023)](https://plei.one/blog/flutter-desktop-not-there-yet/) ([HN](https://news.ycombinator.com/item?id=34643291))

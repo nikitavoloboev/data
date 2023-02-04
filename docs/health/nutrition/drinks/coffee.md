@@ -97,3 +97,4 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [Ethiopian coffee beans blew my mind](https://www.reddit.com/r/Coffee/comments/10039w5/just_got_into_coffee_ethiopian_beans_blew_my_mind/)
 - [My Coffee Maker Just Makes Coffee (2023)](https://bt.ht/one-thing/) ([HN](https://news.ycombinator.com/item?id=34312243))
 - [What Is the Best Way to Learn Latte Art?](https://www.reddit.com/r/Coffee/comments/10lfn9v/what_is_the_best_way_to_learn_latte_art/)
+- [Method for reducing coffee acidity](https://patents.google.com/patent/US5853787A/en) ([HN](https://news.ycombinator.com/item?id=34627916))f

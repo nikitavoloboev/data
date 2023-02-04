@@ -490,3 +490,4 @@
 - [What are some interesting uses of WebUSB you have come across? (2023)](https://news.ycombinator.com/item?id=34562256)
 - [DriftDB: minimum viable state synchronization (2023)](https://driftingin.space/posts/driftdb)
 - [Hypermedia Clients](https://htmx.org/essays/hypermedia-clients/) ([HN](https://news.ycombinator.com/item?id=34618023))
+- [The future (and the past) of the web is server side rendering (2023)](https://deno.com/blog/the-future-and-past-is-server-side-rendering) ([HN](https://news.ycombinator.com/item?id=34644558))

@@ -324,6 +324,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Tim Misiak](https://www.timdbg.com/)
 - [Martian Chronicles](https://evilmartians.com/chronicles)
 - [Roman Zaynetdinov](https://www.zaynetro.com/)
+- [Pema Malling](https://pema.dev/archive/)
 
 ## Notes
 

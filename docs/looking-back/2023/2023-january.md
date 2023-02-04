@@ -8,4 +8,4 @@ In other news, [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a grea
 
 And I started real work on [LA](https://github.com/learn-anything/learn-anything). Goal is to be able to afford tasty food sometime within this or next year. And hopefully survive until summer. Dreams. 😻
 
-Jealousy is the mind killer.
+Jealousy is the mind killer. One of the things that keeps me going is that I've [had it worse](../../health/depression.md) before. It will be fine even if I [die](../../life/death.md).

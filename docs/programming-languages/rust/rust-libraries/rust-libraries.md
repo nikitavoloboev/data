@@ -2611,7 +2611,7 @@
 - [h264_webcam_stream](https://github.com/D1plo1d/h264_webcam_stream) - Rust-based proof of concept for streaming from a webcam (using v4l2) in h264 over webrtc.
 - [Config Reload](https://github.com/kondanta/reload_config) - Automatically reloads given config file.
 - [nom-greedyerror](https://github.com/dalance/nom-greedyerror) - Custom error type of nom to improve accuracy of error position.
-- [Glidesort](https://github.com/orlp/glidesort) - Stable adaptive quicksort/mergesort hybrid sorting algorithm.
+- [Glidesort](https://github.com/orlp/glidesort) - Stable adaptive quicksort/mergesort hybrid sorting algorithm. ([HN](https://news.ycombinator.com/item?id=34646199))
 
 ## Cargo Plugins
 

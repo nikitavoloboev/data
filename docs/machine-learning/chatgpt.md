@@ -79,3 +79,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [HN: ChatGPT Plus (2023)](https://news.ycombinator.com/item?id=34614796)
 - [ChatGPT failure archive](https://github.com/giuven95/chatgpt-failures)
 - [KnowledgeGPT](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
+- [The unequal treatment of demographic groups by ChatGPT/OpenAI content moderation (2023)](https://davidrozado.substack.com/p/openaicms) ([HN](https://news.ycombinator.com/item?id=34625001))
