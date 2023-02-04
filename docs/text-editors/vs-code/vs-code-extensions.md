@@ -133,6 +133,7 @@ Below is a list of extensions I use.
 - [Hero Icons](https://marketplace.visualstudio.com/items?itemName=afzalsayed96.heroicons) ([Code](https://github.com/afzalsayed96/vscode-heroicons))
 - [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - Real browser preview inside your editor that you can debug.
 - [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
+- [HelixKeymap](https://github.com/garlandcrow/vscode-helix) - Helix-like extension for VSCode that prioritizes simplicity.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Calculate](https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate) - Evaluate math expressions.
