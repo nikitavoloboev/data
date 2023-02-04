@@ -246,3 +246,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [Best YouTube channels to learn embedded systems development? (2023)](https://www.reddit.com/r/embedded/comments/10db8g7/best_youtube_channels_to_learn_embedded_systems/)
 - [STorM32 BGC](https://github.com/olliw42/storm32bgc) - STM32 32-bit microcontroller based 3-axis brushless gimbal controller board.
 - [Rust ESP Board](https://github.com/esp-rs/esp-rust-board) - Open Hardware with ESP32-C3 compatible with Feather specification designed in KiCad.
+- [ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors (2023)](https://eitherway.io/posts/esp32-buyers-guide/) ([HN](https://news.ycombinator.com/item?id=34653729))

@@ -89,3 +89,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - Modern Anki custom scheduling based on free spaced repetition scheduler algorithm.
 - [genanki-js](https://github.com/krmanik/genanki-js) - JavaScript implementation for generating Anki decks in browser client side.
 - [Anki and GPT-3](https://github.com/AndrewJudson/ankiextension) ([HN](https://news.ycombinator.com/item?id=34622913))
+- [Anki Beginner Tips (2023)](https://eitherway.io/posts/anki-beginner-tips/)

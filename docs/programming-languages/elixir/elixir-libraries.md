@@ -51,7 +51,7 @@
 - [Postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 - [CubDB](https://github.com/lucaong/cubdb) - Embedded key-value database written in the Elixir language.
 - [Elixir driver for EdgeDB](https://github.com/nsidnev/edgedb-elixir)
-- [Khepri](https://github.com/rabbitmq/khepri) - Tree-like replicated on-disk database library for Erlang and Elixir.
+- [Khepri](https://github.com/rabbitmq/khepri) - Tree-like replicated on-disk database library for Erlang and Elixir. ([HN](https://news.ycombinator.com/item?id=34623418))
 - [Ecto SQLite3 adapter](https://github.com/elixir-sqlite/ecto_sqlite3)
 - [Honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto.
 - [EctoJob](https://github.com/mbuhot/ecto_job) - Transactional job queue built with Ecto and GenStage.

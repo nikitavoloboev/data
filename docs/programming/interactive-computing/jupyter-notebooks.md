@@ -46,6 +46,7 @@ title: Jupyter Notebooks
 - [Emblaze](https://github.com/cmudig/emblaze) - Interactive Jupyter notebook widget for visually comparing embedding spaces.
 - [JupyterLab S3 Browser](https://github.com/IBM/jupyterlab-s3-browser) - JupyterLab extension for browsing S3-compatible object storage.
 - [Jupyter Splitview](https://github.com/kolibril13/jupyter-splitview) - Making before/after image sliders in JupyterLab.
+- [ipysigma](https://github.com/medialab/ipysigma) - Jupyter widget using sigma.js to render interactive networks.
 
 ## Links
 

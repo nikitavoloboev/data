@@ -195,3 +195,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix Page Blocks](https://remix-page-blocks.vercel.app/) - Open-Source Page Block Builder with Remix and Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=33747554)) ([Code](https://github.com/AlexandroMtzG/remix-page-blocks))
 - [Remix Deferred](https://gist.github.com/jacob-ebey/9bde9546c1aafaa6bc8c242054b1be26) ([Tweet](https://twitter.com/kentcdodds/status/1596928642650890241))
 - [RemixKit](https://github.com/jrestall/remix-kit) - Remix development, streamlined with Vite.
+- [Remix Supertokens](https://github.com/ITenthusiasm/remix-supertokens) - Exemplifying/testing Remix usage with SuperTokens.
