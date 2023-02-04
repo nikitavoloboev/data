@@ -136,3 +136,4 @@
 - [Sierra’s Macintosh Timebomb (2021)](https://www.benshoof.org/blog/sierras-macintosh-timebomb)
 - [binview](https://github.com/hymkor/binview) - Binary data view/editor on the terminal.
 - [Documenting reverse engineering of the original Lytro lightfield camera](https://github.com/ea/lytro_unlock)
+- [Reverse-Engineering YouTube: Revisited (2023)](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
