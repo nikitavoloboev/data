@@ -8,7 +8,7 @@ Love [being part](https://elk.zone/merveilles.town/@nikivi) of [Merveilles](http
 
 Used [Movetodon](https://www.movetodon.org/) to move my follow graph of [Twitter](../tools/twitter.md).
 
-Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client mostly to read [Merveilles local instance](https://elk.zone/merveilles.town/public/local).
+Use [Elk](https://elk.zone/) as my Mastodon client mostly to read [Merveilles local instance](https://elk.zone/merveilles.town/public/local). Zen mode in Elk is gorgeous. UI only shows when you hover over it, otherwise you just see the toots. [Elk's code](https://github.com/elk-zone/elk) is great study how to build nice web apps.
 
 ## Interesting communities
 

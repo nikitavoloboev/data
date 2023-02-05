@@ -277,3 +277,4 @@
 - [Kaggle Python docker image](https://github.com/Kaggle/docker-python)
 - [Data Science Cookie Cutter for Prefect](https://github.com/khuyentran1401/data-science-template)
 - [Time series resources](https://github.com/lmmentel/awesome-time-series)
+- [Quadratic](https://www.quadratichq.com/) - Data Science Spreadsheet. ([Code](https://github.com/quadratichq/quadratic))

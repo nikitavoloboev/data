@@ -2038,6 +2038,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Debugger Middleware](https://github.com/dlsniper/debugger) - Debugging middleware for Go applications to enable better display of goroutines in the debugger.
 - [iomux](https://github.com/Netflix/go-iomux) - Unix domain network multiplexing for Go.
 - [selfupdate](https://github.com/gokrazy/selfupdate) - Implements the standard client for the gokrazy Update System (GUS).
+- [starstruct](https://github.com/mna/starstruct) - Starlark to Go struct converter.
 
 ## Links
 

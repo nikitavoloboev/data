@@ -202,3 +202,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Feeds: The Only Civilised Way to Read Online (2023)](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
 - [GoRead](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS feeds right in the terminal.
 - [goeland](https://github.com/slurdge/goeland) - RSS to email in Go.
+- [Deno RSS](https://github.com/MikaelPorttila/rss) - Deno module for deserializing RSS or ATOM XML feeds into typed objects.
