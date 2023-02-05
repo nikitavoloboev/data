@@ -532,6 +532,7 @@
 - [guee](https://github.com/setzer22/guee) - GUI library for Rust.
 - [Polyhedron Operators](https://github.com/virtualritz/polyhedron-ops) - Implements the Conway Polyhedron Operators and their extensions by George W. Hart and others.
 - [NSI](https://github.com/virtualritz/nsi) - High level Rust bindings for Illumination Research’s Nodal Scene Interface.
+- [Masonry](https://github.com/PoignardAzur/masonry-rs) - Rust UI design toolkit.
 
 ## Games
 

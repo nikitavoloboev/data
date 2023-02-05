@@ -107,3 +107,4 @@ Like using [Rive](rive.md) for making animations.
 - [Manim Voiceover](https://github.com/ManimCommunity/manim-voiceover) - Manim plugin for all things voiceover.
 - [to-dot-lottie](https://github.com/theapache64/to-dot-lottie) - CLI tool to bulk convert all .json lottie files to .lottie format.
 - [Motion Canvas](https://github.com/motion-canvas/motion-canvas) - Web-based tool for creating animations programmatically. ([Examples](https://github.com/motion-canvas/examples)) ([Web](https://motion-canvas.github.io/))
+- [Computational Design of Mechanical Characters](https://la.disneyresearch.com/wp-content/uploads/CDMC1.pdf)

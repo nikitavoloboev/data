@@ -1,6 +1,8 @@
 # Displays
 
-[Apple Studio Display](https://twitter.com/marcedwards/status/1504622989811232774) is nice.
+[Apple Studio Display](https://twitter.com/marcedwards/status/1504622989811232774) is nice as monitor.
+
+[Sony A95K](https://www.whathifi.com/reviews/sony-xr-55a95k) is great as TV.
 
 ## Links
 

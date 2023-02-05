@@ -4,11 +4,11 @@ title: Mastodon
 
 # [Mastodon](https://joinmastodon.org/)
 
-Love [being part](https://merveilles.town/web/@nikivi) of [Merveilles](https://merveilles.town/about) Mastodon server.
+Love [being part](https://elk.zone/merveilles.town/@nikivi) of [Merveilles](https://merveilles.town/about) Mastodon server.
 
 Used [Movetodon](https://www.movetodon.org/) to move my follow graph of [Twitter](../tools/twitter.md).
 
-Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
+Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client mostly to read [Merveilles local instance](https://elk.zone/merveilles.town/public/local).
 
 ## Interesting communities
 
