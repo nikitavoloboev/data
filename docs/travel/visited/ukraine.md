@@ -194,3 +194,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) - Collection of links to Ukrainian language tools.
 - [Russia Ukraine War Equipment Loss Tracking](https://github.com/leedrake5/Russia-Ukraine) ([Web](https://bleedrake.shinyapps.io/Russia-Ukraine/))
 - [Why Russia Miscalculated in Ukraine: A Self-Inflicted Disaster in Three Acts (2023)](https://www.youtube.com/watch?v=8YkGrKQXZxE)
+- [Евромайдан без мифов и пропаганды (2023)](https://www.youtube.com/watch?v=sVM69vcvwmw)

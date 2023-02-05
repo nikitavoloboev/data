@@ -2037,6 +2037,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go Promise](https://github.com/Ompluscator/go-promise) - Introduces Promise feature from JavaScript in Go.
 - [Debugger Middleware](https://github.com/dlsniper/debugger) - Debugging middleware for Go applications to enable better display of goroutines in the debugger.
 - [iomux](https://github.com/Netflix/go-iomux) - Unix domain network multiplexing for Go.
+- [selfupdate](https://github.com/gokrazy/selfupdate) - Implements the standard client for the gokrazy Update System (GUS).
 
 ## Links
 

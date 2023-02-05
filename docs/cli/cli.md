@@ -237,3 +237,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [CSView](https://github.com/hymkor/csview) - Simple CSV viewer/editor.
 - [Flagon](https://github.com/Pondidum/Flagon) - Feature Flags from your CLI.
 - [Solitaire TUI](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal. Built with Bubble Tea Go.
+- [gotop](https://github.com/xxxserxxx/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.

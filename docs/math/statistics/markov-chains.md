@@ -33,3 +33,4 @@
 - [Markov Chains in Zig](https://github.com/travisstaloch/markov-chains-zig)
 - [Deno Markov Chain](https://github.com/antyas/deno-markov-chain)
 - [Markov chain Monte Carlo sampler](https://github.com/dschrempf/mcmc)
+- [Foswig.js](https://github.com/mrsharpoblunto/foswig.js) - Markov chain based random word generator.

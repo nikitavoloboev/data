@@ -432,3 +432,4 @@ title: Reinforcement learning
 - [AutoCAT](https://github.com/facebookresearch/AutoCAT) - Reinforcement Learning for Automated Exploration of Cache-Timing Attacks.
 - [Miniworld](https://github.com/Farama-Foundation/Miniworld) - Simple and easily configurable 3D FPS-game-like environments for reinforcement learning.
 - [Rurel](https://github.com/milanboers/rurel) - Flexible, reusable reinforcement learning (Q learning) implementation in Rust.
+- [NICE: Robust Scheduling through Reinforcement Learning-Guided Integer Programming (2022)](https://arxiv.org/abs/2109.12171) ([Code](https://github.com/nsidn98/NICE))

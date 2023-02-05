@@ -427,3 +427,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [ICNS](https://github.com/icns-xyz/icns) - Nameservice designed from the ground up with the unique needs of a multichain IBC ecosystem in mind.
 - [Practical Cryptography and Distributed Ledgers](https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers)
 - [Blockifier](https://github.com/starkware-libs/blockifier) - Rust implementation for the transaction-executing component in the StarkNet sequencer, in charge of creating state diffs and blocks.
+- [Ordinals](https://ordinals.com/) - Index, block explorer, and command-line wallet. ([Code](https://github.com/casey/ord))
