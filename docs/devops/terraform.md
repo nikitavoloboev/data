@@ -221,3 +221,4 @@ title: Terraform
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow.
 - [tf-nix](https://github.com/arcnmx/tf-nix) - Terraform meets nix.
 - [Crossplane provider for Terraform](https://github.com/upbound/provider-terraform)
+- [Terradrift](https://github.com/rootsami/terradrift) - Tool to detect drifts in Terraform IaC.

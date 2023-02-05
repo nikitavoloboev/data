@@ -96,3 +96,5 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [dejax](https://github.com/hr0nix/dejax) - Accelerated replay buffers in JAX.
 - [JaxTon](https://github.com/vopani/jaxton) - 100 exercises to learn JAX.
 - [JMP](https://github.com/deepmind/jmp) - Mixed Precision library for JAX.
+- [PIPs JAX](https://github.com/brentyi/pips-jax) - JAX implementation of Persistent Independent Particles.
+- [Jax Decompiler](https://github.com/PierrickPochelu/JaxDecompiler)

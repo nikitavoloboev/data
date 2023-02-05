@@ -248,3 +248,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [Rust ESP Board](https://github.com/esp-rs/esp-rust-board) - Open Hardware with ESP32-C3 compatible with Feather specification designed in KiCad.
 - [ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors (2023)](https://eitherway.io/posts/esp32-buyers-guide/) ([HN](https://news.ycombinator.com/item?id=34653729))
 - [simavr](https://github.com/buserror/simavr) - Lean, mean and hackable AVR simulator for Linux & macOS.
+- [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async HTTP and WebSocket Server for ESP8266 Arduino.

@@ -472,3 +472,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [nn-Meter](https://github.com/microsoft/nn-Meter) - DNN inference latency prediction toolkit for accurately modeling and predicting the latency on diverse edge devices.
 - [pyhf](https://github.com/scikit-hep/pyhf) - Pure-Python HistFactory implementation with tensors and autodiff.
 - [fcmaes](https://github.com/dietmarwo/fast-cma-es) - Python 3 gradient-free optimization library.
+- [pyPESTO](https://github.com/ICB-DCM/pyPESTO) - Widely applicable and highly customizable toolbox for parameter estimation.

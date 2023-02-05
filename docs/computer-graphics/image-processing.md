@@ -239,3 +239,4 @@
 - [Lid – Lo-fi image dithering](https://rawtext.club/~sloum/lid.html) ([HN](https://news.ycombinator.com/item?id=34358828))
 - [CropScore](https://cropper.madza.dev/) - Online Image Cropper for Content Creators. ([Code](https://github.com/madzadev/cropper))
 - [Optisize](https://github.com/three11/optisize) - Resize and optimize images with NodeJS.
+- [FreeScaler](https://github.com/TheMurusTeam/FreeScaler-CoreML) - Upscaler app for macOS based on Apple CoreML framework.

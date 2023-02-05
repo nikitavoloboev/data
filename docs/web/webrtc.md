@@ -129,3 +129,4 @@ title: WebRTC
 - [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) - WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [FTL](https://github.com/hironichu/FTL) - Fast WebRTC based server for Deno.
 - [werift](https://github.com/shinyoshiaki/werift-webrtc) - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM.
+- [RSFU](https://github.com/harlanc/rsfu) - WebRTC SFU (Selective Forwarding Unit) in Rust.

@@ -175,6 +175,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Dashlane macOS/iOS Code](https://github.com/Dashlane/apple-apps)
 - [Scoot](https://github.com/mjrusso/scoot) - Efficiently move your mouse cursor, using keyboard shortcuts.
 - [MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS and Android emulators.
+- [MIDI Monitor](https://github.com/krevis/MIDIApps) - Monitoring MIDI data as it goes in and out of the computer.
 
 ## Other interesting apps
 

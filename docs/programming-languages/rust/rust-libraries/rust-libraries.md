@@ -2616,6 +2616,9 @@
 - [Glidesort](https://github.com/orlp/glidesort) - Stable adaptive quicksort/mergesort hybrid sorting algorithm. ([HN](https://news.ycombinator.com/item?id=34646199))
 - [autosurgeon](https://github.com/automerge/autosurgeon) - Rust library for working with data in automerge documents.
 - [Syner](https://github.com/28Smiles/syner) - Derive your Attribute Parsers.
+- [JSON-RPC-RS](https://github.com/harlanc/jsonrpc2-rs) - JSON-RPC 2.0 client/server library in rust.
+- [Assets-manager](https://github.com/a1phyr/assets_manager) - Conveniently load, cache, and reload external resources.
+- [const_env](https://github.com/EkardNT/const_env) - Configure const and static items by environment variables.
 
 ## Cargo Plugins
 

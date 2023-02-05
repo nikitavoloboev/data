@@ -1415,6 +1415,7 @@
 - [SummarizedCollection](https://github.com/jessegrosjean/SummarizedCollection) - Flexible Collections for Swift Using In-Memory B+Trees.
 - [d3-async-location](https://github.com/The-Igor/d3-async-location) - Async location streamer using new concurrency model in Swift.
 - [SimulatorServices](https://github.com/brightdigit/SimulatorServices) - Swift Interface into simctl.
+- [CardinalKit](https://github.com/StanfordBDHG/CardinalKit) - Open-source framework for rapid development of modern, interoperable digital health applications. ([Template](https://github.com/StanfordBDHG/CardinalKitTemplateApplication))
 
 ## Other (not lib)
 
@@ -1511,3 +1512,4 @@
 - [Swift Package Manager Rules for Bazel](https://github.com/cgrindel/rules_spm)
 - [Gazelle Plugin for Swift and Swit Package Rules for Bazel](https://github.com/cgrindel/swift_bazel)
 - [dependency-graph](https://github.com/simonbs/dependency-graph) - Command-line tool that can visualize the dependencies of packages.
+- [Swift Package Template](https://github.com/StanfordBDHG/SwiftPackageTemplate)

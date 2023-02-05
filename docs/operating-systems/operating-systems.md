@@ -425,3 +425,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Gasang](https://github.com/ArtBlnd/gasang) - VM machine that runs on web browser.
 - [Projects for an Operating Systems Class](https://github.com/remzi-arpacidusseau/ostep-projects)
 - [vfkit](https://github.com/crc-org/vfkit) - Simple command line tool to start VMs through virtualization framework.
+- [Teaching resources (OER) for Operating Systems](https://github.com/open-education-hub/operating-systems)

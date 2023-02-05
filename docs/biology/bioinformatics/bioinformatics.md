@@ -286,3 +286,4 @@ title: Bioinformatics
 - [vesta_vectors.py](https://github.com/lucydot/vesta_vectors) - Python 3 script to visualize atomic displacement using the Vesta file format.
 - [BioGPT: A language model pre-trained on large-scale biomedical literature (2023)](https://www.marktechpost.com/2023/01/31/microsoft-research-proposes-biogpt-a-domain-specific-generative-transformer-language-model-pre-trained-on-large-scale-biomedical-literature/) ([HN](https://news.ycombinator.com/item?id=34609648))
 - [EquiFold: Protein Structure Prediction with a Novel Coarse-Grained Structure Representation (2022)](https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1) ([Code](https://github.com/Genentech/equifold))
+- [BioDynaMo](https://github.com/BioDynaMo/biodynamo) - High-performance and modular, agent-based simulation platform.

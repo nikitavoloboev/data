@@ -48,6 +48,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-sql-query](https://github.com/juanluispaz/ts-sql-query) - Type-safe query builder that provides a way to build dynamic SQL queries in a type-safe way.
 - [pgzod](https://github.com/owncoral/pgzod) - Transform PostgreSQL schemas into Zod validators and types.
 - [Pinecone.io Client](https://github.com/rileytomasek/pinecone-client) - Fetch based client for the Pinecone.io vector database with excellent TypeScript support.
+- [Orchid ORM](https://github.com/romeerez/orchid-orm)
 
 ## Web
 
@@ -154,6 +155,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## CLI
 
+- [ultraflag](https://github.com/natemoo-re/ultraflag) - 1kB library for parsing CLI flags.
 - [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
 - [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
@@ -783,6 +785,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [cache-candidate](https://github.com/JointlyTech/cache-candidate) - Higher-order function and a decorator to cache the result of a function/method if given conditions are met.
 - [demuxer](https://github.com/goldvideo/demuxer) - Tool for demux ts/mp4/flv by typescript. Support HEVC/AVC/AAC codec.
 - [h3-cors](https://github.com/NozomuIkuta/h3-cors) - h3-native CORS event handler.
+- [media-group](https://github.com/muxinc/media-group) - MediaController which can be used to sync and control multiple audio / video elements.
+- [fast-querystring](https://github.com/anonrig/fast-querystring) - Fast query-string parser and stringifier.
 
 ## Links
 

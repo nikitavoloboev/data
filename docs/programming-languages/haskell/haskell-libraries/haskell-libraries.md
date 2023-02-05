@@ -110,6 +110,7 @@
 - [Statistics](https://github.com/haskell/statistics) - Fast, high quality library for computing with statistics in Haskell.
 - [Data.Scientific](https://github.com/basvandijk/scientific) - Arbitrary-precision floating-point numbers represented using scientific notation.
 - [Carnap](https://github.com/Carnap/Carnap) - Formal logic framework that runs in the browser.
+- [Acts](https://github.com/sheaf/acts) - Haskell library for semigroup actions and torsors.
 
 ## Crypto
 
@@ -482,3 +483,4 @@
 - [SimFormat](https://github.com/Simspace/simformat) - Formats Haskell import lists.
 - [cabal-plan-bounds](https://github.com/nomeata/cabal-plan-bounds) - Calculate Haskell dependency ranges from multiple build plans.
 - [haskell-flake](https://github.com/srid/haskell-flake) - Flake-parts Nix module for Haskell development.
+- [if-instance](https://github.com/sheaf/if-instance) - GHC plugin to branch on whether a constraint is satisfied.

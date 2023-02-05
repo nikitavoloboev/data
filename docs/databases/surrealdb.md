@@ -15,3 +15,4 @@ title: SurrealDB
 - [Building Awesome Desktop App with Rust, Tauri, and SurrealDB (2022)](https://www.youtube.com/watch?v=BY_ZjPGqJJk)
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground for Desktop.
 - [Kysely SurrealDB](https://github.com/igalklebanov/kysely-surrealdb)
+- [Cirql](https://github.com/StarlaneStudios/cirql) - Flexible SurrealDB ORM & query builder with Zod powered validation.
