@@ -32,3 +32,4 @@ title: Temporal
 - [Temporal Go Project Template](https://github.com/temporalio/money-transfer-project-template-go)
 - [Temporal running on Render example](https://github.com/render-examples/temporal)
 - [Maru](https://github.com/temporalio/maru) - Temporal Load Simulator.
+- [Patching with XState + Temporal](https://github.com/Devessier/xstate-temporal-patch) - Workflow versioning with Temporal and XState.

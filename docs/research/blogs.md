@@ -325,6 +325,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Martian Chronicles](https://evilmartians.com/chronicles)
 - [Roman Zaynetdinov](https://www.zaynetro.com/)
 - [Pema Malling](https://pema.dev/archive/)
+- [Marissa Montgomery](https://m15y.com/)
 
 ## Notes
 

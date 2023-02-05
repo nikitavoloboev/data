@@ -111,3 +111,4 @@ And here are Chrome extensions I use:
 - [All 1,400 Google Chrome CLI flags](https://peter.sh/experiments/chromium-command-line-switches/) ([HN](https://news.ycombinator.com/item?id=34087808))
 - [SvelteKit Chrome Extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension)
 - [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium based browser built to run in a terminal. ([HN](https://news.ycombinator.com/item?id=34547259))
+- [Inspo](https://github.com/vpontis/inspo) - Extension helps you curate websites for sources of design inspiration.

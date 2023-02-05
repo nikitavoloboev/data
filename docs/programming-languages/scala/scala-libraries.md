@@ -10,7 +10,7 @@
 - [Tapir](https://github.com/softwaremill/tapir) - Describe HTTP API endpoints as immutable Scala values. ([Docs](https://tapir.softwaremill.com/en/latest/)) ([Tapir Stream](https://www.youtube.com/watch?v=GNleUFwgzWc)) ([1.0](https://softwaremill.com/tapir-1-0-released/))
 - [sttp](https://github.com/softwaremill/sttp) - Scala HTTP client you always wanted. ([Docs](https://sttp.softwaremill.com/en/latest/))
 - [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra. ([Web](https://scalatra.org/))
-- [Scala.js](https://github.com/scala-js/scala-js) - Scala to JavaScript compiler. ([Web](https://www.scala-js.org/))
+- [Scala.js](https://github.com/scala-js/scala-js) - Scala to JavaScript compiler. ([Web](https://www.scala-js.org/)) ([10 years of Scala.js](https://www.scala-lang.org/blog-detail/2023/02/05/ten-years-of-scala-js.html)) ([HN](https://news.ycombinator.com/item?id=34664970))
 - [Scala Webapp Utilities](https://github.com/japgolly/webapp-util)
 - [Play Framework](https://github.com/playframework/playframework) - High Velocity Web Framework. ([Bootstrap Template](https://github.com/innFactory/bootstrap-play2))
 - [ff4s](https://github.com/buntec/ff4s) - Purely functional web frontend framework for Scala.js.

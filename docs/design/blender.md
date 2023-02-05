@@ -114,3 +114,4 @@ title: Blender
 - [What if OpenAI did Blender scripts? (2022)](https://www.youtube.com/watch?v=k50Y0b3g5WY)
 - [chocofur - YouTube](https://www.youtube.com/@Chocofur/videos) - Does videos on Blender.
 - [Image-Generating AI Can Texture An Entire 3D Scene In Blender (2022)](https://hackaday.com/2022/12/18/image-generating-ai-can-texture-an-entire-3d-scene-in-blender/)
+- [A Gentle Introduction to the Rendering Equation (2022)](https://m15y.com/posts/render)

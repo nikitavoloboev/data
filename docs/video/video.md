@@ -36,6 +36,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Nathaniel Drew](https://www.youtube.com/c/nathanieldrewofficial/videos)
 - [𝒇𝒆𝒍𝒊𝒏𝒂](https://www.youtube.com/watch?v=OgF7CiE3yVw)
 - [𝒐𝒛𝒚𝒎𝒂𝒏𝒅𝒊𝒂𝒔](https://www.youtube.com/watch?v=_ZTjxIfEKO0)
+- [Purpose (Bill & Frank) - The Last of Us](https://www.youtube.com/watch?v=tTI4a4Da74o)
 
 ## Favorite clips
 

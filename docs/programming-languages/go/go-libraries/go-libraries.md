@@ -614,6 +614,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [BarrelDB](https://github.com/mr-karan/barreldb) - Disk based key-value store based on Bitcask.
 - [DBML Go](https://github.com/duythinht/dbml-go) - DBML parser and tools for Go.
 - [catena](https://github.com/Cistern/catena) - Storage engine for time series data.
+- [zipcache](https://github.com/ostafen/zipcache) - In-memory compressed cache.
 
 ## ML
 

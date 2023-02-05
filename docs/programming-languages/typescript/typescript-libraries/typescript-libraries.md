@@ -164,6 +164,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [molt](https://github.com/jasonkuhrt/molt) - CLI building blocks & framework for the TypeScript era.
 - [Zors](https://github.com/sidwebworks/zors) - Next-gen framework for building modern, type-safe command-line applications.
 - [Xterm.js Readline](https://github.com/strtok/xterm-readline) - Library for building command-line interfaces with XtermJS.
+- [zcli](https://github.com/jaredLunde/zcli) - Framework for building type-safe command line tools powered by Zod.
 
 ## Crypto
 
@@ -789,6 +790,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fast-querystring](https://github.com/anonrig/fast-querystring) - Fast query-string parser and stringifier.
 - [Upstash RateLimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes.
 - [Typed Event Target](https://github.com/worker-tools/typed-event-target)
+- [seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values.
 
 ## Links
 

@@ -965,3 +965,4 @@ if *boolArgPtr != false {
 - [Go 1.20 released (2023)](https://go.dev/doc/go1.20) ([HN](https://news.ycombinator.com/item?id=34616352))
 - [Go 1.20 Experiment: Memory Arenas vs Traditional Memory Management (2023)](https://pyroscope.io/blog/go-1-20-memory-arenas/)
 - [Polymorphic, Recursive Interfaces Using Go Generics (2023)](https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/)
+- [Go arm64 Function Call Assembly (2023)](https://blog.felixge.de/go-arm64-function-call-assembly/)

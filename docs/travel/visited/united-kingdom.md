@@ -1,6 +1,6 @@
 # United Kingdom
 
-London and Edinburgh are few of my favorite cities I've been in. 
+London and Edinburgh are few of my favorite cities I've been in.
 
 Still find it strange that UK left [EU](europe.md) but maybe they will [change their mind in future](https://twitter.com/DanielLambert29/status/1532991072158220288).
 
@@ -67,3 +67,4 @@ Still find it strange that UK left [EU](europe.md) but maybe they will [change t
 - [CLI tool to query & submit UK VAT returns](https://github.com/alexheretic/mtd-vat-cli)
 - [UK Sucession (2022)](https://www.youtube.com/watch?v=wp88srtB5LE)
 - [The strange case of Britain’s demise (2022)](https://www.economist.com/britain/2022/12/12/the-strange-case-of-britains-demise) ([HN](https://news.ycombinator.com/item?id=34027930))
+- [Reversing UK mobile rail tickets (2023)](https://eta.st/2023/01/31/rail-tickets.html) ([HN](https://news.ycombinator.com/item?id=34640433))
