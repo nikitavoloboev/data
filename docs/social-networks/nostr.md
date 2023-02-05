@@ -6,6 +6,8 @@ title: Nostr
 
 [Nostr.how](https://nostr-how.vercel.app/) is good read.
 
+[Farcaster](farcaster.md) seems like nice alternative.
+
 ## Links
 
 - [Nostr Code](https://github.com/fiatjaf/nostr)
@@ -41,3 +43,4 @@ title: Nostr
 - [Go Nostr](https://github.com/nbd-wtf/go-nostr) - Nostr library for Go.
 - [Nostr.how](https://nostr-how.vercel.app/) - Complete guide to Nostr. ([Code](https://github.com/erskingardner/nostr-how)) ([HN](https://news.ycombinator.com/item?id=34656925))
 - [Python Nostr](https://github.com/jeffthibault/python-nostr)
+- [nostr-watch](https://github.com/dskvr/nostr-watch) - Nostr registry and monitor web-client.

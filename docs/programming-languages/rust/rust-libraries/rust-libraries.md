@@ -235,6 +235,8 @@
 - [hyperlocal](https://github.com/softprops/hyperlocal) - Hyper client and server bindings for Unix domain sockets.
 - [Astra](https://github.com/ibraheemdev/astra) - High performance Rust web servers without async/await.
 - [Valar](https://github.com/ConsoleTVs/Valar) - Developer Centric Async Rust Web Framework.
+- [CachePolicy](https://github.com/kornelski/rusty-http-cache-semantics) - Parses HTTP headers to correctly compute cacheability of responses.
+- [http-cache](https://github.com/06chaynes/http-cache) - Caching middleware that follows HTTP caching rules.
 
 ## Auth
 
@@ -2623,6 +2625,7 @@
 - [Assets-manager](https://github.com/a1phyr/assets_manager) - Conveniently load, cache, and reload external resources.
 - [const_env](https://github.com/EkardNT/const_env) - Configure const and static items by environment variables.
 - [io-arrays](https://github.com/sunfishcode/io-arrays) - Random-access I/O.
+- [Versionize](https://github.com/firecracker-microvm/versionize) - Framework for version tolerant serializion/deserialization of Rust data structures.
 
 ## Cargo Plugins
 

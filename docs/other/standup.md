@@ -43,6 +43,7 @@ Quite like [Bill Burr](https://billburr.com/).
 - [Sincerely Louis CK](https://www.youtube.com/watch?v=LOS9KB2qoRI)
 - [Taylor Tomlinson Stand-Up: Anti-Depressants, Settling Down](https://www.youtube.com/watch?v=dW8jny6_724)
 - [Тимур Каргинов про документы](https://www.youtube.com/watch?v=LojCYKm7se0)
+- [Louis CK - Of course... but maybe?](https://www.youtube.com/watch?v=6FThWZjL_o4)
 
 ## Links
 

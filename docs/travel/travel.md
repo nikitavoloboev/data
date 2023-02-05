@@ -157,3 +157,4 @@ Use [Google Flights](https://www.google.com/travel/flights) to buy plane tickets
 - [Getaiway](https://getaiway.com/) - Create Personalized Travel Plans with GPT-3.
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/) ([HN](https://news.ycombinator.com/item?id=34492052))
 - [Самое красивое место в котором вы были в жизни](https://twitter.com/ohhiiana/status/1619740412981420034)
+- [GPTravel Advisor](https://gpt-travel-advisor.vercel.app/) - Create a travel itinerary for any city in the world in just a few seconds. ([Code](https://github.com/dabit3/gpt-travel-advisor))

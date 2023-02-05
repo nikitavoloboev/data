@@ -2,7 +2,7 @@
 
 This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.js demos](https://p5-demos.glitch.me/) are great intros. [WEIRD-A](https://github.com/inconvergent/weird), [Processing](../programming-languages/processing/processing.md) & [p5.js](../programming-languages/processing/p5js.md) are great frameworks.
 
-[Josef Pelz](https://twitter.com/JosefPelz), [Etienne Jacob](https://twitter.com/etiennejcb) & [Julien Gachadoat](https://twitter.com/v3ga) are great.
+[Josef Pelz](https://twitter.com/JosefPelz), [Etienne Jacob](https://twitter.com/etiennejcb), [Julien Gachadoat](https://twitter.com/v3ga) & [daeinc](https://twitter.com/cdaein) are great.
 
 [Samila](https://github.com/sepandhaghighi/samila), [Alma](https://www.alma.sh/) & [Nannou](https://github.com/nannou-org/nannou) are interesting.
 
@@ -260,3 +260,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Variations Combinator](https://github.com/Bleuje/variations-combinator) - Real-time generative art tool with openFrameworks.
 - [Dessins géométriques et artistiques avec votre micro-ordinateur programs](https://github.com/v3ga/dessins_geometriques_et_artistiques)
 - [Particle Simulator](https://lisyarus.itch.io/particle-simulator) ([Tweet](https://twitter.com/lisyarus/status/1611053550846545939))
+- [Ssam](https://github.com/cdaein/ssam) - Creative coding wrapper and helper.

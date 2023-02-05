@@ -1112,6 +1112,7 @@
 - [JS Graph Algorithms](https://github.com/chen0040/js-graph-algorithms)
 - [globrex](https://github.com/terkelg/globrex) - Glob to regular expression with support for extended globs.
 - [Warp.js](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser.
+- [is-animated](https://github.com/qzb/is-animated) - Checks if image is animated.
 
 ## Links
 

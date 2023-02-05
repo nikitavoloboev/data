@@ -2039,6 +2039,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [iomux](https://github.com/Netflix/go-iomux) - Unix domain network multiplexing for Go.
 - [selfupdate](https://github.com/gokrazy/selfupdate) - Implements the standard client for the gokrazy Update System (GUS).
 - [starstruct](https://github.com/mna/starstruct) - Starlark to Go struct converter.
+- [go-set](https://github.com/hashicorp/go-set) - Generic set implementation for Go.
 
 ## Links
 
