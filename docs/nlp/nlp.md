@@ -816,3 +816,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Multimodal Chain-of-Thought Reasoning in Language Models (2023)](https://github.com/amazon-science/mm-cot) ([Paper](https://arxiv.org/abs/2302.00923))
 - [Prodigy OpenAI recipes](https://github.com/explosion/prodigy-openai-recipes) - Bootstrap annotation with zero- & few-shot learning via OpenAI GPT-3.
 - [Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees (2023)](https://arxiv.org/abs/2209.10492) ([Code](https://github.com/swarnaHub/SummarizationPrograms))
+- [Online Language Modelling Training Pipeline](https://github.com/huggingface/olm-training)

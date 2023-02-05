@@ -155,3 +155,4 @@ title: Zero knowledge proofs
 - [Snarky Sudoku](https://github.com/nalinbhardwaj/snarky-sudoku) - Zero-knowledge Sudoku using zk-SNARKs.
 - [Tornado Cats](https://github.com/minaminao/tornado-cats) - Book for learning zero-knowledge applications and decentralized mixing through the creation of a simple mixer protocol based on Tornado Cash.
 - [Zero Knowledge Message Board](https://github.com/nulven/zk-polling)
+- [Spartan-ecdsa](https://github.com/personaelabs/spartan-ecdsa) - Fastest open-source method to verify ECDSA (secp256k1) signatures in zero-knowledge.

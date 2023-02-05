@@ -612,3 +612,4 @@ all: unset
 - [dprint-plugin-css](https://github.com/disrupted/dprint-plugin-css) - Fast CSS code formatting using dprint.
 - [CSS Pattern: Fancy backgrounds with CSS gradients](https://css-pattern.com/) ([Code](https://github.com/Afif13/CSS-Pattern))
 - [skribble](https://github.com/ifiokjr/skribble) - Fully typed atomic CSS compiler for rust, node, deno and the browser.
+- [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/)

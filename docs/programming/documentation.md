@@ -218,3 +218,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Plus](https://www.plusdocs.com/) - Self Updating Screenshots. ([HN](https://news.ycombinator.com/item?id=34416386))
 - [DocAsker](https://www.docasker.com/) - Use LLMs to ask documentation questions. ([HN](https://news.ycombinator.com/item?id=34595180))
 - [DocsGPT](https://github.com/arc53/docsgpt) - Use documentation and asks questions directly with DocsGPT. ([HN](https://news.ycombinator.com/item?id=34648266))
+- [Paper QA](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from docs.

@@ -171,3 +171,4 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [Mastodon Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) - Synchronizes posts from Mastodon to Twitter and back.
 - [Mastodon Archive](https://github.com/kensanata/mastodon-archive) - Archive your statuses, favorites and media using the Mastodon API.
 - [TootSDK](https://github.com/TootSDK/TootSDK) - Cross-platform Swift library for the Mastodon API.
+- [Building Mastodon bots with GitHub Actions and toot (2023)](https://til.simonwillison.net/mastodon/mastodon-bots-github-actions)

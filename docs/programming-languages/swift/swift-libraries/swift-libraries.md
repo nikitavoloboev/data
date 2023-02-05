@@ -1417,6 +1417,8 @@
 - [SimulatorServices](https://github.com/brightdigit/SimulatorServices) - Swift Interface into simctl.
 - [CardinalKit](https://github.com/StanfordBDHG/CardinalKit) - Open-source framework for rapid development of modern, interoperable digital health applications. ([Template](https://github.com/StanfordBDHG/CardinalKitTemplateApplication))
 - [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) - Lightweight wrapper for UserDefaults/NSUserDefaults that adds an additional layer of AES-256 encryption for enhanced security.
+- [LemonSqueezy](https://github.com/mauryaratan/lemonsqueezy-swift) - Async Swift library for Lemon Squeezy.
+- [SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - Easy to use Swift wrapper around iCloud Drive.
 
 ## Other (not lib)
 

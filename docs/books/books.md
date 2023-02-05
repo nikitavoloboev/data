@@ -361,6 +361,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Bookshelf - Kent Hendricks](https://kenthendricks.com/bookshelf/)
 - [Ask HN: What are you looking forward to reading in 2023?](https://news.ycombinator.com/item?id=34300803)
 - [Ask HN: Books that teach programming by building a series of small projects? (2023)](https://news.ycombinator.com/item?id=34412069)
+- [Great Books Reading List and Curriculum | St. John's College](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list)
 
 ## Interesting Prose Books
 

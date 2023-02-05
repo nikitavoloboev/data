@@ -788,6 +788,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [media-group](https://github.com/muxinc/media-group) - MediaController which can be used to sync and control multiple audio / video elements.
 - [fast-querystring](https://github.com/anonrig/fast-querystring) - Fast query-string parser and stringifier.
 - [Upstash RateLimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes.
+- [Typed Event Target](https://github.com/worker-tools/typed-event-target)
 
 ## Links
 

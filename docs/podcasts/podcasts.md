@@ -273,3 +273,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcst Web](https://www.podcst.app/) - Modern PWA to listen to podcasts. ([Code](https://github.com/shantanuraj/podcst-web))
 - [Podcst API](https://github.com/shantanuraj/podcst-api) - Thin wrapper around the iTunes Search API.
 - [Podcast Summarizer](https://github.com/FanaHOVA/podcast-summarizer) - OpenAI Whisper + davinci for podcast summarization.
+- [Podcast Search](https://podsearch.david-smith.org/) - Whisper Generated Transcripts Shows.
