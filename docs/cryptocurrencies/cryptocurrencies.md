@@ -317,3 +317,4 @@ I use [hardware wallets](https://www.reddit.com/r/ethereum/comments/zc6qva/for_g
 - [SealVault](https://github.com/sealvault/sealvault) - Web3 key manager app with automated transaction approval.
 - [Decentralized app design: first aid for common dApp UI pains (2022)](https://evilmartians.com/chronicles/decentralized-app-design-first-aid-common-dapp-ui-pains)
 - [Web3Privacy](https://github.com/Msiusko/web3privacy) - 350+ privacy projects empowering Web3.
+- [Binance Rust](https://github.com/Igosuki/binance-rs-async) - Async client for the Binance APIs.

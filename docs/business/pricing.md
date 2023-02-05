@@ -112,3 +112,4 @@ I personally like the model where you buy something and you own the copy and get
 - [Ask HN: What's a good business model for selling standalone software (2022)](https://news.ycombinator.com/item?id=33645489)
 - [Alternatives to doing discounts for software](https://twitter.com/ankurnagpal/status/1594719317081444354)
 - [Ask HN: Anyone tired of everything being a subscription now? (2022)](https://news.ycombinator.com/item?id=34041962)
+- [Usage-Based Billing Is Way Too Hard - How the Warehouse Makes It Easy (2023)](https://hightouch.com/blog/automated-billing) ([Tweet](https://twitter.com/tejasmanohar/status/1620500903341228032))

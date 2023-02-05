@@ -286,6 +286,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Ask HN: Great text based games to play? (2023)](https://news.ycombinator.com/item?id=34469154)
 - [PS5 Hidden Gems (2023)](https://www.reddit.com/r/PS5/comments/10jgpmd/what_games_are_your_hidden_gems/)
 - [What do you feel the best looking PS5 games are so far? (2023)](https://www.reddit.com/r/PS5/comments/10rx185/what_do_you_feel_the_best_looking_ps5_games_are/)
+- [Games similar to Last of Us](https://www.reddit.com/r/thelastofus/comments/10ub6sc/hi_i_just_finished_tlou_2_walkthrough_and_idk/)
 
 ## Links
 

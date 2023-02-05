@@ -77,6 +77,7 @@
 - [Ecto.ERD](https://github.com/fuelen/ecto_erd) - Mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.
 - [Flop](https://github.com/woylie/flop) - Filtering, ordering and pagination for Ecto.
 - [EctoDbg](https://github.com/akoutmos/ecto_dbg) - Utility to format and output Ecto queries.
+- [Clickhousex](https://github.com/clickhouse-elixir/clickhousex) - ClickHouse database driver to connect with Elixir application by HTTP interface.
 
 ## Test
 
@@ -283,6 +284,8 @@
 - [Wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [Toolshed](https://github.com/elixir-toolshed/toolshed) - Toolshed of IEx helpers.
 - [Briefly](https://github.com/CargoSense/briefly) - Simple, robust temporary file support for Elixir.
+- [Tria](https://github.com/hissssst/tria) - Optimizing compiler for Elixir.
+- [Pathex](https://github.com/hissssst/pathex) - Library for performing fast actions with nested data structures in Elixir.
 
 ## Links
 

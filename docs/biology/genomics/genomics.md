@@ -246,3 +246,4 @@ title: Genomics
 - [spacepile](https://github.com/brentp/spacepile) - Convert reads from repeated measures of same piece of DNA into spaced matricies for deep learners.
 - [NGSNGS](https://github.com/RAHenriksen/NGSNGS) - Next Generation Simulator for Next Generator Sequencing Data.
 - [hgvs](https://github.com/biocommons/hgvs) - Python library to parse, format, validate, normalize, and map sequence variants.
+- [Gattaca is still pertinent 25 years later (2022)](https://www.nature.com/articles/s41588-022-01242-5) ([HN](https://news.ycombinator.com/item?id=34667067))

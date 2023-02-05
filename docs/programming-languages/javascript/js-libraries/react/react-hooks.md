@@ -43,6 +43,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Alveron](https://github.com/robinweser/alveron) - Elm & Reason inspired state management for React.
 - [use-valtio](https://github.com/dai-shi/use-valtio) - Custom hook to use Valtio proxy state.
 - [zustand-querystring](https://github.com/nitedani/zustand-querystring) - Zustand middleware that syncs the store with the querystring.
+- [Geschichte](https://github.com/BowlingX/geschichte) - Zustand and immer based hook to manage query parameters.
 
 ## DB
 

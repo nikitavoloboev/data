@@ -10,6 +10,8 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) & [Transformer Recipes](https://github.com/dair-ai/Transformers-Recipe) are great reads.
 
+[XLA](https://github.com/openxla/xla) is interesting ML compiler.
+
 ## Notes
 
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
