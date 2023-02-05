@@ -657,3 +657,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pgpq](https://github.com/adriangb/pgpq) - Stream Arrow data into Postgres.
 - [DB Webhooks](https://github.com/portola-labs/db-webhooks) - Utility for Postgres that triggers webhooks when rows are inserted, updated, or deleted.
 - [Will Postgres Use My Index? Hypothetical Indexing for Postgres (2023)](https://www.crunchydata.com/blog/will-postgres-use-my-index-hypothetical-indexing-with-postgres)
+- [pg-diff-sync](https://github.com/wmfs/pg-diff-sync) - Takes two objects that describe the structure of a database and produces the PostgreSQL statements required to get from one to the other.

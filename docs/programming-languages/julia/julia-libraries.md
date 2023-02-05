@@ -828,6 +828,7 @@
 - [CommutativeRings.jl](https://github.com/KlausC/CommutativeRings.jl) - CAS, Commutative Rings, Fraction Fields, Quotient Rings, Polynomial Rings, Galois Fields.
 - [MapTiles](https://github.com/JuliaGeo/MapTiles.jl) - Work with tiled web maps in Julia.
 - [MakiePublication.jl](https://github.com/liuyxpp/MakiePublication.jl) - Julia package for producing publication quality figures based on Makie.jl.
+- [TupleTools.jl](https://github.com/Jutho/TupleTools.jl) - Type stable methods for small tuples.
 
 ## Links
 

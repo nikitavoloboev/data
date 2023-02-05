@@ -163,3 +163,4 @@ title: Racket
 - [Intermediate Student with Lambda (ISL+) Enhanced with Specification support via Quickcheck](https://github.com/dbp/isl-spec)
 - [Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/)
 - [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
+- [Safe Foreign Callouts from Racket to Swift (2023)](https://defn.io/2023/02/04/racket-foreign-callouts-to-swift/)

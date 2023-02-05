@@ -347,7 +347,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [lossy](https://github.com/cevatbarisyilmaz/lossy) - Go package to simulate bandwidth, latency and packet loss for net.PacketConn and net.Conn interfaces.
 - [net](https://github.com/golang/net) - Supplementary Go networking libraries.
 - [Swag](https://github.com/go-openapi/swag) - Helper functions for go-openapi and go-swagger projects.
-- [Go JOSE](https://github.com/square/go-jose) - Implementation of JOSE standards (JWE, JWS, JWT) in Go.
+- [Go JOSE](https://github.com/go-jose/go-jose) - Implementation of JOSE standards (JWE, JWS, JWT) in Go.
 - [gorouter](https://github.com/vardius/gorouter) - Go Server/API micro framework, HTTP request router, multiplexer, mux.
 - [graceful](https://github.com/ory/graceful) - Best practice http server set up that supports graceful shutdown.
 - [Req](https://github.com/imroc/req) - Simplified Go HTTP client library with Black Magic, Less code and More efficiency.

@@ -141,3 +141,4 @@ title: Phoenix framework
 - [Async processing in LiveView (2023)](https://fly.io/phoenix-files/liveview-async-task/)
 - [VPS](https://github.com/axelson/vps) - Ties together 4 different Phoenix applications and runs them all on a single instance of the BEAM that is running Nerves on a Vultr.
 - [Phoenix.HTML](https://github.com/phoenixframework/phoenix_html) - Helpers to generate and manipulate HTML contents.
+- [Ecto SQLite3 Extras](https://github.com/orsinium-labs/ecto_sqlite3_extras) - Helpful queries and Phoenix Live Dashboard integration for SQLite.

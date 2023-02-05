@@ -525,3 +525,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [ensemble](https://github.com/JBetz/ensemble) - High level audio engine for building DAWs.
 - [Audio Generation Evaluation](https://github.com/haoheliu/audioldm_eval) - Toolbox aims to unify audio generation model evaluation for easier future comparison.
 - [SuperCollider Tree Sitter](https://github.com/madskjeldgaard/tree-sitter-supercollider) - SuperCollider grammar for the tree-sitter code parser.
+- [The founder of Teenage Engineering opens up to his creative space](https://scandinavianmind.com/feature/human-touch-interview-jesper-kouthoofd-teenage-engineering) ([HN](https://news.ycombinator.com/item?id=34664513))

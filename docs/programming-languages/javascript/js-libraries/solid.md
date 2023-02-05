@@ -213,3 +213,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [Esbuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid) - Plugin to compile solid-js jsx components with esbuild.
 - [Demystifying SolidJS' JSX (2023)](https://www.youtube.com/watch?v=5du6jBlryIc)
 - [Learn SolidJS Basics in 4 minutes (2023)](https://www.youtube.com/watch?v=8cAEk4mH3pk)
+- [Solid Material](https://github.com/ceopaludetto/solid-material) - High quality components built with Tailwind and Kobalte following Material You guidelines.

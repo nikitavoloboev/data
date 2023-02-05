@@ -169,3 +169,5 @@ Use [Elk](https://github.com/elk-zone/elk-native) as my Mastodon client.
 - [StreetPass](https://streetpass.social/) - Browser extension that helps you find your people on Mastodon. ([Code](https://github.com/tvler/streetpass))
 - [fediview](https://fediview.com/) - Get a digest of popular posts and boosts from your Mastodon (fediverse) timeline. ([Code](https://github.com/adamghill/fediview))
 - [Mastodon Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) - Synchronizes posts from Mastodon to Twitter and back.
+- [Mastodon Archive](https://github.com/kensanata/mastodon-archive) - Archive your statuses, favorites and media using the Mastodon API.
+- [TootSDK](https://github.com/TootSDK/TootSDK) - Cross-platform Swift library for the Mastodon API.

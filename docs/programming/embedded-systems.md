@@ -249,3 +249,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors (2023)](https://eitherway.io/posts/esp32-buyers-guide/) ([HN](https://news.ycombinator.com/item?id=34653729))
 - [simavr](https://github.com/buserror/simavr) - Lean, mean and hackable AVR simulator for Linux & macOS.
 - [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async HTTP and WebSocket Server for ESP8266 Arduino.
+- [The cheapest flash microcontroller you can buy is actually an Arm Cortex-M0+ (2023)](https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/) ([HN](https://news.ycombinator.com/item?id=34660204))

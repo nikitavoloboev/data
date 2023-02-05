@@ -36,3 +36,4 @@
 - [Deuces](https://github.com/worldveil/deuces) - Pure Python poker hand evaluation library.
 - [Favorite poker movies](https://www.reddit.com/r/poker/comments/yy0e0u/favorite_poker_movies/)
 - [Noam Brown: AI vs Humans in Poker and Games of Strategic Negotiation (2022)](https://www.youtube.com/watch?v=2oHH4aClJQs)
+- [WASM Postflop](https://github.com/b-inary/wasm-postflop) - Free and open-source GTO solver for Texas hold'em poker that works on web browsers.

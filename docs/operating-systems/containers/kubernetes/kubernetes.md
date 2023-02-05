@@ -917,3 +917,4 @@ title: Kubernetes
 - [OpenID Connect Webhook Authenticator for Kubernetes](https://github.com/gardener/oidc-webhook-authenticator)
 - [cloudtty](https://github.com/cloudtty/cloudtty) - Kubernates Cloud Shell (Web Terminal) Operator.
 - [NVIDIA Driver Manager For Kubernetes](https://github.com/NVIDIA/k8s-driver-manager)
+- [kube-image-keeper](https://github.com/enix/kube-image-keeper) - Container image caching system for Kubernetes.

@@ -1136,3 +1136,4 @@
 - [Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation (2023)](https://arxiv.org/abs/2206.07771) ([Code](https://github.com/L-YeZhu/CDCD))
 - [SEGA: Instructing Diffusion using Semantic Dimensions (2023)](https://arxiv.org/abs/2301.12247) ([Code](https://github.com/ml-research/semantic-image-editing))
 - [Dreamix: Video Diffusion Models are General Video Editors (2023)](https://arxiv.org/abs/2302.01329) ([Web](https://dreamix-video-editing.github.io/))
+- [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis (2023)](https://arxiv.org/abs/2301.13430) ([Code](https://github.com/yerfor/GeneFace))
