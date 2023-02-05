@@ -619,6 +619,7 @@
 - [Assertables](https://github.com/SixArm/assertables-rust-crate) - Rust crate of assert macros for testing.
 - [assert2](https://github.com/de-vri-es/assert2-rs) - All-purpose assert!(...) and check!(...) macros, inspired by Catch2.
 - [speculoos](https://github.com/oknozor/speculoos) - Fluent test assertions for Rust.
+- [Test generator](https://github.com/frehberg/test-generator) - Procedural macro attributes that generates multiple parametrized tests using one body with different resource input parameters.
 
 ## Error
 
@@ -785,6 +786,7 @@
 - [ALSA-rs](https://github.com/diwic/alsa-rs) - Safe wrappers for ALSA, most common API for accessing audio devices on Linux.
 - [Rust Landlock](https://github.com/landlock-lsm/rust-landlock) - Rust library for the Linux Landlock sandboxing feature.
 - [devicemapper-rs](https://github.com/stratis-storage/devicemapper-rs) - Rust library for using Linux devicemapper.
+- [linux-raw-sys](https://github.com/sunfishcode/linux-raw-sys) - Generated bindings for Linux's userspace API.
 
 ## Embedded
 
@@ -2619,6 +2621,7 @@
 - [JSON-RPC-RS](https://github.com/harlanc/jsonrpc2-rs) - JSON-RPC 2.0 client/server library in rust.
 - [Assets-manager](https://github.com/a1phyr/assets_manager) - Conveniently load, cache, and reload external resources.
 - [const_env](https://github.com/EkardNT/const_env) - Configure const and static items by environment variables.
+- [io-arrays](https://github.com/sunfishcode/io-arrays) - Random-access I/O.
 
 ## Cargo Plugins
 

@@ -221,4 +221,4 @@
 - [Pylette](https://github.com/qTipTip/Pylette) - Python library for extracting color palettes from supplied images.
 - [Linear Style](https://linear.style/) - Index for Linear themes. ([Code](https://github.com/alii/linear-style))
 - [Get-Image-Colors](https://github.com/colorjs/get-image-colors) - Extract colors from GIF, PNG, JPG, and SVG images.
-- [poline](https://github.com/meodai/poline) - Color palette generator mico-lib.
+- [Poline](https://meodai.github.io/poline/) - Esoteric color palette generator. ([Code](https://github.com/meodai/poline)) ([HN](https://news.ycombinator.com/item?id=34662722))

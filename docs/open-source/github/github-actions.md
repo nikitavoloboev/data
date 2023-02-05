@@ -284,6 +284,7 @@ title: GitHub actions
 - [Dependent Issues](https://github.com/z0al/dependent-issues) - GitHub Action for marking issues as dependent on another.
 - [Pull Request Comment Branch](https://github.com/xt0rted/pull-request-comment-branch) - Get the head ref and sha of a pull request comment.
 - [Cosign Installer](https://github.com/sigstore/cosign-installer)
+- [setup-bin](https://github.com/supplypike/setup-bin) - Sets up a binary in $PATH for use in actions.
 
 ## Go
 

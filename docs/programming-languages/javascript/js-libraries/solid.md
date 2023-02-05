@@ -8,7 +8,7 @@ title: SolidJS
 
 Using Solid for all my web apps and static sites. Love how it takes all the [best parts](https://www.youtube.com/watch?v=qB5jK-KeXOs) of [React](../js-libraries/react/react.md) (component tree model with one way data flow & JSX) but [does it better](https://www.youtube.com/watch?v=UhGV8yYnvQE) due to [fine grained reactivity ](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) & avoiding VDOM thus being [much faster than React](https://twitter.com/nikitavoloboev/status/1528479450828087299).
 
-[Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos) ([SolidJS: Past, Present, Future](https://www.youtube.com/watch?v=dOgnQ9SuKYk) is insightful, especially part about [future focus](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s)).
+[Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solid](https://www.youtube.com/c/RyanCarniato9/videos) ([SolidJS: Past, Present, Future](https://www.youtube.com/watch?v=dOgnQ9SuKYk) is insightful, especially part about [future focus](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s)).
 
 [Solid Start](https://github.com/solidjs/solid-start) or better [Create JD App](https://github.com/OrJDev/create-jd-app) is great starter template. Trying to [make Solid Start work/deploy on Deno easily](https://github.com/solidjs/solid-start/tree/main/packages/start-deno).
 
@@ -212,3 +212,4 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 - [SolidJS in React? Reconciling Disparate Worlds (2023)](https://www.youtube.com/watch?v=p9pwHyM5Z98)
 - [Esbuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid) - Plugin to compile solid-js jsx components with esbuild.
 - [Demystifying SolidJS' JSX (2023)](https://www.youtube.com/watch?v=5du6jBlryIc)
+- [Learn SolidJS Basics in 4 minutes (2023)](https://www.youtube.com/watch?v=8cAEk4mH3pk)

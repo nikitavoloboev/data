@@ -111,3 +111,4 @@ Not parent yet but did like this [advice on fatherhood](https://twitter.com/simo
 - [Movies about being great dad (2023)](https://www.reddit.com/r/MovieSuggestions/comments/104fqcu/i_am_a_soon_to_be_father_looking_to_learn_lessons/)
 - [Ask HN: What's your approach to raising kids? (2023)](https://news.ycombinator.com/item?id=34577487)
 - [YouTube has become the world's nanny (2023)](https://qz.com/youtube-has-become-the-worlds-nanny-1850047610) ([HN](https://news.ycombinator.com/item?id=34598851))
+- [Advice on having children](https://twitter.com/simonsarris/status/1622053679825051651)

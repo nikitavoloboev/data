@@ -769,3 +769,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [The Magic of Small Databases (2023)](https://tomcritchlow.com/2023/01/27/small-databases/) ([HN](https://news.ycombinator.com/item?id=34558054))
 - [Client-side reactive databases (2023)](https://twitter.com/maccaw/status/1619714277715378178)
 - [2023 State of Databases for Serverless & Edge](https://leerob.io/blog/backend)
+- [How to protect your database (from yourself) (2023)](https://www.youtube.com/watch?v=Rm-OuNnq6Xo)
