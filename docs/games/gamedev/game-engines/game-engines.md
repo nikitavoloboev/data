@@ -139,6 +139,7 @@
 - [ZyeWare](https://github.com/zyebytevt/zyeware) - Simple, general purpose 2D and 3D game engine, written in D.
 - [U3D](https://github.com/u3d-community/U3D) - Open-source, cross-platform 2D and 3D game engine built in C++.
 - [TinyEngine](https://github.com/weigert/TinyEngine) - Tiny OpenGL Wrapper / 3D Engine in C++.
+- [Indigo](https://github.com/PurpleKingdomGames/indigo) - Game engine written in Scala for functional programmers.
 
 ## Physics engines
 
