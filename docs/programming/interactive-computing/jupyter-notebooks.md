@@ -245,3 +245,4 @@ title: Jupyter Notebooks
 - [anywidget](https://github.com/manzt/anywidget) - Custom Jupyter widgets made easy.
 - [Jupyter-FS](https://github.com/jpmorganchase/jupyter-fs) - File system-like contents manager for multiple backends in Jupyter.
 - [Jupyter Notebook Viewer for macOS](https://github.com/tuxu/nbviewer-app)
+- [jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix. ([Docs](https://jupyenv.io/documentation/getting-started/)) ([0.1](https://www.tweag.io/blog/2023-02-02-jupyenv-0-1-0/))
