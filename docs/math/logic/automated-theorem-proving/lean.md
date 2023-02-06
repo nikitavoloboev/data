@@ -132,3 +132,4 @@ title: Lean
 - [Mechanizing Modern Mathematics (2023)](https://www.typetheoryforall.com/2023/01/16/26-Kevin-Buzzard.html#07a08a85)
 - [HN: Lean (2023)](https://news.ycombinator.com/item?id=34456573)
 - [WidgetKit](https://github.com/EdAyers/WidgetKit) - Library of user interface components for Lean 4.
+- [LeanInk](https://github.com/leanprover/LeanInk) - Command line helper tool for Alectryon which aims to ease the integration of Lean 4.

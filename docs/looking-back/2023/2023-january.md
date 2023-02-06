@@ -8,4 +8,4 @@ Nor do I currently have any income to make any payments. I had my share of [depr
 
 I am trying my best to get [LA](https://github.com/learn-anything/learn-anything) started before I physically won't be able to do anything.
 
-In other less depressive news, [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show. The third episode was [too good](https://www.youtube.com/watch?v=tTI4a4Da74o).
+In other less depressive news, [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show. The third episode was [touching](https://www.youtube.com/watch?v=tTI4a4Da74o).
