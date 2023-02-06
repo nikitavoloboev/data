@@ -141,3 +141,4 @@ title: Xcode
 - [Bazelize](https://github.com/XCodeBazelize/Bazelize) - CLI tool turn your Xcode project to Bazel.
 - [XcodeMigrate](https://github.com/XcodeMigrate/XcodeMigrate) - Generate Bazel BUILD files from Xcode projects.
 - [Squirrel](https://github.com/aheze/Squirrel) - Enable scrolling in the Xcode Simulator.
+- [XCBBuildServiceProxyKit](https://github.com/MobileNativeFoundation/XCBBuildServiceProxyKit) - Framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.

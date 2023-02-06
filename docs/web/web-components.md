@@ -126,3 +126,4 @@ title: Web Components
 - [Ardi](https://github.com/jameslovallo/ardi) - Makes it easy to create reactive custom elements that work with any website or JavaScript framework. ([Docs](https://ardi.netlify.app/))
 - [hydron](https://github.com/loreanvictor/hydron) - SSR for Web Components.
 - [Redefine Custom Elements](https://github.com/caridy/redefine-custom-elements) - Patches the global custom elements registry to allow re-defining or reload a custom element.
+- [lit-transition](https://github.com/sijakret/lit-transition) - Directive for animated transitions in lit-html.
