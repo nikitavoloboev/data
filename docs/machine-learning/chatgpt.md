@@ -89,3 +89,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Jailbreaking ChatGPT with Dan](https://twitter.com/venturetwins/status/1622243944649347074) ([HN](https://news.ycombinator.com/item?id=34676043))
 - [What do you do with ChatGPT? (2023)](https://www.reddit.com/r/ChatGPT/comments/10ujeua/what_do_you_do_with_chatgpt_please_share_top_10/)
 - [GPTO](https://github.com/alanvardy/gpto) - Unofficial OpenAI GPT3 Terminal Client.
+- [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot)
