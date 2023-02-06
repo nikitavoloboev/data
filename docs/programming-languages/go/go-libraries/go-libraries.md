@@ -655,6 +655,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [wasmexec](https://github.com/prep/wasmexec) - Runtime-agnostic implementation of Go's wasm_exec.js in Go.
 - [Waggy](https://github.com/syke99/waggy) - Dead simple, easy-to-use library for writing WAGI (Web Assembly Gateway Interface) API handlers in Go.
 - [tinyjson](https://github.com/CosmWasm/tinyjson) - Fast and easy way to marshal/unmarshal Go structs to/from JSON to use with TinyGo.
+- [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) - Run Go WASM tests easily in your browser.
 
 ## GUI
 

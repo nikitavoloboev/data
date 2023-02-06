@@ -329,6 +329,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Olivier Faure](https://poignardazur.github.io/)
 - [Andy Bell](https://andy-bell.co.uk/blog/)
 - [Chrome Developers](https://developer.chrome.com/blog/)
+- [Vincent Bernat](https://vincent.bernat.ch/en/blog)
 
 ## Notes
 

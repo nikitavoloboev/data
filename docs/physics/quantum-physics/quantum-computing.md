@@ -186,3 +186,4 @@ title: Quantum computing
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [Automated Quantum Software Engineering: why? what? how? (2022)](https://arxiv.org/abs/2212.00619)
 - [OQuPy](https://github.com/tempoCollaboration/OQuPy) - Python 3 package to efficiently compute non-Markovian open quantum systems.
+- [Circuit Knitting Toolbox](https://github.com/Qiskit-Extensions/circuit-knitting-toolbox)

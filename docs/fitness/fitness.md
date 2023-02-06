@@ -126,3 +126,4 @@ When I get a chance, I will setup [gymnastics rings](https://www.gornation.com/b
 - [Fix Bad Posture in 22 Days](https://www.youtube.com/watch?v=XxSgdX7lX6E)
 - [The Cheapest Way to Build Muscle & Lose Fat](https://www.youtube.com/watch?v=B-RpGm77loI)
 - [Foundational Fitness Protocol](https://hubermanlab.com/foundational-fitness-protocol/)
+- [Why the conventional wisdom on how to grow muscles is wrong](https://mennohenselmans.com/optimal-program-design/) ([HN](https://news.ycombinator.com/item?id=34677471))

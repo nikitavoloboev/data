@@ -156,3 +156,4 @@ title: Zero knowledge proofs
 - [Tornado Cats](https://github.com/minaminao/tornado-cats) - Book for learning zero-knowledge applications and decentralized mixing through the creation of a simple mixer protocol based on Tornado Cash.
 - [Zero Knowledge Message Board](https://github.com/nulven/zk-polling)
 - [Spartan-ecdsa](https://github.com/personaelabs/spartan-ecdsa) - Fastest open-source method to verify ECDSA (secp256k1) signatures in zero-knowledge.
+- [LambdaWorks](https://github.com/lambdaclass/lambdaworks) - Library for kids who want to learn how to do SNARKs and learn other cryptographic stuff too.

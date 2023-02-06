@@ -306,3 +306,4 @@
 - [HotShot](https://github.com/EspressoSystems/HotShot) - BFT consensus protocol based off of HotStuff, with the addition of proof-of-stake and VRF committee elections.
 - [Armstrong distributed systems](https://github.com/stevana/armstrong-distributed-systems)
 - [What is consensus](https://twitter.com/AlexMillerDB/status/1592470377284112385)
+- [Raft algorithm concept prove application in Go](https://github.com/kkdai/raft)

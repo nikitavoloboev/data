@@ -101,3 +101,4 @@
 - [Kubernetes Deployment Restart Controller](https://github.com/xing/kubernetes-deployment-restart-controller) - Watches ConfigMaps and Secrets referenced by Deployments and StatefulSets and triggers restarts as soon as configuration or secret values change.
 - [LBConfig Operator](https://github.com/carlosedp/lbconfig-operator) - Kubernetes/Openshift Operator to configure external Load Balancers.
 - [Kubernetes Operators in WebAssembly](https://github.com/IBCNServices/wasm-operator)
+- [Kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers.

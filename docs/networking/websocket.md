@@ -135,3 +135,4 @@ title: WebSocket
 - [Defined.fi](https://github.com/smolstudios/defined-realtime-websocket) - Real time WebSocket SDK.
 - [wsproxy](https://github.com/neondatabase/wsproxy) - Lightweight WebSocket->TCP proxy.
 - [Serverless chat application using ApiGateway Websockets](https://github.com/aws-samples/websocket-chat-application)
+- [Mio WebSocket Server](https://github.com/sergey-melnychuk/mio-websocket-server) - Implementation of WebSocket server with mio and parser combinators.
