@@ -2633,6 +2633,7 @@
 - [little_exif](https://github.com/TechnikTobi/little_exif) - Little library for reading and writing EXIF data in pure Rust.
 - [Rattler](https://github.com/mamba-org/rattler) - Common functionality used within the Conda ecosystem.
 - [concache](https://github.com/saligrama/concache) - Linked-list based, lock-free concurrent hashmap in Rust.
+- [image-tiff](https://github.com/image-rs/image-tiff) - TIFF decoding and encoding library in pure Rust.
 
 ## Cargo Plugins
 
