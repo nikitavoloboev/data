@@ -118,3 +118,4 @@ title: Conflict-free replicated data type
 - [CRAttributes](https://github.com/munhitsu/CRAttributes) - CRDT on CloudKit.
 - [Keep CALM and CRDT on](https://www.vldb.org/pvldb/vol16/p856-power.pdf) ([HN](https://news.ycombinator.com/item?id=34329779))
 - [Hocuspocus](https://github.com/ueberdosis/hocuspocus) - Y.js WebSocket backend.
+- [y-supabase](https://github.com/AlexDunmow/y-supabase) - Supabase Provider for Yjs.

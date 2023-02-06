@@ -52,6 +52,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## Web
 
+- [Zod Fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod.
 - [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs. ([Web](https://trpc.io/)) ([Tutorial](https://www.youtube.com/watch?v=Lam0cYOEst8)) ([HN](https://news.ycombinator.com/item?id=31285827))
 - [pretty-cache-header](https://github.com/jjenzz/pretty-cache-header) - Cache-control header utility that parses human readable time strings into seconds.
 - [Fastly/HTTP-Compute-JS](https://github.com/fastly/http-compute-js) - Library aiming to provide Node.js-compatible request and response objects.
@@ -791,6 +792,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Upstash RateLimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes.
 - [Typed Event Target](https://github.com/worker-tools/typed-event-target)
 - [seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values.
+- [Funtypes](https://github.com/ForbesLindesay/funtypes) - Runtime validation for static types.
 
 ## Links
 

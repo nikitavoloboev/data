@@ -271,3 +271,4 @@ title: OCaml libraries
 - [ocamlrep](https://github.com/facebook/ocamlrep) - Interop Ocaml and Rust code.
 - [LinOCaml](https://github.com/keigoi/linocaml) - Lightweight, monad-based linear types in OCaml, with a few syntax extensions.
 - [OCaml PPX Template](https://github.com/johnyob/ppx-template)
+- [Solver Service](https://github.com/ocurrent/solver-service) - OCurrent service for solving opam dependencies.

@@ -32,3 +32,4 @@ I go over my fitness routine [here](fitness.md).
 - [Leon Thorley - YouTube](https://www.youtube.com/c/CALIGLOBE/videos)
 - [Paul Twyman - YouTube](https://www.youtube.com/c/PaulTwyman/videos)
 - [Weight training at home](https://www.reddit.com/r/bodyweightfitness/comments/zk5wv1/weight_training_at_home/)
+- [Ask HN: Advice from people who strength train from home (2023)](https://news.ycombinator.com/item?id=34673880)

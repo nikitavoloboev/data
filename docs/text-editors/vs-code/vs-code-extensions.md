@@ -4,6 +4,8 @@ title: VS Code extensions
 
 # [VS Code](https://github.com/Microsoft/vscode) extensions
 
+Love [this VSCode extension starter](https://github.com/antfu/starter-vscode).
+
 Below is a list of extensions I use.
 
 ## Utility
@@ -285,6 +287,7 @@ Below is a list of extensions I use.
 - [Wingmate](https://marketplace.visualstudio.com/items?itemName=chrismwendt.wingmate) - SQL syntax highlighting and syntax error detection within strings in Go code. ([Code](https://github.com/chrismwendt/wingmate))
 - [SQL tagged template literals](https://marketplace.visualstudio.com/items?itemName=frigus02.vscode-sql-tagged-template-literals) ([Code](https://github.com/frigus02/vscode-sql-tagged-template-literals))
 - [mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
+- [VSCode PRQL](https://github.com/PRQL/prql-vscode) - Modern language for transforming data — a simple, powerful, pipelined SQL replacement.
 
 ## React
 

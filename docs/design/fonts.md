@@ -143,6 +143,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Mona Sans](https://github.com/github/mona-sans) - Variable font from GitHub.
 - [Sofia Sans](https://github.com/lettersoup/Sofia-Sans)
 - [Playfair](https://github.com/clauseggers/Playfair) - General purpose Open Source typeface family.
+- [Briem Hand](https://github.com/SorkinType/Briem-Hand) - Font family that reproduces the handwriting style of Gunnlaugur SE Briem.
 
 ## Notes
 
@@ -458,3 +459,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontmatrix](https://github.com/fontmatrix/fontmatrix) - Font management application.
 - [subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts with TrueType or CFF outlines.
 - [Pentiment | Lettermatic (2022)](https://lettermatic.com/custom/pentiment)
+- [Google Fonts project template](https://github.com/googlefonts/googlefonts-project-template) - Repository architecture example for a typeface design project.

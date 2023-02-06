@@ -196,3 +196,4 @@ I always value readability and extendability over being able to write/edit thing
 - [tw-to-css](https://github.com/vinicoder/tw-to-css) - Transform Tailwind classes to pure CSS.
 - [Tailwind Mistakes You're Probably Making (2023)](https://www.youtube.com/watch?v=QBajvZaWLXs)
 - [tailwind-variants](https://github.com/nextui-org/tailwind-variants) - Power of Tailwind combined with a first-class variant API.
+- [Tailwind Pseudo Elements](https://github.com/croutonn/tailwindcss-pseudo-elements) - TailwindCSS Plugin that adds variants of pseudo elements.

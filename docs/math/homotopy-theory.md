@@ -52,3 +52,5 @@ title: Homotopy theory
 - [Introduction to Homotopy Type Theory (LMFI 2022)](https://github.com/herbelin/LMFI-HoTT)
 - [Timeline of “foundational” advances in homotopy theory? (2022)](https://mathoverflow.net/questions/424853/timeline-of-foundational-advances-in-homotopy-theory) ([HN](https://news.ycombinator.com/item?id=31845898))
 - [Introduction to Homotopy Type Theory (2022)](https://arxiv.org/abs/2212.11082)
+- [Categories with families in HoTT](https://github.com/jaycech3n/CwF)
+- [Isabelle/HoTT](https://github.com/jaycech3n/Isabelle-HoTT) - Implementation of homotopy type theory in the interactive proof assistant Isabelle. ([Paper](https://arxiv.org/abs/1911.00399))

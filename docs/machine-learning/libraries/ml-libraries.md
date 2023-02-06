@@ -474,3 +474,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [fcmaes](https://github.com/dietmarwo/fast-cma-es) - Python 3 gradient-free optimization library.
 - [pyPESTO](https://github.com/ICB-DCM/pyPESTO) - Widely applicable and highly customizable toolbox for parameter estimation.
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+- [Parallelformers](https://github.com/tunib-ai/parallelformers) - Efficient Model Parallelization Toolkit for Deployment.

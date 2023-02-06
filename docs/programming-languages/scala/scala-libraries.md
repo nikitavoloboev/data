@@ -239,6 +239,7 @@
 - [Edomata](https://github.com/hnaderi/edomata) - Production ready event-driven automata for Scala, Scala.js and scala native.
 - [Ultraviolet](https://github.com/PurpleKingdomGames/ultraviolet) - Scala 3 to GLSL transpiler library.
 - [kinesis4cats](https://github.com/etspaceman/kinesis4cats) - Comprehensive Scala library for Kinesis.
+- [Systolic Array](https://github.com/hngenc/systolic-array) - DSL for Systolic Arrays.
 
 ## Links
 

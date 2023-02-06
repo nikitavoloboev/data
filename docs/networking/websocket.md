@@ -134,3 +134,4 @@ title: WebSocket
 - [Swift WebSocket](https://github.com/DanboDuan/swift-websocket) - Light WebSocket written in Swift base on Swift NIO.
 - [Defined.fi](https://github.com/smolstudios/defined-realtime-websocket) - Real time WebSocket SDK.
 - [wsproxy](https://github.com/neondatabase/wsproxy) - Lightweight WebSocket->TCP proxy.
+- [Serverless chat application using ApiGateway Websockets](https://github.com/aws-samples/websocket-chat-application)

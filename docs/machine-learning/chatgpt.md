@@ -12,9 +12,11 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 
 [RWKV](https://github.com/BlinkDL/RWKV-LM) model is great. [Open Assistant](https://github.com/LAION-AI/Open-Assistant) seems like a nice open alternative.
 
+There's lots of low hanging fruit prompts that you can make into great products. Like [Travel Advisor](https://twitter.com/dabit3/status/1622330852943319048) that is essentially a UI over [`what is an ideal itinerary for ${days} days in ${city}?` query](https://github.com/dabit3/gpt-travel-advisor/blob/31415cf89c822f51e192ec5111feddd6b9917b54/pages/api/get-itinerary.ts#L32).
+
 ## Interesting queries
 
-- [can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)
+- [Can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)
 - [Summarize tabular data](https://twitter.com/jaukia/status/1601569254998159362)
 - [Organize my notes into outline](https://twitter.com/danshipper/status/1611134727011844098)
 - [Music discovery assistant](https://twitter.com/nikitavoloboev/status/1613261011922083840)
@@ -84,3 +86,4 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 - [Medical ChatGPT](https://github.com/lucidrains/medical-chatgpt)
 - [Ask HN: Are you tired of reading ChatGPT headlines? (2023)](https://news.ycombinator.com/item?id=34657854)
 - [React Native ChatGPT](https://github.com/rgommezz/react-native-chatgpt)
+- [Jailbreaking ChatGPT with Dan](https://twitter.com/venturetwins/status/1622243944649347074) ([HN](https://news.ycombinator.com/item?id=34676043))

@@ -326,6 +326,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Roman Zaynetdinov](https://www.zaynetro.com/)
 - [Pema Malling](https://pema.dev/archive/)
 - [Marissa Montgomery](https://m15y.com/)
+- [Olivier Faure](https://poignardazur.github.io/)
+- [Andy Bell](https://andy-bell.co.uk/blog/)
+- [Chrome Developers](https://developer.chrome.com/blog/)
 
 ## Notes
 

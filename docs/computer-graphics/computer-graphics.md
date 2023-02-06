@@ -274,3 +274,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Generative Modelling of BRDF Textures from Flash Images (2021)](https://arxiv.org/abs/2102.11861) ([Code](https://github.com/henzler/neuralmaterial))
 - [Render engine for NeRFs](https://github.com/JamesPerlman/NeRFRenderCore)
 - [Quine](https://github.com/ekmett/quine) - Graphics experiments in Haskell.
+- [Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/) ([HN](https://news.ycombinator.com/item?id=34660580))

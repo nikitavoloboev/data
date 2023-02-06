@@ -214,3 +214,4 @@ title: RISC-V
 - [MIPS Rolls Out Its First RISC-V Processor Core (2023)](https://www.eejournal.com/article/mips-rolls-out-its-first-risc-v-processor-core-its-a-big-un/) ([Tweet](https://twitter.com/NickTernovoy/status/1614994623113400321))
 - [RISC-V Code Size Reduction Group](https://github.com/riscv/riscv-code-size-reduction)
 - [RISC-V Tests](https://github.com/riscv-software-src/riscv-tests)
+- [Hypocaust](https://github.com/KuangjuX/hypocaust) - Type-1 hypervisor run on RISC-V machine.

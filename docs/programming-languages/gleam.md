@@ -49,3 +49,4 @@
 - [sqlight](https://github.com/lpil/sqlight) - Use SQLite from Gleam.
 - [Incremental compilation, and hello Deno (2023)](https://gleam.run/news/v0.26-incremental-compilation-and-deno/)
 - [outil](https://github.com/fabjan/outil) - Library for writing command line tools.
+- [Nakai](https://github.com/nakaibuild/nakai) - Just-in-time functional rendering framework for building web apps with Gleam.

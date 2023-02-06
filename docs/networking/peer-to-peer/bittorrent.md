@@ -155,3 +155,4 @@ title: BitTorrent
 - [Hellish](https://github.com/vaartis/hellish) - Torrent tracker.
 - [Pieces](https://github.com/eliasson/pieces) - BitTorrent client implemented in Python 3 using asyncio.
 - [QBittorrent v4.5.0: The Hitchhiker's Guide to Legible Text (2023)](https://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/) ([HN](https://news.ycombinator.com/item?id=34242863))
+- [Web Torrent Search](https://github.com/icodelifee/TorrentWebSearch) - Simple, fast and reliable torrent search engine built with Flutter and Go to find and download torrents.

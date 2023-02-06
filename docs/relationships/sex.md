@@ -2,7 +2,7 @@
 
 [Sex for over 30](https://www.reddit.com/r/sexover30/) & [HLCommunity](https://www.reddit.com/r/HLCommunity/) are fun subs to read. [David Buss's interview on Sex, Dating, Relationships, and Sex Differences](https://www.youtube.com/watch?v=sndW9hzX-wA) was fascinating.
 
-[Come as You Are](https://www.goodreads.com/en/book/show/22609341) & [She Comes First](https://www.goodreads.com/book/show/528985.She_Comes_First) are great books.
+[Come as You Are](https://www.goodreads.com/en/book/show/22609341) & [She Comes First](https://www.goodreads.com/book/show/528985.She_Comes_First) are great books. Together with [this thread](https://www.reddit.com/r/sex/comments/10ug9vi/women_what_things_made_your_best_sex_partner_your/).
 
 [SKYN Ultra Thin](https://skynfeel.com/collections/elite) are least bad condoms I found. It's best to [get tested](https://www.youtube.com/watch?v=yEQclXsXhYk) though and use other birth controls like [NuvaRing](https://www.nuvaring.com/) or [copper UID](https://www.mayoclinic.org/tests-procedures/paragard/about/pac-20391270) once you find a [stable partner](relationships.md). Or get a [vasectomy](https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/) once you're certain you don't want any more kids.
 
@@ -172,3 +172,4 @@
 - [What are the chances of getting Herpes?](https://www.reddit.com/r/sexover30/comments/10ahey0/what_are_the_chances_of_getting_herpes/)
 - [Advice on post divorce 38M](https://www.reddit.com/r/sexover30/comments/zzjgaa/im_getting_divorced_after_infidelity_38m_married/)
 - [Как делать кунилингус](https://twitter.com/capwell_cc/status/1615056345308270600)
+- [Women, what things made your best sex partner your best sex partner? (2023)](https://www.reddit.com/r/sex/comments/10ug9vi/women_what_things_made_your_best_sex_partner_your/)

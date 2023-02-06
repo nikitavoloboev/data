@@ -758,3 +758,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Create word clouds](https://github.com/isaackd/wcloud-dev)
 - [Insulation: first the body, then the home](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html)
 - [A manifesto on shower temperature control (2023)](https://benholmen.com/blog/shower-temperature-control/) ([HN](https://news.ycombinator.com/item?id=34611335))
+- [How countries look out for nuclear war danger (2023)](https://www.reddit.com/r/CredibleDefense/comments/10v60rf/comment/j7fmtc7/?context=3)

@@ -1036,3 +1036,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Learn unsafe Rust](https://github.com/google/learn_unsafe_rust)
 - [Improving Rust compile times to enable adoption of memory safety (2023)](https://www.memorysafety.org/blog/remy-rakic-compile-times/) ([Reddit](https://www.reddit.com/r/rust/comments/10s5nkq/improving_rust_compile_times_to_enable_adoption/)) ([HN](https://news.ycombinator.com/item?id=34639070))
 - [Rust Infrastructure automation](https://github.com/rust-lang/simpleinfra)
+- [Choosing where to deploy a Rust application (2023)](https://www.youtube.com/watch?v=6yQfL-1yWNQ)
+- [Choosing a Rust Web Framework (2023)](https://www.youtube.com/watch?v=NXkZPyQcNgY)

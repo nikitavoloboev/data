@@ -144,7 +144,7 @@ Use [Google Flights](https://www.google.com/travel/flights) to buy plane tickets
 - [The Earth Awaits](https://www.theearthawaits.com/) - Find Cities in Your Budget.
 - [Cheaper countries to live in (2022)](https://www.reddit.com/r/digitalnomad/comments/yvma1g/cheaper_countries/)
 - [What is the one thing or traveling "hack" you won't leave home without (2022)](https://www.reddit.com/r/solotravel/comments/z4420f/what_is_the_one_thing_or_traveling_hack_you_wont/)
-- [(1) Which of your hobbies have you traveled specifically for or that you enjoy doing while you travel?](https://www.reddit.com/r/solotravel/comments/zarw96/which_of_your_hobbies_have_you_traveled/)
+- [Which of your hobbies have you traveled specifically for or that you enjoy doing while you travel?](https://www.reddit.com/r/solotravel/comments/zarw96/which_of_your_hobbies_have_you_traveled/)
 - [The Maddening Mess of Airport Codes (2022)](https://www.youtube.com/watch?v=jfOUVYQnuhw) ([HN](https://news.ycombinator.com/item?id=33948915))
 - [Working Efficiently as a Digital Nomad (2022)](https://theari.dev/blog/working-efficiently-as-a-digital-nomad/)
 - [Airport Codes](https://airportcod.es/) - Making sense of those three-letter airport codes. ([Code](https://github.com/lynnandtonic/airport-codes))
@@ -158,3 +158,4 @@ Use [Google Flights](https://www.google.com/travel/flights) to buy plane tickets
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/) ([HN](https://news.ycombinator.com/item?id=34492052))
 - [Самое красивое место в котором вы были в жизни](https://twitter.com/ohhiiana/status/1619740412981420034)
 - [GPTravel Advisor](https://gpt-travel-advisor.vercel.app/) - Create a travel itinerary for any city in the world in just a few seconds. ([Code](https://github.com/dabit3/gpt-travel-advisor))
+- [Where to?](https://www.wheretoai.com/)

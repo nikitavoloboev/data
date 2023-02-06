@@ -16,7 +16,7 @@ I'd also love for something like [Nostr](../social-networks/nostr.md) or [Farcas
 
 I love the idea of freedom of speech, but not freedom of reach whereby anyone can have a voice but the platform won't boost hurtful or perhaps verifiably incorrect rhetoric. Twitter's [Community Notes](https://twitter.com/CommunityNotes) is great in that regard. Will see how Twitter fares at making this work.
 
-[Mastodon](../social-networks/mastodon.md) is interesting alternative but needs smoother onboarding, client UX and ability to have 'public likes' for it to ever make me want to use it more. I get a lot of my content from seeing likes of people I admire. Not to mention that with Mastodon, you still have to follow the rules of the server you joined, otherwise you get suspended with all content deleted same as Twitter.
+[Mastodon](../social-networks/mastodon.md) is interesting alternative but needs smoother onboarding, client UX and ability to have 'public likes' for it to ever make me want to use it more. I get a lot of my content from seeing likes of people I admire. Not to mention that with Mastodon, you still have to follow the rules of the server you joined, otherwise you get suspended with all content deleted same as Twitter. That said, [Elk client](https://github.com/elk-zone/elk) is gorgeous. And shows how much innovation can happen if all development was not done behind closed doors.
 
 I am trying to build my own [app with a network of people that's based on sharing your learnings and ideas](../ideas/learn-anything.md). You would be able to share notes, ideas in similar way I do here in this wiki but more streamlined. With everything being [open source](https://github.com/learn-anything/learn-anything).
 

@@ -402,3 +402,4 @@
 - [AirJet](https://www.froresystems.com/) - Solid-state chip for active device cooling. ([HN](https://news.ycombinator.com/item?id=34474120))
 - [CGRA-Flow](https://github.com/tancheng/CGRA-Flow) - Integrated framework for CGRA compilation, exploration, synthesis, and development.
 - [A Multi-Threaded Fast Hardware Compiler for HDLs (2023)](https://masc.soe.ucsc.edu/docs/cc2023_livehd.pdf)
+- [Gemmini](https://github.com/ucb-bar/gemmini) - Berkeley's Spatial Array Generator.

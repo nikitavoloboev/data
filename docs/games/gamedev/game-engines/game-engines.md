@@ -140,6 +140,7 @@
 - [U3D](https://github.com/u3d-community/U3D) - Open-source, cross-platform 2D and 3D game engine built in C++.
 - [TinyEngine](https://github.com/weigert/TinyEngine) - Tiny OpenGL Wrapper / 3D Engine in C++.
 - [Indigo](https://github.com/PurpleKingdomGames/indigo) - Game engine written in Scala for functional programmers.
+- [QCVM](https://github.com/JaycieErysdren/QCVM) - Bite-sized QuakeC VM written in C. ([HN](https://news.ycombinator.com/item?id=34672598))
 
 ## Physics engines
 

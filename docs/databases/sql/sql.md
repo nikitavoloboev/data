@@ -248,3 +248,4 @@ title: SQL
 - [RaySQL](https://github.com/andygrove/ray-sql) - Distributed SQL Query Engine in Python using Ray.
 - [SQL should be your default choice for data engineering pipelines (2023)](https://www.robinlinacre.com/recommend_sql/)
 - [Ask HN: How do you test SQL? (2023)](https://news.ycombinator.com/item?id=34602318)
+- [Enabling static analysis of SQL queries at Meta (2022)](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/)

@@ -128,3 +128,4 @@
 - [Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays (2002)](http://trout.me.uk/lisp/vlist.pdf) ([HN](https://news.ycombinator.com/item?id=33480031))
 - [Challenging algorithms and data structures every programmer should try (2022)](https://austinhenley.com/blog/challengingalgorithms.html)
 - [Data Structures & Algorithms for Coding Interview](https://github.com/SamirPaul1/DSAlgo)
+- [YClass](https://github.com/ItsEthra/yclass) - Program that allows you to inspect and recreate data structures of other processes.

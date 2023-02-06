@@ -1145,6 +1145,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Spherely](https://github.com/benbovy/spherely) - Python library for manipulation and analysis of geometric objects on the sphere.
 - [PySwarms](https://github.com/ljvmiranda921/pyswarms) - Research toolkit for particle swarm optimization in Python.
 - [maml](https://github.com/materialsvirtuallab/maml) - Python for Materials Machine Learning, Materials Descriptors, Machine Learning Force Fields, Deep Learning, etc.
+- [PyGlove](https://github.com/google/pyglove) - General-purpose library for Python object manipulation.
 
 ## Notes
 

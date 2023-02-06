@@ -317,3 +317,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Target Field for Reduced Variance Score Estimation (2023)](https://openreview.net/forum?id=WmIwYTd0YTF) ([Code](https://github.com/Newbeeer/stf))
 - [Lsmith](https://github.com/ddPn08/Lsmith) - StableDiffusionWebUI accelerated using TensorRT.
 - [Diffusion Models already have a Semantic Latent Space (2023)](https://arxiv.org/abs/2210.10960) ([Code](https://github.com/kwonminki/Asyrp_official))
+- [Stable Attribution](https://www.stableattribution.com/) ([HN](https://news.ycombinator.com/item?id=34670136))

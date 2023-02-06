@@ -66,3 +66,6 @@
 - [UVM Verilator](https://github.com/chipsalliance/uvm-verilator)
 - [Learning Verilog and FPGA (2023)](https://johanneshoff.com/learning-fpga/) ([HN](https://news.ycombinator.com/item?id=34308876))
 - [Silver](https://github.com/melt-umn/silver) - Attribute grammar-based programming language for composable language extensions.
+- [svinst](https://github.com/sgherbst/svinst) - Determines the modules declared and instantiated in a SystemVerilog file.
+- [svreal](https://github.com/sgherbst/svreal) - SystemVerilog library that makes it easy to perform real-number operations in a synthesizable fashion in SystemVerilog.
+- [svlint](https://github.com/dalance/svlint) - SystemVerilog linter.

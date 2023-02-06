@@ -283,6 +283,7 @@
 - [wasi_snapshot_preview1](https://github.com/bytecodealliance/preview2-prototyping) - Polyfill adapter for preview1-using wasm modules to call preview2 functions.
 - [WasmBox](https://github.com/drifting-in-space/wasmbox) - Turns running Rust code into a serializable data structure.
 - [leptos_aria](https://github.com/ifiokjr/leptos_aria) - Port of the react-aria ecosystem for the leptos framework.
+- [Scotch](https://github.com/ItsEthra/scotch) - Create WASM plugins easily in Rust.
 
 ## GUI
 
@@ -534,7 +535,7 @@
 - [guee](https://github.com/setzer22/guee) - GUI library for Rust.
 - [Polyhedron Operators](https://github.com/virtualritz/polyhedron-ops) - Implements the Conway Polyhedron Operators and their extensions by George W. Hart and others.
 - [NSI](https://github.com/virtualritz/nsi) - High level Rust bindings for Illumination Research’s Nodal Scene Interface.
-- [Masonry](https://github.com/PoignardAzur/masonry-rs) - Rust UI design toolkit.
+- [Masonry](https://github.com/PoignardAzur/masonry-rs) - Rust UI design toolkit. ([0.1 release](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)) ([HN](https://news.ycombinator.com/item?id=34671478))
 
 ## Games
 
@@ -2626,6 +2627,10 @@
 - [const_env](https://github.com/EkardNT/const_env) - Configure const and static items by environment variables.
 - [io-arrays](https://github.com/sunfishcode/io-arrays) - Random-access I/O.
 - [Versionize](https://github.com/firecracker-microvm/versionize) - Framework for version tolerant serializion/deserialization of Rust data structures.
+- [Handoff](https://github.com/Lucretiel/handoff) - Unbuffered, single-producer / single-consumer, async channel.
+- [Memflex](https://github.com/ItsEthra/memflex) - Memory hacking library.
+- [little_exif](https://github.com/TechnikTobi/little_exif) - Little library for reading and writing EXIF data in pure Rust.
+- [Rattler](https://github.com/mamba-org/rattler) - Common functionality used within the Conda ecosystem.
 
 ## Cargo Plugins
 
@@ -2951,3 +2956,4 @@
 - [FFI examples written in Rust](https://github.com/sn99/rust-ffi-examples)
 - [get-all-crates](https://github.com/dtolnay/get-all-crates) - Download .crate files of all versions of all crates from crates.io.
 - [zerus](https://github.com/wcampbell0x2a/zerus) - Lightweight binary to download only project required crates for offline crates.io mirror.
+- [Choosing a Rust Web Framework (2023)](https://www.youtube.com/watch?v=NXkZPyQcNgY)

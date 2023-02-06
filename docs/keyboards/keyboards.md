@@ -51,7 +51,7 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [ErgodoxE EZ](https://ergodox-ez.com/) - Ergonomic keyboard with open source firmware. ([HN](https://news.ycombinator.com/item?id=32764109))
 - [Dilemma](https://github.com/Bastardkb/Dilemma) - Vertical stagger low-profile keyboard with mods.
 - [Clavert Keyboard](https://github.com/thlintw/clavert) - Vertical, wireless, ergonomic split keyboard.
-- [Fulcrum](https://github.com/dschil138/Fulcrum) - Wireless ergonomic keyboard that features 5-way switch joysticks.
+- [Fulcrum](https://github.com/dschil138/Fulcrum) - Wireless ergonomic keyboard that features 5-way switch joysticks. ([HN](https://news.ycombinator.com/item?id=34656652))
 
 ## Interesting keycaps
 

@@ -829,6 +829,7 @@
 - [MapTiles](https://github.com/JuliaGeo/MapTiles.jl) - Work with tiled web maps in Julia.
 - [MakiePublication.jl](https://github.com/liuyxpp/MakiePublication.jl) - Julia package for producing publication quality figures based on Makie.jl.
 - [TupleTools.jl](https://github.com/Jutho/TupleTools.jl) - Type stable methods for small tuples.
+- [DelayDiffEq.jl](https://github.com/SciML/DelayDiffEq.jl) - Delay differential equation solvers for the SciML scientific machine learning ecosystem.
 
 ## Links
 

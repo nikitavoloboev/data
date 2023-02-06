@@ -519,3 +519,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Pair Programming with ChatGPT & Haskell (2023)](https://cdsmithus.medium.com/pair-programming-with-chatgpt-haskell-1c4490b71da6)
 - [Linear Constraints: the problem with O(1) freeze (2023)](https://www.tweag.io/blog/2023-01-26-linear-constraints-freeze/)
 - [Everything you never wanted to know about Applicative laws and more](https://github.com/alexfmpe/semantic-satiation/blob/main/src/Posts/001-applicative-laws.md)
+- [Haskell Playground](https://github.com/tomsmeding/play-haskell)

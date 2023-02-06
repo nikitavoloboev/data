@@ -1067,3 +1067,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale (2022)](https://github.com/deepmind/transformer_grammars)
 - [Impactful and widely cited papers and literature on ML](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 - [Resources of deep learning for mathematical reasoning](https://github.com/lupantech/dl4math)
+- [Homomorphic Learning study](https://github.com/redhat-et/homomorphic-learning)

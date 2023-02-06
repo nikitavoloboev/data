@@ -418,6 +418,7 @@
 - [managed](https://github.com/Gabriella439/managed) - Monad for managed values.
 - [transitive-anns](https://github.com/isovector/transitive-anns) - Transitively track and reify annotations across a codebase.
 - [jrec](https://github.com/juspay/jrec) - Anonymous records for busy people.
+- [svg-tree](https://github.com/Twinside/svg-tree) - SVG loader/serializer for Haskell with a tree type geared toward SVG rendering.
 
 ## Notes
 

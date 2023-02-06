@@ -170,3 +170,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Typst: A Programmable Markup Language for Typesetting](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf) ([HN](https://news.ycombinator.com/item?id=34423590)) ([Lobsters](https://lobste.rs/s/zd8b6p/typst_programmable_markup_language_for))
 - [Coauthor](https://github.com/varunshenoy/coauthor) - Copilot for Overleaf. Convert natural language to LaTeX within Overleaf using GPT-3.
 - [UnTeX](https://github.com/jeertmans/untex) - Understand and manipulate TeX files with ease.
+- [LaTeX Cheat Sheet](https://github.com/ric-sar/latex_cheat_sheet)

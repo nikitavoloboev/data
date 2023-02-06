@@ -86,3 +86,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [soanm](https://github.com/benwr/soanm) - Shell Of A New Machine: Quickly configure new environments.
 - [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Dotfile manager with templating.
 - [dotfiles symbolic link CLI](https://github.com/rhysd/dotfiles)
+- [Comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles.

@@ -253,3 +253,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [What it feels like to be an open-source maintainer (2017)](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
 - [9 years maintaining a sorta-popular open source package: lessons learned (2023)](https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/)
 - [Awesome Package Maintainer](https://github.com/jubalh/awesome-package-maintainer)
+- [I’m Now a Full-Time Professional Open Source Maintainer (2023)](https://words.filippo.io/full-time-maintainer/) ([HN](https://news.ycombinator.com/item?id=34633713))

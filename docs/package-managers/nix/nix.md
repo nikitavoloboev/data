@@ -501,3 +501,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Tvix](https://github.com/tvlfyi/tvix) - Rust implementation of Nix.
 - [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review PRs on nixpkgs.
 - [Tooling for the simple-package-paths Nix RFC](https://github.com/nixpkgs-architecture/nix-spp)
+- [Scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files.

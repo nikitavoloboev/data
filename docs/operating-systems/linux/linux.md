@@ -685,3 +685,4 @@ title: Linux
 - [Linux Security and Hardening Security Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide)
 - [Ask HN: What Next After Ubuntu? (2023)](https://news.ycombinator.com/item?id=34570047)
 - [Linux Upskill Challenge (2023)](https://theleo.zone/posts/linux-upskill/) ([HN](https://news.ycombinator.com/item?id=34650735))
+- [FatELF](https://github.com/icculus/fatelf) - Universal binaries for Linux.
