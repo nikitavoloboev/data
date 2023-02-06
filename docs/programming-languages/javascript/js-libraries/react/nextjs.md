@@ -430,3 +430,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next-ValidEnv](https://github.com/JacobADevore/next-validenv) - Typesafe environment variables for Next.
 - [Streaming OpenAI completions with the Vercel Edge Runtime (2023)](https://www.beskar.co/blog/streaming-openai-completions-vercel-edge)
 - [First Look at Create T3 App w/ Christopher Ehrlich (2023)](https://www.youtube.com/watch?v=-CWarVQDtEg)
+- [Code Walkthrough for Next.js 13 / Tailwind CSS / MySQL App (2023)](https://www.youtube.com/watch?v=jeBy4vIBqw0)

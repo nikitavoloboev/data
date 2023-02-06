@@ -509,3 +509,4 @@ Awesome List
 - [Ask HN: When did GitHub replace standard Git commands with the “GitHub CLI?” (2023)](https://news.ycombinator.com/item?id=34489301)
 - [GitHub Issues Notebooks for VS Code](https://github.com/microsoft/vscode-github-issue-notebooks)
 - [GitHub Notion Sync](https://github.com/temporalio/github-repo-notion-sync) - Sync an organization's GitHub repo list to a Notion DB.
+- [The technology behind GitHub’s new code search (2023)](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)

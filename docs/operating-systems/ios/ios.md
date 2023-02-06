@@ -564,3 +564,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Ask HN: What Happened to iOS Widgets? (2023)](https://news.ycombinator.com/item?id=34467116)
 - [touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps. ([Web](https://touchhle.org/))
 - [Scriptable scripts for iOS](https://github.com/ajatkj/scriptable)
+- [The evolution of Facebook’s iOS app architecture (2023)](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)

@@ -105,3 +105,4 @@
 - [Taking over a Dead IoT Company (2023)](https://blog.kchung.co/taking-over-a-dead-iot-company/) ([Lobsters](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company)) ([HN](https://news.ycombinator.com/item?id=34325695))
 - [Bytebeam ESP SDK](https://github.com/bytebeamio/esp-bytebeam-sdk) - Application for connecting ESP devices to Bytebeam IoT platform.
 - [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
+- [CHERIoT: Rethinking security for low-cost embedded systems (2023)](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/)
