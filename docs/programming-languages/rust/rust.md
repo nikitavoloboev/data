@@ -994,7 +994,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust 1.66.0 (2022)](https://hachyderm.io/@Mara/109518823144798759)
 - [Gene Michaels](https://github.com/andrewbaxter/genemichaels) - Alternative Rust code formatter. ([Reddit](https://www.reddit.com/r/rust/comments/zo54gj/gene_michaels_alternative_rust_code_formatter/))
 - [Sorting with SIMD (2022)](https://tweedegolf.nl/en/blog/79/sorting-with-simd) ([HN](https://news.ycombinator.com/item?id=34029603))
-- [Rust Magazine](https://rustmagazine.github.io/) - Publication for the Rust programming language community. ([Code](https://github.com/rustmagazine/rustmagazine.github.io)) ([Reddit](https://www.reddit.com/r/rust/comments/zpvkwb/announcing_rust_magazine/))
+- [Rust Magazine](https://rustmagazine.org/) - Publication for the Rust programming language community. ([Code](https://github.com/rustmagazine/rustmagazine.github.io)) ([Reddit](https://www.reddit.com/r/rust/comments/zpvkwb/announcing_rust_magazine/))
 - [High Performance Rust UI (2022)](https://www.youtube.com/watch?v=zVUTZlNCb8U)
 - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/) ([HN](https://news.ycombinator.com/item?id=34091271)) ([Reddit](https://www.reddit.com/r/rust/comments/zrs1of/new_rust_course_by_android_comprehensive_rust/)) ([Code](https://github.com/google/comprehensive-rust))
 - [Implementing Rayon's Parallel Iterators - A Tutorial (2022)](https://geo-ant.github.io/blog/2022/implementing-parallel-iterators-rayon/)
