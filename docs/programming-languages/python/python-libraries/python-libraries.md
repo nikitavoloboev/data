@@ -299,6 +299,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [TriMap](https://github.com/eamid/trimap) - Large-scale Dimensionality Reduction Using Triplets.
 - [Metalibm](https://github.com/metalibm/metalibm) - Code generation tool to generate mathematical libraries.
 - [Reals](https://github.com/rubenvannieuwpoort/reals) - Lightweight library for arithmetic with real numbers.
+- [Proximal Minimization](https://github.com/pmelchior/proxmin) - Solvers for constrained optimization problems.
 
 ## Physics
 

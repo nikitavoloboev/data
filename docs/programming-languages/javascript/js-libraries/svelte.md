@@ -347,3 +347,4 @@ title: Svelte
 - [Svelte 4.0 feature speculation & suggestions](https://www.reddit.com/r/sveltejs/comments/10iud65/svelte_40_feature_speculation_suggestions/)
 - [Svelte app showing CRDT capabilities](https://github.com/oskarhane/svelte-grid-sync)
 - [uBeac](https://github.com/ubeac/svelte) - Svelte UI Component Library.
+- [GrailUI](https://github.com/grail-ui/grail-ui) - Library of accessible component primitives, actions and utilities for Svelte.
