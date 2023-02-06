@@ -349,3 +349,4 @@ title: React Native
 - [Hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native.
 - [React Native Code Push](https://github.com/microsoft/react-native-code-push) - Easily add a dynamic update experience to your React Native app(s).
 - [React Native TV Example](https://github.com/wouterds/react-native-tv-example) - React Native app that compiles for iOS, Android, tvOS & AndroidTV.
+- [React Native Click Outside](https://github.com/jakex7/react-native-click-outside) - React Native library to detect clicks outside the component.

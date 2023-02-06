@@ -536,6 +536,7 @@
 - [Polyhedron Operators](https://github.com/virtualritz/polyhedron-ops) - Implements the Conway Polyhedron Operators and their extensions by George W. Hart and others.
 - [NSI](https://github.com/virtualritz/nsi) - High level Rust bindings for Illumination Research’s Nodal Scene Interface.
 - [Masonry](https://github.com/PoignardAzur/masonry-rs) - Rust UI design toolkit. ([0.1 release](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)) ([HN](https://news.ycombinator.com/item?id=34671478))
+- [concoct](https://github.com/concoct-rs/concoct) - Cross-platform UI framework in rust.
 
 ## Games
 

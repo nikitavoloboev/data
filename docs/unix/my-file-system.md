@@ -47,7 +47,7 @@ Inside this folder I keep all code from orgs I am working or worked on.
 ```Bash
 ~/src/orgs
 ❯ exa
-droppa  learn-anything
+learn-anything
 ```
 
 ## ~/src/learning

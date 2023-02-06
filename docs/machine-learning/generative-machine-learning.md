@@ -205,7 +205,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension) - Chrome extension to show ChatGPT response in Google search results. ([HN](https://news.ycombinator.com/item?id=33853773))
 - [A new AI game: Give me ideas for crimes to do (2022)](https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/)
 - [Ask HN: How would you build a ChatGPT detector? (2022)](https://news.ycombinator.com/item?id=33857356)
-- [GPT Index](https://github.com/jerryjliu/gpt_index) - Index created by GPT to organize external information and answer queries.
+- [GPT Index](https://github.com/jerryjliu/gpt_index) - Index created by GPT to organize external information and answer queries. ([Use Cases](https://gpt-index.readthedocs.io/en/latest/guides/use_cases.html)) ([Docs](https://gpt-index.readthedocs.io/en/latest/index.html))
 - [ChatGPT export to PNG / PDF / HTML](https://github.com/liady/ChatGPT-pdf) - Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link.
 - [Stable Diffusion v 2.0 web UI](https://github.com/qunash/stable-diffusion-2-gui)
 - [GPT-3 Prompter](https://github.com/qunash/gpt-3_chrome_extension) - Use OpenAI's GPT-3 API prompter on any website.
