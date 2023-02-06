@@ -330,6 +330,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Andy Bell](https://andy-bell.co.uk/blog/)
 - [Chrome Developers](https://developer.chrome.com/blog/)
 - [Vincent Bernat](https://vincent.bernat.ch/en/blog)
+- [Adolfo Ochagavía](https://ochagavia.nl/blog/)
 
 ## Notes
 

@@ -252,3 +252,4 @@
 - [Copacetic](https://github.com/project-copacetic/copacetic) - Directly patch container image vulnerabilities.
 - [Composefs](https://github.com/containers/composefs) - Native Linux file system designed to help sharing filesystem contents, as well as ensuring said content is not modified.
 - [conmon](https://github.com/containers/conmon) - OCI container runtime monitor.
+- [Crafting container images without Dockerfiles (2023)](https://ochagavia.nl/blog/crafting-container-images-without-dockerfiles/)
