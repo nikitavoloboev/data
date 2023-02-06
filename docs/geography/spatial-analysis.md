@@ -310,3 +310,4 @@ title: Spatial analysis
 - [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program and Bubble Tea Bubble.
 - [MapillaryJS](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery map experiences in the browser, powered by WebGL.
 - [Map polygon and feature extractor](https://github.com/nypl-spacetime/map-vectorizer)
+- [Parsing GeoJSON using Rust](https://github.com/urschrei/geojson_example)

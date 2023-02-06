@@ -181,6 +181,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, zero-dependency JS implementation of elliptic curve cryptography.
 - [Huffy](https://github.com/fabiospampinato/huffy) - Tiny compression library based on Huffman coding.
 - [merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - JavaScript library to generate merkle trees and merkle proofs.
+- [uncrypto](https://github.com/unjs/uncrypto) - Single API for Web Crypto API and Crypto Subtle working in Node.js, Browsers and other runtimes.
 
 ## Error
 

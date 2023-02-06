@@ -319,3 +319,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Diffusion Models already have a Semantic Latent Space (2023)](https://arxiv.org/abs/2210.10960) ([Code](https://github.com/kwonminki/Asyrp_official))
 - [Stable Attribution](https://www.stableattribution.com/) ([HN](https://news.ycombinator.com/item?id=34670136))
 - [Gen-1 by Runway](https://research.runwayml.com/gen1) ([HN](https://news.ycombinator.com/item?id=34680593))
+- [Dino Diffusion: Bare-bones diffusion model code](https://github.com/madebyollin/dino-diffusion)

@@ -1421,6 +1421,8 @@
 - [SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - Easy to use Swift wrapper around iCloud Drive.
 - [SwiftMetricsExtras](https://github.com/apple/swift-metrics-extras) - Extra packages complementing the core SwiftMetrics API.
 - [GoogleCloudKit](https://github.com/vapor-community/google-cloud-kit)
+- [Bytes](https://github.com/mochidev/Bytes) - Swift Library for working with sequences of Bytes.
+- [EditorConfig](https://github.com/ChimeHQ/EditorConfig) - Swift library for working with .editorconfig files.
 
 ## Other (not lib)
 

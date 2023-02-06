@@ -2751,6 +2751,7 @@
 - [cargo-manifest](https://github.com/LukeMathWalker/cargo-manifest) - Fork of cargo_toml to fix some issues for cargo-chef.
 - [wasm-server-runner](https://github.com/jakobhellermann/wasm-server-runner) - Allows you to run programs in the browser using web assembly using a simple cargo run.
 - [cargo-dist](https://github.com/axodotdev/cargo-dist) - cargo build but For Building Final Distributable Artifacts and uploading them to an archive. ([Article](https://blog.axo.dev/2023/02/cargo-dist))
+- [Duvet](https://github.com/awslabs/duvet) - Code quality tool to help bound correctness.
 
 ## Notes
 

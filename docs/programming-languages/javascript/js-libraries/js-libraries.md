@@ -1115,6 +1115,7 @@
 - [is-animated](https://github.com/qzb/is-animated) - Checks if image is animated.
 - [Zeptomatch](https://github.com/fabiospampinato/zeptomatch) - Absurdly small glob matcher that packs a punch.
 - [rfdc](https://github.com/davidmarkclements/rfdc) - Really Fast Deep Clone.
+- [normalize-url](https://github.com/sindresorhus/normalize-url) - Useful when you need to display, store, deduplicate, sort, compare, etc, URLs.
 
 ## Links
 

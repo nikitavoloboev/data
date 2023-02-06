@@ -24,3 +24,4 @@ title: Crystal
 - [Ameba](https://github.com/crystal-ameba/ameba) - Static code analysis tool for Crystal.
 - [Crest](https://github.com/mamantoha/crest) - HTTP and REST client for Crystal.
 - [Incremental compilation for Crystal (2023)](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
+- [Pluto](https://github.com/phenopolis/pluto) - Fast and convenient image processing library.

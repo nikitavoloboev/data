@@ -286,6 +286,7 @@
 - [Briefly](https://github.com/CargoSense/briefly) - Simple, robust temporary file support for Elixir.
 - [Tria](https://github.com/hissssst/tria) - Optimizing compiler for Elixir.
 - [Pathex](https://github.com/hissssst/pathex) - Library for performing fast actions with nested data structures in Elixir.
+- [Assent](https://github.com/pow-auth/assent) - Multi-provider authentication framework.
 
 ## Links
 

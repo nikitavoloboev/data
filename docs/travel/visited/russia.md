@@ -676,3 +676,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Putin's Road to War: Julia Ioffe (interview) (2022)](https://www.youtube.com/watch?v=kSNo2FPQDQw)
 - [Putin and the Presidents: Julia Ioffe (interview) (2023)](https://www.youtube.com/watch?v=qEu0oRajJxE)
 - [Kremlin-Linked Group Arranged Payments to European Politicians to Support Russia’s Annexation of Crimea (2023)](https://www.occrp.org/en/investigations/kremlin-linked-group-arranged-payments-to-european-politicians-to-support-russias-annexation-of-crimea)
+- [Певчих – что коррупция сделала с Россией (2023)](https://www.youtube.com/watch?v=E-NJs8-29yw&t=834s)

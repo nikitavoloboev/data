@@ -817,3 +817,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Prodigy OpenAI recipes](https://github.com/explosion/prodigy-openai-recipes) - Bootstrap annotation with zero- & few-shot learning via OpenAI GPT-3.
 - [Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees (2023)](https://arxiv.org/abs/2209.10492) ([Code](https://github.com/swarnaHub/SummarizationPrograms))
 - [Online Language Modelling Training Pipeline](https://github.com/huggingface/olm-training)
+- [Storing OpenAI embeddings in Postgres with pgvector (2023)](https://supabase.com/blog/openai-embeddings-postgres-vector) ([HN](https://news.ycombinator.com/item?id=34684593))

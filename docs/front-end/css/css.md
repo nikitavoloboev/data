@@ -617,3 +617,4 @@ all: unset
 - [How the CSS box-sizing property works (2023)](https://andy-bell.co.uk/how-the-css-box-sizing-property-works/)
 - [CSS color-mix() (2023)](https://developer.chrome.com/blog/css-color-mix/)
 - [A Fancy Hover Effect For Your Avatar (2023)](https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/)
+- [Meshgrad](https://meshgrad.cretu.dev/) - Tiny utility for generating CSS Mesh Gradients. ([Code](https://github.com/cristicretu/meshgrad))
