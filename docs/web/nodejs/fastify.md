@@ -78,3 +78,4 @@ title: Fastify
 - [Fastify Bearer Auth](https://github.com/fastify/fastify-bearer-auth) - Fastify plugin to require bearer Authorization headers.
 - [Fastify Lyra](https://github.com/mateonunez/fastify-lyra) - Lyra plugin for Fastify.
 - [Fastify Nitro](https://github.com/auguwu/fastify-nitro) - Preset for building Nitro applications that expose a fastify server or middleware export.
+- [Preparing Fastify for Testing (2023)](https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing/)
