@@ -266,4 +266,4 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [Learn UI Design](https://www.learnui.design/) - Complete Online Video Course.
 - [Layers](https://layers.to) - Home for designers.
 - [UI design for HTTPie: macOS vibes for the API testing client (2023)](https://evilmartians.com/chronicles/ui-design-for-httpie-macos-vibes-for-the-api-testing-client)
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/) ([HN](https://news.ycombinator.com/item?id=34684761))

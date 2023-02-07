@@ -16,7 +16,7 @@
 - [Frictional Games](https://frictionalgames.blogspot.com/) - Creators of Penumbra, Amnesia and SOMA.
 - [Embark Studios](https://www.embark-studios.com/) - Stockholm-based games studio.
 - [Ghost Story Games](https://www.ghoststorygames.com/)
-- [Cloudhead Games](https://cloudheadgames.com/) - VR Game Studio.
+- [Cloudhead Games](https://cloudheadgames.com/) - VR Game Studio. ([Discord](https://discord.com/invite/zd2b42c))
 - [Nolla Games](https://nollagames.com/)
 - [Beamdog](https://www.beamdog.com/)
 - [Unknown Worlds](https://unknownworlds.com/)

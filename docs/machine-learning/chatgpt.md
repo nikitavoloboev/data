@@ -90,3 +90,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [What do you do with ChatGPT? (2023)](https://www.reddit.com/r/ChatGPT/comments/10ujeua/what_do_you_do_with_chatgpt_please_share_top_10/)
 - [GPTO](https://github.com/alanvardy/gpto) - Unofficial OpenAI GPT3 Terminal Client.
 - [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot)
+- [No-Code AI Avatar that Remembers Your Notes and Answers Questions with its Own Voice using GPT-3, Siri and ElevenLabs (2023)](https://medium.com/@overment/no-code-ai-avatar-that-remembers-your-notes-and-answers-questions-with-its-own-voice-using-gpt-3-1f69bfa7dea6)

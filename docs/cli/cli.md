@@ -6,7 +6,7 @@
 
 There is also a [nice curated CLI list](https://github.com/learn-anything/command-line-tools)
 
-## In Use
+## Use
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) to search for text.
 - [fzf](https://github.com/junegunn/fzf) to fuzzy search through inputs.
