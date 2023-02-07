@@ -402,6 +402,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Pushup](https://github.com/adhocteam/pushup) - Page-oriented web framework for Go. ([Web](https://pushup.adhoc.dev/)) ([HN](https://news.ycombinator.com/item?id=34246960)) ([Lobsters](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go))
 - [genhapi](https://github.com/thnxdev/genhapi) - Opinionated tool for generating request-handler boilerplate for Go.
 - [GoLive](https://github.com/canopyclimate/golive) - Library for building LiveViews in Go.
+- [uRouter](https://github.com/lxzan/uRouter) - HTTP & WebSocket router library for Go.
 
 ## GraphQL
 
@@ -2042,6 +2043,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [starstruct](https://github.com/mna/starstruct) - Starlark to Go struct converter.
 - [go-set](https://github.com/hashicorp/go-set) - Generic set implementation for Go.
 - [go-slab](https://github.com/couchbase/go-slab) - Slab allocator in go.
+- [nilable](https://github.com/otterize/nilable) - Tiny Go generics library for making non-nilable values nilable.
+- [memorycache](https://github.com/lxzan/memorycache) - Concurrent hashmap with ttl.
 
 ## Links
 

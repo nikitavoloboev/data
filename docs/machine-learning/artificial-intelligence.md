@@ -190,3 +190,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [AI Toolbox](https://github.com/enbifa/AI-Toolbox) - Comprehensive list of Artificial Intelligence tools divided by category.
 - [John Carmack’s ‘Different Path’ to Artificial General Intelligence (2023)](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/) ([HN](https://news.ycombinator.com/item?id=34637650))
 - [Ask HN: What were the papers on the list Ilya Sutskever gave John Carmack? (2023)](https://news.ycombinator.com/item?id=34641359)
+- [Awesome Code AI](https://github.com/sourcegraph/awesome-code-ai)

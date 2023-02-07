@@ -8,6 +8,8 @@ It's good idea to fund people who work on tools/libraries you use in your startu
 
 I like [Tesla's simple hiring page](https://www.tesla.com/AI) with just one question of `What exceptional work have you done in ..`, link to CV and the name.
 
+Love this list of [favorite interview questions](https://twitter.com/nathanbarry/status/1622614844200431617).
+
 ## Recruitment tests
 
 - [Frontier's full stack take home](https://github.com/BeFrontier/fullstack-takehome)
@@ -180,3 +182,4 @@ I like [Tesla's simple hiring page](https://www.tesla.com/AI) with just one ques
 - [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists.
 - [Ask HN: What prevents a company from hiring remote employees internationally? (2022)](https://news.ycombinator.com/item?id=33996871)
 - [Frappe HR](https://github.com/frappe/hrms) - Open Source HR and Payroll Software. ([Web](https://frappehr.com/))
+- [What is your favorite interview question to ask when hiring?](https://twitter.com/nathanbarry/status/1622614844200431617)

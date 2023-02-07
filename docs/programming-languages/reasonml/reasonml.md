@@ -101,3 +101,4 @@ ReasonML is now [ReScript](https://rescript-lang.org/).
 - [ReScript Tutorial](https://github.com/protoship/rescript-tutorial)
 - [Defunctionalization in Reason (2019)](https://gugahoa.github.io/reasonml/2019/06/17/defunctionalization.html)
 - [Introducing ReScript: Functional Programming for Web Applications (2023)](https://link.springer.com/book/10.1007/978-1-4842-8888-7) ([Code](https://github.com/Apress/introducing-rescript))
+- [ReasonML Discord](https://discord.com/invite/reasonml)

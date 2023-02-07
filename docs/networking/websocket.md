@@ -137,3 +137,4 @@ title: WebSocket
 - [Serverless chat application using ApiGateway Websockets](https://github.com/aws-samples/websocket-chat-application)
 - [Mio WebSocket Server](https://github.com/sergey-melnychuk/mio-websocket-server) - Implementation of WebSocket server with mio and parser combinators.
 - [ws](https://github.com/nikneym/ws) - WebSocket library for Zig.
+- [gws](https://github.com/lxzan/gws) - Event-driven go WebSocket server.

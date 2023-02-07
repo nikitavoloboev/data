@@ -161,3 +161,4 @@
 - [Simple Scaffold](https://github.com/chenasraf/simple-scaffold) - Generate any set of files in the easiest way possible with simple commands.
 - [Enigma](https://github.com/aegistudio/enigma) - Simple cross-platform encrypted file system. ([HN](https://news.ycombinator.com/item?id=34474039))
 - [FDUPES](https://github.com/adrianlopezroche/fdupes) - Program for identifying duplicate files residing within specified directories.
+- [FatFs](https://github.com/abbrev/fatfs) - Generic FAT File System Module.

@@ -249,3 +249,4 @@ title: SQL
 - [SQL should be your default choice for data engineering pipelines (2023)](https://www.robinlinacre.com/recommend_sql/)
 - [Ask HN: How do you test SQL? (2023)](https://news.ycombinator.com/item?id=34602318)
 - [Enabling static analysis of SQL queries at Meta (2022)](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/)
+- [SQL Optimizer Labs](https://github.com/risinglightdb/sql-optimizer-labs) - Build a SQL optimizer in 1000 lines of Rust using egg.

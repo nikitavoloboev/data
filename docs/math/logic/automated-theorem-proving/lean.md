@@ -6,7 +6,7 @@ title: Lean
 
 > Open source theorem prover and programming language being developed at Microsoft Research.
 
-[Natural number game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/) is great.
+[Natural number game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/) & [Mathematics in Lean tutorial](https://leanprover-community.github.io/mathematics_in_lean/) are great.
 
 ## Links
 
@@ -133,3 +133,4 @@ title: Lean
 - [HN: Lean (2023)](https://news.ycombinator.com/item?id=34456573)
 - [WidgetKit](https://github.com/EdAyers/WidgetKit) - Library of user interface components for Lean 4.
 - [LeanInk](https://github.com/leanprover/LeanInk) - Command line helper tool for Alectryon which aims to ease the integration of Lean 4.
+- [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) ([Code](https://github.com/avigad/mathematics_in_lean_source))

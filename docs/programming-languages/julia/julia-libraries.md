@@ -831,6 +831,7 @@
 - [TupleTools.jl](https://github.com/Jutho/TupleTools.jl) - Type stable methods for small tuples.
 - [DelayDiffEq.jl](https://github.com/SciML/DelayDiffEq.jl) - Delay differential equation solvers for the SciML scientific machine learning ecosystem.
 - [Kroki.jl](https://github.com/bauglir/Kroki.jl) - Enables a wide array of textual diagramming tools working within Julia.
+- [Tidier.jl](https://github.com/kdpsingh/Tidier.jl) - Implementation of the R tidyverse mini-language in Julia.
 
 ## Links
 

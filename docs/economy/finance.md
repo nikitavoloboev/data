@@ -18,6 +18,8 @@ I found [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) 
 
 Would love to build some things on top of global payment infrastructure and get those fees closer to minimum as possible. Perhaps by building on something like [TrueLayer](https://truelayer.com/) as you need a banking license to innovate in fin tech at least in US.
 
+Use [this tool](https://invoice-generator.com/) to create invoices but want to make something nicer and more automated for my use cases.
+
 ## Ongoing subscriptions
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up. The app I mentioned above will cover the use case of Bobby too so hopefully I won't need this app in future.

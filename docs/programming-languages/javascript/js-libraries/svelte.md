@@ -348,3 +348,4 @@ title: Svelte
 - [Svelte app showing CRDT capabilities](https://github.com/oskarhane/svelte-grid-sync)
 - [uBeac](https://github.com/ubeac/svelte) - Svelte UI Component Library.
 - [GrailUI](https://github.com/grail-ui/grail-ui) - Library of accessible component primitives, actions and utilities for Svelte.
+- [Rich Harris Teaches ThePrimeagen SvelteKit (2023)](https://www.youtube.com/watch?v=RJTepwXirk8)
