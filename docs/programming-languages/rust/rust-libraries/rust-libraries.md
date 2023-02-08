@@ -10,7 +10,7 @@
 
 [self_update](https://github.com/jaemk/self_update) seems nice for updating rust binaries. [Linfa](https://github.com/rust-ml/linfa) seems nice for ML.
 
-[Blessed.rs](https://blessed.rs/crates) has nice list of good crates.
+[Blessed.rs](https://blessed.rs/crates) has nice list of good crates. [Rust API Design Learnings](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/) is nice watch.
 
 ## CLI
 
@@ -2961,3 +2961,4 @@
 - [get-all-crates](https://github.com/dtolnay/get-all-crates) - Download .crate files of all versions of all crates from crates.io.
 - [zerus](https://github.com/wcampbell0x2a/zerus) - Lightweight binary to download only project required crates for offline crates.io mirror.
 - [Choosing a Rust Web Framework (2023)](https://www.youtube.com/watch?v=NXkZPyQcNgY)
+- [Rust API Design Learnings (2023)](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/)

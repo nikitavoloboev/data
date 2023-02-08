@@ -51,7 +51,7 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Twitter based map of Russian troop movements](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) ([HN](https://news.ycombinator.com/item?id=30452685))
 - [Ukrainian Literature (2022)](https://www.reddit.com/r/suggestmeabook/comments/t00ulg/ukrainian_literature/)
 - [Эта война будет долгой? И что после нее станет с Украиной, Россией и миром? (2022)](https://www.youtube.com/watch?v=Oqj6UBk9GLQ)
-- [Why is Ukraine the West's Fault? Featuring John Mearsheimer (2022)](https://www.youtube.com/watch?v=JrMiSQAGOS4) ([Tweet](https://twitter.com/zei_squirrel/status/1496251177549578241)) ([PDF](https://www.mearsheimer.com/wp-content/uploads/2019/06/Why-the-Ukraine-Crisis-Is.pdf)) ([HN](https://news.ycombinator.com/item?id=30459766))
+- [Why is Ukraine the West's Fault? Featuring John Mearsheimer (2022)](https://www.youtube.com/watch?v=JrMiSQAGOS4) ([Tweet](https://twitter.com/zei_squirrel/status/1496251177549578241)) ([PDF](https://www.mearsheimer.com/wp-content/uploads/2019/06/Why-the-Ukraine-Crisis-Is.pdf)) ([HN](https://news.ycombinator.com/item?id=30459766)) ([Reddit](https://www.reddit.com/r/UkraineRussiaReport/comments/10wa49c/ru_pov_why_is_ukraine_the_wests_fault_featuring/))
 - [HN: Russian forces invade Ukraine after Putin orders attack (2022)](https://news.ycombinator.com/item?id=30450336)
 - [Ukrainian Conflict (2013-present) Reddit](https://www.reddit.com/r/UkrainianConflict/)
 - [Ukraine - Russia attack summary (2022)](https://twitter.com/ericgeller/status/1496685351615803396)

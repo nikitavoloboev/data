@@ -115,3 +115,4 @@ title: Scheme
 - [Hop](https://github.com/manuel-serrano/hop) - Multitier JavaScript.
 - [Practical Scheme](http://practical-scheme.net/) ([HN](https://news.ycombinator.com/item?id=34452163))
 - [Scheme Libraries](https://github.com/mnieper/scheme-libraries)
+- [Scheme structured access to bytevector contents](https://github.com/TaylanUB/scheme-bytestructures)

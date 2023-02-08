@@ -12,7 +12,7 @@ It would also be nice to automate moving money from main account to good ETFs. F
 
 [Mercury](https://mercury.com/) & [Column](https://news.ycombinator.com/item?id=31109170) are great company banks.
 
-I found [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) to process online payments to have nice DX but their [pricing is insane compared to alternatives](https://news.ycombinator.com/item?id=34609182) so avoid Stripe now.
+I found [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) to process online payments to have nice DX but their [pricing is insane compared to alternatives](https://news.ycombinator.com/item?id=34609182) so avoid Stripe now in favor of [Adyen](https://www.adyen.com/).
 
 [Lemon Squeezy](https://www.lemonsqueezy.com/) or [Paddle](https://www.paddle.com/) seem [nice for processing payments](https://news.ycombinator.com/item?id=31522127) too among [other options](https://twitter.com/JordanMorgan10/status/1604324809583857664). My goal though is to minimize the fee I pay on each transaction over how nice DX is as I can abstract that away.
 
@@ -262,3 +262,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [hyperswitch](https://github.com/juspay/hyperswitch) - Open Source Financial Switch to make payments fast, reliable and affordable. ([Web](https://hyperswitch.io/))
 - [Sales calculations](https://github.com/chantelle-lingerie/sales) - Manage order calculations based on invoices, refunds, cancellations.
 - [How to Live in Three Places and Save Taxes (2023)](https://www.youtube.com/watch?v=KAJTZGhSVK4)
+- [Stripe Can’t Lose - But the the payments company’s dominance no longer seems inevitable (2023)](https://every.to/p/stripe-can-t-lose)

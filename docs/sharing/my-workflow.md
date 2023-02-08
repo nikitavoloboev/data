@@ -129,7 +129,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Payment
 
-- [Stripe Checkout](https://stripe.com/payments/checkout) - Evaluating alternatives now as [fees have become too much](https://news.ycombinator.com/item?id=34609182).
+- [Adyen](https://www.adyen.com/) for [cheaper fees](https://news.ycombinator.com/item?id=34609182). [Stripe Checkout](https://stripe.com/payments/checkout) has nice DX though.
 
 ## Analytics
 

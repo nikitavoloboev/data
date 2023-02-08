@@ -320,3 +320,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable Attribution](https://www.stableattribution.com/) ([HN](https://news.ycombinator.com/item?id=34670136))
 - [Gen-1 by Runway](https://research.runwayml.com/gen1) ([HN](https://news.ycombinator.com/item?id=34680593))
 - [Dino Diffusion: Bare-bones diffusion model code](https://github.com/madebyollin/dino-diffusion)
+- [Mixture of diffusers for location-aware image generation](https://github.com/albarji/mixture-of-diffusers)

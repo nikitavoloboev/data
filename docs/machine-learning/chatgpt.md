@@ -91,3 +91,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [GPTO](https://github.com/alanvardy/gpto) - Unofficial OpenAI GPT3 Terminal Client.
 - [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot)
 - [No-Code AI Avatar that Remembers Your Notes and Answers Questions with its Own Voice using GPT-3, Siri and ElevenLabs (2023)](https://medium.com/@overment/no-code-ai-avatar-that-remembers-your-notes-and-answers-questions-with-its-own-voice-using-gpt-3-1f69bfa7dea6)
+- [Chat Simplifier](https://chat-simplifier.imzbb.cc/) - Simplify your chat content in seconds (by OpenAI). ([Code](https://github.com/zhengbangbo/chat-simplifier))
+- [ChatGPT - Review & Rebuttal](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - Browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.

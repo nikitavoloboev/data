@@ -486,6 +486,7 @@
 - [BinOpt](https://github.com/aengelke/binopt) - Library for Self-guided Runtime Binary Optimization.
 - [LibColony](https://github.com/mafik/libcolony) - C++ (and JavaScript) library for task sheduling, perfect for colony simulation games. ([Web](https://mrogalski.eu/libcolony/))
 - [Gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
+- [Contourklip](https://github.com/verven/contourklip) - C++ library for boolean operations on contours. Including cubic beziers.
 
 ## Links
 

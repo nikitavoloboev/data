@@ -215,3 +215,4 @@ title: RISC-V
 - [RISC-V Code Size Reduction Group](https://github.com/riscv/riscv-code-size-reduction)
 - [RISC-V Tests](https://github.com/riscv-software-src/riscv-tests)
 - [Hypocaust](https://github.com/KuangjuX/hypocaust) - Type-1 hypervisor run on RISC-V machine.
+- [RISC-V ISA](https://rv.drom.io/) - RISC-V ISA online string decoder. ([Code](https://github.com/drom/rv))

@@ -1138,3 +1138,4 @@
 - [Dreamix: Video Diffusion Models are General Video Editors (2023)](https://arxiv.org/abs/2302.01329) ([Web](https://dreamix-video-editing.github.io/))
 - [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis (2023)](https://arxiv.org/abs/2301.13430) ([Code](https://github.com/yerfor/GeneFace))
 - [ESP-WHO](https://github.com/espressif/esp-who) - Face detection and recognition framework.
+- [Egocentric Video-Language Pretraining (2022)](https://arxiv.org/abs/2206.01670) ([Code](https://github.com/showlab/EgoVLP))

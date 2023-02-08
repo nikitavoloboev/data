@@ -104,7 +104,7 @@
 - [Incorporating AutoVocoder to MB-iSTFT-VITS](https://github.com/hcy71o/MB-iSTFT-VITS-with-AutoVocoder)
 - [Automatic Prosody Annotation with Pre-Trained Text-Speech Model](https://github.com/Daisyqk/Automatic-Prosody-Annotation)
 - [Ask HN: Are there any good open source text-to-speech tools? (2023)](https://news.ycombinator.com/item?id=34211457)
-- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (2023)](https://arxiv.org/abs/2301.02111) ([Web](https://valle-demo.github.io/)) ([HN](https://news.ycombinator.com/item?id=34270311)) ([HN](https://news.ycombinator.com/item?id=34309306)) ([Code](https://github.com/enhuiz/vall-e))
+- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (2023)](https://arxiv.org/abs/2301.02111) ([Web](https://valle-demo.github.io/)) ([HN](https://news.ycombinator.com/item?id=34270311)) ([HN](https://news.ycombinator.com/item?id=34309306)) ([Code](https://github.com/enhuiz/vall-e)) ([Code](https://github.com/lifeiteng/vall-e))
 - [This Voice Doesn't Exist – Generative Voice AI (2023)](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/) ([HN](https://news.ycombinator.com/item?id=34361651))
 - [Autotone](https://github.com/alexcrist/autotone) - Vocal pitch correction web application, like Autotune. ([HN](https://news.ycombinator.com/item?id=34396303))
 - [Voice Cloning Model with Zero-Shot Attention-Based TTS](https://github.com/MartinMashalov/VoiceCloning)

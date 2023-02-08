@@ -2045,6 +2045,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-slab](https://github.com/couchbase/go-slab) - Slab allocator in go.
 - [nilable](https://github.com/otterize/nilable) - Tiny Go generics library for making non-nilable values nilable.
 - [memorycache](https://github.com/lxzan/memorycache) - Concurrent hashmap with ttl.
+- [tar-diff](https://github.com/containers/tar-diff) - Go library and set of command line tools to diff and patch tar files.
 
 ## Links
 

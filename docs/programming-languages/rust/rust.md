@@ -1038,4 +1038,3 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Infrastructure automation](https://github.com/rust-lang/simpleinfra)
 - [Choosing where to deploy a Rust application (2023)](https://www.youtube.com/watch?v=6yQfL-1yWNQ)
 - [Choosing a Rust Web Framework (2023)](https://www.youtube.com/watch?v=NXkZPyQcNgY)
-- [Rust API Design Learnings (2023)](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/)
