@@ -149,3 +149,4 @@
 - [Recursive-Descent Syntax for Context-Free Grammars (2023)](https://jasonhpriestley.com/23-1-25-recursive-grammar-literals) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/10l99pm/using_recursivedescentstyle_functions_to_specify/))
 - [Topiary](https://github.com/tweag/topiary) - Uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
 - [HOP](https://github.com/HigherOrderCO/HOP) - Lightweight, higher-order parser in Rust.
+- [Faster-Pest](https://github.com/Mubelotix/faster-pest) - High-performance code generator for Parsing Expression Grammars.

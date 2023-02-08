@@ -1139,3 +1139,4 @@
 - [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis (2023)](https://arxiv.org/abs/2301.13430) ([Code](https://github.com/yerfor/GeneFace))
 - [ESP-WHO](https://github.com/espressif/esp-who) - Face detection and recognition framework.
 - [Egocentric Video-Language Pretraining (2022)](https://arxiv.org/abs/2206.01670) ([Code](https://github.com/showlab/EgoVLP))
+- [EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations (2022)](https://arxiv.org/abs/2207.06635) ([Code](https://github.com/ML-GSAI/EGSDE))

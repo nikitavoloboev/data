@@ -239,3 +239,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [Solitaire TUI](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal. Built with Bubble Tea Go.
 - [gotop](https://github.com/xxxserxxx/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
 - [Erdtree](https://github.com/solidiquis/erdtree) - Multi-threaded file-tree visualizer and disk usage analyzer.
+- [clipboard](https://github.com/amilajack/clipboard) - Better command line clipboard.

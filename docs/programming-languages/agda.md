@@ -118,3 +118,4 @@ title: Agda
 - [Agda Cubical Experiments](https://github.com/ncfavier/cubical-experiments)
 - [Komachi](https://github.com/Lysxia/komachi) - Parser library in Agda, with coinductive machines and automatic differentiation.
 - [Flipper](https://github.com/j-towns/flipper) - Reversible programming in Agda.
+- [Two formalizations of Löb's Theorem](https://github.com/JasonGross/lob)

@@ -659,3 +659,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Will Postgres Use My Index? Hypothetical Indexing for Postgres (2023)](https://www.crunchydata.com/blog/will-postgres-use-my-index-hypothetical-indexing-with-postgres)
 - [pg-diff-sync](https://github.com/wmfs/pg-diff-sync) - Takes two objects that describe the structure of a database and produces the PostgreSQL statements required to get from one to the other.
 - [Neon Database Serverless](https://github.com/neondatabase/serverless) - Connect to PostgreSQL from serverless/worker/edge functions which have WebSockets but not TCP.
+- [Supabase Blog](https://supabase.com/blog)

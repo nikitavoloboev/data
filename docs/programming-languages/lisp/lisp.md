@@ -236,3 +236,4 @@
 - [Typed Lisp, A Primer (2019)](http://alhassy.com/TypedLisp) ([HN](https://news.ycombinator.com/item?id=34594675))
 - [GLisp](https://github.com/zhemao/glisp) - LISP dialect implemented in Go.
 - [Sussman Explains the End of SICP (2023)](https://irreal.org/blog/?p=11127) ([HN](https://news.ycombinator.com/item?id=34657535))
+- [A Tale of Lisp (by Renzo Borgatti) (2022)](https://www.youtube.com/watch?v=m2mzyf2YS_8)

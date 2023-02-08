@@ -744,6 +744,7 @@
 - [Sponge](https://github.com/arkworks-rs/sponge) - Library for cryptographic sponges.
 - [halo2curves](https://github.com/privacy-scaling-explorations/halo2curves) - BN256 pairing library that implements original traits from zkcrypto.
 - [halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) - Consist of a simple PLONK gate and non native arithmetic based applications.
+- [flo_curves](https://github.com/Logicalshift/flo_curves) - Bezier curve library for Rust.
 
 ## Linux
 

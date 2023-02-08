@@ -770,3 +770,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Client-side reactive databases (2023)](https://twitter.com/maccaw/status/1619714277715378178)
 - [2023 State of Databases for Serverless & Edge](https://leerob.io/blog/backend)
 - [How to protect your database (from yourself) (2023)](https://www.youtube.com/watch?v=Rm-OuNnq6Xo)
+- [15 futuristic databases you’ve never heard of (2023)](https://www.youtube.com/watch?v=jb2AvF8XzII)
