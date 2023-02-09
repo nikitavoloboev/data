@@ -581,3 +581,4 @@
 - [Ask HN: What's with the DIY state of the art long-range Wi-Fi? (2023)](https://news.ycombinator.com/item?id=34567704)
 - [3proxy](https://github.com/3proxy/3proxy) - Tiny free proxy server.
 - [MicroSocks](https://github.com/rofl0r/microsocks) - Portable SOCKS5 server with very moderate resource usage.
+- [Zrok](https://github.com/openziti/zrok) - Open-source peer to peer. ([Web](https://zrok.io/)) ([HN](https://news.ycombinator.com/item?id=34709487))
