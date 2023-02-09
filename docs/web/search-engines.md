@@ -326,3 +326,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [meilisearch-docsearch](https://github.com/amrbashir/meilisearch-docsearch) - Algloia-inspired quick search component for meilisearch.
 - [Ask HN: What is your replacement for Google search (2023)](https://news.ycombinator.com/item?id=34643512)
 - [Ask HN: How do you find stuff on the internet now? (2023)](https://news.ycombinator.com/item?id=34694546)
+- [Ask HN: Are we sure LLMs are that useful in a web search application? (2023)](https://news.ycombinator.com/item?id=34723275)
