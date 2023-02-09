@@ -268,3 +268,5 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Fairy Stockfish](https://github.com/ianfab/Fairy-Stockfish) - Chess variant engine supporting Xiangqi, Shogi, Janggi, Makruk, S-Chess, Crazyhouse, Bughouse, and many more. ([Web](https://fairy-stockfish.github.io/))
 - [Looking for the best Chess960 starting position (2023)](https://www.amolas.dev/blog/chess-960-initial-position/) ([HN](https://news.ycombinator.com/item?id=34475122))
 - [Crush everyone below 1500 using this opening](https://www.youtube.com/watch?v=Ink7sQk6CNI)
+- [What’s your favorite opening and why do you like it so much? (2023)](https://www.reddit.com/r/chess/comments/10x7ssy/whats_your_favourite_opening_and_why_do_you_like/)
+- [Fire On Board: Shirov's Best Games by Alexei Shirov](https://www.goodreads.com/en/book/show/1405650)

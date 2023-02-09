@@ -254,3 +254,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [9 years maintaining a sorta-popular open source package: lessons learned (2023)](https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/)
 - [Awesome Package Maintainer](https://github.com/jubalh/awesome-package-maintainer)
 - [I’m Now a Full-Time Professional Open Source Maintainer (2023)](https://words.filippo.io/full-time-maintainer/) ([HN](https://news.ycombinator.com/item?id=34633713))
+- [Transparent Telemetry for Open-Source Projects (2023)](https://research.swtch.com/telemetry-intro) ([Lobsters](https://lobste.rs/s/bhbqkb/transparent_telemetry_for_open_source))

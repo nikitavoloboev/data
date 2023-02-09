@@ -172,3 +172,4 @@ Use [Elk](https://elk.zone/) as my Mastodon client mostly to read [Merveilles lo
 - [Mastodon Archive](https://github.com/kensanata/mastodon-archive) - Archive your statuses, favorites and media using the Mastodon API.
 - [TootSDK](https://github.com/TootSDK/TootSDK) - Cross-platform Swift library for the Mastodon API.
 - [Building Mastodon bots with GitHub Actions and toot (2023)](https://til.simonwillison.net/mastodon/mastodon-bots-github-actions)
+- [Self-hosting Mastodon on AWS using Nomad (2023)](https://www.carrot.blog/posts/2023/01/self-hosting-mastodon-aws-nomad/) ([Lobsters](https://lobste.rs/s/i98vi1/self_hosting_mastodon_on_aws_using_nomad))

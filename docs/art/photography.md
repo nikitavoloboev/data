@@ -274,3 +274,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Photonix Photo Manager](https://photonix.org/) - Modern, web-based photo management server. ([Code](https://github.com/photonixapp/photonix))
 - [The limits of "computational photography" (2023)](https://yager.io/comp/comp.html) ([HN](https://news.ycombinator.com/item?id=34590094))
 - [Visual Diary Practice (2023)](https://www.youtube.com/watch?v=K20HswGAChQ&t=3s)
+- [Ask HN: Which photographers do you admire? (2023)](https://news.ycombinator.com/item?id=34704150)

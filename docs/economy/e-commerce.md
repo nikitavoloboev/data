@@ -200,3 +200,4 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 - [Remix E Commerce Site](https://github.com/jacob-ebey/remix-ecommerce)
 - [A Journey in E-commerce Search (2023)](https://danpalmer.me/2023-01-15-ecommerce-search-journey/)
 - [Optizio](https://optiz.io/) - Get expert team to build your Shopify app.
+- [Redbubble](https://www.redbubble.com/) - Awesome products designed by independent artists.

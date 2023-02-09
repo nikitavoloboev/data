@@ -143,3 +143,4 @@ title: GPU
 - [Use.GPU Goes Trad (2023)](https://acko.net/blog/use-gpu-goes-trad/) ([HN](https://news.ycombinator.com/item?id=34384719))
 - [GPU Caching Compared Among AMD, Intel UHD, Apple M1 (2022)](https://chipsandcheese.com/2022/05/21/igpu-cache-setups-compared-including-m1/) ([HN](https://news.ycombinator.com/item?id=34403464))
 - [GPUs for Deep Learning in 2023 – An In-depth Analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/) ([HN](https://news.ycombinator.com/item?id=34431056))
+- [GPU-Backed User Interfaces (2023)](https://digest.browsertech.com/archive/gpu-backed-user-interfaces/) ([HN](https://news.ycombinator.com/item?id=34692645))

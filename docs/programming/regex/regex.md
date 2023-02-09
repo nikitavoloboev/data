@@ -123,3 +123,4 @@ Match all that don't have notes or twitter in input
 - [Regular Expression Matching Can Be Simple And Fast (2007)](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 - [universalmutator](https://github.com/agroce/universalmutator) - Regexp based tool for mutating generic source code across numerous languages.
+- [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html) ([HN](https://news.ycombinator.com/item?id=34692373))

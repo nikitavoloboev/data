@@ -526,3 +526,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [FLAME: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779) ([HN](https://news.ycombinator.com/item?id=34607738))
 - [UwU](https://github.com/Deltaphish/UwUpp) - Next generation esoteric language.
 - [Compis](https://github.com/rsms/compis) - Contemporary systems programming language in the spirit of C.
+- [Volar.js](https://volarjs.github.io/) - Embedded Language Tooling Framework. ([Code](https://github.com/volarjs/volar.js)) ([Article](https://blog.vuejs.org/posts/volar-a-new-beginning.html))

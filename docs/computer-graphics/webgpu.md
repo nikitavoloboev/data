@@ -80,4 +80,5 @@ title: WebGPU
 - [Simple WebGPU](https://github.com/stackgpu/Simple-GPU) - Fast, functional webGPU.
 - [Collection of WGPU render pipelines](https://github.com/schell/renderling)
 - [Learn WebGPU for C++](https://eliemichel.github.io/LearnWebGPU/) ([Code](https://github.com/eliemichel/LearnWebGPU))
-- [WebGPU - Why Now (2023)](https://whynowtech.substack.com/p/webgpu)
+- [WebGPU - Why Now (2023)](https://mack.work/webgpu)
+- [An In-Depth Look at WebGPU (2023)](https://unzip.dev/0x00f-webgpu/) ([HN](https://news.ycombinator.com/item?id=34701833))

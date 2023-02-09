@@ -263,3 +263,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Sales calculations](https://github.com/chantelle-lingerie/sales) - Manage order calculations based on invoices, refunds, cancellations.
 - [How to Live in Three Places and Save Taxes (2023)](https://www.youtube.com/watch?v=KAJTZGhSVK4)
 - [Stripe Can’t Lose - But the the payments company’s dominance no longer seems inevitable (2023)](https://every.to/p/stripe-can-t-lose)
+- [Ask HN: HN for Finance? (2023)](https://news.ycombinator.com/item?id=34706550)

@@ -1038,3 +1038,6 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Infrastructure automation](https://github.com/rust-lang/simpleinfra)
 - [Choosing where to deploy a Rust application (2023)](https://www.youtube.com/watch?v=6yQfL-1yWNQ)
 - [Choosing a Rust Web Framework (2023)](https://www.youtube.com/watch?v=NXkZPyQcNgY)
+- [What's the difference between references and pointers in Rust? (2023)](https://ntietz.com/blog/rust-references-vs-pointers/) ([Lobsters](https://lobste.rs/s/u2rvqe/what_s_difference_between_references))
+- [Speeding up Rust semver-checking by over 2000x (2023)](https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/) ([Lobsters](https://lobste.rs/s/t4ssxd/speeding_up_rust_semver_checking_by_over))
+- [Improving incremental test times in Rust (2023)](https://blog.waleedkhan.name/rust-incremental-test-times/) ([Lobsters](https://lobste.rs/s/ktyp2q/improving_incremental_test_times_rust))

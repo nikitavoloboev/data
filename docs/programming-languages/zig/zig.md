@@ -171,3 +171,4 @@ title: Zig
 - [Thoughts on Zig (2023)](https://www.youtube.com/watch?v=zlWqpRTgXBg)
 - [3 things you might like about Zig (2023)](https://www.youtube.com/watch?v=3DxjZmLBizI)
 - [Why a linker author had to write a YAML parser in Zig (2022)](https://www.youtube.com/watch?v=EWrMPx40kn0)
+- [Zig Meta Programming (2023)](https://blog.deckc.hair/2023-02-08-zig-meta-programming.html)

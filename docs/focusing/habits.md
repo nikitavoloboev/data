@@ -53,3 +53,4 @@ I try learn new habits proactively by building systems and thought processes tha
 - [Have any of you picked up a habit after reading about it in a book?](https://www.reddit.com/r/books/comments/ycb6zi/have_any_of_you_picked_up_a_habit_after_reading/)
 - [What is a good habit you wish you had adopted when you were younger?](https://www.reddit.com/r/AskOldPeople/comments/zaa9wm/what_is_a_good_habit_you_wish_you_had_adopted/)
 - [Ask HN: How to do that you need to do but not motivated at all? (2022)](https://news.ycombinator.com/item?id=34000076)
+- [Ask HN: Habits that have improved your life in many dimensions (2023)](https://news.ycombinator.com/item?id=34689709)

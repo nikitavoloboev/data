@@ -252,3 +252,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [vendir](https://github.com/carvel-dev/vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively. ([Web](https://carvel.dev/vendir/))
 - [Little Loadshedder](https://github.com/Skepfyr/little-loadshedder) - Rust hyper/tower service that implements load shedding with queuing & concurrency limiting based on latency.
 - [OneUptime](https://oneuptime.com/) - Open-source complete SRE and DevOps platform. ([Code](https://github.com/OneUptime/oneuptime))
+- [Ask HN: Best practices for self-healing apps? (2023)](https://news.ycombinator.com/item?id=34706624)

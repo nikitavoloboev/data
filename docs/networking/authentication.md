@@ -295,3 +295,4 @@
 - [Collection of useful "no sign-in" web apps](https://twitter.com/mrdoob/status/1609874821479026689)
 - [Authorized Wire Authenticated Key Exchange (AWAKE)](https://github.com/ucan-wg/awake)
 - [Authentication Lab](https://github.com/digininja/authlab) - Selection of challenges all related to authentication or authorisation.
+- [Nango](https://www.nango.dev/) - Open-source OAuth service for 40+ APIs. ([HN](https://news.ycombinator.com/item?id=34693233))
