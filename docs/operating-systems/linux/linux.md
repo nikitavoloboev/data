@@ -686,3 +686,4 @@ title: Linux
 - [Ask HN: What Next After Ubuntu? (2023)](https://news.ycombinator.com/item?id=34570047)
 - [Linux Upskill Challenge (2023)](https://theleo.zone/posts/linux-upskill/) ([HN](https://news.ycombinator.com/item?id=34650735))
 - [FatELF](https://github.com/icculus/fatelf) - Universal binaries for Linux.
+- [Analyzing Linux Kernel Commits (2023)](https://sam4k.com/analysing-linux-kernel-commits/)

@@ -50,3 +50,4 @@ I often switch between `Week` and `Month` views.
 - [Zerocal - A Serverless Calendar App in Rust Running on shuttle.rs (2022)](https://endler.dev/2022/zerocal/) ([HN](https://news.ycombinator.com/item?id=33109513)) ([Code](https://github.com/mre/zerocal))
 - [Calendar Link](https://github.com/AnandChowdhary/calendar-link) - Calendar link generator for popular services.
 - [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface.
+- [Sabre/dav](https://sabre.io/) - Open-source CardDAV, CalDAV and WebDAV server. ([HN](https://news.ycombinator.com/item?id=34727223))

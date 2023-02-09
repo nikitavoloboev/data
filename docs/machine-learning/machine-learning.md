@@ -1068,3 +1068,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Impactful and widely cited papers and literature on ML](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 - [Resources of deep learning for mathematical reasoning](https://github.com/lupantech/dl4math)
 - [Homomorphic Learning study](https://github.com/redhat-et/homomorphic-learning)
+- [Speculative Sampling (2023)](https://jaykmody.com/blog/speculative-sampling/)
+- [Numerically Stable Softmax and Cross Entropy (2022)](https://jaykmody.com/blog/stable-softmax/)
+- [An Intuition for Attention (2022)](https://jaykmody.com/blog/attention-intuition/)

@@ -95,3 +95,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [ChatGPT - Review & Rebuttal](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - Browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 - [Supabase Clippy: ChatGPT for Supabase Docs (2023)](https://supabase.com/blog/chatgpt-supabase-docs) ([HN](https://news.ycombinator.com/item?id=34695306))
 - [ChatGPT3 Prompt Engineering](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) ([HN](https://news.ycombinator.com/item?id=34702915))
+- [GPT in 60 Lines of NumPy (2023)](https://jaykmody.com/blog/gpt-from-scratch/) ([HN](https://news.ycombinator.com/item?id=34726115))

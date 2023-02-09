@@ -334,6 +334,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Tweag](https://www.tweag.io/blog)
 - [Russ Cox](https://research.swtch.com/)
 - [Browsertech Digest](https://digest.browsertech.com/archive/)
+- [Jay Mody](https://jaykmody.com/)
 
 ## Notes
 

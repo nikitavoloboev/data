@@ -252,3 +252,4 @@ title: Vue.js
 - [Vute Vue Jump Plugin](https://github.com/johnsoncodehk/vite-plugin-vue-jump) - Support jump to source code of the specific element from your web page.
 - [Vue Final Modal](https://github.com/vue-final/vue-final-modal) - Renderless, mobile-friendly, feature-rich modal component.
 - [Nuxt 3 Kitchen Sink Template](https://github.com/vercel/nuxt3-kitchen-sink)
+- [Nuxt DevTools](https://github.com/nuxt/devtools)

@@ -2231,3 +2231,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [s3cme](https://github.com/mchmarny/s3cme) - Template Go app repo with image build/publish pipelines, SBOM, and SLSA provenance using OIDC, KMS and Artifact Registry.
 - [Examples of nice Go APIs (2023)](https://www.reddit.com/r/golang/comments/10l8r9n/is_there_a_good_example_of_an_open_source/)
 - [gotestiful](https://github.com/alex-parra/gotestiful) - gotest made beautiful.
+- [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation) (2023)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)

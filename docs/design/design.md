@@ -267,3 +267,5 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [Layers](https://layers.to) - Home for designers.
 - [UI design for HTTPie: macOS vibes for the API testing client (2023)](https://evilmartians.com/chronicles/ui-design-for-httpie-macos-vibes-for-the-api-testing-client)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/) ([HN](https://news.ycombinator.com/item?id=34684761))
+- [Diagram](https://diagram.com/) - Be more creative with generative design tools.
+- [Introducing Genius (2023)](https://blog.diagram.com/p/introducing-genius)

@@ -85,3 +85,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [What’s the most mind blowing presentation / talk you’ve ever seen? (2022)](https://twitter.com/patrick_oshag/status/1532428920808689670)
 - [Notes on Every Strangeloop 2022 Talk I Attended (2022)](https://www.hillelwayne.com/post/strangeloop-22/)
 - [Public Speaking Best Practices](https://github.com/visualpartnership/public-speaking)
+- [FOSDEM 2023 - Talks](https://fosdem.org/2023/schedule/events/) ([HN](https://news.ycombinator.com/item?id=34728919))
