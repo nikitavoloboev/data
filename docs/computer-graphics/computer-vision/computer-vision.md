@@ -1140,3 +1140,4 @@
 - [ESP-WHO](https://github.com/espressif/esp-who) - Face detection and recognition framework.
 - [Egocentric Video-Language Pretraining (2022)](https://arxiv.org/abs/2206.01670) ([Code](https://github.com/showlab/EgoVLP))
 - [EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations (2022)](https://arxiv.org/abs/2207.06635) ([Code](https://github.com/ML-GSAI/EGSDE))
+- [Revealing Single Frame Bias for Video-and-Language Learning (2022)](https://arxiv.org/abs/2206.03428) ([Code](https://github.com/jayleicn/singularity))

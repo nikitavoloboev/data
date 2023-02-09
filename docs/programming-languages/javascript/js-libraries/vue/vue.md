@@ -253,3 +253,4 @@ title: Vue.js
 - [Vue Final Modal](https://github.com/vue-final/vue-final-modal) - Renderless, mobile-friendly, feature-rich modal component.
 - [Nuxt 3 Kitchen Sink Template](https://github.com/vercel/nuxt3-kitchen-sink)
 - [Nuxt DevTools](https://github.com/nuxt/devtools)
+- [Vue Google Sign In](https://github.com/syetalabs/vue3-google-signin)

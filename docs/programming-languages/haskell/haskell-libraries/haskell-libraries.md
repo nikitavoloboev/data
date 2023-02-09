@@ -419,6 +419,8 @@
 - [transitive-anns](https://github.com/isovector/transitive-anns) - Transitively track and reify annotations across a codebase.
 - [jrec](https://github.com/juspay/jrec) - Anonymous records for busy people.
 - [svg-tree](https://github.com/Twinside/svg-tree) - SVG loader/serializer for Haskell with a tree type geared toward SVG rendering.
+- [with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try.
+- [Hi-Fi](https://github.com/aaronallen8455/hi-fi) - Higher kinded records plugin.
 
 ## Notes
 

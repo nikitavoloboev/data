@@ -95,3 +95,4 @@ Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 - [OpenAPI generation from Protobuf](https://github.com/technicallyjosh/protoc-gen-openapi)
 - [PGGT](https://github.com/srikrsna/protoc-gen-gotag) - Protoc plugin used to add/replace struct tags on generated protobuf messages.
 - [Fast and dynamic encoding of Protocol Buffers in Go (2023)](https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang) ([HN](https://news.ycombinator.com/item?id=34677361))
+- [prost-reflect](https://github.com/andrewhickman/prost-reflect) - Protobuf library extending prost with reflection support and dynamic messages.

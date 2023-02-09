@@ -104,6 +104,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-tty](https://github.com/mattn/go-tty) - Simple tty utility.
 - [shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments.
 - [mainer](https://github.com/mna/mainer) - Defines types relevant to flag parsing and command entrypoint implementation.
+- [termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go.
 
 ## Test
 
@@ -749,6 +750,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-iptables](https://github.com/coreos/go-iptables) - Go bindings for iptables utility.
 - [golang-evdev](https://github.com/gvalkov/golang-evdev) - Go bindings for the linux input subsystem.
 - [gpiod](https://github.com/warthog618/gpiod) - Native Go library for Linux GPIO.
+- [wl](https://github.com/DeedleFake/wl) - Pure Go Wayland protocol implementation.
 
 ## Apple
 

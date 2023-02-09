@@ -70,6 +70,7 @@ title: Assembly
 - [Generating a QR code with only ARM Assembly](https://github.com/barrettotte/qr-asm) ([HN](https://news.ycombinator.com/item?id=28458818))
 - [Arm AArch64 Adds Memcpy() Instructions (2021)](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021) ([HN](https://news.ycombinator.com/item?id=28601386))
 - [Sail](https://www.cl.cam.ac.uk/~pes20/sail/) - Language for describing the instruction-set architecture (ISA) semantics of processors. ([Code](https://github.com/rems-project/sail))
+- [Isla](https://github.com/rems-project/isla) - Symbolic execution tool for Sail ISA specifications.
 - [Art of Assembly Language Programming and HLA by Randall Hyde](https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html)
 - [Zen of Assembly Language (1990)](https://github.com/jagregory/abrash-zen-of-asm)
 - [x86 assembly doesn’t have to be scary (2018)](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial) ([HN](https://news.ycombinator.com/item?id=28770907))

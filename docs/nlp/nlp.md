@@ -818,3 +818,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees (2023)](https://arxiv.org/abs/2209.10492) ([Code](https://github.com/swarnaHub/SummarizationPrograms))
 - [Online Language Modelling Training Pipeline](https://github.com/huggingface/olm-training)
 - [Storing OpenAI embeddings in Postgres with pgvector (2023)](https://supabase.com/blog/openai-embeddings-postgres-vector) ([HN](https://news.ycombinator.com/item?id=34684593))
+- [Theory of Mind May Have Spontaneously Emerged in Large Language Models (2023)](https://arxiv.org/abs/2302.02083) ([HN](https://news.ycombinator.com/item?id=34730365))

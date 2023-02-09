@@ -487,6 +487,7 @@
 - [LibColony](https://github.com/mafik/libcolony) - C++ (and JavaScript) library for task sheduling, perfect for colony simulation games. ([Web](https://mrogalski.eu/libcolony/))
 - [Gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [Contourklip](https://github.com/verven/contourklip) - C++ library for boolean operations on contours. Including cubic beziers.
+- [emhash](https://github.com/ktprime/emhash) - Very fast and memory efficient c++ flat hash map/set.
 
 ## Links
 

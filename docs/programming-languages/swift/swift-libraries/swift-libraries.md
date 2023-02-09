@@ -1423,6 +1423,7 @@
 - [GoogleCloudKit](https://github.com/vapor-community/google-cloud-kit)
 - [Bytes](https://github.com/mochidev/Bytes) - Swift Library for working with sequences of Bytes.
 - [EditorConfig](https://github.com/ChimeHQ/EditorConfig) - Swift library for working with .editorconfig files.
+- [SwiftOxide](https://github.com/KennethYoel/SwiftOxide) - Swift wrapper for a Rust library, allowing us to use Rust as a library within Swift.
 
 ## Other (not lib)
 

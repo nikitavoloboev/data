@@ -160,3 +160,4 @@ title: Three.js
 - [React Particles WebGL](https://github.com/tim-soft/react-particles-webgl) - 2D/3D particle library built on React, Three and WebGL.
 - [Screen-space raymarched godrays for three.js using the pmndrs postprocessing library](https://github.com/Ameobea/three-good-godrays)
 - [Magnify 3D](https://github.com/amitdiamant/magnify-3d) - Real time JS optic magnifying glass library.
+- [ThreeGN](https://threegn.app/) - Procedural 3D graphics editor for the web. ([Code](https://github.com/roman01la/threegn))

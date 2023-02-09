@@ -274,4 +274,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcst API](https://github.com/shantanuraj/podcst-api) - Thin wrapper around the iTunes Search API.
 - [Podcast Summarizer](https://github.com/FanaHOVA/podcast-summarizer) - OpenAI Whisper + davinci for podcast summarization.
 - [Podcast Search](https://podsearch.david-smith.org/) - Whisper Generated Transcripts Shows.
-- [PodText](https://podtext.ai/) - Search anything said on a podcast, highlight text to play.
+- [PodText](https://podtext.ai/) - Search anything said on a podcast, highlight text to play. ([HN](https://news.ycombinator.com/item?id=34727695))

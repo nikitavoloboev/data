@@ -253,3 +253,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Little Loadshedder](https://github.com/Skepfyr/little-loadshedder) - Rust hyper/tower service that implements load shedding with queuing & concurrency limiting based on latency.
 - [OneUptime](https://oneuptime.com/) - Open-source complete SRE and DevOps platform. ([Code](https://github.com/OneUptime/oneuptime))
 - [Ask HN: Best practices for self-healing apps? (2023)](https://news.ycombinator.com/item?id=34706624)
+- [Enrolla](https://www.enrolla.io/) - Open source feature flags for B2Bs. ([Code](https://github.com/enrolla/enrolla)) ([HN](https://news.ycombinator.com/item?id=34692177))

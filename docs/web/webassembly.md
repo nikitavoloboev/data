@@ -422,3 +422,4 @@ title: WebAssembly
 - [WasmEdge Reqwest Demo](https://github.com/WasmEdge/wasmedge_reqwest_demo)
 - [function-runner](https://github.com/Shopify/function-runner) - Run Wasm Functions intended for the Shopify Functions infrastructure.
 - [I/O Types proposal for WASI](https://github.com/WebAssembly/wasi-io)
+- [WebAssembly interpreter](https://github.com/yamt/toywasm)

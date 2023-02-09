@@ -426,6 +426,7 @@
 - [boh](https://github.com/EmbarkStudios/boh) - Tiny thing that can hold many things.
 - [Nut](https://github.com/Reeywhaar/nut) - Port of Bolt DB in Rust.
 - [Remi](https://github.com/Noelware/remi-rs) - Robust, and simple asynchronous Rust crate to handle storage-related communications with different storage providers.
+- [SQLx Conditional Queries](https://github.com/kyrias/sqlx-conditional-queries) - Conditional compile-time verified queries with SQLx.
 
 ## Video
 
@@ -2635,6 +2636,7 @@
 - [Rattler](https://github.com/mamba-org/rattler) - Common functionality used within the Conda ecosystem.
 - [concache](https://github.com/saligrama/concache) - Linked-list based, lock-free concurrent hashmap in Rust.
 - [image-tiff](https://github.com/image-rs/image-tiff) - TIFF decoding and encoding library in pure Rust.
+- [Monostate](https://github.com/dtolnay/monostate) - Type that deserializes only from one specific value.
 
 ## Cargo Plugins
 

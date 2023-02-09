@@ -49,6 +49,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pgzod](https://github.com/owncoral/pgzod) - Transform PostgreSQL schemas into Zod validators and types.
 - [Pinecone.io Client](https://github.com/rileytomasek/pinecone-client) - Fetch based client for the Pinecone.io vector database with excellent TypeScript support.
 - [Orchid ORM](https://github.com/romeerez/orchid-orm)
+- [supabase-query](https://github.com/HermanNygaard/supabase-query) - Supercharge your development speed with Supabase and react-query, combined.
 
 ## Web
 
@@ -156,6 +157,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## CLI
 
+- [clack](https://github.com/natemoo-re/clack) - Effortless command line applications.
 - [ultraflag](https://github.com/natemoo-re/ultraflag) - 1kB library for parsing CLI flags.
 - [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.

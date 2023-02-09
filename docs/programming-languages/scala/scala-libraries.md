@@ -67,6 +67,7 @@
 - [kallikrein](https://github.com/tek/kallikrein) - Scala testing framework for sbt focused on running cats-effect based programs.
 - [specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
 - [scalaprops](https://github.com/scalaprops/scalaprops) - Property based testing library for Scala.
+- [Americium](https://github.com/sageserpent-open/americium) - Generation of test case data for Scala and Java, in the spirit of QuickCheck.
 
 ## GraphQL
 

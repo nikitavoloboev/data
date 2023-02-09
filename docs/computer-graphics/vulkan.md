@@ -115,3 +115,4 @@ title: Vulkan API
 - [Vulkan Template](https://github.com/SaschaWillems/VulkanTemplate) - Vulkan template with light abstraction as a base for personal projects.
 - [Vulkan Hardware Capability Viewer](https://github.com/SaschaWillems/VulkanCapsViewer)
 - [Exploring Rust for Vulkan drivers (2023)](https://www.collabora.com/news-and-blog/blog/2023/02/02/exploring-rust-for-vulkan-drivers-part-1/) ([HN](https://news.ycombinator.com/item?id=34627754))
+- [vkoverhead](https://github.com/zmike/vkoverhead) - Tool for evaluating CPU-based overhead of Vulkan drivers.

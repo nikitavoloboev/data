@@ -10,7 +10,7 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 
 Like the advice of: [try everything, figure out what you do best, make money from it. Stop caring what people think about you early](https://www.tiktok.com/@_notesformen/video/7167063418308971781). I try define these kind of [rules and more for myself](../focusing/rules.md).
 
-[Blueprint](https://blueprint.bryanjohnson.co/) has [interesting ideas](https://www.youtube.com/watch?v=aXdEPiFlqH8). I love that it's [vegan](../environment/veganism.md) based too.
+[Blueprint](https://blueprint.bryanjohnson.co/) has [interesting ideas](https://www.youtube.com/watch?v=aXdEPiFlqH8). I love that it's [vegan](../environment/veganism.md) based too. Trying to adapt [some ideas](https://www.youtube.com/watch?v=7rs_JK-pTTQ) from it as my goals with respect to [health](health.md) and longevity are to maximize [happiness](../life/happiness.md) too and Bryan's method while it can work, does so at the expense of some life satisfaction.
 
 ## Notes
 
@@ -137,3 +137,4 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [Anti-Aging Techniques Taken to Extreme by Bryan Johnson (2023)](https://www.bloomberg.com/news/features/2023-01-25/anti-aging-techniques-taken-to-extreme-by-bryan-johnson)
 - [My Anti-Aging Protocol Broke a World Record (2023)](https://www.youtube.com/watch?v=aXdEPiFlqH8)
 - [Observations from 9 Months of (Modified) Blueprint](https://www.reddit.com/r/blueprint_/comments/ywys43/observations_from_9_months_of_modified_blueprint/)
+- [Can ‘Blueprint’ make you biologically younger? (2023)](https://www.youtube.com/watch?v=7rs_JK-pTTQ)

@@ -96,3 +96,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Supabase Clippy: ChatGPT for Supabase Docs (2023)](https://supabase.com/blog/chatgpt-supabase-docs) ([HN](https://news.ycombinator.com/item?id=34695306))
 - [ChatGPT3 Prompt Engineering](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) ([HN](https://news.ycombinator.com/item?id=34702915))
 - [GPT in 60 Lines of NumPy (2023)](https://jaykmody.com/blog/gpt-from-scratch/) ([HN](https://news.ycombinator.com/item?id=34726115))
+- [Bing Chat API](https://github.com/transitive-bullshit/bing-chat) - Node.js wrapper around Bing Chat by Microsoft.
+- [HackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things.

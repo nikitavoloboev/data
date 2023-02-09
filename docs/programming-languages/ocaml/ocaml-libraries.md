@@ -247,6 +247,7 @@ title: OCaml libraries
 - [talaria_bibtex](https://github.com/Octachron/talaria_bibtex) - Bibtex file parser.
 - [Mmap](https://github.com/deepin-community/ocaml-mmap) - Functions for mapping files in memory.
 - [PCRE-OCaml](https://github.com/mmottl/pcre-ocaml) - Perl Compatibility Regular Expressions for OCaml.
+- [kcas](https://github.com/ocaml-multicore/kcas) - Multi-word compare-and-swap library.
 
 ## Links
 
