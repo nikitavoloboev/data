@@ -139,3 +139,4 @@ title: Apache Kafka
 - [ZIO Kafka](https://github.com/zio/zio-kafka) - Kafka client for ZIO and ZIO Streams in Scala.
 - [KStream](https://github.com/tryfix/kstream) - Apache Kafka Streams for Go.
 - [Kafka in 100 Seconds (2023)](https://www.youtube.com/watch?v=uvb00oaa3k8)
+- [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/) ([HN](https://news.ycombinator.com/item?id=34716797))

@@ -364,3 +364,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Endofunctor](https://github.com/mimiMonads/functor) - Functional router for Deno.
 - [Rutt](https://github.com/denosaurs/rutt) - Tiny and fast http request router designed for use with deno and deno deploy.
 - [Duno.land](https://duno.land/) - Why Deno isn't ready yet. ([Code](https://github.com/dunosaurs/duno.land))
+- [Build a Simple Image Resizing API in less than 100 LOC (2023)](https://deno.com/blog/build-image-resizing-api)
