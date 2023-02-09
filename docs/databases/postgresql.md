@@ -660,3 +660,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg-diff-sync](https://github.com/wmfs/pg-diff-sync) - Takes two objects that describe the structure of a database and produces the PostgreSQL statements required to get from one to the other.
 - [Neon Database Serverless](https://github.com/neondatabase/serverless) - Connect to PostgreSQL from serverless/worker/edge functions which have WebSockets but not TCP.
 - [Supabase Blog](https://supabase.com/blog)
+- [The Design of Postgres (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf) ([HN](https://news.ycombinator.com/item?id=34689143))

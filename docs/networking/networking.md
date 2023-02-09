@@ -582,3 +582,4 @@
 - [3proxy](https://github.com/3proxy/3proxy) - Tiny free proxy server.
 - [MicroSocks](https://github.com/rofl0r/microsocks) - Portable SOCKS5 server with very moderate resource usage.
 - [Zrok](https://github.com/openziti/zrok) - Open-source peer to peer. ([Web](https://zrok.io/)) ([HN](https://news.ycombinator.com/item?id=34709487))
+- [My network home setup V4 (2023)](https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html) ([HN](https://news.ycombinator.com/item?id=34723971))

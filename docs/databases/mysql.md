@@ -15,3 +15,4 @@
 - [MySQL Server Exporter](https://github.com/prometheus/mysqld_exporter) - Prometheus exporter for MySQL server metrics.
 - [MySQL Tester](https://github.com/pingcap/mysql-tester) - Go implementation of MySQL Test Framework.
 - [MySQL for Developers, presented by PlanetScale](https://planetscale.com/mysql-for-developers)
+- [FlexiRaft: Flexible Quorums with Raft (2023)](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)

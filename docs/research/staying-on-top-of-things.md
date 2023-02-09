@@ -292,3 +292,4 @@ And these Discord servers:
 - [Ask HN: Sites with the quality of Hacker News, but for more general topics? (2023)](https://news.ycombinator.com/item?id=34302827)
 - [GitHub Trending / HN feeds in one page](https://misty-dust-4870.fly.dev/) ([Code](https://github.com/norflin321/os-pulse))
 - [Ask HN: Do you subscribe to print magazines anymore? (2023)](https://news.ycombinator.com/item?id=34670619)
+- [Ask HN: How do you deal with information and internet addiction? (2023)](https://news.ycombinator.com/item?id=34710830)

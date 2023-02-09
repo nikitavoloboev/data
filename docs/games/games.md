@@ -205,6 +205,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Zelda 3](https://github.com/snesrev/zelda3) - Reimplementation of Zelda 3.
 - [Stella Dei](https://github.com/PixelGuys/Stella-Dei) - SimEarth-like sandbox game where you can make and develop your very own planet.
 - [Hack Words](https://hack-words.com/) - Game about words that hack images via compressed sensing.
+- [Kuboble](https://kuboble.com/) - Minimalistic sliding pieces puzzle game. ([HN](https://news.ycombinator.com/item?id=34706098))
 
 ## Awesome games (other)
 

@@ -502,3 +502,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review PRs on nixpkgs.
 - [Tooling for the simple-package-paths Nix RFC](https://github.com/nixpkgs-architecture/nix-spp)
 - [Scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files.
+- [Flox](https://github.com/flox/flox) - Multi-platform environment manager built on Nix.

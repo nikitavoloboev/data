@@ -565,3 +565,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps. ([Web](https://touchhle.org/))
 - [Scriptable scripts for iOS](https://github.com/ajatkj/scriptable)
 - [The evolution of Facebook’s iOS app architecture (2023)](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
+- [Run CLIP on iPhone to search photos (2022)](https://mazzzystar.github.io/2022/12/29/Run-CLIP-on-iPhone-to-Search-Photos/) ([HN](https://news.ycombinator.com/item?id=34686947))
