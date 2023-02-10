@@ -6,6 +6,7 @@ title: Astro
 
 ## OSS Astro sites
 
+- [Astro Blog example with SPA transitions](https://stackblitz.com/edit/github-v3zaa5?file=src%2Fcomponents%2FBaseHead.astro)
 - [AstroWind](https://github.com/onwidget/astrowind) - Template to make your website using Astro + Tailwind CSS.
 - [Astroship](https://github.com/surjithctly/astroship) - Starter template for startups, marketing websites, landing pages & blog.
 - [SPA Template using Astro and SolidJS](https://github.com/lxsmnsyc/astro-solid-spa)
@@ -82,3 +83,4 @@ title: Astro
 - [HoustonAI](https://houston.astro.build/) - Astro Assistant. ([Code](https://github.com/withastro/houston.astro.build))
 - [Astro Examples](https://github.com/MicroWebStacks/astro-examples) - Astro design patterns examples, client-server state management, markdown, caching.
 - [How to add client-side search with PageFind to your Astro blog static website (2023)](https://lirantal.com/blog/2023-01-01_-how_to_add_client-side_search_to_your_astro_blog_static_website)
+- [Islands Architecture, Astro, and You | Nate Moore (2022)](https://www.youtube.com/watch?v=SICd8tTEqvs)

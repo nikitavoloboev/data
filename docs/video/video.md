@@ -490,3 +490,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [FFdynamic](https://github.com/Xingtao/FFdynamic) - Extend FFmpeg with run time control and dynamic audio/video composition.
 - [YoutubeSync](https://github.com/Joystream/youtube-synch)
 - [Mux Meet](https://github.com/muxinc/meet) - Meeting app built on Mux Real-Time Video.
+- [Why i've FULLY switched to Davinci Resolve (and why you should too)](https://www.youtube.com/watch?v=LhONgaaLjHk)

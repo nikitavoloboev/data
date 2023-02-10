@@ -125,7 +125,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [IndexedDB](https://github.com/jakearchibald/idb) - IndexedDB, but with promises.
 - [JsStore](https://github.com/ujjwalguptaofficial/JsStore) - Complete IndexedDB wrapper with SQL like syntax. ([Web](https://jsstore.net/))
 - [Quadrable](https://github.com/hoytech/quadrable) - Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs.
-- [Manticore Search](https://github.com/manticoresoftware/manticoresearch) - Database designed specifically for search, including full-text search. ([HN](https://news.ycombinator.com/item?id=32261618))
+- [Manticore Search](https://github.com/manticoresoftware/manticoresearch) - Database designed specifically for search, including full-text search. ([HN](https://news.ycombinator.com/item?id=32261618)) ([HN](https://news.ycombinator.com/item?id=34741018))
 - [Amazon QLDB](https://aws.amazon.com/qldb/) - Fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. ([Awesome](https://github.com/mlewis7127/awesome-qldb))
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - Graph database implementing the SPARQL standard.
 - [JavaScript Database (JSDB)](https://github.com/small-tech/jsdb) - Transparent, in-memory, streaming write-on-update JavaScript database for Small Web applications that persists to a JavaScript transaction log. ([Intro](https://ar.al/2020/10/20/introducing-jsdb/)) ([Lobsters](https://lobste.rs/s/76eboi/introducing_jsdb))

@@ -291,6 +291,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What do you feel the best looking PS5 games are so far? (2023)](https://www.reddit.com/r/PS5/comments/10rx185/what_do_you_feel_the_best_looking_ps5_games_are/)
 - [Games similar to Last of Us](https://www.reddit.com/r/thelastofus/comments/10ub6sc/hi_i_just_finished_tlou_2_walkthrough_and_idk/)
 - [What games are you playing at the moment and what do you like about them? (2023)](https://www.reddit.com/r/PS4/comments/10uqyhp/what_games_are_you_playing_at_the_moment_and_what/)
+- [Games with really good AI (2023)](https://www.reddit.com/r/patientgamers/comments/10ygatb/games_with_really_good_ai/)
 
 ## Links
 

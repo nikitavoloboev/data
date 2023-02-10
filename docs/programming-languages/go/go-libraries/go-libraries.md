@@ -2053,7 +2053,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go Qdrant client](https://github.com/qdrant/go-client)
 - [form](https://github.com/ajg/form) - Form Encoding & Decoding Package for Go.
 - [borsh-go](https://github.com/near/borsh-go) - Go implementation of Binary Object Representation Serializer for Hashing.
-- [Workgroup](https://github.com/carlmjohnson/workgroup) - Generic Go library that provides a structured approach to concurrent programming.
+- [Workgroup](https://github.com/carlmjohnson/workgroup) - Generic Go library that provides a structured approach to concurrent programming. ([Lobsters](https://lobste.rs/s/ofhisc/building_conc_better_structured#c_kkvmkp))
 
 ## Links
 
