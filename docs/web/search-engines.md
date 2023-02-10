@@ -328,3 +328,4 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 - [Ask HN: How do you find stuff on the internet now? (2023)](https://news.ycombinator.com/item?id=34694546)
 - [Ask HN: Are we sure LLMs are that useful in a web search application? (2023)](https://news.ycombinator.com/item?id=34723275)
 - [ql-grep](https://github.com/travitch/ql-grep) - Code search tool that implements CodeQL on the tree-sitter infrastructure.
+- [New approach to domain ranking (2023)](https://memex.marginalia.nu/log/73-new-approach-to-ranking.gmi)

@@ -2647,6 +2647,7 @@
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
 - [io-streams](https://github.com/sunfishcode/io-streams) - Unbuffered and unlocked I/O streams.
 - [socketpair](https://github.com/sunfishcode/socketpair) - Cross-platform socketpair functionality.
+- [Hexx](https://github.com/ManevilleF/hexx) - Hexagonal tools lib in rust.
 
 ## Cargo Plugins
 
