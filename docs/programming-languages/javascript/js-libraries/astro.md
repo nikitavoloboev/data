@@ -7,6 +7,7 @@ title: Astro
 ## OSS Astro sites
 
 - [AstroWind](https://github.com/onwidget/astrowind) - Template to make your website using Astro + Tailwind CSS.
+- [Astroship](https://github.com/surjithctly/astroship) - Starter template for startups, marketing websites, landing pages & blog.
 - [SPA Template using Astro and SolidJS](https://github.com/lxsmnsyc/astro-solid-spa)
 - [Astro Starter Kit: Minimal](https://github.com/mattrothenberg/1kx-astro)
 - [Astro app with the Netlify adapter using Edge Functions](https://github.com/sarahetter/astro-netlify-edge-starter)

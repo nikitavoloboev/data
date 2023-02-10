@@ -527,3 +527,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [SuperCollider Tree Sitter](https://github.com/madskjeldgaard/tree-sitter-supercollider) - SuperCollider grammar for the tree-sitter code parser.
 - [The founder of Teenage Engineering opens up to his creative space](https://scandinavianmind.com/feature/human-touch-interview-jesper-kouthoofd-teenage-engineering) ([HN](https://news.ycombinator.com/item?id=34664513))
 - [TR-101 - Drum Machine](https://tr101.vercel.app/) - Made with Vue and the WebAudio API. ([Code](https://github.com/amilajack/drum-machine))
+- [Polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML.

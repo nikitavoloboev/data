@@ -1071,3 +1071,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Speculative Sampling (2023)](https://jaykmody.com/blog/speculative-sampling/)
 - [Numerically Stable Softmax and Cross Entropy (2022)](https://jaykmody.com/blog/stable-softmax/)
 - [An Intuition for Attention (2022)](https://jaykmody.com/blog/attention-intuition/)
+- [Latent State Marginalization as a Low-cost Approach for Improving Exploration (2023)](https://arxiv.org/abs/2210.00999) ([Code](https://github.com/zdhNarsil/Stochastic-Marginal-Actor-Critic))

@@ -107,6 +107,7 @@
 - [Wisp](https://github.com/cashapp/wisp) - Utilities, including config, logging, feature flags and more.
 - [Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform.
 - [Misk](https://github.com/cashapp/misk) - Microservice Kontainer.
+- [Zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs.
 
 ## Links
 

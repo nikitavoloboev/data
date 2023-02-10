@@ -90,3 +90,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [genanki-js](https://github.com/krmanik/genanki-js) - JavaScript implementation for generating Anki decks in browser client side.
 - [Anki and GPT-3](https://github.com/AndrewJudson/ankiextension) ([HN](https://news.ycombinator.com/item?id=34622913))
 - [Anki Beginner Tips (2023)](https://eitherway.io/posts/anki-beginner-tips/)
+- [Mnemosyne](https://github.com/mnemosyne-proj/mnemosyne) - Efficient learning with powerful digital flash-cards.

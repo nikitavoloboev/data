@@ -158,6 +158,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## CLI
 
 - [clack](https://github.com/natemoo-re/clack) - Effortless command line applications.
+- [Tiny Bin](https://github.com/fabiospampinato/tiny-bin) - Library for building tiny and beautiful command line apps.
 - [ultraflag](https://github.com/natemoo-re/ultraflag) - 1kB library for parsing CLI flags.
 - [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.

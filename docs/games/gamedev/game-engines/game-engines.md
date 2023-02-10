@@ -141,6 +141,7 @@
 - [TinyEngine](https://github.com/weigert/TinyEngine) - Tiny OpenGL Wrapper / 3D Engine in C++.
 - [Indigo](https://github.com/PurpleKingdomGames/indigo) - Game engine written in Scala for functional programmers.
 - [QCVM](https://github.com/JaycieErysdren/QCVM) - Bite-sized QuakeC VM written in C. ([HN](https://news.ycombinator.com/item?id=34672598))
+- [Minimax](https://github.com/roman01la/minimax) - Minimalist 3D game engine in Clojure.
 
 ## Physics engines
 

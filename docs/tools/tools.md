@@ -830,3 +830,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Watermark Remover](https://www.watermarkremover.io/) - Remove Watermarks Online from Images for Free.
 - [jamie](https://www.meetjamie.ai/) - AI Assistant for Meeting Summaries. ([HN](https://news.ycombinator.com/item?id=34613598))
 - [Kagi](https://labs.kagi.com/ai/sum) - Universal Summarizer. ([HN](https://news.ycombinator.com/item?id=34646389))
+- [Uneed](https://www.uneed.best/) - Best tools on the internet.

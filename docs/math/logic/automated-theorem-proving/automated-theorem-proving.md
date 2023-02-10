@@ -39,3 +39,4 @@ title: Automated theorem proving
 - [PML](https://github.com/rlepigre/pml) - Language provides a uniform environment for programming, and for proving properties of programs in an ML-like setting.
 - [AUTO2](https://github.com/bzhan/auto2) - Best-first-search theorem prover implemented in Isabelle.
 - [Tutorials and courses for Z3](https://github.com/microsoft/z3guide)
+- [Proost](https://github.com/proost-assistant/proost) - Simple proof assistant written in Rust.

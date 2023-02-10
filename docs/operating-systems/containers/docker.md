@@ -289,3 +289,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [A comprehensive guide for the fastest possible Docker builds in human existence (2023)](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
 - [runlike](https://github.com/lavie/runlike) - Given an existing Docker container, prints the command line to run it. ([HN](https://news.ycombinator.com/item?id=34450880))
 - [Ask HN: What is the best source to learn Docker in 2023?](https://news.ycombinator.com/item?id=34563353)
+- [Go Docker client](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.

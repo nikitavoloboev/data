@@ -241,6 +241,7 @@
 - [Ultraviolet](https://github.com/PurpleKingdomGames/ultraviolet) - Scala 3 to GLSL transpiler library.
 - [kinesis4cats](https://github.com/etspaceman/kinesis4cats) - Comprehensive Scala library for Kinesis.
 - [Systolic Array](https://github.com/hngenc/systolic-array) - DSL for Systolic Arrays.
+- [SFML Scala Native](https://github.com/lafeychine/scala-native-sfml) - Scala Native binding of the SFML graphic library.
 
 ## Links
 

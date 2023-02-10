@@ -168,3 +168,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [Zap](https://github.com/SteveGremory/Zap) - Extremely fast alternative to zip which is written in rust.
 - [WASM compression benchmarks and the cost of missing compression APIs (2023)](https://nickb.dev/blog/wasm-compression-benchmarks-and-the-cost-of-missing-compression-apis/) ([HN](https://news.ycombinator.com/item?id=34609093))
 - [Video Compression for Mere Mortals (2023)](https://xeiaso.net/blog/video-compression)
+- [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/) ([HN](https://news.ycombinator.com/item?id=34731679))

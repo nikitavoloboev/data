@@ -156,3 +156,4 @@ title: AWS Lambda
 - [Enable your AWS Lambda hosted applications to stream responses via Cloudflare Workers](https://github.com/jacob-ebey/cf-lambda-streaming)
 - [Add HTTP Streaming to your Lambda Functions](https://github.com/tom-sherman/lambda-streaming-demo)
 - [Lambda Cold Starts analysis](https://maxday.github.io/lambda-perf/) ([Code](https://github.com/maxday/lambda-perf))
+- [ridgenative](https://github.com/shogo82148/ridgenative) - AWS Lambda HTTP Proxy integration event bridge to Go net/http.

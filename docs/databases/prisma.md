@@ -4,7 +4,7 @@ title: Prisma
 
 # [Prisma](https://www.prisma.io/)
 
-Using it to currently to manage my schema and ORM for [LA](../ideas/learn-anything.md). 
+Using it to currently to manage my schema and ORM for [LA](../ideas/learn-anything.md).
 
 [EdgeDB](edgedb.md) is nice alternative and has a [better way to do queries](https://www.youtube.com/watch?v=WVRLim8A8-I&t=1906s). Might move to it soon.
 
@@ -135,3 +135,4 @@ Using it to currently to manage my schema and ORM for [LA](../ideas/learn-anythi
 - [Prisma generator for model factories](https://github.com/Quramy/prisma-fabbrica)
 - [Zod Prisma Types](https://github.com/chrishoermann/zod-prisma-types) - Creates zod types for your prisma models with advanced validation.
 - [Prisma JSON Types Generator](https://github.com/arthurfiorette/prisma-json-types-generator)
+- [Alternative Prisma Data Proxy](https://github.com/aiji42/prisma-data-proxy-alt)

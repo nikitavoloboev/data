@@ -1,6 +1,6 @@
 # Networking
 
-[Everything I know about networking](https://tomaka.medium.com/everything-i-know-about-networking-8796e4f5846d) & [broad intro](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.html) are great introds.
+[Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW), [Everything I know about networking](https://tomaka.medium.com/everything-i-know-about-networking-8796e4f5846d) & [broad intro](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.html) are great intros.
 
 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) is great for in depth study.
 
@@ -583,3 +583,4 @@
 - [MicroSocks](https://github.com/rofl0r/microsocks) - Portable SOCKS5 server with very moderate resource usage.
 - [Zrok](https://github.com/openziti/zrok) - Open-source peer to peer. ([Web](https://zrok.io/)) ([HN](https://news.ycombinator.com/item?id=34709487))
 - [My network home setup V4 (2023)](https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html) ([HN](https://news.ycombinator.com/item?id=34723971))
+- [Networking tutorial - YouTube](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)

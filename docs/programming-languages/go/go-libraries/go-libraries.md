@@ -404,6 +404,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [genhapi](https://github.com/thnxdev/genhapi) - Opinionated tool for generating request-handler boilerplate for Go.
 - [GoLive](https://github.com/canopyclimate/golive) - Library for building LiveViews in Go.
 - [uRouter](https://github.com/lxzan/uRouter) - HTTP & WebSocket router library for Go.
+- [fcors](https://github.com/jub0bs/fcors) - Fearless CORS - a principled CORS middleware library for Go.
 
 ## GraphQL
 
@@ -2048,6 +2049,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [nilable](https://github.com/otterize/nilable) - Tiny Go generics library for making non-nilable values nilable.
 - [memorycache](https://github.com/lxzan/memorycache) - Concurrent hashmap with ttl.
 - [tar-diff](https://github.com/containers/tar-diff) - Go library and set of command line tools to diff and patch tar files.
+- [otp](https://github.com/cristalhq/otp) - One time password for Go.
+- [Go Qdrant client](https://github.com/qdrant/go-client)
 
 ## Links
 

@@ -538,6 +538,7 @@
 - [NSI](https://github.com/virtualritz/nsi) - High level Rust bindings for Illumination Research’s Nodal Scene Interface.
 - [Masonry](https://github.com/PoignardAzur/masonry-rs) - Rust UI design toolkit. ([0.1 release](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)) ([HN](https://news.ycombinator.com/item?id=34671478))
 - [concoct](https://github.com/concoct-rs/concoct) - Cross-platform UI framework in rust.
+- [scene-graph](https://github.com/sanbox-irl/scene-graph) - Scene-graph implementation in Rust.
 
 ## Games
 
@@ -1027,6 +1028,7 @@
 - [tuple_list](https://github.com/VFLashM/tuple_list) - Rust crate for macro-free variadic tuple metaprogramming.
 - [naked-function](https://github.com/Amanieu/naked-function) - Proc macro version of the #[naked] attribute.
 - [syntactic-for](https://github.com/xlambein/syntactic-for) - Syntactic "for" loop Rust macro.
+- [Nutype](https://github.com/greyblake/nutype) - Newtype macros on steroids.
 
 ## Math
 
@@ -2637,6 +2639,8 @@
 - [concache](https://github.com/saligrama/concache) - Linked-list based, lock-free concurrent hashmap in Rust.
 - [image-tiff](https://github.com/image-rs/image-tiff) - TIFF decoding and encoding library in pure Rust.
 - [Monostate](https://github.com/dtolnay/monostate) - Type that deserializes only from one specific value.
+- [envious](https://github.com/TheNeikos/envious) - Deserialize (potentially nested) environment variables into your custom structs.
+- [Parsec Rust Interface](https://github.com/parallaxsecond/parsec-interface-rs)
 
 ## Cargo Plugins
 

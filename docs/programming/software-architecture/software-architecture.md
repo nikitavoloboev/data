@@ -292,3 +292,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Deep dive into diagram layout engines: Minimizing hierarchical edge crossings (2023)](https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/) ([HN](https://news.ycombinator.com/item?id=34576941))
 - [How to almost build an E2EE local-first app (2023)](https://www.zaynetro.com/post/how-to-build-e2ee-local-first-app/)
 - [Scalability is overrated (2023)](https://waseem.substack.com/p/scalability-is-overrated) ([HN](https://news.ycombinator.com/item?id=34656776))
+- [Local-First Web Development](https://localfirstweb.dev/) ([Code](https://github.com/localfirstweb/localfirstweb.dev))
