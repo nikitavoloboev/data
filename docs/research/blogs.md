@@ -335,6 +335,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Russ Cox](https://research.swtch.com/)
 - [Browsertech Digest](https://digest.browsertech.com/archive/)
 - [Jay Mody](https://jaykmody.com/)
+- [Guanzhong Chen](https://quantum5.ca/)
 
 ## Notes
 

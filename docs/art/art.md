@@ -447,6 +447,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Felix Russell-Saw](https://www.instagram.com/felixrussellsaw/)
 - [Vitaly Rubtsov](https://www.instagram.com/vitwai/)
 - [Vadim Makhorov](https://www.instagram.com/makhorov/)
+- [Al Brydon](https://www.instagram.com/al_brydon/) ([Web](http://www.al-brydon.com/))
 
 ## Notes
 
