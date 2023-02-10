@@ -633,6 +633,7 @@
 - [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 - [SwiftUI Async Button](https://github.com/rlziii/swiftui-async-button) - SwiftUI Button Async Initializers.
 - [ScrollKit](https://github.com/danielsaidi/ScrollKit) - SwiftUI library that adds powerful scrolling features to SwiftUI, such as offset tracking and pinnable scroll header views.
+- [UIEnvironment](https://github.com/nonameplum/UIEnvironment) - Framework that mimics the SwiftUI view's environment to replicate the value distribution thought your UIKit app.
 
 ## Test
 
@@ -726,6 +727,7 @@
 - [Elliptic Curve Key Pair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave on iOS and MacOS.
 - [CBORCoding](https://github.com/SomeRandomiOSDev/CBORCoding) - Lightweight framework containing a coder pair for encoding and decoding Codable conforming types to and from CBOR document format.
 - [SwiftECC](https://github.com/leif-ibsen/SwiftECC) - Swift Elliptic Curve Cryptography (ECIES, ECDSA and ECDH).
+- [Histogram](https://github.com/ordo-one/package-histogram) - Swift port of HdrHistogram.
 
 ## WebSocket
 
@@ -1424,6 +1426,8 @@
 - [Bytes](https://github.com/mochidev/Bytes) - Swift Library for working with sequences of Bytes.
 - [EditorConfig](https://github.com/ChimeHQ/EditorConfig) - Swift library for working with .editorconfig files.
 - [SwiftOxide](https://github.com/KennethYoel/SwiftOxide) - Swift wrapper for a Rust library, allowing us to use Rust as a library within Swift.
+- [GlobPattern](https://github.com/ChimeHQ/GlobPattern) - Swift package to parse and evaluate glob patterns.
+- [RunScriptPlugin](https://github.com/p-x9/RunScriptPlugin) - Plugin for executing arbitrary ShellScript.
 
 ## Other (not lib)
 

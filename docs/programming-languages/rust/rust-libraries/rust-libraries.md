@@ -86,7 +86,7 @@
 
 ## Web
 
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login)) ([axum-tracing-opentelemetry](https://github.com/davidB/axum-tracing-opentelemetry)) ([Axum Auth](https://github.com/Owez/axum-auth))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum)) ([Axum_database_Sessions](https://github.com/AscendingCreations/AxumSessions)) ([Minimalist Guide to Axum](https://tech.marksblogg.com/axum-rust-web-framework.html)) ([Lobsters](https://lobste.rs/s/p4f2a8/minimalist_guide_axum)) ([David Pedersen on Axum (2022)](https://www.youtube.com/watch?v=ETdmhh7OQpA)) ([axum-sessions](https://github.com/maxcountryman/axum-sessions)) ([axum-login](https://github.com/maxcountryman/axum-login)) ([axum-tracing-opentelemetry](https://github.com/davidB/axum-tracing-opentelemetry)) ([Axum Auth](https://github.com/Owez/axum-auth)) ([tower-cookies](https://github.com/imbolc/tower-cookies))
 - [h3](https://github.com/hyperium/h3) - Async HTTP/3 implementation.
 - [Graphul](https://github.com/graphul-rs/graphul) - Express inspired web framework using a powerful extractor system. ([HN](https://news.ycombinator.com/item?id=33220606))
 - [Leptos](https://github.com/gbj/leptos) - Full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces. ([Cargo-Leptos](https://github.com/akesson/cargo-leptos)) ([Starter](https://github.com/leptos-rs/start))
@@ -237,6 +237,7 @@
 - [Valar](https://github.com/ConsoleTVs/Valar) - Developer Centric Async Rust Web Framework.
 - [CachePolicy](https://github.com/kornelski/rusty-http-cache-semantics) - Parses HTTP headers to correctly compute cacheability of responses.
 - [http-cache](https://github.com/06chaynes/http-cache) - Caching middleware that follows HTTP caching rules.
+- [httpz](https://github.com/oscartbeaumont/httpz) - Code once, support every Rust web server.
 
 ## Auth
 
@@ -2641,6 +2642,11 @@
 - [Monostate](https://github.com/dtolnay/monostate) - Type that deserializes only from one specific value.
 - [envious](https://github.com/TheNeikos/envious) - Deserialize (potentially nested) environment variables into your custom structs.
 - [Parsec Rust Interface](https://github.com/parallaxsecond/parsec-interface-rs)
+- [platform-info](https://github.com/uutils/platform-info) - Cross-platform way to get information about your machine.
+- [fat-macho-rs](https://github.com/messense/fat-macho-rs) - Mach-O Fat Binary Reader and Writer.
+- [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
+- [io-streams](https://github.com/sunfishcode/io-streams) - Unbuffered and unlocked I/O streams.
+- [socketpair](https://github.com/sunfishcode/socketpair) - Cross-platform socketpair functionality.
 
 ## Cargo Plugins
 

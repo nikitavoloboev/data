@@ -819,3 +819,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Online Language Modelling Training Pipeline](https://github.com/huggingface/olm-training)
 - [Storing OpenAI embeddings in Postgres with pgvector (2023)](https://supabase.com/blog/openai-embeddings-postgres-vector) ([HN](https://news.ycombinator.com/item?id=34684593))
 - [Theory of Mind May Have Spontaneously Emerged in Large Language Models (2023)](https://arxiv.org/abs/2302.02083) ([HN](https://news.ycombinator.com/item?id=34730365))
+- [Steamship Python Client Library For LangChain](https://github.com/steamship-core/steamship-langchain)
+- [Toolformer: Language Models Can Teach Themselves to Use Tools (2023)](https://arxiv.org/abs/2302.04761)

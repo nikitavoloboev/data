@@ -304,3 +304,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [NixOS Vault Service](https://github.com/DeterminateSystems/nixos-vault-service) - NixOS module that allows easily integrating Vault with existing systemd services.
 - [Terraform NixOS Provider](https://github.com/corpix/terraform-provider-nixos)
 - [NixOS Installers for T2 Macs](https://github.com/t2linux/nixos-t2-iso)
+- [Running a NixOS VM on macOS (2023)](https://www.tweag.io/blog/2023-02-09-nixos-vm-on-macos/)

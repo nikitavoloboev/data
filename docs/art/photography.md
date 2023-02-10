@@ -275,3 +275,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [The limits of "computational photography" (2023)](https://yager.io/comp/comp.html) ([HN](https://news.ycombinator.com/item?id=34590094))
 - [Visual Diary Practice (2023)](https://www.youtube.com/watch?v=K20HswGAChQ&t=3s)
 - [Ask HN: Which photographers do you admire? (2023)](https://news.ycombinator.com/item?id=34704150)
+- [Creating the Cinematic Look in Lightroom (2022)](https://www.youtube.com/watch?v=DVj2StuKo1c)

@@ -77,3 +77,4 @@ Also [Biomaterials: The Intersection of Biology and Materials Science](https://w
 - [Fibroblast inflammatory priming determines regenerative versus fibrotic skin repair in reindeer (2022)](<https://www.cell.com/cell/fulltext/S0092-8674(22)01414-3>) ([Article](https://ucalgary.ca/news/vet-med-scholars-publish-groundbreaking-research-skin-regeneration))
 - [New Research Challenges Long-Held Beliefs About Limb Regeneration (2022)](https://today.tamu.edu/2022/07/05/new-research-challenges-long-held-beliefs-about-limb-regeneration/)
 - [Wake Forest Institute for Regenerative Medicine](https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine)
+- [Hand Transplants Demonstrate the Nervous System's Amazing Adaptability (2020)](https://www.scientificamerican.com/article/hand-transplants-demonstrate-the-nervous-systems-amazing-adaptability/)

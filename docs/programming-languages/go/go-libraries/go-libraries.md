@@ -12,7 +12,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 [mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON. [zerolo](https://github.com/rs/zerolog) is nice for parsing JSON too. [FreeCache](https://github.com/coocood/freecache) is nice caching lib.
 
-Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) is great for concurrency tasks. [script](https://github.com/bitfield/script) is nice for running shell commands. [Logrus](https://github.com/sirupsen/logrus) is nice for logging.
+Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) or [workgroup](https://github.com/carlmjohnson/workgroup) are great for concurrency tasks. [script](https://github.com/bitfield/script) is nice for running shell commands. [Logrus](https://github.com/sirupsen/logrus) is nice for logging.
 
 [Go JSON Struct](https://github.com/twpayne/go-jsonstruct) is nice for creating Go types from JSON.
 
@@ -2051,6 +2051,9 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [tar-diff](https://github.com/containers/tar-diff) - Go library and set of command line tools to diff and patch tar files.
 - [otp](https://github.com/cristalhq/otp) - One time password for Go.
 - [Go Qdrant client](https://github.com/qdrant/go-client)
+- [form](https://github.com/ajg/form) - Form Encoding & Decoding Package for Go.
+- [borsh-go](https://github.com/near/borsh-go) - Go implementation of Binary Object Representation Serializer for Hashing.
+- [Workgroup](https://github.com/carlmjohnson/workgroup) - Generic Go library that provides a structured approach to concurrent programming.
 
 ## Links
 
@@ -2237,3 +2240,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Examples of nice Go APIs (2023)](https://www.reddit.com/r/golang/comments/10l8r9n/is_there_a_good_example_of_an_open_source/)
 - [gotestiful](https://github.com/alex-parra/gotestiful) - gotest made beautiful.
 - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation) (2023)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
+- [go-doudou](https://github.com/unionj-cloud/go-doudou) - Lightweight Go Microservice Framework.

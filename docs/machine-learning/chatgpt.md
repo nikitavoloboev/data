@@ -98,3 +98,6 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [GPT in 60 Lines of NumPy (2023)](https://jaykmody.com/blog/gpt-from-scratch/) ([HN](https://news.ycombinator.com/item?id=34726115))
 - [Bing Chat API](https://github.com/transitive-bullshit/bing-chat) - Node.js wrapper around Bing Chat by Microsoft.
 - [HackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things.
+- [Novel things to ask ChatGPT (2023)](https://www.reddit.com/r/ChatGPT/comments/10xwms7/ok_i_have_played_with_chatgpt_for_a_week_now_it/)
+- [ChatGPT Is a Blurry JPEG of the Web (2023)](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) ([HN](https://news.ycombinator.com/item?id=34724477)) ([Lobsters](https://lobste.rs/s/9xa8m5/chatgpt_is_blurry_jpeg_web))
+- [PicoGPT](https://github.com/jaymody/picoGPT) - Tiny and minimal implementation of GPT-2 in NumPy.

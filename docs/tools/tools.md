@@ -341,7 +341,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [FlowForge](https://flowforge.com/) - Open source low-code development platform. ([Twitter](https://twitter.com/FlowForgeInc))
 - [Shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/)) ([Discord](https://discord.gg/as9h8yHNfD))
-- [RustDesk](https://rustdesk.com/) - Remote desktop software, an open source TeamViewer alternative. ([Code](https://github.com/rustdesk/rustdesk)) ([HN](https://news.ycombinator.com/item?id=31456007)) ([HN](https://news.ycombinator.com/item?id=32239025))
+- [RustDesk](https://rustdesk.com/) - Remote desktop software, an open source TeamViewer alternative. ([Code](https://github.com/rustdesk/rustdesk)) ([HN](https://news.ycombinator.com/item?id=31456007)) ([HN](https://news.ycombinator.com/item?id=32239025)) ([Server Code](https://github.com/rustdesk/rustdesk-server))
 - [Hightouch](https://www.hightouch.io/) - Sync your customer data to business tools. ([HN](https://news.ycombinator.com/item?id=29188544))
 - [Spore](https://spore.build/) - Free, all-in-one tool for creators to build websites to truly own, grow, & monetize their relationship with fans. ([Tweet](https://twitter.com/JoshConstine/status/1408116841554219011))
 - [Gotenberg](https://gotenberg.dev/) - Docker-powered stateless API for PDF files. ([Code](https://github.com/gotenberg/gotenberg))
@@ -831,3 +831,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [jamie](https://www.meetjamie.ai/) - AI Assistant for Meeting Summaries. ([HN](https://news.ycombinator.com/item?id=34613598))
 - [Kagi](https://labs.kagi.com/ai/sum) - Universal Summarizer. ([HN](https://news.ycombinator.com/item?id=34646389))
 - [Uneed](https://www.uneed.best/) - Best tools on the internet.
+- [Screenstab](https://www.screenstab.com/editor/) - Tool that turns screenshots into dramatically angled photos. ([HN](https://news.ycombinator.com/item?id=34729849))

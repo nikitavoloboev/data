@@ -319,3 +319,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Surprising Consequences of macOS’s Environment Variable Sanitization (2023)](https://hynek.me/articles/macos-dyld-env/) ([HN](https://news.ycombinator.com/item?id=34309530))
 - [Fun with macOS's SIP MetalBear (2023)](https://metalbear.co/blog/fun-with-macoss-sip/) ([HN](https://news.ycombinator.com/item?id=34514656))
 - [Hacking with macOS](https://www.hackingwithswift.com/store/hacking-with-macos) ([Code](https://github.com/twostraws/macOS))
+- [Prefsniff](https://github.com/zcutlip/prefsniff) - Utility to sniff preferences changes to macOS plist files.

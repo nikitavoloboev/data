@@ -46,3 +46,4 @@
 - [elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies.
 - [ElmBook](https://github.com/dtwrks/elm-book) - Rich documentation builder for Elm applications and packages. Inspired by Storybook and HexDocs.
 - [elm-review-imports](https://github.com/sparksp/elm-review-imports) - Provides elm-review rules to enforce consistent import aliases.
+- [Servant Elm](https://github.com/haskell-servant/servant-elm) - Generate Elm functions to query your Servant API.

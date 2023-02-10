@@ -9,6 +9,7 @@ title: CodeMirror
 - [CodeMirror Svelte Mode](https://github.com/replit/codemirror-lang-svelte)
 - [CodeMirror State](https://github.com/codemirror/state) - Editor state data structures for the CodeMirror code editor.
 - [CodeMirror Collab](https://github.com/codemirror/collab) - Collaborative editing for the CodeMirror code editor.
+- [CodeMirror Nix Mode](https://github.com/replit/codemirror-lang-nix)
 
 ## Links
 

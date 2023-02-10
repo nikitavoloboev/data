@@ -421,6 +421,8 @@
 - [svg-tree](https://github.com/Twinside/svg-tree) - SVG loader/serializer for Haskell with a tree type geared toward SVG rendering.
 - [with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try.
 - [Hi-Fi](https://github.com/aaronallen8455/hi-fi) - Higher kinded records plugin.
+- [Haggle](https://github.com/travitch/haggle) - Graph library for Haskell.
+- [Persistent Vector](https://github.com/travitch/persistent-vector) - Persistent vectors for Haskell based on array mapped tries.
 
 ## Notes
 

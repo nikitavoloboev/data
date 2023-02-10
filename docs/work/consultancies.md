@@ -61,6 +61,7 @@ I am excited by [Replit Bounties](https://replit.com/bounties) and what they can
 - [Bureau Cool](https://bureau.cool/) ([Twitter](https://twitter.com/BureauCool))
 - [Studio Essence](https://www.studioessence.design/) ([Twitter](https://twitter.com/ikergnz))
 - [Belka](https://www.belkadigital.com/)
+- [Set Studio](https://set.studio/)
 
 ## React Native
 

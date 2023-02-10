@@ -91,3 +91,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firegraph](https://github.com/sejr/firegraph) - GraphQL Superpowers for Google Cloud Firestore.
 - [I tried 5 Firebase alternatives (2023)](https://www.youtube.com/watch?v=SXmYUalHyYk)
 - [Firestore Indexes Diff](https://github.com/omar-dulaimi/firestore-indexes-diff) - Displays differences between two Firestore index config files.
+- [Firebase xcframework integration with SPM](https://github.com/akaffenberger/firebase-ios-sdk-xcframeworks)

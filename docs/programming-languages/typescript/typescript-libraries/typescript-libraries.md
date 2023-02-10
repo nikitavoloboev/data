@@ -112,7 +112,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue.js and vanilla JS.
 - [Navigation](https://github.com/virtualstate/navigation) - Native JavaScript navigation implementation.
 - [Xania View](https://github.com/xania/view) - Fastest JavaScript view library for building user interfaces.
-- [Cample.js](https://github.com/Camplejs/Cample.js) - Typed JS web framework for creating site UI without VDOM.
+- [Cample.js](https://github.com/Camplejs/Cample.js) - Typed JS web framework for creating site UI without VDOM. ([HN](https://news.ycombinator.com/item?id=34738792))
 
 ## GraphQL
 

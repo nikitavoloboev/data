@@ -9,6 +9,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 ## Websites
 
 - [Campsite](https://www.campsite.design/)
+- [Genius](https://www.genius.design/)
 - [Column](https://column.com/)
 - [Rerun](https://www.rerun.io/)
 - [Glass](https://glass.photo/)

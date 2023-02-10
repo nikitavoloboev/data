@@ -150,3 +150,4 @@
 - [Topiary](https://github.com/tweag/topiary) - Uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
 - [HOP](https://github.com/HigherOrderCO/HOP) - Lightweight, higher-order parser in Rust.
 - [Faster-Pest](https://github.com/Mubelotix/faster-pest) - High-performance code generator for Parsing Expression Grammars.
+- [Write better parsers with Nom Supreme (2023)](https://www.youtube.com/watch?v=Ph7xHhBfH0w)

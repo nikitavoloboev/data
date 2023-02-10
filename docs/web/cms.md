@@ -46,3 +46,4 @@
 - [DatoCMS](https://www.datocms.com/) - API-based CMS your editors will love. ([GitHub](https://github.com/datocms))
 - [Edge CMS](https://github.com/patdx/edge-cms)
 - [Hermes](https://github.com/hashicorp-forge/hermes) - Document management system. ([HN](https://news.ycombinator.com/item?id=34600126)) ([Intro](https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system))
+- [Keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB.

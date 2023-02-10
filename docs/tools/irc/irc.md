@@ -81,3 +81,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [girc](https://github.com/lrstanley/girc) - Flexible IRC library for Go.
 - [IRC × OAuth 2.0 (2022)](https://emersion.fr/blog/2022/irc-and-oauth2/)
 - [nibblrjr](https://github.com/kirjavascript/nibblrjr) - Overengineered IRC bot framework.
+- [Rust IRC crate](https://github.com/aatxe/irc)

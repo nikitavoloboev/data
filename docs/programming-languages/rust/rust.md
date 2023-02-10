@@ -95,7 +95,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Teach Rust (2019)](https://github.com/ferrous-systems/rust-three-days-course) - Free workshop material to use to give a course introducing the Rust programming language.
 - [Moving from Ruby to Rust (2019)](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) ([HN](https://news.ycombinator.com/item?id=19166020))
 - [miniserve](https://github.com/svenstaro/miniserve) - Nice & small CLI tool in Rust (can use for inspiration in building Rust CLI tools).
-- [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
+- [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html) ([HN](https://news.ycombinator.com/item?id=34736457))
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code. ([Solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions)) ([Solutions](https://github.com/wh5a/rustlings-solutions))

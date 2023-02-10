@@ -190,3 +190,4 @@ It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/commen
 - [Most psychoactive book you know (any genre) (2022)](https://twitter.com/sashachapin/status/1607252417019772929)
 - [Hyperlab.info - Литература о психоактивах](https://hyperlab.info/inv/index.php?s=48e93c46428953dbfb4d702f4177f79d&lang=en&act=ST&f=17&t=28181)
 - [Buy, sell and trade trichocereus cactus](https://www.reddit.com/r/sanpedrocactusforsale/)
+- [PsySpace Library](https://psyspacelibrary.in/) - Community driven project for curated resources and guides about psychedelics. ([Code](https://github.com/dhashdev/psyspacelibrary))

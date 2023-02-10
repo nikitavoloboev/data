@@ -278,3 +278,4 @@
 - [Data Science Cookie Cutter for Prefect](https://github.com/khuyentran1401/data-science-template)
 - [Time series resources](https://github.com/lmmentel/awesome-time-series)
 - [Quadratic](https://www.quadratichq.com/) - Data Science Spreadsheet. ([Code](https://github.com/quadratichq/quadratic))
+- [posit::conf(2023) workshops](https://posit-conf-2023.github.io/workshops/) ([Code](https://github.com/posit-conf-2023/workshops))

@@ -687,4 +687,4 @@ title: Linux
 - [Linux Upskill Challenge (2023)](https://theleo.zone/posts/linux-upskill/) ([HN](https://news.ycombinator.com/item?id=34650735))
 - [FatELF](https://github.com/icculus/fatelf) - Universal binaries for Linux.
 - [Analyzing Linux Kernel Commits (2023)](https://sam4k.com/analysing-linux-kernel-commits/)
-- [boxxy](https://github.com/queer/boxxy) - Puts bad Linux applications in a box with only their files.
+- [boxxy](https://github.com/queer/boxxy) - Puts bad Linux applications in a box with only their files. ([HN](https://news.ycombinator.com/item?id=34730520))

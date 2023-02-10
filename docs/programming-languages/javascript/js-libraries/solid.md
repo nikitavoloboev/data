@@ -26,6 +26,8 @@ Use [Solid URQL](https://github.com/tqwewe/solid-urql) as [GraphQL](../../../net
 
 [Nano Store Solid](https://github.com/nanostores/solid) is nice for state. [Solid Lib Starter](https://github.com/solidjs-community/solid-lib-starter) is great starter code.
 
+I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Solid](https://dev.to/fabiospampinato/voby-simplifications-over-solid-no-babel-no-compiler-5epg).
+
 ## OSS apps
 
 - [CodeImage](https://github.com/riccardoperra/codeimage)
