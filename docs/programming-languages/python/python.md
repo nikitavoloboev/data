@@ -590,3 +590,4 @@ for i, _ in enumerate(nums):
 - [Python's “disappointing” superpowers (2023)](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/) ([HN](https://news.ycombinator.com/item?id=34611969)) ([Lobsters](https://lobste.rs/s/9w7ylg/python_s_disappointing_superpowers))
 - [How I added C-style for-loops to Python (2022)](https://sadh.life/post/cursed-for/) ([HN](https://news.ycombinator.com/item?id=34643811))
 - [PocketPy](https://github.com/blueloveTH/pocketpy) - Lightweight Python interpreter for game engines. ([HN](https://news.ycombinator.com/item?id=34702386))
+- [A Heisenbug lurking in async Python (2023)](https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/) ([HN](https://news.ycombinator.com/item?id=34754276))

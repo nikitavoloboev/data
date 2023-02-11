@@ -968,3 +968,4 @@ if *boolArgPtr != false {
 - [Go arm64 Function Call Assembly (2023)](https://blog.felixge.de/go-arm64-function-call-assembly/)
 - [User or \*User - Do We Need Struct Pointers Everywhere? (2023)](https://preslav.me/2023/02/06/golang-do-we-need-struct-pointers-everywhere/) ([Reddit](https://www.reddit.com/r/golang/comments/10vc2ru/user_or_user_do_we_need_struct_pointers_everywhere/))
 - [Profile-guided optimization preview (2023)](https://go.dev/blog/pgo-preview)
+- [Go Programming Blueprints - Second Edition](https://www.packtpub.com/product/go-programming-blueprints-second-edition/9781786468949) ([Review](https://mtlynch.io/book-reports/go-programming-blueprints/))

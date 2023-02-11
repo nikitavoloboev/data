@@ -413,6 +413,7 @@ Great [management](../../management/management.md) together with being able to [
 - [Startup Lessons from 2 Years Building Airplane.dev (2022)](https://www.airplane.dev/blog/startup-lessons-from-2-years-building-airplane-dev)
 - [Ask HN: Main things to consider when building an app for business/enterprise? (2023)](https://news.ycombinator.com/item?id=34287685)
 - [If I asked you about startups, you'd probably give me the skinny on about every book and blog post ever written](https://twitter.com/AndrewArruda/status/1614035461227352064)
+- [My Fifth Year as a Bootstrapped Founder (2023)](https://mtlynch.io/solo-developer-year-5/) ([HN](https://news.ycombinator.com/item?id=34740105))
 
 ## Images
 

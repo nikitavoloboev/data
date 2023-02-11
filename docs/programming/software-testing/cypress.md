@@ -70,3 +70,4 @@ title: Cypress
 - [cypress-lit](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in cypress with all the modern browsers.
 - [Cypress Plugins Course](https://cypress.tips/courses/cypress-plugins)
 - [Cypress Docs](https://docs.cypress.io/) ([Code](https://github.com/cypress-io/cypress-documentation))
+- [On Migrating from Cypress to Playwright (2022)](https://mtlynch.io/notes/cypress-vs-playwright/)
