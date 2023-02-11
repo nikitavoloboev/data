@@ -52,3 +52,4 @@ title: NestJS
 - [NestJS Temporal](https://github.com/KurtzL/nestjs-temporal)
 - [Nest JS WebSockets - Guards and Authorization with CASL (2022)](https://www.delightfulengineering.com/blog/nest-websockets/guards-and-authorization)
 - [NestJS Starter](https://github.com/thisismydesign/nestjs-starter)
+- [NestJSApiBoilerplateJWT](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - API Boilerplate to create a ready-to-use REST API in seconds with NestJS 9.x and JWT Auth System.

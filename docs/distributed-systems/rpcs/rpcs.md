@@ -65,3 +65,4 @@ title: Remote Procedure Calls
 - [eRPC](https://github.com/erpc-io/eRPC) - Fast and general-purpose RPC library for datacenter networks. ([Tweet](https://twitter.com/trishume/status/1610427542955257857))
 - [dudirekta](https://github.com/pojntfx/dudirekta) - Transport-agnostic framework that allows exposing and calling functions on both clients and servers.
 - [TSRPC](https://github.com/k8w/tsrpc) - TypeScript RPC framework with runtime type checking and binary serialization.
+- [Blue RPC](https://github.com/JoshuaWise/blue-rpc) - Simple but powerful RPC protocol that uses WebSockets and MessagePack.

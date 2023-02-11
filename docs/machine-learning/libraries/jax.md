@@ -98,3 +98,5 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [JMP](https://github.com/deepmind/jmp) - Mixed Precision library for JAX.
 - [PIPs JAX](https://github.com/brentyi/pips-jax) - JAX implementation of Persistent Independent Particles.
 - [Jax Decompiler](https://github.com/PierrickPochelu/JaxDecompiler)
+- [MACE](https://github.com/ACEsuit/mace-jax) - Equivariant machine learning interatomic potentials in JAX.
+- [JAX Wavelets](https://github.com/crowsonkb/jax-wavelets) - 2D discrete wavelet transform for JAX.

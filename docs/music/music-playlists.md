@@ -33,3 +33,4 @@ I share music I liked on SoundCloud on [my profile](https://soundcloud.com/nikit
 - [Recycle your old Spotify playlists into new ones](https://www.playlistrecycle.com/) ([HN](https://news.ycombinator.com/item?id=33742014))
 - [Natural Language Playlist](https://www.naturallanguageplaylist.com/) - AI generated mixtapes.
 - [Favorite coding playlists](https://twitter.com/cpojer/status/1603215063401521152)
+- [Exportify](https://exportify.net/) - Export Spotify playlists using the Web API. Analyze them in the Jupyter notebook. ([Code](https://github.com/pavelkomarov/exportify))

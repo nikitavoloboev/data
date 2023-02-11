@@ -127,3 +127,4 @@ title: Web Components
 - [hydron](https://github.com/loreanvictor/hydron) - SSR for Web Components.
 - [Redefine Custom Elements](https://github.com/caridy/redefine-custom-elements) - Patches the global custom elements registry to allow re-defining or reload a custom element.
 - [lit-transition](https://github.com/sijakret/lit-transition) - Directive for animated transitions in lit-html.
+- [WCC](https://github.com/ProjectEvergreen/wcc) - Web Components Compiler.

@@ -76,3 +76,4 @@ title: ESLint
 - [Zod linting rules for ESLint](https://github.com/gajus/eslint-plugin-zod)
 - [ESLint Export Scope plugin](https://github.com/A-Shleifman/eslint-plugin-export-scope) - Disallows importing scoped exports outside their scope.
 - [Speeding up the JavaScript ecosystem - ESLint (2023)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)
+- [ESLint plugin for UnoCSS](https://github.com/devunt/eslint-plugin-unocss)

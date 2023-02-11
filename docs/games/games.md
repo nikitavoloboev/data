@@ -207,6 +207,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Hack Words](https://hack-words.com/) - Game about words that hack images via compressed sensing.
 - [Kuboble](https://kuboble.com/) - Minimalistic sliding pieces puzzle game. ([HN](https://news.ycombinator.com/item?id=34706098))
 - [2048](https://play2048.co/) ([Code](https://github.com/gabrielecirulli/2048))
+- [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) - Fully working re-implementation of Fallout.
 
 ## Awesome games (other)
 

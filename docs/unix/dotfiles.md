@@ -87,3 +87,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Dotfile manager with templating.
 - [dotfiles symbolic link CLI](https://github.com/rhysd/dotfiles)
 - [Comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles.
+- [antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles.

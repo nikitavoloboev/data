@@ -22,3 +22,4 @@ title: Pony
 - [Pony Tutorial](https://tutorial.ponylang.io/) ([Code](https://github.com/ponylang/pony-tutorial))
 - [Termax for Pony](https://github.com/nogginly/termax.pony) - Pony package for building text-based user interfaces in ANSI terminals.
 - [HN: Pony (2022)](https://news.ycombinator.com/item?id=33970547)
+- [Pony JSON](https://github.com/ponylang/json)

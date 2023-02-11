@@ -11,6 +11,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [cachified](https://github.com/Xiphe/cachified) - Wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support.
 - [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL.
 - [better-sql.ts](https://github.com/beenotung/better-sql) - Generate SQL query from a concise query syntax inspired from EdgeDB and GraphQL.
+- [DatX](https://github.com/infinum/datx) - Opinionated JS/TS data store.
 - [SchemaRT](https://github.com/codemariner/schemart) - Generate TypeScript runtime types from your database schema.
 - [joist-ts](https://github.com/stephenh/joist-ts) - TypeScript ORM for Postgres.
 - [atdatabases](https://github.com/ForbesLindesay/atdatabases) - TypeScript clients for databases that prevent SQL Injection. ([Web](https://www.atdatabases.org/))
@@ -797,6 +798,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Typed Event Target](https://github.com/worker-tools/typed-event-target)
 - [seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values.
 - [Funtypes](https://github.com/ForbesLindesay/funtypes) - Runtime validation for static types.
+- [fastimage](https://github.com/ShogunPanda/fastimage) - Module that finds the size and type of an image by fetching and reading as little data as needed.
 
 ## Links
 

@@ -80,3 +80,4 @@ title: Fastify
 - [Fastify Nitro](https://github.com/auguwu/fastify-nitro) - Preset for building Nitro applications that expose a fastify server or middleware export.
 - [Preparing Fastify for Testing (2023)](https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing/)
 - [Create Fastify](https://github.com/fastify/create-fastify) - Rapidly generate a Fastify project.
+- [Fastify OpenAI Docs](https://github.com/ShogunPanda/fastify-openapi-docs) - Simple plugin for Fastify that generates OpenAPI spec automatically.

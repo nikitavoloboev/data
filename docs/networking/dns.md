@@ -269,3 +269,4 @@ title: DNS
 - [Can I takeover XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) - List of services and how to claim (sub)domains with dangling DNS records.
 - [MassDNS](https://github.com/blechschmidt/massdns) - High-performance DNS stub resolver.
 - [resolved](https://github.com/barrucadu/resolved) - Simple DNS server for home networks.
+- [FaF DNS Proxy](https://github.com/errantmind/faf-dns-proxy) - DNS-over-TLS (DoT) Proxy, Engineered for Speed.

@@ -43,3 +43,4 @@ title: HomeKit
 - [Black Friday-Cyber Monday HomeKit Deals](https://shanewhatley.com/2022-black-friday/)
 - [HomeKit to MQTT bridge](https://github.com/hobbyquaker/homekit2mqtt)
 - [Homebridge Camera Utils](https://github.com/homebridge/camera-utils)
+- [ESPHomeKit](https://github.com/pteich/esphomekit) - Connect ESPHome devices to Apple's HomeKit and control it with Siri or Home App.

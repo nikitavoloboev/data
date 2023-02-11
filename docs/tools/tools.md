@@ -833,3 +833,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Uneed](https://www.uneed.best/) - Best tools on the internet.
 - [Screenstab](https://www.screenstab.com/editor/) - Tool that turns screenshots into dramatically angled photos. ([HN](https://news.ycombinator.com/item?id=34729849))
 - [BEEKAI](https://www.beekai.com/) - Next-generation free online form builder.
+- [Activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier.

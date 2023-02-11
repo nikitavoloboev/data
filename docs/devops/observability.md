@@ -88,3 +88,4 @@ title: Observability
 - [Dynolog](https://github.com/facebookincubator/dynolog) - Performance monitoring daemon for heterogeneous CPU-GPU systems.
 - [Zinc Observe](https://github.com/zinclabs/zinc-observe) - Cheap petabyte scale observability platform.
 - [highlight.io](https://www.highlight.io/) - Open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. ([Code](https://github.com/highlight/highlight))
+- [Digma](https://github.com/digma-ai/digma) - Continuous Feedback pipeline, comprised of an analysis backend and an IDE plugin.

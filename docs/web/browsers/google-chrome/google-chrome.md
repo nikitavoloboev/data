@@ -112,3 +112,4 @@ And here are Chrome extensions I use:
 - [SvelteKit Chrome Extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension)
 - [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium based browser built to run in a terminal. ([HN](https://news.ycombinator.com/item?id=34547259))
 - [Inspo](https://github.com/vpontis/inspo) - Extension helps you curate websites for sources of design inspiration.
+- [TracerBench: Automated Chrome Tracing For Benchmarking](https://github.com/TracerBench/tracerbench)

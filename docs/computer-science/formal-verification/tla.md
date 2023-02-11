@@ -65,3 +65,4 @@ title: TLA+
 - [TLA in Coq](https://github.com/tchajed/coq-tla)
 - [Writing a TLA⁺ tree-sitter grammar: my foray into free software (2023)](https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/) ([Lobsters](https://lobste.rs/s/mkljqw/writing_tla_tree_sitter_grammar_my_foray))
 - [Creatively Misusing TLA+ (2023)](https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/)
+- [TLA+ questions, answers, and experiments](https://github.com/Isaac-DeFrain/TLAplusFun)

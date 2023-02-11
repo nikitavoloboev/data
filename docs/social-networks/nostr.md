@@ -45,3 +45,4 @@ title: Nostr
 - [Python Nostr](https://github.com/jeffthibault/python-nostr)
 - [nostr-watch](https://github.com/dskvr/nostr-watch) - Nostr registry and monitor web-client.
 - [Hastr](https://github.com/konn/hastr) - Haskell Nostr Implementation.
+- [Decentralized blogs over relay using Nostr w/ ⚡ lightning tips](https://github.com/nodetec/blogstack)

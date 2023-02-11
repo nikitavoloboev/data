@@ -620,3 +620,4 @@ all: unset
 - [Meshgrad](https://meshgrad.cretu.dev/) - Tiny utility for generating CSS Mesh Gradients. ([Code](https://github.com/cristicretu/meshgrad))
 - [My CSS Wishlist (2023)](https://ishadeed.com/article/css-wishlist-2023/)
 - [CSS grammar for Tree-sitter](https://github.com/tree-sitter/tree-sitter-css)
+- [CSS Leading Trim](https://github.com/jantimon/leading-trim-examples) - CSS property that allows you to remove the leading whitespace from a block of text.

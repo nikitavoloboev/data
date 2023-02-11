@@ -821,3 +821,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Theory of Mind May Have Spontaneously Emerged in Large Language Models (2023)](https://arxiv.org/abs/2302.02083) ([HN](https://news.ycombinator.com/item?id=34730365))
 - [Steamship Python Client Library For LangChain](https://github.com/steamship-core/steamship-langchain)
 - [Toolformer: Language Models Can Teach Themselves to Use Tools (2023)](https://arxiv.org/abs/2302.04761)
+- [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery (2023)](https://arxiv.org/abs/2302.03668) ([Code](https://github.com/YuxinWenRick/hard-prompts-made-easy))

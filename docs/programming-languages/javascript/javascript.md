@@ -496,3 +496,4 @@ if (
 - [Speeding up the JavaScript ecosystem - module resolution (2023)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/) ([HN](https://news.ycombinator.com/item?id=34402752))
 - [Async Context for JavaScript](https://github.com/tc39/proposal-async-context) - Ergonomically track async contexts in JavaScript.
 - [Go-like channels in 10 lines of JavaScript (2023)](https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript) ([HN](https://news.ycombinator.com/item?id=34659023))
+- [oxc](https://github.com/Boshen/oxc) - JavaScript Oxidation Compiler.

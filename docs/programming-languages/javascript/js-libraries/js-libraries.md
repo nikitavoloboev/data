@@ -1116,6 +1116,8 @@
 - [Zeptomatch](https://github.com/fabiospampinato/zeptomatch) - Absurdly small glob matcher that packs a punch.
 - [rfdc](https://github.com/davidmarkclements/rfdc) - Really Fast Deep Clone.
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - Useful when you need to display, store, deduplicate, sort, compare, etc, URLs.
+- [url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs.
+- [ScrollyVideo.js](https://github.com/dkaoster/scrolly-video) - Components for scroll-based (or other externally controlled) playback.
 
 ## Links
 

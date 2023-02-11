@@ -723,6 +723,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [libsignalgo](https://github.com/sumnerevans/libsignalgo) - Go wrapper for the libsignal library.
 - [encrypted-stream](https://github.com/nknorg/encrypted-stream) - Go library that transforms any net.Conn or io.ReadWriter stream to an encrypted and/or authenticated stream.
 - [xxhash](https://github.com/OneOfOne/xxhash) - Native implementation of the excellent XXHash hashing algorithm.
+- [curve25519-voi](https://github.com/oasisprotocol/curve25519-voi) - High-performance Curve25519/ristretto255 for Go.
 
 ## Linux
 
@@ -2054,6 +2055,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [form](https://github.com/ajg/form) - Form Encoding & Decoding Package for Go.
 - [borsh-go](https://github.com/near/borsh-go) - Go implementation of Binary Object Representation Serializer for Hashing.
 - [Workgroup](https://github.com/carlmjohnson/workgroup) - Generic Go library that provides a structured approach to concurrent programming. ([Lobsters](https://lobste.rs/s/ofhisc/building_conc_better_structured#c_kkvmkp))
+- [semaphore](https://github.com/marusama/semaphore) - Fast resizable Go semaphore based on CAS.
+- [goption](https://github.com/jordan-bonecutter/goption) - Optional values for Go.
 
 ## Links
 

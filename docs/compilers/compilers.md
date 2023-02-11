@@ -286,3 +286,4 @@
 - [Ask HN: What is it about compiling that is so time-consuming? (2023)](https://news.ycombinator.com/item?id=34583577)
 - [Engineering a Compiler (2022)](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
 - [CS143: Compilers](https://web.stanford.edu/class/cs143/)
+- [Languages, Compilers and Interpreters Course (2022)](http://pages.di.unipi.it/gori/Linguaggi-Compilatori2022/) ([Code](https://github.com/lillo/compiler-course-unipi))

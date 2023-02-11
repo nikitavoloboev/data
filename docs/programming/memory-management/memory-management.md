@@ -131,3 +131,4 @@
 - [Garbage Collection (Mark & Sweep) - Computerphile (2023)](https://www.youtube.com/watch?v=c32zXYAK7CI) ([Lobsters](https://lobste.rs/s/lkle1s/automatic_reference_counting_vs_mark))
 - [Rulloc](https://github.com/antoniosarosi/rulloc) - General purpose memory allocator written in Rust.
 - [smol world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model.
+- [OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation.

@@ -128,3 +128,4 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) library. [Here](ht
 - [Personal WebGL notes](https://github.com/agviegas/learning-webgl)
 - [Reimplementation of Matthias Müller's "Ten Minute Physics" demos in Rust with WASM + WebGL](https://github.com/cerrno/ten-minute-physics-rs)
 - [Parametric Surfaces in the Browser](https://github.com/solidiquis/parametric_surfaces) - Drawn using the Rust + WASM toolchain with WebGL, React, and TypeScript.
+- [Stable-Fluids implemented in WebGL2](https://github.com/loicmagne/webgl2_fluidsim)

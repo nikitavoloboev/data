@@ -762,3 +762,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Ser](https://github.com/WilfredTA/ser) - Symbolic EVM in Rust.
 - [Awesome Account Abstraction](https://github.com/PaymagicXYZ/awesome-account-abstraction) - Resources for designing, building, and using account abstraction wallets on Ethereum and EVM blockchains.
 - [KZG Ceremony](https://github.com/ethereum/kzg-ceremony) - Coordinated public ritual which will provide a cryptographic foundation for Ethereum scaling initiatives.
+- [Shenlong](https://github.com/keep-starknet-strange/shenlong) - Fast tool to generate LLVM IR from Cairo, written in Rust.

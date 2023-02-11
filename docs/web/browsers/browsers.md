@@ -280,3 +280,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Browser Extension Template](https://github.com/Debdut/browser-extension)
 - [ActGPT](https://github.com/yihui-he/ActGPT) - Chat bot that controls browser. ([Tweet](https://twitter.com/he_yi_hui/status/1617328366876786688))
 - [Browsertech Digest Newsletter](https://digest.browsertech.com/)
+- [Pretty Browser History](https://github.com/apatel762/pretty-history) - Generate a pretty view of your browser history from a JSON export.

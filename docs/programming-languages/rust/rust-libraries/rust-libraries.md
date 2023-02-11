@@ -748,6 +748,7 @@
 - [halo2curves](https://github.com/privacy-scaling-explorations/halo2curves) - BN256 pairing library that implements original traits from zkcrypto.
 - [halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) - Consist of a simple PLONK gate and non native arithmetic based applications.
 - [flo_curves](https://github.com/Logicalshift/flo_curves) - Bezier curve library for Rust.
+- [bn254](https://github.com/sedaprotocol/bn254) - Aggregate signatures over the pairing-friendly elliptic curve BN254.
 
 ## Linux
 
@@ -2649,6 +2650,8 @@
 - [socketpair](https://github.com/sunfishcode/socketpair) - Cross-platform socketpair functionality.
 - [Hexx](https://github.com/ManevilleF/hexx) - Hexagonal tools lib in rust.
 - [cargo-index-transit](https://github.com/jonhoo/cargo-index-transit) - Package for common types for Cargo index interactions, and conversion between them. ([From cargo to crates.io and back again](https://www.youtube.com/watch?v=zGS-HqcAvA4))
+- [Thunderdome](https://github.com/LPGhatguy/thunderdome) - Arena type inspired by generational-arena.
+- [Nakago](https://github.com/bkonkle/nakago) - Lightweight Rust framework for elegant services.
 
 ## Cargo Plugins
 

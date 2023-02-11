@@ -491,3 +491,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [YoutubeSync](https://github.com/Joystream/youtube-synch)
 - [Mux Meet](https://github.com/muxinc/meet) - Meeting app built on Mux Real-Time Video.
 - [Why i've FULLY switched to Davinci Resolve (and why you should too)](https://www.youtube.com/watch?v=LhONgaaLjHk)
+- [VideoMash](https://github.com/aswanthkoleri/VideoMash) - Summarize your video to any duration.

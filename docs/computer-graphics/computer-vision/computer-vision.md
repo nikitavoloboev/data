@@ -1142,3 +1142,4 @@
 - [EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations (2022)](https://arxiv.org/abs/2207.06635) ([Code](https://github.com/ML-GSAI/EGSDE))
 - [Revealing Single Frame Bias for Video-and-Language Learning (2022)](https://arxiv.org/abs/2206.03428) ([Code](https://github.com/jayleicn/singularity))
 - [EVA3D: Compositional 3D Human Generation from 2D Image Collections (2022)](https://arxiv.org/abs/2210.04888) ([Code](https://github.com/hongfz16/EVA3D))
+- [Zero-shot Image-to-Image Translation (2023)](https://pix2pixzero.github.io/) ([Code](https://github.com/pix2pixzero/pix2pix-zero))

@@ -42,3 +42,4 @@ title: Brew
 - [brew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - Command line tool for upgrading every outdated app installed by Homebrew Cask.
 - [Coldbrew](https://coldbrew.doom.sh/) - Visual interface to quickly install your favorite macOS apps from Homebrew Cask.
 - [BrewMyMac](https://brewmymac.sh/) - Possibly the coolest way to install apps and customize your Mac. ([Code](https://github.com/ayltai/BrewMyMac))
+- [Cork](https://github.com/buresdv/Cork) - Fast GUI manager for Homebrew written in SwiftUI.

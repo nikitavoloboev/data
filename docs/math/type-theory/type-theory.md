@@ -6,6 +6,8 @@ title: Type Theory
 
 [Here](https://twitter.com/sliminality/status/1521546506452447233) is a nice thread on what a type is. [Mélitte](https://github.com/adrieng/melitte) is nice toy implementation of Martin-Löf Type Theory.
 
+[Daniel](https://github.com/jozefg) writes interesting type theory code.
+
 ## Notes
 
 - A value is some concrete thing, and a type is a collection of concrete things (but is itself not a concrete thing. For example any individual integer is a value, but the collection of all integers is a type. Much like elements and sets in set theory.
@@ -231,3 +233,4 @@ title: Type Theory
 - [All you need is higher kinded types (2023)](https://las.rs/blog/all-you-need-is-hkt-s.html)
 - [How Austral’s Linear Type Checker Works (2023)](https://borretti.me/article/how-australs-linear-type-checker-works)
 - [Type inference that sticks (2023)](https://jaredforsyth.com/posts/type-inference-that-sticks/) ([HN](https://news.ycombinator.com/item?id=34658021))
+- [cooked-pi](https://github.com/jozefg/cooked-pi) - Type checker for λΠ in several different styles.

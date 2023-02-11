@@ -248,3 +248,4 @@ title: Genomics
 - [hgvs](https://github.com/biocommons/hgvs) - Python library to parse, format, validate, normalize, and map sequence variants.
 - [Gattaca is still pertinent 25 years later (2022)](https://www.nature.com/articles/s41588-022-01242-5) ([HN](https://news.ycombinator.com/item?id=34667067))
 - [skani](https://github.com/bluenote-1577/skani) - Fast, robust ANI and aligned fraction for metagenomic genomes and contigs.
+- [stRainy](https://github.com/katerinakazantseva/stRainy) - Graph-based assembly phasing.

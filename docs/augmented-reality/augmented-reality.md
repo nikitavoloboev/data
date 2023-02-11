@@ -55,3 +55,4 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [Meta Quest Pro – Bad AR Passthrough (2023)](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/) ([HN](https://news.ycombinator.com/item?id=34239684))
 - [AR Basic App](https://github.com/ynagatomo/ARBasicApp) - Minimal iOS AR app that can be used as a template when creating an AR app for the first time.
+- [Rust WebXR](https://github.com/servo/webxr)

@@ -26,3 +26,4 @@ title: Datasette
 - [datasette-rewrite-sql](https://github.com/cldellow/datasette-rewrite-sql) - Datasette hook to inspect/rewrite the SQL users run.
 - [datasette-scraper](https://github.com/cldellow/datasette-scraper) - Add website scraping abilities to Datasette.
 - [datasette-ui-extras](https://github.com/cldellow/datasette-ui-extras) - Add some UI flourishes to Datasette.
+- [datasette-faiss](https://github.com/simonw/datasette-faiss) - Maintain a FAISS index for specified Datasette tables.

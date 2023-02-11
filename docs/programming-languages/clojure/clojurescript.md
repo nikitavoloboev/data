@@ -65,3 +65,4 @@ title: ClojureScript
 - [Conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame.
 - [Maria](https://www.maria.cloud/) - ClojureScript coding environment for beginners. ([Code](https://github.com/mhuebert/maria)) ([HN](https://news.ycombinator.com/item?id=33622406))
 - [js-interop](https://github.com/applied-science/js-interop) - JavaScript-interop library for ClojureScript.
+- [solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to SolidJS.

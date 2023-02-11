@@ -306,3 +306,5 @@ Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/lib
 - [Writing a Custom SQLite Function (in C) (2023)](https://www.openmymind.net/Writing-A-Custom-Sqlite-Function-Part-1/)
 - [Making SQLite extensions pip install-able (2023)](https://observablehq.com/@asg017/making-sqlite-extensions-pip-install-able) ([HN](https://news.ycombinator.com/item?id=34683237))
 - [Save OpenAI API results to a SQLite database](https://github.com/simonw/openai-to-sqlite) ([HN](https://news.ycombinator.com/item?id=34689624))
+- [sqlite-vss](https://github.com/asg017/sqlite-vss) - SQLite extension for efficient vector search, based on Faiss.
+- [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file.

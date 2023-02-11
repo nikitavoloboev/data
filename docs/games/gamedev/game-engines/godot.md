@@ -109,3 +109,4 @@ title: Godot
 - [Godot Haskell](https://github.com/SimulaVR/godot-haskell)
 - [A Week of Progress on my Godot 4 RPG (2022)](https://www.youtube.com/watch?v=sYcJP5GyRa4)
 - [Godot Jolt](https://github.com/godot-jolt/godot-jolt) - Godot extension that integrates the Jolt physics engine.
+- [Scatter](https://github.com/HungryProton/scatter) - Godot engine addon to randomly fill an area with props or other scenes.
