@@ -100,3 +100,5 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [bevy_particle_systems](https://github.com/abnormalbrain/bevy_particle_systems) - Native and WASM compatible Particle System implementation for Bevy.
 - [Foxtrot](https://github.com/janhohenheim/foxtrot) - All-in-one Bevy 3D game template.
 - [bevy-tokio-tasks](https://github.com/EkardNT/bevy-tokio-tasks) - Simple Bevy plugin which integrates a Tokio runtime into a Bevy app.
+- [Bevy Silk](https://github.com/ManevilleF/bevy_silk) - Cloth engine for Bevy.
+- [Bevy Minesweeper: Introduction](https://dev.to/qongzi/series/16975)

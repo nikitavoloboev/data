@@ -80,6 +80,7 @@
 - [Rust 4](https://github.com/mkeeter/advent-of-code) - Many years.
 - [Rust 2020](https://github.com/timvisee/advent-of-code-2020)
 - [Rust 2020/21](https://github.com/lmammino/rust-advent)
+- [Rust 2022](https://github.com/ManevilleF/AdventOfCode2022)
 - [JS](https://github.com/vtambourine/adventofcode)
 - [OCaml](https://github.com/narimiran/AdventOfCode2019)
 - [Haskell](https://github.com/merijn/AdventOfCode2019)

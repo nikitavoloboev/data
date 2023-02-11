@@ -74,7 +74,7 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 - [RetentionX](https://www.retentionx.com/) - AI for Shopify.
 - [Accept payments with Stripe Checkout](https://github.com/stripe-samples/checkout-one-time-payments) - Shows you how to integrate with Stripe Checkout.
 - [Stripe](https://stripe.com/) - Online payment processing for internet businesses. ([Stripe Samples](https://github.com/stripe-samples)) ([Stripe 2021 Business Update](https://stripe.com/files/stripe-2021-update.pdf)) ([HN](https://news.ycombinator.com/item?id=30957966)) ([Stripe-Mock](https://github.com/stripe/stripe-mock))
-- [Lemon Squeezy](https://www.lemonsqueezy.com/) - Easy Way to Sell Digital Products.
+- [Lemon Squeezy](https://www.lemonsqueezy.com/) - Easy Way to Sell Digital Products. ([Developer guide](https://docs.lemonsqueezy.com/guides/developer-guide))
 - [Sane Shopify](https://github.com/good-idea/sane-shopify) - Connect Sanity and the Shopify Storefront API.
 - [How curation is reinventing e-commerce (2021)](https://maried.substack.com/p/how-curation-is-reinventing-e-commerce)
 - [Easol](https://easol.com/) - Sell travel and experiences online.

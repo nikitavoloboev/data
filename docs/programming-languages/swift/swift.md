@@ -328,3 +328,4 @@ title: Swift
 - [Visual Studio Code Development Container for Swift](https://github.com/swift-server/swift-dev-container)
 - [MUD game using Swift and NIO framework](https://www.youtube.com/playlist?list=PLhUrOtMlcKDAa0_WYh_J4vQ6Lzw0DvLLK) ([Code](https://github.com/maartene/NIOSwiftMUD))
 - [How to use async/await with completion handlers (2023)](https://www.danijelavrzan.com/posts/2023/01/completion-handler-async-function/)
+- [Swift Cookbook](https://www.kodeco.com/books/swift-cookbook)

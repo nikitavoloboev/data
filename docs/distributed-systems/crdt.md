@@ -6,7 +6,7 @@ title: Conflict-free replicated data type
 
 [Liveblocks](https://github.com/liveblocks/liveblocks) is a neat application of CRDTs. [Automerge](https://github.com/automerge/automerge), [Yjs](https://github.com/yjs/yjs) (with [Hocuspocus](https://github.com/ueberdosis/hocuspocus)) & [CROWDs](https://github.com/hyoo-ru/crowd.hyoo.ru) are great libraries. [CRDT wiki](https://crdt.tech/) is great.
 
-[Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/) is nice read.
+[Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html) & [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/) are nice reads.
 
 [Diamond Types](https://github.com/josephg/diamond-types) seem like a nice Rust CRDT implementation.
 
@@ -119,3 +119,4 @@ title: Conflict-free replicated data type
 - [Keep CALM and CRDT on](https://www.vldb.org/pvldb/vol16/p856-power.pdf) ([HN](https://news.ycombinator.com/item?id=34329779))
 - [Hocuspocus](https://github.com/ueberdosis/hocuspocus) - Y.js WebSocket backend.
 - [y-supabase](https://github.com/AlexDunmow/y-supabase) - Supabase Provider for Yjs.
+- [Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html) ([HN](https://news.ycombinator.com/item?id=34746716))

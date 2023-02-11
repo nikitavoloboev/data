@@ -450,3 +450,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [Jazzer.js](https://github.com/CodeIntelligenceTesting/jazzer.js) - Coverage-guided, in-process fuzzing for the Node.js.
 - [Needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.
 - [Nodeiflux Discord](https://discord.com/invite/aD42zPx)
+- [Monitoring Node.js Performance (2023)](https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance/)
