@@ -64,7 +64,7 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy (2023)](https://www.youtube.com/watch?v=kCc8FmEb1nY) ([HN](https://news.ycombinator.com/item?id=34414716)) ([Code](https://github.com/karpathy/ng-video-lecture))
 - [LearnGPT](https://www.learngpt.com/) - Browse, share, and discuss ChatGPT examples.
 - [Awesome AnthropicAI Claude](https://github.com/taranjeet/awesome-claude)
-- [[2301.04655] ChatGPT is not all you need. A State of the Art Review of large Generative AI models (2023)](https://arxiv.org/abs/2301.04655)
+- [ChatGPT is not all you need. A State of the Art Review of large Generative AI models (2023)](https://arxiv.org/abs/2301.04655)
 - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - Like ChatGPT but powered by the RWKV (RNN-based, open) language model. ([HN](https://news.ycombinator.com/item?id=34445873))
 - [ChatGPT in an iOS Shortcut – Worlds Smartest HomeKit Voice Assistant (2023)](https://matemarschalko.medium.com/chatgpt-in-an-ios-shortcut-worlds-smartest-homekit-voice-assistant-9a33b780007a) ([HN](https://news.ycombinator.com/item?id=34475005))
 - [ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view) ([HN](https://news.ycombinator.com/item?id=34503723))

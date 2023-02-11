@@ -143,3 +143,4 @@
 - [Zipline](https://github.com/diced/zipline) - ShareX/file upload server that is easy to use, packed with features, and with an easy setup.
 - [sendme](https://github.com/n0-computer/sendme) - Send data over the internet.
 - [LocalSend](https://github.com/localsend/localsend) - Open source cross-platform alternative to AirDrop.
+- [sharrr](https://www.sharrr.com/) - End-to-end encrypted file transfer. ([Code](https://github.com/stophecom/sharrr-svelte))
