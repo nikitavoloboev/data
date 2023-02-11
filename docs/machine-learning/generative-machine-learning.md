@@ -322,3 +322,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Dino Diffusion: Bare-bones diffusion model code](https://github.com/madebyollin/dino-diffusion)
 - [Mixture of diffusers for location-aware image generation](https://github.com/albarji/mixture-of-diffusers)
 - [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation (2022)](https://arxiv.org/abs/2211.12572) ([Code](https://github.com/MichalGeyer/plug-and-play))
+- [ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models.

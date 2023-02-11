@@ -189,7 +189,7 @@
 - [GreaseBoss](https://www.greaseboss.io/) - Real-time system to manage industrial greasing. ([HN](https://news.ycombinator.com/item?id=26240581))
 - [Building an E-Ink Laptop](https://alexsoto.dev/building-an-e-ink-laptop.html) ([HN](https://news.ycombinator.com/item?id=26245563))
 - [Seminar in Computer Architecture - ETH Zürich (2021)](https://safari.ethz.ch/architecture_seminar/spring2021/doku.php) ([Talks](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_awYdjmWVIUegsbY7TPGW4))
-- [Framework Laptop](https://frame.work/) - Upgradeable, repairable, and 100% yours. ([Intro](https://frame.work/blog/introducing-the-framework-laptop)) ([HN](https://news.ycombinator.com/item?id=26263508)) ([Lobsters](https://lobste.rs/s/hhqli7/introducing_framework_laptop))
+- [Framework Laptop](https://frame.work/) - Upgradeable, repairable, and 100% yours. ([Intro](https://frame.work/blog/introducing-the-framework-laptop)) ([HN](https://news.ycombinator.com/item?id=26263508)) ([Lobsters](https://lobste.rs/s/hhqli7/introducing_framework_laptop)) ([Awesome](https://github.com/Morpheus636/awesome-framework))
 - [SparkFun Electronics](https://www.sparkfun.com/) - Manufactures and sells microcontroller development boards and breakout boards.
 - [Ask HN: Always on low power home server (2021)](https://news.ycombinator.com/item?id=26292660)
 - [I want a computer that I own (2021)](http://misc-stuff.terraaeon.com/articles/computer-i-own.html) ([HN](https://news.ycombinator.com/item?id=26393824))

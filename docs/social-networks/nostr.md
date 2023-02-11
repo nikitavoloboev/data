@@ -44,3 +44,4 @@ title: Nostr
 - [Nostr.how](https://nostr-how.vercel.app/) - Complete guide to Nostr. ([Code](https://github.com/erskingardner/nostr-how)) ([HN](https://news.ycombinator.com/item?id=34656925))
 - [Python Nostr](https://github.com/jeffthibault/python-nostr)
 - [nostr-watch](https://github.com/dskvr/nostr-watch) - Nostr registry and monitor web-client.
+- [Hastr](https://github.com/konn/hastr) - Haskell Nostr Implementation.

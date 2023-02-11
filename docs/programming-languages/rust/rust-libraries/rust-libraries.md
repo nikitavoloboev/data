@@ -2648,6 +2648,7 @@
 - [io-streams](https://github.com/sunfishcode/io-streams) - Unbuffered and unlocked I/O streams.
 - [socketpair](https://github.com/sunfishcode/socketpair) - Cross-platform socketpair functionality.
 - [Hexx](https://github.com/ManevilleF/hexx) - Hexagonal tools lib in rust.
+- [cargo-index-transit](https://github.com/jonhoo/cargo-index-transit) - Package for common types for Cargo index interactions, and conversion between them. ([From cargo to crates.io and back again](https://www.youtube.com/watch?v=zGS-HqcAvA4))
 
 ## Cargo Plugins
 

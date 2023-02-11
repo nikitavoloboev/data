@@ -1220,3 +1220,4 @@
 - [JavaScript Frameworks in 2023](https://www.youtube.com/watch?v=6RIPfwxj24s)
 - [Using Sourcegraph to discover non-NPM JS projects (2023)](https://www.stackaid.us/blog/using-sourcegraph-to-discovery-non-npm-js-projects)
 - [The complete guide to packaging libraries](https://package-library.bjornlu.com/1) ([Code](https://github.com/bluwy/package-library))
+- [NPM Packages tracked in Notion](https://github.com/Eomm/notion-board)

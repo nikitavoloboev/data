@@ -255,3 +255,4 @@ title: Vue.js
 - [Nuxt DevTools](https://github.com/nuxt/devtools)
 - [Vue Google Sign In](https://github.com/syetalabs/vue3-google-signin)
 - [Vite plugin for preview Vue component](https://github.com/johnsoncodehk/vite-plugin-vue-component-preview)
+- [Nuxt Time](https://github.com/danielroe/nuxt-time) - SSR-safe time element for Nuxt 3.

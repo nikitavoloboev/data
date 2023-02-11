@@ -102,3 +102,6 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [bevy-tokio-tasks](https://github.com/EkardNT/bevy-tokio-tasks) - Simple Bevy plugin which integrates a Tokio runtime into a Bevy app.
 - [Bevy Silk](https://github.com/ManevilleF/bevy_silk) - Cloth engine for Bevy.
 - [Bevy Minesweeper: Introduction](https://dev.to/qongzi/series/16975)
+- [Verlet Integration for Bevy](https://github.com/ManevilleF/bevy_verlet)
+- [Bevy Cellular Automaton](https://github.com/ManevilleF/bevy_life)
+- [Bevy Tickles](https://github.com/ManevilleF/bevy_tickles) - Particle Systems in bevy.
