@@ -635,6 +635,7 @@
 - [ScrollKit](https://github.com/danielsaidi/ScrollKit) - SwiftUI library that adds powerful scrolling features to SwiftUI, such as offset tracking and pinnable scroll header views.
 - [UIEnvironment](https://github.com/nonameplum/UIEnvironment) - Framework that mimics the SwiftUI view's environment to replicate the value distribution thought your UIKit app.
 - [Republished](https://github.com/adam-zethraeus/Republished) - Property wrapper enabling nested ObservableObjects in SwiftUI.
+- [SplitView](https://github.com/stevengharris/SplitView) - Split two SwiftUI views without NavigationSplitView nonsense.
 
 ## Test
 

@@ -218,3 +218,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and WebSocket compatibility layer for Discord->Revolt.
 - [GlueSQL Discord Storage](https://github.com/ever0de/gluesql-discord)
 - [Shipping Friday Discord](https://discord.com/invite/dqMkGed)
+- [Discord Webhook API Rust](https://github.com/thoo0224/webhook-rs)

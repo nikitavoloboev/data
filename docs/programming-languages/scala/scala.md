@@ -201,3 +201,4 @@ title: Scala
 - [Fury](https://github.com/propensive/fury) - Build tool for Scala.
 - [scalafix rules](https://github.com/xuwei-k/scalafix-rules)
 - [Scala News](https://www.scalanews.net/)
+- [Tutorials for FP in Scala (2023)](https://www.reddit.com/r/scala/comments/10xzbje/which_tutorial_to_learn_functional_programming/)

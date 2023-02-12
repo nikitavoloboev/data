@@ -14,7 +14,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 
 [crsql](https://github.com/vlcn-io/cr-sqlite), [Marmot](https://github.com/maxpert/marmot) & [Mycelite](https://github.com/mycelial/mycelite) seem nice for replicating SQLite.
 
-Looking into using [libSQL](https://libsql.org/) & [sqld](https://github.com/libsql/sqld).
+Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libsql/sqld) & [wa-sqlite](https://github.com/rhashimoto/wa-sqlite).
 
 ## Notes
 

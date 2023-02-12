@@ -2058,6 +2058,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [semaphore](https://github.com/marusama/semaphore) - Fast resizable Go semaphore based on CAS.
 - [goption](https://github.com/jordan-bonecutter/goption) - Optional values for Go.
 - [opt](https://github.com/Southclaws/opt) - Simple and ergonomic optional type.
+- [purego](https://github.com/ebitengine/purego) - Library for calling C functions from Go without Cgo. ([HN](https://news.ycombinator.com/item?id=34763681))
 
 ## Links
 

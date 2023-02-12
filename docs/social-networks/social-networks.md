@@ -4,7 +4,7 @@
 
 It's hard to appreciate just how bad it is to centralize the common people's town square where anyone can voice their opinion is. Right now, the most popular options for such a place are all governed by a set of rules that can be changed on a whim by few people only, sometimes only one. More often, what's written in the rules is not being followed too and there is no way to argument against your account being deleted or shadow banned by the network.
 
-One other thing such centralization of authority brings, is that social networks can start [start collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
+One other thing such centralization of authority brings, is that social networks can start [collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
 
 The only way you can have a social network that works for everyone is for it to be [decentralized](../networking/decentralization.md). Something akin to [Mastodon](mastodon.md) where each instance has its own rules and pays for its own compute. You can [federate](../networking/activitypub.md) with any server you like and can't be blocked out of a service with all the history deleted just on a whim.
 

@@ -18,4 +18,16 @@ One thing that stops me from going fully [depressed](../../health/depression.md)
 
 On this note, I am trying hard to get new [LA](https://github.com/learn-anything/learn-anything) deployed. It's exciting project and I hope once it's released, it will be something that people will be willing to pay money for. Will celebrate with getting my sister a computer and some fancy food. ♥️
 
-In other less depressive news, [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show. The third episode was [touching](https://www.youtube.com/watch?v=tTI4a4Da74o).
+Won't be mentioning my financial situation going forward again despite how dire it maybe. Just wanted to capture this moment as a way to read some time in future to appreciate what I have. 27 and still don't have my life anywhere close to being together.
+
+## Saw
+
+[The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show. The third episode was [touching](https://www.youtube.com/watch?v=tTI4a4Da74o).
+
+## Listened
+
+![](https://images.nikiv.dev/volt-january-2023.png)
+
+[Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) takes a special place this month.
+
+Also been enjoying [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6)'s [Now What?](https://open.spotify.com/track/1pbcdJy1XFPdY8SlmFpwid) & [You Didn't Know Any Better](https://open.spotify.com/track/19x6K6kkpLM1W6h8I9b7HM).

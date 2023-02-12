@@ -12,6 +12,8 @@ The hardest part in staying happy I find is forgiving myself for mistakes I made
 
 For me personally the end goal and purpose is ultimate freedom. Doing what I love without being restricted. On the side, I do truly want to [make life nicer for all](../future/future.md).
 
+Would love to own a [home of my own](https://twitter.com/Camp4/status/1624755246554808320) one day.
+
 ## Notes
 
 - [There is basically 4 ways people go about life: 1: hedonist: maximizes pleasure. 2: ascetic: maximizes inner peace. 3: nihilist: maximizes comfort. 4: creativist: makes things.](https://twitter.com/amasad/status/1524262567627042816)
@@ -160,3 +162,4 @@ For me personally the end goal and purpose is ultimate freedom. Doing what I lov
 - [Photos capture life inside a drop of seawater](https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/) ([HN](https://news.ycombinator.com/item?id=34439525))
 - [Ask HN: What are we even chasing? (2023)](https://news.ycombinator.com/item?id=34519487)
 - [The search for extraterrestrial life as we don’t know it (2023)](https://www.scientificamerican.com/article/the-search-for-extraterrestrial-life-as-we-dont-know-it/) ([HN](https://news.ycombinator.com/item?id=34633884))
+- [What’s your best life look like?](https://twitter.com/Camp4/status/1624755246554808320)
