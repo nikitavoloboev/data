@@ -423,6 +423,7 @@
 - [Hi-Fi](https://github.com/aaronallen8455/hi-fi) - Higher kinded records plugin.
 - [Haggle](https://github.com/travitch/haggle) - Graph library for Haskell.
 - [Persistent Vector](https://github.com/travitch/persistent-vector) - Persistent vectors for Haskell based on array mapped tries.
+- [sasha](https://github.com/phadej/sasha) - Staged lexer generator.
 
 ## Notes
 

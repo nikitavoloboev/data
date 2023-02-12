@@ -97,3 +97,4 @@
 - [PDF Writer](https://github.com/typst/pdf-writer) - Step-by-step PDF writer.
 - [React PDF REPL](https://react-pdf-repl.vercel.app/) ([Code](https://github.com/jeetiss/react-pdf-repl))
 - [jendeley](https://github.com/akawashiro/jendeley) - JSON-based PDF paper organizing software.
+- [PDF Extract](https://github.com/jrmuizel/pdf-extract) - Rust library for extracting content from PDFs.

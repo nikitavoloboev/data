@@ -89,3 +89,4 @@ title: Observability
 - [Zinc Observe](https://github.com/zinclabs/zinc-observe) - Cheap petabyte scale observability platform.
 - [highlight.io](https://www.highlight.io/) - Open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. ([Code](https://github.com/highlight/highlight))
 - [Digma](https://github.com/digma-ai/digma) - Continuous Feedback pipeline, comprised of an analysis backend and an IDE plugin.
+- [Kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool.

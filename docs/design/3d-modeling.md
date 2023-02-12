@@ -104,3 +104,4 @@
 - [lasercut.scad](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts.
 - [vrml2scad](https://github.com/agausmann/vrml2scad) - Translate VRML / WRL files to OpenSCAD.
 - [DSLCAD](https://github.com/DSchroer/dslcad) - Programming language & interpreter for building 3D models.
+- [GraphiteThree](https://github.com/BrunoLevy/GraphiteThree) - Experimental 3D modeler.
