@@ -218,3 +218,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Ask HN: How do you read an academic paper? (2023)](https://news.ycombinator.com/item?id=34513835)
 - [Sci-Hub](https://sci-hub.ru/) - Knowledge as a human right. ([HN](https://news.ycombinator.com/item?id=34541505))
 - [arXivGPT](https://github.com/hunkimForks/chatgpt-arxiv-extension) - Browser extension that enhance search engines with ChatGPT.
+- [Ask HN: Bots for summarizing and searching complex scientific papers? (2023)](https://news.ycombinator.com/item?id=34756155)

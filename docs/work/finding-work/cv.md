@@ -119,3 +119,4 @@ I made [my CV](https://nikiv.dev/cv.pdf) using [Awesome CV](https://github.com/p
 - [Resume-Operator - Jeff Davis](https://github.com/JefeDavis/Resume-Operator) - Kubernetes operator to build & host my resume, powered by operator-builder.
 - [Make a Resume in LaTeX (2022)](https://drshika.me/2022/04/15/latex-resumes) ([HN](https://news.ycombinator.com/item?id=34503888))
 - [What we look for in a resume (2023)](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) ([HN](https://news.ycombinator.com/item?id=34519268))
+- [Build an Online Resume with an Auto-Updating PDF Version](https://bas.codes/posts/github-actions-resume) ([HN](https://news.ycombinator.com/item?id=34753716))

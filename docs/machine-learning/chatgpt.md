@@ -102,3 +102,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [ChatGPT Is a Blurry JPEG of the Web (2023)](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) ([HN](https://news.ycombinator.com/item?id=34724477)) ([Lobsters](https://lobste.rs/s/9xa8m5/chatgpt_is_blurry_jpeg_web)) ([Tweet](https://twitter.com/AndrewLampinen/status/1624422478045913090))
 - [PicoGPT](https://github.com/jaymody/picoGPT) - Tiny and minimal implementation of GPT-2 in NumPy.
 - [ChatGPT - How it works: Transformers & NLP (2023)](https://www.youtube.com/watch?v=6tzn5-XlhwU&list=PLaJCKi8Nk1hwaMUYxJMiM3jTB2o58A6WY&index=5&t=4s)
+- [Delegaid](https://www.delegaid.ai/create) - Package your favorite prompts in simple UI. ([HN](https://news.ycombinator.com/item?id=34752960))

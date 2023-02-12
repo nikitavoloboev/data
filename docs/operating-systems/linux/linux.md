@@ -688,3 +688,4 @@ title: Linux
 - [FatELF](https://github.com/icculus/fatelf) - Universal binaries for Linux.
 - [Analyzing Linux Kernel Commits (2023)](https://sam4k.com/analysing-linux-kernel-commits/)
 - [boxxy](https://github.com/queer/boxxy) - Puts bad Linux applications in a box with only their files. ([HN](https://news.ycombinator.com/item?id=34730520))
+- [Gentoo Linux 2022 Retrospective](https://www.gentoo.org/news/2023/02/09/new-year.html) ([HN](https://news.ycombinator.com/item?id=34750614))

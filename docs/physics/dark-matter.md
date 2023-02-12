@@ -18,3 +18,4 @@
 - [No Need for Dark Energy - Variable Speed of Light (2022)](https://www.youtube.com/watch?v=D8CaJsgMwOM)
 - [Misleading Concepts: Dark Energy (2022)](https://www.youtube.com/watch?v=uat8JXQ4nxA)
 - [Is dark matter’s “nightmare scenario” true?](https://bigthink.com/starts-with-a-bang/dark-matter-nightmare-scenario/) ([HN](https://news.ycombinator.com/item?id=33939484))
+- [Why dark matter feels like cheating (and why it isn’t)](https://4gravitons.com/2023/02/10/why-dark-matter-feels-like-cheating-and-why-it-isnt/) ([HN](https://news.ycombinator.com/item?id=34753937))

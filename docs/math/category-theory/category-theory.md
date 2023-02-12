@@ -178,6 +178,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [The Adjoint School](https://adjointschool.com/index.html) - Annual research school in applied category theory.
 - [Awesome Double Categories](https://github.com/mattecapu/awesome-double-categories)
 - [Haskell is not category theory (2023)](https://pema.dev/2023/02/01/haskell-not-ct/) ([HN](https://news.ycombinator.com/item?id=34640381))
+- [The Joy of Abstraction: An introduction to category theory (2023)](https://johncarlosbaez.wordpress.com/2023/02/11/the-joy-of-abstraction/) ([HN](https://news.ycombinator.com/item?id=34752909))
 
 ## Images
 

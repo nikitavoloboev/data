@@ -27,3 +27,4 @@ title: Tcl
 - [Tcl the misunderstood](http://antirez.com/articoli/tclmisunderstood.html)
 - [Molt](https://github.com/wduquette/molt) - Embeddable TCL Interpreter for Rust applications.
 - [Tcl Ported to Go](https://news.ycombinator.com/item?id=33197603)
+- [A brief interview with Tcl creator John Ousterhout](https://pldb.com/posts/JohnOusterhout.html) ([HN](https://news.ycombinator.com/item?id=34733120))

@@ -156,3 +156,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [FastQL Inference Server](https://github.com/happy-machine/FastQL) - Spin up a blazing fast Rust GraphQL API to serve your ML model in one line of Python code.
 - [Zeno](https://github.com/zeno-ml/zeno) - Interactive framework for machine learning evaluation.
 - [Coadaptive Harness for Effective Evaluation, Steering, & Enhancement](https://github.com/CarperAI/cheese)
+- [How to train large models on many GPUs? (2021)](https://lilianweng.github.io/posts/2021-09-25-train-large/) ([HN](https://news.ycombinator.com/item?id=34752489))
