@@ -86,3 +86,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Notes on Every Strangeloop 2022 Talk I Attended (2022)](https://www.hillelwayne.com/post/strangeloop-22/)
 - [Public Speaking Best Practices](https://github.com/visualpartnership/public-speaking)
 - [FOSDEM 2023 - Talks](https://fosdem.org/2023/schedule/events/) ([HN](https://news.ycombinator.com/item?id=34728919))
+- [FOSDEM 2023 Transcribed by Whisper](https://jonatron.github.io/fosdem2023whisper/links.html) ([HN](https://news.ycombinator.com/item?id=34761374))
