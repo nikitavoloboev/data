@@ -15,3 +15,4 @@ title: Playwright
 - [Create Playwright](https://github.com/microsoft/create-playwright) - Getting started with Playwright with a single command.
 - [Playwright Workshop](https://github.com/mathieumure/workshop-playwright)
 - [On Playwright in GitHub Actions (2023)](https://radekmie.dev/blog/on-playwright-in-github-actions/)
+- [Extending Playwright's Built-In Test Method for Super-Clean Test Setups (2022)](https://maxschmitt.me/posts/extend-playwright-test/)

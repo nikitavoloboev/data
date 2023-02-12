@@ -591,3 +591,4 @@ for i, _ in enumerate(nums):
 - [How I added C-style for-loops to Python (2022)](https://sadh.life/post/cursed-for/) ([HN](https://news.ycombinator.com/item?id=34643811))
 - [PocketPy](https://github.com/blueloveTH/pocketpy) - Lightweight Python interpreter for game engines. ([HN](https://news.ycombinator.com/item?id=34702386))
 - [A Heisenbug lurking in async Python (2023)](https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/) ([HN](https://news.ycombinator.com/item?id=34754276))
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) ([HN](https://news.ycombinator.com/item?id=34750397))

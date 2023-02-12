@@ -6,7 +6,7 @@ title: Twitter
 
 Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension when I browse Twitter on [Safari](../web/browsers/safari.md) in [separate window](https://twitter.com/nikitavoloboev/status/1601959862648582145) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
 
-I love Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this. Except maybe [Elk](https://elk.zone) client for [Mastodon](../social-networks/mastodon.md). 
+I love Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this. Except maybe [Elk](https://elk.zone) client for [Mastodon](../social-networks/mastodon.md).
 
 I have trust Twitter will improve despite questionable past decisions. They will [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is the lack of transparency around decision making involving suspensions, the amount of bots spamming notifications and DMs and that the code is not open source.
 
@@ -325,3 +325,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [BirdsiteLIVE](https://github.com/NicolasConstant/BirdsiteLive) - ActivityPub bridge from Twitter.
 - [Twitter Video Tools](https://github.com/code-yeongyu/TwitterVideoTools) - Multi-processing supported twitter video downloader.
 - [Intercepting t.co links using DNS rewrites (2023)](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/) ([HN](https://news.ycombinator.com/item?id=34571448)) ([Lobsters](https://lobste.rs/s/zvpabd/intercepting_t_co_links_using_dns))
+- [Bird.makeup](https://bird.makeup/) - Twitter to ActivityPub bridge. ([HN](https://news.ycombinator.com/item?id=34748669)) ([Code](https://sr.ht/~cloutier/bird.makeup/))

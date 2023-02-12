@@ -59,3 +59,4 @@ I prefer more [data oriented programming](https://www.reddit.com/r/Zig/comments/
 - [What does OO do well? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/yzrhir/what_does_oo_do_well/)
 - [An argument against inheritance (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zi03k9/an_argument_against_inheritance/)
 - [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
+- [Prime Reacts: The Flaws of Inheritance (2023)](https://www.youtube.com/watch?v=HOSdPhAKupw)

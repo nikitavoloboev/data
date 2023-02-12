@@ -43,3 +43,6 @@
 - [instaprice](https://instaprice.app/) - Freelance quotes calculator.
 - [Ask HN: Hourly billers, do you bill for only focused work? (2022)](https://news.ycombinator.com/item?id=33610147)
 - [Ask HN: When to make the jump to freelance/consultant? (2023)](https://news.ycombinator.com/item?id=34400435)
+- [Ask HN: Whatever Happened To Freelancing? (2023)](https://news.ycombinator.com/item?id=34739033)
+- [Cakedesk](https://cakedesk.app/) - Simple invoicing app for freelancers.
+- [8 Tools to Run a Freelance Web Development Business (2022)](https://maxschmitt.me/posts/freelancer-tools/)

@@ -423,7 +423,7 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Zero](https://github.com/mangaki/zero) - Mangaki's recommendation algorithms.
 - [LassoNet](https://github.com/lasso-net/lassonet) - Feature selection in neural networks.
 - [AutoOED](https://github.com/yunshengtian/AutoOED) - Automated Optimal Experimental Design Platform.
-- [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - Tool for predicting the accuracy of Deep Neural Networks.
+- [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - Tool for predicting the accuracy of Deep Neural Networks. ([Web](https://weightwatcher.ai/))
 - [Web Neural Network API samples](https://github.com/webmachinelearning/webnn-samples)
 - [SparseTIR](https://github.com/uwsampl/sparsetir) - Sparse Tensor Compiler for Deep Learning.
 - [Embetter](https://github.com/koaning/embetter) - Scikit-learn compatible embeddings for computer vision and text.

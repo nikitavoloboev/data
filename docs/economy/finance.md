@@ -18,7 +18,7 @@ I found [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) 
 
 Would love to build some things on top of global payment infrastructure and get those fees closer to minimum as possible. Perhaps by building on something like [TrueLayer](https://truelayer.com/) as you need a banking license to innovate in fin tech at least in US.
 
-Use [this tool](https://invoice-generator.com/) to create invoices but want to make something nicer and more automated for my use cases.
+Use [Cakedesk](https://cakedesk.app/) to create invoices but want to make something even nicer and more automated for my use cases.
 
 ## Ongoing subscriptions
 
@@ -264,3 +264,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [How to Live in Three Places and Save Taxes (2023)](https://www.youtube.com/watch?v=KAJTZGhSVK4)
 - [Stripe Can’t Lose - But the the payments company’s dominance no longer seems inevitable (2023)](https://every.to/p/stripe-can-t-lose)
 - [Ask HN: HN for Finance? (2023)](https://news.ycombinator.com/item?id=34706550)
+- [Money Laundering and AML Compliance (2023)](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/) ([HN](https://news.ycombinator.com/item?id=34743896))

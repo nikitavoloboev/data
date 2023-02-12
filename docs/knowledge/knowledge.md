@@ -50,3 +50,4 @@ And of course this system of knowledge indexing is very flexible and I am experi
 - [Ask HN: What content/knowledge is most important? (2022)](https://news.ycombinator.com/item?id=33116230)
 - [How To Download All of Wikipedia onto a USB Flash Drive in 2022](https://planetofthepaul.com/wikipedia-download-usb-flash/) ([HN](https://news.ycombinator.com/item?id=33114107))
 - [Essential Knowledge: Computers and Tech By MIT Press](https://www.humblebundle.com/books/essential-knowledge-computers-and-tech-mit-press-books)
+- [David Deutsch: Knowledge Creation and The Human Race (2023)](https://www.youtube.com/watch?v=YyxepLfH1ZU)
