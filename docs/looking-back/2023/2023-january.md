@@ -30,4 +30,4 @@ Won't be mentioning my financial situation going forward again despite how dire 
 
 [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) takes a special place this month.
 
-Also been enjoying [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6)'s [Now What?](https://open.spotify.com/track/1pbcdJy1XFPdY8SlmFpwid) & [You Didn't Know Any Better](https://open.spotify.com/track/19x6K6kkpLM1W6h8I9b7HM).
+Also been enjoying [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6)'s  [Facade](https://open.spotify.com/track/2fGiuK2cJ2efll99JN0mu5), [Now What?](https://open.spotify.com/track/1pbcdJy1XFPdY8SlmFpwid) & [You Didn't Know Any Better](https://open.spotify.com/track/19x6K6kkpLM1W6h8I9b7HM). And [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR).
