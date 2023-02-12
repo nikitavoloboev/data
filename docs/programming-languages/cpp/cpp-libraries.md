@@ -488,6 +488,7 @@
 - [Gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [Contourklip](https://github.com/verven/contourklip) - C++ library for boolean operations on contours. Including cubic beziers.
 - [emhash](https://github.com/ktprime/emhash) - Very fast and memory efficient c++ flat hash map/set.
+- [sparse-map](https://github.com/Tessil/sparse-map) - C++ implementation of a memory efficient hash map and hash set.
 
 ## Links
 

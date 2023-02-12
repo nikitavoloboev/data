@@ -2,6 +2,8 @@
 
 Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton.app/) is nice too.
 
+I mostly eat fried eggs with some bread + feta cheese, tomatoes and avocados.
+
 ## Favorite
 
 - Greek yogurt with frozen blueberries

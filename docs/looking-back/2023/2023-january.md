@@ -6,12 +6,16 @@ I'm living the sketch of being so broke where the [bank charges me money for bei
 
 The monthly 127 I have to pay is mandated health insurance which I don't have money nor income for. 😿
 
-I've learned to live frugally over past year. Only buy basics, just drink water. Learned to make nice fried eggs over this time. I learned the trick of dropping the egg on the pan itself as it's heating to save time. In few times I have money for avocado I love to make toasts too with the eggs. Cherish those moments.
+Thankful to my parents that I'm not homeless at least. I try to find happiness in smallest of things as I've learned to live frugally over past year. Only buy essential foods whilst drinking water or tea.
 
-I also am waiting for winter to end finally. I live in a house with my family and we don't have money for heating so it does get quite cold. Cold enough that you can't type properly on computers. Soon it will be over, I hope.
+I mostly currently only eat fried eggs with some bread + feta cheese and tomatoes. And rarely avocados as they do cost a lot of money. Cherish those moments.
 
-What's fascinating is that despite how bad things can get in life, it's still not enough to lose hope. I had my share of [depression](../../health/depression.md). Sometimes thinking I won't make it and would rather [die](../../life/death.md) than suffer more. But I've learned that giving up is the last thing you should do. You should always strive to get out of the hole you're in, no matter how difficult or lost it might feel.
+I've learned to make nice fried eggs over this time. I use this trick of dropping the egg on the pan itself as I fry the eggs separately. Saves on some time and is even fun to do I found.
 
-On this note, I am trying my best to get new [LA](https://github.com/learn-anything/learn-anything) deployed before I physically won't be able to do anything.
+This winter has been cold and as I don't have money for heating, it's often hard to even do anything on computers as the hands get too cold to type anything. Few more months of this and that should be okay though, if I can make it.
+
+One thing that stops me from going fully [depressed](../../health/depression.md) and losing hope for future is that I've felt this feeling of complete loss of hope before. I remember wanting to just [die](../../life/death.md) and end it rather than suffer more. But eventually things improved even if slightly. So I try to keep that in mind whenever things get tough or even painful. Hope is a powerful thing if you truly believe it.
+
+On this note, I am trying hard to get new [LA](https://github.com/learn-anything/learn-anything) deployed. It's exciting project and I hope once it's released, it will be something that people will be willing to pay money for. Will celebrate with getting my sister a computer and some fancy food. ♥️
 
 In other less depressive news, [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show. The third episode was [touching](https://www.youtube.com/watch?v=tTI4a4Da74o).
