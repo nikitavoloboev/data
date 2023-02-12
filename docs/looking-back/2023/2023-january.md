@@ -18,7 +18,7 @@ One thing that stops me from going fully [depressed](../../health/depression.md)
 
 On this note, I am trying hard to get new [LA](https://github.com/learn-anything/learn-anything) deployed. It's exciting project and I hope once it's released, it will be something that people will be willing to pay money for. Will celebrate with getting my sister a computer and some fancy food. ♥️
 
-Won't be mentioning my financial situation going forward again despite how dire it maybe. Just wanted to capture this moment as a way to read some time in future to appreciate what I have. 27 and still don't have my life anywhere close to being together.
+Won't be mentioning my financial situation going forward again despite how dire it maybe. Just wanted to capture this moment as a way to read some time in future to appreciate what I have. I'm in 28 in 2 months and still don't have my life anywhere close to being [together](https://www.youtube.com/watch?v=-tGL-buZ94Y).
 
 ## Saw
 
@@ -30,4 +30,4 @@ Won't be mentioning my financial situation going forward again despite how dire 
 
 [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) takes a special place this month.
 
-Also been enjoying [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6)'s  [Facade](https://open.spotify.com/track/2fGiuK2cJ2efll99JN0mu5), [Now What?](https://open.spotify.com/track/1pbcdJy1XFPdY8SlmFpwid) & [You Didn't Know Any Better](https://open.spotify.com/track/19x6K6kkpLM1W6h8I9b7HM). And [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR).
+Also been enjoying [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6)'s [Facade](https://open.spotify.com/track/2fGiuK2cJ2efll99JN0mu5), [Now What?](https://open.spotify.com/track/1pbcdJy1XFPdY8SlmFpwid) & [You Didn't Know Any Better](https://open.spotify.com/track/19x6K6kkpLM1W6h8I9b7HM).

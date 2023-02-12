@@ -2246,3 +2246,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [gotestiful](https://github.com/alex-parra/gotestiful) - gotest made beautiful.
 - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation) (2023)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
 - [go-doudou](https://github.com/unionj-cloud/go-doudou) - Lightweight Go Microservice Framework.
+- [Gobuild](https://beta.gobuilds.org/) - Reproducible binaries for the Go module proxy.
