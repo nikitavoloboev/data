@@ -162,6 +162,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [lighter](https://github.com/code-hike/lighter) - Syntax highlighter used by Code Hike.
 - [VZCode](https://github.com/vizhub-core/vzcode) - Multiplayer code editor system.
 - [HTML5 Text Editor](https://github.com/GoogleChromeLabs/text-editor) - Text editor build on the Native File System APIs.
+- [Wideboard](https://github.com/aappleby/Wideboard) - Text editor experiment.
 
 ## Notes
 

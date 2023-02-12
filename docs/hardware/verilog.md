@@ -69,3 +69,4 @@
 - [svinst](https://github.com/sgherbst/svinst) - Determines the modules declared and instantiated in a SystemVerilog file.
 - [svreal](https://github.com/sgherbst/svreal) - SystemVerilog library that makes it easy to perform real-number operations in a synthesizable fashion in SystemVerilog.
 - [svlint](https://github.com/dalance/svlint) - SystemVerilog linter.
+- [Verilog RTL Design](https://github.com/ishfaqahmed29/SerDes)

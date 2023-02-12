@@ -405,6 +405,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [GoLive](https://github.com/canopyclimate/golive) - Library for building LiveViews in Go.
 - [uRouter](https://github.com/lxzan/uRouter) - HTTP & WebSocket router library for Go.
 - [fcors](https://github.com/jub0bs/fcors) - Fearless CORS - a principled CORS middleware library for Go.
+- [go-connections](https://github.com/docker/go-connections) - Utility package to work with network connections.
 
 ## GraphQL
 
