@@ -249,3 +249,4 @@ title: Genomics
 - [Gattaca is still pertinent 25 years later (2022)](https://www.nature.com/articles/s41588-022-01242-5) ([HN](https://news.ycombinator.com/item?id=34667067))
 - [skani](https://github.com/bluenote-1577/skani) - Fast, robust ANI and aligned fraction for metagenomic genomes and contigs.
 - [stRainy](https://github.com/katerinakazantseva/stRainy) - Graph-based assembly phasing.
+- [sourmash](https://github.com/sourmash-bio/sourmash) - Quickly search, compare, and analyze genomic and metagenomic data sets.
