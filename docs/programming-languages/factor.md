@@ -14,3 +14,5 @@ title: Factor
 - [Factor: An impressive stack-based language environment](https://junglecoder.com/blog/factorlang-review)
 - [Factor in 2022](https://www.youtube.com/watch?v=OLh61q4c4XE) ([Lobsters](https://lobste.rs/s/v163lv/factor_2022))
 - [Re: Factor](https://github.com/mrjbq7/re-factor) - Small utilities and vocabularies implemented in Factor.
+- [Proquint (2023)](https://re-factor.blogspot.com/2023/02/proquint.html) ([Lobsters](https://lobste.rs/s/ntouqv/proquint))
+- [Re: Factor Blog](https://re-factor.blogspot.com/)

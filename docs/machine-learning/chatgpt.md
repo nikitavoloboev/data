@@ -4,7 +4,7 @@ title: ChatGPT
 
 # [ChatGPT](https://chat.openai.com/chat)
 
-[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) is great overview of how it works.
+[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) & [How ChatGPT is Trained](https://www.youtube.com/watch?v=VPRSBzXzavo) are great overviews of how it works.
 
 I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
 
@@ -103,3 +103,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [PicoGPT](https://github.com/jaymody/picoGPT) - Tiny and minimal implementation of GPT-2 in NumPy.
 - [ChatGPT - How it works: Transformers & NLP (2023)](https://www.youtube.com/watch?v=6tzn5-XlhwU&list=PLaJCKi8Nk1hwaMUYxJMiM3jTB2o58A6WY&index=5&t=4s)
 - [Delegaid](https://www.delegaid.ai/create) - Package your favorite prompts in simple UI. ([HN](https://news.ycombinator.com/item?id=34752960))
+- [How ChatGPT is Trained (2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)

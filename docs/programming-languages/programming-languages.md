@@ -530,3 +530,5 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [A Wishlist of Zero-Cost Abstractions (2017)](https://borretti.me/article/wishlist-zero-cost-abstractions)
 - [Tiger](https://github.com/vyorkin/tiger) - Small imperative language that I'm writing while reading the Modern Compiler Implementation in ML.
 - [Free Variables and Free Effects](https://okmij.org/ftp/Computation/variables-effects.html)
+- [The unsafe language doom principle (2023)](https://blog.yossarian.net/2023/02/11/The-unsafe-language-doom-principle) ([Lobsters](https://lobste.rs/s/lalmzo/unsafe_language_doom_principle))
+- [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines (2023)](https://abhinavsarkar.net/posts/implementing-co-3/) ([Lobsters](https://lobste.rs/s/sotg8z/implementing_co_small_language_with))

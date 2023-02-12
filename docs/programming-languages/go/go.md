@@ -412,7 +412,7 @@ if *boolArgPtr != false {
 - [Go Training](https://github.com/go-training/training) - Learning basic Go in one day.
 - [Ask HN: Go programming language is over ten years old. What do you think of it? (2020)](https://news.ycombinator.com/item?id=24887521)
 - [Awesome Go code formatters](https://github.com/life4/awesome-go-code-formatters)
-- [Gofumpt](https://github.com/mvdan/gofumpt) - Stricter gofmt. ([HN](https://news.ycombinator.com/item?id=34748475))
+- [Gofumpt](https://github.com/mvdan/gofumpt) - Stricter gofmt. ([HN](https://news.ycombinator.com/item?id=34748475)) ([Lobsters](https://lobste.rs/s/x2ijwj/gofumpt_stricter_gofmt))
 - [Go Wasm](https://go-wasm.johnstarich.com/) - In-browser IDE for Go using WebAssembly. ([Code](https://github.com/JohnStarich/go-wasm))
 - [Hash Tables Implementation in Go. The inner implementation. (2020)](https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553)
 - [GopherLabs](https://gopherlabs.kubedaily.com/) - Ultimate Workshop Track for Go Developer. ([Code](https://github.com/sangam14/GopherLabs))

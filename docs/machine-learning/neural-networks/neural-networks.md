@@ -2,6 +2,8 @@
 
 [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) is great intro. [Building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) is fascinating too.
 
+[Transformer Neural Networks](https://www.youtube.com/watch?v=XSSTuhyAmnI) are useful to understand.
+
 ## Notes
 
 - Neural Networks are great identifying patterns in data. As a classic example, if you wanted to predict housing prices, you could build a data set that maps features about houses (square feet, location, proximity to Caltrain, etc) onto their actual price, and then train a network to recognize the complex relationship between features and pricing. Training happens by feeding the network features, letting it make a guess about the price, and then correcting the guess (backpropagation).
@@ -330,3 +332,4 @@
 - [ManimML](https://github.com/helblazer811/ManimML) - Neural Network Animations with Python.
 - [C++ Neural Network in a Weekend (2020)](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/) ([HN](https://news.ycombinator.com/item?id=34594216))
 - [Understanding and coding the self-attention mechanism of large language models (2023)](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) ([HN](https://news.ycombinator.com/item?id=34743263))
+- [What are Transformer Neural Networks? (2021)](https://www.youtube.com/watch?v=XSSTuhyAmnI)
