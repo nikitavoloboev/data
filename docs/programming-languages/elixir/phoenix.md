@@ -143,3 +143,4 @@ title: Phoenix framework
 - [Phoenix.HTML](https://github.com/phoenixframework/phoenix_html) - Helpers to generate and manipulate HTML contents.
 - [Ecto SQLite3 Extras](https://github.com/orsinium-labs/ecto_sqlite3_extras) - Helpful queries and Phoenix Live Dashboard integration for SQLite.
 - [Phoenix LiveView Free Course](https://pragmaticstudio.com/courses/phoenix-liveview)
+- [RequestCache](https://github.com/MikaAK/request_cache_plug) - Request caching for Phoenix & Absinthe (GraphQL), short circuiting even the JSON decoding/encoding.

@@ -78,6 +78,7 @@
 - [Flop](https://github.com/woylie/flop) - Filtering, ordering and pagination for Ecto.
 - [EctoDbg](https://github.com/akoutmos/ecto_dbg) - Utility to format and output Ecto queries.
 - [Clickhousex](https://github.com/clickhouse-elixir/clickhousex) - ClickHouse database driver to connect with Elixir application by HTTP interface.
+- [EctoShorts](https://github.com/MikaAK/ecto_shorts) - Library focused around making Ecto easier to use in an application and helping to write shorter code.
 
 ## Test
 
@@ -287,6 +288,7 @@
 - [Tria](https://github.com/hissssst/tria) - Optimizing compiler for Elixir.
 - [Pathex](https://github.com/hissssst/pathex) - Library for performing fast actions with nested data structures in Elixir.
 - [Assent](https://github.com/pow-auth/assent) - Multi-provider authentication framework.
+- [ErrorMessage](https://github.com/MikaAK/elixir_error_message) - Simplify error systems.
 
 ## Links
 

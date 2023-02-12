@@ -212,3 +212,4 @@
 - [A Gentle Tutorial for Lattice-Based Cryptanalysis (2023)](https://eprint.iacr.org/2023/032.pdf)
 - [Crypto Dictionary](https://www.crypto-dictionary.com/)
 - [Extracting training data from diffusion models (2023)](https://arxiv.org/abs/2301.13188) ([HN](https://news.ycombinator.com/item?id=34596187))
+- [AWS-LC](https://github.com/awslabs/aws-lc) - General-purpose cryptographic library maintained by the AWS Cryptography team.
