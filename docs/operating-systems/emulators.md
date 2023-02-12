@@ -86,3 +86,4 @@
 - [A Z80 emulator (2023)](https://palaiologos.rocks/essays/posts/z80-emu/)
 - [Making a 68000 Emulator in Rust (2021)](https://jabberwocky.ca/posts/2021-11-making_an_emulator.html)
 - [Weird things I learned while writing an x86 emulator (2023)](https://www.timdbg.com/posts/useless-x86-trivia/) ([HN](https://news.ycombinator.com/item?id=34636699))
+- [Simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator.

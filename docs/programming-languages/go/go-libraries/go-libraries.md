@@ -2057,6 +2057,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Workgroup](https://github.com/carlmjohnson/workgroup) - Generic Go library that provides a structured approach to concurrent programming. ([Lobsters](https://lobste.rs/s/ofhisc/building_conc_better_structured#c_kkvmkp))
 - [semaphore](https://github.com/marusama/semaphore) - Fast resizable Go semaphore based on CAS.
 - [goption](https://github.com/jordan-bonecutter/goption) - Optional values for Go.
+- [opt](https://github.com/Southclaws/opt) - Simple and ergonomic optional type.
 
 ## Links
 

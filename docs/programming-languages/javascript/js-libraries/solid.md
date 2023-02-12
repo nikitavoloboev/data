@@ -217,3 +217,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Learn SolidJS Basics in 4 minutes (2023)](https://www.youtube.com/watch?v=8cAEk4mH3pk)
 - [Solid Material](https://github.com/ceopaludetto/solid-material) - High quality components built with Tailwind and Kobalte following Material You guidelines.
 - [Lexical-Solid](https://github.com/mosheduminer/lexical-solid) - Solid port for Lexical text editing component.
+- [Solid Mason](https://github.com/lxsmnsyc/solid-mason) - Masonry layout for SolidJS.

@@ -105,3 +105,5 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Verlet Integration for Bevy](https://github.com/ManevilleF/bevy_verlet)
 - [Bevy Cellular Automaton](https://github.com/ManevilleF/bevy_life)
 - [Bevy Tickles](https://github.com/ManevilleF/bevy_tickles) - Particle Systems in bevy.
+- [pecs](https://github.com/jkb0o/pecs) - Asynchronous operations for Bevy Engine.
+- [belly](https://github.com/jkb0o/belly) - Plugin for a bevy game engine that helps to declaratively define a user interface with eml markup.
