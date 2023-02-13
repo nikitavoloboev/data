@@ -1043,3 +1043,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Improving incremental test times in Rust (2023)](https://blog.waleedkhan.name/rust-incremental-test-times/) ([Lobsters](https://lobste.rs/s/ktyp2q/improving_incremental_test_times_rust))
 - [Introducing AdaCore, a Rust Foundation Silver Member (2023)](https://foundation.rust-lang.org/news/member-spotlight-adacore/)
 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) ([HN](https://news.ycombinator.com/item?id=34737626))
+- [Reimplementing the Coreutils in a modern language (Rust)](https://fosdem.org/2023/schedule/event/rust_coreutils/) ([HN](https://news.ycombinator.com/item?id=34780886))

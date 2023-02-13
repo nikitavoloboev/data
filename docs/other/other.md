@@ -760,3 +760,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [A manifesto on shower temperature control (2023)](https://benholmen.com/blog/shower-temperature-control/) ([HN](https://news.ycombinator.com/item?id=34611335))
 - [How countries look out for nuclear war danger (2023)](https://www.reddit.com/r/CredibleDefense/comments/10v60rf/comment/j7fmtc7/?context=3)
 - [Why Iran-Iraq war dragged on (2023)](https://www.reddit.com/r/CredibleDefense/comments/10zn2wq/comment/j84hec5/?utm_source=reddit&utm_medium=web2x&context=3)
+- [How I Use My Mouse](https://github.com/madprops/blog/blob/main/mouse.md) ([HN](https://news.ycombinator.com/item?id=34739163))

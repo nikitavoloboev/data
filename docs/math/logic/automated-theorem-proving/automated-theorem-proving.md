@@ -40,3 +40,4 @@ title: Automated theorem proving
 - [AUTO2](https://github.com/bzhan/auto2) - Best-first-search theorem prover implemented in Isabelle.
 - [Tutorials and courses for Z3](https://github.com/microsoft/z3guide)
 - [Proost](https://github.com/proost-assistant/proost) - Simple proof assistant written in Rust.
+- [HOL Light theorem prover](https://github.com/jrh13/hol-light)

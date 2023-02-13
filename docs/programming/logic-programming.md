@@ -40,3 +40,4 @@
 - [Multiset Rewriting in miniKanren](https://github.com/webyrd/linear-logic-multiset-rewriting)
 - [Minilog](https://github.com/lambduli/minilog) - Small relational (logic) programming language.
 - [Can Logic Programming Execute as Fast as Imperative Programming? (1990)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf)
+- [kanren](https://github.com/pythological/kanren) - Logic/relational programming in Python with miniKanren.

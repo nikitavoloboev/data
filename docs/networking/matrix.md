@@ -127,3 +127,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Matrix Webhook](https://github.com/nim65s/matrix-webhook) - Post a message to a matrix room with a simple HTTP POST.
 - [Dimension](https://github.com/turt2live/matrix-dimension) - Open source integration manager for matrix clients, like Element.
 - [Conduit](https://github.com/timokoesters/conduit) - Matrix homeserver written in Rust.
+- [Matrix 2.0: How we’re making Matrix go voom (2023)](https://fosdem.org/2023/schedule/event/matrix20/) ([HN](https://news.ycombinator.com/item?id=34776132))

@@ -1149,6 +1149,8 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [PyGlove](https://github.com/google/pyglove) - General-purpose library for Python object manipulation.
 - [RQ Scheduler](https://github.com/rq/rq-scheduler) - Lightweight library that adds job scheduling capabilities to RQ (Redis Queue).
 - [fuego](https://github.com/huggingface/fuego) - Interface for running code in the cloud.
+- [tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy the full-text search engine library written in Rust.
+- [S3FS](https://github.com/fsspec/s3fs) - S3 file system.
 
 ## Notes
 

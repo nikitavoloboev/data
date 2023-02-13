@@ -71,3 +71,4 @@ Heard nice things about [Eight Sleep](https://www.eightsleep.com) Pod & mattress
 - [Couple tracked things that helped with better sleep](https://twitter.com/gregisenberg/status/1596148602526646274)
 - [Non-Sleep Deep Rest with Dr. Andrew Huberman](https://www.youtube.com/watch?v=AKGrmY8OSHM)
 - [Go-to sleep supplements (2022)](https://www.reddit.com/r/Nootropics/comments/z8dxps/goto_sleep_supplements_one_youve_never_heard_of/)
+- [Let Teenagers Sleep](https://www.scientificamerican.com/article/let-teenagers-sleep/) ([HN](https://news.ycombinator.com/item?id=34780343))

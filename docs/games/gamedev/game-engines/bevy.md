@@ -108,3 +108,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [pecs](https://github.com/jkb0o/pecs) - Asynchronous operations for Bevy Engine.
 - [belly](https://github.com/jkb0o/belly) - Plugin for a bevy game engine that helps to declaratively define a user interface with eml markup.
 - [swarmy](https://github.com/sebosp/swarmy) - Starcraft 2 Replay in Bevy.
+- [Bevy ECSS](https://github.com/afonsolage/bevy_ecss) - Bevy crate which uses a subset of CSS to update Bevy ECS components.

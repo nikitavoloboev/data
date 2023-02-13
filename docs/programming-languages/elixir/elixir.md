@@ -192,3 +192,4 @@
 - [The Complete Guide to Full-text Search with Postgres and Ecto (2022)](https://www.peterullrich.com/complete-guide-to-full-text-search-with-postgres-and-ecto)
 - [Awesome Elixir Books](https://github.com/sger/ElixirBooks)
 - [Elixir and its lab by Cédric Paumard (2023)](https://www.youtube.com/watch?v=lbcim_O1a-s)
+- [Orion](https://github.com/LivewareProblems/Orion) - Distributed Dynamic Profiling for the BEAM.

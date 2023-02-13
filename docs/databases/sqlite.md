@@ -308,3 +308,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [Save OpenAI API results to a SQLite database](https://github.com/simonw/openai-to-sqlite) ([HN](https://news.ycombinator.com/item?id=34689624))
 - [sqlite-vss](https://github.com/asg017/sqlite-vss) - SQLite extension for efficient vector search, based on Faiss. ([Intro](https://observablehq.com/@asg017/introducing-sqlite-vss))
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file.
+- [SQLite WASM: Something subtle in the browser](https://blog.kebab-ca.se/chapters/2023-02-12-sqlite-wasm/overview.html) ([HN](https://news.ycombinator.com/item?id=34774357))
