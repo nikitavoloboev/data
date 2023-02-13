@@ -13,6 +13,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 ## Example sites
 
 - [Taxonomy](https://github.com/shadcn/taxonomy) - Open source application built using the new router, server components and everything new in Next.js 13.
+- [T3 Complete](https://github.com/juliusmarminge/t3-complete)
 - [Create T3 Turbo with Clerk Authentication](https://github.com/clerkinc/t3-turbo-and-clerk)
 - [Create T3 App](https://github.com/t3-oss/create-t3-app) - NextJS + tRPC + TailwindCSS + TS + Prisma + NextAuth.
 - [Next 13 Pocketbase Demo](https://github.com/fireship-io/next13-pocketbase-demo)

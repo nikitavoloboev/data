@@ -274,6 +274,7 @@
 - [Tab](https://github.com/eerohele/tab) - Tool for tabulating Clojure collections.
 - [Emmy](https://github.com/mentat-collective/emmy) - Emmy Computer Algebra System.
 - [Electric Clojure](https://github.com/hyperfiddle/electric) - Signals DSL for full stack web UI, with compiler-managed network sync. ([HN](https://news.ycombinator.com/item?id=34771771))
+- [Duratom](https://github.com/jimpil/duratom) - Durable atom type for Clojure.
 
 ## Links
 

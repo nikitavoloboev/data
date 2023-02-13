@@ -293,6 +293,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Games similar to Last of Us](https://www.reddit.com/r/thelastofus/comments/10ub6sc/hi_i_just_finished_tlou_2_walkthrough_and_idk/)
 - [What games are you playing at the moment and what do you like about them? (2023)](https://www.reddit.com/r/PS4/comments/10uqyhp/what_games_are_you_playing_at_the_moment_and_what/)
 - [Games with really good AI (2023)](https://www.reddit.com/r/patientgamers/comments/10ygatb/games_with_really_good_ai/)
+- [Whats a single player game you LOVE but will never play again for a second playthrough? (2023)](https://www.reddit.com/r/patientgamers/comments/110vr9j/whats_a_single_player_game_you_love_but_will/)
 
 ## Links
 

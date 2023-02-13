@@ -1121,6 +1121,8 @@
 - [render-media](https://github.com/feross/render-media) - Intelligently render media files in the browser.
 - [Nonchalance](https://github.com/WebReflection/nonchalance) - Easiest way to augment DOM builtin elements.
 - [hrbrbox](https://github.com/hrbrmstr/hrbrbox) - JS tools primarily intended to simplify some operations in Observable notebooks.
+- [cborg](https://github.com/rvagg/cborg) - Fast CBOR with a focus on strictness.
+- [Interval Tree](https://github.com/alexbol99/flatten-interval-tree) - Interval binary search tree.
 
 ## Links
 

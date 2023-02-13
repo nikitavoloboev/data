@@ -163,3 +163,4 @@
 - [Pattern Matching Interfaces in Ruby](https://dev.to/baweaver/pattern-matching-interfaces-in-ruby-1b15) ([RFC](https://docs.google.com/document/d/1spnuQTKy5i7Lx-sDCsORKN981Iam1IuNdOsYkhh9Yi0/edit#))
 - [Ruby Internals Glossary](https://github.com/tenderlove/ruby-glossary) - Acronyms I've run across in the Ruby source code and their meanings.
 - [Ruby Changes](https://rubyreferences.github.io/rubychanges/) - History of Ruby language evolution.
+- [Ruby's private keyword is weird (2023)](https://blog.jez.io/ruby-private/)

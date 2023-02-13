@@ -156,3 +156,4 @@
 - [Mac 30th Anniversary Icons](https://rknightuk.github.io/mac-30-font-svg/) ([Code](https://github.com/rknightuk/mac-30-font-svg))
 - [Embarcadero](https://github.com/social-squircle/Embarcadero) - Community resource for finding custom SF Symbols and the people who make them.
 - [Making the Cakedesk App Icon (2022)](https://maxschmitt.me/posts/cakedesk-app-icon/)
+- [Icon Libraries](https://github.com/luizov/icon-libraries)

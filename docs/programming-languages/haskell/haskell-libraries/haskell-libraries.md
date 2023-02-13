@@ -285,7 +285,7 @@
 - [heidi](https://github.com/ocramz/heidi) - Tidy data in Haskell.
 - [Clash Protocols](https://github.com/clash-lang/clash-protocols) - Battery-included library for writing on-chip protocols, such as AMBA AXI and Altera Avalon.
 - [range-set-list](https://github.com/phadej/range-set-list) - Memory efficient sets with continuous ranges of elements. List based implementation.
-- [generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products.
+- [generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products. ([Intro](https://srid.ca/generics-sop-intro))
 - [linear-builder](https://github.com/Bodigrim/linear-builder) - Linear types for linear times.
 - [AT](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell.
 - [debugger-hs](https://github.com/luc-tielen/debugger-hs) - Write your GDB scripts in Haskell.

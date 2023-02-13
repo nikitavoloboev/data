@@ -275,3 +275,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Render engine for NeRFs](https://github.com/JamesPerlman/NeRFRenderCore)
 - [Quine](https://github.com/ekmett/quine) - Graphics experiments in Haskell.
 - [Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/) ([HN](https://news.ycombinator.com/item?id=34660580))
+- [Polymer](https://github.com/ddiakopoulos/polymer) - Graphics + interaction engine.

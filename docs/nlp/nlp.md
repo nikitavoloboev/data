@@ -826,3 +826,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Discovering Latent Knowledge Without Supervision](https://github.com/collin-burns/discovering_latent_knowledge)
 - [Offsite-Tuning: Transfer Learning without Full Model (2023)](https://arxiv.org/abs/2302.04870) ([Code](https://github.com/mit-han-lab/offsite-tuning))
 - [Awesome Neural Reprogramming Acoustic Prompting](https://github.com/huckiyang/awesome-neural-reprogramming-prompting)
+- [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database. Makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.

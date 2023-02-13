@@ -238,6 +238,7 @@
 - [CachePolicy](https://github.com/kornelski/rusty-http-cache-semantics) - Parses HTTP headers to correctly compute cacheability of responses.
 - [http-cache](https://github.com/06chaynes/http-cache) - Caching middleware that follows HTTP caching rules.
 - [httpz](https://github.com/oscartbeaumont/httpz) - Code once, support every Rust web server.
+- [xitca-web](https://github.com/HFQR/xitca-web) - Alternative HTTP library and web framework inspired by hyper.
 
 ## Auth
 
@@ -752,6 +753,8 @@
 - [halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) - Consist of a simple PLONK gate and non native arithmetic based applications.
 - [flo_curves](https://github.com/Logicalshift/flo_curves) - Bezier curve library for Rust.
 - [bn254](https://github.com/sedaprotocol/bn254) - Aggregate signatures over the pairing-friendly elliptic curve BN254.
+- [Dilithium](https://github.com/Argyle-Software/dilithium) - Post-quantum cryptographic signature scheme.
+- [Kyber](https://github.com/Argyle-Software/kyber) - Rust implementation of the Kyber post-quantum KEM.
 
 ## Linux
 

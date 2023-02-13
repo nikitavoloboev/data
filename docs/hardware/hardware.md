@@ -403,3 +403,4 @@
 - [CGRA-Flow](https://github.com/tancheng/CGRA-Flow) - Integrated framework for CGRA compilation, exploration, synthesis, and development.
 - [A Multi-Threaded Fast Hardware Compiler for HDLs (2023)](https://masc.soe.ucsc.edu/docs/cc2023_livehd.pdf)
 - [Gemmini](https://github.com/ucb-bar/gemmini) - Berkeley's Spatial Array Generator.
+- [SiliWiz](https://app.siliwiz.com/) ([Lessons](https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/)) ([Code](https://github.com/wokwi/siliwiz))

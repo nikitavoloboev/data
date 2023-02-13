@@ -923,3 +923,4 @@ title: Kubernetes
 - [Otterize intents operator](https://github.com/otterize/intents-operator) - Manage network policies and Kafka ACLs in a Kubernetes cluster with ease.
 - [nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster.
 - [kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix.
+- [KHole](https://github.com/cloud-native-skunkworks/khole) - Simple operator to alert on broken Kubernetes pods.

@@ -59,3 +59,4 @@
 - [FastLED](https://github.com/FastLED/FastLED) - Library for colored LED animation on Arduino.
 - [Wokwi](https://wokwi.com/) - Online Arduino and ESP32 Simulator.
 - [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs.
+- [AVR8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript.
