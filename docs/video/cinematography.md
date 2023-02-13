@@ -61,3 +61,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Cooke Optics](https://cookeoptics.com/) - Cinematography Lenses.
 - [Filmbox](https://videovillage.co/filmbox/) - Motion picture film emulation. For DaVinci Resolve.
 - [Video Village](https://videovillage.co/) - Make apps so you can make movies.
+- [The Cameras used in Films and Streaming Shows (2023)](https://www.youtube.com/watch?v=YI58qGphwCY)

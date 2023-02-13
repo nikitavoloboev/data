@@ -247,3 +247,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Song Describer](https://github.com/ilaria-manco/song-describer) - Data collection platform for annotating music with textual descriptions.
 - [Maroofy](https://maroofy.com/) - Discover similar music you'll love. ([HN](https://news.ycombinator.com/item?id=34635352))
 - [What are some notable songs or scores that you enjoy the most from your favorite games? (2023)](https://www.reddit.com/r/patientgamers/comments/110ii40/what_are_some_notable_songs_or_scores_that_you/)
+- [Треки, которые вы готовы слушать на репите](https://twitter.com/great_knee/status/1625054179839340544)

@@ -115,4 +115,4 @@ title: Elm
 - [SVGs as Elm Code (2022)](https://blog.noredink.com/post/699829728548372480/svgs-as-elm-code) ([HN](https://news.ycombinator.com/item?id=33444832))
 - [Gaining insight into your codebase with elm-review (2022)](https://jfmengels.net/elm-review-insights/)
 - [ryannhg/graphql](https://github.com/ryannhg/graphql) - Elm/json inspired package for working with GraphQL.
-- [Ask HN: What Happened to Elm? (2023)](https://news.ycombinator.com/item?id=34746161)
+- [Ask HN: What Happened to Elm? (2023)](https://news.ycombinator.com/item?id=34746161) ([Lobsters](https://lobste.rs/s/ftqp21/whatever_happened_elm_anyway))

@@ -16,7 +16,7 @@ I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to instal
 
 [nixify](https://github.com/rvolosatovs/nixify) is interesting. [Attic](https://github.com/zhaofengli/attic) is great self hostable nix binary cache.
 
-[Standard](https://github.com/divnix/std) is nice Nix flakes framework.
+[Standard](https://github.com/divnix/std) is nice Nix flakes framework. [Flox](https://github.com/flox/flox) is interesting too.
 
 ## Notes
 
