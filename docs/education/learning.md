@@ -277,3 +277,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: Are you as passionate as you used to be? (2023)](https://news.ycombinator.com/item?id=34599433)
 - [Ask HN: What will be the most valuable technology skills in future? (2023)](https://news.ycombinator.com/item?id=34644966)
 - [Ask HN: Share your favorite YouTube channels focused on mastering a skill/craft (2023)](https://news.ycombinator.com/item?id=34666777)
+- [Ask HN: What is your system for learning new things? (2023)](https://news.ycombinator.com/item?id=34771415)

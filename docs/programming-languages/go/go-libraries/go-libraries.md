@@ -18,6 +18,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 
 [Prometheus client](https://github.com/prometheus/client_golang) is nice for observability.
 
+[Rust + Go](https://github.com/mediremi/rust-plus-golang) is nice guide for calling [Rust](../../rust/rust.md) code from Go although with overhead sadly.
+
 ## CLI
 
 - [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.
@@ -660,6 +662,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Waggy](https://github.com/syke99/waggy) - Dead simple, easy-to-use library for writing WAGI (Web Assembly Gateway Interface) API handlers in Go.
 - [tinyjson](https://github.com/CosmWasm/tinyjson) - Fast and easy way to marshal/unmarshal Go structs to/from JSON to use with TinyGo.
 - [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) - Run Go WASM tests easily in your browser.
+- [nottinygc](https://github.com/wasilibs/nottinygc) - Higher-performance allocator for TinyGo WASI apps.
 
 ## GUI
 

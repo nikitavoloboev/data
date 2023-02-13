@@ -279,3 +279,4 @@ title: SwiftUI
 - [SwiftUI iOS App with Bazel](https://github.com/mattrobmattrob/bazel-ios-swiftui-template)
 - [CatalystCustomToolbar](https://github.com/steventroughtonsmith/CatalystCustomToolbar) - Using UIKit/SwiftUI to build a toolbar for a Mac Catalyst app.
 - [SwiftUI Sample Code](https://github.com/alexpaul/SwiftUI)
+- [Adaptive stack view in SwiftUI (2023)](https://medium.com/evangelist-apps/adaptive-stack-view-in-swiftui-c484b76b8523)

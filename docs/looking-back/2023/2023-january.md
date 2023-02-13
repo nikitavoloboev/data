@@ -18,8 +18,6 @@ One thing that stops me from going fully [depressed](../../health/depression.md)
 
 On this note, I am trying hard to get new [LA](https://github.com/learn-anything/learn-anything) deployed. It's exciting project and I hope once it's released, it will be something that people will be willing to pay money for. Will celebrate with getting my sister a computer and some fancy food. ♥️
 
-Won't be mentioning my financial situation going forward again despite how dire it maybe. Just wanted to capture this moment so I can maybe read it some time in future to appreciate what I have. I'm in 28 in 2 months and still don't have my life anywhere close to being [together](https://www.youtube.com/watch?v=-tGL-buZ94Y).
-
 ## Saw
 
 [The Last of Us](https://trakt.tv/shows/the-last-of-us) is a great show. The third episode was [touching](https://www.youtube.com/watch?v=tTI4a4Da74o).

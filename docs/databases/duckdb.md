@@ -26,3 +26,4 @@ title: DuckDB
 - [PuffinDB](https://github.com/sutoiku/puffin) - Serverless data lake query engine powered by Iceberg × DuckDB × Arrow.
 - [duckdb_engine](https://github.com/Mause/duckdb_engine) - SQLAlchemy driver for DuckDB.
 - [HN: DuckDB (2023)](https://news.ycombinator.com/item?id=34741195)
+- [DuckDB 0.7.0 (2023)](https://duckdb.org/2023/02/13/announcing-duckdb-070.html) ([HN](https://news.ycombinator.com/item?id=34771524))

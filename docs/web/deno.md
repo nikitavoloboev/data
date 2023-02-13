@@ -366,3 +366,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Duno.land](https://duno.land/) - Why Deno isn't ready yet. ([Code](https://github.com/dunosaurs/duno.land))
 - [Build a Simple Image Resizing API in less than 100 LOC (2023)](https://deno.com/blog/build-image-resizing-api)
 - [Is Deno Ready for Primetime? (2023)](https://www.maxcountryman.com/articles/is-deno-ready-for-primetime)
+- [Love letter to Deno (2023)](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html) ([HN](https://news.ycombinator.com/item?id=34767795)) ([Lobsters](https://lobste.rs/s/7thgsy/love_letter_deno))

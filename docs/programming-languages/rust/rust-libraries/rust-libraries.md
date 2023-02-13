@@ -285,6 +285,7 @@
 - [WasmBox](https://github.com/drifting-in-space/wasmbox) - Turns running Rust code into a serializable data structure.
 - [leptos_aria](https://github.com/ifiokjr/leptos_aria) - Port of the react-aria ecosystem for the leptos framework.
 - [Scotch](https://github.com/ItsEthra/scotch) - Create WASM plugins easily in Rust.
+- [Stylers](https://github.com/abishekatp/stylers) - Scoped CSS for Rust web frameworks like Leptos.
 
 ## GUI
 
@@ -2652,6 +2653,7 @@
 - [cargo-index-transit](https://github.com/jonhoo/cargo-index-transit) - Package for common types for Cargo index interactions, and conversion between them. ([From cargo to crates.io and back again](https://www.youtube.com/watch?v=zGS-HqcAvA4))
 - [Thunderdome](https://github.com/LPGhatguy/thunderdome) - Arena type inspired by generational-arena.
 - [Nakago](https://github.com/bkonkle/nakago) - Lightweight Rust framework for elegant services.
+- [nserde_usd](https://github.com/HeavyRain266/nserde_usd) - Collection of serialization libraries for the Pixar's USD format.
 
 ## Cargo Plugins
 

@@ -21,6 +21,7 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Organize my notes into outline](https://twitter.com/danshipper/status/1611134727011844098)
 - [Music discovery assistant](https://twitter.com/nikitavoloboev/status/1613261011922083840)
 - [Help writing freelancing contract](https://twitter.com/dannypostmaa/status/1617132416690458625)
+- [Recommend books as some famous person](https://twitter.com/spakhm/status/1624947320839376897)
 
 ## Links
 
