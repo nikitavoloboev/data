@@ -823,3 +823,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Toolformer: Language Models Can Teach Themselves to Use Tools (2023)](https://arxiv.org/abs/2302.04761) ([HN](https://news.ycombinator.com/item?id=34757265)) ([Code](https://github.com/lucidrains/toolformer-pytorch))
 - [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery (2023)](https://arxiv.org/abs/2302.03668) ([Code](https://github.com/YuxinWenRick/hard-prompts-made-easy))
 - [Understanding Large Language Models – A Transformative Reading List (2023)](https://sebastianraschka.com/blog/2023/llm-reading-list.html) ([HN](https://news.ycombinator.com/item?id=34754355))
+- [Discovering Latent Knowledge Without Supervision](https://github.com/collin-burns/discovering_latent_knowledge)
+- [Offsite-Tuning: Transfer Learning without Full Model (2023)](https://arxiv.org/abs/2302.04870) ([Code](https://github.com/mit-han-lab/offsite-tuning))

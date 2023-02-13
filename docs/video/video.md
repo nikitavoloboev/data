@@ -492,3 +492,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Mux Meet](https://github.com/muxinc/meet) - Meeting app built on Mux Real-Time Video.
 - [Why i've FULLY switched to Davinci Resolve (and why you should too)](https://www.youtube.com/watch?v=LhONgaaLjHk)
 - [VideoMash](https://github.com/aswanthkoleri/VideoMash) - Summarize your video to any duration.
+- [Davinci Resolve | First 6 Months after Switching (2022)](https://www.youtube.com/watch?v=Ho3wbzPB1sg)

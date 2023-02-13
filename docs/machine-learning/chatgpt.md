@@ -105,3 +105,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [ChatGPT - How it works: Transformers & NLP (2023)](https://www.youtube.com/watch?v=6tzn5-XlhwU&list=PLaJCKi8Nk1hwaMUYxJMiM3jTB2o58A6WY&index=5&t=4s)
 - [Delegaid](https://www.delegaid.ai/create) - Package your favorite prompts in simple UI. ([HN](https://news.ycombinator.com/item?id=34752960))
 - [How ChatGPT is Trained (2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
+- [TechCrunchSummary](https://github.com/Nutlope/news-summarizer) - News summarizer with GPT-3 – specifically for TechCrunch articles.

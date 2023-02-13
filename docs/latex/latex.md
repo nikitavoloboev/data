@@ -171,3 +171,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Coauthor](https://github.com/varunshenoy/coauthor) - Copilot for Overleaf. Convert natural language to LaTeX within Overleaf using GPT-3.
 - [UnTeX](https://github.com/jeertmans/untex) - Understand and manipulate TeX files with ease.
 - [LaTeX Cheat Sheet](https://github.com/ric-sar/latex_cheat_sheet)
+- [LaTeXSwiftUI](https://github.com/colinc86/LaTeXSwiftUI) - SwiftUI view that renders LaTeX.

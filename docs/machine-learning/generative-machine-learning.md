@@ -323,3 +323,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Mixture of diffusers for location-aware image generation](https://github.com/albarji/mixture-of-diffusers)
 - [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation (2022)](https://arxiv.org/abs/2211.12572) ([Code](https://github.com/MichalGeyer/plug-and-play))
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models.
+- [CLIP Guided Diffusion](https://github.com/afiaka87/clip-guided-diffusion) - CLI tool/python module for generating images from text using guided diffusion and CLIP from OpenAI.

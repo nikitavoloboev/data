@@ -629,6 +629,7 @@
 - [assert2](https://github.com/de-vri-es/assert2-rs) - All-purpose assert!(...) and check!(...) macros, inspired by Catch2.
 - [speculoos](https://github.com/oknozor/speculoos) - Fluent test assertions for Rust.
 - [Test generator](https://github.com/frehberg/test-generator) - Procedural macro attributes that generates multiple parametrized tests using one body with different resource input parameters.
+- [trycmd](https://github.com/assert-rs/trycmd) - Snapshot testing for a herd of CLI tests.
 
 ## Error
 
@@ -2654,6 +2655,7 @@
 - [Thunderdome](https://github.com/LPGhatguy/thunderdome) - Arena type inspired by generational-arena.
 - [Nakago](https://github.com/bkonkle/nakago) - Lightweight Rust framework for elegant services.
 - [nserde_usd](https://github.com/HeavyRain266/nserde_usd) - Collection of serialization libraries for the Pixar's USD format.
+- [rust_icu](https://github.com/google/rust_icu) - Low-level rust language bindings for the ICU library.
 
 ## Cargo Plugins
 

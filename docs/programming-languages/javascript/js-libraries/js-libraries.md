@@ -1119,6 +1119,7 @@
 - [url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs.
 - [ScrollyVideo.js](https://github.com/dkaoster/scrolly-video) - Components for scroll-based (or other externally controlled) playback.
 - [render-media](https://github.com/feross/render-media) - Intelligently render media files in the browser.
+- [Nonchalance](https://github.com/WebReflection/nonchalance) - Easiest way to augment DOM builtin elements.
 
 ## Links
 
