@@ -921,3 +921,5 @@ title: Kubernetes
 - [Upbound Universal Crossplane](https://github.com/upbound/universal-crossplane) - Upbound's official enterprise-grade distribution of Crossplane.
 - [KubeVPN](https://github.com/wencaiwulue/kubevpn) - Tunnel tools which can connect to Kubernetes cluster network.
 - [Otterize intents operator](https://github.com/otterize/intents-operator) - Manage network policies and Kafka ACLs in a Kubernetes cluster with ease.
+- [nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster.
+- [kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix.
