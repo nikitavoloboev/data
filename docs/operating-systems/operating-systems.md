@@ -428,3 +428,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Teaching resources (OER) for Operating Systems](https://github.com/open-education-hub/operating-systems)
 - [weld](https://github.com/Hywan/weld) - Linker in Rust.
 - [Hypervisor 101 in Rust](https://github.com/tandasat/Hypervisor-101-in-Rust)
+- [Writing an OS in Rust to run on RISC-V](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)

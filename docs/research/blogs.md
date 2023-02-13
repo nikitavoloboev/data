@@ -343,6 +343,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [MaskRay](https://maskray.me/blog/)
 - [Jamie Brandon](https://www.scattered-thoughts.net/)
 - [Peter Ullrich](https://www.peterullrich.com/)
+- [Tucker Siemens](https://tuckersiemens.com/posts/)
 
 ## Notes
 

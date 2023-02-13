@@ -321,3 +321,4 @@ Hi<div>oh no break</div>
 - [HTML Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) ([HN](https://news.ycombinator.com/item?id=34759527))
 - [Sitemap CLI](https://github.com/KnorpelSenf/sitemap-cli) - Deno CLI to create a sitemap from build output.
 - [Use a MutationObserver to Handle DOM Nodes that Don’t Exist Yet (2023)](https://www.macarthur.me/posts/use-mutation-observer-to-handle-nodes-that-dont-exist-yet) ([Reddit](https://www.reddit.com/r/javascript/comments/11103rs/use_a_mutationobserver_to_handle_dom_nodes_that/))
+- [Declarative Shadow DOM (2023)](https://webkit.org/blog/13851/declarative-shadow-dom/) ([HN](https://news.ycombinator.com/item?id=34778224))

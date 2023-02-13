@@ -15,3 +15,4 @@
 - [QMK Discord](https://discord.com/invite/mthbPUc)
 - [kanata](https://github.com/jtroo/kanata) - Bring the customizability of a QMK board to any keyboard near you.
 - [Quantum Mechanical Keyboard Firmware](https://github.com/vial-kb/vial-qmk)
+- [OS Detecting QMK keyboard (2023)](https://wbk.one/article/8524b5de/os-detecting-qmk-keyboard)
