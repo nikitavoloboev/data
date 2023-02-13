@@ -51,3 +51,4 @@ title: ClickHouse
 - [ClickHouse Top](https://github.com/chhetripradeep/chtop) - Show live statistics for monitoring your ClickHouse node.
 - [Building Analytical Apps With ClickHouse (2023)](https://www.youtube.com/watch?v=JlcI2Vfz_uk)
 - [Real-time SQL analytics at scale: A story of open-source GitHub activity using ClickHouse + Grafana (2023)](https://www.youtube.com/watch?v=fXC6vzNc7g0)
+- [Making a Homegrown ClickHouse Log for $20/mo (2023)](https://www.hybridlogic.co.uk/2023/02/clog/) ([HN](https://news.ycombinator.com/item?id=34771486))
