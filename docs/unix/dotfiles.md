@@ -88,3 +88,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [dotfiles symbolic link CLI](https://github.com/rhysd/dotfiles)
 - [Comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles.
 - [antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles.
+- [Dotstingray](https://github.com/AumyF/dotstingray) - Dotfiles management library which runs on Deno.

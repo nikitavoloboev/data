@@ -58,3 +58,4 @@
 - [Blog series on building an air sensor with Arduino (2022)](https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1) ([HN](https://news.ycombinator.com/item?id=34212641))
 - [FastLED](https://github.com/FastLED/FastLED) - Library for colored LED animation on Arduino.
 - [Wokwi](https://wokwi.com/) - Online Arduino and ESP32 Simulator.
+- [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs.

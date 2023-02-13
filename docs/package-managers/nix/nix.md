@@ -504,3 +504,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files.
 - [Flox](https://github.com/flox/flox) - Multi-platform environment manager built on Nix.
 - [nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - Nix and nix-shell wrapper for shells other than bash.
+- [Flake Templates](https://github.com/JonathanLorimer/templates) - Opinionated collection of flakes starter projects for different languages.

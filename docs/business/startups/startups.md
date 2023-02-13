@@ -414,6 +414,7 @@ Great [management](../../management/management.md) together with being able to [
 - [Ask HN: Main things to consider when building an app for business/enterprise? (2023)](https://news.ycombinator.com/item?id=34287685)
 - [If I asked you about startups, you'd probably give me the skinny on about every book and blog post ever written](https://twitter.com/AndrewArruda/status/1614035461227352064)
 - [My Fifth Year as a Bootstrapped Founder (2023)](https://mtlynch.io/solo-developer-year-5/) ([HN](https://news.ycombinator.com/item?id=34740105))
+- [Ask HN: Are Paul Graham's Classic Startup Essays Outdated? (2023)](https://news.ycombinator.com/item?id=34750727)
 
 ## Images
 

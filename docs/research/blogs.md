@@ -340,6 +340,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Max Schmitt](https://maxschmitt.me/posts/)
 - [Abhinav Sarkar](https://abhinavsarkar.net/)
 - [Farming Coders](https://www.breakds.org/)
+- [MaskRay](https://maskray.me/blog/)
+- [Jamie Brandon](https://www.scattered-thoughts.net/)
+- [Peter Ullrich](https://www.peterullrich.com/)
 
 ## Notes
 

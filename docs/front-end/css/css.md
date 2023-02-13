@@ -621,3 +621,5 @@ all: unset
 - [My CSS Wishlist (2023)](https://ishadeed.com/article/css-wishlist-2023/)
 - [CSS grammar for Tree-sitter](https://github.com/tree-sitter/tree-sitter-css)
 - [CSS Leading Trim](https://github.com/jantimon/leading-trim-examples) - CSS property that allows you to remove the leading whitespace from a block of text.
+- [Moving Backgrounds (2023)](https://css-tricks.com/moving-backgrounds/)
+- [Different Ways to Get CSS Gradient Shadows (2023)](https://css-tricks.com/different-ways-to-get-css-gradient-shadows/)

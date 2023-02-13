@@ -30,4 +30,4 @@ On this note, I am trying hard to get new [LA](https://github.com/learn-anything
 
 Also been enjoying [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6)'s [Now What?](https://open.spotify.com/track/1pbcdJy1XFPdY8SlmFpwid), [Facade](https://open.spotify.com/track/2fGiuK2cJ2efll99JN0mu5) & [You Didn't Know Any Better](https://open.spotify.com/track/19x6K6kkpLM1W6h8I9b7HM).
 
-[Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) is great song too. Symbolic even.
+[Happened](https://open.spotify.com/track/342BbUDbVTmBPpayvjcsnp) & [Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) were interesting too.

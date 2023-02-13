@@ -132,3 +132,4 @@
 - [Rulloc](https://github.com/antoniosarosi/rulloc) - General purpose memory allocator written in Rust.
 - [smol world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model.
 - [OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation.
+- [RcLite](https://github.com/fereidani/rclite) - Small, fast, and memory-friendly reference counting for Rust.

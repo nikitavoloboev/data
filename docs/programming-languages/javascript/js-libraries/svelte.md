@@ -350,3 +350,4 @@ title: Svelte
 - [GrailUI](https://github.com/grail-ui/grail-ui) - Library of accessible component primitives, actions and utilities for Svelte.
 - [Rich Harris Teaches ThePrimeagen SvelteKit (2023)](https://www.youtube.com/watch?v=RJTepwXirk8)
 - [Svelte Radial Menu](https://github.com/TGlide/svelte-radial-menu)
+- [Svelte Carousel](https://github.com/vadimkorr/svelte-carousel)

@@ -6,7 +6,7 @@ title: BitTorrent
 
 [Transmission](https://transmissionbt.com/) is a great GUI BitTorrent client.
 
-[rain](https://github.com/cenkalti/rain) is nice BitTorrent Go client/lib. [Porla](https://github.com/porla/porla) or [exatorrent](https://github.com/varbhat/exatorrent) seem nice as a BitTorrent server.
+[rain](https://github.com/cenkalti/rain) or [torrent](https://github.com/anacrolix/torrent) are a nice BitTorrent Go client/lib. [Porla](https://github.com/porla/porla) or [exatorrent](https://github.com/varbhat/exatorrent) seem nice as a BitTorrent server.
 
 ## Torrent sites
 

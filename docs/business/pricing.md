@@ -99,7 +99,7 @@ I personally like the model where you buy something and you own the copy and get
 - [Best resources (books, articles, etc) on pricing and packaging products (2022)](https://twitter.com/patrick_oshag/status/1538890809742876674)
 - [Designing a better pricing page (2022)](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/) ([HN](https://news.ycombinator.com/item?id=32012175))
 - [Superwall](https://superwall.com/) - Build the best mobile paywalls. ([Twitter](https://twitter.com/superwall))
-- [Lago](https://www.getlago.com/) - Open Source Billing API for Product-Led SaaS. ([Code](https://github.com/getlago/lago))
+- [Lago](https://www.getlago.com/) - Open Source Billing API for Product-Led SaaS. ([Code](https://github.com/getlago/lago)) ([HN](https://news.ycombinator.com/item?id=34773442))
 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials) ([HN](https://news.ycombinator.com/item?id=32658926))
 - [Lotus](https://www.uselotus.io/) - Open Source Pricing and Billing Engine for SaaS. ([Code](https://github.com/uselotus/lotus)) ([HN](https://news.ycombinator.com/item?id=33494284))
 - [Ask HN: Why is everything a SaaS product? (2022)](https://news.ycombinator.com/item?id=32856779)

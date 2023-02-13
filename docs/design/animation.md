@@ -1,6 +1,6 @@
 # Animation
 
-[Framer Motion](https://www.framer.com/motion/), [Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) & [AutoAnimate](https://auto-animate.formkit.com/) are great.
+[Framer Motion](https://www.framer.com/motion/), [Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim), [AutoAnimate](https://auto-animate.formkit.com/) & [Motion Canvas](https://github.com/motion-canvas/motion-canvas) are great.
 
 [Rational Animations](https://www.youtube.com/c/RationalAnimations/videos) does cute educational animations.
 

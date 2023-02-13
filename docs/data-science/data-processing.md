@@ -4,7 +4,7 @@
 
 [Polars](https://github.com/pola-rs/polars) is nice DataFrames library implementation.
 
-[Nuclio](https://github.com/nuclio/nuclio) is interesting too.
+[Nuclio](https://github.com/nuclio/nuclio) & [CloudQuery](https://github.com/cloudquery/cloudquery) are interesting too.
 
 ## Notes
 

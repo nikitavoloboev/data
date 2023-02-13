@@ -94,3 +94,4 @@ Liked [overview of Helion's Nuclear Fusion process](https://www.youtube.com/watc
 - [A New Way to Achieve Nuclear Fusion: Helion (2022)](https://www.youtube.com/watch?v=_bDXXWQxK38)
 - [Why fusion will never happen (2012)](https://matter2energy.wordpress.com/2012/10/26/why-fusion-will-never-happen/) ([HN](https://news.ycombinator.com/item?id=34039256))
 - [Nuclear physicist explains why fusion ignition is hailed as a major breakthrough (2022)](https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475) ([HN](https://news.ycombinator.com/item?id=34037794))
+- [Everything I believed about nuclear waste was wrong (2023)](https://zionlights.substack.com/p/everything-i-believed-about-waste-was-wrong) ([HN](https://news.ycombinator.com/item?id=34742660))

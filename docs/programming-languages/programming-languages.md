@@ -532,3 +532,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Free Variables and Free Effects](https://okmij.org/ftp/Computation/variables-effects.html)
 - [The unsafe language doom principle (2023)](https://blog.yossarian.net/2023/02/11/The-unsafe-language-doom-principle) ([Lobsters](https://lobste.rs/s/lalmzo/unsafe_language_doom_principle))
 - [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines (2023)](https://abhinavsarkar.net/posts/implementing-co-3/) ([Lobsters](https://lobste.rs/s/sotg8z/implementing_co_small_language_with))
+- [Coping with nontermination: some thoughts on stopping loops (2023)](https://outerproduct.net/boring/2023-02-11_term-loop.html)

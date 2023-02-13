@@ -123,3 +123,4 @@ title: Shaders
 - [Refraction, dispersion, and other shader light effects (2023)](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)
 - [Exploring Shaders with Compiler Explorer (2022)](https://www.jeremyong.com/shaders/gpus/assembly/2022/08/19/exploring-shaders-with-compiler-explorer/)
 - [Shader Playground](https://shader-playground.timjones.io/) - Exploring HLSL, GLSL, SPIR-V compilers. ([Code](https://github.com/tgjones/shader-playground))
+- [Tinyshader](https://github.com/felipeagc/tinyshader) - Lightweight, easy to embed HLSL to SPIR-V compiler written in C99.

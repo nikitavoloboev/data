@@ -366,3 +366,4 @@ It's wild [how far humans got](https://www.youtube.com/watch?v=PHiyQID7SBs) to u
 - [Why Is Everything Made Of Atoms? (2022)](https://www.youtube.com/watch?v=ae36scLdCsE)
 - [Diamond formation from hydrocarbon mixtures in planets (2022)](https://arxiv.org/abs/2207.02927) ([Code](https://github.com/BingqingCheng/highp-ch))
 - [A 50-Year Quest: My Personal Journey with the Second Law of Thermodynamics (2023)](https://writings.stephenwolfram.com/2023/02/a-50-year-quest-my-personal-journey-with-the-second-law-of-thermodynamics/) ([HN](https://news.ycombinator.com/item?id=34634969))
+- [What's Going Wrong in Particle Physics? (2023)](https://www.youtube.com/watch?v=lu4mH3Hmw2o) ([HN](https://news.ycombinator.com/item?id=34772049))

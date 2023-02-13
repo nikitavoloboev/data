@@ -100,3 +100,4 @@ Is logical theory of computable functions.
 - [Encodings for numbers in lambda calculus (2022)](https://xtao.org/blog/lambda-numbers.html)
 - [RankNTypes via Lambda Calculus (2021)](https://www.parsonsmatt.org/2021/11/30/rank_n_types_via_lambda_calculus.html)
 - [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
+- [Intro to FP Through λ-Calc Part 1. - Motivating Laziness (2020)](https://jonathanlorimer.dev/posts/motivating-laziness.html)

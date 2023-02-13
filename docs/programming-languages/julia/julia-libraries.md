@@ -141,6 +141,7 @@
 - [DiffEqNoiseProcess.jl](https://github.com/SciML/DiffEqNoiseProcess.jl) - Library of noise processes for stochastic systems like stochastic differential equations (SDEs) and other systems.
 - [LearnAPI.jl](https://github.com/JuliaAI/LearnAPI.jl) - Julia interface for training and applying models in machine learning and statistics.
 - [SimpleNonlinearSolve.jl](https://github.com/SciML/SimpleNonlinearSolve.jl) - Fast and simple nonlinear solvers for the SciML common interface.
+- [MultiObjectiveAlgorithms.jl](https://github.com/jump-dev/MultiObjectiveAlgorithms.jl) - Collection of algorithms for multi-objective optimization.
 
 ## Math
 
@@ -872,3 +873,4 @@
 - [Julia will cache precompiled binaries of packages v1.9](https://twitter.com/vchuravy/status/1607866217259479041)
 - [Tables.jl](https://github.com/JuliaData/Tables.jl) - Interface for tables in Julia.
 - [BugReporting.jl](https://github.com/JuliaLang/BugReporting.jl) - Streamlines bug reporting for Julia.
+- [Ion](https://github.com/Roger-luo/Ion) - CLI toolbox for Julia developer.

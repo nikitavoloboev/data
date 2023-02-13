@@ -182,3 +182,4 @@
 - [Hermione](https://github.com/gemini-testing/hermione) - Browser test runner based on mocha and wdio.
 - [Tutorial about how to apply property-based testing to stateful systems](https://github.com/stevana/property-based-testing-stateful-systems-tutorial)
 - [Efficient and Flexible Model-Based Testing (2023)](https://concerningquality.com/model-based-testing-theory/) ([Lobsters](https://lobste.rs/s/sjltvu/efficient_flexible_model_based_testing))
+- [I gained a new appreciation for Test Driven Development (2023)](https://www.worthe-it.co.za/blog/2023-02-09-i-was-saved-by-test-driven-development.html) ([HN](https://news.ycombinator.com/item?id=34731917))

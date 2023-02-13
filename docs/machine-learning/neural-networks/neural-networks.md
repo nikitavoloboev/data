@@ -2,7 +2,7 @@
 
 [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) is great intro. [Building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) is fascinating too.
 
-[Transformer Neural Networks](https://www.youtube.com/watch?v=XSSTuhyAmnI) are useful to understand.
+[Transformer Neural Networks](https://www.youtube.com/watch?v=XSSTuhyAmnI) are useful to understand. [RASPy](https://github.com/srush/raspy) is a nice tool.
 
 ## Notes
 

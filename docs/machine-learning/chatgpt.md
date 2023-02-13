@@ -106,3 +106,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Delegaid](https://www.delegaid.ai/create) - Package your favorite prompts in simple UI. ([HN](https://news.ycombinator.com/item?id=34752960))
 - [How ChatGPT is Trained (2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
 - [TechCrunchSummary](https://github.com/Nutlope/news-summarizer) - News summarizer with GPT-3 – specifically for TechCrunch articles.
+- [Upgraded Dan Version for ChatGPT Is Here: New, Shiny and More Unchained](https://medium.com/@neonforge/upgraded-dan-version-for-chatgpt-is-here-new-shiny-and-more-unchained-63d82919d804) ([HN](https://news.ycombinator.com/item?id=34768195))
+- [Shell GPT](https://github.com/TheR1D/shell_gpt) - Tool powered by OpenAI's Davinci model, will help you accomplish your tasks faster and more efficiently.

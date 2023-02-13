@@ -1148,6 +1148,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [maml](https://github.com/materialsvirtuallab/maml) - Python for Materials Machine Learning, Materials Descriptors, Machine Learning Force Fields, Deep Learning, etc.
 - [PyGlove](https://github.com/google/pyglove) - General-purpose library for Python object manipulation.
 - [RQ Scheduler](https://github.com/rq/rq-scheduler) - Lightweight library that adds job scheduling capabilities to RQ (Redis Queue).
+- [fuego](https://github.com/huggingface/fuego) - Interface for running code in the cloud.
 
 ## Notes
 

@@ -65,7 +65,7 @@ Will make a web explorer for Karabiner/Goku bindings soon. But briefly, I group 
 -  [All about macOS event observation (2019)](https://docs.google.com/presentation/d/1nEaiPUduh1vjks0rDVRTcJaEULbSWWh1tVdG2HF_XSU/edit#slide=id.g5b38b1767c_0_2)
 -  [Customize Karabiner With Goku (2019)](https://johnlindquist.com/customize-karabiner-with-goku)
 -  [Karabiner Elements Keycodes](https://github.com/aerobounce/karabiner-elements-keycodes)
--  [Hacking your keyboard with karabiner (2019)](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/) ([HN](https://news.ycombinator.com/item?id=21891082))
+-  [Hacking your keyboard with Karabiner (2019)](https://kau.sh/blog/hacking-your-keyboard/) ([HN](https://news.ycombinator.com/item?id=21891082)) ([HN](https://news.ycombinator.com/item?id=34757898))
 -  [Merge karabiner.json with complex modification rules](https://gist.github.com/narze/527ac6321c24cfde71bc3b30b7c078f3)
 -  [Karabiner Complex Rules Generator](https://genesy.github.io/karabiner-complex-rules-generator/) ([Code](https://github.com/genesy/karabiner-complex-rules-generator))
 -  [Karabiner DriverKit VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice)

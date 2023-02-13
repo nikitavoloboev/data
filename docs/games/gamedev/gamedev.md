@@ -320,3 +320,4 @@
 - [How to smooth and spread A\* paths for an RTS (2023)](https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608) ([HN](https://news.ycombinator.com/item?id=34594547))
 - [Math breakdown: Anime homing missiles (2023)](https://blog.littlepolygon.com/posts/missile/) ([HN](https://news.ycombinator.com/item?id=34630730))
 - [Tactile](https://github.com/albin-johansson/tactile) - Tilemap editor that aims to be simple, fast and lightweight.
+- [Build a real-time game with Supabase and Vue (2023)](https://www.pixelhop.io/writing/build-a-real-time-game-with-supabase-and-vue/)

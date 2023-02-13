@@ -10,7 +10,7 @@
 
 [self_update](https://github.com/jaemk/self_update) seems nice for updating rust binaries. [Linfa](https://github.com/rust-ml/linfa) seems nice for ML.
 
-[Blessed.rs](https://blessed.rs/crates) has nice list of good crates. [Rust API Design Learnings](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/) is nice watch.
+[Blessed.rs](https://blessed.rs/crates) has nice list of good crates. [Rust API Design Learnings](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/) is nice watch. Love studying [David](https://github.com/dtolnay)'s libraries.
 
 ## CLI
 
@@ -541,6 +541,7 @@
 - [Masonry](https://github.com/PoignardAzur/masonry-rs) - Rust UI design toolkit. ([0.1 release](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)) ([HN](https://news.ycombinator.com/item?id=34671478))
 - [concoct](https://github.com/concoct-rs/concoct) - Cross-platform UI framework in rust.
 - [scene-graph](https://github.com/sanbox-irl/scene-graph) - Scene-graph implementation in Rust.
+- [etagere](https://github.com/nical/etagere) - Dynamic texture atlas allocator using the shelf packing algorithm.
 
 ## Games
 
@@ -2656,6 +2657,14 @@
 - [Nakago](https://github.com/bkonkle/nakago) - Lightweight Rust framework for elegant services.
 - [nserde_usd](https://github.com/HeavyRain266/nserde_usd) - Collection of serialization libraries for the Pixar's USD format.
 - [rust_icu](https://github.com/google/rust_icu) - Low-level rust language bindings for the ICU library.
+- [zune-image](https://github.com/etemesi254/zune-image) - Small, independent and performant image codecs that can be used for decoding and sometimes encoding images in a variety of formats.
+- [async-iterator](https://github.com/yoshuawuyts/async-iterator) - Async version of iterator.
+- [strfmt](https://github.com/vitiral/strfmt) - Rust library for formatting dynamic strings.
+- [spin-sleep](https://github.com/alexheretic/spin-sleep) - Rust accurate sleeping. Only use native sleep as far as it can be trusted, then spin.
+- [Jotdown](https://github.com/hellux/jotdown) - Djot parser library.
+- [Lightflus](https://github.com/JasonThon/lightflus) - Lightweight, Cloud-Native Stateful Distributed Dataflow Engine.
+- [rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper of Ableton Link's C 11 extension.
+- [localsearch](https://github.com/lucidfrontier45/localsearch) - Rust library for local search optimization.
 
 ## Cargo Plugins
 

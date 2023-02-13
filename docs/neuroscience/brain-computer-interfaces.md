@@ -66,3 +66,4 @@ title: Brain Computer Interfaces
 - [How to build a brain-computer interface — and why (2019)](https://justlv.medium.com/how-to-build-a-brain-interface-and-why-we-should-connect-our-minds-35003841c4b7)
 - [Using deep learning to “read your thoughts” — with Keras and EEG (2019)](https://justlv.medium.com/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a)
 - [Bryan Johnson: Kernel Brain-Computer Interfaces (2023)](https://www.youtube.com/watch?v=1YbcB6b4A2U)
+- [Real-Time Brain-to-Image Reconstructions](https://medarc.notion.site/Real-Time-Brain-to-Image-Reconstructions-e1116f115715456a96bb053a304b6292) ([HN](https://news.ycombinator.com/item?id=34737517))

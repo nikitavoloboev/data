@@ -76,3 +76,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Tabletop](https://github.com/repeated-pleasant-games/tabletop) - Feature-light virtual tabletop (VTT) that provides the bare essentials for playing tabletop role playing games online.
 - [What are your favorite games that you can set up in under 5 minutes? (2023)](https://www.reddit.com/r/boardgames/comments/10eeitw/what_are_your_favourite_games_that_you_can_set_up/)
 - [How to explain a board game. In order.](https://twitter.com/DRMacIver/status/1616810509927604225)
+- [Which board games you would NOT play without expansions? (2023)](https://www.reddit.com/r/boardgames/comments/11163pu/which_games_you_would_not_play_without_expansions/)

@@ -147,3 +147,4 @@ title: Electrical engineering
 - [Ask HN: Best Layman's Book on Electricity (2023)](https://news.ycombinator.com/item?id=34474403)
 - [Can an electric circuit do recursion?](https://electronics.stackexchange.com/questions/158897/can-an-electric-circuit-do-recursion/158915#158915) ([HN](https://news.ycombinator.com/item?id=34564279))
 - [Experimenting with Buses and Three-State Logic (2023)](https://www.youtube.com/watch?v=_3cNcmli6xQ)
+- [KiCad EDA](https://www.kicad.org/) - Schematic Capture & PCB Design Software. ([7.0](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)) ([HN](https://news.ycombinator.com/item?id=34769574))

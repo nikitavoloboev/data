@@ -156,3 +156,4 @@ title: Minecraft
 - [Minecraft server optimization guide](https://github.com/YouHaveTrouble/minecraft-optimization)
 - [Maximum Performance Launch Flags for Minecraft Server](https://github.com/hilltty/hilltty-flags)
 - [MCPTool](https://github.com/wrrulos/MCPTool) - Pentesting tool for Minecraft.
+- [Lodestone](https://github.com/Lodestone-Team/lodestone_core) - Free, open source server hosting tool for Minecraft and other multiplayers.

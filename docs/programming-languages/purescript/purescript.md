@@ -74,3 +74,4 @@ title: PureScript
 - [PureScript Heterogeneous](https://github.com/natefaubion/purescript-heterogeneous) - Maps and folds for heterogeneous data types.
 - [PureScript React Basic Hooks](https://github.com/megamaddu/purescript-react-basic-hooks)
 - [PureScript WebGPU](https://github.com/mikesol/purescript-webgpu)
+- [purescript-typedenv](https://github.com/nsaunders/purescript-typedenv) - Type-directed environment parsing.

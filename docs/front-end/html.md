@@ -316,3 +316,7 @@ Hi<div>oh no break</div>
 - [Three attributes for better web forms (2023)](https://adactio.com/journal/19842)
 - [Use the dialog element (reasonably) (2023)](https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html)
 - [Optimal Images in HTML (2023)](https://www.builder.io/blog/fast-images)
+- [Ask HN: What companies are embracing “HTML over the wire”? (2023)](https://news.ycombinator.com/item?id=34744348)
+- [HTML Tags To Constructors](https://github.com/WebReflection/proxied-html-constructors) - Standard based way to retrieve the constructor of any given HTML tag name.
+- [HTML Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) ([HN](https://news.ycombinator.com/item?id=34759527))
+- [Sitemap CLI](https://github.com/KnorpelSenf/sitemap-cli) - Deno CLI to create a sitemap from build output.

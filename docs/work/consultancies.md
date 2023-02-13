@@ -62,6 +62,7 @@ I am excited by [Replit Bounties](https://replit.com/bounties) and what they can
 - [Studio Essence](https://www.studioessence.design/) ([Twitter](https://twitter.com/ikergnz))
 - [Belka](https://www.belkadigital.com/)
 - [Set Studio](https://set.studio/)
+- [Pixelhop](https://www.pixelhop.io/) - Brighton Digital Studio.
 
 ## React Native
 

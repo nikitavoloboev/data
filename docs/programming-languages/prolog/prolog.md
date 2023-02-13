@@ -80,3 +80,4 @@ title: Prolog
 - [tar creator + extractor in ~100 lines of Prolog](https://github.com/SuperDisk/tar.pl)
 - [Prolog Day - 50 years of Prolog (2023)](https://www.youtube.com/watch?v=9BW0J7wwqO4)
 - [Prolog assisted search for new simple Lie algebras (2023)](https://arxiv.org/abs/2207.01094)
+- [Rethinking Prolog](https://www.academia.edu/15102439/Rethinking_Prolog) ([HN](https://news.ycombinator.com/item?id=34733551))

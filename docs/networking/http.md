@@ -324,3 +324,4 @@ title: HTTP
 - [A Short, Totally Unofficial, History of Port Numbers in Web Development (2023)](https://blog.jim-nielsen.com/2023/short-history-of-port-numbers/)
 - [RXH](https://github.com/antoniosarosi/rxh) - HTTP reverse proxy built with hyper and tokio.
 - [Realm](https://github.com/zhboner/realm) - Network relay tool.
+- [Async message-oriented systems vs. REST for inter-microservice communications](https://mats3.io/background/rationale-for-mats/) ([HN](https://news.ycombinator.com/item?id=34765578))

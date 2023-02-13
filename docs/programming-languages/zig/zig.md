@@ -6,6 +6,10 @@ title: Zig
 
 [Ziglings](https://github.com/ratfactor/ziglings) is nice for learning.
 
+[TigerBeetle](https://github.com/tigerbeetledb/tigerbeetle) & [Bun](https://github.com/oven-sh/bun) have great Zig code to study.
+
+This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing performant Zig code that minimizes allocations.
+
 ## OSS Zig GUI apps
 
 - [Pixi](https://github.com/foxnne/pixi) - Cross-platform open-source pixel art editor and animation editor.
@@ -173,3 +177,4 @@ title: Zig
 - [Why a linker author had to write a YAML parser in Zig (2022)](https://www.youtube.com/watch?v=EWrMPx40kn0)
 - [Zig Meta Programming (2023)](https://blog.deckc.hair/2023-02-08-zig-meta-programming.html)
 - [How a Zig IDE Could Work (2023)](https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html) ([HN](https://news.ycombinator.com/item?id=34740937))
+- [nix-zig-stdenv](https://github.com/Cloudef/nix-zig-stdenv) - Zig based cross-compiling toolchain.

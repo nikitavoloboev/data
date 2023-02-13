@@ -6,6 +6,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 [Kysely](https://github.com/koskimas/kysely) is nice for doing DB queries. [Farfetched](https://github.com/igorkamyshev/farfetched) is nice for data fetching.
 
+[clack](https://github.com/natemoo-re/clack) is great for CLIs.
+
 ## DB
 
 - [cachified](https://github.com/Xiphe/cachified) - Wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support.
@@ -799,7 +801,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values.
 - [Funtypes](https://github.com/ForbesLindesay/funtypes) - Runtime validation for static types.
 - [fastimage](https://github.com/ShogunPanda/fastimage) - Module that finds the size and type of an image by fetching and reading as little data as needed.
-- [HOTScript](https://github.com/gvergnaud/HOTScript) - Type-level madness. ([Tweet](https://twitter.com/GabrielVergnaud/status/1624838833941381122))
+- [HOTScript](https://github.com/gvergnaud/HOTScript) - Type-level madness. ([Tweet](https://twitter.com/GabrielVergnaud/status/1624838833941381122)) ([Tweet](https://twitter.com/GabrielVergnaud/status/1625117235378257921))
+- [Uint8 Concat](https://github.com/fabiospampinato/uint8-concat) - Concatenate multiple Uint8Arrays super efficiently.
+- [debug-next](https://github.com/calvintwr/debug-next) - Feature-enhanced TypeScript drop-in replacement for a very popular and simple-to-use debug module.
+- [bitfield](https://github.com/fb55/bitfield) - Simple bitfield, compliant with the BitTorrent spec.
 
 ## Links
 

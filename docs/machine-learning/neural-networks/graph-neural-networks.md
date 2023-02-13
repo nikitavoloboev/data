@@ -149,3 +149,4 @@
 - [Introduction to Graph Machine Learning (2023)](https://huggingface.co/blog/intro-graphml)
 - [Everything is Connected: Graph Neural Networks (2023)](https://arxiv.org/abs/2301.08210)
 - [Graph Diffusion Convolution, as proposed in "Diffusion Improves Graph Learning" (2019)](https://github.com/gasteigerjo/gdc)
+- [DiGress: Discrete Denoising diffusion models for graph generation (2023)](https://github.com/cvignac/DiGress)

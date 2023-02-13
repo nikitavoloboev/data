@@ -424,3 +424,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [New Circle C++ Build](https://github.com/seanbaxter/circle/blob/master/new-circle/README.md) ([HN](https://news.ycombinator.com/item?id=34482684))
 - [C++ Rules for Bazel](https://github.com/bazelbuild/rules_cc)
 - [Nix Based C++ Workflow From Scratch (2021)](https://www.breakds.org/post/nix-based-c++-workflow/)
+- [Zork](https://github.com/zerodaycode/Zork) - Project manager and builder automation tool for modern C++ projects.

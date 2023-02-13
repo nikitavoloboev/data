@@ -638,3 +638,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Merging with diff3: the “three-way merge” (2017)](https://blog.jcoglan.com/2017/05/08/merging-with-diff3/) ([HN](https://news.ycombinator.com/item?id=34557827))
 - [Codeatlas](https://www.codeatlas.dev/gallery) - Visualize your codebase during CI. ([Code](https://github.com/codeatlasHQ/codebase-visualizer-action))
 - [GPT Commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using GPT-3. ([HN](https://news.ycombinator.com/item?id=34591733))
+- [Get up to speed with partial clone and shallow clone (2020)](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)

@@ -1120,6 +1120,7 @@
 - [ScrollyVideo.js](https://github.com/dkaoster/scrolly-video) - Components for scroll-based (or other externally controlled) playback.
 - [render-media](https://github.com/feross/render-media) - Intelligently render media files in the browser.
 - [Nonchalance](https://github.com/WebReflection/nonchalance) - Easiest way to augment DOM builtin elements.
+- [hrbrbox](https://github.com/hrbrmstr/hrbrbox) - JS tools primarily intended to simplify some operations in Observable notebooks.
 
 ## Links
 

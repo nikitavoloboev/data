@@ -236,3 +236,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [ulid-workers](https://github.com/ryan-mars/ulid-workers) - ULID generator for Cloudflare Workers.
 - [Hono Middleware](https://github.com/honojs/middleware) - Monorepo for third-party middleware of Hono.
 - [Cloudflare worker for GitHub's OAuth login flow](https://github.com/gr2m/cloudflare-worker-github-oauth-login)
+- [Cloudflare Worker template](https://github.com/3perf/cloudflare-worker-template)

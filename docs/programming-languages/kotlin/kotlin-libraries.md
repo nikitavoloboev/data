@@ -42,6 +42,7 @@
 - [SQLDelight](https://github.com/cashapp/sqldelight) - Generates typesafe Kotlin APIs from SQL.
 - [DBFlow](https://github.com/agrosner/DBFlow) - Fast, efficient, and feature-rich Kotlin database library built on SQLite for Android.
 - [jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin.
+- [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework.
 
 ## GraphQL
 

@@ -237,3 +237,5 @@
 - [GLisp](https://github.com/zhemao/glisp) - LISP dialect implemented in Go.
 - [Sussman Explains the End of SICP (2023)](https://irreal.org/blog/?p=11127) ([HN](https://news.ycombinator.com/item?id=34657535))
 - [A Tale of Lisp (by Renzo Borgatti) (2022)](https://www.youtube.com/watch?v=m2mzyf2YS_8)
+- [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/) ([HN](https://news.ycombinator.com/item?id=34761768))
+- [Toodle Studio](https://toodle.studio/) - Art playground with Lisp and turtles. ([Code](https://github.com/ianthehenry/toodle.studio)) ([HN](https://news.ycombinator.com/item?id=34753407))

@@ -6,7 +6,7 @@ On side of checking analytics I try to only observe things that are directly act
 
 I try to setup proper [observability](../devops/observability.md) together with actionable insights for metrics that make a difference for better product on all projects I work on.
 
-[GoatCounter](https://www.goatcounter.com/), [PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem great for self hosting analytics for cheap/free. 
+[GoatCounter](https://www.goatcounter.com/), [PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem great for self hosting analytics for cheap/free.
 
 [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
 
@@ -115,3 +115,4 @@ I try to setup proper [observability](../devops/observability.md) together with 
 - [Quibbler](https://github.com/Technion-Kishony-lab/quibbler) - Interactive, reproducible and efficient data analytics.
 - [The more metrics you track, the less you know (2022)](https://breakingpoint.substack.com/p/you-have-too-many-metrics) ([HN](https://news.ycombinator.com/item?id=34012793))
 - [Tinybird Web Analytics Starter Kit](https://github.com/tinybirdco/web-analytics-starter-kit)
+- [The design of transparent telemetry (2023)](https://research.swtch.com/telemetry-design) ([HN](https://news.ycombinator.com/item?id=34750782))

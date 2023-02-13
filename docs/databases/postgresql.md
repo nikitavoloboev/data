@@ -662,3 +662,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Supabase Blog](https://supabase.com/blog)
 - [The Design of Postgres (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf) ([HN](https://news.ycombinator.com/item?id=34689143))
 - [Tips for a Healthier Postgres Database (2021)](https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year) ([HN](https://news.ycombinator.com/item?id=34734021))
+- [Listen to Database Changes with Postgres Triggers and Elixir (2023)](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)

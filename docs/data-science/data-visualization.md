@@ -2,7 +2,7 @@
 
 [Vega](https://vega.github.io/) is great. [Hands-On Data Visualization Book](https://handsondataviz.org/) & [Common Plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html) are nice intros.
 
-[Observable Plot](https://github.com/observablehq/plot) is great.
+[Observable Plot](https://github.com/observablehq/plot) & [Rath](https://github.com/Kanaries/Rath) are great.
 
 ## Nice examples
 
@@ -213,3 +213,5 @@
 - [Graphy](https://graphy.new/) - Slick, interactive charts that make your work stand out. ([Twitter](https://twitter.com/GraphyHQ))
 - [Matching Many Classes to Fewer Colors (2023)](https://nik.bo/colormatch) ([Lobsters](https://lobste.rs/s/pbpfei/matching_many_classes_fewer_colors))
 - [Vega-Lite](https://github.com/shadfrigui/vega-lite) - Graphics created using the Vega-Lite language.
+- [pyCirclize](https://github.com/moshi4/pyCirclize) - Circular visualization in Python. ([HN](https://news.ycombinator.com/item?id=34759665))
+- [Kanaries](https://kanaries.net/) - AI enhanced data exploration.

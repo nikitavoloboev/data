@@ -636,6 +636,7 @@
 - [UIEnvironment](https://github.com/nonameplum/UIEnvironment) - Framework that mimics the SwiftUI view's environment to replicate the value distribution thought your UIKit app.
 - [Republished](https://github.com/adam-zethraeus/Republished) - Property wrapper enabling nested ObservableObjects in SwiftUI.
 - [SplitView](https://github.com/stevengharris/SplitView) - Split two SwiftUI views without NavigationSplitView nonsense.
+- [SwiftUI SharedObject](https://github.com/lorenzofiamingo/swiftui-shared-object) - New property wrapper for SwiftUI ObservableObject.
 
 ## Test
 
@@ -1430,6 +1431,8 @@
 - [SwiftOxide](https://github.com/KennethYoel/SwiftOxide) - Swift wrapper for a Rust library, allowing us to use Rust as a library within Swift.
 - [GlobPattern](https://github.com/ChimeHQ/GlobPattern) - Swift package to parse and evaluate glob patterns.
 - [RunScriptPlugin](https://github.com/p-x9/RunScriptPlugin) - Plugin for executing arbitrary ShellScript.
+- [swift-clocks](https://github.com/pointfreeco/swift-clocks) - Few clocks that make working with Swift concurrency more testable and more versatile.
+- [TreeArray](https://github.com/AlexRoar/TreeArray) - Swift tree-based array implementation. Efficient for random insertions/deletions.
 
 ## Other (not lib)
 

@@ -84,6 +84,7 @@
 - [safe-exceptions](https://github.com/fpco/safe-exceptions) - Safe, consistent, and easy exception handling.
 - [Errata](https://github.com/1Computer1/errata) - Extremely customizable error pretty printer that can handle many kinds of error formatting.
 - [type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - Combinators for writing pretty type errors easily.
+- [Oops](https://github.com/haskell-works/oops)
 
 ## Graphics
 
@@ -490,3 +491,4 @@
 - [cabal-plan-bounds](https://github.com/nomeata/cabal-plan-bounds) - Calculate Haskell dependency ranges from multiple build plans.
 - [haskell-flake](https://github.com/srid/haskell-flake) - Flake-parts Nix module for Haskell development.
 - [if-instance](https://github.com/sheaf/if-instance) - GHC plugin to branch on whether a constraint is satisfied.
+- [guardian](https://github.com/deepflowinc/guardian) - Border guardian for your Haskell monorepo package dependencies.

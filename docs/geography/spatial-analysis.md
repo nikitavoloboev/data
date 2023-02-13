@@ -311,3 +311,4 @@ title: Spatial analysis
 - [MapillaryJS](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery map experiences in the browser, powered by WebGL.
 - [Map polygon and feature extractor](https://github.com/nypl-spacetime/map-vectorizer)
 - [Parsing GeoJSON using Rust](https://github.com/urschrei/geojson_example)
+- [QGIS is the mapping software you didn't know you needed (2023)](https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/) ([HN](https://news.ycombinator.com/item?id=34742923))

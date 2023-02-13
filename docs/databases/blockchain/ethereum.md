@@ -618,7 +618,7 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Lightweight Lua EVM](https://github.com/transmissions11/levm)
 - [Solidity Visual Developer](https://github.com/ConsenSys/vscode-solidity-auditor) - Ethereum Solidity Language customized for developers and auditors using Visual Studio Code.
 - [Ethereum gas optimization tips (2022)](https://twitter.com/WillPapper/status/1520592312379658241)
-- [Huff](https://github.com/JetJadeja/huffc) - Low level programming language for the Ethereum Virtual Machine.
+- [Huff](https://github.com/JetJadeja/huffc) - Low level programming language for the Ethereum Virtual Machine. ([Awesome](https://github.com/devtooligan/awesome-huff))
 - [eth-pools-metrics](https://github.com/alrevuelta/eth-metrics) - Monitor the performance of your Ethereum 2.0 staking pool.
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) - Best way to connect a wallet. ([Web](https://www.rainbowkit.com/)) ([Tweet](https://twitter.com/rainbowdotme/status/1522276598925467649)) ([Examples](https://github.com/rainbow-me/rainbowkit-examples))
 - [ExcessivelySafeCall](https://github.com/nomad-xyz/ExcessivelySafeCall) - Solidity library helps you call untrusted contracts safely.

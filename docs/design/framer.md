@@ -45,3 +45,4 @@ title: Framer
 - [Framer's Magic Motion](https://www.nan.fyi/magic-motion) ([HN](https://news.ycombinator.com/item?id=33874596))
 - [Introduction to Framer as a Web Design tool course](https://www.memorisely.com/online-classes/an-introduction-to-framer-as-a-web-design-tool)
 - [Framer Motion - YouTube](https://www.youtube.com/playlist?list=PLlNdnoKwDZdwwEWvKXdR9qwDSlnkGtOjq)
+- [Multistep wizard - Framer Motion Recipes](https://buildui.com/series/framer-motion-recipes/multistep-wizard)
