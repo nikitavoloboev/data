@@ -10,6 +10,8 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 
 [SEAL](https://github.com/facebookresearch/SEAL) is interesting way to build search engines using [language models](../nlp/nlp.md).
 
+Want to build my own version of [Monocle](https://github.com/thesephist/monocle) to search over my data.
+
 ## Notes
 
 - [If you’re implementing search please understand that using quotes means “find this literal text”.](https://twitter.com/davidfowl/status/1574138778129944576)

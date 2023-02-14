@@ -6,7 +6,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 [Kysely](https://github.com/koskimas/kysely) is nice for doing DB queries. [Farfetched](https://github.com/igorkamyshev/farfetched) is nice for data fetching.
 
-[clack](https://github.com/natemoo-re/clack) is great for CLIs.
+[clack](https://github.com/natemoo-re/clack) with [cmd-ts](https://github.com/Schniz/cmd-ts) are great for CLIs.
 
 ## DB
 

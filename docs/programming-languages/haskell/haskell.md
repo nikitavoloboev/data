@@ -521,3 +521,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Everything you never wanted to know about Applicative laws and more](https://github.com/alexfmpe/semantic-satiation/blob/main/src/Posts/001-applicative-laws.md)
 - [Haskell Playground](https://github.com/tomsmeding/play-haskell)
 - [Haskell Tiny Game Jam](https://github.com/haskell-game/tiny-games-hs)
+- [Rust vs. Haskell (2023)](https://serokell.io/blog/rust-vs-haskell) ([HN](https://news.ycombinator.com/item?id=34787844))
