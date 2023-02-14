@@ -69,3 +69,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Лучшие российские фильмы 2022 года](https://dtf.ru/cinema/1526710-luchshie-rossiyskie-filmy-2022-goda-ot-eposa-do-horrora)
 - [What are your "comfort" television shows? (2022)](https://www.reddit.com/r/television/comments/zya7d6/what_are_your_comfort_television_shows/)
 - [Which shows took you multiple attempts to start enjoying (2023)](https://www.reddit.com/r/television/comments/10tvo19/what_was_a_show_that_took_you_multiple_attempts/)
+- [TV Series you are absolutely kicking yourself for not watching it sooner (2023)](https://www.reddit.com/r/NetflixBestOf/comments/111ir1i/discussion_a_tv_series_you_are_absolutely_kicking/)

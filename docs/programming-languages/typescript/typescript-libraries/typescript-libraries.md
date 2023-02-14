@@ -160,7 +160,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## CLI
 
-- [clack](https://github.com/natemoo-re/clack) - Effortless command line applications.
+- [clack](https://github.com/natemoo-re/clack) - Effortless command line applications. ([Tweet](https://twitter.com/n_moore/status/1625286958313361408))
 - [Tiny Bin](https://github.com/fabiospampinato/tiny-bin) - Library for building tiny and beautiful command line apps.
 - [ultraflag](https://github.com/natemoo-re/ultraflag) - 1kB library for parsing CLI flags.
 - [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.

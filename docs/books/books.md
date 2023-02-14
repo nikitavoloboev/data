@@ -362,6 +362,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Ask HN: What are you looking forward to reading in 2023?](https://news.ycombinator.com/item?id=34300803)
 - [Ask HN: Books that teach programming by building a series of small projects? (2023)](https://news.ycombinator.com/item?id=34412069)
 - [Great Books Reading List and Curriculum | St. John's College](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list)
+- [Suggest me your all-time favorite book (2023)](https://www.reddit.com/r/suggestmeabook/comments/111adba/suggest_me_your_alltime_favorite_book/)
 
 ## Interesting Prose Books
 

@@ -8,7 +8,7 @@ title: SwiftUI
 
 [Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) lib is neat. [SwiftUI Sample Apps](https://developer.apple.com/tutorials/sample-apps), [Swiftcord](https://github.com/SwiftcordApp/Swiftcord), [CodeEdit](https://github.com/CodeEditApp/CodeEdit) & [Food Truck](https://github.com/apple/sample-food-truck) are nice SwiftUI apps to study. [Jordan's apps](https://github.com/jordansinger?tab=repositories&q=SwiftUI) are nice to study too as they are quite small.
 
-[SwiftUI for Designers](https://swiftui.design/) & [Point-Free](https://www.pointfree.co/) are great resources.
+[SwiftUI for Designers](https://swiftui.design/), [Point-Free](https://www.pointfree.co/) & [SwiftOnTap](https://swiftontap.com/) are great resources.
 
 ## Notes
 
@@ -280,3 +280,4 @@ title: SwiftUI
 - [CatalystCustomToolbar](https://github.com/steventroughtonsmith/CatalystCustomToolbar) - Using UIKit/SwiftUI to build a toolbar for a Mac Catalyst app.
 - [SwiftUI Sample Code](https://github.com/alexpaul/SwiftUI)
 - [Adaptive stack view in SwiftUI (2023)](https://medium.com/evangelist-apps/adaptive-stack-view-in-swiftui-c484b76b8523)
+- [SwiftOnTap](https://swiftontap.com/) - Complete SwiftUI Docs with Examples.

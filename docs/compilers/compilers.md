@@ -8,6 +8,8 @@
 
 [Austral](https://github.com/austral/austral) has interesting compiler I want to study.
 
+[sccache](https://github.com/mozilla/sccache) is interesting compiler cache.
+
 ## Notes
 
 - [Lessons learned on compiler development: 1. Group functions by AST node, not by pass. 2. Have a formal theory for checking types worked out in advance. 3. Don't dump the metadata for each pass directly into AST nodes.](https://twitter.com/spakhm/status/1283672210050125824)

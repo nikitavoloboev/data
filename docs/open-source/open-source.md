@@ -8,6 +8,8 @@ The key to success in open source lies in understanding that it's not just about
 
 Dan has great tips on what it means to be [high quality software maintainers](https://twitter.com/dan_abramov/status/1463718359262973953). [Anthony Fu's contribution guide](https://github.com/antfu/contribute) is great.
 
+Whilst I try to release everything I work on in the open, I make sure not to ever rely solely on OSS funding for my projects as it's just [not sustainable](https://news.ycombinator.com/item?id=34780859). You need to build actual products and sell them be it via free to pro conversion or just paid product outright. I think though more products should be open source and still make a business like what [cal.com](https://github.com/calcom/cal.com) is doing amongst many more. Opening up contribution to the product is valuable and has little if any drawbacks in my opinion.
+
 ## Nice contributing pages
 
 - [Things Network](https://github.com/TheThingsNetwork/lorawan-stack/blob/v3.23/CONTRIBUTING.md)

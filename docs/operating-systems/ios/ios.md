@@ -9,6 +9,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Standups](https://github.com/pointfreeco/standups) - Rebuild of Apple’s “Scrumdinger” application using modern, best practices for SwiftUI development.
 - [Runestone](https://github.com/simonbs/Runestone) - Performant plain text editor for iOS with code editing features. ([Docs](https://docs.runestone.app/documentation/)) ([Docs Code](https://github.com/simonbs/docs.runestone.app))
 - [iOS Swift Chat App](https://github.com/cometchat-pro/ios-swift-chat-app) - Open-source Voice & Video Calling and Text Chat App for Swift.
+- [Spotify Client](https://github.com/salvadordeveloper/ios-spotify) - Using Swift & UIKit. ([Tutorial](https://www.youtube.com/playlist?list=PL5PR3UyfTWve9ZC7Yws0x6EGjBO2FGr0o))
 - [Notes-App](https://github.com/kwameaj67/Notes-App) - iOS app to help users create short notes as reminders and categorize them into folders.
 - [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen) - Launch screen made with SwiftUI and RealityKit.
 - [BreadBuddy](https://github.com/maxhumber/BreadBuddy) - Open source recipe scheduler for iOS.
@@ -566,3 +567,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Scriptable scripts for iOS](https://github.com/ajatkj/scriptable)
 - [The evolution of Facebook’s iOS app architecture (2023)](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
 - [Run CLIP on iPhone to search photos (2022)](https://mazzzystar.github.io/2022/12/29/Run-CLIP-on-iPhone-to-Search-Photos/) ([HN](https://news.ycombinator.com/item?id=34686947))
+- [No Overview Available](https://nooverviewavailable.com/) - Survey of Apple developer documentation.
