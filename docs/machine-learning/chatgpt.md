@@ -22,6 +22,8 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Music discovery assistant](https://twitter.com/nikitavoloboev/status/1613261011922083840)
 - [Help writing freelancing contract](https://twitter.com/dannypostmaa/status/1617132416690458625)
 - [Recommend books as some famous person](https://twitter.com/spakhm/status/1624947320839376897)
+- [Valentines day poem or poems in general](https://twitter.com/maccaw/status/1625667601312489472)
+  - i.e. `Write a short cute poem for a girl that everyone thinks loves cats but in reality she is so much more.` or `write a short cute valentine day poem for a girl that loves cats, harry potter, magic and adventures` or `write a cute valentine day poem for a girl that loves cats, harry potter, magic and adventures`
 
 ## Links
 
@@ -110,3 +112,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - Tool powered by OpenAI's Davinci model, will help you accomplish your tasks faster and more efficiently.
 - [Summ](https://github.com/yasyf/summ) - Uses ChatGPT to provide intelligent question-answering and search capabilities across user transcripts.
 - [Create ChatGPT like experience over your custom docs using LangChain](https://github.com/hwchase17/chat-your-data)
+- [Welcome to the Age of Bullshit (2023)](https://erikmcclure.com/blog/age-of-bullshit/)
+- [Bing: “I will not harm you unless you harm me first” (2023)](https://simonwillison.net/2023/Feb/15/bing/) ([HN](https://news.ycombinator.com/item?id=34804874))

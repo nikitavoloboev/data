@@ -20,6 +20,8 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 [Telebot](https://github.com/tucnak/telebot) & [grammY](https://github.com/grammyjs/grammY) are great bot libraries.
 
+[Remove Join Group Messages](https://t.me/RemoveJoinGroupMsgBot) is nice bot to add to groups to remove `user joined` messages.
+
 ## Bot libraries
 
 - [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene)) ([Awesome](https://github.com/grammyjs/awesome-grammY)) ([Web Code](https://github.com/grammyjs/website))
@@ -88,6 +90,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bots
 
+- [Remove Join Group Messages](https://t.me/RemoveJoinGroupMsgBot) - Automatically delete join/left message in your groups.
 - [Rose](https://t.me/MissRose_bot) - Powerful telegram bot to help you manage your groups.
 - [Remix](https://github.com/callsmusic/remix) - Operational and exprimental Telegram music bot.
 - [Telepathy](https://github.com/jordanwildon/Telepathy) - OSINT toolkit for investigating Telegram chats. ([Tweet](https://twitter.com/JordanWildon/status/1552715511888093184))

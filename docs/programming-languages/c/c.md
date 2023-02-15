@@ -320,3 +320,4 @@
 - [C Programming Lab: Assessing Your C Programming Skills](https://github.com/sysprog21/lab0-c)
 - [Why I Use C When I Believe in Memory Safety (2023)](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/) ([HN](https://news.ycombinator.com/item?id=34662666))
 - [Let's write a setjmp (2023)](https://nullprogram.com/blog/2023/02/12/) ([Lobsters](https://lobste.rs/s/cbbv9z/let_s_write_setjmp)) ([HN](https://news.ycombinator.com/item?id=34760828))
+- [CBMC: The C Bounded Model Checker (2023)](https://arxiv.org/abs/2302.02384)

@@ -270,3 +270,4 @@ title: DNS
 - [MassDNS](https://github.com/blechschmidt/massdns) - High-performance DNS stub resolver.
 - [resolved](https://github.com/barrucadu/resolved) - Simple DNS server for home networks.
 - [FaF DNS Proxy](https://github.com/errantmind/faf-dns-proxy) - DNS-over-TLS (DoT) Proxy, Engineered for Speed.
+- [Building a CoreDNS plugin (2023)](https://mrkaran.dev/posts/coredns-nomad/)

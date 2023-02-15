@@ -11,3 +11,4 @@
 - [AutoCorrect](https://github.com/huacnlee/autocorrect) - Linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [Open Chinese Convert](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese.
 - [ChineseCLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
+- [NLP — Tokenizing Chinese Phrases (2019)](https://medium.com/@jjsham/nlp-tokenizing-chinese-phases-3302da4336bf)

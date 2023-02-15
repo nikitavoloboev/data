@@ -2254,3 +2254,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation) (2023)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
 - [go-doudou](https://github.com/unionj-cloud/go-doudou) - Lightweight Go Microservice Framework.
 - [Gobuild](https://beta.gobuilds.org/) - Reproducible binaries for the Go module proxy.
+- [Structured logging in Go with slog (2023)](https://mrkaran.dev/posts/structured-logging-in-go-with-slog/) ([Lobsters](https://lobste.rs/s/hdwu80/structured_logging_go_with_slog))

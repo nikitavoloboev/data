@@ -22,6 +22,8 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Fenix](https://github.com/nix-community/fenix) is interesting.
 
+[Rerun](https://github.com/rerun-io/rerun) has great code to study for how to build an app in Rust.
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)
@@ -1045,3 +1047,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) ([HN](https://news.ycombinator.com/item?id=34737626))
 - [Reimplementing the Coreutils in a modern language (Rust)](https://fosdem.org/2023/schedule/event/rust_coreutils/) ([HN](https://news.ycombinator.com/item?id=34780886))
 - [There and Back Again: Our Rust Adoption Journey (2022)](https://www.infoq.com/presentations/rust-adoption-journey/)
+- [When Rust hurts (2023)](https://mmapped.blog/posts/15-when-rust-hurts.html) ([Lobsters](https://lobste.rs/s/pd8rr8/when_rust_hurts))

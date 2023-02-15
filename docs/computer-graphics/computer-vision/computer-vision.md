@@ -1028,7 +1028,7 @@
 - [PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking (2022)](https://arxiv.org/abs/2209.07589) ([Code](https://github.com/nv-nguyen/pizza))
 - [Diffusion Models for Medical Image Analysis: A Comprehensive Survey (2022)](https://arxiv.org/abs/2211.07804) ([Code](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging))
 - [RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data (2022)](https://arxiv.org/abs/2210.12634) ([Code](https://github.com/ZhanYang-nwpu/RSVG-pytorch))
-- [Rerun](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics.
+- [Rerun](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics. ([Code](https://github.com/rerun-io/rerun)) ([OSS Release](https://www.rerun.io/blog/oss-beta)) ([HN](https://news.ycombinator.com/item?id=34807038))
 - [ECON: Explicit Clothed humans Obtained from Normals (2022)](https://xiuyuliang.cn/econ/) ([Code](https://github.com/YuliangXiu/ECON))
 - [Monocular, One-stage, Regression of Multiple 3D People](https://github.com/Arthur151/ROMP)
 - [Paint by Example: Exemplar-based Image Editing with Diffusion Models (2022)](https://arxiv.org/abs/2211.13227) ([Code](https://github.com/Fantasy-Studio/Paint-by-Example))

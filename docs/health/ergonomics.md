@@ -14,7 +14,7 @@ My favorite work setup is something [like this](https://twitter.com/neee_eeed/st
 
 ## Chairs
 
-- [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody-gaming-chair/2517590.html) ([Review](https://www.youtube.com/watch?v=GgdsxxO88oQ)) ([Review](https://www.youtube.com/watch?v=y9kSNdxA8y8))
+- [Herman Miller Embody](https://store.hermanmiller.com/gaming-chairs/embody-gaming-chair/2517590.html) ([Review](https://www.youtube.com/watch?v=GgdsxxO88oQ)) ([Review](https://www.youtube.com/watch?v=y9kSNdxA8y8)) ([Review](https://www.youtube.com/watch?v=ErW3C60gbSc))
 - [Herman Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/)
 - [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/) ([Tweet](https://twitter.com/ow/status/1463234007295004680)) ([Tweet](https://twitter.com/thekitze/status/1519627519158276097))
 - [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/) ([Tweet](https://twitter.com/AndrewProjDent/status/1452986311141363719))
