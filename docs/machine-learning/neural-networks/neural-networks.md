@@ -333,3 +333,4 @@
 - [C++ Neural Network in a Weekend (2020)](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/) ([HN](https://news.ycombinator.com/item?id=34594216))
 - [Understanding and coding the self-attention mechanism of large language models (2023)](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) ([HN](https://news.ycombinator.com/item?id=34743263))
 - [What are Transformer Neural Networks? (2021)](https://www.youtube.com/watch?v=XSSTuhyAmnI)
+- [Stitchable Neural Networks (2023)](https://arxiv.org/abs/2302.06586) ([Code](https://github.com/ziplab/SN-Net))

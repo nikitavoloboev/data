@@ -166,3 +166,4 @@
 - [ultramark](https://github.com/natemoo-re/ultramark) - Tiny, spec-compliant Markdown library.
 - [remark-tree-sitter](https://github.com/s0/remark-tree-sitter) - Highlight code in Markdown files using tree-sitter and remark.
 - [markdown-it-prism](https://github.com/jGleitz/markdown-it-prism) - Highlight code blocks in markdown-it using prism.
+- [MyST Markdown Tools](https://github.com/executablebooks/mystjs) - Parser and CLI for MyST Markdown, built in JavaScript.

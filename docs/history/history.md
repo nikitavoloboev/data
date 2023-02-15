@@ -224,3 +224,4 @@
 - [Eastory - YouTube](https://www.youtube.com/@Eastory/videos)
 - [The Present Past - YouTube](https://www.youtube.com/@ThePresentPast_/videos)
 - [Yale Courses (European History)](https://www.youtube.com/playlist?list=PLp-cIkvQ88-1_nvZZ2-i5j90J3llXJl1o)
+- [Gavrilo Princip: The Teenager Who Started World War I](https://www.youtube.com/watch?v=w29TSiZ8uHA)

@@ -805,6 +805,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Uint8 Concat](https://github.com/fabiospampinato/uint8-concat) - Concatenate multiple Uint8Arrays super efficiently.
 - [debug-next](https://github.com/calvintwr/debug-next) - Feature-enhanced TypeScript drop-in replacement for a very popular and simple-to-use debug module.
 - [bitfield](https://github.com/fb55/bitfield) - Simple bitfield, compliant with the BitTorrent spec.
+- [json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation.
+- [Memoization Registry](https://github.com/fabiospampinato/memoization-registry) - Generalized multi-key memoization solution that does not leak memory.
 
 ## Links
 

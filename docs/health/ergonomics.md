@@ -66,6 +66,7 @@ My favorite work setup is something [like this](https://twitter.com/neee_eeed/st
 
 ## Notes
 
+- [Start stretching (first) and then exercising (eg. build muscle). Not begin able to sit correctly usually means weak muscles. Sitting all day means certain muscle shorten and the typical nerd neck and rounded shoulders syndrome which can only be solved by stretching and exercise. Better chair won't solve the issue long term. Option would also be a height adjustable desk. So you work standing at least 15 min per hour or something like that.](https://www.reddit.com/r/buildapc/comments/tgt1h8/whats_the_best_chair_for_someone_who_spends_a_lot/)
 - [When you’re using your phone, stop using your pinky as an anchor. It’s destroying your wrist and aggravating your ulnar nerve.](https://twitter.com/MrsBundrige/status/1450103066250911745)
 - [Hanging from a pull up bar for 5 minutes total a day has by far been the best improvement to wrist health after a proper ergonomic keyboard.](https://twitter.com/ThePrimeagen/status/1596914331362660353)
 
@@ -120,3 +121,4 @@ My favorite work setup is something [like this](https://twitter.com/neee_eeed/st
 - [Is it possible to get out of forward head posture?](https://www.reddit.com/r/Posture/comments/108hr0h/is_it_possible_to_get_out_of_forward_head_posture/)
 - [Sitting all day is terrible for your health](https://theconversation.com/sitting-all-day-is-terrible-for-your-health-now-a-new-study-finds-a-relatively-easy-way-to-counteract-it-197507) ([HN](https://news.ycombinator.com/item?id=34382603))
 - [Which is the single BEST exercise for posture correction? (2023)](https://www.reddit.com/r/Posture/comments/10pvhcs/which_is_the_single_best_exercise_for_posture/)
+- [How To Ergonomically Set Up Herman Miller Embody (Logitech G)](https://www.youtube.com/watch?v=5-WWERDd2ys)

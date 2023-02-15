@@ -585,3 +585,4 @@
 - [My network home setup V4 (2023)](https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html) ([HN](https://news.ycombinator.com/item?id=34723971))
 - [Networking tutorial - YouTube](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
 - [Protohackers](https://protohackers.com/) - Challenges you to create servers for network protocols. ([Code](https://github.com/tumdum/protohackers))
+- [MITM Proxy](https://github.com/emanuele-em/man-in-the-middle-proxy) - MITM Proxy Written in Rust. Ultimate Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities.

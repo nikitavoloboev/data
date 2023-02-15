@@ -1037,6 +1037,7 @@
 - [naked-function](https://github.com/Amanieu/naked-function) - Proc macro version of the #[naked] attribute.
 - [syntactic-for](https://github.com/xlambein/syntactic-for) - Syntactic "for" loop Rust macro.
 - [Nutype](https://github.com/greyblake/nutype) - Newtype macros on steroids.
+- [Subenum](https://github.com/paholg/subenum) - Simple proc-macro to derive subsets of enums.
 
 ## Math
 
@@ -2668,6 +2669,8 @@
 - [Lightflus](https://github.com/JasonThon/lightflus) - Lightweight, Cloud-Native Stateful Distributed Dataflow Engine.
 - [rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper of Ableton Link's C 11 extension.
 - [localsearch](https://github.com/lucidfrontier45/localsearch) - Rust library for local search optimization.
+- [Lariv](https://github.com/Alonely0/Lariv) - Thread-safe, self-memory-managed vector with no guaranteed sequential insert.
+- [Suffix array](https://github.com/hucsmn/suffix_array) - Construction and searching algorithms for in-memory binary data.
 
 ## Cargo Plugins
 

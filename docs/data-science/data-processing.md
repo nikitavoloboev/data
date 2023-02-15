@@ -161,3 +161,4 @@
 - [Pandas Illustrated: Visual Guide to Pandas (2023)](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) ([HN](https://news.ycombinator.com/item?id=34550735))
 - [Arrow CLI Tools](https://github.com/domoritz/arrow-tools) - Collection of handy CLI tools to convert CSV and JSON to Apache Arrow and Parquet.
 - [unstructured](https://github.com/Unstructured-IO/unstructured) - Open-Source Pre-Processing Tools for Unstructured Data.
+- [pipelime](https://github.com/eyecan-ai/pipelime-python) - Swiss army knife for data processing.

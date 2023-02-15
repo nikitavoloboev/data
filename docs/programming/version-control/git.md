@@ -639,3 +639,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Codeatlas](https://www.codeatlas.dev/gallery) - Visualize your codebase during CI. ([Code](https://github.com/codeatlasHQ/codebase-visualizer-action))
 - [GPT Commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using GPT-3. ([HN](https://news.ycombinator.com/item?id=34591733))
 - [Get up to speed with partial clone and shallow clone (2020)](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
+- [AI Commits](https://github.com/Nutlope/aicommits) - CLI that writes your git commit messages for you with AI.

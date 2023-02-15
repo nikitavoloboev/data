@@ -140,3 +140,4 @@ title: Apache Kafka
 - [KStream](https://github.com/tryfix/kstream) - Apache Kafka Streams for Go.
 - [Kafka in 100 Seconds (2023)](https://www.youtube.com/watch?v=uvb00oaa3k8)
 - [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/) ([HN](https://news.ycombinator.com/item?id=34716797))
+- [Streaming Events from Redpanda Cloud into Imply Polaris (2023)](https://blog.hellmar-becker.de/2023/02/14/streaming-events-from-redpanda-cloud-into-imply-polaris/)

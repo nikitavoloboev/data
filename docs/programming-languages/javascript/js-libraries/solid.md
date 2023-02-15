@@ -36,6 +36,7 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Chrome Extension Boilerplate with SolidJS + Vite + TypeScript](https://github.com/fuyutarow/solid-chrome-extension-template)
 - [Create JD App](https://github.com/OrJDev/create-jd-app) - SolidStart & tRPC Full-Stack TypeScript application template.
 - [SolidStart SSR with @tanstack/query v5 preview using tRPC](https://github.com/AshSimmonds/solidstart-17)
+- [SolidStart Notes](https://github.com/peerreynders/solid-start-notes-basic)
 
 ## Notes
 

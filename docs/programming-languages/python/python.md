@@ -531,7 +531,7 @@ for i, _ in enumerate(nums):
 - [MVPy: Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/) ([Lobsters](https://lobste.rs/s/aihsd2/mvpy_minimum_viable_python))
 - [Blackd-Client](https://github.com/disrupted/blackd-client) - Blazing fast Python code formatting using Black.
 - [You Should Be Using Python's Walrus Operator (2022)](https://martinheinz.dev/blog/79) ([Lobsters](https://lobste.rs/s/0ipjdk/you_should_be_using_python_s_walrus))
-- [Ruff](https://github.com/charliermarsh/ruff) - Extremely fast Python linter, written in Rust. ([Lobsters](https://lobste.rs/s/xjl3rd/ruff_extremely_fast_python_linter)) ([HN](https://news.ycombinator.com/item?id=32666035))
+- [Ruff](https://github.com/charliermarsh/ruff) - Extremely fast Python linter, written in Rust. ([Lobsters](https://lobste.rs/s/xjl3rd/ruff_extremely_fast_python_linter)) ([HN](https://news.ycombinator.com/item?id=32666035)) ([Docs](https://beta.ruff.rs/docs/)) ([HN](https://news.ycombinator.com/item?id=34788020))
 - [Using Mypy in Production](https://notes.crmarsh.com/using-mypy-in-production-at-spring) ([HN](https://news.ycombinator.com/item?id=32556816))
 - [Python multi-level break and continue](https://lwn.net/SubscriberLink/906512/27b609f844d04f68/) ([HN](https://news.ycombinator.com/item?id=32691526))
 - [Building a Distributed Task Queue in Python (2022)](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) ([HN](https://news.ycombinator.com/item?id=32730038))

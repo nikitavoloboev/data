@@ -164,3 +164,4 @@
 - [Ruby Internals Glossary](https://github.com/tenderlove/ruby-glossary) - Acronyms I've run across in the Ruby source code and their meanings.
 - [Ruby Changes](https://rubyreferences.github.io/rubychanges/) - History of Ruby language evolution.
 - [Ruby's private keyword is weird (2023)](https://blog.jez.io/ruby-private/)
+- [Build Your Own Fast, Persistent KV Store (2023)](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)

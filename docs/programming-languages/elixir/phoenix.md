@@ -11,6 +11,7 @@ title: Phoenix framework
 - [Calendlex](https://github.com/bigardone/calendlex) - Simple Calendly clone with Phoenix LiveView.
 - [Honeydew](https://github.com/quarterpi/honeydew) - Example app built on the CELP (Commanded, Elixir, LiveView, PostgreSQL) stack.
 - [Phoenix Chat Example](https://github.com/dwyl/phoenix-chat-example) - Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix.
+- [Philomena](https://github.com/derpibooru/philomena) - Next-generation imageboard.
 
 ## Notes
 

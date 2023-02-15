@@ -2065,6 +2065,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [purego](https://github.com/ebitengine/purego) - Library for calling C functions from Go without Cgo. ([HN](https://news.ycombinator.com/item?id=34763681))
 - [gopatterns](https://github.com/tiagoquin/gopatterns) - Concurrency patterns in Go.
 - [MissingGo](https://github.com/anacrolix/missinggo) - Stuff that's missing in Go stdlib.
+- [currency](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 
 ## Links
 

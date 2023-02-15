@@ -6,6 +6,7 @@ title: OCaml libraries
 
 ## Web
 
+- [Helix](https://github.com/odis-labs/helix) - Build reactive web interfaces in OCaml.
 - [Hyper](https://github.com/aantron/hyper) - OCaml Web client, composable with Dream.
 - [h2](https://github.com/anmonteiro/ocaml-h2) - HTTP/2 implementation written in pure OCaml.
 - [Opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml.

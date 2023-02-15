@@ -217,3 +217,4 @@ title: RISC-V
 - [Hypocaust](https://github.com/KuangjuX/hypocaust) - Type-1 hypervisor run on RISC-V machine.
 - [RISC-V ISA](https://rv.drom.io/) - RISC-V ISA online string decoder. ([Code](https://github.com/drom/rv))
 - [Configurable RISC-V Processor](https://github.com/openhwgroup/cvw)
+- [RISC-V Matrix Extension Specification](https://github.com/T-head-Semi/riscv-matrix-extension-spec)

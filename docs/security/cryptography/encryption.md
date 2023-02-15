@@ -109,3 +109,4 @@
 - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 - [Enc](https://github.com/life4/enc) - CLI tool for encryption, a modern and friendly alternative to GnuPG.
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs) - Fastest open source Homomorphic Encryption library in Rust.
+- [Blyss SDK](https://github.com/blyssprivacy/sdk) - SDK for private data access, built on homomorphic encryption.

@@ -179,3 +179,4 @@ title: JSON
 - [jlq](https://github.com/hamin/jlq) - Query JSON log files quickly and efficiently with the power of SQLite.
 - [Help us shape JSON Schema future stability guarantees (2023)](https://news.ycombinator.com/item?id=34587360)
 - [jl](https://github.com/koenbollen/jl) - JSON Logs, a development tool for working with structured JSON logging.
+- [json-pointer](https://github.com/sagold/json-pointer) - Failsafe value retrieval, modification and utils using json-pointer spec.

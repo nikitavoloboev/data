@@ -1123,6 +1123,7 @@
 - [hrbrbox](https://github.com/hrbrmstr/hrbrbox) - JS tools primarily intended to simplify some operations in Observable notebooks.
 - [cborg](https://github.com/rvagg/cborg) - Fast CBOR with a focus on strictness.
 - [Interval Tree](https://github.com/alexbol99/flatten-interval-tree) - Interval binary search tree.
+- [u](https://github.com/ananthakumaran/u) - JavaScript library for encoding/decoding state (JavaScript object) in URL.
 
 ## Links
 

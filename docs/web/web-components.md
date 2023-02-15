@@ -128,3 +128,4 @@ title: Web Components
 - [Redefine Custom Elements](https://github.com/caridy/redefine-custom-elements) - Patches the global custom elements registry to allow re-defining or reload a custom element.
 - [lit-transition](https://github.com/sijakret/lit-transition) - Directive for animated transitions in lit-html.
 - [WCC](https://github.com/ProjectEvergreen/wcc) - Web Components Compiler.
+- [UIMix](https://github.com/seanchas116/uimix) - Open-source web site & component editor.

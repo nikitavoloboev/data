@@ -358,6 +358,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Virtualform](https://github.com/chiefGui/virtualform) - Ultra-fast, responsive and headless virtualization engine for React.
 - [Flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars.
 - [React Data Grid](https://github.com/inovua/reactdatagrid)
+- [json-editor](https://github.com/sagold/json-editor) - Simple beautiful API for your custom form generator powered by json-schema.
 
 ## Links
 
