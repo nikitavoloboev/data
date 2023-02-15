@@ -1072,4 +1072,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Numerically Stable Softmax and Cross Entropy (2022)](https://jaykmody.com/blog/stable-softmax/)
 - [An Intuition for Attention (2022)](https://jaykmody.com/blog/attention-intuition/)
 - [Latent State Marginalization as a Low-cost Approach for Improving Exploration (2023)](https://arxiv.org/abs/2210.00999) ([Code](https://github.com/zdhNarsil/Stochastic-Marginal-Actor-Critic))
-- [The Little Learner (2023)](https://mitpress.mit.edu/9780262546379/the-little-learner/) - Highly accessible, step-by-step introduction to deep learning, written in an engaging, question-and-answer style.
+- [The Little Learner (2023)](https://mitpress.mit.edu/9780262546379/the-little-learner/) - Highly accessible, step-by-step introduction to deep learning, written in an engaging, question-and-answer style. ([HN](https://news.ycombinator.com/item?id=34810332))

@@ -434,3 +434,4 @@
 - [Convergence verification of the Collatz problem](https://pcbarina.fit.vutbr.cz/) ([Lobsters](https://lobste.rs/s/2dwnx4/convergence_verification_collatz))
 - [Maxima](https://maxima.sourceforge.io/) - Computer algebra system written in Common Lisp. ([HN](https://news.ycombinator.com/item?id=34674758)) ([Jupyter Code](https://github.com/robert-dodier/maxima-jupyter))
 - [Mathematicians Complete Quest to Build ‘Spherical Cubes’ (2023)](https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/)
+- [What areas of math research are really active / trendy right now. Why? (2023)](https://www.reddit.com/r/math/comments/112m3ba/what_areas_of_math_research_are_really_active/)

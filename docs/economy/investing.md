@@ -316,3 +316,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Ask HN: How to Invest $700k USD? (2023)](https://news.ycombinator.com/item?id=34304142)
 - [What do you think are the best long-term investment trends (10-20 year+ horizon) (2023)](https://www.reddit.com/r/investing/comments/10c8jes/what_do_you_think_are_the_best_longterm/)
 - [Martin Gives Great Tips & Tricks Reading Financial Reports | Shkreli Analyses Salesforce](https://www.youtube.com/watch?v=gPBrHwGZueg)
+- [How to best invest 60k (2023)](https://www.reddit.com/r/eupersonalfinance/comments/112ne9o/feedback_on_how_to_invest_60k/)

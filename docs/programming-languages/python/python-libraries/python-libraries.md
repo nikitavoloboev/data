@@ -1365,3 +1365,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Getting Started with Property-Based Testing in Python with Hypothesis and Pytest (2023)](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 - [Thoughts on the Python packaging ecosystem (2023)](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/) ([HN](https://news.ycombinator.com/item?id=34467952))
 - [Sample Python Extension in Zig](https://github.com/ali5h/zig-py-sample)
+- [Caching a lot of methods in Python (2023)](https://death.andgravity.com/caching-methods)

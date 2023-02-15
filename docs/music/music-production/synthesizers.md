@@ -118,3 +118,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [Most in depth synth YouTuber (2023)](https://www.reddit.com/r/synthesizers/comments/10id6c5/most_in_depth_synth_youtuber/)
 - [What are the most innovative and experimental synths on the market today? (2023)](https://www.reddit.com/r/synthesizers/comments/10qydgj/what_are_the_most_innovative_and_experimental/)
 - [$500-$600 synth range (2023)](https://www.reddit.com/r/synthesizers/comments/10rj1l5/500600_synth_range/)
+- [What's your synth music comfort blanket?](https://www.reddit.com/r/synthesizers/comments/112z9a5/whats_your_synth_music_comfort_blanket/)

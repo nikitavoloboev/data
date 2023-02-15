@@ -2671,6 +2671,7 @@
 - [localsearch](https://github.com/lucidfrontier45/localsearch) - Rust library for local search optimization.
 - [Lariv](https://github.com/Alonely0/Lariv) - Thread-safe, self-memory-managed vector with no guaranteed sequential insert.
 - [Suffix array](https://github.com/hucsmn/suffix_array) - Construction and searching algorithms for in-memory binary data.
+- [Stable Structures](https://github.com/dfinity/stable-structures) - Collection of data structures for fearless canister upgrades. ([Tutorial](https://mmapped.blog/posts/14-stable-structures.html))
 
 ## Cargo Plugins
 
@@ -2999,3 +3000,4 @@
 - [zerus](https://github.com/wcampbell0x2a/zerus) - Lightweight binary to download only project required crates for offline crates.io mirror.
 - [Choosing a Rust Web Framework (2023)](https://www.youtube.com/watch?v=NXkZPyQcNgY)
 - [Rust API Design Learnings (2023)](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/)
+- [Designing error types in Rust (2022)](https://mmapped.blog/posts/12-rust-error-handling.html)
