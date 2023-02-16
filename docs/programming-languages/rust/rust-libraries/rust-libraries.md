@@ -2672,6 +2672,8 @@
 - [Lariv](https://github.com/Alonely0/Lariv) - Thread-safe, self-memory-managed vector with no guaranteed sequential insert.
 - [Suffix array](https://github.com/hucsmn/suffix_array) - Construction and searching algorithms for in-memory binary data.
 - [Stable Structures](https://github.com/dfinity/stable-structures) - Collection of data structures for fearless canister upgrades. ([Tutorial](https://mmapped.blog/posts/14-stable-structures.html))
+- [rustyrepl](https://github.com/slawlor/repl) - Rust Read-Evaluate-Print-Loop utility crate.
+- [ractor](https://github.com/slawlor/ractor) - Rust actor framework. ([Reddit](https://www.reddit.com/r/rust/comments/113dp70/ractor_not_just_another_actor_framework/)) ([HN](https://news.ycombinator.com/item?id=34813489))
 
 ## Cargo Plugins
 

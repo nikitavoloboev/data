@@ -8,6 +8,8 @@ title: React
 
 Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464).
 
+[Replay Dev Tools](https://github.com/replayio/devtools) has nice React code to study.
+
 ## OSS React apps
 
 - [Frontend Clean Architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using clean architecture principles.

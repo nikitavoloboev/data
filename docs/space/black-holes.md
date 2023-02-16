@@ -53,3 +53,4 @@
 - [Quantum Signatures of Black Hole Mass Superpositions (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.181301)
 - [Ask HN: Is it black holes all the way up? (2022)](https://news.ycombinator.com/item?id=33901624)
 - [Real-time Black Hole Rendering in OpenGL](https://github.com/rossning92/Blackhole)
+- [Scientists find first observational evidence linking black holes to dark energy (2023)](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/) ([HN](https://news.ycombinator.com/item?id=34813141)) ([Reddit](https://www.reddit.com/r/Physics/comments/1137nph/scientists_find_first_evidence_that_black_holes/))

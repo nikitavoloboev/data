@@ -153,3 +153,4 @@ title: Lua
 - [Lua performance guide](https://github.com/flily/lua-performance)
 - [t](https://github.com/osyrisrblx/t) - Runtime Typechecker for Roblox.
 - [cwtest](https://github.com/catwell/cwtest) - Tiny Lua test helper.
+- [Lua Programming Gems](http://www.lua.org/gems/) ([PDF](http://www.lua.org/gems/lpg.pdf))

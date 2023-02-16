@@ -623,3 +623,4 @@ all: unset
 - [CSS Leading Trim](https://github.com/jantimon/leading-trim-examples) - CSS property that allows you to remove the leading whitespace from a block of text.
 - [Moving Backgrounds (2023)](https://css-tricks.com/moving-backgrounds/)
 - [Different Ways to Get CSS Gradient Shadows (2023)](https://css-tricks.com/different-ways-to-get-css-gradient-shadows/)
+- [WebKit Supports Nested CSS (2023)](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/) ([HN](https://news.ycombinator.com/item?id=34814070))

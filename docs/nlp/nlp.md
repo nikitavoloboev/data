@@ -827,3 +827,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Offsite-Tuning: Transfer Learning without Full Model (2023)](https://arxiv.org/abs/2302.04870) ([Code](https://github.com/mit-han-lab/offsite-tuning))
 - [Awesome Neural Reprogramming Acoustic Prompting](https://github.com/huckiyang/awesome-neural-reprogramming-prompting)
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database. Makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
+- [Prompt Engine](https://github.com/microsoft/prompt-engine) - Microsoft's prompt engineering library. ([HN](https://news.ycombinator.com/item?id=34811070))
