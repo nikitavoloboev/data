@@ -154,3 +154,4 @@ title: Lua
 - [t](https://github.com/osyrisrblx/t) - Runtime Typechecker for Roblox.
 - [cwtest](https://github.com/catwell/cwtest) - Tiny Lua test helper.
 - [Lua Programming Gems](http://www.lua.org/gems/) ([PDF](http://www.lua.org/gems/lpg.pdf))
+- [Using Lua with C++ (2023)](https://edw.is/using-lua-with-cpp/) ([HN](https://news.ycombinator.com/item?id=34782491))

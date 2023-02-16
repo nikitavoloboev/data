@@ -606,7 +606,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Idiot Proof Git (2022)](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html) ([HN](https://news.ycombinator.com/item?id=33532062))
 - [gfh](https://github.com/Ovyerus/gfh) - Git FIDO Helper - Sign your Git commits with multiple resident SSH keys.
 - [What makes Git so hard to use? (2022)](https://www.highflux.io/blog/what-makes-git-hard-to-use) ([HN](https://news.ycombinator.com/item?id=33626284))
-- [Bringing revsets to Git (2022)](https://blog.waleedkhan.name/bringing-revsets-to-git/)
+- [Bringing revsets to Git (2022)](https://blog.waleedkhan.name/bringing-revsets-to-git/) ([Lobsters](https://lobste.rs/s/4lp2pz/bringing_revsets_git))
 - [Ask HN: What made you finally grok Git? (2022)](https://news.ycombinator.com/item?id=33653212)
 - [ggman](https://github.com/tkw1536/ggman) - Manage all your local git repositories.
 - [git-theta](https://github.com/r-three/git-theta) - Git extension for {collaborative, communal, continual} model development.
@@ -640,3 +640,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GPT Commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using GPT-3. ([HN](https://news.ycombinator.com/item?id=34591733))
 - [Get up to speed with partial clone and shallow clone (2020)](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 - [AI Commits](https://github.com/Nutlope/aicommits) - CLI that writes your git commit messages for you with AI. ([HN](https://news.ycombinator.com/item?id=34790721))
+- [The Myers diff algorithm: part 1 (2017)](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)

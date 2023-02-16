@@ -772,3 +772,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [How to protect your database (from yourself) (2023)](https://www.youtube.com/watch?v=Rm-OuNnq6Xo)
 - [15 futuristic databases you’ve never heard of (2023)](https://www.youtube.com/watch?v=jb2AvF8XzII)
 - [TypeORM Seeding](https://github.com/jorgebodega/typeorm-seeding) - Delightful way to seed test data into your database.
+- [Efficient and Compact Spreadsheet Formula Graphs (2023)](https://arxiv.org/abs/2302.05482)

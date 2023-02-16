@@ -290,3 +290,4 @@
 - [CS143: Compilers](https://web.stanford.edu/class/cs143/)
 - [Languages, Compilers and Interpreters Course (2022)](http://pages.di.unipi.it/gori/Linguaggi-Compilatori2022/) ([Code](https://github.com/lillo/compiler-course-unipi))
 - [All about LeakSanitizer (2023)](https://maskray.me/blog/2023-02-12-all-about-leak-sanitizer)
+- [Cranelift's Instruction Selector DSL, ISLE: Term-Rewriting Made Practical (2023)](https://cfallin.org/blog/2023/01/20/cranelift-isle/)

@@ -162,3 +162,4 @@
 - [Arrow CLI Tools](https://github.com/domoritz/arrow-tools) - Collection of handy CLI tools to convert CSV and JSON to Apache Arrow and Parquet.
 - [unstructured](https://github.com/Unstructured-IO/unstructured) - Open-Source Pre-Processing Tools for Unstructured Data.
 - [pipelime](https://github.com/eyecan-ai/pipelime-python) - Swiss army knife for data processing.
+- [Explore Data with Data Painter](https://docs.kanaries.net/rath/tutorials/data-painter/) ([HN](https://news.ycombinator.com/item?id=34789698))

@@ -761,3 +761,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How countries look out for nuclear war danger (2023)](https://www.reddit.com/r/CredibleDefense/comments/10v60rf/comment/j7fmtc7/?context=3)
 - [Why Iran-Iraq war dragged on (2023)](https://www.reddit.com/r/CredibleDefense/comments/10zn2wq/comment/j84hec5/?utm_source=reddit&utm_medium=web2x&context=3)
 - [How I Use My Mouse](https://github.com/madprops/blog/blob/main/mouse.md) ([HN](https://news.ycombinator.com/item?id=34739163))
+- [How I chose a name for Discove](https://paragraph.xyz/@df/how-i-chose-a-name-for-discove)

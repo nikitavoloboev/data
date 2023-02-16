@@ -21,3 +21,4 @@ title: String theory
 - [Did string theory poison physics | Eric Weinstein and Brian Greene clash over theories of everything (2022)](https://www.youtube.com/watch?v=hyFMB1xfePw)
 - [Physicists Discover String Theory and Extra Dimensions in a Laboratory (2022)](https://profmattstrassler.com/2022/12/05/physicists-discover-string-theory-and-extra-dimensions-in-a-laboratory/)
 - [Why String Theory is Wrong (2018)](https://www.youtube.com/watch?v=IhpGdumLRqs)
+- [Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics (2023)](https://www.youtube.com/watch?v=y3cw_9ELpQw)

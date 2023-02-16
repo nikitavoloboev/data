@@ -269,3 +269,4 @@ title: Clojure
 - [A Primer on Clojure Macros (2023)](https://blog.janetacarr.com/a-primer-on-clojure-macros/)
 - [Joyride VS Code using a Clojure REPL (by Peter Strömberg and Michiel Borkent) (2022)](https://www.youtube.com/watch?v=ObjIR08t3lg)
 - [Clojure Turns 15 panel discussion video (2022)](https://www.youtube.com/watch?v=exSRG-iL74Q) ([HN](https://news.ycombinator.com/item?id=34774498))
+- [Clojure in the Tyre Manufacturing Industry (2021)](https://blogit.michelin.io/clojure-programming/) ([HN](https://news.ycombinator.com/item?id=34801464))
