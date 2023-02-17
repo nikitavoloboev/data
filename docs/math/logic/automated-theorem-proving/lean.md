@@ -135,3 +135,5 @@ title: Lean
 - [LeanInk](https://github.com/leanprover/LeanInk) - Command line helper tool for Alectryon which aims to ease the integration of Lean 4.
 - [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) ([Code](https://github.com/avigad/mathematics_in_lean_source))
 - [Classical Mechanics Lean](https://github.com/DragonSlayerXavier/Classical-Mechanics-Lean)
+- [Code samples for Lean 4](https://github.com/leanprover/lean4-samples)
+- [Megaparsec](https://github.com/yatima-inc/Megaparsec.lean) - Lean 4 port of Megaparsec.

@@ -365,6 +365,7 @@
 - [GreenFunc](https://github.com/numericalEFT/GreenFunc.jl) - Differentiable numerical framework to manipulate multidimensional Green's functions.
 - [NumericalEFT](https://github.com/numericalEFT/NumericalEFT.jl) - Numerical effective field theory toolbox for quantum many-body problem.
 - [Lehmann](https://github.com/numericalEFT/Lehmann.jl) - Compact Spectral Representation for Imaginary-time/Matsubara-frequency Green's Functions.
+- [QuantumSymbolics](https://github.com/Krastanov/QuantumSymbolics.jl) - Computer algebra tools for symbolic manipulations in quantum mechanics and quantum information.
 
 ## LaTeX
 

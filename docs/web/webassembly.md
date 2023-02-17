@@ -425,3 +425,5 @@ title: WebAssembly
 - [WebAssembly interpreter](https://github.com/yamt/toywasm)
 - [Rust to WebAssembly the hard way (2023)](https://surma.dev/things/rust-to-webassembly/)
 - [Making really tiny WebAssembly graphics demos (2019)](https://cliffle.com/blog/bare-metal-wasm/)
+- [Tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly.
+- [sightglass](https://github.com/bytecodealliance/sightglass) - Benchmarking suite and tooling for Wasmtime and Cranelift.

@@ -289,6 +289,7 @@
 - [Pathex](https://github.com/hissssst/pathex) - Library for performing fast actions with nested data structures in Elixir.
 - [Assent](https://github.com/pow-auth/assent) - Multi-provider authentication framework.
 - [ErrorMessage](https://github.com/MikaAK/elixir_error_message) - Simplify error systems.
+- [Mix Unused](https://github.com/hauleth/mix_unused) - Find unused functions in your project.
 
 ## Links
 

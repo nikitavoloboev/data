@@ -689,3 +689,5 @@ title: Linux
 - [Analyzing Linux Kernel Commits (2023)](https://sam4k.com/analysing-linux-kernel-commits/)
 - [boxxy](https://github.com/queer/boxxy) - Puts bad Linux applications in a box with only their files. ([HN](https://news.ycombinator.com/item?id=34730520))
 - [Gentoo Linux 2022 Retrospective](https://www.gentoo.org/news/2023/02/09/new-year.html) ([HN](https://news.ycombinator.com/item?id=34750614))
+- [io_uring and networking in 2023](https://github.com/axboe/liburing/wiki/io_uring-and-networking-in-2023)
+- [allocscope](https://github.com/matt-kimball/allocscope) - Tool in Rust for tracking all allocations in a Linux process. ([HN](https://news.ycombinator.com/item?id=34804721))

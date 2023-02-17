@@ -334,4 +334,4 @@
 - [Understanding and coding the self-attention mechanism of large language models (2023)](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) ([HN](https://news.ycombinator.com/item?id=34743263))
 - [What are Transformer Neural Networks? (2021)](https://www.youtube.com/watch?v=XSSTuhyAmnI)
 - [Stitchable Neural Networks (2023)](https://arxiv.org/abs/2302.06586) ([Code](https://github.com/ziplab/SN-Net))
-- [Transformer models: an introduction and catalog (2023)](https://arxiv.org/abs/2302.07730) ([HN](https://news.ycombinator.com/item?id=34816184))
+- [Transformer models: an introduction and catalog (2023)](https://arxiv.org/abs/2302.07730) ([HN](https://news.ycombinator.com/item?id=34816184)) ([Code](https://github.com/xamat/TransformerCatalog))

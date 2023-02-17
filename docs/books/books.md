@@ -641,3 +641,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Постсоветская литература: что это было?](https://polka.academy/podcasts/899)
 - [Create bilingual books yourself](https://maximullaris.com/bilingual_books.html)
 - [BiblioReads](https://github.com/nesaku/BiblioReads) - Alternative Private Goodreads Front-End.
+- [Viberary](https://github.com/veekaybee/viberary) - Recommend you books based not on genre or title, but vibe.

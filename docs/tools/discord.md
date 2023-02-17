@@ -219,3 +219,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [GlueSQL Discord Storage](https://github.com/ever0de/gluesql-discord)
 - [Shipping Friday Discord](https://discord.com/invite/dqMkGed)
 - [Discord Webhook API Rust](https://github.com/thoo0224/webhook-rs)
+- [Discord Protocol Buffers](https://github.com/dolfies/discord-protos) - Reverse-engineering Discord's user settings protobufs.

@@ -476,3 +476,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - [Parallelformers](https://github.com/tunib-ai/parallelformers) - Efficient Model Parallelization Toolkit for Deployment.
 - [BenchML](https://github.com/capoe/benchml) - ML benchmarking and pipeling framework.
+- [MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's library for high performance machine learning primitives.

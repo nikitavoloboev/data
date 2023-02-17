@@ -221,3 +221,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Solid Mason](https://github.com/lxsmnsyc/solid-mason) - Masonry layout for SolidJS.
 - [Solid Refresh](https://github.com/solidjs/solid-refresh) - HMR for Solid for various bundlers.
 - [Using Solid Start with GitHub pages (2023)](https://dev.to/lexlohr/using-solid-start-with-github-pages-3iok)
+- [HTML To SolidJSX](https://solidjs-community.github.io/html-to-solidjsx/) ([Code](https://github.com/solidjs-community/html-to-solidjsx))

@@ -249,6 +249,7 @@ title: OCaml libraries
 - [Mmap](https://github.com/deepin-community/ocaml-mmap) - Functions for mapping files in memory.
 - [PCRE-OCaml](https://github.com/mmottl/pcre-ocaml) - Perl Compatibility Regular Expressions for OCaml.
 - [kcas](https://github.com/ocaml-multicore/kcas) - Multi-word compare-and-swap library.
+- [ctypes](https://github.com/yallop/ocaml-ctypes) - Library for binding to C libraries using pure OCaml.
 
 ## Links
 

@@ -1124,6 +1124,7 @@
 - [cborg](https://github.com/rvagg/cborg) - Fast CBOR with a focus on strictness.
 - [Interval Tree](https://github.com/alexbol99/flatten-interval-tree) - Interval binary search tree.
 - [u](https://github.com/ananthakumaran/u) - JavaScript library for encoding/decoding state (JavaScript object) in URL.
+- [signal](https://github.com/WebReflection/signal) - Extremely basic signals implementation.
 
 ## Links
 
@@ -1229,3 +1230,4 @@
 - [Using Sourcegraph to discover non-NPM JS projects (2023)](https://www.stackaid.us/blog/using-sourcegraph-to-discovery-non-npm-js-projects)
 - [The complete guide to packaging libraries](https://package-library.bjornlu.com/1) ([Code](https://github.com/bluwy/package-library))
 - [NPM Packages tracked in Notion](https://github.com/Eomm/notion-board)
+- [Sandpack NPM CDN](https://github.com/codesandbox/sandpack-cdn)

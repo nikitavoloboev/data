@@ -164,7 +164,7 @@
 - [Ruby Internals Glossary](https://github.com/tenderlove/ruby-glossary) - Acronyms I've run across in the Ruby source code and their meanings.
 - [Ruby Changes](https://rubyreferences.github.io/rubychanges/) - History of Ruby language evolution.
 - [Ruby's private keyword is weird (2023)](https://blog.jez.io/ruby-private/)
-- [Build Your Own Fast, Persistent KV Store (2023)](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
+- [Build Your Own Fast, Persistent KV Store (2023)](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/) ([HN](https://news.ycombinator.com/item?id=34793714))
 - [Granting at least once delivery (2023)](https://tuwukee.github.io/ruby/fibers/2023/02/14/granting-at-least-once.html)
 - [Fibers and Ruby (2023)](https://tuwukee.github.io/ruby/fibers/2023/01/29/fibers-and-ruby.html)
 - [Fiber based async background job processor (2023)](https://tuwukee.github.io/ruby/fibers/2023/01/30/fiber-based-async-background-job-processor.html)

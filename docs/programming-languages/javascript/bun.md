@@ -49,3 +49,4 @@ I never use [Node](../../web/nodejs/nodejs.md) now as Bun is simply faster and h
 - [Bun 0.5 (2023)](https://bun.sh/blog/bun-v0.5.0) ([HN](https://news.ycombinator.com/item?id=34430458))
 - [Is Bun Ready Yet](https://is-bun-ready.pages.dev/) ([Code](https://github.com/SaltyAom/is-bun-ready))
 - [Vercel Bun](https://github.com/peterbartha/vercel-bun) - Bun runtime for Vercel Serverless Functions.
+- [Grapie](https://github.com/gaurishhs/grapie) - SSR framework for Bun.

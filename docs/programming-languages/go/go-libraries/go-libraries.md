@@ -185,11 +185,14 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple Go snapshot testing.
 - [Go Snaps](https://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Go.
 - [Mocktail](https://github.com/traefik/mocktail) - Naive code generator that creates mock implementation using testify.mock.
+- [ooze](https://github.com/gtramontina/ooze) - Go Mutation Testing.
+- [apitest](https://github.com/steinfletcher/apitest) - Simple and extensible behavioral testing library.
 
 ## Web
 
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Chi CORS](https://github.com/go-chi/cors)
+- [Trip](https://github.com/philippta/trip) - Elegant middleware functions for your HTTP clients.
 - [Flamego](https://github.com/flamego/flamego) - Fantastic modular Go web framework with a slim core but limitless extensibility. ([Docs](https://flamego.dev/))
 - [router](https://github.com/gowww/router) - Lightning fast HTTP router.
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
@@ -408,6 +411,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [uRouter](https://github.com/lxzan/uRouter) - HTTP & WebSocket router library for Go.
 - [fcors](https://github.com/jub0bs/fcors) - Fearless CORS - a principled CORS middleware library for Go.
 - [go-connections](https://github.com/docker/go-connections) - Utility package to work with network connections.
+- [assetserver](https://github.com/cespare/assetserver) - Go file server for web assets.
 
 ## GraphQL
 
@@ -621,6 +625,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [DBML Go](https://github.com/duythinht/dbml-go) - DBML parser and tools for Go.
 - [catena](https://github.com/Cistern/catena) - Storage engine for time series data.
 - [zipcache](https://github.com/ostafen/zipcache) - In-memory compressed cache.
+- [Neoq](https://github.com/acaloiaro/neoq) - Background job processing built on Postgres for Go. ([Lobsters](https://lobste.rs/s/kzbekd/show_background_job_processing_without))
 
 ## ML
 
@@ -2066,6 +2071,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [gopatterns](https://github.com/tiagoquin/gopatterns) - Concurrency patterns in Go.
 - [MissingGo](https://github.com/anacrolix/missinggo) - Stuff that's missing in Go stdlib.
 - [currency](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
+- [Load Balancer Algorithms](https://github.com/appleboy/loadbalancer-algorithms)
 
 ## Links
 

@@ -20,3 +20,4 @@ title: Babashka
 - [http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http.
 - [Simple TUIs with Babashka and Gum (2023)](https://rattlin.blog/bbgum.html)
 - [nbb: ad-hoc scripting for Clojure on Node.js (by Michiel Borkent) (2022)](https://www.youtube.com/watch?v=7DQ0ymojfLg)
+- [Babashka SQL pods](https://github.com/babashka/babashka-sql-pods) - Babashka pods for interacting with SQL databases.

@@ -98,3 +98,4 @@ Find Tokyo [beautiful](https://twitter.com/teemusphoto/status/160469679917617561
 - [Japanese Decline: The Full Story (2022)](https://www.youtube.com/watch?v=CVyiOewuTtw)
 - [Mozc](https://github.com/google/mozc) - Japanese Input Method Editor designed for multi-platform.
 - [Japanese explained to programmers (2023)](https://lajili.com/posts/post-1/) ([HN](https://news.ycombinator.com/item?id=34593724))
+- [Ichiran](https://github.com/tshatrov/ichiran) - Collection of tools for working with text in Japanese language.

@@ -6,9 +6,7 @@
 
 Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) on macOS for searching docs.
 
-[Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs.
-
-[Chiselstrike](../tools/chiselstrike.md) seems nice for making [REST](../networking/rest.md) like APIs fast with [TypeScript](../programming-languages/typescript/typescript.md).
+[Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs. [Step CI](https://github.com/stepci/stepci) seems nice for automated API testing.
 
 ## Other
 

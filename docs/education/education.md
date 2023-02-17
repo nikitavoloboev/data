@@ -126,3 +126,4 @@ What's wild to me is just how [few people can write code](https://twitter.com/Ru
 - [Test scores are not irrelevant (2022)](https://dynomight.net/are-tests-irrelevant/) ([HN](https://news.ycombinator.com/item?id=33338030))
 - [AI Homework (2022)](https://stratechery.com/2022/ai-homework/) ([HN](https://news.ycombinator.com/item?id=33867039))
 - [Why hasn’t technology disrupted higher education already? (2022)](https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher) ([HN](https://news.ycombinator.com/item?id=33961847))
+- [Jonathan Blow: “Video Games and the Future of Education” (2020)](https://www.youtube.com/watch?v=qWFScmtiC44) ([HN](https://news.ycombinator.com/item?id=34800676))

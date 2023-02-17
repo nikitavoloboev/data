@@ -157,3 +157,4 @@ title: LLVM
 - [Encoding Variable-Length Instructions in LLVM (2022)](https://m680x0.github.io/blog/2022/02/varlen-encoder.html)
 - [llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static LLVM tools & libs. ([Lobsters](https://lobste.rs/s/yiu95m/llvmbox_self_contained_fully_static_llvm))
 - [Rellume](https://github.com/aengelke/rellume) - Lift machine code to performant LLVM IR.
+- [llvm-ir-taint](https://github.com/cdisselkoen/llvm-ir-taint) - Taint tracking for LLVM IR.

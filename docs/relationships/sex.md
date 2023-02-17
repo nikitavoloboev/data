@@ -173,3 +173,5 @@
 - [Advice on post divorce 38M](https://www.reddit.com/r/sexover30/comments/zzjgaa/im_getting_divorced_after_infidelity_38m_married/)
 - [Как делать кунилингус](https://twitter.com/capwell_cc/status/1615056345308270600)
 - [Women, what things made your best sex partner your best sex partner? (2023)](https://www.reddit.com/r/sex/comments/10ug9vi/women_what_things_made_your_best_sex_partner_your/)
+- [Aella: Sex Work, OnlyFans, Porn, Escorting, Dating, and Human Sexuality (2023)](https://www.youtube.com/watch?v=cFSrxSBrgSc)
+- [Declining sperm count: Much more than you wanted to know (2023)](https://astralcodexten.substack.com/p/declining-sperm-count-much-more-than) ([HN](https://news.ycombinator.com/item?id=34830936))

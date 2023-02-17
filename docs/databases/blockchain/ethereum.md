@@ -764,3 +764,5 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [KZG Ceremony](https://github.com/ethereum/kzg-ceremony) - Coordinated public ritual which will provide a cryptographic foundation for Ethereum scaling initiatives.
 - [Shenlong](https://github.com/keep-starknet-strange/shenlong) - Fast tool to generate LLVM IR from Cairo, written in Rust.
 - [Ramen](https://github.com/dyng/ramen) - Terminal Interface for Ethereum.
+- [evm-coder](https://github.com/UniqueNetwork/evm-coder) - Library for seamless call translation between Rust and Solidity code.
+- [zkSync Era](https://github.com/matter-labs/zksync-era) - ZK Rollup For Scaling Ethereum.

@@ -922,3 +922,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Blazing Fast Tips: TypeScript Utility Types (2023)](https://www.youtube.com/watch?v=EU0TB_8KHpY)
 - [pkg-ok](https://github.com/abraham/pkg-ok) - Checks paths and scripts defined in package.json before you publish.
 - [bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more.
+- [micro-ts](https://github.com/adevinwild/micro-ts) - Micro-minimalist template to create TypeScript packages with `microbundle`.

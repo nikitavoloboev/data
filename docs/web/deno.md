@@ -27,6 +27,7 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno Merch](https://github.com/denoland/merch) - Deno shop! Built with Deno and Fresh, powered by Shopify.
 - [ESZIP Tools](https://eszip-viewer.deno.dev/) ([Code](https://github.com/denoland/eszip_viewer))
 - [Deno Paste](https://deno-paste.deno.dev/) - Minimal text storage service. ([Code](https://github.com/stephenmelnicki/deno_paste))
+- [Fresh with Hono](https://github.com/yudai-nkt/fresh-with-hono)
 
 ## Notes
 

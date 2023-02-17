@@ -354,6 +354,7 @@ Below is a list of extensions I use.
 
 ## Ruby
 
+- [Standard Ruby](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby) - Official VS Code extension for the Standard Ruby linter and code formatter. ([Code](https://github.com/testdouble/vscode-standard-ruby)) ([Article](https://blog.testdouble.com/posts/2023-02-16-its-official-the-standard-ruby-vscode-extension/))
 - [VS Code Shopify Ruby](https://github.com/Shopify/vscode-shopify-ruby) - Opinionated and auto-configured set of extensions for Ruby development.
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - Provides Ruby language and debugging support.
 

@@ -240,3 +240,5 @@
 - [CropScore](https://cropper.madza.dev/) - Online Image Cropper for Content Creators. ([Code](https://github.com/madzadev/cropper))
 - [Optisize](https://github.com/three11/optisize) - Resize and optimize images with NodeJS.
 - [FreeScaler](https://github.com/TheMurusTeam/FreeScaler-CoreML) - Upscaler app for macOS based on Apple CoreML framework.
+- [The dangers behind image resizing (2021)](https://zuru.tech/blog/the-dangers-behind-image-resizing) ([HN](https://news.ycombinator.com/item?id=34816918))
+- [SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling.

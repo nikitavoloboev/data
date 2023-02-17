@@ -346,6 +346,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Tucker Siemens](https://tuckersiemens.com/posts/)
 - [Roman Kashitsyn](https://mmapped.blog/posts.html)
 - [Chris Fallin](https://cfallin.org/)
+- [Tailscale](https://tailscale.com/blog/)
+- [CodeSandbox](https://codesandbox.io/blog)
 
 ## Notes
 

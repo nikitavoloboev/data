@@ -18,7 +18,7 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics/) is great book.
 
-[MacroKata](https://github.com/tfpk/macrokata) is great for learning macros. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) & [Rust Performance](https://nnethercote.github.io/perf-book/introduction.html) are nice reads to learn best practices.
+[MacroKata](https://github.com/tfpk/macrokata) is great for learning macros. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) & [Rust Performance](https://nnethercote.github.io/perf-book/introduction.html) are nice reads to learn best practices. [LifetimeKata](https://tfpk.github.io/lifetimekata/index.html) is nice to understand lifetimes.
 
 [Fenix](https://github.com/nix-community/fenix) is interesting.
 
@@ -1049,3 +1049,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [There and Back Again: Our Rust Adoption Journey (2022)](https://www.infoq.com/presentations/rust-adoption-journey/)
 - [When Rust hurts (2023)](https://mmapped.blog/posts/15-when-rust-hurts.html) ([Lobsters](https://lobste.rs/s/pd8rr8/when_rust_hurts)) ([HN](https://news.ycombinator.com/item?id=34803379))
 - [Why is building a UI in Rust so hard? (2023)](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard) ([Lobsters](https://lobste.rs/s/coy6gt/why_is_building_ui_rust_so_hard))
+- [LifetimeKata](https://tfpk.github.io/lifetimekata/index.html) - Set of exercises to improve your understanding of lifetimes in Rust. ([Code](https://github.com/tfpk/lifetimekata/))
+- [Smoke-testing Rust HTTP clients (2020)](https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6)

@@ -498,3 +498,6 @@ title: PyTorch
 - [tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - Minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
 - [Transformer implementation in PyTorch](https://github.com/tunz/transformer-pytorch)
 - [PyTorch Snake](https://github.com/falkaer/pytorch-snake) - Memory and compute-efficient fused PyTorch implementation of the Snake activation function from Neural Networks Fail to Learn Periodic Functions and How to Fix It.
+- [OctoML PyTorch Profiler](https://github.com/octoml/octoml-profile)
+- [Lion PyTorch](https://github.com/lucidrains/lion-pytorch) - Optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam.
+- [PyTorch tutorial for beginners](https://github.com/L1aoXingyu/pytorch-beginner)

@@ -43,6 +43,7 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [Talks at Meeting Embedded 2019](https://meetingembedded.com/2019/Talks/#talk10)
 - [probe-rs](https://github.com/probe-rs/probe-rs) - Modern, embedded debugging toolkit, written in Rust. ([Web](http://probe.rs/))
 - [Awesome Bare Metal](https://github.com/alexellis/awesome-baremetal)
+- [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)
 - [usbarmory.rs](https://github.com/iqlusioninc/usbarmory.rs) - Bare metal Rust support for USB armory MkII devices.
 - [cortex-a](https://github.com/rust-embedded/cortex-a) - Low level access to Cortex-A processors.
 - [Tinkerbell](https://github.com/tinkerbell/tink) - Bare metal provisioning and workflow engine. ([GitHub](https://github.com/tinkerbell/)) ([Web](https://tinkerbell.org/))

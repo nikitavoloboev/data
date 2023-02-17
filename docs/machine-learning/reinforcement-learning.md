@@ -433,3 +433,5 @@ title: Reinforcement learning
 - [Miniworld](https://github.com/Farama-Foundation/Miniworld) - Simple and easily configurable 3D FPS-game-like environments for reinforcement learning.
 - [Rurel](https://github.com/milanboers/rurel) - Flexible, reusable reinforcement learning (Q learning) implementation in Rust.
 - [NICE: Robust Scheduling through Reinforcement Learning-Guided Integer Programming (2022)](https://arxiv.org/abs/2109.12171) ([Code](https://github.com/nsidn98/NICE))
+- [DeepMind has open-sourced the heart of AlphaGo and AlphaZero](https://twitter.com/DrJimFan/status/1625538305889820673) ([HN](https://news.ycombinator.com/item?id=34801636))
+- [STARTcraft](https://github.com/davechurchill/STARTcraft) - Get started with Starcraft: BroodWar AI Development as fast as possible.

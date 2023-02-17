@@ -326,3 +326,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [CLIP Guided Diffusion](https://github.com/afiaka87/clip-guided-diffusion) - CLI tool/python module for generating images from text using guided diffusion and CLIP from OpenAI.
 - [TileMaker](https://tilemaker.app/) - Create seamless tiled images with material diffusion. ([HN](https://news.ycombinator.com/item?id=34764998))
 - [Illusion Diffusion](https://github.com/tancik/Illusion-Diffusion) - Optical illusions using stable diffusion. ([HN](https://news.ycombinator.com/item?id=34769970))
+- [Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models](https://attendandexcite.github.io/Attend-and-Excite/) ([Code](https://github.com/AttendAndExcite/Attend-and-Excite))
+- [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation (2023)](https://multidiffusion.github.io/) ([Code](https://github.com/omerbt/MultiDiffusion))
+- [Diffusion WebUI Colab](https://github.com/acheong08/Diffusion-ColabUI) - Choose your diffusion models and spin up a WebUI on Colab in one click.
+- [Universal Guidance for Diffusion Models (2023)](https://arxiv.org/abs/2302.07121) ([Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion))

@@ -530,3 +530,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML.
 - [pyFluidSynth](https://github.com/nwhitehead/pyfluidsynth) - Python bindings for FluidSynth. Software synthesizer for generating music.
 - [easyvst](https://github.com/Boscop/easyvst) - Helper crate for creating VST audio plugins easily.
+- [Peel](https://peel.fm/) - Drum machine in your browser. ([HN](https://news.ycombinator.com/item?id=34795155))

@@ -145,3 +145,4 @@ title: Phoenix framework
 - [Ecto SQLite3 Extras](https://github.com/orsinium-labs/ecto_sqlite3_extras) - Helpful queries and Phoenix Live Dashboard integration for SQLite.
 - [Phoenix LiveView Free Course](https://pragmaticstudio.com/courses/phoenix-liveview)
 - [RequestCache](https://github.com/MikaAK/request_cache_plug) - Request caching for Phoenix & Absinthe (GraphQL), short circuiting even the JSON decoding/encoding.
+- [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss (2023)](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss) ([HN](https://news.ycombinator.com/item?id=34804627))

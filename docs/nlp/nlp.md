@@ -828,3 +828,8 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Awesome Neural Reprogramming Acoustic Prompting](https://github.com/huckiyang/awesome-neural-reprogramming-prompting)
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database. Makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - Microsoft's prompt engineering library. ([HN](https://news.ycombinator.com/item?id=34811070))
+- [PCAE: A framework of plug-in conditional auto-encoder for controllable text generation (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008942) ([Code](https://github.com/ImKeTT/pcae))
+- [EasyLM](https://github.com/young-geng/EasyLM) - Easy to use model parallel large language models in JAX/Flax with pjit support on cloud TPU pods.
+- [Promptable](https://github.com/cfortuner/promptable) - Library that enables you to build powerful AI applications with LLMs and Embeddings providers such as OpenAI, Hugging Face, Cohere and Anthropic.
+- [Lightning + Colossal-AI](https://github.com/Lightning-AI/lightning-colossalai) - Efficient Large-Scale Distributed Training with Colossal-AI and Lightning AI.
+- [MarioGPT: Open-Ended Text2Level Generation through Large Language Models (2023)](https://arxiv.org/abs/2302.05981) ([Code](https://github.com/shyamsn97/mario-gpt))

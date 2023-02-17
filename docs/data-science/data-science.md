@@ -279,3 +279,5 @@
 - [Time series resources](https://github.com/lmmentel/awesome-time-series)
 - [Quadratic](https://www.quadratichq.com/) - Data Science Spreadsheet. ([Code](https://github.com/quadratichq/quadratic))
 - [posit::conf(2023) workshops](https://posit-conf-2023.github.io/workshops/) ([Code](https://github.com/posit-conf-2023/workshops))
+- [Equals Dashboards](https://equals.app/dashboards/) - Build auto-updating dashboards in a spreadsheet. ([HN](https://news.ycombinator.com/item?id=34805132))
+- [BastionLab](https://github.com/mithril-security/bastionlab) - Simple framework for privacy-friendly data science collaboration.

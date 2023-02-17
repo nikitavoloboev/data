@@ -1146,3 +1146,7 @@
 - [MatteFormer: Transformer-Based Image Matting via Prior-Tokens (2022)](https://arxiv.org/abs/2203.15662) ([Code](https://github.com/webtoon/matteformer))
 - [minREV](https://github.com/karttikeya/minREV) - Simple minimal implementation of Reversible Vision Transformers.
 - [Cut and Learn for Unsupervised Object Detection and Instance Segmentation (2023)](https://arxiv.org/abs/2301.11320) ([Code](https://github.com/facebookresearch/CutLER))
+- [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models (2023)](https://arxiv.org/abs/2302.08453) ([Code](https://github.com/TencentARC/T2I-Adapter))
+- [3D-aware Conditional Image Synthesis (2023)](https://arxiv.org/abs/2302.08509) ([Code](https://github.com/dunbar12138/pix2pix3D))
+- [Deblur-NeRF: Neural Radiance Fields from Blurry Images (2021)](https://arxiv.org/abs/2111.14292) ([Code](https://github.com/limacv/Deblur-NeRF))
+- [Learning When to Say "I Don't Know" (2022)](https://arxiv.org/abs/2209.04944) ([Code](https://github.com/osu-cvl/learning-idk))

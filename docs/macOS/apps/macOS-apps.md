@@ -338,3 +338,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [Apple Dictionary Tools](https://github.com/JadedTuna/apple-dictionary) - Tools for extracting data from Apple dictionary files.
 - [Dockhunt](https://dockhunt.vercel.app/) - Share your dock and see who else has docked the apps you use. ([Code](https://github.com/Basedash/dockhunt))
 - [Ask HN: Resources to Learn macOS Development? (2023)](https://news.ycombinator.com/item?id=34680345)
+- [Reducing Tailscale’s binary size on macOS (2023)](https://tailscale.com/blog/macos-binary-size/)

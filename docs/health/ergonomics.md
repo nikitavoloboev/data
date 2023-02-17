@@ -122,3 +122,4 @@ My favorite work setup is something [like this](https://twitter.com/neee_eeed/st
 - [Sitting all day is terrible for your health](https://theconversation.com/sitting-all-day-is-terrible-for-your-health-now-a-new-study-finds-a-relatively-easy-way-to-counteract-it-197507) ([HN](https://news.ycombinator.com/item?id=34382603))
 - [Which is the single BEST exercise for posture correction? (2023)](https://www.reddit.com/r/Posture/comments/10pvhcs/which_is_the_single_best_exercise_for_posture/)
 - [How To Ergonomically Set Up Herman Miller Embody (Logitech G)](https://www.youtube.com/watch?v=5-WWERDd2ys)
+- [What's the best computer desk chair for under $500?](https://twitter.com/thesamparr/status/1458505674313375746)

@@ -18,3 +18,4 @@ Portugal is [great](https://twitter.com/tomazstolfa/status/1454441367359430663).
 - [Lisbon is poorly designed city (2022)](https://twitter.com/MaxRovensky/status/1530481185285095429)
 - [Portugal good place to live? (2022)](https://www.reddit.com/r/cscareerquestionsEU/comments/z4jvoi/portugal_good_place_to_live/)
 - [GeoBus](https://joao.earth/geobus) - Mapping Lisbon buses in real time. ([iOS Code](https://github.com/GeoBus/GeoBus-iOS))
+- [HN: Portugal proposes to end Golden Visas, curtail Airbnb rentals (2023)](https://news.ycombinator.com/item?id=34832045)

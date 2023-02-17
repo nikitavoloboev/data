@@ -773,3 +773,5 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [15 futuristic databases you’ve never heard of (2023)](https://www.youtube.com/watch?v=jb2AvF8XzII)
 - [TypeORM Seeding](https://github.com/jorgebodega/typeorm-seeding) - Delightful way to seed test data into your database.
 - [Efficient and Compact Spreadsheet Formula Graphs (2023)](https://arxiv.org/abs/2302.05482)
+- [Our Mad Journey of Building a Vector Database in Go (2023)](https://www.youtube.com/watch?v=K1R7oK2piUM)
+- [cpc](https://github.com/tailscale/cpc) - Copy tool for incremental copies of large files, such as databases.

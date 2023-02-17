@@ -70,3 +70,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [What are your "comfort" television shows? (2022)](https://www.reddit.com/r/television/comments/zya7d6/what_are_your_comfort_television_shows/)
 - [Which shows took you multiple attempts to start enjoying (2023)](https://www.reddit.com/r/television/comments/10tvo19/what_was_a_show_that_took_you_multiple_attempts/)
 - [TV Series you are absolutely kicking yourself for not watching it sooner (2023)](https://www.reddit.com/r/NetflixBestOf/comments/111ir1i/discussion_a_tv_series_you_are_absolutely_kicking/)
+- [WatchThis.dev](https://www.watchthis.dev/) - Get curated show or movie recommendations with Open AI. ([Code](https://github.com/StephDietz/watch-this))

@@ -451,3 +451,4 @@ Currently prefer using [Deno](../../web/deno.md) instead of Node. Sometimes use 
 - [Needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.
 - [Nodeiflux Discord](https://discord.com/invite/aD42zPx)
 - [Monitoring Node.js Performance (2023)](https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance/)
+- [Nodebox](https://github.com/codesandbox/nodebox-runtime) - Runtime for executing Node.js modules in the browser. ([Article](https://codesandbox.io/blog/announcing-sandpack-2))

@@ -115,3 +115,8 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Welcome to the Age of Bullshit (2023)](https://erikmcclure.com/blog/age-of-bullshit/)
 - [Bing: “I will not harm you unless you harm me first” (2023)](https://simonwillison.net/2023/Feb/15/bing/) ([HN](https://news.ycombinator.com/item?id=34804874))
 - [What Is ChatGPT Doing (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) ([HN](https://news.ycombinator.com/item?id=34796611))
+- [From Bing to Sydney (2023)](https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/) ([HN](https://news.ycombinator.com/item?id=34804387))
+- [We Found An Neuron in GPT-2 (2023)](https://clementneo.com/posts/2023/02/11/we-found-an-neuron) ([HN](https://news.ycombinator.com/item?id=34821414))
+- [ChatGPT in Academia](https://github.com/ymcui/ChatGPT-in-Academia) - Policies of scientific publisher and conferences towards large language model (LLM), such as ChatGPT.
+- [Sidekick](https://github.com/dcposch/sidekick) - Convert anything to anything using GPT3.
+- [ata](https://github.com/rikhuijzer/ata) - OpenAI GPT in the terminal.

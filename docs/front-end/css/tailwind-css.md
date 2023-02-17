@@ -198,3 +198,4 @@ I always value readability and extendability over being able to write/edit thing
 - [tailwind-variants](https://github.com/nextui-org/tailwind-variants) - Power of Tailwind combined with a first-class variant API.
 - [Tailwind Pseudo Elements](https://github.com/croutonn/tailwindcss-pseudo-elements) - TailwindCSS Plugin that adds variants of pseudo elements.
 - [Tailwind Color Picker Raycast](https://github.com/juliusmarminge/raycast-tailwind-picker) - Simple color picker for Tailwind CSS and Radix UI color palettes.
+- [TailwindCSS Icons](https://github.com/egoist/tailwindcss-icons) - Use any icon from Iconify.

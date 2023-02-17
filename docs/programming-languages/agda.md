@@ -119,3 +119,4 @@ title: Agda
 - [Komachi](https://github.com/Lysxia/komachi) - Parser library in Agda, with coinductive machines and automatic differentiation.
 - [Flipper](https://github.com/j-towns/flipper) - Reversible programming in Agda.
 - [Two formalizations of Löb's Theorem](https://github.com/JasonGross/lob)
+- [Felix](https://github.com/conal/felix) - Agda category theory library for denotational design.

@@ -441,3 +441,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [AWS Cost CLI](https://github.com/kamranahmedse/aws-cost-cli) - CLI tool to perform cost analysis on your AWS account with Slack integration.
 - [Pulumi AWS Infrastructure Components](https://github.com/pulumi/pulumi-awsx)
 - [Convox Rack](https://github.com/convox/rack) - Private PaaS that runs in your AWS account.
+- [aws-whoami](https://github.com/benkehoe/aws-whoami) - Show what AWS account and identity you're using.

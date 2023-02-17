@@ -105,11 +105,13 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [NCM2](https://github.com/ncm2/ncm2) - Slim, Fast and Hackable Completion Framework for Neovim.
 - [nest.nvim](https://github.com/LionC/nest.nvim) - Neovim utility plugin to define keymaps in concise, readable, cascading lists and trees.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
+- [SnippetGenie](https://github.com/ziontee113/SnippetGenie) - Snippet creation tool for Neovim.
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 - [lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - Partial implementation of LSP inlay hint.
 - [rest.nvim](https://github.com/rest-nvim/rest.nvim) - Fast Neovim HTTP client written in Lua.
 - [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
 - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Next generation library for creating floating pickers with advanced features.
+- [SelectEase](https://github.com/ziontee113/SelectEase) - Select text using Treesitter Queries and start typing right away.
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [live-command.nvim](https://github.com/smjonas/live-command.nvim) - Text editing in Neovim with immediate visual feedback.

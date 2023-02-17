@@ -2,6 +2,8 @@
 
 [3D Math Primer for Graphics and Game Development](https://gamemath.com/) is great. [Nano](https://github.com/lonng/nano) is great for building networked game servers.
 
+[Tangle](https://github.com/kettle11/tangle) is interesting.
+
 ## Studios
 
 - [Bungie](https://www.bungie.net/) - Developer of Destiny, Halo and more.
@@ -321,3 +323,4 @@
 - [Math breakdown: Anime homing missiles (2023)](https://blog.littlepolygon.com/posts/missile/) ([HN](https://news.ycombinator.com/item?id=34630730))
 - [Tactile](https://github.com/albin-johansson/tactile) - Tilemap editor that aims to be simple, fast and lightweight.
 - [Build a real-time game with Supabase and Vue (2023)](https://www.pixelhop.io/writing/build-a-real-time-game-with-supabase-and-vue/)
+- [Rust Nation Micro Game Jam](https://angelonfira.notion.site/angelonfira/Rust-Nation-Micro-Game-Jam-5f1e931ca1324007abf4acdcc316fe18)

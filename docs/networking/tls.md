@@ -116,3 +116,4 @@ title: TLS
 - [subtls](https://github.com/jawj/subtls) - TypeScript TLS 1.3 client with limited scope.
 - [TLS Client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [Weakening TLS protection, South Korean style (2023)](https://palant.info/2023/02/06/weakening-tls-protection-south-korean-style/) ([HN](https://news.ycombinator.com/item?id=34674029))
+- [TurboTLS: TLS connection establishment with 1 less round trip (2023)](https://arxiv.org/abs/2302.05311) ([HN](https://news.ycombinator.com/item?id=34793411))

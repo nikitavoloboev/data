@@ -6,7 +6,7 @@ title: Vite
 
 > Build tool that aims to provide a faster and leaner development experience for modern web projects
 
-[tinypages](https://github.com/Borrus-sudo/tinypages) seems nice.
+[tinypages](https://github.com/Borrus-sudo/tinypages) & [unplugin](https://github.com/unjs/unplugin) seem nice.
 
 ## Notes
 

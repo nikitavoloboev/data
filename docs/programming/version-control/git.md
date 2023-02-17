@@ -641,3 +641,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Get up to speed with partial clone and shallow clone (2020)](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 - [AI Commits](https://github.com/Nutlope/aicommits) - CLI that writes your git commit messages for you with AI. ([HN](https://news.ycombinator.com/item?id=34790721))
 - [The Myers diff algorithm: part 1 (2017)](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+- [gitly](https://github.com/iwatakeshi/gitly) - API to download and/or extract git repositories.

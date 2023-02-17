@@ -220,3 +220,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [DocsGPT](https://github.com/arc53/docsgpt) - Use documentation and asks questions directly with DocsGPT. ([HN](https://news.ycombinator.com/item?id=34648266))
 - [Paper QA](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from docs.
 - [I wish Asciidoc was more popular (2023)](https://pdx.su/blog/2023-02-05-asciidoc-and-markdown/) ([HN](https://news.ycombinator.com/item?id=34680558))
+- [Ask HN: Best examples of software documentation that you've come across? (2023)](https://news.ycombinator.com/item?id=34820382)

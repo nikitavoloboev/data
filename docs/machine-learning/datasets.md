@@ -235,3 +235,4 @@
 - [Toolbox for HuMMan Dataset](https://github.com/caizhongang/humman_toolbox)
 - [Datasets for deep learning with satellite & aerial imagery](https://github.com/satellite-image-deep-learning/datasets)
 - [Retriever](https://github.com/weecology/retriever) - Quickly download, clean up, and install public datasets into a database management system.
+- [A Critical Field Guide for Working with Machine Learning Datasets (2023)](https://knowingmachines.org/critical-field-guide)

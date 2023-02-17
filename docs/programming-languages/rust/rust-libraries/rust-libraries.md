@@ -562,6 +562,7 @@
 - [apecs](https://github.com/schell/apecs) - Asyncronous Parallel Entity Component System.
 - [Game Loop](https://github.com/tuzz/game-loop) - Rust crate that implements a frame-rate-independent game loop.
 - [Bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees.
+- [Micro Jam Engine](https://github.com/AngelOnFira/micro-jam-engine)
 
 ## GraphQL
 
@@ -891,6 +892,7 @@
 - [rusTy](https://github.com/dluman/rusTy) - Rust bindings for the spaCy library.
 - [RSRL](https://github.com/tspooner/rsrl) - Fast, safe and easy to use reinforcement learning framework in Rust.
 - [autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust.
+- [Oxen](https://github.com/Oxen-AI/Oxen) - Library, tools, and server to manage local and remote Oxen repositories.
 
 ## macOS
 
@@ -2674,6 +2676,7 @@
 - [Stable Structures](https://github.com/dfinity/stable-structures) - Collection of data structures for fearless canister upgrades. ([Tutorial](https://mmapped.blog/posts/14-stable-structures.html))
 - [rustyrepl](https://github.com/slawlor/repl) - Rust Read-Evaluate-Print-Loop utility crate.
 - [ractor](https://github.com/slawlor/ractor) - Rust actor framework. ([Reddit](https://www.reddit.com/r/rust/comments/113dp70/ractor_not_just_another_actor_framework/)) ([HN](https://news.ycombinator.com/item?id=34813489))
+- [Native JSON](https://github.com/sweihub/native-json) - Powerful way of parsing JSON syntax into native Rust structs.
 
 ## Cargo Plugins
 
@@ -3003,3 +3006,4 @@
 - [Choosing a Rust Web Framework (2023)](https://www.youtube.com/watch?v=NXkZPyQcNgY)
 - [Rust API Design Learnings (2023)](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/)
 - [Designing error types in Rust (2022)](https://mmapped.blog/posts/12-rust-error-handling.html)
+- [Specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages.

@@ -70,3 +70,4 @@
 - [svreal](https://github.com/sgherbst/svreal) - SystemVerilog library that makes it easy to perform real-number operations in a synthesizable fashion in SystemVerilog.
 - [svlint](https://github.com/dalance/svlint) - SystemVerilog linter.
 - [Verilog RTL Design](https://github.com/ishfaqahmed29/SerDes)
+- [Cheshire](https://github.com/pulp-platform/cheshire) - Minimal Linux-capable SoC built around the RISC-V CVA6 core.

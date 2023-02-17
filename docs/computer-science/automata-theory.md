@@ -83,3 +83,6 @@ title: Automata theory
 - [Recursive Game of Life](https://oimo.io/works/life/) ([HN](https://news.ycombinator.com/item?id=33978978))
 - [Elegant implementation to John Conway's Game of Life with JSXGraph](https://github.com/Leslie-Wong-H/game_of_life)
 - [Dominux Go Server](https://github.com/Dominux/DGS) - Game of Go implementation in VR.
+- [Learning Nominal Automata in Haskell](https://github.com/Jaxan/nominal-lstar)
+- [Conway’s Game of Life: Mathematics and Construction](http://www.njohnston.ca/publications/conways-game-of-life-mathematics-and-construction/) ([HN](https://news.ycombinator.com/item?id=34801788))
+- [Cellular Automata: A Discrete Universe Book](https://www.goodreads.com/book/show/3804153-cellular-automata)

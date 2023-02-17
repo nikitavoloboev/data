@@ -512,3 +512,4 @@ Awesome List
 - [The technology behind GitHub’s new code search (2023)](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/) ([HN](https://news.ycombinator.com/item?id=34680903))
 - [GitHub webhooks with Spin and Fermyon Cloud](https://github.com/radu-matei/spin-github-webhooks)
 - [ghfs](https://github.com/k1LoW/ghfs) - Go io/fs implementation for GitHub remote repository.
+- [request.js](https://github.com/octokit/request.js) - Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node.

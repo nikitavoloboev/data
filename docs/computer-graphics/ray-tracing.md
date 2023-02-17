@@ -134,3 +134,4 @@ title: Ray tracing
 - [Strolle](https://github.com/Patryk27/strolle) - Real-time raytracing engine written entirely in Rust, running on CPU & GPU. With Bevy integration.
 - [Ray Tracing in One Weekend (Zig)](https://github.com/Nelarius/weekend-raytracer-zig)
 - [Accelerated Photon Mapping for Hardware-based Ray Tracing (using Falcor 5.2)](https://github.com/SirKero/RTProgressivePhotonMapper)
+- [Simple spectral ray tracer in Rust](https://github.com/tvh/rayer-rs)

@@ -194,3 +194,4 @@
 - [Decoding Lunar Flashlight (2023)](https://destevez.net/2023/01/decoding-lunar-flashlight/)
 - [PyEphem](https://github.com/brandon-rhodes/pyephem) - Scientific-grade astronomy routines for Python.
 - [lenstronomy](https://github.com/lenstronomy/lenstronomy) - Multi-purpose software package to model strong gravitational lenses.
+- [NASA and Open-Source Software (2023)](https://lwn.net/SubscriberLink/923223/6f3f371c8267eff2/) ([HN](https://news.ycombinator.com/item?id=34815383))

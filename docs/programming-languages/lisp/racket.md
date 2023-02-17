@@ -165,3 +165,4 @@ title: Racket
 - [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
 - [Safe Foreign Callouts from Racket to Swift (2023)](https://defn.io/2023/02/04/racket-foreign-callouts-to-swift/)
 - [case-kw-lambda](https://github.com/lexi-lambda/case-kw-lambda) - Variants of case-lambda and case-> that support keyword and optional arguments.
+- [Racket fixw](https://github.com/6cdh/racket-fixw) - Racket formatter that only fixes whitespaces.

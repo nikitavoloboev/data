@@ -107,3 +107,5 @@ title: Chemistry
 - [libcint](https://github.com/sunqm/libcint) - General GTO integrals for quantum chemistry.
 - [BAGEL](https://github.com/qsimulate-open/bagel) - Brilliantly Advanced General Electronic-structure Library.
 - [gauche](https://github.com/leojklarner/gauche) - Library for Gaussian Processes in Chemistry.
+- [Awesome Chemistry Datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets)
+- [Pura](https://github.com/sustainable-processes/pura) - Clean chemical and reaction data.

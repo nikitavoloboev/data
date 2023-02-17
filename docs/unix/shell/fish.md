@@ -6,6 +6,8 @@ title: Fish Shell
 
 I use Fish as my main shell now. My config for it is [here](https://github.com/nikitavoloboev/dotfiles/tree/master/fish).
 
+[Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) & [Docs](https://fishshell.com/docs/current/) are great reads.
+
 ## Links
 
 - [Branching out from Bash: Fishing expedition (2019)](https://brettterpstra.com/2019/10/11/branching-out-from-bash-fishing-expedition/)
