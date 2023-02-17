@@ -281,3 +281,4 @@ title: SwiftUI
 - [SwiftUI Sample Code](https://github.com/alexpaul/SwiftUI)
 - [Adaptive stack view in SwiftUI (2023)](https://medium.com/evangelist-apps/adaptive-stack-view-in-swiftui-c484b76b8523)
 - [SwiftOnTap](https://swiftontap.com/) - Complete SwiftUI Docs with Examples.
+- [Exploring SwiftUI: New Sheet Modifiers in Xcode 14.3 Beta (2023)](https://rryam.com/swiftui-sheet-modifiers)
