@@ -54,3 +54,4 @@ I try learn new habits proactively by building systems and thought processes tha
 - [What is a good habit you wish you had adopted when you were younger?](https://www.reddit.com/r/AskOldPeople/comments/zaa9wm/what_is_a_good_habit_you_wish_you_had_adopted/)
 - [Ask HN: How to do that you need to do but not motivated at all? (2022)](https://news.ycombinator.com/item?id=34000076)
 - [Ask HN: Habits that have improved your life in many dimensions (2023)](https://news.ycombinator.com/item?id=34689709)
+- [David Lynch | Routine & Creativity](https://www.youtube.com/watch?v=0rqai5OU5ZU)

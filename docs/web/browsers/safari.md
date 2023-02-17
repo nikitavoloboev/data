@@ -11,7 +11,7 @@ My favorite browser. It is incredibly fast & cares about my privacy unlike Chrom
 - [Vimari](https://github.com/televator-apps/vimari) adds custom layer of keybinds you can customize to personalize the browsing experience like hinting and moving between tabs.
 - [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) is great ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) gives clean UI when browsing [Twitter](../../tools/twitter.md).
-- [Svadilfari](https://github.com/shumbo/Svadilfari) us it on iOS as it gives nice gestures to open new tabs especially. 
+- [Svadilfari](https://github.com/shumbo/Svadilfari) us it on iOS as it gives nice gestures to open new tabs especially.
 
 Here are websites I have in my `Favorites` which are usually sites I want super fast access to from iOS Safari:
 
@@ -86,3 +86,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Vimlike](https://apps.apple.com/us/app/vimlike/id1584519802) - Browse the web by keyboard shortcuts like a vim-editor.
 - [Tap Tab](https://www.taptab.dev/) - Tab switching web extension for Safari. ([HN](https://news.ycombinator.com/item?id=34112652))
 - [Safari Extensions Dev Notes](https://github.com/lapcat/SafariExtensions)
+- [Meet Web Push (2023)](https://webkit.org/blog/12945/meet-web-push/)

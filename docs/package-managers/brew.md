@@ -43,3 +43,4 @@ title: Brew
 - [Coldbrew](https://coldbrew.doom.sh/) - Visual interface to quickly install your favorite macOS apps from Homebrew Cask.
 - [BrewMyMac](https://brewmymac.sh/) - Possibly the coolest way to install apps and customize your Mac. ([Code](https://github.com/ayltai/BrewMyMac))
 - [Cork](https://github.com/buresdv/Cork) - Fast GUI manager for Homebrew written in SwiftUI.
+- [Homebrew 4.0.0 (2023)](https://brew.sh/2023/02/16/homebrew-4.0.0/) ([HN](https://news.ycombinator.com/item?id=34817222))

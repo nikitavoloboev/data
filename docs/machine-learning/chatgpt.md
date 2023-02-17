@@ -4,7 +4,7 @@ title: ChatGPT
 
 # [ChatGPT](https://chat.openai.com/chat)
 
-[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) & [How ChatGPT is Trained](https://www.youtube.com/watch?v=VPRSBzXzavo) are great overviews of how it works.
+[What Is ChatGPT Doing](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/), [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) & [How ChatGPT is Trained](https://www.youtube.com/watch?v=VPRSBzXzavo) are great overviews of how it works.
 
 I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
 
@@ -114,3 +114,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Create ChatGPT like experience over your custom docs using LangChain](https://github.com/hwchase17/chat-your-data)
 - [Welcome to the Age of Bullshit (2023)](https://erikmcclure.com/blog/age-of-bullshit/)
 - [Bing: “I will not harm you unless you harm me first” (2023)](https://simonwillison.net/2023/Feb/15/bing/) ([HN](https://news.ycombinator.com/item?id=34804874))
+- [What Is ChatGPT Doing (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) ([HN](https://news.ycombinator.com/item?id=34796611))

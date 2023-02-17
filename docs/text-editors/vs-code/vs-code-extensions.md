@@ -542,6 +542,7 @@ Below is a list of extensions I use.
 
 ## Theme
 
+- [Vesper](https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper) - Peppermint and orange flavored dark theme. ([Code](https://github.com/raunofreiberg/vesper)) ([Tweet](https://twitter.com/raunofreiberg/status/1626319440894693376))
 - [Vitesse](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse) ([Code](https://github.com/antfu/vscode-theme-vitesse))
 - [Poimandres](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs) - Minimal, frameless dark theme. ([Code](https://github.com/drcmda/poimandres-theme))
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) ([Code](https://github.com/sdras/night-owl-vscode-theme)) ([Web](https://night-owl-swag.netlify.app/))

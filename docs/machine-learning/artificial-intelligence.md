@@ -192,3 +192,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [Ask HN: What were the papers on the list Ilya Sutskever gave John Carmack? (2023)](https://news.ycombinator.com/item?id=34641359)
 - [Awesome Code AI](https://github.com/sourcegraph/awesome-code-ai)
 - [AI Notes](https://github.com/sw-yx/ai-notes)
+- [How should AI systems behave, and who should decide? (2023)](https://openai.com/blog/how-should-ai-systems-behave/)

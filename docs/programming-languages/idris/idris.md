@@ -96,3 +96,4 @@ title: Idris
 - [Idris2 Parser](https://github.com/stefan-hoeck/idris2-parser)
 - [HN: Idris (2023)](https://news.ycombinator.com/item?id=34454158)
 - [Idris2 Go](https://github.com/kbertalan/idris2-go) - Library for generating go programs.
+- [Dependent Optics Idris](https://github.com/bgavran/DependentOpticsIdris2)
