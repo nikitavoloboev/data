@@ -236,3 +236,4 @@
 - [Datasets for deep learning with satellite & aerial imagery](https://github.com/satellite-image-deep-learning/datasets)
 - [Retriever](https://github.com/weecology/retriever) - Quickly download, clean up, and install public datasets into a database management system.
 - [A Critical Field Guide for Working with Machine Learning Datasets (2023)](https://knowingmachines.org/critical-field-guide)
+- [Oxen](https://github.com/Oxen-AI/oxen-release) - Version your machine learning datasets like you version your code.
