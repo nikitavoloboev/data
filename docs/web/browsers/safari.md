@@ -86,4 +86,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Vimlike](https://apps.apple.com/us/app/vimlike/id1584519802) - Browse the web by keyboard shortcuts like a vim-editor.
 - [Tap Tab](https://www.taptab.dev/) - Tab switching web extension for Safari. ([HN](https://news.ycombinator.com/item?id=34112652))
 - [Safari Extensions Dev Notes](https://github.com/lapcat/SafariExtensions)
-- [Meet Web Push (2023)](https://webkit.org/blog/12945/meet-web-push/)
+- [Web Push for Web Apps on iOS and iPadOS (2023)](https://webkit.org/blog/12945/meet-web-push/) ([HN](https://news.ycombinator.com/item?id=34823402))

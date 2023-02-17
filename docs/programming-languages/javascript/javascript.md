@@ -497,3 +497,4 @@ if (
 - [Async Context for JavaScript](https://github.com/tc39/proposal-async-context) - Ergonomically track async contexts in JavaScript.
 - [Go-like channels in 10 lines of JavaScript (2023)](https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript) ([HN](https://news.ycombinator.com/item?id=34659023))
 - [oxc](https://github.com/Boshen/oxc) - JavaScript Oxidation Compiler.
+- [Writing JavaScript without a build system (2023)](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/) ([HN](https://news.ycombinator.com/item?id=34825676))

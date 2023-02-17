@@ -10,7 +10,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Twig](https://github.com/lukakerr/twig/) - Modern macOS markdown editor.
 - [Flowlist](https://github.com/flowtoolz/Flowlist) - Fun Self-Management for macOS.
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods. ([Web](https://www.jacklandrin.com/2021/12/01/onlyswitch/))
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system. ([HN](https://news.ycombinator.com/item?id=34828012))
 - [TelegramSwift macOS](https://github.com/overtake/TelegramSwift)
 - [Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall. ([Web](https://objective-see.com/products/lulu.html)) ([HN](https://news.ycombinator.com/item?id=25743546))
