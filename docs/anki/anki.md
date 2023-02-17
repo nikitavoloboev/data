@@ -92,3 +92,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Anki Beginner Tips (2023)](https://eitherway.io/posts/anki-beginner-tips/)
 - [Mnemosyne](https://github.com/mnemosyne-proj/mnemosyne) - Efficient learning with powerful digital flash-cards.
 - [Modern Anki card templates](https://github.com/b3nj5m1n/moderncardthemes)
+- [SmoothBrain](https://github.com/alexbowe/smoothbrain) - Anki plugin that fetches Readwise highlights and makes flashcards using OpenAI GPT.

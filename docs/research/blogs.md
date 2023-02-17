@@ -348,6 +348,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Chris Fallin](https://cfallin.org/)
 - [Tailscale](https://tailscale.com/blog/)
 - [CodeSandbox](https://codesandbox.io/blog)
+- [Kevin Schaul](https://www.kschaul.com/)
 
 ## Notes
 

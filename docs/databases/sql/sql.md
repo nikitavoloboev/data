@@ -252,3 +252,4 @@ title: SQL
 - [SQL Optimizer Labs](https://github.com/risinglightdb/sql-optimizer-labs) - Build a SQL optimizer in 1000 lines of Rust using egg.
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Building a SQL-like language to filter flows (2023)](https://vincent.bernat.ch/en/blog/2023-sql-like-language-filter)
+- [Type Constraints in 65 lines of SQL (2023)](https://supabase.com/blog/type-constraints-in-65-lines-of-sql) ([HN](https://news.ycombinator.com/item?id=34835063))

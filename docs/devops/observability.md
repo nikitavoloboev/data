@@ -90,3 +90,4 @@ title: Observability
 - [highlight.io](https://www.highlight.io/) - Open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. ([Code](https://github.com/highlight/highlight))
 - [Digma](https://github.com/digma-ai/digma) - Continuous Feedback pipeline, comprised of an analysis backend and an IDE plugin.
 - [Kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool.
+- [Rezolus](https://github.com/iopsystems/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.

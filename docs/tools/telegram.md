@@ -290,3 +290,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram: No-SIM Signup, Auto-Delete All Chats, Topics 2.0 and More (2022)](https://telegram.org/blog/ultimate-privacy-topics-2-0) ([HN](https://news.ycombinator.com/item?id=33891807)) ([Reddit](https://www.reddit.com/r/Telegram/comments/zee5qc/nosim_signup_global_autodelete_timer_topics_20/))
 - [TL-Schema Explorer](https://schema.horner.tj/#!/) - Search for Telegram API methods, constructors, and types. ([Code](https://github.com/tjhorner/schema.tl))
 - [Telegram Exporter](https://github.com/Azarattum/TelegramExporter) - Python script for exporting data from your telegram account.
+- [TgStorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram.

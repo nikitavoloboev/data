@@ -289,3 +289,4 @@ title: Bioinformatics
 - [BioDynaMo](https://github.com/BioDynaMo/biodynamo) - High-performance and modular, agent-based simulation platform.
 - [Systematic Survey of Molecular Pre-trained Models (Chemical Language Models)](https://github.com/junxia97/awesome-pretrain-on-molecules)
 - [TRILL](https://github.com/martinez-zacharya/TRILL) - Sandbox for Deep-Learning based Computational Protein Design.
+- [HTSlib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats.

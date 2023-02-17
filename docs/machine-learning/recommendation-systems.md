@@ -11,3 +11,4 @@ Use [Birdland](https://github.com/rlouf/birdland) as recommendation library base
 - [Pixie Rust](https://github.com/JD557/pixie-rust)
 - [Monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System.
 - [Gorse](https://github.com/gorse-io/gorse) - Recommender system service written in Go.
+- [The secret sauce of TikTok’s recommendations (2023)](https://www.shaped.ai/blog/the-secret-sauce-of-tik-toks-recommendations) ([HN](https://news.ycombinator.com/item?id=34836877))

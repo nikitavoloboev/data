@@ -633,6 +633,7 @@
 - [speculoos](https://github.com/oknozor/speculoos) - Fluent test assertions for Rust.
 - [Test generator](https://github.com/frehberg/test-generator) - Procedural macro attributes that generates multiple parametrized tests using one body with different resource input parameters.
 - [trycmd](https://github.com/assert-rs/trycmd) - Snapshot testing for a herd of CLI tests.
+- [lain](https://github.com/landaire/lain) - Structured fuzzing framework built in Rust.
 
 ## Error
 
@@ -2677,6 +2678,7 @@
 - [rustyrepl](https://github.com/slawlor/repl) - Rust Read-Evaluate-Print-Loop utility crate.
 - [ractor](https://github.com/slawlor/ractor) - Rust actor framework. ([Reddit](https://www.reddit.com/r/rust/comments/113dp70/ractor_not_just_another_actor_framework/)) ([HN](https://news.ycombinator.com/item?id=34813489))
 - [Native JSON](https://github.com/sweihub/native-json) - Powerful way of parsing JSON syntax into native Rust structs.
+- [async-rx](https://github.com/jplatte/async-rx) - Reactive programming in async Rust.
 
 ## Cargo Plugins
 

@@ -969,3 +969,4 @@ if *boolArgPtr != false {
 - [User or \*User - Do We Need Struct Pointers Everywhere? (2023)](https://preslav.me/2023/02/06/golang-do-we-need-struct-pointers-everywhere/) ([Reddit](https://www.reddit.com/r/golang/comments/10vc2ru/user_or_user_do_we_need_struct_pointers_everywhere/))
 - [Profile-guided optimization preview (2023)](https://go.dev/blog/pgo-preview)
 - [Go Programming Blueprints - Second Edition](https://www.packtpub.com/product/go-programming-blueprints-second-edition/9781786468949) ([Review](https://mtlynch.io/book-reports/go-programming-blueprints/))
+- [All your comparable types (2023)](https://go.dev/blog/comparable)

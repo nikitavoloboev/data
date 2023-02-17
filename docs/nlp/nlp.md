@@ -833,3 +833,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Promptable](https://github.com/cfortuner/promptable) - Library that enables you to build powerful AI applications with LLMs and Embeddings providers such as OpenAI, Hugging Face, Cohere and Anthropic.
 - [Lightning + Colossal-AI](https://github.com/Lightning-AI/lightning-colossalai) - Efficient Large-Scale Distributed Training with Colossal-AI and Lightning AI.
 - [MarioGPT: Open-Ended Text2Level Generation through Large Language Models (2023)](https://arxiv.org/abs/2302.05981) ([Code](https://github.com/shyamsn97/mario-gpt))
+- [LangChain.js](https://github.com/hwchase17/langchainjs) - Building applications with LLMs through composability.

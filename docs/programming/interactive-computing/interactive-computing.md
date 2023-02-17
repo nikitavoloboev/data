@@ -73,3 +73,5 @@
 - [Awesome Playgrounds](https://github.com/marcosnils/awesome-playgrounds)
 - [Estuary](https://github.com/dktr0/estuary) - Platform for collaboration and learning through live coding.
 - [Ask HN: Has anyone fully attempted Bret Victor's vision? (2023)](https://news.ycombinator.com/item?id=34485254)
+- [NodeScript](https://github.com/NodeScriptLang/core) - Visual programming language for the modern Web.
+- [Luna Park](https://luna-park.app/) - Advanced visual scripting editor for the web.

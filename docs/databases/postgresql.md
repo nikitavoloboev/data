@@ -664,3 +664,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Tips for a Healthier Postgres Database (2021)](https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year) ([HN](https://news.ycombinator.com/item?id=34734021))
 - [Listen to Database Changes with Postgres Triggers and Elixir (2023)](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 - [Postgres WAL Files and Sequence Numbers (2023)](https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers)
+- [Waiting for Postgres 16: Cumulative I/O statistics with pg_stat_io (2023)](https://pganalyze.com/blog/pg-stat-io) ([HN](https://news.ycombinator.com/item?id=34836683))

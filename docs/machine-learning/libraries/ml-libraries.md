@@ -477,3 +477,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Parallelformers](https://github.com/tunib-ai/parallelformers) - Efficient Model Parallelization Toolkit for Deployment.
 - [BenchML](https://github.com/capoe/benchml) - ML benchmarking and pipeling framework.
 - [MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's library for high performance machine learning primitives.
+- [Substra](https://github.com/Substra/substra) - Federated learning (FL) software. Enables the training and validation of machine learning models on distributed datasets.

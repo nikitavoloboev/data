@@ -137,3 +137,4 @@ title: Lean
 - [Classical Mechanics Lean](https://github.com/DragonSlayerXavier/Classical-Mechanics-Lean)
 - [Code samples for Lean 4](https://github.com/leanprover/lean4-samples)
 - [Megaparsec](https://github.com/yatima-inc/Megaparsec.lean) - Lean 4 port of Megaparsec.
+- [Lean course from Brown uni (2023)](https://github.com/brown-cs22/CS22-Lean-2023)

@@ -312,3 +312,4 @@ title: Spatial analysis
 - [Map polygon and feature extractor](https://github.com/nypl-spacetime/map-vectorizer)
 - [Parsing GeoJSON using Rust](https://github.com/urschrei/geojson_example)
 - [QGIS is the mapping software you didn't know you needed (2023)](https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/) ([HN](https://news.ycombinator.com/item?id=34742923))
+- [Replacing Mapbox with open source solutions (2023)](https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/) ([HN](https://news.ycombinator.com/item?id=34836700))

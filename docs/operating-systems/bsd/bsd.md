@@ -121,3 +121,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [A Decade of HardenedBSD (2023)](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
 - [I feel for the NetBSD community (2023)](https://rubenerd.com/i-feel-for-the-netbsd-community/) ([HN](https://news.ycombinator.com/item?id=34284926))
 - [LSF: Linux Subsystem for FreeBSD](https://github.com/AkihiroSuda/lsf)
+- [Nextcloud + OpenBSD = <3 (2023)](https://x61.sh/log/2023/02/20230217T112354-nextcloud_openbsd.html)

@@ -238,3 +238,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Hono Middleware](https://github.com/honojs/middleware) - Monorepo for third-party middleware of Hono.
 - [Cloudflare worker for GitHub's OAuth login flow](https://github.com/gr2m/cloudflare-worker-github-oauth-login)
 - [Cloudflare Worker template](https://github.com/3perf/cloudflare-worker-template)
+- [Generating Cloudflare workerd configs with capnproto-rust](https://github.com/KianNH/capnproto-rust-workerd-configs)

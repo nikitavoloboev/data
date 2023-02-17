@@ -1125,6 +1125,7 @@
 - [Interval Tree](https://github.com/alexbol99/flatten-interval-tree) - Interval binary search tree.
 - [u](https://github.com/ananthakumaran/u) - JavaScript library for encoding/decoding state (JavaScript object) in URL.
 - [signal](https://github.com/WebReflection/signal) - Extremely basic signals implementation.
+- [JSum](https://github.com/fraunhoferfokus/JSum) - Consistent checksum calculation of JSON objects.
 
 ## Links
 

@@ -255,3 +255,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Ask HN: Best practices for self-healing apps? (2023)](https://news.ycombinator.com/item?id=34706624)
 - [Enrolla](https://www.enrolla.io/) - Open source feature flags for B2Bs. ([Code](https://github.com/enrolla/enrolla)) ([HN](https://news.ycombinator.com/item?id=34692177))
 - [Keep](https://github.com/keephq/keep) - Manage your alerts by code, write better more actionable and accurate alerts.
+- [Don't deploy manually (2023)](https://www.youtube.com/watch?v=R2ImVl1skY8)

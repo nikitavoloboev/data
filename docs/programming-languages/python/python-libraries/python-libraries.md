@@ -186,6 +186,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with Rich.
 - [Rich CLI](https://github.com/Textualize/rich-cli) - Command line toolbox for fancy output in the terminal.
 - [click-params](https://github.com/click-contrib/click_params) - Bunch of click parameters to use.
+- [textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) - Easily add autocomplete dropdowns to your Textual apps.
 
 ## DB
 

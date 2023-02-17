@@ -294,3 +294,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Scalability is overrated (2023)](https://waseem.substack.com/p/scalability-is-overrated) ([HN](https://news.ycombinator.com/item?id=34656776))
 - [Local-First Web Development](https://localfirstweb.dev/) ([Code](https://github.com/localfirstweb/localfirstweb.dev))
 - [Ask HN: What is the most pleasant, uncomplicated full stack to start with? (2023)](https://news.ycombinator.com/item?id=34799072)
+- [DiagramAsText.dev](https://diagramastext.dev/) - Generate diagram based on textual description. ([Code](https://github.com/kislerdm/diagramastext))
