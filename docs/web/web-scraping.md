@@ -245,3 +245,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [goq](https://github.com/andrewstuart/goq) - Declarative struct-tag-based HTML unmarshaling or scraping package for Go built on top of the goquery library.
 - [Facepager](https://github.com/strohne/Facepager) - Fetching public available data from YouTube, Twitter and other websites on the basis of APIs and web scraping.
 - [MrScraper](https://mrscraper.com/) - Visual web-scraping tool. ([HN](https://news.ycombinator.com/item?id=34736691))
+- [Fitter](https://github.com/PxyUp/fitter) - Universal scraper for Websites and APIs.

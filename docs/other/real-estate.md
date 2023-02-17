@@ -33,3 +33,4 @@
 - [Issues with supply of housing and the demand for housing (2022)](https://www.reddit.com/r/Economics/comments/tgb049/homes_earned_more_for_owners_than_their_jobs_last/)
 - [Ask HN: Anyone else feels the commoditization of real estate is unethical? (2022)](https://news.ycombinator.com/item?id=32448825)
 - [Realiste.io](https://realiste.io/eng) - Online broker for real estate investing.
+- [Tax advantages for investing in real estate in US (2023)](https://twitter.com/ankurnagpal/status/1626244622082101248)
