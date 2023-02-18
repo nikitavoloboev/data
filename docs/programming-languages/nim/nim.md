@@ -57,3 +57,4 @@ title: Nim
 - [Nim version 2.0 release](https://nim-lang.org/blog/2022/12/21/version-20-rc.html) ([HN](https://news.ycombinator.com/item?id=34086739))
 - [Binding Nim to C++ std::list (2022)](https://scripter.co/binding-nim-to-c-plus-plus-std-list/)
 - [Offensive Nim](https://github.com/byt3bl33d3r/OffensiveNim) - Experiments in weaponizing Nim. ([HN](https://news.ycombinator.com/item?id=34210789))
+- [Returning to Nim from Python and Rust](https://forum.nim-lang.org/t/9906) ([HN](https://news.ycombinator.com/item?id=34847941))

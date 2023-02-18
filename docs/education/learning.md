@@ -278,3 +278,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: What will be the most valuable technology skills in future? (2023)](https://news.ycombinator.com/item?id=34644966)
 - [Ask HN: Share your favorite YouTube channels focused on mastering a skill/craft (2023)](https://news.ycombinator.com/item?id=34666777)
 - [Ask HN: What is your system for learning new things? (2023)](https://news.ycombinator.com/item?id=34771415)
+- [Helium](https://github.com/thoughtindustries/helium) - Headless, open-source LMS. ([HN](https://news.ycombinator.com/item?id=34814579))

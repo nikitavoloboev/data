@@ -270,3 +270,4 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [Diagram](https://diagram.com/) - Be more creative with generative design tools.
 - [Introducing Genius (2023)](https://blog.diagram.com/p/introducing-genius)
 - [Galileo AI](https://www.usegalileo.ai/) - Copilot for interface design.
+- [Noya](https://www.noya.io/home) - New kind of design tool. ([HN](https://news.ycombinator.com/item?id=34848583))

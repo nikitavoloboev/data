@@ -359,6 +359,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars.
 - [React Data Grid](https://github.com/inovua/reactdatagrid)
 - [json-editor](https://github.com/sagold/json-editor) - Simple beautiful API for your custom form generator powered by json-schema.
+- [HouseForm](https://github.com/crutchcorn/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 
 ## Links
 

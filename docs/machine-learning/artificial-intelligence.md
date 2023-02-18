@@ -193,3 +193,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [Awesome Code AI](https://github.com/sourcegraph/awesome-code-ai)
 - [AI Notes](https://github.com/sw-yx/ai-notes)
 - [How should AI systems behave, and who should decide? (2023)](https://openai.com/blog/how-should-ai-systems-behave/)
+- [What recent AI products are you now using on a regular basis? (2023)](https://twitter.com/rauchg/status/1626659801521590272) ([HN](https://news.ycombinator.com/item?id=34819527))

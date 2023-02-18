@@ -276,3 +276,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcast Search](https://podsearch.david-smith.org/) - Whisper Generated Transcripts Shows.
 - [PodText](https://podtext.ai/) - Search anything said on a podcast, highlight text to play. ([HN](https://news.ycombinator.com/item?id=34727695))
 - [Spotify Transcripts](https://github.com/johan-akerman/SpotifyTranscripts) - Combines Google Speech Recognition and the Spotify API to transcribe Spotify podcasts.
+- [Export your starred episodes in Overcast (2023)](https://byparker.com/blog/2023/exporting-overcast-favorited-episodes/)

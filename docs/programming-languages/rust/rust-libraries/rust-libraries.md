@@ -2685,6 +2685,7 @@
 - [ferrilab](https://github.com/ferrilab/ferrilab) - Redefining the Rust fundamental data model.
 - [Actix Net](https://github.com/actix/actix-net) - Collection of lower-level libraries for composable network services.
 - [process-memory](https://github.com/Tommoa/rs-process-memory) - Allows you to read/write into the memory of other processes.
+- [geo-valid](https://github.com/jtmiclat/geo-valid) - Geometry validation for the rust geo/geo-types library.
 
 ## Cargo Plugins
 

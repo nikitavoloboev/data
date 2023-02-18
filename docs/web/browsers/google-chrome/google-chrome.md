@@ -113,3 +113,4 @@ And here are Chrome extensions I use:
 - [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium based browser built to run in a terminal. ([HN](https://news.ycombinator.com/item?id=34547259))
 - [Inspo](https://github.com/vpontis/inspo) - Extension helps you curate websites for sources of design inspiration.
 - [TracerBench: Automated Chrome Tracing For Benchmarking](https://github.com/TracerBench/tracerbench)
+- [Sorting 400+ tabs in 60 seconds with JS, Rust & GPT-3 (2023)](https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/) ([HN](https://news.ycombinator.com/item?id=34826884))

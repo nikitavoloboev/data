@@ -13,6 +13,7 @@ I mostly eat fried eggs with some bread + feta cheese, tomatoes and avocados.
 - [Fish cakes](https://www.bbcgoodfood.com/recipes/ultimate-fish-cakes)
 - [Carrot Cutlets](https://www.bawarchi.com/recipe/carrot-cutlet-oetuBkeechece.html)
 - [Salsa sauce](https://www.reddit.com/r/SalsaSnobs/comments/zqadld/the_best_batch_ive_made_recently/)
+- [Syrniki](https://www.babaganosh.org/syrniki-russian-cheese-pancakes/)
 
 ## Smoothies
 

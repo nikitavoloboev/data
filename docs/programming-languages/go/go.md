@@ -971,3 +971,4 @@ if *boolArgPtr != false {
 - [Go Programming Blueprints - Second Edition](https://www.packtpub.com/product/go-programming-blueprints-second-edition/9781786468949) ([Review](https://mtlynch.io/book-reports/go-programming-blueprints/))
 - [All your comparable types (2023)](https://go.dev/blog/comparable)
 - [What was your greatest struggle when learning Go? (2023)](https://www.reddit.com/r/golang/comments/115fnvo/what_was_your_greatest_struggle_when_learning_go/?sort=top)
+- [Profile-guided optimization (2023)](https://go.dev/doc/pgo)

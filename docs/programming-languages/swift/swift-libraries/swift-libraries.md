@@ -1436,6 +1436,7 @@
 - [swift-clocks](https://github.com/pointfreeco/swift-clocks) - Few clocks that make working with Swift concurrency more testable and more versatile.
 - [TreeArray](https://github.com/AlexRoar/TreeArray) - Swift tree-based array implementation. Efficient for random insertions/deletions.
 - [TreeSitterLanguages](https://github.com/simonbs/TreeSitterLanguages) - Languages for Tree-sitter wrapped in Swift packages.
+- [DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol.
 
 ## Other (not lib)
 

@@ -148,3 +148,4 @@ title: Electrical engineering
 - [Can an electric circuit do recursion?](https://electronics.stackexchange.com/questions/158897/can-an-electric-circuit-do-recursion/158915#158915) ([HN](https://news.ycombinator.com/item?id=34564279))
 - [Experimenting with Buses and Three-State Logic (2023)](https://www.youtube.com/watch?v=_3cNcmli6xQ)
 - [KiCad EDA](https://www.kicad.org/) - Schematic Capture & PCB Design Software. ([7.0](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)) ([HN](https://news.ycombinator.com/item?id=34769574))
+- [Setting up an electronics workshop (2023)](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop) ([HN](https://news.ycombinator.com/item?id=34851387))

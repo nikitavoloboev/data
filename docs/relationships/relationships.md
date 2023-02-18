@@ -179,6 +179,7 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Hedonistic, nurturing (to me personally), wise, direct, cuts through the bullshit, has sporadic uncontrollable fits of laughter, can find exactly what i need by a vague description, open-minded, deeply grounded and secure.](https://twitter.com/dan_abramov/status/1601415441528020992)
 - [Полиамория тема для ленивых, потому что нет энергии на ложь, нет времени прикрывать измену. Насколько надо иметь простую работу, чтобы устраивать сцены ревности! Ps полиаморам не обязательно иметь даже одного партнера, это про принципы, про честность и принятие свободы любимого.](https://twitter.com/mariagovori/status/1613519163485560832)
 - [Каждый раз, когда понимаю, что меня канаебит от ревности, вспоминаю фразу: Суть любви не в том, чтобы ограничить человека, а в том, чтобы дать ему полную свободу и наслаждаться тем, что каждый день он выбирает тебя.](https://twitter.com/bardulya/status/1625767752433541120)
+- [С возрастом пришла к тому, что нет смысла «добиваться» вообще никого: желание строить что-то романтическое, возможно, и может появиться не сразу, но чисто человеческий интерес либо есть, либо нет и вряд ли появится. И зачем эти добивания тогда?](https://twitter.com/bardulya/status/1627040491375321089)
 
 ## Links
 

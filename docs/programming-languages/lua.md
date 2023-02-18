@@ -156,3 +156,4 @@ title: Lua
 - [Lua Programming Gems](http://www.lua.org/gems/) ([PDF](http://www.lua.org/gems/lpg.pdf))
 - [Using Lua with C++ (2023)](https://edw.is/using-lua-with-cpp/) ([HN](https://news.ycombinator.com/item?id=34782491))
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Moonscript dialect compiles to Lua. ([Docs](https://yuescript.org/doc/))
+- [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.

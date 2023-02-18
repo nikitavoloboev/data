@@ -10,7 +10,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 
 More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/). Love [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)'s writing a lot.
 
-I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more technical literature. But even fictional too if you phrase your questions well. 
+I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more technical literature. But even fictional too if you phrase your questions well.
 
 ### 2019
 
@@ -365,6 +365,7 @@ I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more t
 - [Ask HN: Books that teach programming by building a series of small projects? (2023)](https://news.ycombinator.com/item?id=34412069)
 - [Great Books Reading List and Curriculum | St. John's College](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list)
 - [Suggest me your all-time favorite book (2023)](https://www.reddit.com/r/suggestmeabook/comments/111adba/suggest_me_your_alltime_favorite_book/)
+- [My Favorite Books of 2022](https://benjamincongdon.me/blog/2022/12/27/My-Favorite-Books-of-2022/)
 
 ## Interesting Prose Books
 

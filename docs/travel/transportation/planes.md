@@ -18,3 +18,4 @@ Supersonic planes like ones from [Hermeus](https://www.hermeus.com/) are excitin
 - [Lilium Jet](https://lilium.com/jet) - First electric vertical take-off and landing jet. ([HN](https://news.ycombinator.com/item?id=33044753))
 - [Starlink Aviation](https://www.starlink.com/aviation) ([HN](https://news.ycombinator.com/item?id=33256378))
 - [Midnight - Fully electric aircraft](https://twitter.com/adcock_brett/status/1593254813608730626)
+- [Duffel](https://duffel.com/) - API to sell flights online. ([HN](https://news.ycombinator.com/item?id=34818317))
