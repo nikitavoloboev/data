@@ -54,3 +54,4 @@ Concurrency is the composition of independently executing computations. [Real-Ti
 - [Higher-Order Leak and Deadlock Free Locks (2022)](https://julesjacobs.com/pdf/locks.pdf)
 - [Concurrency Deep Dive: Code Strategies for High Traffic Applications (2022)](https://nathanpeck.com/concurrency-deep-dive-strategies-for-high-traffic-applications/)
 - [Structured Concurrency Definition (2019)](https://gavinhoward.com/2019/12/structured-concurrency-definition/)
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It? (2022)](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)

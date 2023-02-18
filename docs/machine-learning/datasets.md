@@ -238,3 +238,4 @@
 - [A Critical Field Guide for Working with Machine Learning Datasets (2023)](https://knowingmachines.org/critical-field-guide)
 - [Oxen](https://github.com/Oxen-AI/oxen-release) - Version your machine learning datasets like you version your code.
 - [This Not That](https://github.com/TutteInstitute/thisnotthat) - Visual labeling system implemented in Jupyter widgets.
+- [OpenWebText](https://github.com/jcpeterson/openwebtext) - Open clone of OpenAI's unreleased WebText dataset scraper.

@@ -175,3 +175,5 @@
 - [Women, what things made your best sex partner your best sex partner? (2023)](https://www.reddit.com/r/sex/comments/10ug9vi/women_what_things_made_your_best_sex_partner_your/)
 - [Aella: Sex Work, OnlyFans, Porn, Escorting, Dating, and Human Sexuality (2023)](https://www.youtube.com/watch?v=cFSrxSBrgSc)
 - [Declining sperm count: Much more than you wanted to know (2023)](https://astralcodexten.substack.com/p/declining-sperm-count-much-more-than) ([HN](https://news.ycombinator.com/item?id=34830936))
+- [Oh Joy Sex Toy](https://www.ohjoysextoy.com/) - Sex Education and Toy Review Comic.
+- [Non hormonal birth control options (2023)](https://www.reddit.com/r/sex/comments/115cu9w/bf_doesnt_like_condoms_and_i_hate_birth_control/)

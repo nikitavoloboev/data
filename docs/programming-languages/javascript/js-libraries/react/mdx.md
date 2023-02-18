@@ -50,3 +50,4 @@ title: MDX
 - [Nextjs Image with mdx-bundler (2022)](https://www.skovy.dev/blog/nextjs-image-with-mdx-bundler?seed=8je45a)
 - [MDX-Rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust.
 - [Expo MDX](https://github.com/EvanBacon/expo-mdx) - MDX support for React Native projects.
+- [semantic-search](https://github.com/beerose/semantic-search) - OpenAI-powered CLI to build a semantic search index from your MDX files.

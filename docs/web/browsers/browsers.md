@@ -101,7 +101,7 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Brave Core](https://github.com/brave/brave-core) - Set of changes, APIs, and scripts used for customizing Chromium to make Brave.
 - [SVG Screenshots](https://github.com/felixfbecker/svg-screenshots) - Browser extension to take scalable, semantic, accessible screenshots of websites in SVG format.
 - [uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results.
-- [TabFS](https://omar.website/tabfs/) - Mount your Browser Tabs as a Filesystem. ([HN](https://news.ycombinator.com/item?id=25600338)) ([Code](https://github.com/osnr/TabFS))
+- [TabFS](https://omar.website/tabfs/) - Mount your Browser Tabs as a Filesystem. ([HN](https://news.ycombinator.com/item?id=25600338)) ([Code](https://github.com/osnr/TabFS)) ([HN](https://news.ycombinator.com/item?id=34847611))
 - [browserless](https://github.com/microlinkhq/browserless) - Browser driver on top of puppeteer, ready for production scenarios. ([Docs](https://browserless.js.org/#/))
 - [Let's build a browser engine (2014)](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [Robinson](https://github.com/mbrubeck/robinson) - Toy web rendering engine written in Rust.

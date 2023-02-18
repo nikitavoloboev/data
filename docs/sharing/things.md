@@ -41,3 +41,4 @@
 - [Ask HN: What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)
 - [Ask HN: What $500-2500 product improved your 2022](https://news.ycombinator.com/item?id=34279146)
 - [Ask HN: What are some of your “buy it for life” purchases? (2023)](https://news.ycombinator.com/item?id=34378254)
+- [What is a product that once you found the luxury/expensive version you never went back? (2023)](https://www.reddit.com/r/AskWomen/comments/115gdh1/what_is_a_product_that_once_you_found_the/)

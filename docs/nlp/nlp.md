@@ -835,3 +835,5 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [MarioGPT: Open-Ended Text2Level Generation through Large Language Models (2023)](https://arxiv.org/abs/2302.05981) ([Code](https://github.com/shyamsn97/mario-gpt))
 - [LangChain.js](https://github.com/hwchase17/langchainjs) - Building applications with LLMs through composability.
 - [Top resources on prompt engineering (2023)](https://twitter.com/omarsar0/status/1626632841634119682)
+- [What are Transformers & Named Entity Recognition (2023)](https://www.youtube.com/watch?v=YwJ5b-HlqQU)
+- [Text is All You Need (2023)](https://studio.ribbonfarm.com/p/text-is-all-you-need) ([HN](https://news.ycombinator.com/item?id=34847912))

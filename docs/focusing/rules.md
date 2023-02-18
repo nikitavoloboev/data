@@ -203,6 +203,7 @@
 - Always be practical. Explore new technologies in isolation first and adapt when understood.
 - Don't optimize prematurely.
 - [Use known technologies to make MVPs of products. So you don't have to write a lot of non product related code from scratch.](https://twitter.com/nikitavoloboev/status/1626961022668922883)
+- [Use languages/software with fast iteration before you find product market fit](https://www.reddit.com/r/programming/comments/1158q56/i_love_building_a_startup_in_rust_i_wouldnt_pick/).
 
 ## OSS
 

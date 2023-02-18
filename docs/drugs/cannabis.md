@@ -64,6 +64,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [Grow Weed Easy](https://www.growweedeasy.com/) - Learn How to Grow Cannabis with Simple Tutorials.
 - [Growing Elite Marijuana](https://www.amazon.com/Growing-Elite-Marijuana-Ryan-Riley/dp/1495812677)
 - [Beginner Guide to grow cannabis](https://www.reddit.com/r/microgrowery/wiki/beginguide/)
+- [Favorite strains from your favorite Amsterdam coffee shop?](https://www.reddit.com/r/AmsterdamEnts/comments/1132g3q/if_you_could_choose_your_favourite_strains_from/)
 
 ## Images
 

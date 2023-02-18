@@ -163,3 +163,6 @@ In perfect world, it should not be this easy to buy dead animal's meat in superm
 - [Particular Cat](https://particular.cat/) - Thoughtful things for your cat & home. ([IG](https://www.instagram.com/particular.cat/))
 - [How to Befriend Crows](https://fediscience.org/@ct_bergstrom/109571409346371116) ([HN](https://news.ycombinator.com/item?id=34139048))
 - [The Insane Biology of: The Dragonfly](https://www.youtube.com/watch?v=iJi61NAIsjs) ([HN](https://news.ycombinator.com/item?id=34213235))
+- [Tiki Pets](https://tikipets.com/) - Healthy cat/dog food. ([Review](https://www.youtube.com/watch?v=eVp5kiupaMY))
+- [Top 10 Best Wet Cat Foods (We Tested Them All) (2022)](https://www.youtube.com/watch?v=dDJLsqWn9Lc)
+- [Ranking Your Dog's FOOD. Nutritionist's Dog Food Guide (2022)](https://www.youtube.com/watch?v=lfhCL4eA8c0)

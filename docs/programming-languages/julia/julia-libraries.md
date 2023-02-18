@@ -248,6 +248,7 @@
 - [NaNMath](https://github.com/JuliaMath/NaNMath.jl) - Julia math built-ins which return NaN and accumulator functions which ignore NaN.
 - [GenericArpack.jl](https://github.com/dgleich/GenericArpack.jl) - Pure Julia translation of the Arpack library for eigenvalues and eigenvectors but for any numeric types.
 - [QRupdate](https://github.com/mpf/QRupdate.jl) - Column and row updates to "Q-less" QR decomposition, including stable least-squares solves.
+- [SummationByPartsOperators.jl](https://github.com/ranocha/SummationByPartsOperators.jl) - Provably stable discretization techniques with mimetic properties.
 
 ## NLP
 

@@ -83,6 +83,7 @@
 - [TUI-Input](https://github.com/sayanarijit/tui-input) - TUI input library supporting multiple backends and tui-rs.
 - [CLI Batteries](https://github.com/recmo/cli-batteries) - Batteries included command line interfaces.
 - [kdam](https://github.com/clitic/kdam) - Console progress bar library for rust.
+- [tracing-indicatif](https://github.com/emersonford/tracing-indicatif) - Tracing layer that automatically creates and manages progress bars for active spans.
 
 ## Web
 
@@ -2679,6 +2680,8 @@
 - [ractor](https://github.com/slawlor/ractor) - Rust actor framework. ([Reddit](https://www.reddit.com/r/rust/comments/113dp70/ractor_not_just_another_actor_framework/)) ([HN](https://news.ycombinator.com/item?id=34813489))
 - [Native JSON](https://github.com/sweihub/native-json) - Powerful way of parsing JSON syntax into native Rust structs.
 - [async-rx](https://github.com/jplatte/async-rx) - Reactive programming in async Rust.
+- [rust-shed](https://github.com/facebookexperimental/rust-shed) - Rust crates common between other Facebook open source projects (like Mononoke or Eden).
+- [retry](https://github.com/jimmycuadra/retry) - Retry some code until its return value satisfies a condition.
 
 ## Cargo Plugins
 

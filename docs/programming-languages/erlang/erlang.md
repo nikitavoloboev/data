@@ -182,3 +182,4 @@ title: Erlang
 - [PGMP](https://github.com/shortishly/pgmp) - Erlang/OTP 25 PostgreSQL client.
 - [Erlang's not about lightweight processes and message passing (2023)](https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md) ([HN](https://news.ycombinator.com/item?id=34545061)) ([Lobsters](https://lobste.rs/s/7dguth/erlang_s_not_about_lightweight_processes))
 - [OPC UA](https://github.com/stritzinger/opcua) - Native Erlang implementation of the OPCUA Binary Protocol.
+- [From Erlang to Lunatic (2023)](https://mattpo.pe/posts/from-erlang-to-lunatic/)
