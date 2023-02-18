@@ -55,3 +55,4 @@ I try learn new habits proactively by building systems and thought processes tha
 - [Ask HN: How to do that you need to do but not motivated at all? (2022)](https://news.ycombinator.com/item?id=34000076)
 - [Ask HN: Habits that have improved your life in many dimensions (2023)](https://news.ycombinator.com/item?id=34689709)
 - [David Lynch | Routine & Creativity](https://www.youtube.com/watch?v=0rqai5OU5ZU)
+- [Why 'Atomic Habits' may not be working for you (2023)](https://www.krishnabharadwaj.info/why-atomic-habits-may-not-be-working-for-you/) ([HN](https://news.ycombinator.com/item?id=34839197))

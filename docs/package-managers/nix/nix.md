@@ -505,4 +505,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Flox](https://github.com/flox/flox) - Multi-platform environment manager built on Nix.
 - [nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - Nix and nix-shell wrapper for shells other than bash.
 - [Flake Templates](https://github.com/JonathanLorimer/templates) - Opinionated collection of flakes starter projects for different languages.
-- [Tidying up your $HOME with Nix (2023)](https://juliu.is/tidying-your-home-with-nix/)
+- [Tidying up your $HOME with Nix (2023)](https://juliu.is/tidying-your-home-with-nix/) ([Lobsters](https://lobste.rs/s/jbjytb/tidying_up_your_home_with_nix))

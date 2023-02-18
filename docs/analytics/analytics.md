@@ -116,3 +116,4 @@ I try to setup proper [observability](../devops/observability.md) together with 
 - [The more metrics you track, the less you know (2022)](https://breakingpoint.substack.com/p/you-have-too-many-metrics) ([HN](https://news.ycombinator.com/item?id=34012793))
 - [Tinybird Web Analytics Starter Kit](https://github.com/tinybirdco/web-analytics-starter-kit)
 - [The design of transparent telemetry (2023)](https://research.swtch.com/telemetry-design) ([HN](https://news.ycombinator.com/item?id=34750782))
+- [Analytics: Hacker News v.s. a tweet from Elon Musk (2023)](https://simonwillison.net/2023/Feb/17/analytics/) ([HN](https://news.ycombinator.com/item?id=34841382))

@@ -520,3 +520,4 @@
 - [Prefab](https://github.com/google/prefab) - Tool for generating build system integrations for prebuilt C/C++ libraries.
 - [xsimd](https://github.com/xtensor-stack/xsimd) - C++ wrappers for SIMD intrinsics.
 - [Libnyquist](https://github.com/ddiakopoulos/libnyquist) - Small C++11 library for reading sampled audio data from disk or memory.
+- [Nano RPC](https://github.com/tdv/nanorpc) - Lightweight RPC in pure C++ 17.

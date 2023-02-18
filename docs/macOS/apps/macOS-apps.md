@@ -339,3 +339,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [Dockhunt](https://dockhunt.vercel.app/) - Share your dock and see who else has docked the apps you use. ([Code](https://github.com/Basedash/dockhunt))
 - [Ask HN: Resources to Learn macOS Development? (2023)](https://news.ycombinator.com/item?id=34680345)
 - [Reducing Tailscale’s binary size on macOS (2023)](https://tailscale.com/blog/macos-binary-size/) ([HN](https://news.ycombinator.com/item?id=34833387))
+- [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable) ([HN](https://news.ycombinator.com/item?id=34841742))
