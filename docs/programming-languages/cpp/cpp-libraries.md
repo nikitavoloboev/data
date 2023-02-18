@@ -490,6 +490,7 @@
 - [emhash](https://github.com/ktprime/emhash) - Very fast and memory efficient c++ flat hash map/set.
 - [sparse-map](https://github.com/Tessil/sparse-map) - C++ implementation of a memory efficient hash map and hash set.
 - [RenderGraph](https://github.com/DragonJoker/RenderGraph) - Render graph management library.
+- [kuhllib](https://github.com/dietmarkuehl/kuhllib) - Experimental standard C++ library.
 
 ## Links
 

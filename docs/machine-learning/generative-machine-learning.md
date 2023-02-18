@@ -330,3 +330,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation (2023)](https://multidiffusion.github.io/) ([Code](https://github.com/omerbt/MultiDiffusion))
 - [Diffusion WebUI Colab](https://github.com/acheong08/Diffusion-ColabUI) - Choose your diffusion models and spin up a WebUI on Colab in one click.
 - [Universal Guidance for Diffusion Models (2023)](https://arxiv.org/abs/2302.07121) ([Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion))
+- [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI. ([Code](https://github.com/replicate/scribble-diffusion))

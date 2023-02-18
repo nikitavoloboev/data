@@ -12,6 +12,8 @@ I try to minimize amount of Electron apps I run on my mac as I find them wastefu
 
 I also use [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) to build certain native windows when tauri/web stack is not enough.
 
+[osx-sign](https://github.com/electron/osx-sign) is nice for code signing the app.
+
 ## OSS apps
 
 - [Actual](https://github.com/actualbudget/actual) - Budgeting app. Local first architecture.

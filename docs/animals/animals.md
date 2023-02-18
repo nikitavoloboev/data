@@ -8,6 +8,7 @@ In perfect world, it should not be this easy to buy dead animal's meat in superm
 
 ## Lovely animals
 
+- [Amur leopard](https://twitter.com/Rainmaker1973/status/1626940933810913281)
 - [Indian giant squirrel](https://twitter.com/obscure_otd/status/1520773905946136576)
 - [Hummingbirds](https://en.wikipedia.org/wiki/Hummingbird)
 - [Dogs](https://en.wikipedia.org/wiki/Dog)

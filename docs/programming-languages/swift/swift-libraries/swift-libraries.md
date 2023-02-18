@@ -732,6 +732,7 @@
 - [CBORCoding](https://github.com/SomeRandomiOSDev/CBORCoding) - Lightweight framework containing a coder pair for encoding and decoding Codable conforming types to and from CBOR document format.
 - [SwiftECC](https://github.com/leif-ibsen/SwiftECC) - Swift Elliptic Curve Cryptography (ECIES, ECDSA and ECDH).
 - [Histogram](https://github.com/ordo-one/package-histogram) - Swift port of HdrHistogram.
+- [SRP](https://github.com/Bouke/SRP) - Secure Remote Password is a authentication protocol to prove your identity to another party, using a password, but without ever revealing that password to other parties.
 
 ## WebSocket
 

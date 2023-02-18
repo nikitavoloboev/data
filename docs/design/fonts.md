@@ -8,6 +8,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 [Glyphs app](https://glyphsapp.com/) is [great for designing fonts](https://twitter.com/joeltalksdesign/status/1531296706792415234).
 
+[Type Design Resources](https://typedesignresources.com/) are great.
+
 ## Interesting fonts
 
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
@@ -461,3 +463,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts with TrueType or CFF outlines.
 - [Pentiment | Lettermatic (2022)](https://lettermatic.com/custom/pentiment)
 - [Google Fonts project template](https://github.com/googlefonts/googlefonts-project-template) - Repository architecture example for a typeface design project.
+- [Type Design Resources](https://typedesignresources.com/)
