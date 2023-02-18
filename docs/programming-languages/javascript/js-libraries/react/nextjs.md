@@ -8,7 +8,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 [Next-Intl](https://github.com/amannn/next-intl) is nice for internalization. [Next Auth](https://next-auth.js.org/) is great for auth.
 
-[Create T3 app](https://github.com/t3-oss/create-t3-app) or better [Clerk T3](https://github.com/clerkinc/t3-turbo-and-clerk) are nice starters.
+[Create T3 app](https://github.com/t3-oss/create-t3-app) or better [Complete T3](https://github.com/juliusmarminge/t3-complete) with maybe [Clerk](https://github.com/clerkinc/t3-turbo-and-clerk) for auth are nice starters.
 
 ## Example sites
 

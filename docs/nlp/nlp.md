@@ -834,3 +834,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Lightning + Colossal-AI](https://github.com/Lightning-AI/lightning-colossalai) - Efficient Large-Scale Distributed Training with Colossal-AI and Lightning AI.
 - [MarioGPT: Open-Ended Text2Level Generation through Large Language Models (2023)](https://arxiv.org/abs/2302.05981) ([Code](https://github.com/shyamsn97/mario-gpt))
 - [LangChain.js](https://github.com/hwchase17/langchainjs) - Building applications with LLMs through composability.
+- [Top resources on prompt engineering (2023)](https://twitter.com/omarsar0/status/1626632841634119682)

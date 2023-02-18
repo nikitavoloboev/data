@@ -253,3 +253,4 @@ title: Genomics
 - [HAT](https://github.com/TNTurnerLab/HAT) - Tools for calling de novo variants from whole-genome sequencing data.
 - [The ODIN](https://www.the-odin.com/) - DIY genetic engineering. ([HN](https://news.ycombinator.com/item?id=34771263))
 - [scDrug](https://github.com/ailabstw/scDrug) - From scRNA-seq to Drug Repositioning.
+- [First UK child to receive gene therapy for fatal genetic disorder is now healthy (2023)](https://news.ycombinator.com/item?id=34839528)

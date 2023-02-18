@@ -261,3 +261,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Dessins géométriques et artistiques avec votre micro-ordinateur programs](https://github.com/v3ga/dessins_geometriques_et_artistiques)
 - [Particle Simulator](https://lisyarus.itch.io/particle-simulator) ([Tweet](https://twitter.com/lisyarus/status/1611053550846545939))
 - [Ssam](https://github.com/cdaein/ssam) - Creative coding wrapper and helper.
+- [Daily Sketch 2](https://yuanchuan.dev/daily-sketch-2)

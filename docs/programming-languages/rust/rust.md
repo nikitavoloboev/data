@@ -1051,3 +1051,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Why is building a UI in Rust so hard? (2023)](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard) ([Lobsters](https://lobste.rs/s/coy6gt/why_is_building_ui_rust_so_hard))
 - [LifetimeKata](https://tfpk.github.io/lifetimekata/index.html) - Set of exercises to improve your understanding of lifetimes in Rust. ([Code](https://github.com/tfpk/lifetimekata/))
 - [Smoke-testing Rust HTTP clients (2020)](https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6)
+- [Aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time.

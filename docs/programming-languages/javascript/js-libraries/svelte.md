@@ -352,3 +352,4 @@ title: Svelte
 - [Rich Harris Teaches ThePrimeagen SvelteKit (2023)](https://www.youtube.com/watch?v=RJTepwXirk8)
 - [Svelte Radial Menu](https://github.com/TGlide/svelte-radial-menu)
 - [Svelte Carousel](https://github.com/vadimkorr/svelte-carousel)
+- [SvelteKit Authentication and Authorization Example](https://github.com/nstuyvesant/sveltekit-auth-example)

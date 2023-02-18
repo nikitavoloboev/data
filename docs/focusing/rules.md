@@ -202,6 +202,7 @@
 - Enforce one formatting style for code with automatic formatter.
 - Always be practical. Explore new technologies in isolation first and adapt when understood.
 - Don't optimize prematurely.
+- [Use known technologies to make MVPs of products. So you don't have to write a lot of non product related code from scratch.](https://twitter.com/nikitavoloboev/status/1626961022668922883)
 
 ## OSS
 

@@ -232,3 +232,4 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Building Better UI Designs With Layout Grids (2017)](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
 - [Explore Wikipedia's New Look](https://wikimediafoundation.org/wikipedia-desktop/) ([HN](https://news.ycombinator.com/item?id=34429175))
 - [Ask HN: Why are toggle switches replacing checkboxes? Isn't on/off less obvious? (2023)](https://news.ycombinator.com/item?id=34436606)
+- [When you hear "software made with care," what products come to mind? (2023)](https://twitter.com/Gavmn/status/1626734312984043520)
