@@ -570,3 +570,4 @@ I want to:
 - [docstore](https://github.com/alexwlchan/docstore) - Tool I wrote to help me manage my scanned documents and reference files.
 - [Bolik Timeline](https://github.com/boliktech/bolik) - Local-first software for keeping notes and files. ([Web](https://bolik.tech/))
 - [GPT for second brains (2023)](https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/) ([HN](https://news.ycombinator.com/item?id=34681820))
+- [Grug Notes](https://grugnotes.com/) - Tool for text: simple, fast, self-organizing notes. ([HN](https://news.ycombinator.com/item?id=34843063))
