@@ -837,3 +837,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Top resources on prompt engineering (2023)](https://twitter.com/omarsar0/status/1626632841634119682)
 - [What are Transformers & Named Entity Recognition (2023)](https://www.youtube.com/watch?v=YwJ5b-HlqQU)
 - [Text is All You Need (2023)](https://studio.ribbonfarm.com/p/text-is-all-you-need) ([HN](https://news.ycombinator.com/item?id=34847912))
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)

@@ -138,3 +138,4 @@
 - [Buck2](https://github.com/facebookincubator/buck2) - Build system, successor to Buck.
 - [How I learned to love build systems (2021)](https://www.youtube.com/watch?v=7_DExGdUw7w)
 - [Web Build Tools Compare](https://github.com/hardfist/bundler-compare)
+- [Turbo Racer](https://github.com/brunojppb/turbo-racer) - High-performance distributed remote cache for Turborepo.

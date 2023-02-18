@@ -158,3 +158,4 @@ title: Zero knowledge proofs
 - [Spartan-ecdsa](https://github.com/personaelabs/spartan-ecdsa) - Fastest open-source method to verify ECDSA (secp256k1) signatures in zero-knowledge.
 - [LambdaWorks](https://github.com/lambdaclass/lambdaworks) - Library for kids who want to learn how to do SNARKs and learn other cryptographic stuff too.
 - [Kakarot](https://github.com/sayajin-labs/kakarot-ssj) - Kakarot ZK-EVM in Cairo 1.0.
+- [ark-groth16](https://github.com/arkworks-rs/groth16) - Rust implementation of the Groth16 zkSNARK.

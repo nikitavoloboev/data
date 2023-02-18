@@ -652,3 +652,4 @@ title: GitHub actions
 - [Deploying Edge Functions with GitHub Actions (2022)](https://www.youtube.com/watch?v=l2KlzGrhB6w)
 - [Docker Layer Caching in GitHub Actions](https://github.com/jpribyl/action-docker-layer-caching)
 - [action-validator](https://github.com/mpalmer/action-validator) - Tool to validate GitHub Action and Workflow YAML files.
+- [Rust-generated WebAssembly GitHub action template](https://github.com/peter-evans/rust-wasm-action)

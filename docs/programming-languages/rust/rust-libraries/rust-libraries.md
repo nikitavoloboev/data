@@ -1655,7 +1655,7 @@
 - [gtmpl-rust](https://github.com/fiji-flo/gtmpl-rust) - Go text/template for rust.
 - [rust-x86](https://github.com/gz/rust-x86) - Rust library to use x86 (amd64) specific functionality and registers.
 - [granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search.
-- [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python. ([Web](https://www.pola.rs/)) ([HN](https://news.ycombinator.com/item?id=29584698))
+- [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python. ([Web](https://www.pola.rs/)) ([HN](https://news.ycombinator.com/item?id=29584698)) ([Awesome](https://github.com/ddotta/awesome-polars))
 - [TransIter](https://github.com/neithernut/transiter) - Iterator suitable for navigating recursive structures and DAGs in rust.
 - [stdx](https://github.com/brson/stdx) - Missing batteries of Rust.
 - [Exocore](https://github.com/appaquet/exocore) - Distributed applications framework with private and encrypted data storage.

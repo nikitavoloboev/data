@@ -837,6 +837,7 @@
 - [Kroki.jl](https://github.com/bauglir/Kroki.jl) - Enables a wide array of textual diagramming tools working within Julia.
 - [Tidier.jl](https://github.com/kdpsingh/Tidier.jl) - Implementation of the R tidyverse mini-language in Julia.
 - [Nerf.jl](https://github.com/JuliaNeuralGraphics/Nerf.jl) - Real-time Neural 3D Scene Reconstruction.
+- [SHA](https://github.com/JuliaCrypto/SHA.jl) - Performant, 100% native-julia SHA1, SHA2, and SHA3 implementation.
 
 ## Links
 
