@@ -300,6 +300,7 @@
 - [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 - [SwiftUICalendar](https://github.com/GGJJack/SwiftUICalendar) - Simple calendar for SwiftUI.
 - [SideMenu](https://github.com/kukushi/SideMenu) - Interactive iOS side menu with rich features.
+- [TypographyKit](https://github.com/rwbutler/TypographyKit) - Consistent & accessible visual styling on iOS with support for Dynamic Type.
 
 ## macOS
 

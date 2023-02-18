@@ -185,6 +185,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next Last Path Hook](https://github.com/lifespikes/next-last-path) - React Hook containing the last path from a Next.js route + some goodies.
 - [Next-Axiom](https://github.com/axiomhq/next-axiom) - Unlocks observability at any scale.
 - [useSearchParams](https://github.com/jokull/next-use-search-params) - Type-safe search param handling for Next.js using zod.
+- [Markdoc NextJS](https://github.com/markdoc/next.js)
 
 ## Notes
 

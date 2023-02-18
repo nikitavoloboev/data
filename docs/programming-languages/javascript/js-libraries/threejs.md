@@ -161,3 +161,4 @@ title: Three.js
 - [Screen-space raymarched godrays for three.js using the pmndrs postprocessing library](https://github.com/Ameobea/three-good-godrays)
 - [Magnify 3D](https://github.com/amitdiamant/magnify-3d) - Real time JS optic magnifying glass library.
 - [ThreeGN](https://threegn.app/) - Procedural 3D graphics editor for the web. ([Code](https://github.com/roman01la/threegn))
+- [Environment Map Light Editor](https://github.com/pmndrs/env) - Create, edit, and preview HDR environment maps in the browser.

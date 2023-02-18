@@ -138,3 +138,4 @@ title: Lean
 - [Code samples for Lean 4](https://github.com/leanprover/lean4-samples)
 - [Megaparsec](https://github.com/yatima-inc/Megaparsec.lean) - Lean 4 port of Megaparsec.
 - [Lean course from Brown uni (2023)](https://github.com/brown-cs22/CS22-Lean-2023)
+- [SSA in Lean](https://github.com/bollu/ssa) - Theory of static single assignment development in Lean.

@@ -444,6 +444,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 
 ## DB
 
+- [BQB](https://github.com/nullism/bqb) - Lightweight and easy to use query builder.
 - [KissSQL](https://github.com/VinGarcia/ksql) - Simple and Powerful Go SQL Library.
 - [Kvass](https://github.com/maxmunzel/kvass) - Personal key-value store. ([HN](https://news.ycombinator.com/item?id=32212235))
 - [BetterCache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search. ([Reddit](https://www.reddit.com/r/golang/comments/x4b7yu/bettercache_20_has_full_text_searchremove_etc/))
@@ -2072,6 +2073,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [MissingGo](https://github.com/anacrolix/missinggo) - Stuff that's missing in Go stdlib.
 - [currency](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 - [Load Balancer Algorithms](https://github.com/appleboy/loadbalancer-algorithms)
+- [Go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - Fast and light wildcard pattern matching.
 
 ## Links
 

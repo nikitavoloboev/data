@@ -501,3 +501,4 @@ title: PyTorch
 - [OctoML PyTorch Profiler](https://github.com/octoml/octoml-profile)
 - [Lion PyTorch](https://github.com/lucidrains/lion-pytorch) - Optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam.
 - [PyTorch tutorial for beginners](https://github.com/L1aoXingyu/pytorch-beginner)
+- [Holistic Trace Analysis](https://github.com/facebookresearch/HolisticTraceAnalysis) - Library to analyze PyTorch traces.

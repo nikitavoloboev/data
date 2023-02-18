@@ -478,3 +478,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [BenchML](https://github.com/capoe/benchml) - ML benchmarking and pipeling framework.
 - [MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's library for high performance machine learning primitives.
 - [Substra](https://github.com/Substra/substra) - Federated learning (FL) software. Enables the training and validation of machine learning models on distributed datasets.
+- [Rust Circuit](https://github.com/redwoodresearch/rust_circuit_public) - Library for expressing and manipulating tensor computations for neural network interpretability, written in Rust and used in Python notebooks.

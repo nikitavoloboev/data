@@ -170,6 +170,7 @@
 - [coyote-ecs](https://github.com/linuxy/coyote-ecs) - Fast and simple zig native ECS.
 - [wave](https://github.com/nikneym/wave) - Tiny WAV encoder/decoder for Zig.
 - [zig-diff](https://github.com/tomhoule/zig-diff) - Text diffing in zig.
+- [Zig String](https://github.com/JakubSzark/zig-string) - UTF-8 String Library.
 
 ## Links
 

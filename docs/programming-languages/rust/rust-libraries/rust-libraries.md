@@ -2682,6 +2682,9 @@
 - [async-rx](https://github.com/jplatte/async-rx) - Reactive programming in async Rust.
 - [rust-shed](https://github.com/facebookexperimental/rust-shed) - Rust crates common between other Facebook open source projects (like Mononoke or Eden).
 - [retry](https://github.com/jimmycuadra/retry) - Retry some code until its return value satisfies a condition.
+- [ferrilab](https://github.com/ferrilab/ferrilab) - Redefining the Rust fundamental data model.
+- [Actix Net](https://github.com/actix/actix-net) - Collection of lower-level libraries for composable network services.
+- [process-memory](https://github.com/Tommoa/rs-process-memory) - Allows you to read/write into the memory of other processes.
 
 ## Cargo Plugins
 

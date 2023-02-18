@@ -4,6 +4,10 @@ title: Janet
 
 # [Janet](https://janet-lang.org/)
 
+## Built with Janet
+
+- [Joule editor](https://github.com/CFiggers/joule-editor) - Simple terminal-based text editor written in Janet.
+
 ## Links
 
 - [argparse](https://github.com/janet-lang/argparse) - CLI argument parser for Janet.

@@ -10,6 +10,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 
 More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/). Love [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)'s writing a lot.
 
+I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more technical literature. But even fictional too if you phrase your questions well. 
+
 ### 2019
 
 - 21 Lessons for the 21st Century 🌟
@@ -642,3 +644,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Create bilingual books yourself](https://maximullaris.com/bilingual_books.html)
 - [BiblioReads](https://github.com/nesaku/BiblioReads) - Alternative Private Goodreads Front-End.
 - [Viberary](https://github.com/veekaybee/viberary) - Recommend you books based not on genre or title, but vibe.
+- [Make Books](https://github.com/Desbeers/Make-Books) - Scripts to convert Markdown to PDF and ePub books with Pandoc.

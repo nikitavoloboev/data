@@ -427,6 +427,7 @@
 - [Persistent Vector](https://github.com/travitch/persistent-vector) - Persistent vectors for Haskell based on array mapped tries.
 - [sasha](https://github.com/phadej/sasha) - Staged lexer generator.
 - [Breadcrumbs](https://github.com/PPKFS/breadcrumbs) - Haskell tracing library.
+- [FilePath](https://github.com/haskell/filepath) - Functionality for manipulating FilePath values.
 
 ## Notes
 

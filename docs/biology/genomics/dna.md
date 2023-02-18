@@ -89,3 +89,4 @@ title: DNA
 - [RegTools](https://github.com/griffithlab/regtools) - Integrate DNA-seq and RNA-seq data to identify mutations that are associated with regulatory effects on gene expression.
 - [We're wasting money by only supporting gzip for raw DNA files (2023)](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/) ([HN](https://news.ycombinator.com/item?id=34313589))
 - [The ASML of DNA Sequencing (2023)](https://www.youtube.com/watch?v=pEwkpQV691A)
+- [VarFish](https://github.com/bihealth/varfish-server) - Comprehensive DNA variant analysis for diagnostics and research.

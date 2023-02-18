@@ -187,3 +187,4 @@
 - [Stochastic Differential Equations: Introduction with Applications](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581)
 - [Probabilistic Filters By Example: Cuckoo Filter and Bloom Filters](https://bdupras.github.io/filter-tutorial/)
 - [Much Ado About Sampling (2022)](https://www.jeremyong.com/math/monte%20carlo/2022/05/17/much-ado-about-sampling/)
+- [Learning Statistics Shiny App](https://github.com/nrennie/learning-statistics)

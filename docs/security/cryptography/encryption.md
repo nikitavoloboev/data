@@ -110,3 +110,4 @@
 - [Enc](https://github.com/life4/enc) - CLI tool for encryption, a modern and friendly alternative to GnuPG.
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs) - Fastest open source Homomorphic Encryption library in Rust.
 - [Blyss SDK](https://github.com/blyssprivacy/sdk) - SDK for private data access, built on homomorphic encryption.
+- [StatiCrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page. ([HN](https://news.ycombinator.com/item?id=34849024))

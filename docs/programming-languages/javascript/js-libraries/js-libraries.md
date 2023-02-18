@@ -1126,6 +1126,7 @@
 - [u](https://github.com/ananthakumaran/u) - JavaScript library for encoding/decoding state (JavaScript object) in URL.
 - [signal](https://github.com/WebReflection/signal) - Extremely basic signals implementation.
 - [JSum](https://github.com/fraunhoferfokus/JSum) - Consistent checksum calculation of JSON objects.
+- [slugify](https://github.com/sindresorhus/slugify) - Useful for URLs, filenames, and IDs.
 
 ## Links
 
@@ -1232,3 +1233,4 @@
 - [The complete guide to packaging libraries](https://package-library.bjornlu.com/1) ([Code](https://github.com/bluwy/package-library))
 - [NPM Packages tracked in Notion](https://github.com/Eomm/notion-board)
 - [Sandpack NPM CDN](https://github.com/codesandbox/sandpack-cdn)
+- [JavaScript Serverless Functions Standardization](https://github.com/nodeshift/js-functions-standardization)
