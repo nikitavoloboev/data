@@ -2690,6 +2690,7 @@
 - [shared_vector](https://github.com/nical/shared_vector) - Efficient reference counted vector data structure is Rust.
 - [Guillotiere](https://github.com/nical/guillotiere) - Dynamic texture atlas allocator with fast deallocation and rectangle coalescing.
 - [velocity](https://github.com/knvi/velocity) - Efficient ID system written in Rust.
+- [robusta](https://github.com/giovanniberti/robusta) - Easy interop between Rust and Java.
 
 ## Cargo Plugins
 

@@ -413,3 +413,4 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [(Lazy) Components Maps (2022)](https://julesblom.com/writing/lazy-component-maps)
 - [Components to copy paste. Built with Radix UI and Tailwind CSS.](https://github.com/shadcn/ui)
 - [Nice way to manage modals in React](https://twitter.com/wking__/status/1608829077691174915)
+- [Kitchen](https://github.com/tonightpass/kitchen) - Tonight Pass' delicious React components.

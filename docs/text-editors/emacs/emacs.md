@@ -142,3 +142,4 @@ Might give it a go sometime. Right now I love [VSCode](../vs-code/vs-code.md) an
 - [Emacs User Survey – 2022 Results](https://emacssurvey.org/results/3425413930) ([HN](https://news.ycombinator.com/item?id=34036590))
 - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 - [Design of Emacs in Rust (2023)](https://coredumped.dev/2023/01/17/design-of-emacs-in-rust/)
+- [A spiritual successor to Emacs (2023)](https://vivekhaldar.com/articles/a-spiritual-successor-to-emacs/)

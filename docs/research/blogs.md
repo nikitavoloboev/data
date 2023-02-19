@@ -350,6 +350,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [CodeSandbox](https://codesandbox.io/blog)
 - [Kevin Schaul](https://www.kschaul.com/)
 - [Matthew Pope](https://mattpo.pe/posts/)
+- [Vivek Haldar](https://vivekhaldar.com/)
 
 ## Notes
 

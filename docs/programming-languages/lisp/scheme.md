@@ -116,3 +116,4 @@ title: Scheme
 - [Practical Scheme](http://practical-scheme.net/) ([HN](https://news.ycombinator.com/item?id=34452163))
 - [Scheme Libraries](https://github.com/mnieper/scheme-libraries)
 - [Scheme structured access to bytevector contents](https://github.com/TaylanUB/scheme-bytestructures)
+- [Nugget](https://github.com/justinethier/nugget) - Compiler for a tiny subset of the Scheme language.

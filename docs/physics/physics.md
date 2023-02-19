@@ -368,3 +368,4 @@ It's wild [how far humans got](https://www.youtube.com/watch?v=PHiyQID7SBs) to u
 - [A 50-Year Quest: My Personal Journey with the Second Law of Thermodynamics (2023)](https://writings.stephenwolfram.com/2023/02/a-50-year-quest-my-personal-journey-with-the-second-law-of-thermodynamics/) ([HN](https://news.ycombinator.com/item?id=34634969))
 - [What's Going Wrong in Particle Physics? (2023)](https://www.youtube.com/watch?v=lu4mH3Hmw2o) ([HN](https://news.ycombinator.com/item?id=34772049))
 - [How Does The Nucleus Hold Together? (2023)](https://www.youtube.com/watch?v=E8hyodMhbRw)
+- [Modern view on constants in fundamental physics (2023)](https://twitter.com/martinmbauer/status/1627221248160792578)

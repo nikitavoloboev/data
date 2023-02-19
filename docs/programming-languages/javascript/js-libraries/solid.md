@@ -37,7 +37,7 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Create JD App](https://github.com/OrJDev/create-jd-app) - SolidStart & tRPC Full-Stack TypeScript application template.
 - [SolidStart SSR with @tanstack/query v5 preview using tRPC](https://github.com/AshSimmonds/solidstart-17)
 - [SolidStart Notes](https://github.com/peerreynders/solid-start-notes-basic)
-- [Yal](https://github.com/srsholmes/yal) - Launcher app similar to Alfred, Raycast, ScriptKit, Spotlight, and many others.
+- [Yal](https://github.com/srsholmes/yal) - Launcher app similar to Alfred, Raycast, ScriptKit, Spotlight, and many others. ([Plugins](https://github.com/srsholmes/yal-plugins))
 
 ## Notes
 

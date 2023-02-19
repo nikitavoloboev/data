@@ -53,3 +53,4 @@ I often switch between `Week` and `Month` views.
 - [Sabre/dav](https://sabre.io/) - Open-source CardDAV, CalDAV and WebDAV server. ([HN](https://news.ycombinator.com/item?id=34727223))
 - [TimeBlok](https://github.com/JettChenT/timeblok) - Programming language for calendars.
 - [ical-generator](https://github.com/sebbo2002/ical-generator) - Small piece of code which generates ical calendar files.
+- [tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client in TS.
