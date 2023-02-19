@@ -143,6 +143,7 @@
 - [SimpleNonlinearSolve.jl](https://github.com/SciML/SimpleNonlinearSolve.jl) - Fast and simple nonlinear solvers for the SciML common interface.
 - [MultiObjectiveAlgorithms.jl](https://github.com/jump-dev/MultiObjectiveAlgorithms.jl) - Collection of algorithms for multi-objective optimization.
 - [NNlib.jl](https://github.com/FluxML/NNlib.jl) - Neural Network primitives with multiple backends.
+- [NonlinearSolve.jl](https://github.com/SciML/NonlinearSolve.jl) - Fast implementations of root finding algorithms in Julia that satisfy the SciML common interface.
 
 ## Math
 

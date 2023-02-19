@@ -224,3 +224,4 @@
 - [Poline](https://meodai.github.io/poline/) - Esoteric color palette generator. ([Code](https://github.com/meodai/poline)) ([HN](https://news.ycombinator.com/item?id=34662722))
 - [26 Buckets of Paint (2023)](https://m15y.com/posts/buckets)
 - [Blackbody Radiation Color Palette](https://temperature.m15y.com/)
+- [Arbitrary Beautiful Colors (2023)](https://khanlou.com/2023/02/arbitrary-beautiful-colors/)

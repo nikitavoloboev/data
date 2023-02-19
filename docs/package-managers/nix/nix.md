@@ -508,3 +508,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Tidying up your $HOME with Nix (2023)](https://juliu.is/tidying-your-home-with-nix/) ([Lobsters](https://lobste.rs/s/jbjytb/tidying_up_your_home_with_nix))
 - [Snowfall Lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [Bazel and Nix: A Migration Experience (2022)](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
+- [Flake Parts](https://github.com/hercules-ci/flake-parts) - Simplify Nix Flakes with the module system. ([Docs](https://flake.parts/))

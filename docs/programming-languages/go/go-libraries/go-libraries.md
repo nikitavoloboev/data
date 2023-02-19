@@ -734,6 +734,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [encrypted-stream](https://github.com/nknorg/encrypted-stream) - Go library that transforms any net.Conn or io.ReadWriter stream to an encrypted and/or authenticated stream.
 - [xxhash](https://github.com/OneOfOne/xxhash) - Native implementation of the excellent XXHash hashing algorithm.
 - [curve25519-voi](https://github.com/oasisprotocol/curve25519-voi) - High-performance Curve25519/ristretto255 for Go.
+- [whisper](https://github.com/lukejoshuapark/whisper) - Wraps an io.ReadWriter in a secure tunnel using modern elliptic-curve cryptography.
 
 ## Linux
 
