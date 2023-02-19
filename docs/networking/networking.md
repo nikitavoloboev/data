@@ -588,3 +588,4 @@
 - [MITM Proxy](https://github.com/emanuele-em/man-in-the-middle-proxy) - MITM Proxy Written in Rust. Ultimate Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities.
 - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 - ["BGP at home": getting a DIA circuit installed at home (2023)](https://aaka.sh/posts/20230129-bgp-at-home.html) ([HN](https://news.ycombinator.com/item?id=34853136))
+- [dhcpm](https://github.com/leshow/dhcpm) - CLI tool for constructing & sending DHCP messages.

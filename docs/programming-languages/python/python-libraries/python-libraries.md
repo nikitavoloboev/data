@@ -1371,3 +1371,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Sample Python Extension in Zig](https://github.com/ali5h/zig-py-sample)
 - [Caching a lot of methods in Python (2023)](https://death.andgravity.com/caching-methods)
 - [Data Classification: Does Python still have a need for class without dataclass?](https://blog.glyph.im/2023/02/data-classification.html) ([HN](https://news.ycombinator.com/item?id=34787092))
+- [One does not simply 'pip install' (2023)](https://www.ianwootten.co.uk/2023/02/17/one-does-not-simply-pip-install/) ([HN](https://news.ycombinator.com/item?id=34835097))

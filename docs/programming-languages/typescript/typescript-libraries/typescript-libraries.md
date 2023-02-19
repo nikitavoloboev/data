@@ -808,6 +808,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation.
 - [Memoization Registry](https://github.com/fabiospampinato/memoization-registry) - Generalized multi-key memoization solution that does not leak memory.
 - [Thyseus](https://github.com/JaimeGensler/thyseus) - Archetypal Entity Component System, built entirely in Typescript.
+- [Unplugin Pomsky](https://github.com/Kyza/unplugin-pomsky) - Use Pomsky along with your JavaScript.
 
 ## Links
 

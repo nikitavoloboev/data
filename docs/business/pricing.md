@@ -113,4 +113,4 @@ I personally like the model where you buy something and you own the copy and get
 - [Alternatives to doing discounts for software](https://twitter.com/ankurnagpal/status/1594719317081444354)
 - [Ask HN: Anyone tired of everything being a subscription now? (2022)](https://news.ycombinator.com/item?id=34041962)
 - [Usage-Based Billing Is Way Too Hard - How the Warehouse Makes It Easy (2023)](https://hightouch.com/blog/automated-billing) ([Tweet](https://twitter.com/tejasmanohar/status/1620500903341228032))
-- [Usage-based pricing isn't always best (2023)](https://chrisreuter.me/2023-02-16-usage-pricing/)
+- [Usage-based pricing isn't always best (2023)](https://chrisreuter.me/2023-02-16-usage-pricing/) ([HN](https://news.ycombinator.com/item?id=34829190))

@@ -129,3 +129,6 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [OpenAI Streams](https://github.com/gptlabs/openai-streams) - Streams-first OpenAI API client, written in TypeScript.
 - [GPT Labs](https://github.com/gptlabs/tools) - Monorepo of all open source code associated with GPT Labs projects. ([Twitter](https://twitter.com/gptlabs))
 - [Bing Chat is blatantly, aggressively misaligned (2023)](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned)
+- [GPTZero Case Study – Exploring False Positives (2023)](https://gonzoknows.com/posts/GPTZero-Case-Study/) ([HN](https://news.ycombinator.com/item?id=34858307))
+- [Open source solution replicates ChatGPT training process (2023)](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
+- [WorkaroundGPT](https://github.com/prakhar897/workaround-gpt) - Tool to work around ChatGPT inhibitions.

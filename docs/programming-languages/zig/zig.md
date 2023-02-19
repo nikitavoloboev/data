@@ -179,3 +179,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [How a Zig IDE Could Work (2023)](https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html) ([HN](https://news.ycombinator.com/item?id=34740937))
 - [nix-zig-stdenv](https://github.com/Cloudef/nix-zig-stdenv) - Zig based cross-compiling toolchain.
 - [Zig Bits: Returning slices from functions (2023)](https://blog.orhun.dev/zig-bits-01/)
+- [Multi-Object For Loops + Struct-Of-Arrays (2023)](https://zig.news/andrewrk/multi-object-for-loops-data-oriented-design-41ob)

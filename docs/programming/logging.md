@@ -80,3 +80,4 @@
 - [Logging practices I follow (2023)](https://www.16elt.com/2023/01/06/logging-practices-I-follow/) ([HN](https://news.ycombinator.com/item?id=34311165))
 - [LogSlash](https://github.com/FoxIO-LLC/LogSlash) - Standard for reducing log volume without sacrificing analytical capability.
 - [How Airbnb Achieved Metric Consistency at Scale (2021)](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)
+- [Grove](https://github.com/hashicorp-forge/grove) - Software as a Service (SaaS) log collection framework.
