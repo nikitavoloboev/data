@@ -42,3 +42,4 @@ title: D
 - [Why is D's garbage collection slower than Go's?](https://forum.dlang.org/thread/nxddojjplojxdafrkkev@forum.dlang.org?page=5#post-tjib6h:242pp6:241:40digitalmars.com) ([HN](https://news.ycombinator.com/item?id=33381285))
 - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How (2022)](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/) ([HN](https://news.ycombinator.com/item?id=33720330))
 - [Programming in D Book](http://ddili.org/ders/d.en/index.html)
+- [Beautiful Binary Search in D (2023)](https://muscar.eu/shar-binary-search-meta.html) ([HN](https://news.ycombinator.com/item?id=34848678))

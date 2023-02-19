@@ -36,6 +36,7 @@ Whilst I try to release everything I work on in the open, I make sure not to eve
 - [Ember's successful oss project management: 1. RFCs for design. 2. Canary, beta, and release stability branches. 3. LTS releases for community coordination and cadence management. 4. Major releases that don't add new features by design. 5. Backwards-compatible editions to consolidate changes for documentation and communication.](https://twitter.com/wycats/status/1463210573936558082)
 - [Tip for open source maintainers: you can often convert questions about your library into documentation. It usually goes like this: 1. Someone opens an issue/asks a question. 2. I address this by updating the docs. 3. Link the update to the person, ask them for feedback. Also works for internal projects.](https://twitter.com/elias_era/status/1481933779186900997)
 - [Trick maintainers into actually looking at your issues by posting super easy repros.](https://twitter.com/maximilianhils/status/1531320565210005504)
+- [You always have the right to patch and fork. Open source makes no sense without it. Fork it, and use your people skills to try to persuade people with commit access that it should be the way you want. People skills being at a deficit in our field, many choose option C: hurl abuse at any available target.](https://lobste.rs/s/7q5o5j/foss_communities_you_don_t_need_yell)
 
 ## Links
 

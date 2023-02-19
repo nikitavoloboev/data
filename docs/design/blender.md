@@ -116,3 +116,4 @@ title: Blender
 - [Image-Generating AI Can Texture An Entire 3D Scene In Blender (2022)](https://hackaday.com/2022/12/18/image-generating-ai-can-texture-an-entire-3d-scene-in-blender/)
 - [A Gentle Introduction to the Rendering Equation (2022)](https://m15y.com/posts/render)
 - [motion_generate_tools](https://github.com/UuuNyaa/blender_motion_generate_tools) - Blender addon for generate motion using MDM: Human Motion Diffusion Model.
+- [CAD Sketcher](https://www.cadsketcher.com/) - Blender Parametric Precision Modeling. ([HN](https://news.ycombinator.com/item?id=34856383))
