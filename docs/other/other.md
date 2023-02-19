@@ -762,4 +762,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Why Iran-Iraq war dragged on (2023)](https://www.reddit.com/r/CredibleDefense/comments/10zn2wq/comment/j84hec5/?utm_source=reddit&utm_medium=web2x&context=3)
 - [How I Use My Mouse](https://github.com/madprops/blog/blob/main/mouse.md) ([HN](https://news.ycombinator.com/item?id=34739163))
 - [How I chose a name for Discove](https://paragraph.xyz/@df/how-i-chose-a-name-for-discove)
-- [Watchmaking: Machining a 0.6 mm Screw (2023)](https://www.youtube.com/watch?v=wKVqLTzh_z4)
+- [Watchmaking: Machining a 0.6 mm Screw (2023)](https://www.youtube.com/watch?v=wKVqLTzh_z4) ([HN](https://news.ycombinator.com/item?id=34849110))
+- [200-year old heat pump technology is back (2023)](https://yaleclimateconnections.org/2023/02/how-heat-pumps-of-the-1800s-are-becoming-the-technology-of-the-future/) ([HN](https://news.ycombinator.com/item?id=34846762))
+- [Noto Emoji SVG](https://github.com/adobe-fonts/noto-emoji-svg)

@@ -24,3 +24,4 @@
 - [Which piano pieces are a lot harder than they seem?](https://www.reddit.com/r/piano/comments/10mvr72/which_piano_pieces_are_a_lot_harder_than_they_seem/)
 - [React Piano](https://github.com/kevinsqi/react-piano) - Interactive piano keyboard for React.
 - [PianoHub](https://www.pianohub.io/) - Write songs with your mouse, keyboard, or MIDI.
+- [The Piano vs The Guitar (2023)](https://mattpo.pe/posts/piano-vs-guitar/)

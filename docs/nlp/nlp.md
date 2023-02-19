@@ -839,3 +839,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Text is All You Need (2023)](https://studio.ribbonfarm.com/p/text-is-all-you-need) ([HN](https://news.ycombinator.com/item?id=34847912))
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [On Prompt Engineering (2023)](https://benjamincongdon.me/blog/2023/02/18/On-Prompt-Engineering/)
+- [MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural Code Generation (2022)](https://arxiv.org/abs/2208.08227) ([Code](https://github.com/nuprl/MultiPL-E))

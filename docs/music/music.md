@@ -248,4 +248,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Maroofy](https://maroofy.com/) - Discover similar music you'll love. ([HN](https://news.ycombinator.com/item?id=34635352))
 - [What are some notable songs or scores that you enjoy the most from your favorite games? (2023)](https://www.reddit.com/r/patientgamers/comments/110ii40/what_are_some_notable_songs_or_scores_that_you/)
 - [Треки, которые вы готовы слушать на репите](https://twitter.com/great_knee/status/1625054179839340544)
-- [Poor schemas, poor cataloguing: why music tagging sucks (2023)](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
+- [Poor schemas, poor cataloguing: why music tagging sucks (2023)](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/) ([HN](https://news.ycombinator.com/item?id=34850210))
+- [Hearkus](https://github.com/hearkus/hearkus) - Innovative platform for music lovers to explore and share their passions.

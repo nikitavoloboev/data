@@ -52,3 +52,4 @@ title: Unreal Engine
 - [Unreal Engine 5 – Full Course for Beginners (2023)](https://www.youtube.com/watch?v=6UlU_FsicK8)
 - [Unreal in 100 Seconds (2023)](https://www.youtube.com/watch?v=DXDe-2BC4cE)
 - [Audio Analysis Tools](https://github.com/gtreshchev/AudioAnalysisTools) - Plugin for Unreal Engine.
+- [Unreal Engine 4/5 Scripting System in Lua](https://github.com/UE4SS-RE/RE-UE4SS)

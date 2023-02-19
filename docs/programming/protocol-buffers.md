@@ -97,3 +97,4 @@ Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 - [Fast and dynamic encoding of Protocol Buffers in Go (2023)](https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang) ([HN](https://news.ycombinator.com/item?id=34677361))
 - [prost-reflect](https://github.com/andrewhickman/prost-reflect) - Protobuf library extending prost with reflection support and dynamic messages.
 - [protox](https://github.com/andrewhickman/protox) - Pure-rust protobuf compiler, designed for use with prost-build.
+- [setup-protoc](https://github.com/Noelware/setup-protoc) - GitHub action for setting up the Protocol Buffers compiler.

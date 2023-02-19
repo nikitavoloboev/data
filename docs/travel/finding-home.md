@@ -89,3 +89,4 @@ Liked [this article](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appar
 - [Samara](https://www.samara.com/) - Building tiny backyard homes. ([Tweet](https://twitter.com/jgebbia/status/1592609795584163840))
 - [Lessons learned after living in an InForest off-grid rental (2022)](https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review) ([HN](https://news.ycombinator.com/item?id=33848148))
 - [Geodesic domes made simple](https://buildwithhubs.co.uk/)
+- [Sweet Home 3D](https://www.sweethome3d.com/) - Draw floor plans and arrange furniture freely. ([HN](https://news.ycombinator.com/item?id=34838728))

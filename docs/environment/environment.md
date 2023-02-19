@@ -208,3 +208,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/) ([HN](https://news.ycombinator.com/item?id=34571885))
 - [Data-driven predictions of the time remaining until critical global warming thresholds are reached (2023)](https://www.pnas.org/doi/10.1073/pnas.2207183120)
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
+- [Cobalt is suddenly abundant (2023)](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant) ([HN](https://news.ycombinator.com/item?id=34853522))

@@ -66,3 +66,4 @@ title: Remote Procedure Calls
 - [dudirekta](https://github.com/pojntfx/dudirekta) - Transport-agnostic framework that allows exposing and calling functions on both clients and servers.
 - [TSRPC](https://github.com/k8w/tsrpc) - TypeScript RPC framework with runtime type checking and binary serialization.
 - [Blue RPC](https://github.com/JoshuaWise/blue-rpc) - Simple but powerful RPC protocol that uses WebSockets and MessagePack.
+- [PicoRPC](https://github.com/fabiospampinato/picorpc) - Tiny RPC library and spec, inspired by JSON-RPC 2.0 and tRPC.

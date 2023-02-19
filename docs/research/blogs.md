@@ -349,6 +349,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Tailscale](https://tailscale.com/blog/)
 - [CodeSandbox](https://codesandbox.io/blog)
 - [Kevin Schaul](https://www.kschaul.com/)
+- [Matthew Pope](https://mattpo.pe/posts/)
 
 ## Notes
 

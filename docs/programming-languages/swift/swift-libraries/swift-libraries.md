@@ -301,6 +301,7 @@
 - [SwiftUICalendar](https://github.com/GGJJack/SwiftUICalendar) - Simple calendar for SwiftUI.
 - [SideMenu](https://github.com/kukushi/SideMenu) - Interactive iOS side menu with rich features.
 - [TypographyKit](https://github.com/rwbutler/TypographyKit) - Consistent & accessible visual styling on iOS with support for Dynamic Type.
+- [WishKit](https://github.com/wishkit/wishkit-ios) - In-App Feature Requests. Made Easy.
 
 ## macOS
 
@@ -1437,6 +1438,7 @@
 - [TreeArray](https://github.com/AlexRoar/TreeArray) - Swift tree-based array implementation. Efficient for random insertions/deletions.
 - [TreeSitterLanguages](https://github.com/simonbs/TreeSitterLanguages) - Languages for Tree-sitter wrapped in Swift packages.
 - [DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol.
+- [Parse Swift](https://github.com/parse-community/Parse-Swift) - Swift library that gives you access to the powerful Parse Server backend from your Swift applications.
 
 ## Other (not lib)
 

@@ -142,6 +142,7 @@
 - [LearnAPI.jl](https://github.com/JuliaAI/LearnAPI.jl) - Julia interface for training and applying models in machine learning and statistics.
 - [SimpleNonlinearSolve.jl](https://github.com/SciML/SimpleNonlinearSolve.jl) - Fast and simple nonlinear solvers for the SciML common interface.
 - [MultiObjectiveAlgorithms.jl](https://github.com/jump-dev/MultiObjectiveAlgorithms.jl) - Collection of algorithms for multi-objective optimization.
+- [NNlib.jl](https://github.com/FluxML/NNlib.jl) - Neural Network primitives with multiple backends.
 
 ## Math
 

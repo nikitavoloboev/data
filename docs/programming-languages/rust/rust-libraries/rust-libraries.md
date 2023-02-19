@@ -2686,6 +2686,10 @@
 - [Actix Net](https://github.com/actix/actix-net) - Collection of lower-level libraries for composable network services.
 - [process-memory](https://github.com/Tommoa/rs-process-memory) - Allows you to read/write into the memory of other processes.
 - [geo-valid](https://github.com/jtmiclat/geo-valid) - Geometry validation for the rust geo/geo-types library.
+- [pam-rs](https://github.com/anowell/pam-rs) - Rust interface to the pluggable authentication module framework (PAM).
+- [shared_vector](https://github.com/nical/shared_vector) - Efficient reference counted vector data structure is Rust.
+- [Guillotiere](https://github.com/nical/guillotiere) - Dynamic texture atlas allocator with fast deallocation and rectangle coalescing.
+- [velocity](https://github.com/knvi/velocity) - Efficient ID system written in Rust.
 
 ## Cargo Plugins
 

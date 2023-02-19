@@ -535,3 +535,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Coping with nontermination: some thoughts on stopping loops (2023)](https://outerproduct.net/boring/2023-02-11_term-loop.html)
 - [Why Aren't Programming Language Specifications Comprehensive? (2023)](https://tratt.net/laurie/blog/2023/why_arent_programming_language_specifications_comprehensive.html) ([Lobsters](https://lobste.rs/s/nd9h3b/why_aren_t_programming_language))
 - [C-rusted: The Advantages of Rust, in C, without the Disadvantages (2023)](https://arxiv.org/abs/2302.05331) ([Lobsters](https://lobste.rs/s/miuv2k/c_rusted_advantages_rust_c_without))
+- [voxu](https://github.com/IORuntime/voxu) - Strongly and statically typed, memory-efficient functional programming language.

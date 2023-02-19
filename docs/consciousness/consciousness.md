@@ -92,3 +92,4 @@ I practice self reflection (via [journaling](../life/journaling.md)) & [meditati
 - [Roger Penrose: "Consciousness must be beyond computable physics." (2022)](https://www.youtube.com/watch?v=TfouEFuB-co)
 - [Consciousness's ability to 'merge' and 'unmerge'](https://twitter.com/nosilverv/status/1596092796724994049)
 - [From Language to Consciousness (Guest: Joscha Bach) (2022)](https://www.youtube.com/watch?v=ApHnqHfFWBk)
+- [What is a Mathematical Structure of Conscious Experience? (2023)](https://arxiv.org/abs/2301.11812) ([HN](https://news.ycombinator.com/item?id=34843094))

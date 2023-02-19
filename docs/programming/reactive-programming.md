@@ -54,3 +54,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [Reactor.js](https://github.com/fynyky/reactor.js) - Simple reactive programming without a framework.
 - [sprae](https://github.com/dy/sprae) - DOM hydration with reactive attributes.
 - [The Future of Fine-Grained Reactivity w/ Milo (2023)](https://www.youtube.com/watch?v=A2TiLvCDKSg)
+- [Cont-Signal](https://github.com/rkirov/cont-signal) - Continuations based Signals JS framework.

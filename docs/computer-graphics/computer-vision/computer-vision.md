@@ -1151,3 +1151,4 @@
 - [Deblur-NeRF: Neural Radiance Fields from Blurry Images (2021)](https://arxiv.org/abs/2111.14292) ([Code](https://github.com/limacv/Deblur-NeRF))
 - [Learning When to Say "I Don't Know" (2022)](https://arxiv.org/abs/2209.04944) ([Code](https://github.com/osu-cvl/learning-idk))
 - [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation (2023)](https://arxiv.org/abs/2302.08113)
+- [NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild (2021)](https://arxiv.org/abs/2110.07604) ([Code](https://github.com/jasonyzhang/ners))

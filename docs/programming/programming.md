@@ -655,3 +655,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [On the Algebraic Properties of Flame Graphs (2023)](https://arxiv.org/abs/2301.08941) ([Lobsters](https://lobste.rs/s/q2a1xu/on_algebraic_properties_flame_graphs)) ([HN](https://news.ycombinator.com/item?id=34500973))
 - [Grokking big unfamiliar codebases (2023)](https://www.jeremyong.com/game%20engines/2023/01/25/grokking-big-unfamiliar-codebases/) ([HN](https://news.ycombinator.com/item?id=34540051))
 - [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/) ([Lobsters](https://lobste.rs/s/knrjzs/why_does_0_1_0_2_0_30000000000000004))
+- [Data consistency is overrated (2023)](https://two-wrongs.com/data-consistency-is-overrated) ([HN](https://news.ycombinator.com/item?id=34847527))

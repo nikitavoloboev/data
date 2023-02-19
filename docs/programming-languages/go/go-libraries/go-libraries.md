@@ -2074,6 +2074,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [currency](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 - [Load Balancer Algorithms](https://github.com/appleboy/loadbalancer-algorithms)
 - [Go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - Fast and light wildcard pattern matching.
+- [Sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go.
+- [traffic](https://github.com/thedevsaddam/traffic) - Thread safe load-balancer package for Go.
 
 ## Links
 

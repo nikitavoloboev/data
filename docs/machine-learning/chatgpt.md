@@ -41,6 +41,7 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Let’s try ChatGPT. Is it any good? (2022)](https://www.youtube.com/watch?v=q2A-MkGjvmI)
 - [GPT.sh](https://github.com/shorwood/gptsh) - Use GPT to translate queries into shell commands.
 - [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt)
+- [Awesome ChatGPT 2](https://github.com/eon01/awesome-chatgpt)
 - [Talk to ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) - Chrome extension that allows users to talk with the ChatGPT AI using their voice.
 - [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - VSCode extension that uses the ChatGPT API to provide explanations for selected code.
 - [Open-Source Version of ChatGPT is Coming (2022)](https://metaroids.com/news/an-open-source-version-of-chatgpt-is-coming/)
@@ -120,3 +121,10 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [ChatGPT in Academia](https://github.com/ymcui/ChatGPT-in-Academia) - Policies of scientific publisher and conferences towards large language model (LLM), such as ChatGPT.
 - [Sidekick](https://github.com/dcposch/sidekick) - Convert anything to anything using GPT3.
 - [ata](https://github.com/rikhuijzer/ata) - OpenAI GPT in the terminal.
+- [Ask HN: Has ChatGPT gotten worse at coding for anyone else? (2023)](https://news.ycombinator.com/item?id=34848353)
+- [ChatGPT CLI and Python Wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
+- [Hey ChatGPT](https://github.com/ynagatomo/HeyChatGPT) - Minimal iOS app that interacts with ChatGPT by voice.
+- [ElasticSearch + GPT3 Answerer](https://github.com/hunkim/es-gpt)
+- [OpenAI for Next.js](https://github.com/gptlabs/nextjs-openai) - Hooks and components for working with OpenAI streams.
+- [OpenAI Streams](https://github.com/gptlabs/openai-streams) - Streams-first OpenAI API client, written in TypeScript.
+- [GPT Labs](https://github.com/gptlabs/tools) - Monorepo of all open source code associated with GPT Labs projects. ([Twitter](https://twitter.com/gptlabs))

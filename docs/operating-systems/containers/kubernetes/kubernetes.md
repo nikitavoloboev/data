@@ -924,3 +924,5 @@ title: Kubernetes
 - [nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster.
 - [kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix.
 - [KHole](https://github.com/cloud-native-skunkworks/khole) - Simple operator to alert on broken Kubernetes pods.
+- [Timoni](https://github.com/stefanprodan/timoni) - Package manager for Kubernetes, powered by CUE and inspired by Helm.
+- [Moving from Kubernetes to Podman (2023)](https://floofy.dev/blog/k8s-to-podman)

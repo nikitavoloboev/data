@@ -8,6 +8,8 @@ title: tRPC
 
 [Here](https://www.youtube.com/watch?v=x4mu-jOiA0Q) is a great intro. I use it as part of [create JD app](https://github.com/OrJDev/create-jd-app) in [Solid](../programming-languages/javascript/js-libraries/solid.md).
 
+[PicoRPC](https://github.com/fabiospampinato/picorpc) & [Zodios](https://github.com/ecyrbe/zodios) are interesting alternatives.
+
 ## Links
 
 - [OpenAPI support for tRPC](https://github.com/jlalmes/trpc-openapi)

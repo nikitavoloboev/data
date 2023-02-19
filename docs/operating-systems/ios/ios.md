@@ -569,3 +569,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Run CLIP on iPhone to search photos (2022)](https://mazzzystar.github.io/2022/12/29/Run-CLIP-on-iPhone-to-Search-Photos/) ([HN](https://news.ycombinator.com/item?id=34686947))
 - [No Overview Available](https://nooverviewavailable.com/) - Survey of Apple developer documentation.
 - [Apple doesn’t want you developing hobby apps (2023)](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/) ([HN](https://news.ycombinator.com/item?id=34802730))
+- [palera1n written in C](https://github.com/palera1n/palera1n-c)

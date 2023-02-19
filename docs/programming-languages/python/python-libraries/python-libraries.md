@@ -155,6 +155,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 
 ## CLI
 
+- [radicli](https://github.com/explosion/radicli) - Radically lightweight command-line interfaces.
 - [Cleo](https://github.com/python-poetry/cleo) - Create beautiful and testable command-line interfaces.
 - [tyro](https://github.com/brentyi/tyro) - Strongly typed, zero-effort CLI interfaces & config objects.
 - [Tap](https://github.com/swansonk14/typed-argument-parser) - Typed modernization of Python's argparse library.
@@ -1153,6 +1154,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy the full-text search engine library written in Rust.
 - [S3FS](https://github.com/fsspec/s3fs) - S3 file system.
 - [Llama Hub](https://github.com/emptycrown/llama-hub) - Library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain.
+- [lumos](https://github.com/numagic/lumos) - Scalable accelerated optimal control.
 
 ## Notes
 
