@@ -239,3 +239,4 @@
 - [A Tale of Lisp (by Renzo Borgatti) (2022)](https://www.youtube.com/watch?v=m2mzyf2YS_8)
 - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/) ([HN](https://news.ycombinator.com/item?id=34761768))
 - [Toodle Studio](https://toodle.studio/) - Art playground with Lisp and turtles. ([Code](https://github.com/ianthehenry/toodle.studio)) ([HN](https://news.ycombinator.com/item?id=34753407))
+- [Why I Still ‘Lisp’ (and You Should Too) (2021)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)

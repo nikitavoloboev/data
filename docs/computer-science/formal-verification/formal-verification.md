@@ -172,3 +172,4 @@ title: Formal verification
 - [Formalizing a new proof that the square root of two is irrational (2023)](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
 - [SuperNova: Proving universal machine executions without universal circuits (2022)](https://eprint.iacr.org/2022/1758) ([Code](https://github.com/jules/supernova))
 - [Get Started with Open Source Formal Verification (2023)](https://fosdem.org/2023/schedule/event/open_source_formal_verification/) ([HN](https://news.ycombinator.com/item?id=34791015))
+- [PhD Defense - Formal Verification of Just-in-Time Compilation (2023)](https://www.youtube.com/watch?v=mbkF3BwenV4)

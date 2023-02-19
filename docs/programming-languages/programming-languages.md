@@ -502,7 +502,6 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Compilation Speed discussed (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/zw3tn8/compilation_speed/)
 - [Vox](https://github.com/MrSmith33/vox) - Small and fast JIT/AOT compiler with zero dependencies.
 - [APScript](https://github.com/sno2/apscript) - Speedy interpreter for the AP Computer Science Principles pseudocode language built in Rust.
-- [Austral](https://austral-lang.org/) - Systems Language with Linear Types and Capabilities. ([Intro](https://borretti.me/article/introducing-austral)) ([HN](https://news.ycombinator.com/item?id=34168452))
 - [Tomas Petricek's teaching on programming language design](https://github.com/tpetricek/Teaching)
 - [Anzen](https://github.com/anzen-lang/anzen) - General purpose programming language that aims to make assignments easier to understand and manipulate.
 - [Cara](https://github.com/cara-lang/compiler) - Programming language aiming to be pleasant to use and maintain while staying safe and dependable.

@@ -128,3 +128,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [OpenAI for Next.js](https://github.com/gptlabs/nextjs-openai) - Hooks and components for working with OpenAI streams.
 - [OpenAI Streams](https://github.com/gptlabs/openai-streams) - Streams-first OpenAI API client, written in TypeScript.
 - [GPT Labs](https://github.com/gptlabs/tools) - Monorepo of all open source code associated with GPT Labs projects. ([Twitter](https://twitter.com/gptlabs))
+- [Bing Chat is blatantly, aggressively misaligned (2023)](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned)

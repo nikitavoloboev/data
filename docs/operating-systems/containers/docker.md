@@ -291,3 +291,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Ask HN: What is the best source to learn Docker in 2023?](https://news.ycombinator.com/item?id=34563353)
 - [Go Docker client](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
 - [DockerSwift](https://github.com/m-barthelemy/DockerSwift) - Swift client library for Docker.
+- [Docker Will Edit Host-Based Firewall Rules For You (2023)](https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/)
