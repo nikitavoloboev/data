@@ -428,6 +428,7 @@
 - [sasha](https://github.com/phadej/sasha) - Staged lexer generator.
 - [Breadcrumbs](https://github.com/PPKFS/breadcrumbs) - Haskell tracing library.
 - [FilePath](https://github.com/haskell/filepath) - Functionality for manipulating FilePath values.
+- [Trial](https://github.com/kowainik/trial) - Trial Data Structure is a Either-like structure that keeps events history inside.
 
 ## Notes
 

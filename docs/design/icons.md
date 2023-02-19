@@ -157,3 +157,4 @@
 - [Embarcadero](https://github.com/social-squircle/Embarcadero) - Community resource for finding custom SF Symbols and the people who make them.
 - [Making the Cakedesk App Icon (2022)](https://maxschmitt.me/posts/cakedesk-app-icon/)
 - [Icon Libraries](https://github.com/luizov/icon-libraries)
+- [Dashboard Icons](https://github.com/walkxcode/dashboard-icons) - Icons for your personal dashboard.

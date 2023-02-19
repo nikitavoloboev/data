@@ -159,3 +159,4 @@ Use [Google Flights](https://www.google.com/travel/flights) to buy plane tickets
 - [Самое красивое место в котором вы были в жизни](https://twitter.com/ohhiiana/status/1619740412981420034)
 - [GPTravel Advisor](https://gpt-travel-advisor.vercel.app/) - Create a travel itinerary for any city in the world in just a few seconds. ([Code](https://github.com/dabit3/gpt-travel-advisor))
 - [Where to?](https://www.wheretoai.com/)
+- [My Tips for Extended Solo Travel](https://www.reddit.com/r/solotravel/comments/1163bh5/my_tips_for_extended_solo_travel/)

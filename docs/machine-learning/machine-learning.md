@@ -1075,3 +1075,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [The Little Learner (2023)](https://mitpress.mit.edu/9780262546379/the-little-learner/) - Highly accessible, step-by-step introduction to deep learning, written in an engaging, question-and-answer style. ([HN](https://news.ycombinator.com/item?id=34810332))
 - [Paper list of RGBD semantic segmentation](https://github.com/Yangzhangcst/RGBD-semantic-segmentation)
 - [Infinitely Deep Bayesian Neural Networks with Stochastic Differential Equations (2022)](https://arxiv.org/abs/2102.06559) ([Code](https://github.com/xwinxu/bayeSDE))
+- [Auxiliary Learning as an Asymmetric Bargaining Game (2023)](https://arxiv.org/abs/2301.13501) ([Code](https://github.com/AvivSham/auxinash))

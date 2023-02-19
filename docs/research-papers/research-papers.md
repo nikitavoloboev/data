@@ -220,3 +220,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arXivGPT](https://github.com/hunkimForks/chatgpt-arxiv-extension) - Browser extension that enhance search engines with ChatGPT.
 - [Ask HN: Bots for summarizing and searching complex scientific papers? (2023)](https://news.ycombinator.com/item?id=34756155)
 - [BibLaTeX](https://github.com/typst/biblatex) - Rust crate for parsing and writing BibTeX and BibLaTeX files.
+- [ResearchGPT](https://github.com/mukulpatnaik/researchgpt) - Interface to enable a conversation with a research paper.

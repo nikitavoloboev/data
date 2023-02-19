@@ -154,6 +154,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Fosdem.app](https://github.com/mttcrsp/fosdem) - iOS app for all things FOSDEM.
 - [Expenso](https://github.com/sameersyd/Expenso-iOS) - Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics.
 - [CollegeCGPAios](https://github.com/AbGhost-cyber/CollegeCGPAios) - Offline academic tracker app.
+- [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
 
 ## Other
 

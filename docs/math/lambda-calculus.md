@@ -102,3 +102,4 @@ Is logical theory of computable functions.
 - [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
 - [Intro to FP Through λ-Calc Part 1. - Motivating Laziness (2020)](https://jonathanlorimer.dev/posts/motivating-laziness.html)
 - [Sequoia](https://github.com/robrix/sequoia) - Implementation of classical logic in a sequent calculus, embedded in intuitionistic logic.
+- [LEOG](https://github.com/pigworker/LEOG) - Implementation of the calculus of constructions.
