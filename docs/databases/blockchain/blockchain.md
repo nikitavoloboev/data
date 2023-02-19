@@ -432,3 +432,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [IC internals: the ICP ledger (2022)](https://mmapped.blog/posts/13-icp-ledger.html)
 - [phoenix](https://github.com/Ellipsis-Labs/phoenix-v1) - On-chain order book that atomically settles trades.
 - [Mars](https://github.com/deepeth/mars) - Powerful analysis platform to explore and visualize data from blockchain.
+- [Simperby](https://github.com/postech-dao/simperby) - Simple, permissioned, and BFT blockchain for decentralized organizations.

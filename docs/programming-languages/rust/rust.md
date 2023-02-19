@@ -1053,3 +1053,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Smoke-testing Rust HTTP clients (2020)](https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6)
 - [Aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time.
 - [I love building a startup in Rust. I wouldn't pick it again. (2023)](https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again) ([HN](https://news.ycombinator.com/item?id=34835631)) ([Reddit](https://www.reddit.com/r/programming/comments/1158q56/i_love_building_a_startup_in_rust_i_wouldnt_pick/))
+- [Learn Rust with Rustlings 5.2.1 (No C required) (2022)](https://www.youtube.com/watch?v=G3Vr-yswlaU)

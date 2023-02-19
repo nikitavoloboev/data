@@ -134,3 +134,4 @@ title: Vite
 - [Vite Plugin SVGO](https://github.com/r3dDoX/vite-plugin-svgo) - Vite plugin to import and compress svg files with SVGO.
 - [Vite PWA](https://vite-pwa-org.netlify.app/) ([GitHub](https://github.com/vite-pwa))
 - [Vite Plugin GLSL](https://github.com/UstymUkhman/vite-plugin-glsl) - Import, inline (and compress) GLSL shader files.
+- [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - Vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat.

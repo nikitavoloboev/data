@@ -292,6 +292,6 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Deep dive into diagram layout engines: Minimizing hierarchical edge crossings (2023)](https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/) ([HN](https://news.ycombinator.com/item?id=34576941))
 - [How to almost build an E2EE local-first app (2023)](https://www.zaynetro.com/post/how-to-build-e2ee-local-first-app/)
 - [Scalability is overrated (2023)](https://waseem.substack.com/p/scalability-is-overrated) ([HN](https://news.ycombinator.com/item?id=34656776))
-- [Local-First Web Development](https://localfirstweb.dev/) ([Code](https://github.com/localfirstweb/localfirstweb.dev))
+- [Local-First Web Development](https://localfirstweb.dev/) ([Code](https://github.com/localfirstweb/localfirstweb.dev)) ([HN](https://news.ycombinator.com/item?id=34857435))
 - [Ask HN: What is the most pleasant, uncomplicated full stack to start with? (2023)](https://news.ycombinator.com/item?id=34799072)
 - [DiagramAsText.dev](https://diagramastext.dev/) - Generate diagram based on textual description. ([Code](https://github.com/kislerdm/diagramastext))

@@ -241,3 +241,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [Erdtree](https://github.com/solidiquis/erdtree) - Multi-threaded file-tree visualizer and disk usage analyzer.
 - [clipboard](https://github.com/amilajack/clipboard) - Better command line clipboard.
 - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Shell script which checks your $HOME for unwanted files and directories.
+- [greple](https://github.com/kaz-utashiro/greple) - Extensible grep with lexical expression and region handling.
