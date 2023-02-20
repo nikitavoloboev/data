@@ -1,5 +1,7 @@
 # Haskell libraries
 
+[Hakyll + Nix template](https://github.com/rpearce/hakyll-nix-template) is [nice starter](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html).
+
 ## Web
 
 - [Okapi](https://github.com/monadicsystems/okapi) - Micro web framework for Haskell. ([Web](https://www.okapi.wiki/)) ([HN](https://news.ycombinator.com/item?id=33654192))
@@ -496,3 +498,4 @@
 - [haskell-flake](https://github.com/srid/haskell-flake) - Flake-parts Nix module for Haskell development.
 - [if-instance](https://github.com/sheaf/if-instance) - GHC plugin to branch on whether a constraint is satisfied.
 - [guardian](https://github.com/deepflowinc/guardian) - Border guardian for your Haskell monorepo package dependencies.
+- [Hakyll + Nix template](https://github.com/rpearce/hakyll-nix-template) ([Tutorial](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html))

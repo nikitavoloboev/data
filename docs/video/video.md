@@ -494,4 +494,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [VideoMash](https://github.com/aswanthkoleri/VideoMash) - Summarize your video to any duration.
 - [Davinci Resolve | First 6 Months after Switching (2022)](https://www.youtube.com/watch?v=Ho3wbzPB1sg)
 - [InCaptions](https://incaptions.com/) - Search in YouTube Captions. ([HN](https://news.ycombinator.com/item?id=34826944))
-- [Infinite Storage Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - Lets you embed files into video and upload them to YouTube as storage.
+- [Infinite Storage Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - Lets you embed files into video and upload them to YouTube as storage. ([HN](https://news.ycombinator.com/item?id=34866808))

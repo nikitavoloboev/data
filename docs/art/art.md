@@ -375,6 +375,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Oystein Aspelund](http://oysteinaspelund.com/)
 - [Rachael Talibart](https://www.instagram.com/rachaeltalibart/)
 - [Joshua K. Jackson](https://www.joshkjack.com/)
+- [Olesya Shatskova](https://www.instagram.com/olesyashatskova/)
 - [Agnieszka Pałuk](https://www.instagram.com/wietrznica/)
 - [Petri Levälahti](https://www.berdu.org/)
 - [Teemu](https://www.instagram.com/teemu.jpeg/)
