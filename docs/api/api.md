@@ -466,3 +466,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Embedbase](https://www.embedbase.xyz/) - Build embeddings-powered apps in a few lines of code.
 - [Ask HN: What is the most barebone back end solution? (2023)](https://news.ycombinator.com/item?id=34869884)
 - [OpenAPI to Postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI specs to the Postman Collection format.
+- [Step CI](https://stepci.com/) - Fully automated API Testing and Quality Assurance. ([GitHub](https://github.com/stepci))
