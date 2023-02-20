@@ -120,3 +120,4 @@ title: Conflict-free replicated data type
 - [Hocuspocus](https://github.com/ueberdosis/hocuspocus) - Y.js WebSocket backend.
 - [y-supabase](https://github.com/AlexDunmow/y-supabase) - Supabase Provider for Yjs.
 - [Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html) ([HN](https://news.ycombinator.com/item?id=34746716))
+- [CRDT work (2023)](https://rhonabwy.com/2023/02/19/crdt-work/)

@@ -1538,3 +1538,4 @@
 - [Gazelle Plugin for Swift and Swit Package Rules for Bazel](https://github.com/cgrindel/swift_bazel)
 - [dependency-graph](https://github.com/simonbs/dependency-graph) - Command-line tool that can visualize the dependencies of packages.
 - [Swift Package Template](https://github.com/StanfordBDHG/SwiftPackageTemplate)
+- [Creating an XCFramework (2023)](https://rhonabwy.com/2023/02/10/creating-an-xcframework/)

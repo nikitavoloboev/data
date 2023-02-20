@@ -123,3 +123,4 @@ My favorite work setup is something [like this](https://twitter.com/neee_eeed/st
 - [Which is the single BEST exercise for posture correction? (2023)](https://www.reddit.com/r/Posture/comments/10pvhcs/which_is_the_single_best_exercise_for_posture/)
 - [How To Ergonomically Set Up Herman Miller Embody (Logitech G)](https://www.youtube.com/watch?v=5-WWERDd2ys)
 - [What's the best computer desk chair for under $500?](https://twitter.com/thesamparr/status/1458505674313375746)
+- [Fixing Back Pain Permanently (2023)](https://andrewconner.com/fixing-back-pain/)

@@ -4,7 +4,7 @@ title: PostgreSQL
 
 # [PostgreSQL](https://www.postgresql.org)
 
-[Internals of PostgreSQL](https://www.interdb.jp/pg/), [The Art of PostgreSQL](https://theartofpostgresql.com/) & [Postgres Docs](https://www.postgresql.org/docs/) great reads.
+[Internals of PostgreSQL](https://www.interdb.jp/pg/), [The Art of PostgreSQL](https://theartofpostgresql.com/) & [Postgres Docs](https://www.postgresql.org/docs/) are great reads.
 
 [Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs. Looking into [EdgeDB](edgedb.md) now as it builds on top of Postgres and has [many nice features](https://www.youtube.com/watch?v=6LqbBF0KAXE). [Citus](https://github.com/citusdata/citus) & [Snaplet](https://www.snaplet.dev/) seem neat too.
 
