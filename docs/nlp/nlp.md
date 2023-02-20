@@ -845,3 +845,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [FlexGen](https://github.com/Ying1123/FlexGen) - Running large language models like ChatGPT/GPT-3/OPT-175B on a single GPU. Up to 100x faster than other offloading systems. ([HN](https://news.ycombinator.com/item?id=34869960))
 - [Butterfish](https://github.com/bakks/butterfish) - CLI tools for LLMs.
+- [Elk](https://github.com/EleutherAI/elk) - Eliciting latent knowledge inside the activations of a language model.

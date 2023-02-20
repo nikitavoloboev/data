@@ -70,3 +70,4 @@ title: Signal processing
 - [Go DSP Utils](https://github.com/eripe970/go-dsp-utils) - Digital signal processing package for Go.
 - [CamillaDSP](https://github.com/HEnquist/camilladsp) - Flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
 - [NxSignal](https://github.com/elixir-nx/nx_signal) - Digital Signal Processing with Nx.
+- [Diospyros](https://github.com/cucapra/diospyros) - Compiler for generating high-performance, intrinsics-based code for linear algebra kernels running on digital signal processors.
