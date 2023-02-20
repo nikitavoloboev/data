@@ -642,3 +642,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [AI Commits](https://github.com/Nutlope/aicommits) - CLI that writes your git commit messages for you with AI. ([HN](https://news.ycombinator.com/item?id=34790721))
 - [The Myers diff algorithm: part 1 (2017)](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 - [gitly](https://github.com/iwatakeshi/gitly) - API to download and/or extract git repositories.
+- [zero-g](https://github.com/kim/it) - Augment git with primitives to build integrated, cryptographically verifiable collaboration workflows around source code.

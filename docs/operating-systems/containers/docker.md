@@ -10,6 +10,8 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 
 I use [GitHub container registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry) to store docker containers.
 
+[dive](https://github.com/wagoodman/dive) is neat tool explore contents of each image.
+
 ## Links
 
 - [Docker Docs](https://docs.docker.com/) ([Code](https://github.com/docker/docker.github.io))
