@@ -2,7 +2,7 @@
 
 I manage my money with [N26](https://n26.com/en-gb/) (great in EU). When I lived in UK, [Monzo](https://monzo.com) was great.
 
-I try keep a minimum of 2000 euro on the account at any time (to cover emergency spending + monthly bills). Often this is [aspirational and I can barely afford food](../looking-back/2023-january.md). 
+I try keep a minimum of 2000 euro on the account at any time (to cover emergency spending + monthly bills). Often this is [aspirational and I can barely afford food](../looking-back/2023/2023-january.md).
 
 I budget the next month (make sure enough money is on main account for the month) as well as rebalance my [investment portfolio of stocks/ETFs](investing.md) (if necessary) at first day of each month as part of a monthly [look back](../looking-back/looking-back.md). I also invest into [ideas that interest me](../ideas/ideas.md) & support open source projects & people I love. Currently I do this in [Notion](../tools/notion.md) and it looks like this:
 
