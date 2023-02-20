@@ -10,7 +10,7 @@ I love Twitter as it's currently still the best place to stream your thoughts to
 
 I have trust Twitter will improve despite questionable past decisions. They will [make mistakes, roll things back, learn and adapt](https://twitter.com/esthercrawford/status/1590386711179464705). My main concern with Twitter is the lack of transparency around decision making involving suspensions, the amount of bots spamming notifications and DMs and that the code is not open source.
 
-I'd also love it if they could make bookmarking tweets fast on mobile. Either by letting users long press on like icon to bookmark or by simply adding another icon button next to like on tweets. Right now to bookmark, you have to press share icon, wait, then press bookmark. 😠
+I'd also love it if they could make bookmarking tweets fast on mobile. Ideally by allowing users to swap the view count on tweets in the feed with a bookmark icon similar to what you see when you open a tweet in full view. I often use bookmarks for interesting things I want to see in detail later and it takes too long time to bookmark now. 😞
 
 I'd also love for something like [Nostr](../social-networks/nostr.md) or [Farcaster](../social-networks/farcaster.md) protocols to power a service like Twitter with all the UX niceness that Twitter has. [Decentralization](../networking/decentralization.md) has its issues but I think in the long term, a true public web square should be in the power of the community.
 

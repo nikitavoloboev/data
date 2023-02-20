@@ -145,3 +145,4 @@
 - [whoarethey: Determine Who Can Log In to an SSH Server (2023)](https://www.agwa.name/blog/post/whoarethey) ([Lobsters](https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh)) ([HN](https://news.ycombinator.com/item?id=34332245)) ([Code](https://github.com/AGWA/whoarethey))
 - [I don't understand terminals, shells and SSH (2023)](https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/) ([HN](https://news.ycombinator.com/item?id=34382976))
 - [napi-rs/ssh](https://github.com/Brooooooklyn/ssh)
+- [Dropbear SSH](https://matt.ucc.asn.au/dropbear/dropbear.html) - Self-contained client/server for embedded systems.

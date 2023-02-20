@@ -48,3 +48,4 @@ title: Nostr
 - [Decentralized blogs over relay using Nostr w/ ⚡ lightning tips](https://github.com/nodetec/blogstack)
 - [Nostr Rust](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI.
 - [blastr](https://github.com/MutinyWallet/blastr) - Nostr cloudflare workers proxy relay that publishes to all known online relays.
+- [Keystr](https://github.com/keystr/keystr-rs) - Application for managing Nostr keys.
