@@ -257,3 +257,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Keep](https://github.com/keephq/keep) - Manage your alerts by code, write better more actionable and accurate alerts.
 - [Don't deploy manually (2023)](https://www.youtube.com/watch?v=R2ImVl1skY8)
 - [xc](https://github.com/joerdav/xc) - Simple, Convenient, Markdown defined task runner.
+- [Traceo](https://github.com/traceo-dev/traceo) - Simple platform to monitor application performance with error handling.

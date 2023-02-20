@@ -319,3 +319,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Solana Froth VSCode](https://marketplace.visualstudio.com/items?itemName=SiriusHash.solana-froth) - Get info about Solana blockchain and wallets from VSCode. ([Code](https://github.com/Sirius-Hash/solana-froth-vscode))
 - [Bokken](https://github.com/Blade-Labs-Corp/bokken) - Solana program debugger. ([Web](https://www.blade.so/solana-debugger))
 - [Drift Protocol v2](https://github.com/drift-labs/protocol-v2) - On-chain perpetuals dex with multiple liquidity mechanisms.
+- [HowRare Solana RPC proxy](https://github.com/HowRareIs/solproxy) - Allow project creators to freely route Solana RPC calls to different Solana nodes utilizing prioritization and capping.

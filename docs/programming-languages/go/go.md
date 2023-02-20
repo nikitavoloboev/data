@@ -975,3 +975,4 @@ if *boolArgPtr != false {
 - [Go Performance Tools Cheat Sheet (2021)](https://steveazz.xyz/blog/go-performance-tools-cheat-sheet/)
 - [Advanced Testing with Go by Mitchell Hashimoto (2016)](https://www.youtube.com/watch?v=yszygk1cpEc)
 - [Best practices writing Go (2023)](https://www.reddit.com/r/golang/comments/116bt2s/hey_what_are_some_best_practices_for_coding_in_go/)
+- [ireturn](https://github.com/butuzov/ireturn) - Accept Interfaces, Return Concrete Types.
