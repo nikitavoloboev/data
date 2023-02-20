@@ -357,3 +357,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Knox](https://github.com/pinterest/knox) - Service for storing and rotation of secrets, keys, and passwords used by other services.
 - [Hacking into Toyota’s global supplier management network (2023)](https://eaton-works.com/2023/02/06/toyota-gspims-hack/)
 - [Adventures in password hashing + migrating to Argon2id (2023)](https://brandur.org/fragments/password-hashing) ([Lobsters](https://lobste.rs/s/grhaov/adventures_password_hashing_migrating))
+- [rbw](https://github.com/doy/rbw) - Bitwarden CLI.

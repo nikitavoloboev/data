@@ -465,3 +465,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Dozer](https://github.com/getdozer/dozer) - Open-source platform to build, publish and manage blazing-fast real-time data APIs in minutes. ([Web](https://getdozer.io/))
 - [Embedbase](https://www.embedbase.xyz/) - Build embeddings-powered apps in a few lines of code.
 - [Ask HN: What is the most barebone back end solution? (2023)](https://news.ycombinator.com/item?id=34869884)
+- [OpenAPI to Postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI specs to the Postman Collection format.

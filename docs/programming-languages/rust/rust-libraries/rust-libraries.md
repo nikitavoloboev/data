@@ -84,6 +84,7 @@
 - [CLI Batteries](https://github.com/recmo/cli-batteries) - Batteries included command line interfaces.
 - [kdam](https://github.com/clitic/kdam) - Console progress bar library for rust.
 - [tracing-indicatif](https://github.com/emersonford/tracing-indicatif) - Tracing layer that automatically creates and manages progress bars for active spans.
+- [vt100](https://github.com/doy/vt100-rust) - Parses a terminal byte stream and provides an in-memory representation of the rendered contents.
 
 ## Web
 

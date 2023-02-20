@@ -14,6 +14,8 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 
 There's lots of low hanging fruit prompts that you can make into great products. Like [Travel Advisor](https://twitter.com/dabit3/status/1622330852943319048) that is essentially a UI over [`what is an ideal itinerary for ${days} days in ${city}?` query](https://github.com/dabit3/gpt-travel-advisor/blob/31415cf89c822f51e192ec5111feddd6b9917b54/pages/api/get-itinerary.ts#L32).
 
+[FlexGen](https://github.com/Ying1123/FlexGen) is nice way to train own GPT on just one GPU.
+
 ## Interesting queries
 
 - [Can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)

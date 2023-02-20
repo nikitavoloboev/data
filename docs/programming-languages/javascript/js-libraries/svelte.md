@@ -353,3 +353,4 @@ title: Svelte
 - [Svelte Radial Menu](https://github.com/TGlide/svelte-radial-menu)
 - [Svelte Carousel](https://github.com/vadimkorr/svelte-carousel)
 - [SvelteKit Authentication and Authorization Example](https://github.com/nstuyvesant/sveltekit-auth-example)
+- [Svelte(Kit) examples](https://github.com/sveltejs/examples)
