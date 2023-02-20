@@ -294,3 +294,4 @@
 - [JIT compiler in Go](https://github.com/bspaans/jit-compiler)
 - [Three approaches to heap sizing (2023)](https://wingolog.org/archives/2023/01/27/three-approaches-to-heap-sizing)
 - [LVC](https://github.com/sigurdschneider/lvc) - Linear Verified Compiler in Coq.
+- [CoreJIT](https://github.com/Aurele-Barriere/CoreJIT) - Formally Verified Speculation and Deoptimization in a JIT Compiler.

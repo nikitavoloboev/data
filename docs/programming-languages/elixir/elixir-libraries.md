@@ -290,6 +290,7 @@
 - [Assent](https://github.com/pow-auth/assent) - Multi-provider authentication framework.
 - [ErrorMessage](https://github.com/MikaAK/elixir_error_message) - Simplify error systems.
 - [Mix Unused](https://github.com/hauleth/mix_unused) - Find unused functions in your project.
+- [LoggerBackends](https://github.com/elixir-lang/logger_backends) - Logger backends functionality for Elixir.
 
 ## Links
 

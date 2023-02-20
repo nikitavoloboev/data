@@ -842,3 +842,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural Code Generation (2022)](https://arxiv.org/abs/2208.08227) ([Code](https://github.com/nuprl/MultiPL-E))
 - [How to make LLMs say true things (2023)](https://evanjconrad.com/posts/world-models)
 - [A Fast Post-Training Pruning Framework for Transformers (2022)](https://arxiv.org/abs/2204.09656) ([Code](https://github.com/WoosukKwon/retraining-free-pruning))
+- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)

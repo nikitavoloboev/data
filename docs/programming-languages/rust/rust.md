@@ -20,7 +20,7 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [MacroKata](https://github.com/tfpk/macrokata) is great for learning macros. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) & [Rust Performance](https://nnethercote.github.io/perf-book/introduction.html) are nice reads to learn best practices. [LifetimeKata](https://tfpk.github.io/lifetimekata/index.html) is nice to understand lifetimes.
 
-[Fenix](https://github.com/nix-community/fenix) is interesting.
+[Fenix](https://github.com/nix-community/fenix) is interesting. [Aquascope](https://cognitive-engineering-lab.github.io/aquascope/) is nice tool.
 
 [Rerun](https://github.com/rerun-io/rerun) has great code to study for how to build an app in Rust.
 
