@@ -336,3 +336,5 @@
 - [Stitchable Neural Networks (2023)](https://arxiv.org/abs/2302.06586) ([Code](https://github.com/ziplab/SN-Net))
 - [Transformer models: an introduction and catalog (2023)](https://arxiv.org/abs/2302.07730) ([HN](https://news.ycombinator.com/item?id=34816184)) ([Code](https://github.com/xamat/TransformerCatalog))
 - [Scalable training for dense retrieval models](https://github.com/facebookresearch/dpr-scale)
+- [Transformer Architecture from scratch in PyTorch](https://github.com/Khaliladib11/Transformer-from-scratch)
+- [Reimplementation of the Forward-Forward Algorithm](https://github.com/loeweX/Forward-Forward)

@@ -368,3 +368,4 @@ title: GraphQL
 - [GraphQL Ideal API notes](https://github.com/orta/graphql-api-goals)
 - [GraphQL Scalars specifications](https://github.com/graphql/graphql-scalars)
 - [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader) - Zero-dependency esbuild plugin that allows for the importing of GraphQL files.
+- [graphql-print](https://github.com/thomasheyenbrock/graphql-print) - Printer that GraphQL always deserved.

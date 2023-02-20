@@ -464,3 +464,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Pentiment | Lettermatic (2022)](https://lettermatic.com/custom/pentiment)
 - [Google Fonts project template](https://github.com/googlefonts/googlefonts-project-template) - Repository architecture example for a typeface design project.
 - [Type Design Resources](https://typedesignresources.com/)
+- [freetype-rs](https://github.com/PistonDevelopers/freetype-rs) - Rust bindings for FreeType library.

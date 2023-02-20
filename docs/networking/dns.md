@@ -271,3 +271,4 @@ title: DNS
 - [resolved](https://github.com/barrucadu/resolved) - Simple DNS server for home networks.
 - [FaF DNS Proxy](https://github.com/errantmind/faf-dns-proxy) - DNS-over-TLS (DoT) Proxy, Engineered for Speed.
 - [Building a CoreDNS plugin (2023)](https://mrkaran.dev/posts/coredns-nomad/)
+- [dns-detector](https://github.com/sun0day/dns-detector) - Tiny Node cli tool to resolve host IPs and find the fastest IP.

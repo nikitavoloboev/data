@@ -179,3 +179,4 @@ title: Speech recognition
 - [Speaker Diarization Using OpenAI Whisper](https://github.com/MahmoudAshraf97/whisper-diarization)
 - [WaaS](https://github.com/schibsted/WAAS) - Self-host Whisper As a Service with GUI and queueing. ([HN](https://news.ycombinator.com/item?id=34770898))
 - [Faster Whisper transcription with CTranslate2](https://github.com/guillaumekln/faster-whisper)
+- [FunASR: Fundamental End-to-End Speech Recognition Toolkit](https://github.com/alibaba-damo-academy/FunASR)

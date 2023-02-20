@@ -331,3 +331,4 @@ Want to build my own version of [Monocle](https://github.com/thesephist/monocle)
 - [Ask HN: Are we sure LLMs are that useful in a web search application? (2023)](https://news.ycombinator.com/item?id=34723275)
 - [ql-grep](https://github.com/travitch/ql-grep) - Code search tool that implements CodeQL on the tree-sitter infrastructure.
 - [New approach to domain ranking (2023)](https://memex.marginalia.nu/log/73-new-approach-to-ranking.gmi)
+- [Creating a Search Engine For My Music Streaming Platform (2023)](https://nectarine.sh/posts/creating-a-search-engine-for-my-streaming-platform/) ([HN](https://news.ycombinator.com/item?id=34834641))

@@ -188,6 +188,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Huffy](https://github.com/fabiospampinato/huffy) - Tiny compression library based on Huffman coding.
 - [merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - JavaScript library to generate merkle trees and merkle proofs.
 - [uncrypto](https://github.com/unjs/uncrypto) - Single API for Web Crypto API and Crypto Subtle working in Node.js, Browsers and other runtimes.
+- [zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn) - Low-Budget Password Strength Estimation.
 
 ## Error
 
@@ -196,6 +197,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail.
 - [Erreur](https://github.com/etienne-dldc/erreur) - Type safe custom errors.
 - [Modern-Errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way.
+- [Typescript Custom Error](https://github.com/adriengibrat/ts-custom-error) - Extend native Error to create custom errors.
 
 ## Other
 

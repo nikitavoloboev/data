@@ -360,6 +360,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React Data Grid](https://github.com/inovua/reactdatagrid)
 - [json-editor](https://github.com/sagold/json-editor) - Simple beautiful API for your custom form generator powered by json-schema.
 - [HouseForm](https://github.com/crutchcorn/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
+- [react-hook-qrcode-svg](https://github.com/alexzel/react-hook-qrcode-svg) - React hook that generates QR code and returns SVG path.
 
 ## Links
 

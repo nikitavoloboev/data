@@ -324,7 +324,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation (2022)](https://arxiv.org/abs/2211.12572) ([Code](https://github.com/MichalGeyer/plug-and-play))
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models.
 - [CLIP Guided Diffusion](https://github.com/afiaka87/clip-guided-diffusion) - CLI tool/python module for generating images from text using guided diffusion and CLIP from OpenAI.
-- [TileMaker](https://tilemaker.app/) - Create seamless tiled images with material diffusion. ([HN](https://news.ycombinator.com/item?id=34764998))
+- [TileMaker](https://tilemaker.app/) - Create seamless tiled images with material diffusion. ([HN](https://news.ycombinator.com/item?id=34764998)) ([Code](https://github.com/replicate/tilemaker))
 - [Illusion Diffusion](https://github.com/tancik/Illusion-Diffusion) - Optical illusions using stable diffusion. ([HN](https://news.ycombinator.com/item?id=34769970))
 - [Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models](https://attendandexcite.github.io/Attend-and-Excite/) ([Code](https://github.com/AttendAndExcite/Attend-and-Excite))
 - [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation (2023)](https://multidiffusion.github.io/) ([Code](https://github.com/omerbt/MultiDiffusion))

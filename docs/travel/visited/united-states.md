@@ -12,7 +12,7 @@ For now I am personally interested in [building global companies](../../business
 
 I try to avoid pointless politics news as much as possible but do like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer) & [George Friedman](https://twitter.com/george_friedman)'s analysis in regards to US foreign policy.
 
-[Ask Americans](https://www.reddit.com/r/AskAnAmerican/) is fun subreddit.
+[Ask Americans](https://www.reddit.com/r/AskAnAmerican/) is fun subreddit. Liked [this episode](https://www.youtube.com/watch?v=cR5TWIPkMks) on issues US has regarding housing/health care policies amongst other things.
 
 ## Notes
 

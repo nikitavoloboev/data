@@ -139,3 +139,4 @@ title: WebSocket
 - [ws](https://github.com/nikneym/ws) - WebSocket library for Zig.
 - [gws](https://github.com/lxzan/gws) - Event-driven go WebSocket server.
 - [Direct Sockets: Proposal for a future web platform API](https://github.com/WICG/direct-sockets/blob/main/docs/explainer.md) ([HN](https://news.ycombinator.com/item?id=34850903))
+- [streamscope](https://github.com/mikedewar/streamscope) - Visualize streams of data through a WebSocket.

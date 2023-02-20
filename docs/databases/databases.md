@@ -281,6 +281,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Snowflake](https://www.snowflake.com/en/) ([Learn SnowflakeDB](https://github.com/lynnlangit/learn-snowflakedb))
 - [Apache Kvrocks](https://kvrocks.apache.org/) - Distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. ([Web Code](https://github.com/apache/incubator-kvrocks-website))
 - [Billy](https://github.com/holiman/billy) - Super simple data store in Go.
+- [AllyDB](https://github.com/Allyedge/allydb) - In-memory database similar to Redis, built using Elixir.
 
 ## Tools
 

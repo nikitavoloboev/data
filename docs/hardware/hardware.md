@@ -15,6 +15,7 @@
 ## Notes
 
 - [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)
+- [Transistors are voltage or current controlled resistors, depending on the type FET or BJT. They are considered to be switches if the resistance when turned fully ON is low enough for a particular application.](https://www.reddit.com/r/ElectricalEngineering/comments/116jubz/so_transistors_are_not_really_switches/)
 
 ## Links
 

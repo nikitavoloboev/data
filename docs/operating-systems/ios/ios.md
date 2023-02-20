@@ -10,6 +10,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Runestone](https://github.com/simonbs/Runestone) - Performant plain text editor for iOS with code editing features. ([Docs](https://docs.runestone.app/documentation/)) ([Docs Code](https://github.com/simonbs/docs.runestone.app))
 - [iOS Swift Chat App](https://github.com/cometchat-pro/ios-swift-chat-app) - Open-source Voice & Video Calling and Text Chat App for Swift.
 - [Spotify Client](https://github.com/salvadordeveloper/ios-spotify) - Using Swift & UIKit. ([Tutorial](https://www.youtube.com/playlist?list=PL5PR3UyfTWve9ZC7Yws0x6EGjBO2FGr0o))
+- [Online Store TCA](https://github.com/pitt500/OnlineStoreTCA) - Demo with the basics of Composable Architecture.
 - [Notes-App](https://github.com/kwameaj67/Notes-App) - iOS app to help users create short notes as reminders and categorize them into folders.
 - [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen) - Launch screen made with SwiftUI and RealityKit.
 - [BreadBuddy](https://github.com/maxhumber/BreadBuddy) - Open source recipe scheduler for iOS.

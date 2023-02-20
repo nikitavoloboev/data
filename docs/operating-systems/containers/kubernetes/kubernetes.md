@@ -926,3 +926,5 @@ title: Kubernetes
 - [KHole](https://github.com/cloud-native-skunkworks/khole) - Simple operator to alert on broken Kubernetes pods.
 - [Timoni](https://github.com/stefanprodan/timoni) - Package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [Moving from Kubernetes to Podman (2023)](https://floofy.dev/blog/k8s-to-podman)
+- [VolSync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes.
+- [kubectl-count](https://github.com/chenjiandongx/kubectl-count) - Count resources by kind.

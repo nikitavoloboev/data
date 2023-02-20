@@ -34,3 +34,6 @@
 - [Ask HN: Anyone else feels the commoditization of real estate is unethical? (2022)](https://news.ycombinator.com/item?id=32448825)
 - [Realiste.io](https://realiste.io/eng) - Online broker for real estate investing.
 - [Tax advantages for investing in real estate in US (2023)](https://twitter.com/ankurnagpal/status/1626244622082101248)
+- [Zillow](https://www.zillow.com/) - Real Estate, Apartments, Mortgages & Home Values.
+- [Redfin](https://www.redfin.com/) - Real Estate, Homes for Sale, MLS Listings, Agents.
+- [Trulia](https://www.trulia.com/) - Real Estate Listings, Homes For Sale, Housing Data.

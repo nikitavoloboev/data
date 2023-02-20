@@ -98,3 +98,4 @@ Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 - [prost-reflect](https://github.com/andrewhickman/prost-reflect) - Protobuf library extending prost with reflection support and dynamic messages.
 - [protox](https://github.com/andrewhickman/protox) - Pure-rust protobuf compiler, designed for use with prost-build.
 - [setup-protoc](https://github.com/Noelware/setup-protoc) - GitHub action for setting up the Protocol Buffers compiler.
+- [Timestamp](https://github.com/aperturerobotics/timestamp) - Protobuf cross-language timestamp encoding.

@@ -2692,6 +2692,7 @@
 - [velocity](https://github.com/knvi/velocity) - Efficient ID system written in Rust.
 - [robusta](https://github.com/giovanniberti/robusta) - Easy interop between Rust and Java.
 - [netstat2](https://github.com/ohadravid/netstat2-rs) - Cross-platform Rust library to retrieve network sockets information.
+- [qrcode-rust](https://github.com/sayanarijit/qrcode-rust) - QR code and Micro QR code encoder in Rust.
 
 ## Cargo Plugins
 

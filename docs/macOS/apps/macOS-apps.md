@@ -340,3 +340,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [Ask HN: Resources to Learn macOS Development? (2023)](https://news.ycombinator.com/item?id=34680345)
 - [Reducing Tailscale’s binary size on macOS (2023)](https://tailscale.com/blog/macos-binary-size/) ([HN](https://news.ycombinator.com/item?id=34833387))
 - [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable) ([HN](https://news.ycombinator.com/item?id=34841742))
+- [node-appdmg](https://github.com/LinusU/node-appdmg) - Generate beautiful DMG-images for your macOS applications.

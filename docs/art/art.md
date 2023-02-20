@@ -586,3 +586,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Moiré no more (2021)](https://newsletter.shifthappens.site/archive/moire-no-more/)
 - [Ask HN: How do I get into Art? (2023)](https://news.ycombinator.com/item?id=34416748)
 - [Light and Color in the Outdoors Book (1993)](https://www.goodreads.com/en/book/show/740853)
+- [How to better earn money from selling your art](https://twitter.com/pobedeen/status/1593553746553872388)

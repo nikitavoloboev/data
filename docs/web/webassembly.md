@@ -427,3 +427,4 @@ title: WebAssembly
 - [Making really tiny WebAssembly graphics demos (2019)](https://cliffle.com/blog/bare-metal-wasm/)
 - [Tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly.
 - [sightglass](https://github.com/bytecodealliance/sightglass) - Benchmarking suite and tooling for Wasmtime and Cranelift.
+- [How to use WebAssembly in various languages](https://github.com/vmware-labs/wasm-languages)

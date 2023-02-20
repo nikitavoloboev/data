@@ -144,3 +144,6 @@ title: GPU
 - [GPU Caching Compared Among AMD, Intel UHD, Apple M1 (2022)](https://chipsandcheese.com/2022/05/21/igpu-cache-setups-compared-including-m1/) ([HN](https://news.ycombinator.com/item?id=34403464))
 - [GPUs for Deep Learning in 2023 – An In-depth Analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/) ([HN](https://news.ycombinator.com/item?id=34431056))
 - [GPU-Backed User Interfaces (2023)](https://digest.browsertech.com/archive/gpu-backed-user-interfaces/) ([HN](https://news.ycombinator.com/item?id=34692645))
+- [Apple GPU micro architecture](https://github.com/philipturner/metal-benchmarks)
+- [GPU Tester](https://github.com/rom1504/gpu-tester) - Detects broken and slow GPUs in a cluster.
+- [NVIDIA Cloud Native Stack](https://github.com/NVIDIA/cloud-native-stack) - Run cloud native workloads on NVIDIA GPUs.

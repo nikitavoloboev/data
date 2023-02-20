@@ -326,3 +326,4 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 - [Twitter Video Tools](https://github.com/code-yeongyu/TwitterVideoTools) - Multi-processing supported twitter video downloader.
 - [Intercepting t.co links using DNS rewrites (2023)](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/) ([HN](https://news.ycombinator.com/item?id=34571448)) ([Lobsters](https://lobste.rs/s/zvpabd/intercepting_t_co_links_using_dns))
 - [Bird.makeup](https://bird.makeup/) - Twitter to ActivityPub bridge. ([HN](https://news.ycombinator.com/item?id=34748669)) ([Code](https://sr.ht/~cloutier/bird.makeup/))
+- [TwitterBackup](https://github.com/one-among-us/TwitterBackup) - Backup other users' twitter accounts with Twitter API.

@@ -206,3 +206,4 @@
 - [My Journey from R to Julia (2023)](https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/) ([HN](https://news.ycombinator.com/item?id=34566340))
 - [mirai](https://github.com/shikokuchuo/mirai) - Minimalist async evaluation framework for R.
 - [rrtools](https://github.com/benmarwick/rrtools) - Tools for Writing Reproducible Research in R.
+- [tibble](https://github.com/tidyverse/tibble) - Modern re-imagining of the data frame.

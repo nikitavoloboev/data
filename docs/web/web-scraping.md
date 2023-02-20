@@ -246,3 +246,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Facepager](https://github.com/strohne/Facepager) - Fetching public available data from YouTube, Twitter and other websites on the basis of APIs and web scraping.
 - [MrScraper](https://mrscraper.com/) - Visual web-scraping tool. ([HN](https://news.ycombinator.com/item?id=34736691))
 - [Fitter](https://github.com/PxyUp/fitter) - Universal scraper for Websites and APIs.
+- [Cloudflare Scrape](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass Cloudflare's anti-bot page.
