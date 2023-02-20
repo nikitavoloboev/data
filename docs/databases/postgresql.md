@@ -4,7 +4,9 @@ title: PostgreSQL
 
 # [PostgreSQL](https://www.postgresql.org)
 
-[Internals of PostgreSQL](https://www.interdb.jp/pg/) is great. [Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs. Looking into [EdgeDB](edgedb.md) now as it builds on top of Postgres and has [many nice features](https://www.youtube.com/watch?v=6LqbBF0KAXE). [Citus](https://github.com/citusdata/citus) & [Snaplet](https://www.snaplet.dev/) seem neat too.
+[Internals of PostgreSQL](https://www.interdb.jp/pg/), [The Art of PostgreSQL](https://theartofpostgresql.com/) & [Postgres Docs](https://www.postgresql.org/docs/) great reads.
+
+[Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs. Looking into [EdgeDB](edgedb.md) now as it builds on top of Postgres and has [many nice features](https://www.youtube.com/watch?v=6LqbBF0KAXE). [Citus](https://github.com/citusdata/citus) & [Snaplet](https://www.snaplet.dev/) seem neat too.
 
 Want to try build something on top of [pgproto3](https://github.com/jackc/pgproto3). Also trying out [pgx](https://github.com/jackc/pgx) as a Go lib to query Postgres.
 
@@ -39,7 +41,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [postgres-operator](https://github.com/CrunchyData/postgres-operator) - Controller that runs within a Kubernetes cluster that provides a means to deploy and manage PostgreSQL clusters.
 - [Fastest Way to Load Data Into PostgreSQL Using Python (2019)](https://hakibenita.com/fast-load-data-python-postgresql)
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
-- [The Art of PostgreSQL](https://theartofpostgresql.com/) - Book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries. ([Lobsters](https://lobste.rs/s/yvhv9r/art_postgresql))
+- [The Art of PostgreSQL](https://theartofpostgresql.com/) - Book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries. ([Lobsters](https://lobste.rs/s/yvhv9r/art_postgresql)) ([Overview](https://tapoueh.org/blog/2019/08/the-art-of-postgresql/))
 - [PLV8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL.
 - [HN: PostgreSQL 12 release (2019)](https://news.ycombinator.com/item?id=21146356)
 - [PostgreSQL: When it’s not your job (2017)](https://thebuild.com/presentations/not-your-job-pgconf-us-2017.pdf)
