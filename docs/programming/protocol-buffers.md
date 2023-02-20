@@ -99,3 +99,4 @@ Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 - [protox](https://github.com/andrewhickman/protox) - Pure-rust protobuf compiler, designed for use with prost-build.
 - [setup-protoc](https://github.com/Noelware/setup-protoc) - GitHub action for setting up the Protocol Buffers compiler.
 - [Timestamp](https://github.com/aperturerobotics/timestamp) - Protobuf cross-language timestamp encoding.
+- [protoCURL](https://github.com/qaware/protocurl) - cURL for Protobuf. ([HN](https://news.ycombinator.com/item?id=34866155))
