@@ -493,3 +493,4 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Great engineering long form writing](https://twitter.com/GergelyOrosz/status/1596073995044278272)
 - [Devblogs](https://devblogs.co/) - Feed of engineering blogs from top tech companies. ([HN](https://news.ycombinator.com/item?id=33991432))
 - [Ask HN: How do people find your blog? (2022)](https://news.ycombinator.com/item?id=34038542)
+- [How to Start Your Blog in 2023](https://molodtsov.me/2023/02/how-to-start-your-blog-in-2023/) ([HN](https://news.ycombinator.com/item?id=34867314))

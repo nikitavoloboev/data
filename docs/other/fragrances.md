@@ -23,3 +23,4 @@ Currently use [Burberry London for Men cologne](https://www.fragrantica.com/perf
 - [What was your worst beginner fragrance mistake? (2022)](https://www.reddit.com/r/fragrance/comments/y8io6e/what_was_your_worst_beginner_fragrance_mistake/)
 - [Jo Malone](https://www.jomalone.eu/)
 - [Lovely men fragrances (2023)](https://www.reddit.com/r/fragrance/comments/115rq2z/current_weapons_of_choice_26m/)
+- [Fragrances that you've smelled and instantly said "I must have this" (2023)](https://www.reddit.com/r/fragrance/comments/116wh3c/fragrances_that_youve_smelled_and_instantly_said/)

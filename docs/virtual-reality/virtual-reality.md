@@ -105,3 +105,4 @@ I am confident that the advancements in computer vision can let you write your o
 - [The Billions-Dollar VR/AR Headset Question (2023)](https://daringfireball.net/2023/01/the_billions-dollar_vr_ar_headset_question) ([Reddit](https://www.reddit.com/r/apple/comments/10mmjtk/the_billionsdollar_vrar_headset_question/))
 - [Why VR/AR Gets Farther Away as It Comes Into Focus (2023)](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
 - [Bigscreen Beyond – Small VR Headset (2023)](https://twitter.com/BigscreenVR/status/1625152589624135698) ([HN](https://news.ycombinator.com/item?id=34775061))
+- [Nice VR games (2023)](https://mobile.twitter.com/meijer_s/status/1627687635647954951)

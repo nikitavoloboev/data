@@ -1152,3 +1152,4 @@
 - [Learning When to Say "I Don't Know" (2022)](https://arxiv.org/abs/2209.04944) ([Code](https://github.com/osu-cvl/learning-idk))
 - [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation (2023)](https://arxiv.org/abs/2302.08113)
 - [NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild (2021)](https://arxiv.org/abs/2110.07604) ([Code](https://github.com/jasonyzhang/ners))
+- [3D Shape Analysis Paper List](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List)

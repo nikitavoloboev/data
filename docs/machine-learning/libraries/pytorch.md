@@ -502,3 +502,4 @@ title: PyTorch
 - [Lion PyTorch](https://github.com/lucidrains/lion-pytorch) - Optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam.
 - [PyTorch tutorial for beginners](https://github.com/L1aoXingyu/pytorch-beginner)
 - [Holistic Trace Analysis](https://github.com/facebookresearch/HolisticTraceAnalysis) - Library to analyze PyTorch traces.
+- [Lightning Pod](https://github.com/JustinGoheen/lightning-pod) - Deep Learning Research Template for the Lightning AI Ecosystem.

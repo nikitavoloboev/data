@@ -682,3 +682,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Kremlin-Linked Group Arranged Payments to European Politicians to Support Russia’s Annexation of Crimea (2023)](https://www.occrp.org/en/investigations/kremlin-linked-group-arranged-payments-to-european-politicians-to-support-russias-annexation-of-crimea)
 - [Певчих – что коррупция сделала с Россией (2023)](https://www.youtube.com/watch?v=E-NJs8-29yw&t=834s)
 - [The Meltdown of Russia's Music Scene (2023)](https://www.youtube.com/watch?v=FSgEW9LFFw8)
+- [One Year Into War, Putin Is Crafting the Russia He Craves (2023)](https://www.nytimes.com/2023/02/19/world/europe/ukraine-war-russia-putin.html?smid=tw-share)

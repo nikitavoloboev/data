@@ -843,4 +843,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [How to make LLMs say true things (2023)](https://evanjconrad.com/posts/world-models)
 - [A Fast Post-Training Pruning Framework for Transformers (2022)](https://arxiv.org/abs/2204.09656) ([Code](https://github.com/WoosukKwon/retraining-free-pruning))
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
-- [FlexGen](https://github.com/Ying1123/FlexGen) - Running large language models like ChatGPT/GPT-3/OPT-175B on a single GPU. Up to 100x faster than other offloading systems.
+- [FlexGen](https://github.com/Ying1123/FlexGen) - Running large language models like ChatGPT/GPT-3/OPT-175B on a single GPU. Up to 100x faster than other offloading systems. ([HN](https://news.ycombinator.com/item?id=34869960))

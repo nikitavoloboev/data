@@ -8,7 +8,7 @@ title: Kubernetes
 
 [Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has cheap servers. [GKE](https://cloud.google.com/kubernetes-engine) has [nicest hosted Kubernetes experience](https://www.reddit.com/r/kubernetes/comments/yag39i/best_managed_kubernetes_platform/).
 
-[Acorn](https://github.com/acorn-io/acorn) is useful.
+[Acorn](https://github.com/acorn-io/acorn) is useful. [Authentik](https://github.com/goauthentik/authentik) seems nice for authenticating the cluster.
 
 ## Notes
 

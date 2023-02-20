@@ -10,6 +10,7 @@ In perfect world, it should not be this easy to buy dead animal's meat in superm
 
 - [Amur leopard](https://twitter.com/Rainmaker1973/status/1626940933810913281)
 - [Indian giant squirrel](https://twitter.com/obscure_otd/status/1520773905946136576)
+- [Black squirrel](https://twitter.com/Rainmaker1973/status/1627736982733443072)
 - [Hummingbirds](https://en.wikipedia.org/wiki/Hummingbird)
 - [Dogs](https://en.wikipedia.org/wiki/Dog)
 - [Cats](https://en.wikipedia.org/wiki/Cat)

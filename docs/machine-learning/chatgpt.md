@@ -132,3 +132,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [GPTZero Case Study – Exploring False Positives (2023)](https://gonzoknows.com/posts/GPTZero-Case-Study/) ([HN](https://news.ycombinator.com/item?id=34858307))
 - [Open source solution replicates ChatGPT training process (2023)](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt) ([HN](https://news.ycombinator.com/item?id=34858460))
 - [WorkaroundGPT](https://github.com/prakhar897/workaround-gpt) - Tool to work around ChatGPT inhibitions.
+- [MOSS](https://github.com/txsun1997/MOSS) - Conversational language model like ChatGPT.

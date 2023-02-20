@@ -1127,6 +1127,7 @@
 - [signal](https://github.com/WebReflection/signal) - Extremely basic signals implementation.
 - [JSum](https://github.com/fraunhoferfokus/JSum) - Consistent checksum calculation of JSON objects.
 - [slugify](https://github.com/sindresorhus/slugify) - Useful for URLs, filenames, and IDs.
+- [ExifReader](https://github.com/mattiasw/ExifReader) - JavaScript Exif info parser.
 
 ## Links
 

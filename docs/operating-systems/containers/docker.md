@@ -292,3 +292,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Go Docker client](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
 - [DockerSwift](https://github.com/m-barthelemy/DockerSwift) - Swift client library for Docker.
 - [Docker Will Edit Host-Based Firewall Rules For You (2023)](https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/) ([HN](https://news.ycombinator.com/item?id=34858775))
+- [docker-bakery](https://github.com/smartrecruiters/docker-bakery) - Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes.
