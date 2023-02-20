@@ -3024,3 +3024,4 @@
 - [Rust API Design Learnings (2023)](https://fosdem.org/2023/schedule/event/rust_rust_api_design_learnings/)
 - [Designing error types in Rust (2022)](https://mmapped.blog/posts/12-rust-error-handling.html)
 - [Specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages.
+- [Packaging Your Rust Code (2022)](https://skerritt.blog/packaging-your-rust-code/) ([Reddit](https://www.reddit.com/r/rust/comments/1169uxo/packaging_your_rust_code/))

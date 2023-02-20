@@ -371,3 +371,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Animating a Radix Dropdown with Framer Motion (2023)](https://www.youtube.com/watch?v=p8CsotWUas0)
 - [React: How to Create an Autogrowing Textarea (2022)](https://maxschmitt.me/posts/react-textarea-auto-height/)
 - [Vite Plugin React](https://github.com/vitejs/vite-plugin-react)
+- [React's Instance Identity Model](https://github.com/gactjs/research/tree/main/react-instance-identity-model)

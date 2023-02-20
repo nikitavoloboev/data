@@ -293,3 +293,4 @@
 - [Cranelift's Instruction Selector DSL, ISLE: Term-Rewriting Made Practical (2023)](https://cfallin.org/blog/2023/01/20/cranelift-isle/)
 - [JIT compiler in Go](https://github.com/bspaans/jit-compiler)
 - [Three approaches to heap sizing (2023)](https://wingolog.org/archives/2023/01/27/three-approaches-to-heap-sizing)
+- [LVC](https://github.com/sigurdschneider/lvc) - Linear Verified Compiler in Coq.
