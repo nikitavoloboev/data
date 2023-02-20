@@ -244,6 +244,7 @@
 - [Systolic Array](https://github.com/hngenc/systolic-array) - DSL for Systolic Arrays.
 - [SFML Scala Native](https://github.com/lafeychine/scala-native-sfml) - Scala Native binding of the SFML graphic library.
 - [otel4s](https://github.com/typelevel/otel4s) - OpenTelemetry library for Scala based on Cats-Effect.
+- [tethys](https://github.com/tethys-json/tethys) - JSON parsing/writing library for Scala.
 
 ## Links
 

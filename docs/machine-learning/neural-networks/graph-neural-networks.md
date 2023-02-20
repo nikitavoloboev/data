@@ -152,3 +152,5 @@
 - [DiGress: Discrete Denoising diffusion models for graph generation (2023)](https://github.com/cvignac/DiGress)
 - [Attending to Graph Transformers (2023)](https://arxiv.org/abs/2302.04181) ([Code](https://github.com/luis-mueller/probing-graph-transformers))
 - [Awesome Graph Transformer](https://github.com/ChandlerBang/awesome-graph-transformer)
+- [Awesome Graph Neural Network Systems](https://github.com/chwan1016/awesome-gnn-systems)
+- [python_graphs](https://github.com/google-research/python-graphs) - Static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
