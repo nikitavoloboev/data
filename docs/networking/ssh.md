@@ -146,3 +146,4 @@
 - [I don't understand terminals, shells and SSH (2023)](https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/) ([HN](https://news.ycombinator.com/item?id=34382976))
 - [napi-rs/ssh](https://github.com/Brooooooklyn/ssh)
 - [Dropbear SSH](https://matt.ucc.asn.au/dropbear/dropbear.html) - Self-contained client/server for embedded systems.
+- [What is the randomart image for? (2023)](https://bytes.zone/posts/what-is-the-randomart-image-for/)

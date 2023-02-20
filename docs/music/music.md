@@ -250,3 +250,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Треки, которые вы готовы слушать на репите](https://twitter.com/great_knee/status/1625054179839340544)
 - [Poor schemas, poor cataloguing: why music tagging sucks (2023)](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/) ([HN](https://news.ycombinator.com/item?id=34850210))
 - [Hearkus](https://github.com/hearkus/hearkus) - Innovative platform for music lovers to explore and share their passions.
+- [How I organize my digital music collection (2023)](https://felixcrux.com/blog/how-i-organize-my-digital-music-collection)

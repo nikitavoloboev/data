@@ -71,3 +71,4 @@
 - [svlint](https://github.com/dalance/svlint) - SystemVerilog linter.
 - [Verilog RTL Design](https://github.com/ishfaqahmed29/SerDes)
 - [Cheshire](https://github.com/pulp-platform/cheshire) - Minimal Linux-capable SoC built around the RISC-V CVA6 core.
+- [Bedrock](https://github.com/BerkeleyLab/Bedrock) - LBNL RF controls support HDL libraries.
