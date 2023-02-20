@@ -112,3 +112,5 @@ title: Godot
 - [Godot Jolt](https://github.com/godot-jolt/godot-jolt) - Godot extension that integrates the Jolt physics engine.
 - [Scatter](https://github.com/HungryProton/scatter) - Godot engine addon to randomly fill an area with props or other scenes.
 - [GDShell](https://github.com/Kubulambula/Godot-GDShell) - Feature-packed linux-like in-game console for development, debugging, cheats and/or any other interaction with your game.
+- [gd-YAFSM](https://github.com/imjp94/gd-YAFSM) - Finite State Machine for Godot.
+- [Godot Goal Oriented Action Planning Example](https://github.com/viniciusgerevini/godot-goap)

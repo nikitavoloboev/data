@@ -627,6 +627,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [catena](https://github.com/Cistern/catena) - Storage engine for time series data.
 - [zipcache](https://github.com/ostafen/zipcache) - In-memory compressed cache.
 - [Neoq](https://github.com/acaloiaro/neoq) - Background job processing built on Postgres for Go. ([Lobsters](https://lobste.rs/s/kzbekd/show_background_job_processing_without))
+- [otelsql](https://github.com/nhatthm/otelsql) - OpenTelemetry SQL database driver wrapper for Go.
 
 ## ML
 
@@ -2077,6 +2078,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - Fast and light wildcard pattern matching.
 - [Sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go.
 - [traffic](https://github.com/thedevsaddam/traffic) - Thread safe load-balancer package for Go.
+- [Func](https://github.com/knative/func) - Knative Functions client API and CLI.
 
 ## Links
 

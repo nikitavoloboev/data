@@ -75,3 +75,4 @@
 - [Ask HN: Has anyone fully attempted Bret Victor's vision? (2023)](https://news.ycombinator.com/item?id=34485254)
 - [NodeScript](https://github.com/NodeScriptLang/core) - Visual programming language for the modern Web.
 - [Luna Park](https://luna-park.app/) - Advanced visual scripting editor for the web.
+- [Flyde](https://github.com/FlydeHQ/flyde) - Visual functional reactive flow-based programming tool that can be used to build anything from CLI tools to bots and web apps built.

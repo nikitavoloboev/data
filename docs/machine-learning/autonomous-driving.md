@@ -97,3 +97,4 @@
 - [Waymo's collision avoidance testing (2022)](https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html) ([HN](https://news.ycombinator.com/item?id=33987118))
 - [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline (2022)](https://arxiv.org/abs/2206.08129) ([Code](https://github.com/OpenPerceptionX/TCP))
 - [FSD: Fully Sparse 3D Object Detection & SST: Single-stride Sparse Transformer](https://github.com/tusen-ai/SST)
+- [Robotec GPU Lidar](https://github.com/RobotecAI/RobotecGPULidar) - Cross-platform C/C++ library for simulating LiDARs on CUDA-enabled GPUs.

@@ -240,6 +240,7 @@
 - [http-cache](https://github.com/06chaynes/http-cache) - Caching middleware that follows HTTP caching rules.
 - [httpz](https://github.com/oscartbeaumont/httpz) - Code once, support every Rust web server.
 - [xitca-web](https://github.com/HFQR/xitca-web) - Alternative HTTP library and web framework inspired by hyper.
+- [network-types](https://github.com/vadorovsky/network-types) - Rust structs representing network protocol headers (on Layer 2, 3 and 4).
 
 ## Auth
 

@@ -108,3 +108,4 @@ title: DynamoDB
 - [DynamoDB Action](https://github.com/rrainn/dynamodb-action) - GitHub Action allows you to super easily setup a DynamoDB Local instance within GitHub Actions to use DynamoDB within your CI system.
 - [Dynamoutil](https://github.com/daangn/dynamoutil) - Useful commands for DynamoDB.
 - [How to implement login system using DynamoDB (2021)](https://blog.rahulahire.com/how-to-implement-login-system-using-dynamodb-by-rahul-ahire)
+- [ddbsh](https://github.com/awslabs/dynamodb-shell) - Simple CLI for DynamoDB modeled on isql, and the MySQL CLIs.

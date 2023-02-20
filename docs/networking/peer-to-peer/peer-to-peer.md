@@ -138,3 +138,4 @@
 - [Peer-to-Peer Connection Managers](https://github.com/mycognosist/p2p-connection-managers)
 - [airpaste](https://github.com/mafintosh/airpaste) - 1-1 network pipe that auto discovers other peers using mdns.
 - [Chitchatter](https://github.com/jeremyckahn/chitchatter) - Peer-to-peer chat app that is serverless, decentralized, and ephemeral. ([Web](https://chitchatter.im/))
+- [libp2p/peer-store](https://github.com/libp2p/js-libp2p-peer-store) - Stores information about peers libp2p knows on the network.

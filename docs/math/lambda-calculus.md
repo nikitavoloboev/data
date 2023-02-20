@@ -103,3 +103,4 @@ Is logical theory of computable functions.
 - [Intro to FP Through λ-Calc Part 1. - Motivating Laziness (2020)](https://jonathanlorimer.dev/posts/motivating-laziness.html)
 - [Sequoia](https://github.com/robrix/sequoia) - Implementation of classical logic in a sequent calculus, embedded in intuitionistic logic.
 - [LEOG](https://github.com/pigworker/LEOG) - Implementation of the calculus of constructions.
+- [Lambda Calculus With Coroutines and Heapless, Directly-Called Closures (2023)](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures)

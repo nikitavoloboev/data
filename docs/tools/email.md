@@ -312,3 +312,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Various Ways of Sending Mail via SMTP (2023)](https://blog.bityard.net/articles/2023/January/various-ways-of-sending-mail-via-smtp) ([Lobsters](https://lobste.rs/s/aiizbh/various_ways_sending_mail_via_smtp))
 - [Mox](https://github.com/mjl-/mox) - Modern full-featured open source secure mail server for low-maintenance self-hosted email. ([Lobsters](https://lobste.rs/s/3ezrky/mox_modern_full_featured_open_source))
 - [Emails Microservice](https://github.com/charted-dev/email-service) - Charted's email service built in Rust that can be connected via gRPC.
+- [Quokka](https://github.com/quokkamail/quokka) - Modern Mail Server written in Go.

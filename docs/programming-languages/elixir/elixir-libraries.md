@@ -90,6 +90,7 @@
 - [Patch](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
 - [StreamData](https://github.com/whatyouhide/stream_data) - Elixir library for data generation and property-based testing.
 - [Machete](https://github.com/mtrudel/machete) - Literate test matchers for ExUnit.
+- [Mneme](https://github.com/zachallaun/mneme) - Semi-automated snapshot testing for elixir.
 
 ## ML
 

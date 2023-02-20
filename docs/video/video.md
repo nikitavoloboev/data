@@ -495,3 +495,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Davinci Resolve | First 6 Months after Switching (2022)](https://www.youtube.com/watch?v=Ho3wbzPB1sg)
 - [InCaptions](https://incaptions.com/) - Search in YouTube Captions. ([HN](https://news.ycombinator.com/item?id=34826944))
 - [Infinite Storage Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - Lets you embed files into video and upload them to YouTube as storage. ([HN](https://news.ycombinator.com/item?id=34866808))
+- [Clips](https://clips.formidable.dev/) - Create short screen recordings that are shareable to various platforms all using Web APIs. ([Code](https://github.com/FormidableLabs/clips))
