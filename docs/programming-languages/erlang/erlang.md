@@ -4,7 +4,7 @@ title: Erlang
 
 # [Erlang](https://www.erlang.org/)
 
-[Lunatic](https://lunatic.solutions/) is interesting.
+[Lunatic](https://lunatic.solutions/) & [Ractor](https://github.com/slawlor/ractor) are interesting.
 
 ## Notes
 

@@ -42,7 +42,7 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [GPT.sh](https://github.com/shorwood/gptsh) - Use GPT to translate queries into shell commands.
 - [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt)
 - [Awesome ChatGPT 2](https://github.com/eon01/awesome-chatgpt)
-- [Talk to ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) - Chrome extension that allows users to talk with the ChatGPT AI using their voice.
+- [Talk to ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) - Chrome extension that allows users to talk with the ChatGPT AI using their voice. ([HN](https://news.ycombinator.com/item?id=34859781))
 - [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - VSCode extension that uses the ChatGPT API to provide explanations for selected code.
 - [Open-Source Version of ChatGPT is Coming (2022)](https://metaroids.com/news/an-open-source-version-of-chatgpt-is-coming/)
 - [OpenAIPipe](https://github.com/Aesthetikx/openai_pipe) - UNIX-ey interface to OpenAI.
@@ -130,5 +130,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [GPT Labs](https://github.com/gptlabs/tools) - Monorepo of all open source code associated with GPT Labs projects. ([Twitter](https://twitter.com/gptlabs))
 - [Bing Chat is blatantly, aggressively misaligned (2023)](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned)
 - [GPTZero Case Study – Exploring False Positives (2023)](https://gonzoknows.com/posts/GPTZero-Case-Study/) ([HN](https://news.ycombinator.com/item?id=34858307))
-- [Open source solution replicates ChatGPT training process (2023)](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
+- [Open source solution replicates ChatGPT training process (2023)](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt) ([HN](https://news.ycombinator.com/item?id=34858460))
 - [WorkaroundGPT](https://github.com/prakhar897/workaround-gpt) - Tool to work around ChatGPT inhibitions.

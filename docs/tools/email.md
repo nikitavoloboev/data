@@ -164,7 +164,7 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [How to write cold emails to investors (2021)](https://www.flowrite.com/blog/cold-email-to-investors) ([HN](https://news.ycombinator.com/item?id=26982029))
 - [Swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir.
 - [SendGrid Email Blast](https://github.com/freeCodeCamp/sendgrid-email-blast) - CLI tool for sending emails via the SendGrid API.
-- [Email explained from first principles](https://explained-from-first-principles.com/email/)
+- [Email explained from first principles](https://explained-from-first-principles.com/email/) ([HN](https://news.ycombinator.com/item?id=34846606))
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. ([Code](https://github.com/hteumeuleu/caniemail))
 - [Just Use Email](https://www.justuseemail.com/) - How to use Email for Everything. ([HN](https://news.ycombinator.com/item?id=27123389))
 - [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch)) ([afew - tagging script](https://github.com/afewmail/afew)) ([HN](https://news.ycombinator.com/item?id=33568388))

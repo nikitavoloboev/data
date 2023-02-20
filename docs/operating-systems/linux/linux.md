@@ -692,3 +692,4 @@ title: Linux
 - [io_uring and networking in 2023](https://github.com/axboe/liburing/wiki/io_uring-and-networking-in-2023) ([HN](https://news.ycombinator.com/item?id=34812949))
 - [allocscope](https://github.com/matt-kimball/allocscope) - Tool in Rust for tracking all allocations in a Linux process. ([HN](https://news.ycombinator.com/item?id=34804721))
 - [An overview of single-purpose Linux distributions (2023)](https://lwn.net/SubscriberLink/922968/4a69aa7f1f2332d7/) ([HN](https://news.ycombinator.com/item?id=34837219))
+- [In praise of Alpine and apk (2023)](https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/)
