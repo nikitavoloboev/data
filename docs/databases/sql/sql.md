@@ -83,7 +83,7 @@ title: SQL
 - [Simple Anomaly Detection Using Plain SQL (2020)](https://hakibenita.com/sql-anomaly-detection) ([Lobsters](https://lobste.rs/s/q1hh1g/simple_anomaly_detection_using_plain_sql)) ([HN](https://news.ycombinator.com/item?id=25731699))
 - [A Short Story About SQL’s Biggest Rival (2020)](https://www.holistics.io/blog/quel-vs-sql/?) ([HN](https://news.ycombinator.com/item?id=24730713))
 - [What ORMs Have Taught Me: Just Learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/) ([HN](https://news.ycombinator.com/item?id=24845300))
-- [SQL Formatter](https://zeroturnaround.github.io/sql-formatter/) - JavaScript library for pretty-printing SQL queries. ([Code](https://github.com/zeroturnaround/sql-formatter))
+- [SQL Formatter](https://zeroturnaround.github.io/sql-formatter/) - JavaScript library for pretty-printing SQL queries. ([Code](https://github.com/sql-formatter-org/sql-formatter))
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/) - Help to you build SQL JOIN between two tables by using of Venn diagrams. ([Code](https://github.com/le0pard/sql-joins-app))
 - [Top 10 Most Important SQL Commands to Know (2020)](https://blog.arctype.com/sql-cheat-sheet-top-10-most-important-sql-commands-to-know/)
 - [Automate Business Logic With Logic Bank](https://dzone.com/articles/automate-business-logic-with-logic-bank) - Rule engine automates SQLAlchemy update logic for remarkable agility - 40X more concise. Scalable. Extensible and manageable using Python. ([Tweet](https://twitter.com/zzzeek/status/1328041618931408898))
@@ -253,3 +253,4 @@ title: SQL
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Building a SQL-like language to filter flows (2023)](https://vincent.bernat.ch/en/blog/2023-sql-like-language-filter)
 - [Type Constraints in 65 lines of SQL (2023)](https://supabase.com/blog/type-constraints-in-65-lines-of-sql) ([HN](https://news.ycombinator.com/item?id=34835063))
+- [SQL Parser CST](https://github.com/nene/sql-parser-cst) - SQL Parser which produces a Concrete Syntax Tree (CST).

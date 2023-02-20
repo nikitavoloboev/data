@@ -492,3 +492,4 @@
 - [Hypermedia Clients](https://htmx.org/essays/hypermedia-clients/) ([HN](https://news.ycombinator.com/item?id=34618023))
 - [The future (and the past) of the web is server side rendering (2023)](https://deno.com/blog/the-future-and-past-is-server-side-rendering) ([HN](https://news.ycombinator.com/item?id=34644558))
 - [WebContainers](https://webcontainers.io/) - Dev environments. In your web app. ([HN](https://news.ycombinator.com/item?id=34793858))
+- [Extensible Web Manifesto](https://extensiblewebmanifesto.org/) ([Code](https://github.com/extensibleweb/manifesto))

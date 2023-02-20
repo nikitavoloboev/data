@@ -353,6 +353,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Vivek Haldar](https://vivekhaldar.com/)
 - [Soroush Khanlou](https://khanlou.com/)
 - [Brian Hicks](https://bytes.zone/posts/)
+- [David Pearce](https://whileydave.com/blog/)
 
 ## Notes
 
