@@ -2696,6 +2696,7 @@
 - [netstat2](https://github.com/ohadravid/netstat2-rs) - Cross-platform Rust library to retrieve network sockets information.
 - [qrcode-rust](https://github.com/sayanarijit/qrcode-rust) - QR code and Micro QR code encoder in Rust.
 - [sev](https://github.com/virtee/sev) - Rust library exposing APIs for the AMD SEV platform.
+- [RcLite](https://github.com/fereidani/rclite) - Small, fast, and memory-friendly reference counting for Rust. ([Reddit](https://www.reddit.com/r/rust/comments/117b8ke/rclite_arct_and_rct_with_up_to_100_memory/))
 
 ## Cargo Plugins
 

@@ -19,6 +19,7 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 
 - [hebbot](https://github.com/haecker-felix/hebbot) - Matrix bot which can generate "This Week in X" like blog posts.
 - [maubot](https://github.com/maubot/maubot) - Plugin-based Matrix bot system.
+- [Matrix ChatGPT Bot](https://github.com/matrixgpt/matrix-chatgpt-bot)
 
 ## Notes
 

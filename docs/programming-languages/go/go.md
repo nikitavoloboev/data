@@ -977,3 +977,4 @@ if *boolArgPtr != false {
 - [Best practices writing Go (2023)](https://www.reddit.com/r/golang/comments/116bt2s/hey_what_are_some_best_practices_for_coding_in_go/)
 - [ireturn](https://github.com/butuzov/ireturn) - Accept Interfaces, Return Concrete Types.
 - [bingo](https://github.com/bwplotka/bingo) - Like `go get` but for Go tools! CI Automating versioning of Go binaries in a nested, isolated Go modules.
+- [Findings from six months of running `govulncheck` in CI (2023)](https://brandur.org/fragments/govulncheck-ci) ([Lobsters](https://lobste.rs/s/rqovkn/findings_from_six_months_running))

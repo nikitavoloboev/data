@@ -189,3 +189,4 @@ Found [exercising](../fitness/exercises.md) often, good [sleep](../sleep/sleep.m
 - [How often do you get microneedling and is it worth it? (2023)](https://www.reddit.com/r/30PlusSkinCare/comments/104ir8k/how_often_do_you_get_microneedling_and_is_it/)
 - [What are some of the best beauty tips you've gotten? (2023)](https://www.reddit.com/r/30PlusSkinCare/comments/10azzqi/what_are_some_of_the_best_beauty_tips_youve/)
 - [Skin care stack discussion](https://twitter.com/ohhiiana/status/1624503737254395905) ([Tweet](https://twitter.com/LVTV_02/status/1624847217184935936))
+- [What are your anti-aging beauty secrets?](https://www.reddit.com/r/30PlusSkinCare/comments/117omok/what_are_your_antiaging_beauty_secrets/)

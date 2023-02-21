@@ -272,3 +272,4 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [Galileo AI](https://www.usegalileo.ai/) - Copilot for interface design.
 - [Noya](https://www.noya.io/home) - New kind of design tool. ([HN](https://news.ycombinator.com/item?id=34848583))
 - [Purrity Creative illustrations for websites and applications](https://www.getillustrations.com/illustration-pack/purrity-illustrations)
+- [DesignHeaven](https://github.com/dimitrisraptis96/design-heaven) - Stunning free design resources for designers and developers.

@@ -428,3 +428,4 @@ title: WebAssembly
 - [Tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly.
 - [sightglass](https://github.com/bytecodealliance/sightglass) - Benchmarking suite and tooling for Wasmtime and Cranelift.
 - [How to use WebAssembly in various languages](https://github.com/vmware-labs/wasm-languages)
+- [Wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf) - WASM library and toolchain for eBPF.

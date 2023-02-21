@@ -250,6 +250,7 @@ title: OCaml libraries
 - [PCRE-OCaml](https://github.com/mmottl/pcre-ocaml) - Perl Compatibility Regular Expressions for OCaml.
 - [kcas](https://github.com/ocaml-multicore/kcas) - Multi-word compare-and-swap library.
 - [ctypes](https://github.com/yallop/ocaml-ctypes) - Library for binding to C libraries using pure OCaml.
+- [refl](https://github.com/thierry-martinez/refl) - Efficient and type-safe type reflection for OCaml.
 
 ## Links
 

@@ -44,3 +44,4 @@ title: Qwik
 - [Qwik Nx Plugin](https://github.com/qwikifiers/qwik-nx)
 - [Qwik UI Components](https://github.com/qwikifiers/qwik-ui)
 - [Qwik nice form example](https://twitter.com/manucorporat/status/1619746669452750848)
+- [Qwik Katas](https://github.com/survivejs/qwik-katas) - Series of katas to learn Qwik quickly.

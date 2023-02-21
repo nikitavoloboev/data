@@ -2079,6 +2079,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go.
 - [traffic](https://github.com/thedevsaddam/traffic) - Thread safe load-balancer package for Go.
 - [Func](https://github.com/knative/func) - Knative Functions client API and CLI.
+- [Log](https://github.com/charmbracelet/log) - Minimal, colorful Go logging library.
 
 ## Links
 

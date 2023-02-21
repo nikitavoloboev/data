@@ -29,3 +29,4 @@ title: DuckDB
 - [DuckDB 0.7.0 (2023)](https://duckdb.org/2023/02/13/announcing-duckdb-070.html) ([HN](https://news.ycombinator.com/item?id=34771524))
 - [fluvio-duck](https://github.com/infinyon/fluvio-duck) - Fluvio DuckDB Integration.
 - [Scrooge McDuck](https://github.com/pdet/Scrooge-McDuck) - Financial extension to DuckDB.
+- [DuckDB Shell](https://shell.duckdb.org/)

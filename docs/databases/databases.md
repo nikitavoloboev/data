@@ -776,3 +776,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Efficient and Compact Spreadsheet Formula Graphs (2023)](https://arxiv.org/abs/2302.05482)
 - [Our Mad Journey of Building a Vector Database in Go (2023)](https://www.youtube.com/watch?v=K1R7oK2piUM)
 - [cpc](https://github.com/tailscale/cpc) - Copy tool for incremental copies of large files, such as databases.
+- [Are You Sure You Want to Use MMAP in Your Database Management System? (2022)](https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf)

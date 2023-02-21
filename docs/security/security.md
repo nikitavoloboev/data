@@ -358,3 +358,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Hacking into Toyota’s global supplier management network (2023)](https://eaton-works.com/2023/02/06/toyota-gspims-hack/)
 - [Adventures in password hashing + migrating to Argon2id (2023)](https://brandur.org/fragments/password-hashing) ([Lobsters](https://lobste.rs/s/grhaov/adventures_password_hashing_migrating))
 - [rbw](https://github.com/doy/rbw) - Bitwarden CLI.
+- [certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
+- [Secret Vault for Rust](https://github.com/abdolence/secret-vault-rs) - Secure vault to store application secrets in memory coming from Google/AWS/other secret managers for Rust.

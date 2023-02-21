@@ -114,3 +114,4 @@
 - [AudioLDM](https://github.com/haoheliu/AudioLDM) - Text-to-Audio Generation with Latent Diffusion Models.
 - [Speaking Style Conversion With Discrete Self-Supervised Units (2022)](https://arxiv.org/abs/2212.09730) ([Code](https://github.com/gallilmaimon/DISSC))
 - [StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation (2022)](https://arxiv.org/abs/2212.11851) ([Code](https://github.com/sp-uhh/storm))
+- [TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement (2023)](https://arxiv.org/abs/2302.08088) ([Code](https://github.com/YunyangZeng/TAPLoss))

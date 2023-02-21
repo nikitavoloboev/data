@@ -613,7 +613,7 @@ all: unset
 - [CSS Pattern: Fancy backgrounds with CSS gradients](https://css-pattern.com/) ([Code](https://github.com/Afif13/CSS-Pattern))
 - [skribble](https://github.com/ifiokjr/skribble) - Fully typed atomic CSS compiler for rust, node, deno and the browser.
 - [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/)
-- [My favorite 3 lines of CSS (2023)](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
+- [My favorite 3 lines of CSS (2023)](https://andy-bell.co.uk/my-favourite-3-lines-of-css/) ([HN](https://news.ycombinator.com/item?id=34877431))
 - [How the CSS box-sizing property works (2023)](https://andy-bell.co.uk/how-the-css-box-sizing-property-works/)
 - [CSS color-mix() (2023)](https://developer.chrome.com/blog/css-color-mix/)
 - [A Fancy Hover Effect For Your Avatar (2023)](https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/)

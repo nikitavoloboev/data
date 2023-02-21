@@ -14,6 +14,7 @@ I mostly eat fried eggs with some bread + feta cheese, tomatoes and avocados.
 - [Carrot Cutlets](https://www.bawarchi.com/recipe/carrot-cutlet-oetuBkeechece.html)
 - [Salsa sauce](https://www.reddit.com/r/SalsaSnobs/comments/zqadld/the_best_batch_ive_made_recently/)
 - [Syrniki](https://www.babaganosh.org/syrniki-russian-cheese-pancakes/)
+- [Pancakes](https://www.youtube.com/watch?v=vkcHmpKxFwg)
 
 ## Smoothies
 

@@ -100,6 +100,6 @@ ReasonML is now [ReScript](https://rescript-lang.org/). [Vite ReScript Starter](
 - [Getting rid of your dead code in ReScript (2022)](https://dev.to/zth/getting-rid-of-your-dead-code-in-rescript-3mba)
 - [ReScript Tutorial](https://github.com/protoship/rescript-tutorial)
 - [Defunctionalization in Reason (2019)](https://gugahoa.github.io/reasonml/2019/06/17/defunctionalization.html)
-- [Introducing ReScript: Functional Programming for Web Applications (2023)](https://link.springer.com/book/10.1007/978-1-4842-8888-7) ([Code](https://github.com/Apress/introducing-rescript))
+- [Introducing ReScript: Functional Programming for Web Applications (2023)](https://link.springer.com/book/10.1007/978-1-4842-8888-7) ([Code](https://github.com/Apress/introducing-rescript)) ([Web](https://yangdanny97.github.io/book/))
 - [ReasonML Discord](https://discord.com/invite/reasonml)
 - [Vite React ReScript Starter](https://github.com/jihchi/vitejs-template-react-rescript)

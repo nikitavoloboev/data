@@ -15,7 +15,7 @@ All [based of greed](https://twitter.com/ChrisO_wiki/status/1619990400508510208?
 
 Official reasoning of denazification and supposed protection of borders from NATO bases expanding are [completely made up](https://www.reddit.com/r/CredibleDefense/comments/10rp9hg/comment/j6wxsae/?context=3) and it's tragic that so many Russians believe in this for whatever reason. Be it to cope with the reality that Russia can actually be on the bad side of history or simply not thinking rationally about what is actually happening in reality.
 
-It is clear that after the initial attack of this 3 day operation failed, there were no further plans made on how to adapt to prolonged conflict and Russia's government has been trying to survive politically ever since. All signs of even fake democracy were stripped and citizens started to get jailed for the littlest of things in discussing the state of the war.
+It is clear that after the initial attack of this 3 day operation failed, there were no further plans made on how to adapt to prolonged conflict and Russia's government has been trying to survive politically ever since. All signs of even fake democracy were stripped and citizens started to get [jailed for the littlest of things](https://www.youtube.com/watch?v=9H3E9FRjAzk) in discussing the state of the war.
 
 It's tragic once again that it's hard to expect internal changes being made as result of protests even in such dire circumstances like this. Many Russians don't believe they will bring in any change and there are [too many horrible people who are willing to sell their ethics for some money and early retirement](https://twitter.com/Manly18730773/status/1617120040356302856).
 
@@ -683,3 +683,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Певчих – что коррупция сделала с Россией (2023)](https://www.youtube.com/watch?v=E-NJs8-29yw&t=834s)
 - [The Meltdown of Russia's Music Scene (2023)](https://www.youtube.com/watch?v=FSgEW9LFFw8)
 - [One Year Into War, Putin Is Crafting the Russia He Craves (2023)](https://www.nytimes.com/2023/02/19/world/europe/ukraine-war-russia-putin.html?smid=tw-share)
+- [Чиков – простые вопросы о законах (2023)](https://www.youtube.com/watch?v=9H3E9FRjAzk)

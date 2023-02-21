@@ -536,3 +536,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [C-rusted: The Advantages of Rust, in C, without the Disadvantages (2023)](https://arxiv.org/abs/2302.05331) ([Lobsters](https://lobste.rs/s/miuv2k/c_rusted_advantages_rust_c_without)) ([HN](https://news.ycombinator.com/item?id=34863784))
 - [voxu](https://github.com/IORuntime/voxu) - Strongly and statically typed, memory-efficient functional programming language.
 - [Cotton](https://github.com/nanikamado/cotton) - Simple functional programming language built with Rust.
+- [Lobsters: Killer libraries (2023)](https://lobste.rs/s/h4j3lg/killer_libraries)

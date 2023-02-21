@@ -21,3 +21,4 @@
 - [The brain can recall and reawaken past immune responses (2021)](https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/) ([HN](https://news.ycombinator.com/item?id=29155637))
 - [Book Recommendations on Immunology (2023)](https://www.reddit.com/r/Immunology/comments/1098ihr/book_recommendations_on_immunology/)
 - [ChatGPT explains T cell development from the perspective of a surfer bro](https://www.reddit.com/r/biology/comments/10ely5c/chatgpt_explains_t_cell_development_from_the/)
+- [I was an AI researcher. Now, I am an immunology student. (2023)](https://rachel.fast.ai/posts/2023-02-07-school-immunology/)

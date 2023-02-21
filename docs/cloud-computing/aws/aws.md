@@ -444,3 +444,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [aws-whoami](https://github.com/benkehoe/aws-whoami) - Show what AWS account and identity you're using.
 - [Taming AWS Costs (2023)](https://www.maxcountryman.com/articles/taming-aws-costs)
 - [AWS Creates New Policy-Based Access Control Language Cedar (2023)](https://www.infoq.com/news/2023/02/aws-policy-language-cedar/) ([HN](https://news.ycombinator.com/item?id=34865768))
+- [aws-whoami](https://github.com/benkehoe/aws-whoami-golang) - Find what AWS account and identity you're using.

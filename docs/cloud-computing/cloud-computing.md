@@ -152,3 +152,4 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 - [Deploy Hetzner Dedicated machines with a single command](https://github.com/cachix/cachix-deploy-hetzner-dedicacted)
 - [StackPath](https://www.stackpath.com/) - Edge Compute | Edge Delivery.
 - [Ask HN: What's a good open-source alternative to Cloudflare? (2023)](https://news.ycombinator.com/item?id=34800182)
+- [We stand to save $7m over five years from our cloud exit (2023)](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa) ([Lobsters](https://lobste.rs/s/aqoqsr/we_stand_save_7m_over_five_years_from_our))
