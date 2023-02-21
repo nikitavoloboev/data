@@ -6,6 +6,8 @@ title: HTML
 
 [Learn HTML](https://web.dev/learn/html/) is good intro. [HTMHell](https://www.htmhell.dev/) is great to learn better HTML practices.
 
+[unpic img](https://github.com/ascorbic/unpic-img) is nice responsive image component.
+
 ## Notes
 
 - As a general rule, if there will be only one such element on the page, you can use an id. Otherwise, use a class.

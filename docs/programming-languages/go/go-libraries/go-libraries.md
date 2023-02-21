@@ -12,7 +12,7 @@ Like [Chi](https://github.com/go-chi/chi) for web end points. [Go API Starter Ki
 
 [mapstructure](https://github.com/mitchellh/mapstructure) is nice decoding values from data streams like JSON. [zerolo](https://github.com/rs/zerolog) is nice for parsing JSON too. [FreeCache](https://github.com/coocood/freecache) is nice caching lib.
 
-Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) or [workgroup](https://github.com/carlmjohnson/workgroup) are great for concurrency tasks. [script](https://github.com/bitfield/script) is nice for running shell commands. [Logrus](https://github.com/sirupsen/logrus) is nice for logging.
+Like [this error library](https://github.com/cockroachdb/errors). [conc](https://github.com/sourcegraph/conc) or [workgroup](https://github.com/carlmjohnson/workgroup) are great for concurrency tasks. [script](https://github.com/bitfield/script) is nice for running shell commands. [Log](https://github.com/charmbracelet/log) or [Logrus](https://github.com/sirupsen/logrus) are nice for logging.
 
 [Go JSON Struct](https://github.com/twpayne/go-jsonstruct) is nice for creating Go types from JSON.
 

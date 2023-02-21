@@ -290,6 +290,7 @@
 - [leptos_aria](https://github.com/ifiokjr/leptos_aria) - Port of the react-aria ecosystem for the leptos framework.
 - [Scotch](https://github.com/ItsEthra/scotch) - Create WASM plugins easily in Rust.
 - [Stylers](https://github.com/abishekatp/stylers) - Scoped CSS for Rust web frameworks like Leptos.
+- [Ribir](https://github.com/RibirX/Ribir) - Framework for building modern native/wasm cross-platform user interface application.
 
 ## GUI
 

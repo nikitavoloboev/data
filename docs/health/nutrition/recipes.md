@@ -53,6 +53,7 @@ I mostly eat fried eggs with some bread + feta cheese, tomatoes and avocados.
 - [Seasoned Brown Lentils](https://www.acouplecooks.com/seasoned-brown-lentils/)
 - [Торт Мамулин](https://www.youtube.com/watch?v=Pxys9FxJQsc)
 - [Garlic Crostini](https://www.youtube.com/watch?v=26ixBG5LCXk)
+- [Strudel from Inglourious Basterds](https://www.youtube.com/watch?v=7H3z3J50XCs)
 
 ## Links
 

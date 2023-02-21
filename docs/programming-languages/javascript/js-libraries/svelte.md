@@ -354,3 +354,4 @@ title: Svelte
 - [Svelte Carousel](https://github.com/vadimkorr/svelte-carousel)
 - [SvelteKit Authentication and Authorization Example](https://github.com/nstuyvesant/sveltekit-auth-example)
 - [Svelte(Kit) examples](https://github.com/sveltejs/examples)
+- [Streaming, snapshots, and other new features since SvelteKit 1.0 (2023)](https://svelte.dev/blog/streaming-snapshots-sveltekit) ([Tweet](https://twitter.com/Rich_Harris/status/1628054357546606598))
