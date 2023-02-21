@@ -334,3 +334,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [tldream](https://github.com/Sanster/tldream) - Tiny little diffusion drawing app.
 - [Civitai](https://civitai.com/) - Stable Diffusion models, embeddings, hypernetworks and more. ([Code](https://github.com/civitai/civitai))
 - [Easy Lora Handbook](https://github.com/haofanwang/Easy-Lora-Handbook) - Most easy-to-understand tutorial for using Lora within diffusers framework for AI Generation Researchers.
+- [On the Mathematics of Diffusion Models (2023)](https://arxiv.org/abs/2301.11108)

@@ -211,7 +211,7 @@
 - [KAIST CS420: Compiler Design (2022 Spring)](https://github.com/kaist-cp/cs420)
 - [VTIL](https://github.com/vtil-project/VTIL-Core) - Virtual-machine Translation Intermediate Language.
 - [Hello, JIT World: The Joy of Simple JITs (2012)](https://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
-- [Low-Level Software Security for Compiler Developers](https://github.com/llsoftsec/llsoftsecbook) ([Web](https://llsoftsec.github.io/llsoftsecbook/))
+- [Low-Level Software Security for Compiler Developers](https://github.com/llsoftsec/llsoftsecbook) ([Web](https://llsoftsec.github.io/llsoftsecbook/)) ([HN](https://news.ycombinator.com/item?id=34865262))
 - [Pareas](https://github.com/Snektron/pareas) - GPU-accelerated compiler for a simple programming language, which outputs RISC-V machine code.
 - [monoasm](https://github.com/sisshiki1969/monoasm) - In-memory x86-64 assembler for JIT compiler.
 - [Crafting A Lox Interpreter In Rust (2022)](https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/)

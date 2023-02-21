@@ -236,7 +236,7 @@
 - [Datasets for deep learning with satellite & aerial imagery](https://github.com/satellite-image-deep-learning/datasets)
 - [Retriever](https://github.com/weecology/retriever) - Quickly download, clean up, and install public datasets into a database management system.
 - [A Critical Field Guide for Working with Machine Learning Datasets (2023)](https://knowingmachines.org/critical-field-guide)
-- [Oxen](https://github.com/Oxen-AI/oxen-release) - Version your machine learning datasets like you version your code.
+- [Oxen](https://github.com/Oxen-AI/oxen-release) - Version your machine learning datasets like you version your code. ([HN](https://news.ycombinator.com/item?id=34831547))
 - [This Not That](https://github.com/TutteInstitute/thisnotthat) - Visual labeling system implemented in Jupyter widgets.
 - [OpenWebText](https://github.com/jcpeterson/openwebtext) - Open clone of OpenAI's unreleased WebText dataset scraper.
 - [Multiface Dataset](https://github.com/facebookresearch/multiface) - Multi-view dataset of multiple identities performing a sequence of facial expressions.

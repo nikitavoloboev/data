@@ -282,4 +282,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Browsertech Digest Newsletter](https://digest.browsertech.com/)
 - [Pretty Browser History](https://github.com/apatel762/pretty-history) - Generate a pretty view of your browser history from a JSON export.
 - [Netflix website loading explained (2023)](https://www.youtube.com/watch?v=zQSwPEqBiLU)
-- [Opossum](https://github.com/psilva261/opossum) - Web browser written in Go.
+- [Opossum](https://github.com/psilva261/opossum) - Web browser written in Go. ([HN](https://news.ycombinator.com/item?id=34868843))

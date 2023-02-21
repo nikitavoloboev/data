@@ -50,3 +50,4 @@ title: Nostr
 - [blastr](https://github.com/MutinyWallet/blastr) - Nostr cloudflare workers proxy relay that publishes to all known online relays.
 - [Keystr](https://github.com/keystr/keystr-rs) - Application for managing Nostr keys.
 - [Spamster](https://github.com/gourcetools/spamster) - Spam bot for Nostr protocol.
+- [Nostr Proxy](https://github.com/Dolu89/nostr-proxy) - Push and get events to your Proxy, get results from multiple Nostr relays.
