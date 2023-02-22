@@ -11,6 +11,10 @@ title: Ebiten
 - [Ezcort Mission](https://sinisterstuf.itch.io/escort-mission) - Follow a dog through a post-apocalytpic wasteland full of zombies. ([Code](https://github.com/sinisterstuf/escort-mission))
 - [RTS game built with Ebiten](https://github.com/ToshaRotten/ebitenGame)
 
+## OSS tools
+
+- [Neko](https://github.com/crgimenes/neko) - Cross-platform open-source animated cursor-chasing cat.
+
 ## Links
 
 - [Donburi](https://github.com/yohamta/donburi) - Entity Component System library for Ebiten inspired by legion.

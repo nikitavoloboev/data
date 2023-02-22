@@ -107,6 +107,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments.
 - [mainer](https://github.com/mna/mainer) - Defines types relevant to flag parsing and command entrypoint implementation.
 - [termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go.
+- [version](https://github.com/mszostok/version) - Present your CLI version in a classy way.
 
 ## Test
 
@@ -412,6 +413,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [fcors](https://github.com/jub0bs/fcors) - Fearless CORS - a principled CORS middleware library for Go.
 - [go-connections](https://github.com/docker/go-connections) - Utility package to work with network connections.
 - [assetserver](https://github.com/cespare/assetserver) - Go file server for web assets.
+- [gurl](https://github.com/fogfish/gurl) - Combinator library for network I/O.
 
 ## GraphQL
 
@@ -2272,3 +2274,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-doudou](https://github.com/unionj-cloud/go-doudou) - Lightweight Go Microservice Framework.
 - [Gobuild](https://beta.gobuilds.org/) - Reproducible binaries for the Go module proxy.
 - [Structured logging in Go with slog (2023)](https://mrkaran.dev/posts/structured-logging-in-go-with-slog/) ([Lobsters](https://lobste.rs/s/hdwu80/structured_logging_go_with_slog))
+- [go-update](https://github.com/pete911/go-update) - Simple tool to update go git projects.

@@ -370,3 +370,4 @@ title: GraphQL
 - [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader) - Zero-dependency esbuild plugin that allows for the importing of GraphQL files.
 - [graphql-print](https://github.com/thomasheyenbrock/graphql-print) - Printer that GraphQL always deserved.
 - [garph](https://github.com/stepci/garph) - GraphQL schema-builder for TypeScript.
+- [yaacovcr/stitch](https://github.com/yaacovCR/stitch) - Set of tools for stitching GraphQL schemas.

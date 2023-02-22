@@ -13,6 +13,7 @@ title: Vue.js
 ## Built with Vue
 
 - [Nuxt 3 + Vuetify 3 Starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
+- [Alpine](https://github.com/nuxt-themes/alpine) - Minimalist blog theme, powered by Nuxt & Markdown.
 - [Content Wind](https://github.com/Atinux/content-wind) - Lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
 - [Nuxt 3 Minimal Starter](https://github.com/Dawntraoz-Storyblok/storyblok-nuxt-jamstack-blog)
 - [Nuxt 3 PWA](https://github.com/kevinmarrec/nuxt-pwa-module) - Zero config PWA solution for Nuxt 3.

@@ -184,3 +184,5 @@ title: Erlang
 - [OPC UA](https://github.com/stritzinger/opcua) - Native Erlang implementation of the OPCUA Binary Protocol.
 - [From Erlang to Lunatic (2023)](https://mattpo.pe/posts/from-erlang-to-lunatic/) ([HN](https://news.ycombinator.com/item?id=34846590))
 - [Tips and Tricks For Writing NIFs (2020)](https://mattpo.pe/posts/tips-and-tricks-nifs/)
+- [Cache](https://github.com/fogfish/cache) - Erlang in-memory cache.
+- [LZ4 NIF](https://github.com/rabbitmq/lz4-erlang) - LZ4 compression library for Erlang implemented as a NIF.

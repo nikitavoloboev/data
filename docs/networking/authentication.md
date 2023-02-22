@@ -298,3 +298,4 @@
 - [Nango](https://www.nango.dev/) - Open-source OAuth service for 40+ APIs. ([HN](https://news.ycombinator.com/item?id=34693233))
 - [Boruta](https://github.com/malach-it/boruta-server) - Lightweight Identity and Access Management server.
 - [Passkeys for Infrastructure (2023)](https://goteleport.com/blog/passkeys/) ([HN](https://news.ycombinator.com/item?id=34881967))
+- [Portunus](https://github.com/majewsky/portunus) - Self-contained user/group management and authentication service.

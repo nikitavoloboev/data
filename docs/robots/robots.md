@@ -201,3 +201,4 @@
 - [CleanIt](https://github.com/Sollimann/CleanIt) - Open-source Autonomy Software in Rust-lang with gRPC for the Roomba series robot vacuum cleaners.
 - [VIMA: General Robot Manipulation with Multimodal Prompts (2022)](https://arxiv.org/abs/2210.03094) ([Code](https://github.com/vimalabs/VIMA))
 - [ChatGPT for Robotics (2023)](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/) ([HN](https://news.ycombinator.com/item?id=34881424))
+- [It Takes Two: Learning to Plan for Human-Robot Cooperative Carrying (2023)](https://arxiv.org/abs/2209.12890) ([Code](https://github.com/eleyng/cooperative_planner))
