@@ -931,3 +931,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [VolSync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes.
 - [kubectl-count](https://github.com/chenjiandongx/kubectl-count) - Count resources by kind.
 - [OWASP Kubernetes Top 10 (2023)](https://sysdig.com/blog/top-owasp-kubernetes/)
+- [Kubewatch](https://github.com/robusta-dev/kubewatch) - Watch k8s events and trigger Handlers.

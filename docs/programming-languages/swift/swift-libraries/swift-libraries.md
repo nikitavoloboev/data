@@ -1443,6 +1443,7 @@
 - [Readium Swift Toolkit](https://github.com/readium/swift-toolkit) - Toolkit for ebooks, audiobooks and comics written in Swift.
 - [HexGrid](https://github.com/fananek/hex-grid) - Easy and intuitive way of working with hexagonal grids.
 - [RequestDL](https://github.com/brennobemoura/request-dl) - DL networking library for Swift.
+- [SFSymbol](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 
 ## Other (not lib)
 

@@ -57,3 +57,4 @@
 - [AR Basic App](https://github.com/ynagatomo/ARBasicApp) - Minimal iOS AR app that can be used as a template when creating an AR app for the first time.
 - [Rust WebXR](https://github.com/servo/webxr)
 - [HCI & Theories of Spatial Computing](https://github.com/ddiakopoulos/spatial-computing-fundamentals)
+- [ARDiffMuseum](https://github.com/ynagatomo/ARDiffMuseum) - iOS app that generate images using Stable Diffusion and displays them in AR.

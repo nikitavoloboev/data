@@ -237,3 +237,4 @@ It's hard to really know someone's life story based on what others said or wrote
 - [Ask HN: I'd like to learn how to tell stories better to friends (2023)](https://news.ycombinator.com/item?id=34562930)
 - [Retrospectives Antipatterns (2023)](https://martinfowler.com/articles/retrospective-antipatterns.html) ([Lobsters](https://lobste.rs/s/rpsrih/retrospectives_antipatterns))
 - [How I give formal written feedback](https://quad.writeas.com/how-i-give-formal-written-feedback)
+- [Common Ground](https://www.commonground.cg/) - Social chat app for communities. Publish news, discuss topics and vote on what matters.

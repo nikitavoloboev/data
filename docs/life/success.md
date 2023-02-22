@@ -6,6 +6,8 @@ I found writing down some [rules](../focusing/rules.md) for myself in how I lead
 
 I do my best to try as many [ideas](../ideas/ideas.md) I find interesting and learn from each one.
 
+If I choose an idea to work on, I go all in on making it work. [Pick the highest leverage thing. Do that thing well. Ignore everything else.](https://twitter.com/JustJake/status/1628118832564043777)
+
 ## Notes
 
 - Figure out what you are uniquely the best in the world at because you just love it. And then just find out who or what needs that the most.
