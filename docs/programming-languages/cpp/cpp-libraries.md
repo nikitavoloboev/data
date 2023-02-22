@@ -55,6 +55,7 @@
 - [mockturtle](https://github.com/lsils/mockturtle) - C++ logic network library.
 - [Wt](https://github.com/emweb/wt) - C++ Web Toolkit.
 - [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
+- [Homa](https://github.com/PlatformLab/Homa) - Low-Latency Data Center Network Transport.
 
 ## Graphics
 

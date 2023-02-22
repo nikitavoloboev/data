@@ -2,7 +2,7 @@
 
 I love meeting new people. Best places to meet people are usually events of some kind. As well as asking to meet for coffee or just a virtual call.
 
-I add any person I found interesting to [my contacts](../macOS/apps/contacts.md). [Luma](https://lu.ma/) is my preferred way to organize events. [Guild](https://beta.guild.host/) seems nice too.
+I add any person I found interesting to [my contacts](../macOS/apps/contacts.md). [Luma](https://lu.ma/) is my preferred way to organize events. [Guild](https://beta.guild.host/) and [Circle](https://circle.so/) seem nice too.
 
 ## Neat event pages
 

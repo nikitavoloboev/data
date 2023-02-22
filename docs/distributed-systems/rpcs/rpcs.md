@@ -4,6 +4,8 @@ title: Remote Procedure Calls
 
 # [Remote Procedure Calls](https://en.wikipedia.org/wiki/Remote_procedure_call)
 
+Love using [tRPC](../../api/trpc.md). [Bling](https://github.com/TanStack/bling) & [PicoRPC](https://github.com/fabiospampinato/picorpc) are interesting too.
+
 ## Links
 
 - [Twirp](https://github.com/twitchtv/twirp) - Simple RPC framework with protobuf service definitions.

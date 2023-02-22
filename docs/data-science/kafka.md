@@ -142,3 +142,4 @@ title: Apache Kafka
 - [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/) ([HN](https://news.ycombinator.com/item?id=34716797))
 - [Streaming Events from Redpanda Cloud into Imply Polaris (2023)](https://blog.hellmar-becker.de/2023/02/14/streaming-events-from-redpanda-cloud-into-imply-polaris/)
 - [NATS to Kafka Bridging](https://github.com/nats-io/nats-kafka)
+- [Optimizing Apache Kafka® for High Throughput (2023)](https://datacater.io/blog/2023-02-21/kafka-consumer-producer-high-throughput.html)

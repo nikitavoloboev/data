@@ -356,6 +356,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [David Pearce](https://whileydave.com/blog/)
 - [Rachel Thomas](https://rachel.fast.ai/)
 - [Tomek Korbak](https://tomekkorbak.com/blog/)
+- [Philipp Schmid](https://www.philschmid.de/)
 
 ## Notes
 

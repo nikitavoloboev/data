@@ -524,3 +524,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Rust vs. Haskell (2023)](https://serokell.io/blog/rust-vs-haskell) ([HN](https://news.ycombinator.com/item?id=34787844))
 - [Example to illustrate how to set up incremental Haskell Nix builds](https://github.com/hdgarrood/haskell-incremental-nix-example)
 - [Hurry](https://github.com/elldritch/hurry) - Build tool for Haskell applications that's fast and easy to use.
+- [Optimizing Haskell Code for Runtime Verification (2023)](https://serokell.io/blog/optimizing-k-framework)

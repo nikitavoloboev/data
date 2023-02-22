@@ -48,3 +48,4 @@ title: Apollo GraphQL
 - [Apollo GraphQL x Next x Tailwind template](https://github.com/patrick91/apollo-next-js-template)
 - [Python Bindings for Apollo-RS](https://github.com/erikwrede/rustberry)
 - [Nau](https://github.com/kazekyo/nau) - Tool that makes Apollo Client more productive for users using Relay GraphQL Server Specification compliant backends.
+- [Fixing a 3 second lockup in our app by switching from Apollo Client to URQL (2023)](https://kitemaker.co/blog/switching-from-apollo-to-urql)

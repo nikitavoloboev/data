@@ -14,6 +14,8 @@ I personally believe that eventually all of the greatest companies will be fully
 
 Great [management](../../management/management.md) together with being able to [make thoughtful decisions fast](https://www.youtube.com/watch?v=HE5CTKqWEV0&t=5851s) with fast rollbacks makes a huge difference whether startups succeed or not.
 
+Try to be mindful of [tools I use](../../sharing/my-workflow.md) for my startups. [Reflect's stack](https://twitter.com/maccaw/status/1627820421436563456) is nice.
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.
@@ -415,6 +417,7 @@ Great [management](../../management/management.md) together with being able to [
 - [If I asked you about startups, you'd probably give me the skinny on about every book and blog post ever written](https://twitter.com/AndrewArruda/status/1614035461227352064)
 - [My Fifth Year as a Bootstrapped Founder (2023)](https://mtlynch.io/solo-developer-year-5/) ([HN](https://news.ycombinator.com/item?id=34740105))
 - [Ask HN: Are Paul Graham's Classic Startup Essays Outdated? (2023)](https://news.ycombinator.com/item?id=34750727)
+- [Reflect's startup stack (2023)](https://twitter.com/maccaw/status/1627820421436563456)
 
 ## Images
 

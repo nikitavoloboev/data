@@ -6,6 +6,8 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 
 [ui.land](https://ui.land/) has nice design tips.
 
+Great onboarding is essential. Loved [Arc Browser](https://arc.net/) onboarding.
+
 ## Notes
 
 - Like how [Stripe](https://stripe.com/) does the hamburger menu on mobile.

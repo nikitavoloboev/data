@@ -14,6 +14,8 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 
 [rust-bert](https://github.com/guillaume-be/rust-bert) is useful for making NLP pipelines.
 
+Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-flan-t5-deepspeed).
+
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
@@ -848,3 +850,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Elk](https://github.com/EleutherAI/elk) - Eliciting latent knowledge inside the activations of a language model.
 - [Neurosymbolic Reading Group](http://www.neurosymbolic.org/reading-group.html)
 - [One Embedder, Any Task: Instruction-Finetuned Text Embeddings (2022)](https://arxiv.org/abs/2212.09741) ([Code](https://github.com/HKUNLP/instructor-embedding))
+- [Fine-tune FLAN-T5 for chat & dialogue summarization (2022)](https://www.philschmid.de/fine-tune-flan-t5)

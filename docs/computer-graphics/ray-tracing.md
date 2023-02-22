@@ -135,3 +135,4 @@ title: Ray tracing
 - [Ray Tracing in One Weekend (Zig)](https://github.com/Nelarius/weekend-raytracer-zig)
 - [Accelerated Photon Mapping for Hardware-based Ray Tracing (using Falcor 5.2)](https://github.com/SirKero/RTProgressivePhotonMapper)
 - [Simple spectral ray tracer in Rust](https://github.com/tvh/rayer-rs)
+- [Lumen](https://github.com/yuphin/Lumen) - Vulkan ray tracing framework for various bidirectional path tracing techniques.

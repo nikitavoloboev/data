@@ -107,3 +107,4 @@ I love the fact that I can set up any new mac or phone to use my exact and perfe
 - [Introducing Content Defined Chunking (CDC) (2015)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
 - [What Losing Everything Taught Me About Backing Up (2023)](https://hackaday.com/2023/01/30/what-losing-everything-taught-me-about-backing-up/)
 - [PaperAge](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets.
+- [resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup.

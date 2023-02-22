@@ -117,3 +117,4 @@ title: Blender
 - [A Gentle Introduction to the Rendering Equation (2022)](https://m15y.com/posts/render)
 - [motion_generate_tools](https://github.com/UuuNyaa/blender_motion_generate_tools) - Blender addon for generate motion using MDM: Human Motion Diffusion Model.
 - [CAD Sketcher](https://www.cadsketcher.com/) - Blender Parametric Precision Modeling. ([HN](https://news.ycombinator.com/item?id=34856383))
+- [Blender Tools](https://github.com/framefactory/blender-tools) - Useful add-ons, tools and utilities for Blender scripting.
