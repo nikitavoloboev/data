@@ -144,6 +144,7 @@
 - [MultiObjectiveAlgorithms.jl](https://github.com/jump-dev/MultiObjectiveAlgorithms.jl) - Collection of algorithms for multi-objective optimization.
 - [NNlib.jl](https://github.com/FluxML/NNlib.jl) - Neural Network primitives with multiple backends.
 - [NonlinearSolve.jl](https://github.com/SciML/NonlinearSolve.jl) - Fast implementations of root finding algorithms in Julia that satisfy the SciML common interface.
+- [DiffEqProblemLibrary.jl](https://github.com/SciML/DiffEqProblemLibrary.jl) - Library of premade problems for examples and testing differential equation solvers and other SciML scientific machine learning tools.
 
 ## Math
 
@@ -251,6 +252,7 @@
 - [GenericArpack.jl](https://github.com/dgleich/GenericArpack.jl) - Pure Julia translation of the Arpack library for eigenvalues and eigenvectors but for any numeric types.
 - [QRupdate](https://github.com/mpf/QRupdate.jl) - Column and row updates to "Q-less" QR decomposition, including stable least-squares solves.
 - [SummationByPartsOperators.jl](https://github.com/ranocha/SummationByPartsOperators.jl) - Provably stable discretization techniques with mimetic properties.
+- [TransformVariables.jl](https://github.com/tpapp/TransformVariables.jl) - Transformations to contrained variables from ℝⁿ.
 
 ## NLP
 

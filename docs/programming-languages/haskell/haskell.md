@@ -525,3 +525,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Example to illustrate how to set up incremental Haskell Nix builds](https://github.com/hdgarrood/haskell-incremental-nix-example)
 - [Hurry](https://github.com/elldritch/hurry) - Build tool for Haskell applications that's fast and easy to use.
 - [Optimizing Haskell Code for Runtime Verification (2023)](https://serokell.io/blog/optimizing-k-framework)
+- [Haskell memes (2023)](https://twitter.com/ChShersh/status/1575460560161980418)

@@ -141,3 +141,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Reverse Engineered Edge GPT](https://github.com/acheong08/EdgeGPT)
 - [Reverse Engineered ChatGPT](https://github.com/acheong08/ChatGPT)
 - [Should GPT exist? (2023)](https://scottaaronson.blog/?p=7042)
+- [Patterns](https://www.patterns.app/) - Build mission-critical integrations, automations, and workflows with GPT from a powerful set of building blocks. ([Components](https://github.com/patterns-app/patterns-components))

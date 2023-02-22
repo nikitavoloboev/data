@@ -196,3 +196,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Why Russia Miscalculated in Ukraine: A Self-Inflicted Disaster in Three Acts (2023)](https://www.youtube.com/watch?v=8YkGrKQXZxE)
 - [Евромайдан без мифов и пропаганды (2023)](https://www.youtube.com/watch?v=sVM69vcvwmw)
 - [Russia's Grand Strategy and Ukraine - Is Putin's war already a strategic failure? (2023)](https://www.youtube.com/watch?v=94bqk8cB9iQ) ([Reddit](https://www.reddit.com/r/geopolitics/comments/116db46/russias_grand_strategy_and_ukraine_is_putins_war/))
+- [A Historian of the Future: Five More Questions for Stephen Kotkin (2023)](https://www.youtube.com/watch?v=3ww4ofe0v70)

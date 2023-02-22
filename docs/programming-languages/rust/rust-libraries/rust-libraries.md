@@ -761,6 +761,7 @@
 - [bn254](https://github.com/sedaprotocol/bn254) - Aggregate signatures over the pairing-friendly elliptic curve BN254.
 - [Dilithium](https://github.com/Argyle-Software/dilithium) - Post-quantum cryptographic signature scheme.
 - [Kyber](https://github.com/Argyle-Software/kyber) - Rust implementation of the Kyber post-quantum KEM.
+- [Cryptocorrosion](https://github.com/cryptocorrosion/cryptocorrosion) - Performance crypto in pure Rust.
 
 ## Linux
 

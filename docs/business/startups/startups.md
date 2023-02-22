@@ -16,6 +16,8 @@ Great [management](../../management/management.md) together with being able to [
 
 Try to be mindful of [tools I use](../../sharing/my-workflow.md) for my startups. [Reflect's stack](https://twitter.com/maccaw/status/1627820421436563456) is nice.
 
+Liked [this episode](https://www.thetwentyminutevc.com/kevin-systrom/) as it goes over many elements on what makes startups succeed.
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.

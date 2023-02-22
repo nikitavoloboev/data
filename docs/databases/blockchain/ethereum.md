@@ -767,3 +767,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [evm-coder](https://github.com/UniqueNetwork/evm-coder) - Library for seamless call translation between Rust and Solidity code.
 - [zkSync Era](https://github.com/matter-labs/zksync-era) - ZK Rollup For Scaling Ethereum.
 - [Formalizing the EVM in Dafny (2023)](https://whileydave.com/2023/02/06/formalising-the-ethereum-virtual-machine-in-dafny/)
+- [Eth Varifiable RPC](https://github.com/liamzebedee/eth-verifiable-rpc) - Verifiable RPC for Ethereum state, in-browser, no node.

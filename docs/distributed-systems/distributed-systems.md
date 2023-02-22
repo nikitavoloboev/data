@@ -307,3 +307,4 @@
 - [Armstrong distributed systems](https://github.com/stevana/armstrong-distributed-systems)
 - [What is consensus](https://twitter.com/AlexMillerDB/status/1592470377284112385)
 - [Raft algorithm concept prove application in Go](https://github.com/kkdai/raft)
+- [Gossip Glomers: Fly.io Distributed Systems Challenges](https://fly.io/blog/gossip-glomers/) ([HN](https://news.ycombinator.com/item?id=34897723))

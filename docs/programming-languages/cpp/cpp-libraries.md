@@ -524,3 +524,4 @@
 - [xsimd](https://github.com/xtensor-stack/xsimd) - C++ wrappers for SIMD intrinsics.
 - [Libnyquist](https://github.com/ddiakopoulos/libnyquist) - Small C++11 library for reading sampled audio data from disk or memory.
 - [Nano RPC](https://github.com/tdv/nanorpc) - Lightweight RPC in pure C++ 17.
+- [C++ Coroutines (2023)](https://nigeltao.github.io/blog/2023/cpp-coro-part-1-yield-return-prime-sieve.html) ([HN](https://news.ycombinator.com/item?id=34898130))

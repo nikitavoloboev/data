@@ -430,3 +430,4 @@ title: WebAssembly
 - [How to use WebAssembly in various languages](https://github.com/vmware-labs/wasm-languages)
 - [Wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf) - WASM library and toolchain for eBPF.
 - [jco](https://github.com/bytecodealliance/jco) - JavaScript tooling for working with WebAssembly Components.
+- [WebAssembly Components Demo](https://github.com/rylev/wasmtime-component-demo) - Demo of how to work with WebAssembly components in wasmtime.

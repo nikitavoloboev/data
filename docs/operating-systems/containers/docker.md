@@ -279,7 +279,7 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Podman Desktop](https://podman-desktop.io/) - Free OSS Alternative to Docker Desktop. ([HN](https://news.ycombinator.com/item?id=33536978))
 - [Deterministic source-based docker image checksum](https://github.com/dpc/docker-source-checksum)
 - [Beefs with Docker (2019)](https://morepablo.com/2019/08/beefs-with-docker.html)
-- [Depot](https://depot.dev/) - Build Docker images fast, in the cloud. ([CLI](https://github.com/depot/cli))
+- [Depot](https://depot.dev/) - Build Docker images fast, in the cloud. ([CLI](https://github.com/depot/cli)) ([HN](https://news.ycombinator.com/item?id=34898253))
 - [Docker Extension Ideas](https://github.com/docker/extension-ideas)
 - [Useful Docker commands cheat sheet](https://blog.devgenius.io/most-useful-docker-commands-cheat-sheet-f5115e10c047)
 - [Docker + WASM Docs](https://docs.docker.com/desktop/wasm/)

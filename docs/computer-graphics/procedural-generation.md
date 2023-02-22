@@ -69,3 +69,4 @@
 - [Implementation of Wave Function Collapse with a focus on performance](https://github.com/math-fehr/fast-wfc)
 - [Infinite World](https://github.com/brunosimon/infinite-world) - Infinite procedurally generated world generated in WebGL with Three.js.
 - [SimpleHydrology](https://github.com/weigert/SimpleHydrology) - Procedural Hydrology / River / Lake Simulation.
+- [Gaseous Giganticus](https://github.com/smcameron/gaseous-giganticus) - Procedurally generated gas giant planet cubemap textures for the game Space Nerds In Space.
