@@ -64,4 +64,4 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [How to take sexy pictures as an adult?](https://www.reddit.com/r/sexover30/comments/zvtag5/how_to_take_sexy_pictures_as_an_adult/)
 - [Is This Image NSFW?](https://nsfw.m1guelpf.me/) - Run any image through the Stable Diffusion content filter. ([Code](https://github.com/m1guelpf/cog-nsfw-filter))
 - [In The Raw](https://www.in-the-raw.org/)
-- [Your favorite personal nude](https://twitter.com/mures_mures/status/1627781431882661891/retweets/with_comments)
+- [Your favorite personal nude](https://twitter.com/mures_mures/status/1627781431882661891/retweets/with_comments) ([Tweet](https://twitter.com/mures_mures/status/1627781431882661891))

@@ -4,6 +4,8 @@
 
 [Schrödinger Equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) is great to [understand](https://www.youtube.com/watch?v=2WPA1L9uJqo).
 
+[Why is it so hard to unify QM and GR](https://nms.kcl.ac.uk/eugene.lim/NewScientistEvent4.key.pdf) is great read.
+
 ## Notes
 
 - [This is the reason why the word observer is cursed. Because it leads to people to conclude consciousness and other wrong concepts are associated with the results. All that happens is a measurement, an interaction or interference, so no, you dont need a conscious observer, because the act of measurement is what interacts with the wave function, it happens irregardless of being made by a dog, a tardigrade or a computer, because anything that measures the wave function is interfering with it.](https://www.reddit.com/r/quantum/comments/lqtxa6/does_the_observer_effect_only_happens_if_the/)
@@ -126,3 +128,4 @@
 - [What is the Schrödinger Equation? A basic introduction to Quantum Mechanics (2022)](https://www.youtube.com/watch?v=2WPA1L9uJqo)
 - [Can the double-slit experiment distinguish between quantum interpretations? (2023)](https://arxiv.org/abs/2301.02641) ([HN](https://news.ycombinator.com/item?id=34312069))
 - [QGOpt](https://github.com/LuchnikovI/QGOpt) - Riemannian optimization for quantum technologies.
+- [Why is it so hard to unify QM and GR?](https://nms.kcl.ac.uk/eugene.lim/NewScientistEvent4.key.pdf) ([Tweet](https://twitter.com/DD_Baumann/status/1628185802604945413))

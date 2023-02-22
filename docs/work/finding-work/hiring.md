@@ -183,3 +183,4 @@ Love this list of [favorite interview questions](https://twitter.com/nathanbarry
 - [Ask HN: What prevents a company from hiring remote employees internationally? (2022)](https://news.ycombinator.com/item?id=33996871)
 - [Frappe HR](https://github.com/frappe/hrms) - Open Source HR and Payroll Software. ([Web](https://frappehr.com/))
 - [What is your favorite interview question to ask when hiring?](https://twitter.com/nathanbarry/status/1622614844200431617)
+- [Ask HN: Why is hiring so dehumanized, and what can be done? (2023)](https://news.ycombinator.com/item?id=34899976)

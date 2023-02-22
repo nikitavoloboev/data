@@ -67,3 +67,4 @@ title: Brain Computer Interfaces
 - [Using deep learning to “read your thoughts” — with Keras and EEG (2019)](https://justlv.medium.com/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a)
 - [Bryan Johnson: Kernel Brain-Computer Interfaces (2023)](https://www.youtube.com/watch?v=1YbcB6b4A2U)
 - [Real-Time Brain-to-Image Reconstructions](https://medarc.notion.site/Real-Time-Brain-to-Image-Reconstructions-e1116f115715456a96bb053a304b6292) ([HN](https://news.ycombinator.com/item?id=34737517))
+- [The future of brain–machine interfaces is optical (2023)](https://www.nature.com/articles/s41928-023-00926-y)

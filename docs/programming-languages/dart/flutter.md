@@ -117,3 +117,4 @@ title: Flutter
 - [Dashbook](https://github.com/bluefireteam/dashbook) - Development tools to help you building UI on Flutter.
 - [Mimir](https://github.com/GregoryConrad/mimir) - Supercharged Flutter/Dart Database.
 - [Flutter desktop isn’t there yet (2023)](https://plei.one/blog/flutter-desktop-not-there-yet/) ([HN](https://news.ycombinator.com/item?id=34643291))
+- [Tauri - The Flutter killer? (2023)](https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27)
