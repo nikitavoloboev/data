@@ -6,9 +6,11 @@ title: tRPC
 
 > End-to-end typesafe APIs made easy
 
-[Here](https://www.youtube.com/watch?v=x4mu-jOiA0Q) is a great intro. I use it as part of [create JD app](https://github.com/OrJDev/create-jd-app) in [Solid](../programming-languages/javascript/js-libraries/solid.md).
+[Here](https://www.youtube.com/watch?v=x4mu-jOiA0Q) is a great intro. I use it as part of [create JD app](https://github.com/OrJDev/create-jd-app) in [Solid](../programming-languages/javascript/js-libraries/solid.md) or [T3 Complete](https://github.com/juliusmarminge/t3-complete) for [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md).
 
 [PicoRPC](https://github.com/fabiospampinato/picorpc) & [Zodios](https://github.com/ecyrbe/zodios) are interesting alternatives.
+
+Looking into using [tRPC Server Middleware for Hono](https://github.com/honojs/middleware/tree/main/packages/trpc-server).
 
 ## Links
 
@@ -41,3 +43,4 @@ title: tRPC
 - [How tRPC really works (2023)](https://www.youtube.com/watch?v=x4mu-jOiA0Q)
 - [Advanced tRPC - Callers, functions, and gSSP (2023)](https://www.youtube.com/watch?v=G2ZzmgShHgQ)
 - [T3: TRPC, Prisma and NextAuth Done Right (2023)](https://www.youtube.com/watch?v=J1gzN1SAhyM)
+- [tRPC Server Middleware for Hono](https://github.com/honojs/middleware/tree/main/packages/trpc-server)

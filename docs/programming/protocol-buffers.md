@@ -100,3 +100,4 @@ Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 - [setup-protoc](https://github.com/Noelware/setup-protoc) - GitHub action for setting up the Protocol Buffers compiler.
 - [Timestamp](https://github.com/aperturerobotics/timestamp) - Protobuf cross-language timestamp encoding.
 - [protoCURL](https://github.com/qaware/protocurl) - cURL for Protobuf. ([HN](https://news.ycombinator.com/item?id=34866155))
+- [Proto Gen MD Diagrams](https://github.com/GoogleCloudPlatform/proto-gen-md-diagrams) - Utility for generating Markdown documentation for Protocol Buffers that include Mermaid UML Diagrams.

@@ -271,3 +271,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Crush everyone below 1500 using this opening](https://www.youtube.com/watch?v=Ink7sQk6CNI)
 - [What’s your favorite opening and why do you like it so much? (2023)](https://www.reddit.com/r/chess/comments/10x7ssy/whats_your_favourite_opening_and_why_do_you_like/)
 - [Fire On Board: Shirov's Best Games by Alexei Shirov](https://www.goodreads.com/en/book/show/1405650)
+- [Deno Chess](https://github.com/raydog/deno-chess) - Speedy pure-Typescript chess engine.

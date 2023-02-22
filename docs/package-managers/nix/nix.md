@@ -509,3 +509,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Snowfall Lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [Bazel and Nix: A Migration Experience (2022)](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
 - [Flake Parts](https://github.com/hercules-ci/flake-parts) - Simplify Nix Flakes with the module system. ([Docs](https://flake.parts/))
+- [nix-search](https://github.com/peterldowns/nix-search-cli) - CLI for searching packages on search.nixos.org.

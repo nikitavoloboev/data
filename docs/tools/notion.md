@@ -140,3 +140,4 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [ChatGPT to Notion](https://github.com/L-a-r-t/chatgpt-to-notion)
 - [Notion Question-Answering](https://github.com/hwchase17/notion-qa) - Ask questions to your Notion database in natural language.
 - [Astro Notion Blog](https://github.com/otoyo/astro-notion-blog)
+- [Tiny Notion API](https://github.com/benborgers/tiny-notion-api)

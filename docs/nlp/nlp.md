@@ -847,3 +847,4 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 - [Butterfish](https://github.com/bakks/butterfish) - CLI tools for LLMs.
 - [Elk](https://github.com/EleutherAI/elk) - Eliciting latent knowledge inside the activations of a language model.
 - [Neurosymbolic Reading Group](http://www.neurosymbolic.org/reading-group.html)
+- [One Embedder, Any Task: Instruction-Finetuned Text Embeddings (2022)](https://arxiv.org/abs/2212.09741) ([Code](https://github.com/HKUNLP/instructor-embedding))

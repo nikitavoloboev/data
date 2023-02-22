@@ -1076,3 +1076,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Paper list of RGBD semantic segmentation](https://github.com/Yangzhangcst/RGBD-semantic-segmentation)
 - [Infinitely Deep Bayesian Neural Networks with Stochastic Differential Equations (2022)](https://arxiv.org/abs/2102.06559) ([Code](https://github.com/xwinxu/bayeSDE))
 - [Auxiliary Learning as an Asymmetric Bargaining Game (2023)](https://arxiv.org/abs/2301.13501) ([Code](https://github.com/AvivSham/auxinash))
+- [Block-Recurrent Transformers (2022)](https://arxiv.org/abs/2203.07852) ([Code](https://github.com/lucidrains/block-recurrent-transformer-pytorch))
+- [Awesome Causality Algorithms](https://github.com/rguo12/awesome-causality-algorithms)

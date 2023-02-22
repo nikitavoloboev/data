@@ -138,3 +138,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT (2023)](https://arxiv.org/abs/2302.09419)
 - [YoBulk](https://github.com/yobulkdev/yobulkdev) - Open Source CSV importer powered by GPT3. ([HN](https://news.ycombinator.com/item?id=34881286))
 - [In defense of prompt engineering (2023)](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/)
+- [Reverse Engineered Edge GPT](https://github.com/acheong08/EdgeGPT)
+- [Reverse Engineered ChatGPT](https://github.com/acheong08/ChatGPT)

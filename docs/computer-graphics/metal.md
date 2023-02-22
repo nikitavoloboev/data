@@ -68,3 +68,4 @@ title: Metal
 - [Palico Engine](https://github.com/forkercat/PalicoEngine) - Metal-Based Game Engine in Swift.
 - [Thirty Days of Metal](https://medium.com/@warrenm/thirty-days-of-metal-day-1-devices-e371729d05ca) ([Code](https://github.com/metal-by-example/thirty-days-of-metal))
 - [Running Metal Shaders in SceneKit's environment](https://github.com/markpmlim/SceneKit_MSL)
+- [Numerical Computing on Apple M1 : Study and Implementations](https://github.com/ShoYamanishi/AppleNumericalComputing)

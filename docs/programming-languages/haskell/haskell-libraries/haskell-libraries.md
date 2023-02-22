@@ -499,3 +499,4 @@
 - [if-instance](https://github.com/sheaf/if-instance) - GHC plugin to branch on whether a constraint is satisfied.
 - [guardian](https://github.com/deepflowinc/guardian) - Border guardian for your Haskell monorepo package dependencies.
 - [Hakyll + Nix template](https://github.com/rpearce/hakyll-nix-template) ([Tutorial](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html))
+- [stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix.

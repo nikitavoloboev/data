@@ -104,3 +104,4 @@ Is logical theory of computable functions.
 - [Sequoia](https://github.com/robrix/sequoia) - Implementation of classical logic in a sequent calculus, embedded in intuitionistic logic.
 - [LEOG](https://github.com/pigworker/LEOG) - Implementation of the calculus of constructions.
 - [Lambda Calculus With Coroutines and Heapless, Directly-Called Closures (2023)](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures)
+- [Eole](https://github.com/HerrmannM/eole) - Levy-optimal lambda calculus evaluator without oracle.

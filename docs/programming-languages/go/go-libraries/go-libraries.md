@@ -628,6 +628,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [zipcache](https://github.com/ostafen/zipcache) - In-memory compressed cache.
 - [Neoq](https://github.com/acaloiaro/neoq) - Background job processing built on Postgres for Go. ([Lobsters](https://lobste.rs/s/kzbekd/show_background_job_processing_without))
 - [otelsql](https://github.com/nhatthm/otelsql) - OpenTelemetry SQL database driver wrapper for Go.
+- [scan](https://github.com/stephenafamo/scan) - Scan provides the ability to to scan SQL rows directly to any defined structure.
 
 ## ML
 
@@ -2080,6 +2081,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [traffic](https://github.com/thedevsaddam/traffic) - Thread safe load-balancer package for Go.
 - [Func](https://github.com/knative/func) - Knative Functions client API and CLI.
 - [Log](https://github.com/charmbracelet/log) - Minimal, colorful Go logging library.
+- [malgo](https://github.com/gen2brain/malgo) - Go bindings for miniaudio library.
 
 ## Links
 
