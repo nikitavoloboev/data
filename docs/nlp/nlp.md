@@ -852,3 +852,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [One Embedder, Any Task: Instruction-Finetuned Text Embeddings (2022)](https://arxiv.org/abs/2212.09741) ([Code](https://github.com/HKUNLP/instructor-embedding))
 - [Fine-tune FLAN-T5 for chat & dialogue summarization (2022)](https://www.philschmid.de/fine-tune-flan-t5)
 - [Cohere Playground](https://dashboard.cohere.ai/playground/summarize) - Summarize texts up to 50K characters.
+- [SGPT: GPT Sentence Embeddings for Semantic Search (2022)](https://arxiv.org/abs/2202.08904) ([Code](https://github.com/Muennighoff/sgpt))
