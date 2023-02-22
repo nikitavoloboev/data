@@ -48,6 +48,7 @@ Below is a list of extensions I use.
 ## HTML
 
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag. ([Code](https://github.com/vincaslt/vscode-highlight-matching-tag))
+- [HTML Language Service](https://github.com/microsoft/vscode-html-languageservice)
 
 ## CSS
 
@@ -610,3 +611,4 @@ Below is a list of extensions I use.
 - [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver.
 - [Template for VS Code python tools extensions](https://github.com/microsoft/vscode-python-tools-extension-template)
 - [Awesome VSCode Extension](https://github.com/stateful/vscode-awesome-ux) - Showcase of how to employ best practices to provide a high-fidelity user experience inside of VS Code extensions.
+- [Escaping misconfigured VSCode extensions (2023)](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)

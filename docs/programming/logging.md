@@ -81,3 +81,4 @@
 - [LogSlash](https://github.com/FoxIO-LLC/LogSlash) - Standard for reducing log volume without sacrificing analytical capability.
 - [How Airbnb Achieved Metric Consistency at Scale (2021)](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)
 - [Grove](https://github.com/hashicorp-forge/grove) - Software as a Service (SaaS) log collection framework.
+- [Shipping Logs · Fly (2023)](https://fly.io/blog/shipping-logs/)

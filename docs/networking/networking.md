@@ -1,6 +1,6 @@
 # Networking
 
-[Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW), [Everything I know about networking](https://tomaka.medium.com/everything-i-know-about-networking-8796e4f5846d) & [broad intro](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.html) are great intros.
+[Internet explained from first principles](https://explained-from-first-principles.com/internet/), [Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW), [Everything I know about networking](https://tomaka.medium.com/everything-i-know-about-networking-8796e4f5846d) & [broad intro](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.html) are great intros.
 
 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) is great for in depth study. [Protohackers](https://protohackers.com/) has nice coding challenges.
 
@@ -589,3 +589,4 @@
 - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 - ["BGP at home": getting a DIA circuit installed at home (2023)](https://aaka.sh/posts/20230129-bgp-at-home.html) ([HN](https://news.ycombinator.com/item?id=34853136))
 - [dhcpm](https://github.com/leshow/dhcpm) - CLI tool for constructing & sending DHCP messages.
+- [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)

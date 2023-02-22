@@ -52,3 +52,5 @@
 - [Nakai](https://github.com/nakaibuild/nakai) - Just-in-time functional rendering framework for building web apps with Gleam.
 - [showtime](https://github.com/JohnBjrk/showtime) - Gleam Testing Framework.
 - [glimt](https://github.com/JohnBjrk/glimt) - Gleam library for logging.
+- [Interview and AMA with Louis Pilfold - Creator of Gleam (2023)](https://www.youtube.com/watch?v=IlPOUuIZnec)
+- [codec](https://github.com/gleam-community/codec) - Keeping your JSON encoders and decoders in sync.

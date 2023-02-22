@@ -315,3 +315,4 @@ title: Spatial analysis
 - [Replacing Mapbox with open source solutions (2023)](https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/) ([HN](https://news.ycombinator.com/item?id=34836700))
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps. ([Code](https://github.com/allmaps/allmaps))
 - [Geo Assist](https://github.com/thegeekyasian/geo-assist) - Spatial library that allows you to manage spatial data in-memory. ([HN](https://news.ycombinator.com/item?id=34817779))
+- [Salta](https://github.com/pixwire/salta) - Small footprint reverse-geocoder for when you don't need precision.

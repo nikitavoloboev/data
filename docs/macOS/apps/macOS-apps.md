@@ -242,6 +242,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Codelime](https://onmyway133.com/codelime/) - Powerful code snippet manager. ([Docs](https://github.com/onmyway133/Codelime))
 - [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) - macOS app to show applications menu shortcuts.
 - [TextTransformer](https://github.com/insidegui/TextTransformer) - Apple ExtensionFoundation/ExtensionKit sample app.
+- [OrbStack](https://orbstack.dev/) - Fast, light, simple Docker & Linux for macOS. ([Code](https://github.com/orbstack/orbstack))
 
 ## Apps I used but dropped
 

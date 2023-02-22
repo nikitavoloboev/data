@@ -219,7 +219,7 @@ title: Generative adversarial networks
 - [The ArtBench Dataset: Benchmarking Generative Models with Artworks (2022)](https://arxiv.org/abs/2206.11404) ([Code](https://github.com/liaopeiyuan/artbench))
 - [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/) ([HN](https://news.ycombinator.com/item?id=31894552))
 - [BlobGAN: Spatially Disentangled Scene Representations (2022)](https://arxiv.org/abs/2205.02837) ([Code](https://github.com/dave-epstein/blobgan))
-- [BigVGAN: A Universal Neural Vocoder with Large-Scale Training (2022)](https://arxiv.org/abs/2206.04658) ([Code](https://github.com/sh-lee-prml/BigVGAN))
+- [BigVGAN: A Universal Neural Vocoder with Large-Scale Training (2022)](https://arxiv.org/abs/2206.04658) ([Code](https://github.com/sh-lee-prml/BigVGAN)) ([Code](https://github.com/NVIDIA/BigVGAN))
 - [Training StyleGAN2 on TPUs in JAX](https://github.com/nyx-ai/stylegan2-flax-tpu)
 - [LoopGAN](https://github.com/naotokui/LoopGAN) - StyleGAN2 + MelGAN Audio Loop Generation.
 - [CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions (2021)](https://arxiv.org/abs/2112.05219) ([Code](https://github.com/RameenAbdal/CLIP2StyleGAN))

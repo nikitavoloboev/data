@@ -115,3 +115,4 @@ And here are Chrome extensions I use:
 - [TracerBench: Automated Chrome Tracing For Benchmarking](https://github.com/TracerBench/tracerbench)
 - [Sorting 400+ tabs in 60 seconds with JS, Rust & GPT-3 (2023)](https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/) ([HN](https://news.ycombinator.com/item?id=34826884))
 - [New headless Chrome has been released and has a near-perfect browser fingerprint (2023)](https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html) ([HN](https://news.ycombinator.com/item?id=34857087))
+- [Chromium Security Quarterly Updates](https://www.chromium.org/Home/chromium-security/quarterly-updates/)

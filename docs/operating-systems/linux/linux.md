@@ -694,3 +694,4 @@ title: Linux
 - [An overview of single-purpose Linux distributions (2023)](https://lwn.net/SubscriberLink/922968/4a69aa7f1f2332d7/) ([HN](https://news.ycombinator.com/item?id=34837219))
 - [In praise of Alpine and apk (2023)](https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/)
 - [A complete guide to Linux process scheduling (2015)](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf) ([HN](https://news.ycombinator.com/item?id=34870476))
+- [Linux Homa Module](https://github.com/PlatformLab/HomaModule) - Linux kernel module that implements the Homa transport protocol.

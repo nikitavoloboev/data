@@ -10,6 +10,8 @@ title: Kubernetes
 
 [Acorn](https://github.com/acorn-io/acorn) is useful. [Authentik](https://github.com/goauthentik/authentik) seems nice for authenticating the cluster.
 
+I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-computing/serverless-computing/serverless-computing.md) like [Cloudflare Workers](../../../cloud-computing/serverless-computing/cloudflare-workers.md) or running [containers](../containers.md) on [fly-io](../../../cloud-computing/fly-io.md) or [Cloud Run](https://cloud.google.com/run).
+
 ## Notes
 
 - Kubernetes runs pods that contain 1 to n docker containers. So if you have your apps in the form of docker images you are ready to go.
@@ -928,3 +930,4 @@ title: Kubernetes
 - [Moving from Kubernetes to Podman (2023)](https://floofy.dev/blog/k8s-to-podman)
 - [VolSync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes.
 - [kubectl-count](https://github.com/chenjiandongx/kubectl-count) - Count resources by kind.
+- [OWASP Kubernetes Top 10 (2023)](https://sysdig.com/blog/top-owasp-kubernetes/)

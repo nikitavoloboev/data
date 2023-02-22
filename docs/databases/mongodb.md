@@ -58,3 +58,4 @@ title: MongoDB
 - [OxideDB](https://github.com/fcoury/oxide) - Teach your PostgreSQL database how to speak MongoDB Wire Protocol. ([Lobsters](https://lobste.rs/s/kxowpp/oxidedb_teach_postgresql_database_how))
 - [MongoDBVapor](https://github.com/mongodb/mongodb-vapor) - MongoDB + Vapor integration.
 - [Beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB.
+- [Using Tigris as an open source MongoDB Atlas alternative for Go applications (2023)](https://www.tigrisdata.com/blog/tigris-mongodb-atlas-alternative/)

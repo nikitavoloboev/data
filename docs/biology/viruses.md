@@ -109,3 +109,4 @@
 - [Deep learning models for predicting RNA degradation via dual crowdsourcing (2022)](https://github.com/eternagame/KaggleOpenVaccine) ([Tweet](https://twitter.com/tunguz/status/1603389524117278725))
 - [Autopsy-based characterization of myocarditis after anti-SARS-CoV-2-vaccination (2022)](https://link.springer.com/article/10.1007/s00392-022-02129-5) ([HN](https://news.ycombinator.com/item?id=34000131))
 - [Why does the SARS-Cov2 genome end in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa? (2020)](https://bioinformatics.stackexchange.com/questions/11227/why-does-the-sars-cov2-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) ([HN](https://news.ycombinator.com/item?id=34756884))
+- [5th person confirmed to be cured of HIV (2023)](https://news.ycombinator.com/item?id=34872623)

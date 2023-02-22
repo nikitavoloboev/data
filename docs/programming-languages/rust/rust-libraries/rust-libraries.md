@@ -865,6 +865,7 @@
 - [bl602-hal](https://github.com/sipeed/bl602-hal) - Hardware Abstract Layer for BL602 RISC-V WiFi SoC in embedded Rust.
 - [USRs](https://github.com/ktemkin/usrs) - Pure-rust library for working with USB devices.
 - [esp8266-hal](https://github.com/esp-rs/esp8266-hal) - Hardware abstraction layer for the esp8266 written in Rust.
+- [pci_types](https://github.com/rust-osdev/pci_types) - Useful types for dealing with PCI.
 
 ## ML
 
@@ -1045,6 +1046,7 @@
 - [syntactic-for](https://github.com/xlambein/syntactic-for) - Syntactic "for" loop Rust macro.
 - [Nutype](https://github.com/greyblake/nutype) - Newtype macros on steroids.
 - [Subenum](https://github.com/paholg/subenum) - Simple proc-macro to derive subsets of enums.
+- [Deluxe](https://github.com/jf2048/deluxe) - Rust procedural macro attribute parser.
 
 ## Math
 

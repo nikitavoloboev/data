@@ -324,6 +324,7 @@ title: GitHub actions
 - [cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks-action) - GitHub Action for running cargo-semver-checks.
 - [release-meta](https://github.com/cargo-bins/release-meta) - Extract the metadata of a PR created by cargo-bins/release-pr.
 - [Clippy](https://github.com/giraffate/clippy-action) - Runs Clippy with reviewdog on pull requests to improve code review experience.
+- [Verify with Prusti](https://github.com/viperproject/prusti-action) - Verify Rust code using the Prusti verifier.
 
 ## Python
 

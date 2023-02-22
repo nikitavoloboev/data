@@ -45,3 +45,4 @@ title: iOS Shortcuts
 - [Shortcuts in iOS 16: The Potential of App Shortcuts for Everyone (2022)](https://www.macstories.net/stories/shorcuts-in-ios-16-the-potential-of-app-shortcuts-for-everyone/)
 - [50+ apps that work with App Shortcuts in iOS 16 (2022)](https://matthewcassinelli.com/50-apps-app-shortcuts-ios-16/)
 - [What iOS Shortcuts do you use?](https://twitter.com/swyx/status/1579892198916558848)
+- [I created a stack machine in Apple Shortcuts (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/1185cxo/i_created_a_stack_machine_in_apple_shortcuts_d/)

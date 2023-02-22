@@ -158,3 +158,4 @@
 - [SLT](https://github.com/Enerccio/SLT) - Common Lisp Language Plugin for Jetbrains IDE Lineup. ([HN](https://news.ycombinator.com/item?id=34388369))
 - [LMDB bindings for Common Lisp](https://github.com/antimer/lmdb)
 - [Parachute](https://github.com/Shinmera/parachute) - Simple-to-use and extensible testing framework.
+- [iolib](https://github.com/sionescu/iolib) - Common Lisp I/O library.

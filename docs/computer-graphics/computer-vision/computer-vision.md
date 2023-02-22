@@ -1153,3 +1153,6 @@
 - [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation (2023)](https://arxiv.org/abs/2302.08113)
 - [NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild (2021)](https://arxiv.org/abs/2110.07604) ([Code](https://github.com/jasonyzhang/ners))
 - [3D Shape Analysis Paper List](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List)
+- [Generating Holistic 3D Human Motion from Speech (2022)](https://arxiv.org/abs/2212.04420) ([Code](https://github.com/yhw-yhw/SHOW))
+- [SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation (2023)](https://arxiv.org/abs/2301.13156) ([Code](https://github.com/fudan-zvg/SeaFormer))
+- [Audio-Visual Face Reenactment (2022)](https://arxiv.org/abs/2210.02755) ([Code](https://github.com/mdv3101/AVFR-Gan))

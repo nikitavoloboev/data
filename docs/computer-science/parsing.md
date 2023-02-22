@@ -154,3 +154,7 @@
 - [Parsing TFTP in Rust (2022)](https://tuckersiemens.com/posts/parsing-tftp-in-rust/)
 - [PickTok](https://github.com/WiZLite/picktok) - Parser combinator like nom but specialized in parsing &[Token].
 - [Write a JavaScript Parser in Rust](https://boshen.github.io/javascript-parser-in-rust/) ([Code](https://github.com/Boshen/javascript-parser-in-rust))
+- [peberminta](https://github.com/mxxii/peberminta) - Simple, transparent parser combinators toolkit that supports tokens of any type.
+- [tspc](https://github.com/ryohey/tspc) - Strongly-typed parser combinator written in TypeScript.
+- [Parsinator](https://github.com/sufianrhazi/parsinator) - Build small well-defined parsers in TypeScript.
+- [ts-parsec](https://github.com/microsoft/ts-parsec) - Parser combinator for TypeScript.

@@ -351,7 +351,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Stackby](https://stackby.com/) - Spreadsheets Databases and APIs in single workspace. ([HN](https://news.ycombinator.com/item?id=26601502))
 - [Bloom](https://bloom.sh/) - All-in-one workspace. Open Source Inbox, Calendar, Files, Contacts & much more. ([Code](https://github.com/skerkour/bloom))
 - [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk)) ([Go SDK](https://github.com/configcat/go-sdk))
-- [OnlineOrNot](https://onlineornot.com/) - Know your site is down before your customers do. ([How it was built](https://twitter.com/RozenMD/status/1364881512500404224))
+- [OnlineOrNot](https://onlineornot.com/) - Know your site is down before your customers do. ([How it was built](https://twitter.com/RozenMD/status/1364881512500404224)) ([CLI](https://github.com/OnlineOrNot/onlineornot))
 - [Sextant](https://github.com/mattpocock/sextant) - GUI that lets you chart your application flows, then implement them with generated code.
 - [Windsor](https://windsor.io/) - Simplifying User Data.
 - [Kairo](https://getkairo.com/) - Engaging and straightforward yet delightful time, habit and goal tracking dashboard. ([Tracker](https://getkairo.com/tracker))

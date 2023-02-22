@@ -503,3 +503,5 @@ title: PyTorch
 - [PyTorch tutorial for beginners](https://github.com/L1aoXingyu/pytorch-beginner)
 - [Holistic Trace Analysis](https://github.com/facebookresearch/HolisticTraceAnalysis) - Library to analyze PyTorch traces.
 - [Lightning Pod](https://github.com/JustinGoheen/lightning-pod) - Deep Learning Research Template for the Lightning AI Ecosystem.
+- [Rising](https://github.com/PhoenixDL/rising) - High-performance data loading and augmentation library for 2D and 3D data completely written in PyTorch.
+- [minLoRA](https://github.com/cccntu/minLoRA) - Minimal PyTorch library that allows you to apply LoRA to any PyTorch model.

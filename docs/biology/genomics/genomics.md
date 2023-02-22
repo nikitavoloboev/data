@@ -256,3 +256,4 @@ title: Genomics
 - [First UK child to receive gene therapy for fatal genetic disorder is now healthy (2023)](https://news.ycombinator.com/item?id=34839528)
 - [uBin](https://github.com/ProbstLab/uBin) - Software for manual curation of genomes from metagenomes.
 - [GenomeScope: Fast genome analysis from unassembled short reads](https://github.com/schatzlab/genomescope)
+- [pafplot](https://github.com/ekg/pafplot) - Base-level sequence alignment rasterizer / dotplot generator.

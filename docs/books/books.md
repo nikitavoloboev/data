@@ -647,3 +647,4 @@ I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more t
 - [BiblioReads](https://github.com/nesaku/BiblioReads) - Alternative Private Goodreads Front-End.
 - [Viberary](https://github.com/veekaybee/viberary) - Recommend you books based not on genre or title, but vibe.
 - [Make Books](https://github.com/Desbeers/Make-Books) - Scripts to convert Markdown to PDF and ePub books with Pandoc.
+- [Fastbook: Listen to audiobooks faster (2020)](https://davidbieber.com/snippets/2020-03-02-fastbook/) ([HN](https://news.ycombinator.com/item?id=34892855))

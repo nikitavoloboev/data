@@ -35,3 +35,4 @@ title: Grafana
 - [Caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map , right to your Grafana.
 - [Grafana Image Renderer](https://github.com/grafana/grafana-image-renderer) - Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser.
 - [VictoriaMetrics data source for Grafana](https://github.com/VictoriaMetrics/grafana-datasource)
+- [Monitoring an Aquarium with InfluxDB and Grafana (2023)](https://www.bentasker.co.uk/posts/blog/house-stuff/monitoring-a-fishtank-with-influxdb-and-grafana.html)

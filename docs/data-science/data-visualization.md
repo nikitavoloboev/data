@@ -216,3 +216,4 @@
 - [pyCirclize](https://github.com/moshi4/pyCirclize) - Circular visualization in Python. ([HN](https://news.ycombinator.com/item?id=34759665))
 - [Kanaries](https://kanaries.net/) - AI enhanced data exploration.
 - [PyGWalker](https://github.com/Kanaries/pygwalker) - Turn your pandas dataframe into a Tableau-style User Interface for visual analysis. ([HN](https://news.ycombinator.com/item?id=34869244))
+- [Aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy.

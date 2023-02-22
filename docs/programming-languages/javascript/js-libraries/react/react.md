@@ -373,3 +373,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Vite Plugin React](https://github.com/vitejs/vite-plugin-react)
 - [React's Instance Identity Model](https://github.com/gactjs/research/tree/main/react-instance-identity-model)
 - [React GPT](https://react-gpt.fly.dev/) - ChatGPT experience focused on React using LangChain & OpenAI. ([Code](https://github.com/peterpme/react-gpt))
+- [Improving React Interaction Times by 4x (2022)](https://causal.app/blog/react-perf)

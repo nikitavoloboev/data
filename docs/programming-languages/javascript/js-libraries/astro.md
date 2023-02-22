@@ -85,3 +85,4 @@ title: Astro
 - [How to add client-side search with PageFind to your Astro blog static website (2023)](https://lirantal.com/blog/2023-01-01_-how_to_add_client-side_search_to_your_astro_blog_static_website)
 - [Islands Architecture, Astro, and You | Nate Moore (2022)](https://www.youtube.com/watch?v=SICd8tTEqvs)
 - [Astro + Netlify CMS](https://github.com/delucis/astro-netlify-cms)
+- [Prettier Plugin for Astro](https://github.com/withastro/prettier-plugin-astro)

@@ -288,3 +288,4 @@ div.CodeMirror-cursor,
 - [Obsidian Canvas](https://obsidian.md/canvas) - Infinite space for your ideas. ([HN](https://news.ycombinator.com/item?id=34066824))
 - [Obsidian Canvas Spec](https://github.com/obsidianmd/obsidian-api/blob/master/canvas.d.ts)
 - [Digital Gardening in Obsidian (2022)](https://bytes.zone/posts/digital-gardening-in-obsidian/) ([HN](https://news.ycombinator.com/item?id=34137703))
+- [Flowershow](https://flowershow.app/) - Publish your Obsidian notes, beautifully. For free, no coding. ([Code](https://github.com/flowershow/flowershow))
