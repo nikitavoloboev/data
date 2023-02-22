@@ -187,3 +187,4 @@ title: Quantum computing
 - [Automated Quantum Software Engineering: why? what? how? (2022)](https://arxiv.org/abs/2212.00619)
 - [OQuPy](https://github.com/tempoCollaboration/OQuPy) - Python 3 package to efficiently compute non-Markovian open quantum systems.
 - [Circuit Knitting Toolbox](https://github.com/Qiskit-Extensions/circuit-knitting-toolbox)
+- [funQ](https://github.com/NicklasBoto/funQ) - Functional Quantum Programming in Haskell.

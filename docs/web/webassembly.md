@@ -429,3 +429,4 @@ title: WebAssembly
 - [sightglass](https://github.com/bytecodealliance/sightglass) - Benchmarking suite and tooling for Wasmtime and Cranelift.
 - [How to use WebAssembly in various languages](https://github.com/vmware-labs/wasm-languages)
 - [Wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf) - WASM library and toolchain for eBPF.
+- [jco](https://github.com/bytecodealliance/jco) - JavaScript tooling for working with WebAssembly Components.
