@@ -629,6 +629,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Neoq](https://github.com/acaloiaro/neoq) - Background job processing built on Postgres for Go. ([Lobsters](https://lobste.rs/s/kzbekd/show_background_job_processing_without))
 - [otelsql](https://github.com/nhatthm/otelsql) - OpenTelemetry SQL database driver wrapper for Go.
 - [scan](https://github.com/stephenafamo/scan) - Scan provides the ability to to scan SQL rows directly to any defined structure.
+- [go-db](https://github.com/nicolasparada/go-db) - Wrapper over pgx with better transaction API.
 
 ## ML
 

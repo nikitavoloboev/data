@@ -140,3 +140,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [In defense of prompt engineering (2023)](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/)
 - [Reverse Engineered Edge GPT](https://github.com/acheong08/EdgeGPT)
 - [Reverse Engineered ChatGPT](https://github.com/acheong08/ChatGPT)
+- [Should GPT exist? (2023)](https://scottaaronson.blog/?p=7042)

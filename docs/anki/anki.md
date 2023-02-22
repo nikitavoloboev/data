@@ -94,3 +94,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Modern Anki card templates](https://github.com/b3nj5m1n/moderncardthemes)
 - [SmoothBrain](https://github.com/alexbowe/smoothbrain) - Anki plugin that fetches Readwise highlights and makes flashcards using OpenAI GPT.
 - [How to Remember Anything using Anki (2023)](https://rachel.fast.ai/posts/2023-02-21-anki/)
+- [Anki Helper](https://github.com/MarcusXavierr/anki-helper) - Track new words you learn in a foreign language and add them to Anki for further practice and memorization.

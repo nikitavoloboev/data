@@ -140,3 +140,4 @@ title: Lean
 - [Lean course from Brown uni (2023)](https://github.com/brown-cs22/CS22-Lean-2023)
 - [SSA in Lean](https://github.com/bollu/ssa) - Theory of static single assignment development in Lean.
 - [Leonardo de Moura - The Lean proof assistant: introduction and challenges (2023)](https://www.youtube.com/watch?v=BY78oZYMGCk)
+- [ExtParser](https://github.com/lituzou/ExtParser) - Extensible Grammar Parser.

@@ -279,3 +279,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Cinematic Color Grading in Lightroom (2022)](https://www.youtube.com/watch?v=FwlSfetKBwk)
 - [Nobody Needs a Digital Rangefinder | Leica M11 Street Photo Walk (2023)](https://www.youtube.com/watch?v=mKn95qEMVzg)
 - [Where to store extra photos beyond iCloud](https://twitter.com/ibuildthecloud/status/1628127753781522433)
+- [ICM Photography Magazine](https://www.icmphotomag.com/)

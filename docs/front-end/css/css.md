@@ -625,3 +625,4 @@ all: unset
 - [Different Ways to Get CSS Gradient Shadows (2023)](https://css-tricks.com/different-ways-to-get-css-gradient-shadows/)
 - [WebKit Supports Nested CSS (2023)](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/) ([HN](https://news.ycombinator.com/item?id=34814070))
 - [Do we need CSS flex-wrap detection? (2023)](https://ishadeed.com/article/flex-wrap-detect/) ([Tweet](https://twitter.com/shadeed9/status/1627373081986535424))
+- [Container queries land in stable browsers (2023)](https://web.dev/cq-stable/)

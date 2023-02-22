@@ -12,6 +12,8 @@ title: React Native
 
 [NativeScript](https://github.com/NativeScript/NativeScript) is interesting alternative.
 
+[RN Optimization Guide](https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization) is good read.
+
 ## Nice OSS RN apps
 
 - [RNN Starter](https://github.com/kanzitelli/rnn-starter) - Powered by cli-rn, React Native Navigation, Expo Modules, RNN Screens, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
@@ -120,7 +122,7 @@ title: React Native
 - [React Native Performance Monitor](https://github.com/BulletTrainHQ/react-native-performance-monitor) - Realtime graphing of React Native render performance.
 - [Shoutem UI](https://github.com/shoutem/ui) - Customizable set of components for React Native applications.
 - [React Native, v2 course by Kadi Kraman (2020)](https://frontendmasters.com/courses/react-native-v2/)
-- [Ultimate Guide to React Native Optimization book (2020)](https://callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook/)
+- [Ultimate Guide to React Native Optimization Book](https://callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook/)
 - [Scroll Bottom Sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet) - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land.
 - [G2i](https://www.g2i.co/) - Hire pre-vetted React & React Native developers you can trust.
 - [What we have learned from developing a real RN app (2020)](https://www.reddit.com/r/reactnative/comments/gvrmrm/what_we_have_learned_from_developing_a_real_rn_app/)
