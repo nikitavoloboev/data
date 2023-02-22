@@ -208,6 +208,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Kuboble](https://kuboble.com/) - Minimalistic sliding pieces puzzle game. ([HN](https://news.ycombinator.com/item?id=34706098))
 - [2048](https://play2048.co/) ([Code](https://github.com/gabrielecirulli/2048))
 - [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) - Fully working re-implementation of Fallout.
+- [Xash3D](https://github.com/sultim-t/xash-rt) - Half-Life 1 with real-time path tracing.
 
 ## Awesome games (other)
 

@@ -538,3 +538,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Cotton](https://github.com/nanikamado/cotton) - Simple functional programming language built with Rust.
 - [Lobsters: Killer libraries (2023)](https://lobste.rs/s/h4j3lg/killer_libraries) ([HN](https://news.ycombinator.com/item?id=34895517))
 - [The Usability of Advanced Type Systems: Rust as a Case Study (2023)](https://arxiv.org/abs/2301.02308) ([HN](https://news.ycombinator.com/item?id=34890787))
+- [Writing high-performance clients for TigerBeetle (2023)](https://tigerbeetle.com/blog/2023-02-21-writing-high-performance-clients-for-tigerbeetle/)

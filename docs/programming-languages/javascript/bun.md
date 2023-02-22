@@ -51,3 +51,4 @@ I never use [Node](../../web/nodejs/nodejs.md) now as Bun is simply faster and h
 - [Vercel Bun](https://github.com/peterbartha/vercel-bun) - Bun runtime for Vercel Serverless Functions.
 - [Grapie](https://github.com/gaurishhs/grapie) - SSR framework for Bun.
 - [Eden](https://github.com/elysiajs/eden) - Fully type-safe Elysia client.
+- [Using LiteFS with Bun on Fly.io (2023)](https://webreflection.medium.com/using-litefs-with-bun-on-fly-io-55529096fff4)

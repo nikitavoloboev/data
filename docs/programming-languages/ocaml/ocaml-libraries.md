@@ -91,6 +91,7 @@ title: OCaml libraries
 ## Crypto
 
 - [Cryptokit](https://github.com/xavierleroy/cryptokit) - Library of cryptographic primitives (ciphers, hashes, etc) for OCaml.
+- [JOSE](https://github.com/ulrikstrid/ocaml-jose) - JavaScript Object Signing and Encryption.
 
 ## Other
 
@@ -251,6 +252,7 @@ title: OCaml libraries
 - [kcas](https://github.com/ocaml-multicore/kcas) - Multi-word compare-and-swap library.
 - [ctypes](https://github.com/yallop/ocaml-ctypes) - Library for binding to C libraries using pure OCaml.
 - [refl](https://github.com/thierry-martinez/refl) - Efficient and type-safe type reflection for OCaml.
+- [radixmap](https://github.com/paurkedal/ocaml-radixmap) - Map a la Binary Radix Tree.
 
 ## Links
 

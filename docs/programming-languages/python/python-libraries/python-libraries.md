@@ -89,6 +89,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [rush](https://github.com/sigmavirus24/rush) - Library for throttles.
 - [Esmerald](https://github.com/dymmond/esmerald) - Highly scalable, performant, easy to learn, easy to code and for every application python web framework.
 - [yhttp](https://github.com/yhttp/yhttp) - Lightweight flask-like HTTP framework.
+- [Jar](https://github.com/healeycodes/jar) - Server-side web framework that deploys to Vercel. ([My Own Python Web Framework](https://healeycodes.com/my-own-python-web-framework)) ([HN](https://news.ycombinator.com/item?id=34895768))
 
 ## ML
 

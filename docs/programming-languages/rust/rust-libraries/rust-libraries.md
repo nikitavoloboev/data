@@ -434,6 +434,7 @@
 - [Nut](https://github.com/Reeywhaar/nut) - Port of Bolt DB in Rust.
 - [Remi](https://github.com/Noelware/remi-rs) - Robust, and simple asynchronous Rust crate to handle storage-related communications with different storage providers.
 - [SQLx Conditional Queries](https://github.com/kyrias/sqlx-conditional-queries) - Conditional compile-time verified queries with SQLx.
+- [indxdb](https://github.com/surrealdb/indxdb) - Key-value database engine abstraction layer for IndexedDB running in the browser with WASM.
 
 ## Video
 
@@ -2702,6 +2703,7 @@
 - [sev](https://github.com/virtee/sev) - Rust library exposing APIs for the AMD SEV platform.
 - [RcLite](https://github.com/fereidani/rclite) - Small, fast, and memory-friendly reference counting for Rust. ([Reddit](https://www.reddit.com/r/rust/comments/117b8ke/rclite_arct_and_rct_with_up_to_100_memory/))
 - [crop](https://github.com/noib3/crop) - UTF-8 text rope.
+- [vid2img](https://github.com/rafaelcaricio/vid2img) - Allows the use of a video file as a collection of frame images.
 
 ## Cargo Plugins
 

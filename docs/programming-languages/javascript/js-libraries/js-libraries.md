@@ -1128,6 +1128,7 @@
 - [JSum](https://github.com/fraunhoferfokus/JSum) - Consistent checksum calculation of JSON objects.
 - [slugify](https://github.com/sindresorhus/slugify) - Useful for URLs, filenames, and IDs.
 - [ExifReader](https://github.com/mattiasw/ExifReader) - JavaScript Exif info parser.
+- [custom-function](https://github.com/WebReflection/custom-function) - Literally the only sane way, if not the fastest one, to extend the Function class without evaluation.
 
 ## Links
 

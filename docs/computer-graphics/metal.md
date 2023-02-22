@@ -69,3 +69,5 @@ title: Metal
 - [Thirty Days of Metal](https://medium.com/@warrenm/thirty-days-of-metal-day-1-devices-e371729d05ca) ([Code](https://github.com/metal-by-example/thirty-days-of-metal))
 - [Running Metal Shaders in SceneKit's environment](https://github.com/markpmlim/SceneKit_MSL)
 - [Numerical Computing on Apple M1 : Study and Implementations](https://github.com/ShoYamanishi/AppleNumericalComputing)
+- [MetallicImage](https://github.com/iXerol/MetallicImage) - Image Processing Framework on Apple Platforms using Metal.
+- [Optimizing Parallel Reduction in Metal for Apple M1 (2021)](https://kieber-emmons.medium.com/optimizing-parallel-reduction-in-metal-for-apple-m1-8e8677b49b01)

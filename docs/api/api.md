@@ -81,6 +81,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [GIPHY SDKs](https://github.com/Giphy/giphy-js)
 - [OpenAI JS](https://github.com/Njerschow/openai-api) - Tiny client module for the openAI API.
 - [Twilio Rust Async](https://github.com/leshow/twilio-async)
+- [Twilio Node](https://github.com/twilio/twilio-node)
 - [Notion JS](https://github.com/dragonman225/notionapi-agent) - Unofficial Node.js API client for Notion.
 - [Notion TS](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
 - [Notion Go](https://github.com/kjk/notionapi)

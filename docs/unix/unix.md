@@ -99,3 +99,4 @@ title: Unix
 - [Ask HN: Anyone using proprietary Unix at work? (2022)](https://news.ycombinator.com/item?id=34017934)
 - [How fast are Unix domain sockets? (2017)](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)
 - [Transcending POSIX: The End of an Era? (2022)](https://www.usenix.org/publications/loginonline/transcending-posix-end-era)
+- [Chmod Tutorial](https://skorotkiewicz.github.io/techlog/learning-chmod-permissions-in-30-seconds/)

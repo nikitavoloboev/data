@@ -932,3 +932,5 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [kubectl-count](https://github.com/chenjiandongx/kubectl-count) - Count resources by kind.
 - [OWASP Kubernetes Top 10 (2023)](https://sysdig.com/blog/top-owasp-kubernetes/)
 - [Kubewatch](https://github.com/robusta-dev/kubewatch) - Watch k8s events and trigger Handlers.
+- [Pluto](https://github.com/FairwindsOps/pluto) - CLI tool to help discover deprecated apiVersions in Kubernetes.
+- [Elastic Cloud on Kubernetes (ECK)](https://github.com/elastic/cloud-on-k8s)

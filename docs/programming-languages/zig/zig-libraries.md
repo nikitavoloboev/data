@@ -25,6 +25,7 @@
 - [Zelda](https://github.com/haze/zelda) - Simple HTTP client library for Zig.
 - [ziget](https://github.com/marler8997/ziget) - Zig library/tool to request network assets.
 - [Zap](https://github.com/renerocksai/zap) - Blazingly fast backends in zig.
+- [Kobold](https://github.com/maciejhirsz/kobold) - Easy declarative web interfaces.
 
 ## DB
 

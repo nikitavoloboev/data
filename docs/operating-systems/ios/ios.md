@@ -573,3 +573,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Apple doesn’t want you developing hobby apps (2023)](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/) ([HN](https://news.ycombinator.com/item?id=34802730))
 - [palera1n written in C](https://github.com/palera1n/palera1n-c)
 - [How to open your app’s System Settings screen (2023)](https://getkeyboardkit.com/blog/2023/02/20/how-to-open-your-apps-system-settings-screen)
+- [iOS Tooling and Workflows](https://github.com/phynet/iOS-Tooling) - Share knowledge about the tooling that you use while developing iOS applications.

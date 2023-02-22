@@ -65,3 +65,4 @@ title: Satisfiability modulo theories
 - [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing (2022)](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html) ([HN](https://news.ycombinator.com/item?id=34005791))
 - [NeuroSAT](https://github.com/dmeoli/NeuroSAT) - Neuro-symbolic approaches to the SAT problem.
 - [Kissat SAT Solver](https://github.com/arminbiere/kissat) - Keep it simple and clean bare metal SAT solver in C.
+- [Why SAT Is Hard (2023)](https://matklad.github.io/2023/02/21/why-SAT-is-hard.html)

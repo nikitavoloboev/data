@@ -4,7 +4,7 @@ title: Observability
 
 # [Observability](https://en.wikipedia.org/wiki/Observability)
 
-[Axiom](https://www.axiom.co/), [ArcticDB](https://github.com/polarsignals/arcticdb) & [New Relic](https://newrelic.com) seem useful.
+[Highlight](https://github.com/highlight/highlight), [Axiom](https://www.axiom.co/), [ArcticDB](https://github.com/polarsignals/arcticdb) & [New Relic](https://newrelic.com) seem useful.
 
 ## Notes
 

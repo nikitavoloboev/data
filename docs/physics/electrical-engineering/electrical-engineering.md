@@ -4,7 +4,7 @@ title: Electrical engineering
 
 # [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
 
-[Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/) is great.
+[Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/) is great. [Flux](https://www.flux.ai/p) is nice tool to build Better way to build PCBs.
 
 ## Links
 

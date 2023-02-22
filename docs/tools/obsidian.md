@@ -221,6 +221,7 @@ div.CodeMirror-cursor,
 - [Obsidian Transcription](https://github.com/djmango/obsidian-transcription) - Create high-quality transcriptions from markdown linked audio files.
 - [Clipper](https://github.com/jgchristopher/obsidian-clipper) - Capture highlights from the web as Markdown entries in Obsidian.
 - [ActivityWatch Obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) - Obsidian plugin to track user activity with ActivityWatch.
+- [Obsidian GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) - Obsidian plugin to generate notes based on GP3 output.
 
 ## Themes
 

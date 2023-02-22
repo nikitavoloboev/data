@@ -414,6 +414,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-connections](https://github.com/docker/go-connections) - Utility package to work with network connections.
 - [assetserver](https://github.com/cespare/assetserver) - Go file server for web assets.
 - [gurl](https://github.com/fogfish/gurl) - Combinator library for network I/O.
+- [WebGo](https://github.com/bnkamalesh/webgo) - Minimalistic router for Go to build web applications (server side) with no 3rd party dependencies.
 
 ## GraphQL
 

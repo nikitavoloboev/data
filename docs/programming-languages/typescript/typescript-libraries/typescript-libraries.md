@@ -811,6 +811,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Memoization Registry](https://github.com/fabiospampinato/memoization-registry) - Generalized multi-key memoization solution that does not leak memory.
 - [Thyseus](https://github.com/JaimeGensler/thyseus) - Archetypal Entity Component System, built entirely in Typescript.
 - [Unplugin Pomsky](https://github.com/Kyza/unplugin-pomsky) - Use Pomsky along with your JavaScript.
+- [Sub37](https://github.com/alexandercerutti/sub37) - Utility to parse, serve and show subtitles in video medias.
+- [Autoconsent](https://github.com/duckduckgo/autoconsent) - Library of rules for navigating through common consent popups on the web.
 
 ## Links
 

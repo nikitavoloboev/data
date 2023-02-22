@@ -220,3 +220,4 @@ title: RISC-V
 - [RISC-V Matrix Extension Specification](https://github.com/T-head-Semi/riscv-matrix-extension-spec)
 - [Building Simple RISC-V emulator](https://github.com/Amanieu/a-tale-of-binary-translation)
 - [Asterisc](https://github.com/protolambda/asterisc) - RISC-V interactive fraud-proof tech.
+- [Writing a bare-metal RISC-V application in D (2023)](https://zyedidia.github.io/blog/posts/1-d-baremetal/)
