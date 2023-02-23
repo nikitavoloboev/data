@@ -630,3 +630,4 @@ all: unset
 - [My CSS wish list - Manuel Matuzović (2023)](https://www.matuzo.at/blog/2023/css-wish-list/)
 - [CSS Wish List 2023 – Eric](https://meyerweb.com/eric/thoughts/2023/02/08/css-wish-list-2023/)
 - [CSS Wishlist 2023](https://daverupert.com/2023/01/css-wishlist-2023/)
+- [The Stack: Every Layout](https://every-layout.dev/layouts/stack/)

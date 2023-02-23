@@ -1159,3 +1159,4 @@
 - [Awesome Distribution Shift](https://github.com/weitianxin/awesome-distribution-shift)
 - [Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval (2022)](https://arxiv.org/abs/2112.04446) ([Code](https://github.com/ninatu/everything_at_once))
 - [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/) ([Code](https://github.com/TEXTurePaper/TEXTurePaper))
+- [SIMPLI - Self-improving Multiplane-to-layer Images for Novel View Synthesis (2023)](https://github.com/SamsungLabs/MLI)

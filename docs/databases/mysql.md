@@ -17,3 +17,4 @@
 - [MySQL for Developers, presented by PlanetScale](https://planetscale.com/mysql-for-developers)
 - [FlexiRaft: Flexible Quorums with Raft (2023)](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)
 - [Visual Query Designer for MySQL](https://swapnilmj.github.io/web-vqd/) ([Code](https://codeberg.org/swapnilmj/web-vqd))
+- [Scaling Etsy Payments with Vitess (2023)](https://www.etsy.com/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
