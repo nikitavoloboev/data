@@ -80,3 +80,4 @@ Liked this video on [why cosmic inflation doesn't make much sense](https://www.y
 - [The James Webb Space Telescope is finding too many early galaxies (2023)](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-is-finding-too-many-early-galaxies/) ([HN](https://news.ycombinator.com/item?id=34360010))
 - [What Is Our Universe Expanding Into? (2023)](https://nautil.us/what-is-our-universe-expanding-into-258168/) ([HN](https://news.ycombinator.com/item?id=34417936))
 - [What Lights the Universe’s Standard Candles? (2023)](https://www.quantamagazine.org/what-lights-the-universes-standard-candles-20230208/) ([HN](https://news.ycombinator.com/item?id=34817881))
+- [How Will the Universe End? (2023)](https://www.quantamagazine.org/how-will-the-universe-end-20230222/) ([HN](https://news.ycombinator.com/item?id=34903131))

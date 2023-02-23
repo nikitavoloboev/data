@@ -18,6 +18,8 @@ Try to be mindful of [tools I use](../../sharing/my-workflow.md) for my startups
 
 Liked [this episode](https://www.thetwentyminutevc.com/kevin-systrom/) as it goes over many elements on what makes startups succeed.
 
+One of the things I've learned no company should ever do is not pay on time. Salary should hit employees accounts at same day every month.
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.

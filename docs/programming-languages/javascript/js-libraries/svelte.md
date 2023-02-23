@@ -40,6 +40,7 @@ title: Svelte
 - [Svelte Starter](https://github.com/the-pudding/svelte-starter) - Starter template aims to quickly scaffold a SvelteKit project, designed around data-driven, visual stories at The Pudding.
 - [Tablog](https://github.com/lemmon/tablog-svelte) - Minimalistic blog theme built with SvelteKit.
 - [Quiz app](https://github.com/acmcsufoss/qg) - Using Svelte/Go.
+- [SvelteKit View Transitions](https://github.com/geoffrich/sveltekit-view-transitions)
 
 ## Notes
 

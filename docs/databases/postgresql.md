@@ -640,7 +640,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [The 10 deadly PostgreSQL sins that ruin database performance and scalability (2022)](https://www.youtube.com/watch?v=B7Yn_-Af6pM)
 - [Tree Sitter PL/pgSQL](https://github.com/chrde/tree-sitter-plpgsql)
 - [Don't do this: creating useless indexes (2023)](https://mydbanotebook.org/post/too-many-indexes/)
-- [psql Tips](https://psql-tips.org/) ([Code](https://gitlab.com/l_avrot/psql-tips))
+- [Psql Tips](https://psql-tips.org/) ([Code](https://gitlab.com/l_avrot/psql-tips)) ([HN](https://news.ycombinator.com/item?id=34909670))
 - [Renovate](https://github.com/tyrchen/renovate) - CLI tool to help you to work on Postgres SQL migration easily.
 - [Faster PostgresSQL to BigQuery Transfers (2023)](https://tech.marksblogg.com/postgresql-to-bigquery.html) ([HN](https://news.ycombinator.com/item?id=34323258))
 - [Neon: Serverless PostgreSQL Overview (Heikki Linnakangas) (2022)](https://www.youtube.com/watch?v=rES0yzeERns) ([Tweet](https://twitter.com/Sirupsen/status/1612494427322474498))
@@ -669,3 +669,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Waiting for Postgres 16: Cumulative I/O statistics with pg_stat_io (2023)](https://pganalyze.com/blog/pg-stat-io) ([HN](https://news.ycombinator.com/item?id=34836683))
 - [Postgres Unlogged Tables (2023)](https://www.crunchydata.com/blog/postgresl-unlogged-tables) ([HN](https://news.ycombinator.com/item?id=34846366))
 - [What's Postgres Got To Do With AI? (2023)](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai)
+- [CoreDB](https://github.com/CoreDB-io/coredb) - Postgres for Everything.

@@ -869,6 +869,7 @@
 - [USRs](https://github.com/ktemkin/usrs) - Pure-rust library for working with USB devices.
 - [esp8266-hal](https://github.com/esp-rs/esp8266-hal) - Hardware abstraction layer for the esp8266 written in Rust.
 - [pci_types](https://github.com/rust-osdev/pci_types) - Useful types for dealing with PCI.
+- [esp-println](https://github.com/esp-rs/esp-println) - Provides print! and println! implementations various Espressif devices.
 
 ## ML
 

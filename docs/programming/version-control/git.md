@@ -644,3 +644,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [gitly](https://github.com/iwatakeshi/gitly) - API to download and/or extract git repositories.
 - [zero-g](https://github.com/kim/it) - Augment git with primitives to build integrated, cryptographically verifiable collaboration workflows around source code.
 - [committed](https://github.com/crate-ci/committed) - Enforce commit standards.
+- [git multisect](https://github.com/nomeata/git-multisect) - Find commits that matter.

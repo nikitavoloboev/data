@@ -46,3 +46,4 @@
 - [Quine](https://github.com/thatdot/quine) - Streaming graph interpreter; a server-side program that consumes data, builds it into a stateful graph structure, and runs live computation on that graph to answer questions or compute results.
 - [rspl](https://github.com/aronpaulson/rspl) - Stream processor language.
 - [Readings in Stream Processing](https://github.com/xerial/streamdb-readings)
+- [Serverless Makes Streaming Accessible (2023)](https://buz.dev/blog/serverless-makes-streaming-accessible)

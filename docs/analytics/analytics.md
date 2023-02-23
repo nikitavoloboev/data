@@ -117,3 +117,4 @@ I try to setup proper [observability](../devops/observability.md) together with 
 - [Tinybird Web Analytics Starter Kit](https://github.com/tinybirdco/web-analytics-starter-kit)
 - [The design of transparent telemetry (2023)](https://research.swtch.com/telemetry-design) ([HN](https://news.ycombinator.com/item?id=34750782))
 - [Analytics: Hacker News v.s. a tweet from Elon Musk (2023)](https://simonwillison.net/2023/Feb/17/analytics/) ([HN](https://news.ycombinator.com/item?id=34841382))
+- [Brief Comparison of 10+ Best Google Analytics Alternatives (2023)](https://algustionesa.com/google-analytics-alternatives/)
