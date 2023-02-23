@@ -137,3 +137,4 @@ It's hard to care about politics when [so much of it is empty words and empty di
 - [Verifiably Secure Elections](https://github.com/cjdelisle/VerifiablySecureElections)
 - [Liquid democracy: two experiments on delegation in voting](https://www.nber.org/papers/w30794) ([HN](https://news.ycombinator.com/item?id=34358510))
 - [Notes on a Podcast about Georgism](https://pont.is/p/georgism-podcast)
+- [The Absurdity of Income Tax (2023)](https://treeofwoe.substack.com/p/the-absurdity-of-income-tax) ([HN](https://news.ycombinator.com/item?id=34908511))

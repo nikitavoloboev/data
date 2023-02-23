@@ -13,6 +13,8 @@ Top things that I think are [must have for productive working environment](https
 
 I dislike daily standups and think they are a waste of time. It's better to setup environment where it's clear what is done, who works on what and unblocking happens in real time by simply writing how you're blocked and what you tried.
 
+Although I did hear some companies do optional daily standups at some [reasonable times](https://twitter.com/MelkeyDev/status/1628460199521689600) with success.
+
 It's great to do team overviews either weekly or monthly to make sure the focus of the team is right given team's long term goals.
 
 If all above is done well and the tasks are organized by priority. With tasks being well defined for why they were added and how to approach solving them. Specifically as it can be used later in case some decisions/features need to be reversed, there would be a clear log for why something was added. Having squashed PRs be associated to issues makes this process clear and nice for current and new developers.

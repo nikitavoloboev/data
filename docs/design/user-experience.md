@@ -30,6 +30,7 @@ Great onboarding is essential. Loved [Arc Browser](https://arc.net/) onboarding.
 - [Successful product starts with a great onboarding.](https://twitter.com/KilianPoulinTW/status/1497573920181927943)
 - [If you have a real, engaged customer base, you'll never go wrong by focusing on things that smooth out their workflows. Speed and stability are usually high on that list. Make it easier to centralize on the tool as well.](https://twitter.com/bkono101010/status/1594593294147014656)
 - [Listen to users when you’re identifying problems. Do not listen to them when identifying solutions.](https://lobste.rs/s/lkvnx6/i_repeat_do_not_listen_your_users_2008)
+- ["Back" button should show you where you go after pressing it. Good practice to put the name of a previous screen on it.](https://twitter.com/novikoff/status/1628676616489512960)
 
 ## Links
 

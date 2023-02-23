@@ -168,3 +168,4 @@ title: Racket
 - [Racket fixw](https://github.com/6cdh/racket-fixw) - Racket formatter that only fixes whitespaces.
 - [Regraph](https://github.com/herbie-fp/regraph) - Racket E-graph Library.
 - [Creating minimal language in Racket](https://github.com/Luv2C0d3/funascii)
+- [Racket grammar for tree-sitter](https://github.com/6cdh/tree-sitter-racket)
