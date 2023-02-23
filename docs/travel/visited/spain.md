@@ -14,3 +14,4 @@
 - [Can Duolingo actually teach you Spanish?](https://www.bloomberg.com/news/features/2022-12-02/duolingo-plus-gave-fans-of-free-app-a-cost-worth-paying) ([HN](https://news.ycombinator.com/item?id=33910439))
 - [Investing from Spain - Bogleheads](https://www.bogleheads.org/wiki/Investing_from_Spain)
 - [How to find cheaper places to stay in Spain (2023)](https://www.reddit.com/r/digitalnomad/comments/114y3ux/anywhere_in_spain_affordable_for_a_month_stay/)
+- [Resources to learn Spanish](https://twitter.com/buildsghost/status/1628513830019170306)

@@ -5,7 +5,7 @@
 ## Interesting Engines
 
 - [Godot](https://github.com/godotengine/godot) - Free and open source 2D and 3D game engine. ([Web](https://godotengine.org/))
-- [Ambient](https://github.com/AmbientRun/Ambient) - Runtime for building high-performance multiplayer games and 3D applications, powered by WebAssembly, Rust and WebGPU. ([Web](https://www.ambient.run/))
+- [Ambient](https://github.com/AmbientRun/Ambient) - Runtime for building high-performance multiplayer games and 3D applications, powered by WebAssembly, Rust and WebGPU. ([Web](https://www.ambient.run/)) ([0.1](https://www.ambient.run/post/introducing-ambient))
 - [microStudio](https://microstudio.dev/) - Learn programming, create games.
 - [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust.
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/)) ([Ebiten in 2020](https://ebiten.org/blog/2020.html)) ([HN](https://news.ycombinator.com/item?id=25429375)) ([WORDLE clone using Go/Ebiten](https://www.youtube.com/watch?v=lZAB5ZEfc1Q)) ([furex - Flexbox layout for Ebiten](https://github.com/yohamta/furex))

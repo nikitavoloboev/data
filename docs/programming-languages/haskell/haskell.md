@@ -526,3 +526,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Hurry](https://github.com/elldritch/hurry) - Build tool for Haskell applications that's fast and easy to use.
 - [Optimizing Haskell Code for Runtime Verification (2023)](https://serokell.io/blog/optimizing-k-framework)
 - [Haskell memes (2023)](https://twitter.com/ChShersh/status/1575460560161980418)
+- [Squeezing a sokoban game into 10 lines of code (2023)](https://www.cole-k.com/2023/02/21/tiny-games-hs/) ([Lobsters](https://lobste.rs/s/griauf/squeezing_sokoban_game_into_10_lines_code))

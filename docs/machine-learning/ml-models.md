@@ -2,7 +2,7 @@
 
 [Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml), [ZenML](https://zenml.io/home) & [Merlin](https://github.com/gojek/merlin) seem neat. Looking into using [Cog](https://github.com/replicate/cog) to package ML models.
 
-Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [generative](generative-machine-learning.md)) with their [HTTP template](https://github.com/bananaml/serverless-template). [Replicate](https://replicate.com/) is great too.
+Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [generative](generative-machine-learning.md)) with their [HTTP template](https://github.com/bananaml/serverless-template). [Replicate](https://replicate.com/) is great too. [Mosec](https://github.com/mosecorg/mosec) is great tool.
 
 [XManager](https://github.com/deepmind/xmanager) is nice for managing ML model experiments.
 
