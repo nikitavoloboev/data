@@ -1,5 +1,9 @@
 # Piano
 
+[Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) playing together is inspirational.
+
+Once I get enough money for piano, I want to learn to play like them.
+
 ## Songs
 
 - [My Friend the Forest, Nils Frahm](https://www.youtube.com/watch?v=jZBSebzfgVI)

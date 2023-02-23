@@ -696,3 +696,4 @@ title: Linux
 - [A complete guide to Linux process scheduling (2015)](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf) ([HN](https://news.ycombinator.com/item?id=34870476))
 - [Linux Homa Module](https://github.com/PlatformLab/HomaModule) - Linux kernel module that implements the Homa transport protocol.
 - [Time to get the Posix elephant off our necks? (2022)](https://queue.acm.org/detail.cfm?id=3570921) ([HN](https://news.ycombinator.com/item?id=34904337))
+- [Alpine Suck](https://as.bt.ht/) - Lightweight Desktop installer for Alpine Linux based on the suckless philosophy.

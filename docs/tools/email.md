@@ -10,7 +10,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/status/1528861135717683201) is an example of a good one.
 
-[Listmonk](https://listmonk.app/) is great self-hosted newsletter and mailing list manager.
+[Listmonk](https://listmonk.app/) is great self-hosted newsletter and mailing list manager. If I ever have a need to self host email server itself, I'd use [Mox](https://github.com/mjl-/mox).
 
 [React Email](https://github.com/zenorocha/react-email) seems nice for sending emails.
 

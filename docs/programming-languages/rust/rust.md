@@ -1056,3 +1056,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Learn Rust with Rustlings 5.2.1 (No C required) (2022)](https://www.youtube.com/watch?v=G3Vr-yswlaU)
 - [Rust – What made it “click” for me (Ownership and memory internals) (2021)](https://deavid.wordpress.com/2021/06/06/rust-what-made-it-click-for-me-ownership-memory-internals/) ([HN](https://news.ycombinator.com/item?id=34861465))
 - [The Bull Case for Rust on the Web (2023)](https://driftingin.space/posts/bull-case-for-rust-on-web)
+- [Writing Rust Best Practices (2023)](https://www.reddit.com/r/rust/comments/119m6jk/is_there_a_coding_style_and_set_of_bestpractices/)

@@ -12,6 +12,8 @@ There's a difference between criticism and personal attacks. The latter is best 
 
 It's hard to really know someone's life story based on what others said or wrote about. Everyone has incentives for saying some things and it's easy to hate on things/people rather than bring people up and learn together. I try to always do the latter.
 
+I try to go out my way to meet more people and reach out either physically or online. Doing it when I have something to say and real interest in the person.
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)

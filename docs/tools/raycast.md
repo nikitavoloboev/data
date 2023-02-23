@@ -4,7 +4,7 @@ title: Raycast
 
 # [Raycast](https://www.raycast.com/)
 
-Evaluating using Raycast as my main plugin interface. Currently use [Alfred](../macOS/apps/alfred/alfred.md) &  [Script Kit](../macOS/apps/scriptkit.md) more. 
+Evaluating using Raycast as my main plugin interface. Currently use [Alfred](../macOS/apps/alfred/alfred.md) & [Script Kit](../macOS/apps/scriptkit.md) more.
 
 [SOL](https://github.com/ospfranco/sol) & [Verve](https://github.com/ParthJadhav/verve) seem neat too.
 
@@ -40,3 +40,4 @@ Evaluating using Raycast as my main plugin interface. Currently use [Alfred](../
 - [Sunbeam](https://github.com/pomdtr/sunbeam) - Raycast inspired launcher for the command line.
 - [VSCode Raycast extension](https://marketplace.visualstudio.com/items?itemName=tonka3000.raycast) ([Code](https://github.com/tonka3000/vscode-raycast))
 - [Raycast's evolution in 2022](https://twitter.com/raycastapp/status/1605981287868534784)
+- [Raycast AI: The magic of AI, right on your Mac (2023)](https://www.youtube.com/watch?v=nKYeAhsWF70)

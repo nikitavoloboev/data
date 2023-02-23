@@ -6,7 +6,7 @@
 
 [Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) & [SSA-based Compiler Design](https://link.springer.com/book/10.1007/978-3-030-80515-9) seem nice for more in depth study.
 
-[Austral](https://github.com/austral/austral) has interesting compiler I want to study.
+[Austral](https://github.com/austral/austral) has interesting compiler I want to study. Also [syn](https://github.com/dtolnay/syn) whilst not being a compiler is great study on how to parse a language in Rust.
 
 [sccache](https://github.com/mozilla/sccache) is interesting compiler cache.
 

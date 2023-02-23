@@ -369,3 +369,4 @@ It's wild [how far humans got](https://www.youtube.com/watch?v=PHiyQID7SBs) to u
 - [What's Going Wrong in Particle Physics? (2023)](https://www.youtube.com/watch?v=lu4mH3Hmw2o) ([HN](https://news.ycombinator.com/item?id=34772049))
 - [How Does The Nucleus Hold Together? (2023)](https://www.youtube.com/watch?v=E8hyodMhbRw)
 - [Modern view on constants in fundamental physics (2023)](https://twitter.com/martinmbauer/status/1627221248160792578)
+- [What the Higgs boson tells us about the universe (2023)](https://www.symmetrymagazine.org/article/what-the-higgs-boson-tells-us-about-the-universe)

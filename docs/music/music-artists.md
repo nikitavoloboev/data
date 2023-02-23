@@ -305,6 +305,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Мальчик ты снег (cover by Лера Яскевич)](https://www.youtube.com/watch?v=zBnmFG-oEZA)
 - [NAT feat. Samplekilla — Улыбнись (Live 2020)](https://www.youtube.com/watch?v=facIFU1rPyg)
 - [Татьяна Куртукова, Елена Щербакова (фолк-группа Пламень) - Голымба](https://www.youtube.com/watch?v=oa56y79rJf0)
+- [Trance Frendz — An evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po)
 
 ## Links
 
