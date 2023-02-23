@@ -480,3 +480,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [Substra](https://github.com/Substra/substra) - Federated learning (FL) software. Enables the training and validation of machine learning models on distributed datasets.
 - [Rust Circuit](https://github.com/redwoodresearch/rust_circuit_public) - Library for expressing and manipulating tensor computations for neural network interpretability, written in Rust and used in Python notebooks.
 - [SparseConvNet](https://github.com/facebookresearch/SparseConvNet) - PyTorch library for training Submanifold Sparse Convolutional Networks.
+- [PyLops](https://github.com/PyLops/pylops) - Linear-Operator Library for Python.
