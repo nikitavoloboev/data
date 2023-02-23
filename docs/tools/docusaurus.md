@@ -20,3 +20,4 @@ I want to try build a [SolidJS](../programming-languages/javascript/js-libraries
 - [Awesome Docusaurus](https://github.com/webbertakken/awesome-docusaurus)
 - [Docusaurus Site Showcase](https://docusaurus.io/showcase)
 - [Docusaurus Lyra Search Plugin](https://github.com/LyraSearch/plugin-docusaurus)
+- [Docusaurus Search Local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus.

@@ -2704,6 +2704,9 @@
 - [RcLite](https://github.com/fereidani/rclite) - Small, fast, and memory-friendly reference counting for Rust. ([Reddit](https://www.reddit.com/r/rust/comments/117b8ke/rclite_arct_and_rct_with_up_to_100_memory/))
 - [crop](https://github.com/noib3/crop) - UTF-8 text rope.
 - [vid2img](https://github.com/rafaelcaricio/vid2img) - Allows the use of a video file as a collection of frame images.
+- [openssh-mux-client](https://github.com/openssh-rust/openssh-mux-client) - Rust library to communicate with openssh-mux-server.
+- [Faiss-rs](https://github.com/Enet4/faiss-rs) - Rust bindings to Faiss, the state-of-the-art vector search and clustering library.
+- [yatp](https://github.com/tikv/yatp) - Thread pool in Rust that is adaptive, responsive and generic.
 
 ## Cargo Plugins
 

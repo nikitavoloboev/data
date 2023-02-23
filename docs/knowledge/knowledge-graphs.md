@@ -143,3 +143,5 @@
 - [Knowledge Graph Generation From Text (2022)](https://arxiv.org/abs/2211.10511) ([Code](https://github.com/IBM/Grapher))
 - [GraphGPT](https://graphgpt.vercel.app/) - Build complex, directed graphs to add structure to your ideas using natural language. ([Code](https://github.com/varunshenoy/GraphGPT))
 - [Wiki Graph](https://blinpete.github.io/wiki-graph/?lang=en&query=) - Graph client for Wikipedia. ([Code](https://github.com/blinpete/wiki-graph))
+- [DeepKE](https://github.com/zjunlp/DeepKE) - Open Toolkit for Knowledge Graph Extraction and Construction.
+- [CSKG](https://github.com/usc-isi-i2/cskg) - CommonSense Knowledge Graph.

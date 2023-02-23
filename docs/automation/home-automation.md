@@ -91,3 +91,4 @@
 - [Automating Heating with Home Assistant (2022)](https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant)
 - [Home-Heat - YouTube](https://www.youtube.com/@home_heat/videos)
 - [TinyTuya](https://github.com/jasonacox/tinytuya) - Python module to interface with Tuya WiFi smart devices.
+- [Monitoring my weather at home (2023)](https://tylercipriani.com/blog/2023/02/19/weather-station/) ([HN](https://news.ycombinator.com/item?id=34903912))

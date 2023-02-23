@@ -853,3 +853,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Fine-tune FLAN-T5 for chat & dialogue summarization (2022)](https://www.philschmid.de/fine-tune-flan-t5)
 - [Cohere Playground](https://dashboard.cohere.ai/playground/summarize) - Summarize texts up to 50K characters.
 - [SGPT: GPT Sentence Embeddings for Semantic Search (2022)](https://arxiv.org/abs/2202.08904) ([Code](https://github.com/Muennighoff/sgpt))
+- [PromptKG](https://github.com/zjunlp/PromptKG) - Gallery of Prompt Learning & KG-related research works, toolkits, and paper-list.
+- [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - Gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
+- [Knowledge is a Region in Weight Space for Fine-tuned Language Models (2023)](https://arxiv.org/abs/2302.04863)

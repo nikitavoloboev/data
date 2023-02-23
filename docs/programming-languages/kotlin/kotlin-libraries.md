@@ -110,6 +110,7 @@
 - [Misk](https://github.com/cashapp/misk) - Microservice Kontainer.
 - [Zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs.
 - [EffeKt](https://github.com/bendgk/effekt) - Kotlin reactive library inspired by Vue.
+- [Inikio](https://github.com/serras/inikio) - Better initial-style DSLs in Kotlin.
 
 ## Links
 

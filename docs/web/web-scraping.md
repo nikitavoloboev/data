@@ -1,6 +1,6 @@
 # Web scraping
 
-[Scraping Fish](https://scrapingfish.com/), [shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) ([example](https://til.simonwillison.net/shot-scraper/readability)), [Colly](https://github.com/gocolly/colly) are neat.
+[Katana](https://github.com/projectdiscovery/katana), [Scraping Fish](https://scrapingfish.com/), [shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) ([example](https://til.simonwillison.net/shot-scraper/readability)), [Colly](https://github.com/gocolly/colly) are neat.
 
 Currently exploring [Playwright](https://playwright.dev/) together with [AutoScraper](https://github.com/alirezamika/autoscraper) for my scraping needs. [Crawlee](https://github.com/apify/crawlee) looks great too.
 

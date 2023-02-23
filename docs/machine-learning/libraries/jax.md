@@ -101,3 +101,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [MACE](https://github.com/ACEsuit/mace-jax) - Equivariant machine learning interatomic potentials in JAX.
 - [JAX Wavelets](https://github.com/crowsonkb/jax-wavelets) - 2D discrete wavelet transform for JAX.
 - [Autodidax: JAX core from scratch](https://jax.readthedocs.io/en/latest/autodidax.html) ([HN](https://news.ycombinator.com/item?id=34732361))
+- [Aesara on JAX](https://github.com/rlouf/aejax)

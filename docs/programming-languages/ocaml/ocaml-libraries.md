@@ -253,6 +253,7 @@ title: OCaml libraries
 - [ctypes](https://github.com/yallop/ocaml-ctypes) - Library for binding to C libraries using pure OCaml.
 - [refl](https://github.com/thierry-martinez/refl) - Efficient and type-safe type reflection for OCaml.
 - [radixmap](https://github.com/paurkedal/ocaml-radixmap) - Map a la Binary Radix Tree.
+- [ocaml-iomux](https://github.com/haesbaert/ocaml-iomux) - IO multiplexers bindings for ocaml (poll/kqueue/epoll and so on).
 
 ## Links
 

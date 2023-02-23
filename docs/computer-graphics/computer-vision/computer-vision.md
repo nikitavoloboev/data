@@ -1157,3 +1157,5 @@
 - [SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation (2023)](https://arxiv.org/abs/2301.13156) ([Code](https://github.com/fudan-zvg/SeaFormer))
 - [Audio-Visual Face Reenactment (2022)](https://arxiv.org/abs/2210.02755) ([Code](https://github.com/mdv3101/AVFR-Gan))
 - [Awesome Distribution Shift](https://github.com/weitianxin/awesome-distribution-shift)
+- [Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval (2022)](https://arxiv.org/abs/2112.04446) ([Code](https://github.com/ninatu/everything_at_once))
+- [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/) ([Code](https://github.com/TEXTurePaper/TEXTurePaper))

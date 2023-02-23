@@ -590,3 +590,4 @@
 - ["BGP at home": getting a DIA circuit installed at home (2023)](https://aaka.sh/posts/20230129-bgp-at-home.html) ([HN](https://news.ycombinator.com/item?id=34853136))
 - [dhcpm](https://github.com/leshow/dhcpm) - CLI tool for constructing & sending DHCP messages.
 - [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
+- [Connecting a 1980s Pinball Machine to the Internet (2023)](https://eli.lipsitz.net/posts/internet-connected-pinball/) ([HN](https://news.ycombinator.com/item?id=34897668))

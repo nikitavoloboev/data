@@ -684,3 +684,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [The Meltdown of Russia's Music Scene (2023)](https://www.youtube.com/watch?v=FSgEW9LFFw8)
 - [One Year Into War, Putin Is Crafting the Russia He Craves (2023)](https://www.nytimes.com/2023/02/19/world/europe/ukraine-war-russia-putin.html?smid=tw-share)
 - [Чиков – простые вопросы о законах (2023)](https://www.youtube.com/watch?v=9H3E9FRjAzk)
+- [Другой СССР. Сталинизм и бизнес: «Корпорация самозванцев» (2023)](https://www.youtube.com/watch?v=f2VCFu2hxMc)

@@ -53,3 +53,4 @@
 - [Ask HN: When/where can we get an offline GPT3 type chat bot? (2022)](https://news.ycombinator.com/item?id=33901524)
 - [AI chatbots are not a replacement for search engines (2022)](https://news.ycombinator.com/item?id=34131553)
 - [DeepPavlov Dream](https://github.com/deeppavlov/dream) - Platform for creating multi-skill chatbots.
+- [Urban Bot](https://github.com/urban-bot/urban-bot) - Universal chat bot library based on React.

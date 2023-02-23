@@ -240,3 +240,4 @@
 - [This Not That](https://github.com/TutteInstitute/thisnotthat) - Visual labeling system implemented in Jupyter widgets.
 - [OpenWebText](https://github.com/jcpeterson/openwebtext) - Open clone of OpenAI's unreleased WebText dataset scraper.
 - [Multiface Dataset](https://github.com/facebookresearch/multiface) - Multi-view dataset of multiple identities performing a sequence of facial expressions.
+- [Wikipedia 2 Corpus](https://github.com/GermanT5/wikipedia2corpus) - Wikipedia text corpus for self-supervised NLP model training.

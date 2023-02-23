@@ -245,7 +245,7 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Edge Flags](https://github.com/upstash/edge-flags) - Feature flags for edge functions.
 - [Learn DevOps Links](https://github.com/codeaprendiz/learn-devops)
 - [octocov](https://github.com/k1LoW/octocov) - Toolkit for collecting code metrics (code coverage, code to test ratio and test execution time).
-- [Envless](https://envless.dev/) - Secure and sync your secrets. ([Code](https://github.com/envless/envless))
+- [Envless](https://envless.dev/) - Secure and sync your secrets. ([Code](https://github.com/envless/envless)) ([Docs](https://envless.dev/docs))
 - [Cron-Job.org](https://cron-job.org/en/) - Scheduled execution of your websites and scripts. ([Code](https://github.com/pschlan/cron-job.org))
 - [precloud](https://github.com/tinystacks/precloud) - Dynamic tests for infrastructure-as-code.
 - [SRE Checklist](https://github.com/bregman-arie/sre-checklist)

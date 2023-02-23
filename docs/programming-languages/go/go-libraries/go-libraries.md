@@ -2086,6 +2086,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Func](https://github.com/knative/func) - Knative Functions client API and CLI.
 - [Log](https://github.com/charmbracelet/log) - Minimal, colorful Go logging library.
 - [malgo](https://github.com/gen2brain/malgo) - Go bindings for miniaudio library.
+- [Goldmark D2](https://github.com/FurqanSoftware/goldmark-d2) - Goldmark extension for D2 diagrams.
 
 ## Links
 

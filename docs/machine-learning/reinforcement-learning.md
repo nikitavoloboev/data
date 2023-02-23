@@ -436,3 +436,4 @@ title: Reinforcement learning
 - [DeepMind has open-sourced the heart of AlphaGo and AlphaZero](https://twitter.com/DrJimFan/status/1625538305889820673) ([HN](https://news.ycombinator.com/item?id=34801636))
 - [STARTcraft](https://github.com/davechurchill/STARTcraft) - Get started with Starcraft: BroodWar AI Development as fast as possible.
 - [Awesome RLHF (RL with Human Feedback)](https://github.com/opendilab/awesome-RLHF)
+- [abcdRL](https://github.com/sdpkjc/abcdrl) - Modular Single-file Reinfocement Learning Algorithms Library.

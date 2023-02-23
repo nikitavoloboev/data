@@ -842,6 +842,7 @@
 - [Tidier.jl](https://github.com/kdpsingh/Tidier.jl) - Implementation of the R tidyverse mini-language in Julia.
 - [Nerf.jl](https://github.com/JuliaNeuralGraphics/Nerf.jl) - Real-time Neural 3D Scene Reconstruction.
 - [SHA](https://github.com/JuliaCrypto/SHA.jl) - Performant, 100% native-julia SHA1, SHA2, and SHA3 implementation.
+- [ConstructionBase](https://github.com/JuliaObjects/ConstructionBase.jl) - Primitives for construction of objects.
 
 ## Links
 

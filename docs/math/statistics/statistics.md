@@ -188,4 +188,4 @@
 - [Probabilistic Filters By Example: Cuckoo Filter and Bloom Filters](https://bdupras.github.io/filter-tutorial/)
 - [Much Ado About Sampling (2022)](https://www.jeremyong.com/math/monte%20carlo/2022/05/17/much-ado-about-sampling/)
 - [Learning Statistics Shiny App](https://github.com/nrennie/learning-statistics)
-- [The Unreasonable Effectiveness of Conditional Probabilities (2023)](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html)
+- [The Unreasonable Effectiveness of Conditional Probabilities (2023)](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html) ([HN](https://news.ycombinator.com/item?id=34897701))

@@ -657,3 +657,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/) ([Lobsters](https://lobste.rs/s/knrjzs/why_does_0_1_0_2_0_30000000000000004))
 - [Data consistency is overrated (2023)](https://two-wrongs.com/data-consistency-is-overrated) ([HN](https://news.ycombinator.com/item?id=34847527))
 - [Writing an engineering strategy (2023)](https://lethain.com/eng-strategies/)
+- [Ask HN: What would happen if we prioritised all bugs over all new features? (2023)](https://news.ycombinator.com/item?id=34907970)

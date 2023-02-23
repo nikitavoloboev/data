@@ -40,6 +40,7 @@
 - [ReScript Collections](https://github.com/reason-seoul/rescript-collection) - Fast and efficient, persistent immutable collection for JS written in 100% ReScript.
 - [Future](https://github.com/bloodyowl/rescript-future) - Cancellable futures for ReScript.
 - [ReScript Core](https://github.com/rescript-association/rescript-core) - Drop-in standard library for ReScript.
+- [ReScript JSON Schema](https://github.com/DZakh/rescript-json-schema) - Typesafe JSON schema for ReScript.
 
 ## Links
 

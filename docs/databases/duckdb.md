@@ -30,3 +30,4 @@ title: DuckDB
 - [fluvio-duck](https://github.com/infinyon/fluvio-duck) - Fluvio DuckDB Integration.
 - [Scrooge McDuck](https://github.com/pdet/Scrooge-McDuck) - Financial extension to DuckDB.
 - [DuckDB Shell](https://shell.duckdb.org/)
+- [DuckDB Athena Extension](https://github.com/dacort/duckdb-athena-extension)

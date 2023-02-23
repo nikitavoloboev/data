@@ -77,6 +77,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-comment](https://github.com/terrortylor/nvim-comment) - Comment toggler for Neovim, written in Lua.
 - [barbar.nvim](https://github.com/romgrk/barbar.nvim) - Tabs, as understood by any other editor.
 - [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - Neovim plugin to make the LSP client use FZF.
+- [replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - Powerful refactoring tool for nvim.
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) - View and search LSP symbols, tags in Vim/NeoVim.
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
 - [nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally.

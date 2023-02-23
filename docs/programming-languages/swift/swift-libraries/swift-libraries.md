@@ -401,6 +401,7 @@
 - [Swift Web](https://github.com/pointfreeco/swift-web) - Collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
 - [URLQueryEncoder](https://github.com/CreateAPI/URLQueryEncoder) - URL query encoder with support for all OpenAPI serialization options.
 - [Vercel](https://github.com/swift-cloud/Vercel) - Swift runtime for Vercel Serverless Functions.
+- [async-http-client](https://github.com/The-Igor/async-http-client) - Async/await HTTP client using new concurrency model in Swift.
 
 ## GraphQL
 
@@ -675,6 +676,7 @@
 - [Distribute XCFramework with mixed implementation only and exported dependencies](https://github.com/DrAma999/XCFramework-with-dep-example)
 - [SwiftDocTest](https://github.com/schwa/SwiftDocTest) - Experimental tool for testing Swift example code in documentation.
 - [PreviewSnapshots](https://github.com/doordash-oss/swiftui-preview-snapshots) - Library for sharing view configurations between SwiftUI previews and SnapshotTesting snapshot tests.
+- [Swift Package Tests](https://github.com/apple/swift-integration-tests) - Automated tests for validating the generated Swift snapshots behave correctly.
 
 ## API
 

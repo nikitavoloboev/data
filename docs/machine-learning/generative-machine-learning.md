@@ -336,3 +336,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [On the Mathematics of Diffusion Models (2023)](https://arxiv.org/abs/2301.11108)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Powerful and modular stable diffusion GUI.
 - [WebUI extension for ControlNet](https://github.com/Mikubill/sd-webui-controlnet)
+- [Stable Diffusion WebUI Colabs With ControlNet](https://github.com/camenduru/controlnet-colab)
