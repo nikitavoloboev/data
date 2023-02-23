@@ -6,7 +6,7 @@ Russian culture and history is [fascinating](https://www.youtube.com/watch?v=9Lx
 
 It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
 
-All [based of greed](https://twitter.com/ChrisO_wiki/status/1619990400508510208?t=MnC5Fdl551WZEk5TFAJIFQ&s=19) & [Putin's blind aspirations](https://www.youtube.com/watch?v=kSNo2FPQDQw) and delusions that this would be a 3 day operation. My reading on why this decision was made are:
+All [based of greed](https://twitter.com/ChrisO_wiki/status/1619990400508510208?t=MnC5Fdl551WZEk5TFAJIFQ&s=19) & [Putin's blind aspirations](https://www.youtube.com/watch?v=kSNo2FPQDQw) and delusions that this would be a 3 day operation. My reading on why this decision was made (mostly based off reading [Credible Defense](https://www.reddit.com/r/CredibleDefense/) discussions) are:
 
 1. Get land access to illegally annexed Crimea and solve [Crimea's cut water situation](https://www.youtube.com/watch?v=Aqq8clIceys).
 2. [Prevent Ukraine from getting access and export of its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), only to then [transfer it to few designated people](https://twitter.com/ChrisO_wiki/status/1619990400508510208).

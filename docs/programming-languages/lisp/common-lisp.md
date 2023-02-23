@@ -159,4 +159,4 @@
 - [LMDB bindings for Common Lisp](https://github.com/antimer/lmdb)
 - [Parachute](https://github.com/Shinmera/parachute) - Simple-to-use and extensible testing framework.
 - [iolib](https://github.com/sionescu/iolib) - Common Lisp I/O library.
-- [Common Lisp implementations in 2023](https://www.n16f.net/blog/common-lisp-implementations-in-2023/)
+- [Common Lisp implementations in 2023](https://www.n16f.net/blog/common-lisp-implementations-in-2023/) ([HN](https://news.ycombinator.com/item?id=34909113))

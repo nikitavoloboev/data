@@ -180,3 +180,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [nix-zig-stdenv](https://github.com/Cloudef/nix-zig-stdenv) - Zig based cross-compiling toolchain.
 - [Zig Bits: Returning slices from functions (2023)](https://blog.orhun.dev/zig-bits-01/)
 - [Multi-Object For Loops + Struct-Of-Arrays (2023)](https://zig.news/andrewrk/multi-object-for-loops-data-oriented-design-41ob)
+- [Smoking Hot Binary Search In Zig (2023)](https://blog.deckc.hair/2023-02-22-smoking-hot-binary-search-in-zig.html)

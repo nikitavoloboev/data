@@ -1,5 +1,7 @@
 # Politics
 
+Love reading through [Credible Defense](https://www.reddit.com/r/CredibleDefense/) daily discussions. 
+
 ## Notes
 
 - [I look at political philosophy's in a way similar to the various forces of nature. Example. If Gravity was the only force of nature, the universe would be extraordinarily boring. But throw in a few more forces and you get all this crazy shit. I view libertarianism, Conservatism, liberalism, and all your other -ism's as forces that work to create a functional government. I'll wholly agree that any form of government that is 100% a particular political/social ideal will be a horror in one form or another. Why I'm a libertarian, isn't because i advocate the abolishment of government control, but that our government needs to be moved in a more libertarian direction. I think our government, is 1: two damn big 2: to damn invasive. Ergo the force that opposes these is Libertarianism.](https://www.reddit.com/r/philosophy/comments/e7lr8/the_problems_with_libertarianism/)
