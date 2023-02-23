@@ -5,6 +5,7 @@ Every [morning](../../focusing/processes.md#morning), after I do a [workout](../
 - 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
 - 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)
 - 1 tea spoon of [Master Blend Mushroom Extracts](https://vibemushrooms.ca/products/master-blend)
+- 1 scoop of [Creatine](https://nootropicsdepot.com/creatine-monohydrate-200-mesh-powder/) (~ 5g)
 - 2 raw eggs
 - Spinach (for extra fiber)
 - Frozen blueberries (for better taste + healthy)

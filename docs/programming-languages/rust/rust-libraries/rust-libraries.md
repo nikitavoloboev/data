@@ -167,7 +167,7 @@
 - [backoff](https://github.com/ihrwein/backoff) - Small crate which allows you to retry operations according to backoff policies.
 - [rust-jwt](https://github.com/durch/rust-jwt) - Very simple JWT generation lib.
 - [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
-- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/)) ([TODO App Example](https://github.com/JunichiSugiura/rust-ecs-todomvc)) ([HN](https://news.ycombinator.com/item?id=34140206)) ([CLI](https://github.com/DioxusLabs/cli)) ([GitHub](https://github.com/DioxusLabs))
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/)) ([TODO App Example](https://github.com/JunichiSugiura/rust-ecs-todomvc)) ([HN](https://news.ycombinator.com/item?id=34140206)) ([CLI](https://github.com/DioxusLabs/cli)) ([GitHub](https://github.com/DioxusLabs)) ([0.3](https://dioxuslabs.com/blog/release-030/))
 - [webview_rust](https://github.com/webview/webview_rust) - Rust Bindings to webview.
 - [rsass](https://github.com/kaj/rsass) - SASS reimplemented in rust with nom.
 - [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.

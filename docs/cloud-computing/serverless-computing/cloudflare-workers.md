@@ -239,3 +239,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare worker for GitHub's OAuth login flow](https://github.com/gr2m/cloudflare-worker-github-oauth-login)
 - [Cloudflare Worker template](https://github.com/3perf/cloudflare-worker-template)
 - [Generating Cloudflare workerd configs with capnproto-rust](https://github.com/KianNH/capnproto-rust-workerd-configs)
+- [Create a full-stack application step by step](https://github.com/yusukebe/cloudflare-pages-step-by-step)
