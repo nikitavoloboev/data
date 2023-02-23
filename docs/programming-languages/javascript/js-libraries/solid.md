@@ -224,3 +224,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Using Solid Start with GitHub pages (2023)](https://dev.to/lexlohr/using-solid-start-with-github-pages-3iok)
 - [HTML To SolidJSX](https://solidjs-community.github.io/html-to-solidjsx/) ([Code](https://github.com/solidjs-community/html-to-solidjsx))
 - [Vite Plugin Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg) - Vite plugin to Import SVG files as Solid.js Components.
+- [Data Fetching in SolidJS: How to Use createResource (2023)](https://www.youtube.com/watch?v=A5_58oenCqk)

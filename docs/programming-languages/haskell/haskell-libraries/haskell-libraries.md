@@ -433,6 +433,7 @@
 - [FilePath](https://github.com/haskell/filepath) - Functionality for manipulating FilePath values.
 - [Trial](https://github.com/kowainik/trial) - Trial Data Structure is a Either-like structure that keeps events history inside.
 - [Overloaded](https://github.com/phadej/overloaded)
+- [Difference Lists](https://github.com/spl/dlist) - List-like types supporting O(1) append and snoc operations.
 
 ## Notes
 

@@ -55,3 +55,5 @@
 - [Interview and AMA with Louis Pilfold - Creator of Gleam (2023)](https://www.youtube.com/watch?v=IlPOUuIZnec)
 - [codec](https://github.com/gleam-community/codec) - Keeping your JSON encoders and decoders in sync.
 - [esgleam](https://github.com/bwireman/esgleam) - esbuild plugin for gleam.
+- [maths](https://github.com/gleam-community/maths) - Basic mathematics library containing fundamental functions and utilities.
+- [ansi](https://github.com/gleam-community/ansi) - ANSI colors, formatting, and control codes.
