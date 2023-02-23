@@ -844,6 +844,7 @@
 - [SHA](https://github.com/JuliaCrypto/SHA.jl) - Performant, 100% native-julia SHA1, SHA2, and SHA3 implementation.
 - [ConstructionBase](https://github.com/JuliaObjects/ConstructionBase.jl) - Primitives for construction of objects.
 - [CassetteOverlay](https://github.com/JuliaDebug/CassetteOverlay.jl) - Experimental simple method overlay mechanism for Julia.
+- [VideoIO](https://github.com/JuliaIO/VideoIO.jl) - Reading and writing of video files in Julia.
 
 ## Links
 

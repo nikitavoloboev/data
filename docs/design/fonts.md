@@ -467,3 +467,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [freetype-rs](https://github.com/PistonDevelopers/freetype-rs) - Rust bindings for FreeType library.
 - [FontForge](https://github.com/fontforge/fontforge) - Font editor.
 - [Local Google Fonts](https://local-google-fonts.vercel.app/) - Download modern Google Fonts files for local hosting. ([Code](https://github.com/wearerequired/local-google-fonts))
+- [The end of Type 1 Fonts (2023)](https://typenetwork.com/articles/the-end-of-type-1#) ([HN](https://news.ycombinator.com/item?id=34866740))

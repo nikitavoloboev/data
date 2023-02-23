@@ -1157,6 +1157,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Llama Hub](https://github.com/emptycrown/llama-hub) - Library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain.
 - [lumos](https://github.com/numagic/lumos) - Scalable accelerated optimal control.
 - [Param](https://github.com/holoviz/param) - Make your Python code clearer and more reliable by declaring Parameters.
+- [pybool_ir](https://github.com/hscells/pybool_ir) - Toolkit for domain-specific information retrieval experimentation.
 
 ## Notes
 
