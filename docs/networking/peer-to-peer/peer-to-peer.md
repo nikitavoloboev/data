@@ -139,3 +139,4 @@
 - [airpaste](https://github.com/mafintosh/airpaste) - 1-1 network pipe that auto discovers other peers using mdns.
 - [Chitchatter](https://github.com/jeremyckahn/chitchatter) - Peer-to-peer chat app that is serverless, decentralized, and ephemeral. ([Web](https://chitchatter.im/))
 - [libp2p/peer-store](https://github.com/libp2p/js-libp2p-peer-store) - Stores information about peers libp2p knows on the network.
+- [What Ever Happened to Peer-to-Peer Systems? (2023)](https://cacm.acm.org/magazines/2023/3/270198-what-ever-happened-to-peer-to-peer-systems/fulltext#.Y_ZguJ11Cgo.twitter)

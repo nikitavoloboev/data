@@ -240,3 +240,4 @@ I try to go out my way to meet more people and reach out either physically or on
 - [Retrospectives Antipatterns (2023)](https://martinfowler.com/articles/retrospective-antipatterns.html) ([Lobsters](https://lobste.rs/s/rpsrih/retrospectives_antipatterns))
 - [How I give formal written feedback](https://quad.writeas.com/how-i-give-formal-written-feedback)
 - [Common Ground](https://www.commonground.cg/) - Social chat app for communities. Publish news, discuss topics and vote on what matters.
+- [On a technicality (2016)](https://eev.ee/blog/2016/07/22/on-a-technicality/)
