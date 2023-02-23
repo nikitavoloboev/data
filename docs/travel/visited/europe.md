@@ -104,3 +104,4 @@ Currently reside in [Spain](spain.md). Want to spend some time in [Portugal](por
 - [Top 100 Places To Visit in Europe (2022)](https://www.youtube.com/watch?v=IQzfprW0Yl0)
 - [Is Europe Just Not Good at Innovating? (2022)](https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/) ([HN](https://news.ycombinator.com/item?id=33971577))
 - [Ask HN: EU Bank with Good API? (2023)](https://news.ycombinator.com/item?id=34543832)
+- [Night Train Map with all regularly served night train destinations in Europe](https://files.wegewerk.com/index.php/s/Mr8WX7WMT5gd66a) ([HN](https://news.ycombinator.com/item?id=34910324))

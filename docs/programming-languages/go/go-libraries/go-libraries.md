@@ -2277,3 +2277,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Gobuild](https://beta.gobuilds.org/) - Reproducible binaries for the Go module proxy.
 - [Structured logging in Go with slog (2023)](https://mrkaran.dev/posts/structured-logging-in-go-with-slog/) ([Lobsters](https://lobste.rs/s/hdwu80/structured_logging_go_with_slog))
 - [go-update](https://github.com/pete911/go-update) - Simple tool to update go git projects.
+- [Partially-Implemented Interfaces in Go (2023)](https://preslav.me/2023/02/22/partially-implemented-interfaces-in-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/1195v8d/partiallyimplemented_interfaces_in_go/))
