@@ -19,3 +19,4 @@ Doing [tutorial](https://entgo.io/docs/tutorial-setup) as it shows how to write 
 - [Ent Explore Schema](https://github.com/lolopinto/ent-explore-schema) - Utility for exploring an ent schema.
 - [enter](https://github.com/a8m/enter) - CLI for generating ER diagrams for Ent schema.
 - [Ent-Refine](https://github.com/diazoxide/ent-refine) - Extension for Entgo to generate refine admin dashboard with CRUDs from definition.
+- [Ent Blog Example](https://github.com/rotemtam/ent-blog-example) - Supporting repo for a tutorial on building a simple CMS with ent.

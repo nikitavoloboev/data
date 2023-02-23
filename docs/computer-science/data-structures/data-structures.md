@@ -130,3 +130,4 @@
 - [Data Structures & Algorithms for Coding Interview](https://github.com/SamirPaul1/DSAlgo)
 - [YClass](https://github.com/ItsEthra/yclass) - Program that allows you to inspect and recreate data structures of other processes.
 - [Efficient Data Structures for Tamper-Evident Logging (2009)](https://www.usenix.org/legacy/events/sec09/tech/full_papers/crosby.pdf) ([Lobsters](https://lobste.rs/s/gg3qyn/efficient_data_structures_for_tamper))
+- [hg64: a 64-bit histogram data structure (2022)](https://dotat.at/@/2022-07-15-histogram.html)
