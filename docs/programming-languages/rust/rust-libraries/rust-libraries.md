@@ -1050,6 +1050,7 @@
 - [Nutype](https://github.com/greyblake/nutype) - Newtype macros on steroids.
 - [Subenum](https://github.com/paholg/subenum) - Simple proc-macro to derive subsets of enums.
 - [Deluxe](https://github.com/jf2048/deluxe) - Rust procedural macro attribute parser.
+- [transitive](https://github.com/bobozaur/transitive) - Transitive derive macros for Rust.
 
 ## Math
 

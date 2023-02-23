@@ -32,6 +32,8 @@ I like listening to my [Trip playlist of songs](https://open.spotify.com/playlis
 
 It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/) are important to get right before taking psychedelics. Otherwise you risk getting a [bad trip](https://www.reddit.com/r/Psychonaut/comments/yx9c8v/how_bad_does_a_bad_trip_feel/).
 
+[Psychedelic Information Theory](https://psychedelic-information-theory.com/) is a nice read.
+
 ## Notes
 
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)
@@ -191,3 +193,4 @@ It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/commen
 - [Hyperlab.info - Литература о психоактивах](https://hyperlab.info/inv/index.php?s=48e93c46428953dbfb4d702f4177f79d&lang=en&act=ST&f=17&t=28181)
 - [Buy, sell and trade trichocereus cactus](https://www.reddit.com/r/sanpedrocactusforsale/)
 - [PsySpace Library](https://psyspacelibrary.in/) - Community driven project for curated resources and guides about psychedelics. ([Code](https://github.com/dhashdev/psyspacelibrary))
+- [Psychedelic Information Theory](https://psychedelic-information-theory.com/)
