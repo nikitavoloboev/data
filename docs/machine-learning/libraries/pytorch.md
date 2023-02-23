@@ -506,3 +506,4 @@ title: PyTorch
 - [Rising](https://github.com/PhoenixDL/rising) - High-performance data loading and augmentation library for 2D and 3D data completely written in PyTorch.
 - [minLoRA](https://github.com/cccntu/minLoRA) - Minimal PyTorch library that allows you to apply LoRA to any PyTorch model.
 - [Implementation of the Hyena Operator in PyTorch](https://github.com/lucidrains/hyena-pytorch)
+- [PyTorchTS](https://github.com/zalandoresearch/pytorch-ts) - PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend.

@@ -272,6 +272,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes.
 - [Raylib-Python-CFFI](https://github.com/electronstudio/raylib-python-cffi) - Python CFFI bindings for Raylib.
 - [drawbot-skia](https://github.com/justvanrossum/drawbot-skia) - Python package implementing a subset of the DrawBot API using Skia as a backend.
+- [pygfx](https://github.com/pygfx/pygfx) - Python render engine running on wgpu.
 
 ## Crypto
 
@@ -1158,6 +1159,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [lumos](https://github.com/numagic/lumos) - Scalable accelerated optimal control.
 - [Param](https://github.com/holoviz/param) - Make your Python code clearer and more reliable by declaring Parameters.
 - [pybool_ir](https://github.com/hscells/pybool_ir) - Toolkit for domain-specific information retrieval experimentation.
+- [Logbook](https://github.com/getlogbook/logbook) - Nice logging replacement.
 
 ## Notes
 
