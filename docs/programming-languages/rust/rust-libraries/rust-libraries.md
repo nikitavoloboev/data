@@ -435,6 +435,7 @@
 - [Remi](https://github.com/Noelware/remi-rs) - Robust, and simple asynchronous Rust crate to handle storage-related communications with different storage providers.
 - [SQLx Conditional Queries](https://github.com/kyrias/sqlx-conditional-queries) - Conditional compile-time verified queries with SQLx.
 - [indxdb](https://github.com/surrealdb/indxdb) - Key-value database engine abstraction layer for IndexedDB running in the browser with WASM.
+- [Mini Moka](https://github.com/moka-rs/mini-moka) - Fast, concurrent cache library for Rust.
 
 ## Video
 

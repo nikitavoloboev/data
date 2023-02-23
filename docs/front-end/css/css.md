@@ -626,3 +626,7 @@ all: unset
 - [WebKit Supports Nested CSS (2023)](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/) ([HN](https://news.ycombinator.com/item?id=34814070))
 - [Do we need CSS flex-wrap detection? (2023)](https://ishadeed.com/article/flex-wrap-detect/) ([Tweet](https://twitter.com/shadeed9/status/1627373081986535424))
 - [Container queries land in stable browsers (2023)](https://web.dev/cq-stable/)
+- [My CSS Wishlist · Jens Meiert (2023)](https://meiert.com/en/blog/my-css-wishlist/)
+- [My CSS wish list - Manuel Matuzović (2023)](https://www.matuzo.at/blog/2023/css-wish-list/)
+- [CSS Wish List 2023 – Eric](https://meyerweb.com/eric/thoughts/2023/02/08/css-wish-list-2023/)
+- [CSS Wishlist 2023](https://daverupert.com/2023/01/css-wishlist-2023/)

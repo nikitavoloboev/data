@@ -327,3 +327,4 @@ title: HTTP
 - [Async message-oriented systems vs. REST for inter-microservice communications](https://mats3.io/background/rationale-for-mats/) ([HN](https://news.ycombinator.com/item?id=34765578))
 - [WebSI](https://github.com/zaiste/websi) - Universal HTTP abstraction for building web servers with TypeScript. ([Docs](https://websi.dev/docs/getting-started))
 - [Map localhost ports to names](https://twitter.com/jmduke/status/1628034461605539840)
+- [Understanding HTTP/2 fingerprinting (2023)](https://www.trickster.dev/post/understanding-http2-fingerprinting/)

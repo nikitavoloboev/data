@@ -6,6 +6,8 @@
 
 [Be the browser’s mentor, not its micromanager](https://www.youtube.com/watch?v=5uhIiI9Ld5M) is a great talk on making websites. [Web.dev](https://web.dev/) has great resources.
 
+[Web Standards podcast](https://web-standards.ru/podcast/) is great way to stay up to date on most new web releases. It's in Russian though.
+
 ## Notes
 
 - Amazing thing about the web is the fact that clients (browsers) and servers can interact in complex ways without the client knowing anything beforehand about the server and the resources it hosts.
@@ -493,3 +495,4 @@
 - [The future (and the past) of the web is server side rendering (2023)](https://deno.com/blog/the-future-and-past-is-server-side-rendering) ([HN](https://news.ycombinator.com/item?id=34644558))
 - [WebContainers](https://webcontainers.io/) - Dev environments. In your web app. ([HN](https://news.ycombinator.com/item?id=34793858))
 - [Extensible Web Manifesto](https://extensiblewebmanifesto.org/) ([Code](https://github.com/extensibleweb/manifesto))
+- [Подкаст — Веб-стандарты](https://web-standards.ru/podcast/)
