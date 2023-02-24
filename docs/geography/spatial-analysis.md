@@ -316,3 +316,4 @@ title: Spatial analysis
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps. ([Code](https://github.com/allmaps/allmaps))
 - [Geo Assist](https://github.com/thegeekyasian/geo-assist) - Spatial library that allows you to manage spatial data in-memory. ([HN](https://news.ycombinator.com/item?id=34817779))
 - [Salta](https://github.com/pixwire/salta) - Small footprint reverse-geocoder for when you don't need precision.
+- [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard) ([HN](https://news.ycombinator.com/item?id=34919659))

@@ -117,6 +117,7 @@
 - [Data.Scientific](https://github.com/basvandijk/scientific) - Arbitrary-precision floating-point numbers represented using scientific notation.
 - [Carnap](https://github.com/Carnap/Carnap) - Formal logic framework that runs in the browser.
 - [Acts](https://github.com/sheaf/acts) - Haskell library for semigroup actions and torsors.
+- [HGeometry](https://github.com/noinia/hgeometry) - Library for computing with geometric objects in Haskell.
 
 ## Crypto
 
@@ -435,6 +436,7 @@
 - [Trial](https://github.com/kowainik/trial) - Trial Data Structure is a Either-like structure that keeps events history inside.
 - [Overloaded](https://github.com/phadej/overloaded)
 - [Difference Lists](https://github.com/spl/dlist) - List-like types supporting O(1) append and snoc operations.
+- [ivar-simple](https://github.com/int-e/ivar-simple) - Write once concurrency primitives.
 
 ## Notes
 

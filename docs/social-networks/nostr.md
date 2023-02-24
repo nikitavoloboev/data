@@ -52,3 +52,5 @@ title: Nostr
 - [Spamster](https://github.com/gourcetools/spamster) - Spam bot for Nostr protocol.
 - [Nostr Proxy](https://github.com/Dolu89/nostr-proxy) - Push and get events to your Proxy, get results from multiple Nostr relays.
 - [Nostr Stuff](https://nostrstuff.com/) - Web app that can do things such as query info about nostr relays. ([Code](https://github.com/SamSamskies/nostrstuff))
+- [Lume](https://github.com/reyamir/lume-desktop) - Ambitious Nostr client.
+- [rsslay](https://github.com/piraces/rsslay) - Nostr relay that creates profiles from RSS or Atom feeds and emits items as Nostr events.

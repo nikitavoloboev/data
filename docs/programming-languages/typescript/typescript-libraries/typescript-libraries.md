@@ -198,6 +198,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Erreur](https://github.com/etienne-dldc/erreur) - Type safe custom errors.
 - [Modern-Errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way.
 - [Typescript Custom Error](https://github.com/adriengibrat/ts-custom-error) - Extend native Error to create custom errors.
+- [Try](https://github.com/bdsqqq/try) - Don't let the Try Catch Tower of Terror destroy your beautiful one liners.
 
 ## Other
 
@@ -815,6 +816,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Autoconsent](https://github.com/duckduckgo/autoconsent) - Library of rules for navigating through common consent popups on the web.
 - [unctx](https://github.com/unjs/unctx) - Composables in vanilla JS.
 - [nodl](https://github.com/emilwidlund/nodl) - Framework for node-based applications. Leveraged by RxJS and Zod.
+- [Basin](https://github.com/microsoft/object-basin) - TypeScript library to stream updates to an object.
 
 ## Links
 

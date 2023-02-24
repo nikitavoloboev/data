@@ -436,3 +436,4 @@
 - [Mathematicians Complete Quest to Build ‘Spherical Cubes’ (2023)](https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/)
 - [What areas of math research are really active / trendy right now. Why? (2023)](https://www.reddit.com/r/math/comments/112m3ba/what_areas_of_math_research_are_really_active/)
 - [MIT Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects) ([HN](https://news.ycombinator.com/item?id=34903533))
+- [What is some simple but beautiful “Proof by Contradiction” you know?](https://www.reddit.com/r/math/comments/11ad58f/what_is_some_simple_but_beautiful_proof_by/)

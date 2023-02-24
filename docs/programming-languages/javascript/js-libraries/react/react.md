@@ -375,3 +375,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [React GPT](https://react-gpt.fly.dev/) - ChatGPT experience focused on React using LangChain & OpenAI. ([Code](https://github.com/peterpme/react-gpt))
 - [Improving React Interaction Times by 4x (2022)](https://causal.app/blog/react-perf)
 - [React Is Holding Me Hostage (2023)](https://emnudge.dev/blog/react-hostage)
+- [forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.

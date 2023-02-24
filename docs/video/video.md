@@ -501,3 +501,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Clips](https://clips.formidable.dev/) - Create short screen recordings that are shareable to various platforms all using Web APIs. ([Code](https://github.com/FormidableLabs/clips))
 - [TubeSync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server.
 - [The best free (or low-cost) tools for video editors (2023)](https://www.theverge.com/23602829/best-free-video-editing-software-open-source-tools-free-shareware-encoding)
+- [Chocolate](https://github.com/ChocolateApp/Chocolate) - Open source media manager.

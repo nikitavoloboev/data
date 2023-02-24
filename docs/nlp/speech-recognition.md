@@ -181,3 +181,4 @@ title: Speech recognition
 - [Faster Whisper transcription with CTranslate2](https://github.com/guillaumekln/faster-whisper)
 - [FunASR: Fundamental End-to-End Speech Recognition Toolkit](https://github.com/alibaba-damo-academy/FunASR)
 - [Streamlit UI for OpenAI's Whisper](https://github.com/hayabhay/whisper-ui)
+- [Whisperer](https://github.com/miguelvalente/whisperer) - Go from raw audio files to a speaker separated text-audio datasets automatically.

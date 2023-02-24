@@ -357,3 +357,4 @@ title: Svelte
 - [Svelte(Kit) examples](https://github.com/sveltejs/examples)
 - [Streaming, snapshots, and other new features since SvelteKit 1.0 (2023)](https://svelte.dev/blog/streaming-snapshots-sveltekit) ([Tweet](https://twitter.com/Rich_Harris/status/1628054357546606598))
 - [Svelte Maplibre](https://github.com/dimfeld/svelte-maplibre)
+- [Svelecte](https://github.com/mskocik/svelecte) - Flexible autocomplete/select component written in Svelte.

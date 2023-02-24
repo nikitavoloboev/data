@@ -210,3 +210,4 @@ Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app to
 - [Ask HN: Techwise, how did TikTok get so good? (2023)](https://news.ycombinator.com/item?id=34421594)
 - [Highest earning YouTubers from every country in the world](https://twitter.com/gregisenberg/status/1619764369293983746)
 - [Social media is a cause, not a correlate, of mental illness in teen girls (2023)](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic) ([HN](https://news.ycombinator.com/item?id=34901571))
+- [Ask Dang: What tools do you use for moderating HN? (2023)](https://news.ycombinator.com/item?id=34920400)

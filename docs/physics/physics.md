@@ -370,3 +370,4 @@ It's wild [how far humans got](https://www.youtube.com/watch?v=PHiyQID7SBs) to u
 - [How Does The Nucleus Hold Together? (2023)](https://www.youtube.com/watch?v=E8hyodMhbRw)
 - [Modern view on constants in fundamental physics (2023)](https://twitter.com/martinmbauer/status/1627221248160792578)
 - [What the Higgs boson tells us about the universe (2023)](https://www.symmetrymagazine.org/article/what-the-higgs-boson-tells-us-about-the-universe)
+- [Evidence for Dirac flat band superconductivity enabled by quantum geometry (2023)](https://www.nature.com/articles/s41586-022-05576-2) ([HN](https://news.ycombinator.com/item?id=34891407))

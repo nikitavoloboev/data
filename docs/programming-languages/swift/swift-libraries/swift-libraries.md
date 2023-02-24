@@ -1449,6 +1449,7 @@
 - [HexGrid](https://github.com/fananek/hex-grid) - Easy and intuitive way of working with hexagonal grids.
 - [RequestDL](https://github.com/brennobemoura/request-dl) - DL networking library for Swift.
 - [SFSymbol](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
+- [SwifCron](https://github.com/MihaelIsaev/SwifCron) - Simple pure swift cron expression parser.
 
 ## Other (not lib)
 

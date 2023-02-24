@@ -2713,6 +2713,8 @@
 - [yatp](https://github.com/tikv/yatp) - Thread pool in Rust that is adaptive, responsive and generic.
 - [futures-buffered](https://github.com/conradludgate/futures-buffered) - Single future structure: FuturesUnorderedBounded.
 - [QWT](https://github.com/rossanoventurini/qwt) - Rust implementation of the Quad Wavelet Tree.
+- [Wax](https://github.com/olson-sean-k/wax) - Opinionated and portable globs that can be matched against paths and directory trees.
+- [ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data.
 
 ## Cargo Plugins
 

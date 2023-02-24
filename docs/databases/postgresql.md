@@ -668,5 +668,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres WAL Files and Sequence Numbers (2023)](https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers)
 - [Waiting for Postgres 16: Cumulative I/O statistics with pg_stat_io (2023)](https://pganalyze.com/blog/pg-stat-io) ([HN](https://news.ycombinator.com/item?id=34836683))
 - [Postgres Unlogged Tables (2023)](https://www.crunchydata.com/blog/postgresl-unlogged-tables) ([HN](https://news.ycombinator.com/item?id=34846366))
-- [What's Postgres Got To Do With AI? (2023)](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai)
+- [What's Postgres Got To Do With AI? (2023)](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai) ([HN](https://news.ycombinator.com/item?id=34903454))
 - [CoreDB](https://github.com/CoreDB-io/coredb) - Postgres for Everything.

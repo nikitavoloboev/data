@@ -126,3 +126,4 @@ I do like the distinction of distributing content over distributing links. Each 
 - [Autoretrieve](https://github.com/application-research/autoretrieve) - Server to make GraphSync data accessible on IPFS.
 - [IPFS client for Deno](https://github.com/deno-libs/ipfs)
 - [go-libipfs](https://github.com/ipfs/go-libipfs) - Library for building IPFS implementations.
+- [S5](https://github.com/s5-dev/S5) - Decentralized content-addressed storage network.

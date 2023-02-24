@@ -285,6 +285,7 @@ title: GitHub actions
 - [Pull Request Comment Branch](https://github.com/xt0rted/pull-request-comment-branch) - Get the head ref and sha of a pull request comment.
 - [Cosign Installer](https://github.com/sigstore/cosign-installer)
 - [setup-bin](https://github.com/supplypike/setup-bin) - Sets up a binary in $PATH for use in actions.
+- [Issue Manager](https://github.com/tiangolo/issue-manager) - Automatically close issues that have a label, after a custom delay, if no one replies back.
 
 ## Go
 

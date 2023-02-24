@@ -24,3 +24,4 @@ Wish you could simply pay IG to never see ads.
 - [Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.
 - [Instagram bot](https://github.com/czQery/instagram-bot) - Bot for removing following accounts or for farming followers.
 - [Instagram Downloader](https://github.com/Algore101/Instagram-Downloader) - Downloads public Instagram content.
+- [AI’s Instagram Problem (2023)](https://www.deeplearning.ai/the-batch/someone-elses-cool-ai-project-doesnt-make-your-project-less-valuable/) ([HN](https://news.ycombinator.com/item?id=34916154))

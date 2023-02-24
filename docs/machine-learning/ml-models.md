@@ -158,3 +158,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [Coadaptive Harness for Effective Evaluation, Steering, & Enhancement](https://github.com/CarperAI/cheese)
 - [How to train large models on many GPUs? (2021)](https://lilianweng.github.io/posts/2021-09-25-train-large/) ([HN](https://news.ycombinator.com/item?id=34752489))
 - [ML Model parallelism 101](https://github.com/hundredblocks/large-model-parallelism) - Functional local implementations of main model parallelism approaches.
+- [Minimal ML Template](https://github.com/AntreasAntoniou/minimal-ml-template) - Minimal ml project template that uses HF transformers and wandb to train a simple NN and evaluate it, in a stateless manner compatible with Spot instances Kubernetes workflows.

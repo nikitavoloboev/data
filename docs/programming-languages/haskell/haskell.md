@@ -527,3 +527,6 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Optimizing Haskell Code for Runtime Verification (2023)](https://serokell.io/blog/optimizing-k-framework)
 - [Haskell memes (2023)](https://twitter.com/ChShersh/status/1575460560161980418)
 - [Squeezing a sokoban game into 10 lines of code (2023)](https://www.cole-k.com/2023/02/21/tiny-games-hs/) ([Lobsters](https://lobste.rs/s/griauf/squeezing_sokoban_game_into_10_lines_code))
+- [Haskell/GHC symbol search cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet)
+- [Illustrated document about GHC](https://github.com/takenobu-hs/haskell-ghc-illustrated)
+- [Haskell lazy evaluation illustrated](https://github.com/takenobu-hs/lazy_evaluation)

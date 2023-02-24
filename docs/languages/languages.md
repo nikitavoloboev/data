@@ -1,6 +1,6 @@
 # Languages
 
-[DeepL Translate](https://www.deepl.com/translator) is nice.
+[DeepL Translate](https://www.deepl.com/translator) is nice. Has [nice API client](https://github.com/OwO-Network/DeepLX) too.
 
 ## Links
 
@@ -98,3 +98,5 @@
 - [Lingua Python](https://github.com/pemistahl/lingua-py) - Most accurate natural language detection library for Python, suitable for long and short text alike.
 - [Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models (2023)](https://arxiv.org/abs/2301.04213) ([Code](https://github.com/google/belief-localization))
 - [VocabSieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning.
+- [DeepL X](https://github.com/OwO-Network/DeepLX) - Permanently free DeepL API written in Go.
+- [Borgo](https://github.com/borgo-lang/borgo) - Rusty functional language that compiles to Go.

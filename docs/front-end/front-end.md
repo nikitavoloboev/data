@@ -142,3 +142,4 @@
 - [Component Stats](https://github.com/Jimdo/components-stats) - Collect stats about UI components usage across the GitHub org.
 - [UIVerse](https://uiverse.io/) - Create, share, and use beautiful custom elements made with HTML and CSS.
 - [Fwoosh](https://github.com/fwoosh-dev/fwoosh) - Front-end notebook inspired by Storybook. ([Docs](https://fwoo.sh/docs/Welcome))
+- [Cross Framework Components](https://github.com/naver/cfcs) - Write once, create framework components that supports React, Vue, Svelte, and more.

@@ -172,6 +172,7 @@
 - [wave](https://github.com/nikneym/wave) - Tiny WAV encoder/decoder for Zig.
 - [zig-diff](https://github.com/tomhoule/zig-diff) - Text diffing in zig.
 - [Zig String](https://github.com/JakubSzark/zig-string) - UTF-8 String Library.
+- [zig-wfc](https://github.com/dweiller/zig-wfc) - Implementation of the wave function collapse algorithm in Zig.
 
 ## Links
 

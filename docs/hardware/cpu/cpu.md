@@ -211,3 +211,4 @@ Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) m
 - [Performance Analysis and Tuning on Modern CPUs Book](https://book.easyperf.net/perf_book)
 - [RV32i CPU implemented in Turing Complete](https://github.com/BenjaminSchaaf/turning-complete-riscv) - Compile rust code for a RISC-V CPU I made in Turing Complete.
 - [sevctl](https://github.com/virtee/sevctl) - Command line utility for managing the AMD Secure Encrypted Virtualization (SEV) platform.
+- [CPU assembly examples](https://github.com/takenobu-hs/cpu-assembly-examples)

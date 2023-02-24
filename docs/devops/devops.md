@@ -256,6 +256,6 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Enrolla](https://www.enrolla.io/) - Open source feature flags for B2Bs. ([Code](https://github.com/enrolla/enrolla)) ([HN](https://news.ycombinator.com/item?id=34692177))
 - [Keep](https://github.com/keephq/keep) - Manage your alerts by code, write better more actionable and accurate alerts.
 - [Don't deploy manually (2023)](https://www.youtube.com/watch?v=R2ImVl1skY8)
-- [xc](https://github.com/joerdav/xc) - Simple, Convenient, Markdown defined task runner.
+- [xc](https://github.com/joerdav/xc) - Simple, Convenient, Markdown defined task runner. ([HN](https://news.ycombinator.com/item?id=34911216))
 - [Traceo](https://github.com/traceo-dev/traceo) - Simple platform to monitor application performance with error handling.
 - [Chaos](https://github.com/Clivern/Chaos) - Tool can cause a chaos to running servers.
