@@ -78,15 +78,6 @@ Final result should look [like this](https://twitter.com/nikitavoloboev/status/1
 article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
   display: none;
 }
-div[data-testid="ScrollSnap-SwipeableList"] {
-  display: none;
-}
-div.css-1dbjc4n.r-1awozwy.r-1e081e0.r-1f1sjgu {
-  display: none;
-}
-div.css-1dbjc4n.r-j5o65s.r-qklmqi.r-1phboty {
-  display: none;
-}
 ```
 
 ## Interesting hash tags

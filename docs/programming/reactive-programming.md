@@ -11,6 +11,7 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 ## Notes
 
 - [Event streams (like plain observables) emits values. Signals (and behavior subjects) have values. Queues (channels and some buffered and published observables) hold/store values. For example seminal paper on functional reactive programming defines two primitives- event streams and behaviors. They have different laws and this different capabilities. Queues are even more powerful but provide less guarantees.](https://www.reddit.com/r/reactjs/comments/yk6iy3/react_vdom_vs_preact_signal_performance_flame/)
+- [Signals are not just about 'optimizing performance'. They do for ordinary data what React only does for DOM trees: provide a composable, consistent, managed way to derive it from your root application state, and to respond to changes over time.](https://twitter.com/djsheldrick/status/1629036972944633856)
 
 ## Links
 
@@ -56,3 +57,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [The Future of Fine-Grained Reactivity w/ Milo (2023)](https://www.youtube.com/watch?v=A2TiLvCDKSg)
 - [Cont-Signal](https://github.com/rkirov/cont-signal) - Continuations based Signals JS framework.
 - [Проектируем идеальную систему реактивности](https://page.hyoo.ru/#!=eh2o9_cl9nuy/View%22eh2o9_cl9nuy%22.Details=Reactive%20ReactJS)
+- [JS Reactivity Benchmark](https://github.com/modderme123/js-reactivity-benchmark)
