@@ -2,6 +2,8 @@
 
 I have an intricate system where I put files according to their purpose and context thus I always know where to find them. And I access everything from Alfred.
 
+I expose the [file system with all my code inside `~/src`](https://github.com/nikitavoloboev/#src).
+
 ## ~/Desktop
 
 My Desktop is nearly always empty. It acts as a kind of `temp` folder where every file that is put there needs to be acted upon and either moved to some other place in my system or deleted.

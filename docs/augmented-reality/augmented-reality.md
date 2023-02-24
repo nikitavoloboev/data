@@ -59,3 +59,4 @@
 - [HCI & Theories of Spatial Computing](https://github.com/ddiakopoulos/spatial-computing-fundamentals)
 - [ARDiffMuseum](https://github.com/ynagatomo/ARDiffMuseum) - iOS app that generate images using Stable Diffusion and displays them in AR.
 - [RKUtilities](https://github.com/Reality-Dev/RealityKit-Utilities) - Code that makes writing code with RealityKit easier.
+- [Replaying memories in AR](https://twitter.com/mrgreen/status/1629045335312957440)
