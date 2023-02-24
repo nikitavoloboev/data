@@ -42,6 +42,7 @@ all: unset
 - [I feel like negative margins are probably the most under-used layout feature. Layouts become so much more manageable when an element's size in the document flow is decoupled from its visible size on screen.](https://twitter.com/markdalgleish/status/1499139693652606977)
 - [`overflow: clip` is faster than `overflow: hidden`](https://twitter.com/Steve8708/status/1503864654329958400)
 - [If your site has a dark theme, make sure to set: `:root {color-scheme: dark}` So scroll bars are also dark.](https://twitter.com/diegohaz/status/1529543787311144961)
+- [Sometimes I’ll make a rule that highlights everything, and then progressively refine the selector until it hits the things I want it to.](https://twitter.com/tyroverby/status/1629103606531076104)
 
 ## Links
 

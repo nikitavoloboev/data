@@ -48,51 +48,39 @@ Final result should look [like this](https://twitter.com/nikitavoloboev/status/1
 [aria-label="1 unread items"] {
   display: none;
 }
-
 [aria-label="2 unread items"] {
   display: none;
 }
-
 [aria-label="3 unread items"] {
   display: none;
 }
-
 [aria-label="4 unread items"] {
   display: none;
 }
-
 [aria-label="5 unread items"] {
   display: none;
 }
-
 [aria-label="6 unread items"] {
   display: none;
 }
-
 [aria-label="7 unread items"] {
   display: none;
 }
-
 [aria-label="undefined unread items"] {
   display: none;
 }
-
 [aria-label="Home"] {
   display: none;
 }
-
 [aria-label="New Tweets are available. Push the period key to go to the them."] {
   display: none;
 }
-
 article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
   display: none;
 }
-
 div[data-testid="ScrollSnap-SwipeableList"] {
   display: none;
 }
-
 div.css-1dbjc4n.r-1awozwy.r-1e081e0.r-1f1sjgu {
   display: none;
 }
