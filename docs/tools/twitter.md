@@ -86,6 +86,10 @@ It hides [badges on the notification icon](https://twitter.com/nikitavoloboev/st
 article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
   display: none;
 }
+
+div[data-testid="ScrollSnap-SwipeableList"] {
+  display: none;
+}
 ```
 
 ## Interesting hash tags
