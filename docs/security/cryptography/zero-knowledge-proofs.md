@@ -160,3 +160,4 @@ title: Zero knowledge proofs
 - [Kakarot](https://github.com/sayajin-labs/kakarot-ssj) - Kakarot ZK-EVM in Cairo 1.0.
 - [ark-groth16](https://github.com/arkworks-rs/groth16) - Rust implementation of the Groth16 zkSNARK.
 - [Introduction to zero-knowledge machine learning (ZKML) (2023)](https://worldcoin.org/blog/engineering/intro-to-zkml)
+- [Awesome ZKML](https://github.com/worldcoin/awesome-zkml)

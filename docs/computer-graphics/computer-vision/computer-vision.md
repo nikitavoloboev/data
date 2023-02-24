@@ -1160,3 +1160,5 @@
 - [Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval (2022)](https://arxiv.org/abs/2112.04446) ([Code](https://github.com/ninatu/everything_at_once))
 - [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/) ([Code](https://github.com/TEXTurePaper/TEXTurePaper))
 - [SIMPLI - Self-improving Multiplane-to-layer Images for Novel View Synthesis (2023)](https://github.com/SamsungLabs/MLI)
+- [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) - Image registration related books, papers, videos, and toolboxes.
+- [Learning Visual Representations via Language-Guided Sampling (2023)](https://arxiv.org/abs/2302.12248) ([Code](https://github.com/mbanani/lgssl))

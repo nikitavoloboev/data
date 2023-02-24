@@ -1,5 +1,7 @@
 # Fitness
 
+Below is aspirational and doesn't always happen but I try to strive towards some kind of [routine](../focusing/habits.md) in doing enough [daily exercise with proper form, good rest](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/) and [nutrition](../health/nutrition/nutrition.md).
+
 I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips, leg raises and sit-ups. Dips, leg raises and pull ups being my favorite. I also do cardio usually by [cycling](../travel/transportation/cycling.md) or prolonged walking and sometimes [running](running.md).
 
 I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
@@ -27,7 +29,7 @@ Videos on [6 things i do every day to stay in shape](https://www.youtube.com/wat
 
 [Sergey Kharkow](https://www.instagram.com/sergeykharkow/) & [Joe Delaney](https://www.instagram.com/shredbundy/) have ideal body types in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
 
-[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great. And I love [Joe Delaney](https://www.youtube.com/user/JoeDelaneyy/videos)'s videos.
+[Andy Galpin's interview](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great. And I love [Joe Delaney](https://www.youtube.com/user/JoeDelaneyy/videos)'s videos.
 
 The biggest thing to keep in mind when doing workouts is to train until muscle failure and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
 

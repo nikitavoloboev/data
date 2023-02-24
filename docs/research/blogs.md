@@ -359,6 +359,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Philipp Schmid](https://www.philschmid.de/)
 - [EmNudge](https://emnudge.dev/)
 - [Sam Sartor](https://samsartor.com/)
+- [Conrad Ludgate](https://conradludgate.com/)
 
 ## Notes
 

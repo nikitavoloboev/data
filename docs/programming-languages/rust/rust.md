@@ -1063,3 +1063,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Statefulness in GUIs (2023)](https://samsartor.com/guis-1/)
 - [Faking Algebraic Effects and Handlers With Traits: A Rust Design Pattern (2022)](https://blog.shtsoft.eu/2022/12/22/effect-trait-dp.html)
 - [Pretty Rust backtraces in raw terminal mode (2023)](https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/)
+- [async let - A new concurrency primitve? (2022)](https://conradludgate.com/posts/async-let)

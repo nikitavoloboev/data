@@ -1,5 +1,7 @@
 # Logging
 
+[Logtail](https://betterstack.com/logtail) is nice.
+
 ## Links
 
 - [StatsD](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
@@ -82,3 +84,4 @@
 - [How Airbnb Achieved Metric Consistency at Scale (2021)](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)
 - [Grove](https://github.com/hashicorp-forge/grove) - Software as a Service (SaaS) log collection framework.
 - [Shipping Logs · Fly (2023)](https://fly.io/blog/shipping-logs/)
+- [Logtail](https://betterstack.com/logtail) - Modern ClickHouse-based Log Management. ([JS Client](https://github.com/logtail/logtail-js))

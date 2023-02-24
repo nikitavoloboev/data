@@ -21,3 +21,4 @@
 - [Awesome Buddhism](https://github.com/sirredbeard/Awesome-Buddhism)
 - [(mis)Translating the Buddha (2020)](http://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
 - [Five mildly anti-Buddhist essays (2023)](https://sashachapin.substack.com/p/five-mildly-anti-buddhist-essays) ([HN](https://news.ycombinator.com/item?id=34282033))
+- [When Buddhism Goes Bad (2021)](https://danlawton.substack.com/p/when-buddhism-goes-bad)

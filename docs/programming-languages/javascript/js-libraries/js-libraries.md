@@ -1129,6 +1129,7 @@
 - [slugify](https://github.com/sindresorhus/slugify) - Useful for URLs, filenames, and IDs.
 - [ExifReader](https://github.com/mattiasw/ExifReader) - JavaScript Exif info parser.
 - [custom-function](https://github.com/WebReflection/custom-function) - Literally the only sane way, if not the fastest one, to extend the Function class without evaluation.
+- [store](https://github.com/nbubna/store) - Better way to use localStorage and sessionStorage.
 
 ## Links
 
@@ -1236,3 +1237,4 @@
 - [NPM Packages tracked in Notion](https://github.com/Eomm/notion-board)
 - [Sandpack NPM CDN](https://github.com/codesandbox/sandpack-cdn)
 - [JavaScript Serverless Functions Standardization](https://github.com/nodeshift/js-functions-standardization)
+- [ChangelogsXYZ](https://changelogs.xyz/) - Find changelogs from any npm package. ([Code](https://github.com/Thinkmill/changelogs-xyz))

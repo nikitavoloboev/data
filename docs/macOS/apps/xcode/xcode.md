@@ -142,3 +142,4 @@ title: Xcode
 - [XcodeMigrate](https://github.com/XcodeMigrate/XcodeMigrate) - Generate Bazel BUILD files from Xcode projects.
 - [Squirrel](https://github.com/aheze/Squirrel) - Enable scrolling in the Xcode Simulator.
 - [XCBBuildServiceProxyKit](https://github.com/MobileNativeFoundation/XCBBuildServiceProxyKit) - Framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
+- [ShadowVim](https://github.com/mickael-menu/ShadowVim) - Neovim 𝘪𝘯𝘴𝘪𝘥𝘦 Xcode, for real.

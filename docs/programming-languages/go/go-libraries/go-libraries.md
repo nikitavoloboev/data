@@ -2087,6 +2087,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Log](https://github.com/charmbracelet/log) - Minimal, colorful Go logging library.
 - [malgo](https://github.com/gen2brain/malgo) - Go bindings for miniaudio library.
 - [Goldmark D2](https://github.com/FurqanSoftware/goldmark-d2) - Goldmark extension for D2 diagrams.
+- [Go Text](https://github.com/golang/text) - Go libraries for text processing, many involving Unicode.
+- [Backoff](https://github.com/jpillora/backoff) - Simple exponential backoff counter in Go.
 
 ## Links
 
@@ -2278,3 +2280,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Structured logging in Go with slog (2023)](https://mrkaran.dev/posts/structured-logging-in-go-with-slog/) ([Lobsters](https://lobste.rs/s/hdwu80/structured_logging_go_with_slog))
 - [go-update](https://github.com/pete911/go-update) - Simple tool to update go git projects.
 - [Partially-Implemented Interfaces in Go (2023)](https://preslav.me/2023/02/22/partially-implemented-interfaces-in-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/1195v8d/partiallyimplemented_interfaces_in_go/))
+- [Jupiter Project Layout](https://github.com/douyu/jupiter-layout)

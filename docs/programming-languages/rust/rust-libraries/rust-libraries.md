@@ -1052,6 +1052,7 @@
 - [Subenum](https://github.com/paholg/subenum) - Simple proc-macro to derive subsets of enums.
 - [Deluxe](https://github.com/jf2048/deluxe) - Rust procedural macro attribute parser.
 - [transitive](https://github.com/bobozaur/transitive) - Transitive derive macros for Rust.
+- [ffi-opaque](https://github.com/skade/ffi-opaque) - Macro generating correct opaque types.
 
 ## Math
 
@@ -2710,6 +2711,8 @@
 - [openssh-mux-client](https://github.com/openssh-rust/openssh-mux-client) - Rust library to communicate with openssh-mux-server.
 - [Faiss-rs](https://github.com/Enet4/faiss-rs) - Rust bindings to Faiss, the state-of-the-art vector search and clustering library.
 - [yatp](https://github.com/tikv/yatp) - Thread pool in Rust that is adaptive, responsive and generic.
+- [futures-buffered](https://github.com/conradludgate/futures-buffered) - Single future structure: FuturesUnorderedBounded.
+- [QWT](https://github.com/rossanoventurini/qwt) - Rust implementation of the Quad Wavelet Tree.
 
 ## Cargo Plugins
 

@@ -99,6 +99,7 @@
 - [diagrams](https://github.com/diagrams/diagrams) - Embedded domain-specific language for declarative vector graphics.
 - [diagrams-input](https://github.com/diagrams/diagrams-input) - Functions to parse several input formats for diagrams.
 - [codex](https://github.com/ekmett/codex) - Libraries for graphics and font manipulation in Haskell.
+- [isosurfaces2](https://github.com/stla/isosurfaces2) - Some isosurfaces using the marching-cubes2 library.
 
 ## ML
 

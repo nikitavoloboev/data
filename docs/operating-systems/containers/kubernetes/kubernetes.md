@@ -6,7 +6,7 @@ title: Kubernetes
 
 [Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) & [Infra](https://github.com/infrahq/infra) are neat.
 
-[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has cheap servers. [GKE](https://cloud.google.com/kubernetes-engine) has [nicest hosted Kubernetes experience](https://www.reddit.com/r/kubernetes/comments/yag39i/best_managed_kubernetes_platform/).
+[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) or [Kubernetes Cluster Hetzner API Provider](https://github.com/syself/cluster-api-provider-hetzner) are nice as [Hetzner](https://www.hetzner.com/) has cheap servers. [GKE](https://cloud.google.com/kubernetes-engine) has [nicest hosted Kubernetes experience](https://www.reddit.com/r/kubernetes/comments/yag39i/best_managed_kubernetes_platform/).
 
 [Acorn](https://github.com/acorn-io/acorn) is useful. [Authentik](https://github.com/goauthentik/authentik) seems nice for authenticating the cluster.
 
@@ -934,3 +934,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Kubewatch](https://github.com/robusta-dev/kubewatch) - Watch k8s events and trigger Handlers.
 - [Pluto](https://github.com/FairwindsOps/pluto) - CLI tool to help discover deprecated apiVersions in Kubernetes.
 - [Elastic Cloud on Kubernetes (ECK)](https://github.com/elastic/cloud-on-k8s)
+- [Kubernetes Cluster Hetzner API Provider](https://github.com/syself/cluster-api-provider-hetzner) - Provides a consistent deployment and day 2 operations of "self-managed" Kubernetes clusters on Hetzner.

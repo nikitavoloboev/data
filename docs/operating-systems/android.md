@@ -100,3 +100,4 @@ title: Android
 - [Android Basics with Compose course](https://developer.android.com/courses/android-basics-compose/course)
 - [Android SDKs for Swift](https://github.com/buttaface/swift-android-sdk)
 - [Flashlight](https://github.com/bamlab/flashlight) - Measure the performance of any Android app.
+- [The code that wasn't there: Reading memory on an Android device by accident (2023)](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/)

@@ -203,3 +203,4 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 - [Redbubble](https://www.redbubble.com/) - Awesome products designed by independent artists.
 - [Shop Minis](https://shop.app/minis) - Build for a new era of mobile commerce.
 - [Hydrogen](https://github.com/Shopify/hydrogen) - Tools, utilities, and best-in-class examples for building a commerce application with Remix.
+- [Nuxt Medusa](https://github.com/Baroshem/nuxt-medusa) - Medusa module for Nuxt.

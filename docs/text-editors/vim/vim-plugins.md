@@ -242,6 +242,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Rosé Pine](https://github.com/rose-pine/neovim) - Soho vibes for Neovim.
 - [Kanagawa](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [Catppuccin for NeoVim](https://github.com/catppuccin/nvim)
+- [Pets.nvim](https://github.com/giusgad/pets.nvim) - Display pets in your editor.
 
 ## Syntax
 

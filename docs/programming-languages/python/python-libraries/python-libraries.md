@@ -1160,6 +1160,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Param](https://github.com/holoviz/param) - Make your Python code clearer and more reliable by declaring Parameters.
 - [pybool_ir](https://github.com/hscells/pybool_ir) - Toolkit for domain-specific information retrieval experimentation.
 - [Logbook](https://github.com/getlogbook/logbook) - Nice logging replacement.
+- [Funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.
 
 ## Notes
 

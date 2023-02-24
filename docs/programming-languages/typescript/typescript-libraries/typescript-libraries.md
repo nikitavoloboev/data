@@ -814,6 +814,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Sub37](https://github.com/alexandercerutti/sub37) - Utility to parse, serve and show subtitles in video medias.
 - [Autoconsent](https://github.com/duckduckgo/autoconsent) - Library of rules for navigating through common consent popups on the web.
 - [unctx](https://github.com/unjs/unctx) - Composables in vanilla JS.
+- [nodl](https://github.com/emilwidlund/nodl) - Framework for node-based applications. Leveraged by RxJS and Zod.
 
 ## Links
 

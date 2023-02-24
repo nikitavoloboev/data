@@ -144,3 +144,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Patterns](https://www.patterns.app/) - Build mission-critical integrations, automations, and workflows with GPT from a powerful set of building blocks. ([Components](https://github.com/patterns-app/patterns-components))
 - [AskHN - Collective GPT-embodied wisdom of Hacker News (2023)](https://www.patterns.app/blog/2023/02/19/ask-hn-gpt-embeddings-question-answering/) ([HN](https://news.ycombinator.com/item?id=34897773))
 - [embeddings-splitter](https://github.com/another-ai/embeddings-splitter) - TypeScript library to help you use OpenAI Embeddings.
+- [Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode) - ChatGPT for Visual Studio Code.

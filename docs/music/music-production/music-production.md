@@ -532,3 +532,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [easyvst](https://github.com/Boscop/easyvst) - Helper crate for creating VST audio plugins easily.
 - [Peel](https://peel.fm/) - Drum machine in your browser. ([HN](https://news.ycombinator.com/item?id=34795155))
 - [Cyber Music Studio](https://severak.github.io/cyber-music-studio/) - Standalone in-browser app for recording and mixing music. ([Code](https://github.com/severak/cyber-music-studio))
+- [SWS Extension](https://github.com/reaper-oss/sws) - Collection of features that seamlessly integrate into REAPER.

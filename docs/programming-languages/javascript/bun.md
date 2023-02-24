@@ -52,3 +52,4 @@ I never use [Node](../../web/nodejs/nodejs.md) now as Bun is simply faster and h
 - [Grapie](https://github.com/gaurishhs/grapie) - SSR framework for Bun.
 - [Eden](https://github.com/elysiajs/eden) - Fully type-safe Elysia client.
 - [Using LiteFS with Bun on Fly.io (2023)](https://webreflection.medium.com/using-litefs-with-bun-on-fly-io-55529096fff4)
+- [Setup Bun](https://github.com/oven-sh/setup-bun) - Download, install, and setup Bun in GitHub Actions.

@@ -29,6 +29,7 @@ title: Vue.js
 - [Nuxt 3 + Medium (n3dium)](https://github.com/danielroe/n3dium)
 - [Avantage](https://github.com/jurassicjs/avantage) - Accelerate building full stack node applications with Nuxt 3.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board desktop application with a focus on simplicity and user experience.
+- [Marchant Web](https://github.com/marchantweb/Marchant-Web) - Nuxt 3 project that centers around a WebGL visualization that ebs and flows into each page.
 
 ## Notes
 

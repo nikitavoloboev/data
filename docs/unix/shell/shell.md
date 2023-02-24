@@ -291,3 +291,4 @@ All active variables can be seen by running `env`.
 - [zig-embshell](https://github.com/ringtailsoftware/zig-embshell) - Small embeddable command line shell in zig.
 - [Shells are Two Things](https://borretti.me/article/shells-are-two-things) ([Lobsters](https://lobste.rs/s/sqtnxf/shells_are_two_things))
 - [Ask HN: Are alternative (oil, nu, etc.) shells usable as daily drivers? (2023)](https://news.ycombinator.com/item?id=34722208)
+- [Shellclear](https://github.com/rusty-ferris-club/shellclear) - Secure shell history commands by finding sensitive data.

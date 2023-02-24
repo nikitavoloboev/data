@@ -14,6 +14,8 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 
 [Thirdweb](https://thirdweb.com/) seems like a nice dev framework.
 
+Want to study [Dexterity](https://github.com/solana-labs/dexterity) code for how to build a decentralized exchange.
+
 ## Consensus algorithms
 
 - PoW: The more hashing power the more trust worthy.
