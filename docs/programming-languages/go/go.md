@@ -36,6 +36,7 @@ It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/go
 
 ## Notes
 
+- 1 module should be contained in 1 git repo. If you have need for multiple repos make them each a module.
 - I can call functions from anywhere if they are in the same package.
 - The package “main” tells the Go compiler that the package should compile as an executable program instead of a shared library.
 - Note that any type implements the empty interface interface{} because it doesn't have any methods and all types have zero methods by default.

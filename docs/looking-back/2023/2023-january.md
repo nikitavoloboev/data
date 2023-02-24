@@ -16,7 +16,7 @@ This winter has been cold and as I don't have money for heating, it's often hard
 
 One thing that stops me from going fully [depressed](../../health/depression.md) and losing hope for future is that I've felt this feeling of complete loss of hope before. I remember wanting to just [die](../../life/death.md) and end it rather than suffer more. But eventually things improved even if slightly. So I try to keep that in mind whenever things get tough or even painful. Hope is a powerful thing if you truly believe it.
 
-On this note, I am trying hard to get new [LA](https://github.com/learn-anything/learn-anything) deployed. It's exciting project and I hope once it's released, it will be something that people will be willing to pay money for. Will celebrate with getting my sister a computer and some fancy food. ♥️
+On this note, I am [trying hard](https://twitter.com/nikitavoloboev/status/1629051875466027008) to get new [LA](https://github.com/learn-anything/learn-anything) deployed. It's exciting project and I hope once it's released, it will be something that people will be willing to pay money for. Will celebrate with getting my sister a computer and some fancy food. ♥️
 
 ## Saw
 

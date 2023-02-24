@@ -57,3 +57,4 @@
 - [esgleam](https://github.com/bwireman/esgleam) - esbuild plugin for gleam.
 - [maths](https://github.com/gleam-community/maths) - Basic mathematics library containing fundamental functions and utilities.
 - [ansi](https://github.com/gleam-community/ansi) - ANSI colors, formatting, and control codes.
+- [Gleam Erlang](https://github.com/gleam-lang/erlang) - Library for making use of Erlang specific code.

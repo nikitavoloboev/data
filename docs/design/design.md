@@ -10,6 +10,8 @@ I also use [Excalidraw](https://excalidraw.com/) to sketch out [problems I am so
 
 I keep a list of [inspiring designs](design-inspiration.md).
 
+[Arc](https://arc.net/) has nice design team. Love their video on how they did [design feedback meetings](https://www.youtube.com/watch?v=qixx7ESrJQg).
+
 ## Notes
 
 - [A good way to make your interface look “designed” is to use a consistent space scale](https://twitter.com/siddharthkp/status/1264578950799523843)
@@ -273,3 +275,4 @@ I keep a list of [inspiring designs](design-inspiration.md).
 - [Noya](https://www.noya.io/home) - New kind of design tool. ([HN](https://news.ycombinator.com/item?id=34848583))
 - [Purrity Creative illustrations for websites and applications](https://www.getillustrations.com/illustration-pack/purrity-illustrations)
 - [DesignHeaven](https://github.com/dimitrisraptis96/design-heaven) - Stunning free design resources for designers and developers.
+- [Startup CEO records entire meeting with designer Live Footage (2023)](https://www.youtube.com/watch?v=qixx7ESrJQg)
