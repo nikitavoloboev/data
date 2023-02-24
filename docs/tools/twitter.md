@@ -4,7 +4,7 @@ title: Twitter
 
 # [Twitter](https://twitter.com/)
 
-Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension with [couple css tweaks](https://twitter.com/nikitavoloboev/status/1629050086700339200) when I browse Twitter on [Safari](../web/browsers/safari.md) in [separate window](https://twitter.com/nikitavoloboev/status/1601959862648582145) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
+Use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) extension with [couple css tweaks](https://twitter.com/nikitavoloboev/status/1629050086700339200) that hides badges, [view count](https://twitter.com/nikitavoloboev/status/1629080048568344576) and [more](https://twitter.com/nikitavoloboev/status/1629077068045508608) when I browse Twitter on [Safari](../web/browsers/safari.md) in [separate window](https://twitter.com/nikitavoloboev/status/1601959862648582145) (with `jk` [keyboard binds](https://help.twitter.com/en/using-twitter/how-to-tweet) to move between tweets, `l` to like, `b` to bookmark, `r` to reply). And official app on iOS.
 
 I love Twitter as it's currently still the best place to stream your thoughts to public and have others interact with it in real time. Nothing yet comes close to the network and UX of Twitter for doing this. Except maybe [Elk](https://elk.zone) client for [Mastodon](../social-networks/mastodon.md).
 
@@ -35,6 +35,56 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 [How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
 
 [Bird SQL](https://www.perplexity.ai/sql) is nice way to search Twitter.
+
+## CSS code to clean up Twitter
+
+My [Cascadea](https://cascadea.app/) CSS code I use is here:
+
+```css
+[aria-label="1 unread items"] {
+ display: none;
+}
+
+[aria-label="2 unread items"] {
+ display: none;
+}
+
+[aria-label="3 unread items"] {
+ display: none;
+}
+
+[aria-label="4 unread items"] {
+ display: none;
+}
+
+[aria-label="5 unread items"] {
+ display: none;
+}
+
+[aria-label="6 unread items"] {
+ display: none;
+}
+
+[aria-label="7 unread items"] {
+ display: none;
+}
+
+[aria-label="undefined unread items"] {
+ display: none;
+}
+
+[aria-label="Home"] {
+ display: none;
+}
+
+[aria-label="New Tweets are available. Push the period key to go to the them."] {
+ display: none;
+}
+
+article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
+	display: none;
+}
+```
 
 ## Interesting hash tags
 
