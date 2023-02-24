@@ -12,7 +12,7 @@ I have trust Twitter will improve despite questionable past decisions. They will
 
 I'd also love it if they could make bookmarking tweets fast on mobile. Ideally by allowing users to swap the view count on tweets in the feed with a bookmark icon similar to what you see when you open a tweet in full view. I often use bookmarks for interesting things I want to see in detail later and it takes too long time to bookmark now. 😞
 
-Also the fact that Twitter still shows [your own tweets on your timeline feed](https://twitter.com/mountain_ghosts/status/1628509280625197059) is insane to me.
+Also the fact that Twitter still shows [your own tweets on your timeline feed](https://twitter.com/mountain_ghosts/status/1628509280625197059) is insane to me. Would also love it if you could make the badge on notification icon to [only show the number for new replies](https://twitter.com/nikitavoloboev/status/1629085529265393668).
 
 I'd also love for something like [Nostr](../social-networks/nostr.md) or [Farcaster](../social-networks/farcaster.md) protocols to power a service like Twitter with all the UX niceness that Twitter has. [Decentralization](../networking/decentralization.md) has its issues but I think in the long term, a true public web square should be in the power of the community.
 
@@ -40,51 +40,51 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 
 Use [Cascadea](https://cascadea.app/) extension to on Safari, hide some annoying/distracting elements with CSS selectors. Code for it below.
 
-It hides badges on the [notification icon](https://twitter.com/nikitavoloboev/status/1629050086700339200), [view counts on tweets](https://twitter.com/nikitavoloboev/status/1629080048568344576), ['new tweets' banner](https://twitter.com/nikitavoloboev/status/1629077068045508608) and few more things.
+It hides [badges on the notification icon](https://twitter.com/nikitavoloboev/status/1629050086700339200), [view counts on tweets](https://twitter.com/nikitavoloboev/status/1629080048568344576), ['new tweets' banner](https://twitter.com/nikitavoloboev/status/1629077068045508608) and few more things.
 
 ```css
 [aria-label="1 unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="2 unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="3 unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="4 unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="5 unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="6 unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="7 unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="undefined unread items"] {
- display: none;
+  display: none;
 }
 
 [aria-label="Home"] {
- display: none;
+  display: none;
 }
 
 [aria-label="New Tweets are available. Push the period key to go to the them."] {
- display: none;
+  display: none;
 }
 
 article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
-	display: none;
+  display: none;
 }
 ```
 
