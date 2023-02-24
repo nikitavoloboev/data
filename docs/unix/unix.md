@@ -100,3 +100,4 @@ title: Unix
 - [How fast are Unix domain sockets? (2017)](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)
 - [Transcending POSIX: The End of an Era? (2022)](https://www.usenix.org/publications/loginonline/transcending-posix-end-era)
 - [Chmod Tutorial](https://skorotkiewicz.github.io/techlog/learning-chmod-permissions-in-30-seconds/)
+- [The Elephant in the Room - It's time to get the POSIX elephant off our necks (2022)](https://queue.acm.org/detail.cfm?id=3570921) ([Lobsters](https://lobste.rs/s/ws2n6z/elephant_room_it_s_time_get_posix_elephant))

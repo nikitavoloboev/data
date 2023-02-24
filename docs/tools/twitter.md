@@ -38,7 +38,9 @@ In many ways it's a matter of time that Twitter gets replaced with an open sourc
 
 ## CSS code to clean up Twitter
 
-Use [Cascadea](https://cascadea.app/) extension to on Safari, hide some annoying/distracting elements with CSS selectors. Code for it below.
+I use [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) to clean up many things.
+
+On top of the extension, I use [Cascadea](https://cascadea.app/) extension to on Safari to hide some remaining annoying/distracting elements with CSS selectors. Code for it below.
 
 It hides [badges on the notification icon](https://twitter.com/nikitavoloboev/status/1629050086700339200), [view counts on tweets](https://twitter.com/nikitavoloboev/status/1629080048568344576), ['new tweets' banner](https://twitter.com/nikitavoloboev/status/1629077068045508608) and few more things.
 

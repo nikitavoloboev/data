@@ -1060,3 +1060,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Learn Rust With JetBrains IDEs (2023)](https://blog.jetbrains.com/rust/2023/02/21/learn-rust-with-jetbrains-ides/)
 - [Why does this Rust program leak memory? (2023)](https://www.youtube.com/watch?v=YB6LTaGRQJg)
 - [Keyword Generics Progress Report: February 2023](https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html) ([Reddit](https://www.reddit.com/r/rust/comments/119y8ex/keyword_generics_progress_report_february_2023/))
+- [Statefulness in GUIs (2023)](https://samsartor.com/guis-1/)
+- [Faking Algebraic Effects and Handlers With Traits: A Rust Design Pattern (2022)](https://blog.shtsoft.eu/2022/12/22/effect-trait-dp.html)

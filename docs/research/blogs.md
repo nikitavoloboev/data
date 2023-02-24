@@ -358,6 +358,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Tomek Korbak](https://tomekkorbak.com/blog/)
 - [Philipp Schmid](https://www.philschmid.de/)
 - [EmNudge](https://emnudge.dev/)
+- [Sam Sartor](https://samsartor.com/)
 
 ## Notes
 
