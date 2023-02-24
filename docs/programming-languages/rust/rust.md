@@ -1062,3 +1062,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Keyword Generics Progress Report: February 2023](https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html) ([Reddit](https://www.reddit.com/r/rust/comments/119y8ex/keyword_generics_progress_report_february_2023/))
 - [Statefulness in GUIs (2023)](https://samsartor.com/guis-1/)
 - [Faking Algebraic Effects and Handlers With Traits: A Rust Design Pattern (2022)](https://blog.shtsoft.eu/2022/12/22/effect-trait-dp.html)
+- [Pretty Rust backtraces in raw terminal mode (2023)](https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/)

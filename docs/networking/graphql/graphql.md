@@ -6,7 +6,7 @@ title: GraphQL
 
 [GraphJin](https://github.com/dosco/graphjin) is interesting for setting up GraphQL APIs. [URQL](https://formidable.com/open-source/urql/) is great GraphQL react client.
 
-[Grafbase](https://grafbase.com/), [GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/), [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [GQty](https://github.com/gqty-dev/gqty) & [Pothos GraphQL](https://github.com/hayes/pothos) look interesting too. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
+[Grafbase](https://grafbase.com/), [GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/), [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [GQty](https://github.com/gqty-dev/gqty), [Pothos GraphQL](https://github.com/hayes/pothos) & [garph](https://github.com/stepci/garph) look interesting. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
 
 [One Week GraphQL](https://oneweekgraphql.com/) is great course.
 

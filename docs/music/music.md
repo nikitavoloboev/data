@@ -254,3 +254,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Hearkus](https://github.com/hearkus/hearkus) - Innovative platform for music lovers to explore and share their passions.
 - [How I organize my digital music collection (2023)](https://felixcrux.com/blog/how-i-organize-my-digital-music-collection)
 - [Music Theory](https://badd10de.dev/notes/music-theory.html)
+- [Chromatone](https://chromatone.center/) - Universal color music notation for visualization and communication. ([Code](https://github.com/chromatone/chromatone.center))

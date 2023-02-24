@@ -6,6 +6,8 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 
 [Ladle](https://github.com/tajo/ladle) seem like nice alternative to [Storybook](https://storybook.js.org/). [How to use Props in React](https://www.robinwieruch.de/react-pass-props-to-component/) is a good read.
 
+[Sonner](https://github.com/emilkowalski/sonner) has nice component code.
+
 ## Notes
 
 - [Design System opinion: Don't make your <Link\> and <Button\> components support both link and button visuals. Do make your <Link\> and <Button\> components renders either <a\> or <button\> based on the props passed to it ("to" should render an anchor, "onClick" should render a button)](https://twitter.com/buildsghost/status/1389294014222934018)
