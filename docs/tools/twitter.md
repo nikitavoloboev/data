@@ -42,6 +42,8 @@ Use [Cascadea](https://cascadea.app/) extension to on Safari, hide some annoying
 
 It hides [badges on the notification icon](https://twitter.com/nikitavoloboev/status/1629050086700339200), [view counts on tweets](https://twitter.com/nikitavoloboev/status/1629080048568344576), ['new tweets' banner](https://twitter.com/nikitavoloboev/status/1629077068045508608) and few more things.
 
+Final result should look [like this](https://twitter.com/nikitavoloboev/status/1629105196356739073).
+
 ```css
 [aria-label="1 unread items"] {
   display: none;
@@ -88,6 +90,13 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 }
 
 div[data-testid="ScrollSnap-SwipeableList"] {
+  display: none;
+}
+
+div.css-1dbjc4n.r-1awozwy.r-1e081e0.r-1f1sjgu {
+  display: none;
+}
+div.css-1dbjc4n.r-j5o65s.r-qklmqi.r-1phboty {
   display: none;
 }
 ```
