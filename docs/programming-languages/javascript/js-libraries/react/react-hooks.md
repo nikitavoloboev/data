@@ -242,6 +242,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [useShareState](https://github.com/gus3inov/use-share-state) - Share state between tabs/windows.
 - [Frontend Essentials](https://github.com/theninthsky/frontend-essentials) - Set of useful functions, components and hooks.
 - [useScramble](https://github.com/tol-is/use-scramble) - React-hook to create randomized text animation.
+- [react-query-kit](https://github.com/liaoliao666/react-query-kit) - Toolkit for ReactQuery that make ReactQuery reusable and typesafe.
 
 ## Code
 

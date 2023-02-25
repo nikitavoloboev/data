@@ -10,7 +10,7 @@ title: PostgreSQL
 
 Want to try build something on top of [pgproto3](https://github.com/jackc/pgproto3). Also trying out [pgx](https://github.com/jackc/pgx) as a Go lib to query Postgres.
 
-[Inquery](https://github.com/inqueryio/inquery) & [Pg_GraphQL](https://github.com/supabase/pg_graphql) are useful.
+[Inquery](https://github.com/inqueryio/inquery), [Pg_GraphQL](https://github.com/supabase/pg_graphql) & [IaSQL](https://github.com/iasql/iasql-engine) are useful.
 
 ## Notes
 
