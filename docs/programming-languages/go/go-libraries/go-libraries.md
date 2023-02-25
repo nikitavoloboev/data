@@ -415,6 +415,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [assetserver](https://github.com/cespare/assetserver) - Go file server for web assets.
 - [gurl](https://github.com/fogfish/gurl) - Combinator library for network I/O.
 - [WebGo](https://github.com/bnkamalesh/webgo) - Minimalistic router for Go to build web applications (server side) with no 3rd party dependencies.
+- [htmlquery](https://github.com/antchfx/htmlquery) - XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
 
 ## GraphQL
 
