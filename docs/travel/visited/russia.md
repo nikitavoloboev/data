@@ -12,7 +12,7 @@ With that said, here is my reading on why an active [invasion of Ukraine in 2022
 
 The war with Ukraine started with [annexation of Crimea](https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation). Since then internationally this annexation was never accepted. Ukraine had [greatly reduced water flow to Crimea](https://en.wikipedia.org/wiki/North_Crimean_Canal). The [expensive bridge built by Russia to Crimea](https://en.wikipedia.org/wiki/Crimean_Bridge) is not enough to sustain the region properly.
 
-Then there is west of Ukraine infighting that started to happen post 2014 all until 2022 before the active phase of war happened. I don't fully understand why, most say it was a way to sow instability in Ukraine by Russia funding local mercenaries in the region.
+Then there is east of Ukraine infighting that started to happen post 2014 all until 2022 before the active phase of war happened. I don't fully understand why, most say it was a way to sow instability in Ukraine by Russia funding local mercenaries in the region.
 
 In 2022, the actual decision to move military towards Ukraine was made, most probably for these reasons (in order of importance from my view).
 
