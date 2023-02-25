@@ -8,6 +8,8 @@ There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/statu
 
 What's wild to me is just how [few people can write code](https://twitter.com/Ruchin_Kulkarni/status/1522063234378780672) still. I hope this number grows as it's incredibly empowering being able to automate parts of your life to focus on more fun and exciting things in life.
 
+Love educational videos with code like [this](https://www.youtube.com/watch?v=lXDDNM5rZQI) or [this](https://www.youtube.com/watch?v=Epwlk4B90vk).
+
 ## Notes
 
 - Try to use multiple aspects of your brain at once when learning. One of the best "learn about learning" lessons I ever had was studying jazz theory. My teacher used a four-way method of learning chords - say the name of the chord, visualize it on the keyboard, feel the shape your hands make to play the chord, and listen to the sound of the chord. I've applied this sort of approach to all sorts of skills since then.

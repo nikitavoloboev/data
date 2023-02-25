@@ -58,3 +58,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [Cont-Signal](https://github.com/rkirov/cont-signal) - Continuations based Signals JS framework.
 - [Проектируем идеальную систему реактивности](https://page.hyoo.ru/#!=eh2o9_cl9nuy/View%22eh2o9_cl9nuy%22.Details=Reactive%20ReactJS)
 - [JS Reactivity Benchmark](https://github.com/modderme123/js-reactivity-benchmark)
+- [Why are people SO obsessed with useSignal()? (2023)](https://www.youtube.com/watch?v=lXDDNM5rZQI)
