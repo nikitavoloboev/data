@@ -1,6 +1,6 @@
 # 2023 January
 
-![](https://images.nikiv.dev/broke-2023.png)
+![](https://images.nikiv.dev/broke-23.png)
 
 I'm living the sketch of being so broke where the [bank charges me money for being too broke](https://www.youtube.com/watch?v=Y_-1l_SlA7c).
 
@@ -24,7 +24,7 @@ On this note, I am [trying hard](https://twitter.com/nikitavoloboev/status/16290
 
 ## Listened
 
-![](https://images.nikiv.dev/volt-january-2023.png)
+![](https://images.nikiv.dev/volt-january-23.png)
 
 [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) takes a special place this month.
 

@@ -6,29 +6,37 @@ I try to keep all code I write [open source](../open-source/open-source.md). And
 
 ## ~/Desktop
 
-My Desktop is nearly always empty. It acts as a kind of `temp` folder where every file that is put there needs to be acted upon and either moved to some other place in my system or deleted.
+Think of Desktop as a kind of `todo` pile. Just folders/files that either I am actively working on.
 
-I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/clean-folders) to completely trash everything inside `~/Desktop` with one hotkey. I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) to quickly scan the contents of `~/Desktop` from Alfred.
+![](https://images.nikiv.dev/desktop-23.png)
+
+> One example of how it looks
+
+The `move` folder is when things get out of control with too many files ~/Desktop, I 'archive' them for later into `move` folder to sort later.
 
 ## ~/Documents
 
-All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone via Alfred search.
+Contains pretty much all my non code files/videos/.. The folder synced with iCloud and I can access it from my phone too.
 
 ```Bash
 ~/Documents
 ❯ exa
-AudioBooks  Books  Design  Docs  LA  Learn  Music  Org  Papers  PDFs  Personal  Videos  Zoom
+AudioBooks Books Design Docs Dropcode Images LA Learn Music Org Other Papers PDFs Personal Screen Studio Tax Use Video WebArchives
 ```
 
 ## ~/Downloads
 
-I try to keep this folder like `Desktop` always empty. This is the folder where I download things to from the browser as well as other places.
+A huge folder of downloads, both [torrent](../networking/peer-to-peer/bittorrent.md) and from a browser.
 
-I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Recent%20Downloads.alfredworkflow?raw=true) to scan through contents of it from Alfred.
+I sort the folder by `recently modified` in Finder and act on each file as need arises.
+
+Once in a while I try sort through contents of it so the folder doesn't get too large without items being acted upon. Ideally useful things are neatly organized into `~/Documents`.
+
+I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Recent%20Downloads.alfredworkflow?raw=true) to scan through contents of the folder from Alfred quickly. Workflow will show most recently added item as first item so I can instantly press `return` to open it.
 
 ## ~/src
 
-Everything that is code is put into this folder.
+Everything that is code is put into this folder. Share some contents of it [here](https://github.com/nikitavoloboev/#src).
 
 ```Bash
 ~/src
@@ -36,25 +44,11 @@ Everything that is code is put into this folder.
 cli config curated docs extensions games go.work lib new orgs other personal run scripts web
 ```
 
-## ~/src/clones
+## ~/clones
 
-I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use [km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
+I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use [km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
 
 I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
-
-## ~/src/orgs
-
-Inside this folder I keep all code from orgs I am working or worked on.
-
-```Bash
-~/src/orgs
-❯ exa
-learn-anything
-```
-
-## ~/src/learning
-
-The folder is OSS on [GitHub](https://github.com/nikitavoloboev/learning). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas.
 
 ## ~/src/extensions
 
@@ -90,7 +84,7 @@ books             command-line-tools  documentaries  firefox-extensions  github-
 
 ## ~/Dropbox
 
-Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone with [Ulysses](https://ulysses.app).
+No longer use Dropbox.
 
 ```bash
 ~/Dropbox

@@ -26,7 +26,7 @@ Use [Cakedesk](https://cakedesk.app/) to create invoices but want to make someth
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up. The app I mentioned above will cover the use case of Bobby too so hopefully I won't need this app in future.
 
-![](https://images.nikiv.dev/bobby-2022.png)
+![](https://images.nikiv.dev/bobby-22.png)
 
 ## Tracking what to buy next
 
