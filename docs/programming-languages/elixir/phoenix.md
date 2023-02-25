@@ -146,3 +146,4 @@ title: Phoenix framework
 - [Phoenix LiveView Free Course](https://pragmaticstudio.com/courses/phoenix-liveview)
 - [RequestCache](https://github.com/MikaAK/request_cache_plug) - Request caching for Phoenix & Absinthe (GraphQL), short circuiting even the JSON decoding/encoding.
 - [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss (2023)](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss) ([HN](https://news.ycombinator.com/item?id=34804627))
+- [Phoenix 1.7.0 released: Built-in Tailwind, Verified Routes, LiveView Streams, and what's next (2023)](https://phoenixframework.org/blog/phoenix-1.7-final-released)

@@ -225,3 +225,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [HTML To SolidJSX](https://solidjs-community.github.io/html-to-solidjsx/) ([Code](https://github.com/solidjs-community/html-to-solidjsx))
 - [Vite Plugin Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg) - Vite plugin to Import SVG files as Solid.js Components.
 - [Data Fetching in SolidJS: How to Use createResource (2023)](https://www.youtube.com/watch?v=A5_58oenCqk)
+- [pRPC](https://github.com/OrJDev/prpc) - Write simple and interactive SolidStart code that will run on the server but will easily be used on the client. ([Tweet](https://twitter.com/OrJDevv/status/1629142063315910657?s=20))

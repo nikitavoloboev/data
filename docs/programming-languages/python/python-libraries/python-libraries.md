@@ -1379,3 +1379,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Data Classification: Does Python still have a need for class without dataclass?](https://blog.glyph.im/2023/02/data-classification.html) ([HN](https://news.ycombinator.com/item?id=34787092))
 - [One does not simply 'pip install' (2023)](https://www.ianwootten.co.uk/2023/02/17/one-does-not-simply-pip-install/) ([HN](https://news.ycombinator.com/item?id=34835097))
 - [lazy_loader](https://github.com/scientific-python/lazy_loader) - Makes it easy to load subpackages and functions on demand.
+- [Awesome pyproject.toml](https://github.com/carlosperate/awesome-pyproject)

@@ -19,6 +19,7 @@ Evaluating using Raycast as my main plugin interface. Currently use [Alfred](../
 - [1Password extension for Raycast](https://github.com/dteare/raycast-1password-extension)
 - [Sourcegraph for Raycast](https://github.com/bobheadxi/raycast-sourcegraph) - Search code, browse Notebooks, and manage Batch Changes.
 - [Supabase Raycast](https://github.com/Rychillie/raycast-supabase/) - Raycast extension to manage your Supabase project.
+- [Raycast Gallery](https://github.com/thmsbfft/raycast-gallery) - Display and search images from a selection of folders.
 
 ## Notes
 

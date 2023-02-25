@@ -8,7 +8,7 @@ title: Svelte
 
 [Svelte Query](https://sveltequery.vercel.app/) is great for requests. [Marko](https://markojs.com/) is a nice alternative to Svelte that's also [compiler based](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s). I personally use [SolidJS](../js-libraries/solid.md) for all my web apps/sites.
 
-[CRStore](https://github.com/Azarattum/CRStore) is interesting.
+[CRStore](https://github.com/Azarattum/CRStore) & [Houdini](https://github.com/HoudiniGraphql/houdini) are interesting.
 
 ## Example sites
 

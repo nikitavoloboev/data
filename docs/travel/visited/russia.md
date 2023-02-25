@@ -6,7 +6,9 @@ Russian culture and history is [fascinating](https://www.youtube.com/watch?v=9Lx
 
 It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
 
-All [based of greed](https://twitter.com/ChrisO_wiki/status/1619990400508510208?t=MnC5Fdl551WZEk5TFAJIFQ&s=19) & [Putin's blind aspirations](https://www.youtube.com/watch?v=kSNo2FPQDQw) and delusions that this would be a 3 day operation. My reading on why this decision was made (mostly based off reading [Credible Defense](https://www.reddit.com/r/CredibleDefense/) discussions) are:
+All based of [greed](https://twitter.com/ChrisO_wiki/status/1619990400508510208?t=MnC5Fdl551WZEk5TFAJIFQ&s=19), [being upset with status quo](https://meduza.io/feature/2023/02/24/imperskaya-formula-prinyata-ofitsialno-rossiya-nigde-ne-zakanchivaetsya) & [Putin's blind aspirations](https://www.youtube.com/watch?v=kSNo2FPQDQw) and delusions that this would be a 3 day operation together with [fear of losing power](https://youtu.be/k4aefs6aVDM?t=373).
+
+My reading on why this decision was made on top of the above reasons (mostly based off reading [Credible Defense](https://www.reddit.com/r/CredibleDefense/) discussions) are:
 
 1. Get land access to illegally annexed Crimea and solve [Crimea's cut water situation](https://www.youtube.com/watch?v=Aqq8clIceys).
 2. [Prevent Ukraine from getting access and export of its natural gas reserves](https://www.reddit.com/r/worldnews/comments/zq9bcr/comment/j0xynfb/?context=3), only to then [transfer it to few designated people](https://twitter.com/ChrisO_wiki/status/1619990400508510208).
@@ -14,6 +16,8 @@ All [based of greed](https://twitter.com/ChrisO_wiki/status/1619990400508510208?
 4. Lastly, but doubt these had any weigh in as political alternatives in Russia were outright destroyed by year 2022. Successful operation as repeat of Crimea would boost Putin's political support and give at least some argument for why Putin can get reelected in 2024.
 
 Official reasoning of denazification and supposed protection of borders from NATO bases expanding are [completely made up](https://www.reddit.com/r/CredibleDefense/comments/10rp9hg/comment/j6wxsae/?context=3) and it's tragic that so many Russians believe in this for whatever reason. Be it to cope with the reality that Russia can actually be on the bad side of history or simply not thinking rationally about what is actually happening in reality.
+
+Some say, Putin was [winning the war in Ukraine until he decided to start full on invasion](https://www.reddit.com/r/CredibleDefense/comments/11aqutn/comment/j9uabw7/).
 
 It is clear that after the initial attack of this 3 day operation failed, there were no further plans made on how to adapt to prolonged conflict and Russia's government has been trying to survive politically ever since. All signs of even fake democracy were stripped and citizens started to get [jailed for the littlest of things](https://www.youtube.com/watch?v=9H3E9FRjAzk) in discussing the state of the war.
 

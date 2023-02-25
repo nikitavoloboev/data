@@ -371,3 +371,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Clang Metagen Deno](https://github.com/shirakaba/clang_metagen_deno) - Deno-based program for generating FFI metadata for languages like Obj-C using the Clang APIs.
 - [Gelatin](https://github.com/load1n9/gelatin) - Speedy WASM layout library for Deno using taffy.
 - [Deno Native Messaging Host](https://github.com/guest271314/native-messaging-deno)
+- [Deno 1.31: Package.json Support (2023)](https://deno.com/blog/v1.31) ([HN](https://news.ycombinator.com/item?id=34925275))

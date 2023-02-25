@@ -119,3 +119,4 @@ title: Flutter
 - [Flutter desktop isn’t there yet (2023)](https://plei.one/blog/flutter-desktop-not-there-yet/) ([HN](https://news.ycombinator.com/item?id=34643291))
 - [Tauri - The Flutter killer? (2023)](https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27)
 - [Using Flutter Rust bridge in 2023](https://www.zaynetro.com/post/flutter-rust-bridge-2023/)
+- [FlutterFire CLI](https://github.com/invertase/flutterfire_cli) - CLI to help with using Firebase in your Flutter applications.

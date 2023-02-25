@@ -109,3 +109,4 @@ title: Chemistry
 - [gauche](https://github.com/leojklarner/gauche) - Library for Gaussian Processes in Chemistry.
 - [Awesome Chemistry Datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets)
 - [Pura](https://github.com/sustainable-processes/pura) - Clean chemical and reaction data.
+- [MolSkill](https://github.com/microsoft/molskill) - Learning chemical intuition from humans in the loop.
