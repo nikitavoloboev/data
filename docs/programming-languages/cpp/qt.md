@@ -23,7 +23,7 @@ title: Qt
 - [VLC and Qt a History (2020)](https://www.youtube.com/watch?v=P1qMAupb2_Y) ([HN](https://news.ycombinator.com/item?id=25099526))
 - [Qt Desktop Days 2020](https://www.youtube.com/playlist?list=PL6CJYn40gN6gK8l5VXdt7WNRPmhbt0VoQ)
 - [Qt Widgets and more (2020)](https://www.youtube.com/playlist?list=PL6CJYn40gN6gf-G-o6syFwGrtq3kItEqI)
-- [install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows.
+- [install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your GitHub Actions workflows.
 - [Qt and CMake: The Past, the Present and the Future (2021)](https://www.qt.io/blog/qt-and-cmake-the-past-the-present-and-the-future)
 - [Qt.py](https://github.com/mottosso/Qt.py) - Minimal Python shim around all Qt bindings.
 - [qt-downloader](https://github.com/engnr/qt-downloader) - CLI to download Qt on headless systems.
@@ -50,3 +50,4 @@ title: Qt
 - [Rust Qt Binding Generator](https://github.com/KDE/rust-qt-binding-generator) - Generate bindings to use Rust code in Qt and QML.
 - [Add moc includes to speed up Qt compilation (2022)](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
 - [Compiling QML to C++: A 4x speedup (2023)](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
+- [LeanCreator](https://github.com/rochus-keller/LeanCreator) - Lean version of Qt Creator. ([HN](https://news.ycombinator.com/item?id=34936635))
