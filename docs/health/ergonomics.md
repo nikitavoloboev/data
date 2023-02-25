@@ -125,3 +125,4 @@ My favorite work setup is something [like this](https://twitter.com/neee_eeed/st
 - [What's the best computer desk chair for under $500?](https://twitter.com/thesamparr/status/1458505674313375746)
 - [Fixing Back Pain Permanently (2023)](https://andrewconner.com/fixing-back-pain/)
 - [Good working chairs](https://twitter.com/manucorporat/status/1627940031196192770)
+- [Desk Controller](https://github.com/davidz-yt/desk-controller) - Keypad to Control my Entire Desk Setup. ([HN](https://news.ycombinator.com/item?id=34893427))
