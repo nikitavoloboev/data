@@ -367,6 +367,7 @@ I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more t
 - [Suggest me your all-time favorite book (2023)](https://www.reddit.com/r/suggestmeabook/comments/111adba/suggest_me_your_alltime_favorite_book/)
 - [My Favorite Books of 2022](https://benjamincongdon.me/blog/2022/12/27/My-Favorite-Books-of-2022/)
 - [20 Genre-Defying Sci-Fi Books That Broke the Mold (2023)](https://bookriot.com/genre-defying-sci-fi-books/)
+- [Historical non-fiction that isn't a dry read (2023)](https://www.reddit.com/r/suggestmeabook/comments/11axpw8/historical_nonfiction_that_isnt_a_dry_read/)
 
 ## Interesting Prose Books
 
