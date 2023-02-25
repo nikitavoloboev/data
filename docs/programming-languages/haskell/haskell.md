@@ -531,3 +531,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Illustrated document about GHC](https://github.com/takenobu-hs/haskell-ghc-illustrated)
 - [Haskell lazy evaluation illustrated](https://github.com/takenobu-hs/lazy_evaluation)
 - [halfsp](https://github.com/masaeedu/halfsp) - Haskell language server that doesn't do much, and does it faster than HLS.
+- [Haskell Playground](https://play.haskell.org/) ([Code](https://github.com/haskell/play-haskell)) ([Release](https://discourse.haskell.org/t/haskell-playground-is-live-at-play-haskell-org/5869))
