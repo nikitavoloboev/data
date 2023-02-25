@@ -1,8 +1,8 @@
 # My file system
 
-I have an intricate system where I put files according to their purpose and context thus I always know where to find them. And I access everything from Alfred.
+I try put files according to their purpose and context thus I always know where to find them. And I access everything from [Alfred](../macOS/apps/alfred/alfred.md)'s [native file search](https://www.alfredapp.com/help/features/file-search/) or [folder search workflow](https://github.com/nikitavoloboev/alfred/tree/master/folder-search).
 
-I expose the [file system with all my code inside `~/src`](https://github.com/nikitavoloboev/#src).
+I try to keep all code I write [open source](../open-source/open-source.md). And also share [all of my `~/src` folder](https://github.com/nikitavoloboev/#src) as it is laid out on my mac.
 
 ## ~/Desktop
 
@@ -33,7 +33,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-cli  curated  extensions  games  learning  lib  orgs  personal  services  web  xcode
+cli config curated docs extensions games go.work lib new orgs other personal run scripts web
 ```
 
 ## ~/src/clones
