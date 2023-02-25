@@ -197,3 +197,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [Papers on the UX of AI programming assistants (2023)](https://austinhenley.com/blog/uxaicoding.html)
 - [Creating a landing page using AI tools and no code](https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code) ([HN](https://news.ycombinator.com/item?id=34860936))
 - [Introduction to Data-Centric AI (2023)](https://dcai.csail.mit.edu/) ([Lobsters](https://lobste.rs/s/qtaba8/mit_introduction_data_centric_ai)) ([HN](https://news.ycombinator.com/item?id=34906593))
+- [Planning for AGI and beyond (2023)](https://openai.com/blog/planning-for-agi-and-beyond/)
