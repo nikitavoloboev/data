@@ -158,3 +158,4 @@ fi
 - [Submitting Workflows for the Alfred Gallery](https://www.alfredforum.com/topic/19058-submitting-workflows-for-the-alfred-gallery/)
 - [awf](https://github.com/mklement0/awf) - CLI for managing Alfred workflows.
 - [Your most used Alfred workflows](https://www.alfredforum.com/topic/19974-your-most-used-workflows/#comment-103218)
+- [Awesome Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows)

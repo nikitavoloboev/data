@@ -20,6 +20,7 @@ Another thing that grealy helped overcome any sadness or depressive thoughts I h
 
 ## Notes
 
+- [The fact that we’ve convinced people that depression is a neuro chemical imbalance and not downstream of a weird way of setting up our lives is one of our most impressive modern inventions.](https://twitter.com/p_millerd/status/1629597433553383425)
 - [Jealousy is natural. You are not a terrible person for feeling jealous. That feeling of jealousy is your responsibility to find ways to work with. And you can find ways to work with it.](https://twitter.com/gildedspine/status/1291863161486880770)
 - [Burnout is a response to repeated attempts to make meaningful change while lacking the agency to do so. See problems > try to fix them > get shot down or ignored.](https://twitter.com/marcysutton/status/1292971874570256385)
 - [You are not “burnt out”. You are exploited, overworked & underpaid. Use language that accurately describes the underlying problem. Your body isn't broken; the conditions you're enduring are what's broken. Your body is accurately & normally responding to exploitation.](https://twitter.com/Hood_Biologist/status/1387941182781771777)

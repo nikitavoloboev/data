@@ -174,3 +174,4 @@ Use [Elk](https://elk.zone/) as my Mastodon client mostly to read [Merveilles lo
 - [Building Mastodon bots with GitHub Actions and toot (2023)](https://til.simonwillison.net/mastodon/mastodon-bots-github-actions)
 - [Self-hosting Mastodon on AWS using Nomad (2023)](https://www.carrot.blog/posts/2023/01/self-hosting-mastodon-aws-nomad/) ([Lobsters](https://lobste.rs/s/i98vi1/self_hosting_mastodon_on_aws_using_nomad))
 - [Mastodon Embedding Tools](https://patrickcurry.com/socials/mastodon/tools/)
+- [Ask HN: Is Mastodon the best alternative to Twitter? (2023)](https://news.ycombinator.com/item?id=34946065)
