@@ -73,3 +73,4 @@ Heard nice things about [Eight Sleep](https://www.eightsleep.com) Pod & mattress
 - [Go-to sleep supplements (2022)](https://www.reddit.com/r/Nootropics/comments/z8dxps/goto_sleep_supplements_one_youve_never_heard_of/)
 - [Let Teenagers Sleep](https://www.scientificamerican.com/article/let-teenagers-sleep/) ([HN](https://news.ycombinator.com/item?id=34780343))
 - [LED lighting badly suppresses human melatonin production at night (2023)](https://www.sevarg.net/2023/02/11/how-your-leds-are-killing-you/) ([HN](https://news.ycombinator.com/item?id=34902429))
+- [What is REM sleep and why is it important?](https://www.nytimes.com/2023/02/25/well/mind/rem-sleep-benefits.html) ([HN](https://news.ycombinator.com/item?id=34945083))
