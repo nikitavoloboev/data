@@ -8,7 +8,7 @@ Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities
 
 [CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
 
-It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/).
+It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). Here is [nice list](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
 
 I hope the war ends soon and Russia gives back the territories it unlawfully gained through war (Donetsk/Luhansk/..) or non vetted referendum (Crimea). And pays for the damages it inflicted to the people of Ukraine. Otherwise the war is most likely to [repeat again in future](https://twitter.com/mdmitri91/status/1534316819481300997).
 
@@ -203,3 +203,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Обыкновенная денацификация. Документальный фильм (2023)](https://www.youtube.com/watch?v=6uicsdZDw-Y)
 - [YEAR - a documentary project by Dmytro Komarov | Part One (2023)](https://www.youtube.com/watch?v=EhssmUtN874) ([Part 2](https://www.youtube.com/watch?v=rlkzADUfb3s))
 - [The War in Ukraine One Year On (2023)](https://www.youtube.com/watch?v=mcERDZR9lpo)
+- [Documentary about the first few days on the war (2023)](https://www.youtube.com/watch?v=Cwdf44EiuRs) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja2ru0x/?utm_source=reddit&utm_medium=web2x&context=3))

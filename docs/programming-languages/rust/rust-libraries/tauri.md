@@ -8,6 +8,8 @@ title: Tauri
 
 [Wails](../../go/go-libraries/wails.md) is nice alternative to Tauri that uses [Go](../../go/go.md) instead of [Rust](../rust.md).
 
+[rspc](https://github.com/oscartbeaumont/rspc) seems useful too.
+
 ## OSS Tauri apps
 
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.

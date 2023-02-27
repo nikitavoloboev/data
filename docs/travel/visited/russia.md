@@ -8,6 +8,8 @@ It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leade
 
 The [extent of this tragedy](https://www.youtube.com/watch?v=EhssmUtN874) is hard to understand in full. [This](https://www.reddit.com/r/CredibleDefense/comments/11cgjkz/comment/ja4w809/) gives a nice summary of what happened in first days of the war.
 
+It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). Here is [nice list](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
+
 I have a maybe naive look on the situation but I do try to operate on facts as much as possible. I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get fact based reporting.
 
 With that said, here is my reading on why an active [invasion of Ukraine in 2022](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine) happened.

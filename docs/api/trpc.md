@@ -8,7 +8,7 @@ title: tRPC
 
 [Here](https://www.youtube.com/watch?v=x4mu-jOiA0Q) is a great intro. I use it as part of [create JD app](https://github.com/OrJDev/create-jd-app) in [Solid](../programming-languages/javascript/js-libraries/solid.md) or [T3 Complete](https://github.com/juliusmarminge/t3-complete) for [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md).
 
-[PicoRPC](https://github.com/fabiospampinato/picorpc) & [Zodios](https://github.com/ecyrbe/zodios) are interesting alternatives.
+[PicoRPC](https://github.com/fabiospampinato/picorpc), [Zodios](https://github.com/ecyrbe/zodios) & [rspc](https://github.com/oscartbeaumont/rspc) are interesting alternatives.
 
 Looking into using [tRPC Server Middleware for Hono](https://github.com/honojs/middleware/tree/main/packages/trpc-server).
 
