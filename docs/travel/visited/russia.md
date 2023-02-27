@@ -6,7 +6,7 @@ Russian culture and history is [rich](https://www.youtube.com/watch?v=9Lx0dGvE4L
 
 It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
 
-The [extent of this tragedy](https://www.youtube.com/watch?v=EhssmUtN874) is hard to understand in full.
+The [extent of this tragedy](https://www.youtube.com/watch?v=EhssmUtN874) is hard to understand in full. [This](https://www.reddit.com/r/CredibleDefense/comments/11cgjkz/comment/ja4w809/) gives a nice summary of what happened in first days of the war.
 
 I have a maybe naive look on the situation but I do try to operate on facts as much as possible. I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get fact based reporting.
 

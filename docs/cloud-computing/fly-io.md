@@ -17,3 +17,4 @@ title: Fly.io
 - [Fly-Log-Shipper](https://github.com/superfly/fly-log-shipper) - Ship logs from fly to other providers using NATS and Vector.
 - [Flying away from AWS (2023)](https://terrateam.io/blog/flying-away-from-aws) ([HN](https://news.ycombinator.com/item?id=34238150))
 - [Ask HN: Are people considering moving off of Fly.io? (2023)](https://news.ycombinator.com/item?id=34742946)
+- [From Go on EC2 to Fly.io (2023)](https://benhoyt.com/writings/flyio/) ([HN](https://news.ycombinator.com/item?id=34953242))
