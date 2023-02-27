@@ -143,3 +143,4 @@ title: Xcode
 - [Squirrel](https://github.com/aheze/Squirrel) - Enable scrolling in the Xcode Simulator.
 - [XCBBuildServiceProxyKit](https://github.com/MobileNativeFoundation/XCBBuildServiceProxyKit) - Framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
 - [ShadowVim](https://github.com/mickael-menu/ShadowVim) - Neovim 𝘪𝘯𝘴𝘪𝘥𝘦 Xcode, for real.
+- [Using App Store Connect API to trigger Xcode Cloud workflows (2023)](https://www.polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows)

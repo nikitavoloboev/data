@@ -15,3 +15,4 @@
 - [Переехал в Тбилиси. Жизнь в Грузии, которую от нас скрывают блогеры (2022)](https://www.youtube.com/watch?v=CbCRgqOheDQ)
 - [Georgia. Interesting Facts About Georgia (2019)](https://www.youtube.com/watch?v=2t6gVLNCm44)
 - [Медицина 💊 Грузия](https://t.me/health_ge)
+- [Культурный тред про Тбилиси (2023)](https://twitter.com/mpltnv/status/1624002117676457986)

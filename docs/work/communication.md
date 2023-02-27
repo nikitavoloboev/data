@@ -14,6 +14,10 @@ It's hard to really know someone's life story based on what others said or wrote
 
 I try to go out my way to meet more people and reach out either physically or online. Doing it when I have something to say and real interest in the person.
 
+Below is a nice diagram for how to deal with any kind of feedback.
+
+![](https://pbs.twimg.com/media/Fpjho6oacAEoIuv?format=png&name=medium)
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)

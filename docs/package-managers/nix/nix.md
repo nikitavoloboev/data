@@ -512,3 +512,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-search](https://github.com/peterldowns/nix-search-cli) - CLI for searching packages on search.nixos.org.
 - [Nix Test Runner](https://github.com/stoeffel/nix-test-runner) - CLI tool to run nix expression tests.
 - [Nix: Reasonable Default Configs (2022)](https://jackson.dev/post/nix-reasonable-defaults/)
+- [Introducing the Determinate Nix Installer (2023)](https://determinate.systems/posts/determinate-nix-installer)
