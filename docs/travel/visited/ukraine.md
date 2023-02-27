@@ -202,3 +202,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [It’s Still Not About the Airplane - War on the Rocks (2023)](https://warontherocks.com/2023/02/amateur-hour-part-iii-its-still-not-about-the-airplane/)
 - [Обыкновенная денацификация. Документальный фильм (2023)](https://www.youtube.com/watch?v=6uicsdZDw-Y)
 - [YEAR - a documentary project by Dmytro Komarov | Part One (2023)](https://www.youtube.com/watch?v=EhssmUtN874) ([Part 2](https://www.youtube.com/watch?v=rlkzADUfb3s))
+- [The War in Ukraine One Year On (2023)](https://www.youtube.com/watch?v=mcERDZR9lpo)

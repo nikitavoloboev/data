@@ -360,6 +360,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [EmNudge](https://emnudge.dev/)
 - [Sam Sartor](https://samsartor.com/)
 - [Conrad Ludgate](https://conradludgate.com/)
+- [Patrick Jackson](https://jackson.dev/post/)
 
 ## Notes
 

@@ -858,3 +858,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Knowledge is a Region in Weight Space for Fine-tuned Language Models (2023)](https://arxiv.org/abs/2302.04863)
 - [LangChain Sidecar](https://github.com/add-context/sidecar) - UI starterkit for building LangChain apps that can be embedded on any website, similar to how Intercom can be embedded.
 - [embedland](https://github.com/danielgross/embedland) - Collection of text embedding experiments.
+- [Understanding large language models](https://github.com/abacaj/transformers)

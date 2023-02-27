@@ -1065,3 +1065,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Pretty Rust backtraces in raw terminal mode (2023)](https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/)
 - [async let - A new concurrency primitve? (2022)](https://conradludgate.com/posts/async-let)
 - [ubrustc](https://github.com/thomcc/ubrustc) - Unborrowed Rust Compiler (rustc without a borrowchecker).
+- [Rust Coreutils: Fixing Low-Hanging Performance Fruit (2022)](https://jackson.dev/post/rust-coreutils-dd/)

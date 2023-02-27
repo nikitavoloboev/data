@@ -35,3 +35,4 @@ title: Tailscale
 - [Tailscale client using Wails](https://github.com/dgrr/tailscale-client)
 - [ionscale](https://github.com/jsiebens/ionscale) - Lightweight implementation of a Tailscale control server.
 - [tclip](https://github.com/tailscale-dev/tclip) - Pastebin for tailscale users.
+- [Replacing Tailscale with a NixOS Module (2022)](https://jackson.dev/post/replacing-tailscale-with-nixos/)
