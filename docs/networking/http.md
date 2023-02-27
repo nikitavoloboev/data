@@ -328,3 +328,4 @@ title: HTTP
 - [WebSI](https://github.com/zaiste/websi) - Universal HTTP abstraction for building web servers with TypeScript. ([Docs](https://websi.dev/docs/getting-started))
 - [Map localhost ports to names](https://twitter.com/jmduke/status/1628034461605539840)
 - [Understanding HTTP/2 fingerprinting (2023)](https://www.trickster.dev/post/understanding-http2-fingerprinting/)
+- [What is CORS and why is it so annoying](https://www.reddit.com/r/reactjs/comments/11cyejn/what_is_cors_and_why_is_it_so_annoying/)

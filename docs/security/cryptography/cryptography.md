@@ -215,3 +215,4 @@
 - [AWS-LC](https://github.com/awslabs/aws-lc) - General-purpose cryptographic library maintained by the AWS Cryptography team.
 - [Google’s Fully Homomorphic Encryption Compiler — A Primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/) ([HN](https://news.ycombinator.com/item?id=34783447))
 - [ACIR](https://github.com/noir-lang/acvm) - Abstract Circuit Intermediate Representation.
+- [Real-World Cryptography, a bit more than a year later (2023)](https://www.cryptologie.net/article/586/real-world-cryptography-a-bit-more-than-a-year-later/)

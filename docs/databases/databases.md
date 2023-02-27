@@ -781,5 +781,6 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Are You Sure You Want to Use MMAP in Your Database Management System? (2022)](https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf)
 - [Five Methods For Database Obfuscation (2023)](https://clickhouse.com/blog/five-methods-of-database-obfuscation)
 - [Techniques for Scaling Applications with a Database (2023)](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
-- [Speedy Transactions in Multicore In-Memory Databases (2023)](https://muratbuffalo.blogspot.com/2023/02/speedy-transactions-in-multicore-in.html)
+- [Speedy Transactions in Multicore In-Memory Databases (2023)](https://muratbuffalo.blogspot.com/2023/02/speedy-transactions-in-multicore-in.html) ([HN](https://news.ycombinator.com/item?id=34931735))
 - [Dumping databases for faster furigana (2023)](https://geeklaunch.io/blog/dumping-databases-for-faster-furigana/)
+- [Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms (2023)](https://kuzudb.com/blog/wcoj.html) ([HN](https://news.ycombinator.com/item?id=34959895))

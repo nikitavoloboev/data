@@ -10,3 +10,4 @@
 - [Testing the strength of different wood species](https://woodgears.ca/wood_strength/) ([HN](https://news.ycombinator.com/item?id=29595232))
 - [The Wood Database](https://www.wood-database.com/wood-filter/) ([HN](https://news.ycombinator.com/item?id=31912178))
 - [Software to make woodworking blueprints](https://twitter.com/OskSta/status/1628666152296611841)
+- [An overview of modern Japanese wood construction (2004)](https://www.forum-holzbau.com/pdf/an_overview-Yoshiaki.pdf) ([HN](https://news.ycombinator.com/item?id=34922294))

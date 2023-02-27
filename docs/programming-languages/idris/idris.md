@@ -98,3 +98,4 @@ title: Idris
 - [Idris2 Go](https://github.com/kbertalan/idris2-go) - Library for generating go programs.
 - [Dependent Optics Idris](https://github.com/bgavran/DependentOpticsIdris2)
 - [Peeling zeroes in Idris (2021)](https://juliu.is/peeling-zeroes/)
+- [Idris 2 for JVM](https://github.com/mmhelloworld/idris-jvm) ([HN](https://news.ycombinator.com/item?id=34952942))

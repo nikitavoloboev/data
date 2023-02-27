@@ -646,3 +646,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [committed](https://github.com/crate-ci/committed) - Enforce commit standards.
 - [git multisect](https://github.com/nomeata/git-multisect) - Find commits that matter.
 - [GitLink](https://github.com/NishanthSingaraju/gitlink) - Simplify the process of connecting your Git Large File Storage (LFS) to your AWS or GCP backends.
+- [GitGPT](https://github.com/Hesse/gitgpt) - Natural Language Git CLI assistant. ([HN](https://news.ycombinator.com/item?id=34959565))
