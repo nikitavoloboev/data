@@ -308,3 +308,4 @@
 - [What is consensus](https://twitter.com/AlexMillerDB/status/1592470377284112385)
 - [Raft algorithm concept prove application in Go](https://github.com/kkdai/raft)
 - [Gossip Glomers: Fly.io Distributed Systems Challenges](https://fly.io/blog/gossip-glomers/) ([HN](https://news.ycombinator.com/item?id=34897723))
+- [Eventually Consistent (2008)](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)

@@ -27,7 +27,7 @@ Some say [war was inevitable](https://telegra.ph/Prichiny-vojny-Rossii-i-Ukrainy
 
 Other reasons like denazification and supposed protection of borders from NATO bases expanding are [completely made up](https://www.reddit.com/r/CredibleDefense/comments/10rp9hg/comment/j6wxsae/?context=3) too but may sound belieavable by some.
 
-It is clear that the final act to actually invade Ukraine wholesale in 2022 was [unrecoverable catastrophy](https://www.reddit.com/r/CredibleDefense/comments/11aqutn/comment/j9uabw7/) to both Russia, Ukraine and Europe.
+It is clear that the final act to actually invade Ukraine wholesale in 2022 was [complete catastrophe](https://www.reddit.com/r/CredibleDefense/comments/11aqutn/comment/j9uabw7/) to both Russia and Ukraine and by side effect Europe with only few silver linings like cutting reliance on Russia as energy source even though the replacements are not yet fully sustainable/secure either. And won't be until Europe becomes actually energy independent.
 
 After the initial attack of this 3 day operation failed, there were no further plans made on how to adapt to prolonged conflict and Russia's government has been trying to survive politically ever since. All signs of even fake democracy were stripped and citizens started to get [jailed for the littlest of things](https://www.youtube.com/watch?v=9H3E9FRjAzk) in discussing the state of the war.
 
