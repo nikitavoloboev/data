@@ -136,7 +136,7 @@
 - [How does Clang 2.7 hold up in 2021?](https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6) ([HN](https://news.ycombinator.com/item?id=25976855))
 - [Developing mathematical software in C (2021)](https://fredrikj.net/blog/2021/01/developing-mathematical-software-in-c/)
 - [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/) ([HN](https://news.ycombinator.com/item?id=26085373))
-- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) ([Code](https://github.com/beejjorgensen/bgc)) ([PDF](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)) ([HN](https://news.ycombinator.com/item?id=26911399))
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html) ([Code](https://github.com/beejjorgensen/bgc)) ([PDF](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)) ([HN](https://news.ycombinator.com/item?id=26911399)) ([HN](https://news.ycombinator.com/item?id=34946811))
 - [Obfuscated Tiny C Compiler](https://bellard.org/otcc/) ([HN](https://news.ycombinator.com/item?id=26141124))
 - [Angelix](http://angelix.io/) - Semantics-based test-driven automated program repair tool for C programs. ([Code](https://github.com/mechtaev/angelix))
 - [Inline and Sideline Approaches for Low-Cost Memory Safety in C (2021)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)

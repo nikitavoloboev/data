@@ -11,3 +11,4 @@
 - [Making a budget Pascal compiler to WebAssembly](https://faizilham.github.io/making-budget-pascal-compiler)
 - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) ([HN](https://news.ycombinator.com/item?id=30644308))
 - [Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi, FreePascal, and Pascal shiny things. ([HN](https://news.ycombinator.com/item?id=30790193))
+- [Ask HN: Are people still using Pascal? (2023)](https://news.ycombinator.com/item?id=34939231)
