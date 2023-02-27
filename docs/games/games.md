@@ -209,6 +209,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [2048](https://play2048.co/) ([Code](https://github.com/gabrielecirulli/2048))
 - [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) - Fully working re-implementation of Fallout.
 - [Xash3D](https://github.com/sultim-t/xash-rt) - Half-Life 1 with real-time path tracing.
+- [Tic Tac Toe implementation over network](https://github.com/dineshgowda24/tic-tac-toe)
 
 ## Awesome games (other)
 

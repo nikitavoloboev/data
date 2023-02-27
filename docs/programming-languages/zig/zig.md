@@ -182,4 +182,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [Multi-Object For Loops + Struct-Of-Arrays (2023)](https://zig.news/andrewrk/multi-object-for-loops-data-oriented-design-41ob)
 - [Smoking Hot Binary Search In Zig (2023)](https://blog.deckc.hair/2023-02-22-smoking-hot-binary-search-in-zig.html)
 - [Prime Reacts: Is This New Language Better Than Rust? C++? (Zig First Impressions) (2023)](https://www.youtube.com/watch?v=alp_Sx5qhn0)
-- [Zig's Curious Multi-Sequence For Loops (2023)](https://kristoff.it/blog/zig-multi-sequence-for-loops/)
+- [Zig's Curious Multi-Sequence For Loops (2023)](https://kristoff.it/blog/zig-multi-sequence-for-loops/) ([HN](https://news.ycombinator.com/item?id=34956407))
