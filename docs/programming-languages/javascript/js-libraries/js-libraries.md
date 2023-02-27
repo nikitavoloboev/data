@@ -1130,6 +1130,7 @@
 - [ExifReader](https://github.com/mattiasw/ExifReader) - JavaScript Exif info parser.
 - [custom-function](https://github.com/WebReflection/custom-function) - Literally the only sane way, if not the fastest one, to extend the Function class without evaluation.
 - [store](https://github.com/nbubna/store) - Better way to use localStorage and sessionStorage.
+- [EasyStar.js](https://github.com/prettymuchbryce/easystarjs) - HTML5/JavaScript Pathfinding Library.
 
 ## Links
 
