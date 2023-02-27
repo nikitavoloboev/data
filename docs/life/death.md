@@ -105,3 +105,4 @@ Having said the above, [anesthesia](https://en.wikipedia.org/wiki/Anesthesia) ha
 - [Sam Harris & Roland Griffiths - Psychedelics & Mortality (2022)](https://www.samharris.org/podcasts/making-sense-episodes/306-psychedelics-mortality)
 - [Games to play when dealing with grief from death (2023)](https://www.reddit.com/r/gamingsuggestions/comments/1078vu4/i_just_lost_my_mum_what_are_some_good_worlds_to/)
 - [Movies to process grief from death (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10i0asb/my_father_passed_away_2_weeks_ago_i_still_havent/)
+- [Do you use a dead man's switch? (2023)](https://lobste.rs/s/sidr8v/do_you_use_dead_man_s_switch)

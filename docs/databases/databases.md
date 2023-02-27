@@ -782,3 +782,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Five Methods For Database Obfuscation (2023)](https://clickhouse.com/blog/five-methods-of-database-obfuscation)
 - [Techniques for Scaling Applications with a Database (2023)](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
 - [Speedy Transactions in Multicore In-Memory Databases (2023)](https://muratbuffalo.blogspot.com/2023/02/speedy-transactions-in-multicore-in.html)
+- [Dumping databases for faster furigana (2023)](https://geeklaunch.io/blog/dumping-databases-for-faster-furigana/)

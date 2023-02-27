@@ -48,3 +48,4 @@
 - [Challenging Yourself (2022)](https://debbie.codes/blog/challenging-yourself/)
 - [Rad Power Bikes](https://www.radpowerbikes.com/)
 - [Pi Zero Bike computer](https://github.com/hishizuka/pizero_bikecomputer) - Open-source bike computer based on Raspberry Pi Zero (W, WH, 2 W) with GPS and ANT+.
+- [Rental bike usage patterns (2023)](https://www.extua.pw/blog/2023/02/25/rental_bike_usage_patterns/)

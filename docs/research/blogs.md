@@ -364,6 +364,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Bryce Neal](https://bryce.is/writing/code/)
 - [Murat Demirbas](https://muratbuffalo.blogspot.com/)
 - [The CPU Shack](https://www.cpushack.com/)
+- [Evan Klitzke](https://eklitzke.org/)
+- [GeekLaunch](https://geeklaunch.io/blog/)
 
 ## Notes
 

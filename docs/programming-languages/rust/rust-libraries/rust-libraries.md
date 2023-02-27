@@ -3047,3 +3047,4 @@
 - [Designing error types in Rust (2022)](https://mmapped.blog/posts/12-rust-error-handling.html)
 - [Specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages.
 - [Packaging Your Rust Code (2022)](https://skerritt.blog/packaging-your-rust-code/) ([Reddit](https://www.reddit.com/r/rust/comments/1169uxo/packaging_your_rust_code/))
+- [Nothing in Rust (2023)](https://geeklaunch.io/blog/nothing-in-rust/) ([Lobsters](https://lobste.rs/s/ecsspe/nothing_rust))
