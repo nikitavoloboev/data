@@ -12,6 +12,8 @@ title: SQL
 
 [Partial State in Dataflow-Based Materialized Views](https://jon.thesquareplanet.com/papers/phd-thesis.pdf) is nice paper on which [ReadySet](https://readyset.io/) & [Noria](https://github.com/mit-pdos/noria) are based.
 
+Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [Postgres](../postgresql.md) db as it's [plenty fast](https://carlineng.com/?postid=malloy-tpcds#blog) and is more ergonomic than SQL to use. [It's query language](https://malloydata.github.io/documentation/malloy_by_example.html) reminds me of [EdgeQL](https://www.edgedb.com/tutorial) by [EdgeDB](../edgedb.md).
+
 ## Notes
 
 - High cardinality = unique. Low cardinality = less unique.

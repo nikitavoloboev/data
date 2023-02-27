@@ -53,3 +53,4 @@
 - [The zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
 - [Modern take on Forth](https://github.com/jamesmunns/forth3)
 - [Porth](https://gitlab.com/tsoding/porth) - It's Like Forth but in Python. ([HN](https://news.ycombinator.com/item?id=34388985))
+- [Dave's Forth Talk 2023](http://ratfactor.com/forth/forth_talk_2023.html) ([Lobsters](https://lobste.rs/s/ea86a2/dave_s_forth_talk_2023))

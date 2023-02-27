@@ -323,3 +323,4 @@
 - [CBMC: The C Bounded Model Checker (2023)](https://arxiv.org/abs/2302.02384)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c) ([Lobsters](https://lobste.rs/s/if8osu/few_lesser_known_tricks_quirks_features_c)) ([HN](https://news.ycombinator.com/item?id=34855331))
 - [Lessons learnt while trying to modernize some C code (2022)](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
+- [GOTOphobia considered harmful (in C) (2023)](https://blog.joren.ga/gotophobia-harmful) ([Lobsters](https://lobste.rs/s/hiteri/gotophobia_considered_harmful_c))

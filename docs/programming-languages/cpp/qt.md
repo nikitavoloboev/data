@@ -50,4 +50,4 @@ title: Qt
 - [Rust Qt Binding Generator](https://github.com/KDE/rust-qt-binding-generator) - Generate bindings to use Rust code in Qt and QML.
 - [Add moc includes to speed up Qt compilation (2022)](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
 - [Compiling QML to C++: A 4x speedup (2023)](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
-- [LeanCreator](https://github.com/rochus-keller/LeanCreator) - Lean version of Qt Creator. ([HN](https://news.ycombinator.com/item?id=34936635))
+- [LeanCreator](https://github.com/rochus-keller/LeanCreator) - Lean version of Qt Creator. ([HN](https://news.ycombinator.com/item?id=34936635)) ([Lobsters](https://lobste.rs/s/2qo23m/leancreator_stripped_down_version_qt))

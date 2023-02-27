@@ -233,3 +233,4 @@ title: Type Theory
 - [All you need is higher kinded types (2023)](https://las.rs/blog/all-you-need-is-hkt-s.html)
 - [Type inference that sticks (2023)](https://jaredforsyth.com/posts/type-inference-that-sticks/) ([HN](https://news.ycombinator.com/item?id=34658021))
 - [cooked-pi](https://github.com/jozefg/cooked-pi) - Type checker for λΠ in several different styles.
+- [How to implement type theory in an hour (2018)](https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/)

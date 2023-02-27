@@ -363,6 +363,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Patrick Jackson](https://jackson.dev/post/)
 - [Bryce Neal](https://bryce.is/writing/code/)
 - [Murat Demirbas](https://muratbuffalo.blogspot.com/)
+- [The CPU Shack](https://www.cpushack.com/)
 
 ## Notes
 

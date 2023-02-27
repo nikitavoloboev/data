@@ -229,7 +229,7 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Hadmean](https://github.com/hadmean/hadmean) - Generate powerful, fully functional, ready-to-be-deployed admin apps in seconds. ([Web](https://hadmean.com/))
 - [Sidekiq Server](https://github.com/pganalyze/sidekiq_server.rs) - Sidekiq server implemented in Rust.
 - [Eventline](https://eventline.net/) - Job scheduling and execution platform. ([Code](https://github.com/exograd/eventline))
-- [Infisical](https://infisical.com/) - Open-source, E2EE tool to sync environment variables across your team and infrastructure. ([Code](https://github.com/Infisical/infisical))
+- [Infisical](https://infisical.com/) - Open-source, E2EE tool to sync environment variables across your team and infrastructure. ([Code](https://github.com/Infisical/infisical)) ([HN](https://news.ycombinator.com/item?id=34955699))
 - [Apex](https://apexlang.io/) - Interface definition language (IDL) for modeling software. Generate source code, documentation, integration, everything automatically. ([GitHub](https://github.com/apexlang))
 - [Flipt](https://www.flipt.io/) - Open source, self-hosted feature flag solution. ([Code](https://github.com/flipt-io/flipt))
 - [beanstalkd](https://github.com/beanstalkd/beanstalkd) - Fast general purpose work queue.

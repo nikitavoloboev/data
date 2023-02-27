@@ -980,3 +980,4 @@ if *boolArgPtr != false {
 - [bingo](https://github.com/bwplotka/bingo) - Like `go get` but for Go tools! CI Automating versioning of Go binaries in a nested, isolated Go modules.
 - [Findings from six months of running `govulncheck` in CI (2023)](https://brandur.org/fragments/govulncheck-ci) ([Lobsters](https://lobste.rs/s/rqovkn/findings_from_six_months_running))
 - [Serialize a struct to bytes to send it through the network in Go (2022)](https://scribe.froth.zone/@maximgradan/serialize-a-struct-to-bytes-to-send-it-through-the-network-in-go-part-i-b861c15d2f06)
+- [Making Go telemetry opt-in is a mistake (2023)](https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html) ([Lobsters](https://lobste.rs/s/eyjoiw/making_go_telemetry_opt_is_mistake))

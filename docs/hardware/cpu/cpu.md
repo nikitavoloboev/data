@@ -2,7 +2,7 @@
 
 Curious how [TSMC](https://www.tsmc.com/english) manages to squeeze so much performance out of their CPUs.
 
-[Asianometry](https://www.youtube.com/@Asianometry/videos) does nice updates on [hardware](../hardware.md) news.
+[Asianometry](https://www.youtube.com/@Asianometry/videos) does nice updates on [hardware](../hardware.md) news. [The CPU Shack](https://www.cpushack.com/) is nice blog.
 
 Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) more.
 
@@ -212,3 +212,4 @@ Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) m
 - [RV32i CPU implemented in Turing Complete](https://github.com/BenjaminSchaaf/turning-complete-riscv) - Compile rust code for a RISC-V CPU I made in Turing Complete.
 - [sevctl](https://github.com/virtee/sevctl) - Command line utility for managing the AMD Secure Encrypted Virtualization (SEV) platform.
 - [CPU assembly examples](https://github.com/takenobu-hs/cpu-assembly-examples)
+- [CPU of the Day: UTMC UT69R000: The RISC with a Trick (2019)](https://www.cpushack.com/2019/03/01/cpu-of-the-day-utmc-ut69r000-the-risc-with-a-trick/)

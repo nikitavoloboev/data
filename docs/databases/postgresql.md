@@ -12,6 +12,8 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 
 [Inquery](https://github.com/inqueryio/inquery), [Pg_GraphQL](https://github.com/supabase/pg_graphql) & [IaSQL](https://github.com/iasql/iasql-engine) are useful.
 
+Interested in using [Malloy](https://github.com/malloydata/malloy) to query my Postgres db as it's [plenty fast](https://carlineng.com/?postid=malloy-tpcds#blog) and is more ergonomic than SQL to use. [It's query language](https://malloydata.github.io/documentation/malloy_by_example.html) reminds me of [EdgeQL](https://www.edgedb.com/tutorial) by [EdgeDB](edgedb.md).
+
 ## Notes
 
 - [Can use `::1` in Postico to remove unsafe connection warning](https://github.com/jakob/Postico/issues/637)

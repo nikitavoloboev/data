@@ -6,6 +6,8 @@ title: Dependent types
 
 [Magmide](https://github.com/magmide/magmide) & [TeenyTT](https://github.com/TOTBWF/teenytt) look interesting.
 
+[How to implement dependent types in 80 lines of code](https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196) is good read.
+
 [Elaboration Zoo](https://github.com/AndrasKovacs/elaboration-zoo) has great dependent type checker implementations.
 
 ## Links
@@ -83,3 +85,4 @@ title: Dependent types
 - [Tutorial implementation on an elaborator of a dependently typed language with pruning](https://github.com/Guest0x0/pruning-tutor)
 - [Using dependent types to write proofs in Haskell (2021)](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 - [Mini Yu](https://github.com/andreaslyn/mini-yu) - Dependently typed programming language prototype.
+- [How to implement dependent types in 80 lines of code](https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196) ([Lobsters](https://lobste.rs/s/ub7co8/how_implement_dependent_types_80_lines))

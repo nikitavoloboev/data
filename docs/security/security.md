@@ -361,3 +361,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [Secret Vault for Rust](https://github.com/abdolence/secret-vault-rs) - Secure vault to store application secrets in memory coming from Google/AWS/other secret managers for Rust.
 - [Cedar: A new policy language (2023)](https://onecloudplease.com/blog/cedar-a-new-policy-language)
+- [X.520: What’s in a name? (2022)](https://medium.com/@sleevi_/x-520-whats-in-a-name-da6ea8954b4f)

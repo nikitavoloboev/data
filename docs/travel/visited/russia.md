@@ -2,7 +2,7 @@
 
 > Below is mostly [my opinion](https://twitter.com/eeberquist/status/1504516448156274695) on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 8 to Cyprus and then eventually Netherlands. Most of my opinion is thus formed on my visits to Russia, what I learn online and the things I talk about with Russians still in Russia and abroad).
 
-Russian culture and history is [rich](https://www.youtube.com/watch?v=9Lx0dGvE4LI) but full of tragedies and unlearned lessons.
+Russian culture and history is [extensive](https://www.youtube.com/watch?v=9Lx0dGvE4LI) but full of tragedies and unlearned lessons.
 
 It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
 
