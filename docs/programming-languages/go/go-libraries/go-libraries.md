@@ -2282,3 +2282,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-update](https://github.com/pete911/go-update) - Simple tool to update go git projects.
 - [Partially-Implemented Interfaces in Go (2023)](https://preslav.me/2023/02/22/partially-implemented-interfaces-in-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/1195v8d/partiallyimplemented_interfaces_in_go/))
 - [Jupiter Project Layout](https://github.com/douyu/jupiter-layout)
+- [go test and parallelism (2023)](https://bryce.is/writing/code/go-test-and-parallelism.html) ([Lobsters](https://lobste.rs/s/whvrpa/go_test_parallelism))

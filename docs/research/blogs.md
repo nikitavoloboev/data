@@ -361,6 +361,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Sam Sartor](https://samsartor.com/)
 - [Conrad Ludgate](https://conradludgate.com/)
 - [Patrick Jackson](https://jackson.dev/post/)
+- [Bryce Neal](https://bryce.is/writing/code/)
 
 ## Notes
 

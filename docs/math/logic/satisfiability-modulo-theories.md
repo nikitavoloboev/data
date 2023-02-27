@@ -66,3 +66,4 @@ title: Satisfiability modulo theories
 - [NeuroSAT](https://github.com/dmeoli/NeuroSAT) - Neuro-symbolic approaches to the SAT problem.
 - [Kissat SAT Solver](https://github.com/arminbiere/kissat) - Keep it simple and clean bare metal SAT solver in C.
 - [Why SAT Is Hard (2023)](https://matklad.github.io/2023/02/21/why-SAT-is-hard.html)
+- [Checking Firewall Equivalence with Z3 (2018)](https://ahelwer.ca/post/2018-02-13-z3-firewall/) ([Lobsters](https://lobste.rs/s/nehquh/checking_firewall_equivalence_with_z3))
