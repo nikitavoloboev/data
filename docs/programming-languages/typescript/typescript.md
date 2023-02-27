@@ -320,6 +320,7 @@ Run/deploy TS with [Deno](../../web/deno.md)/[Bun](../javascript/bun.md).
 - [TypeScript utility types you need to know](https://www.youtube.com/watch?v=6Hj56GdFpgs)
 - [ts-reset](https://github.com/total-typescript/ts-reset) - 'CSS reset' for TypeScript, improving types for common JavaScript API's. ([Tweet](https://twitter.com/mattpocockuk/status/1627686847030743043))
 - [Linting TypeScript in 2023](https://github.com/JoshuaKGoldberg/linting-typescript-in-2023)
+- [I Made These TypeScript Mistakes For Years (2023)](https://www.youtube.com/watch?v=Xl02L1jy53c)
 
 ## Images
 
