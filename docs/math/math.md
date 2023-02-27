@@ -437,3 +437,4 @@
 - [What areas of math research are really active / trendy right now. Why? (2023)](https://www.reddit.com/r/math/comments/112m3ba/what_areas_of_math_research_are_really_active/)
 - [MIT Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects) ([HN](https://news.ycombinator.com/item?id=34903533))
 - [What is some simple but beautiful “Proof by Contradiction” you know?](https://www.reddit.com/r/math/comments/11ad58f/what_is_some_simple_but_beautiful_proof_by/)
+- [Directory of Mathematical Headaches](https://docs.google.com/document/d/1JZmjIiqJikVD69y5ZY8w0V8MI47lBdH1DrhLiBeKQh8/edit)

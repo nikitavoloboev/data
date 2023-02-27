@@ -261,3 +261,4 @@ title: Vue.js
 - [Nuxt Pre-Hydrate](https://github.com/danielroe/nuxt-pre-hydrate) - Safely run pre-hydration steps on the client with Nuxt 3.
 - [Weekly Vue News](https://weekly-vue.news/)
 - [Vue's Connection to Signals](https://vuejs.org/guide/extras/reactivity-in-depth.html#connection-to-signals)
+- [Vue Land Discord](https://discord.com/invite/HBherRA)

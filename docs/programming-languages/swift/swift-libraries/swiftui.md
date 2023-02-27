@@ -283,3 +283,4 @@ title: SwiftUI
 - [SwiftOnTap](https://swiftontap.com/) - Complete SwiftUI Docs with Examples.
 - [Exploring SwiftUI: New Sheet Modifiers in Xcode 14.3 Beta (2023)](https://rryam.com/swiftui-sheet-modifiers)
 - [The making of Ice Cubes, an open source, SwiftUI Mastodon client (2023)](https://dimillian.medium.com/the-making-of-ice-cubes-an-open-source-swiftui-mastodon-client-45ebea5cf6b6)
+- [Changing orientation for a single screen in SwiftUI (2023)](https://www.polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui)

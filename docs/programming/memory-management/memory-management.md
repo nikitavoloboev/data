@@ -134,3 +134,4 @@
 - [OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation.
 - [Exploring some worst-case latencies in GCs](https://github.com/WillSewell/gc-latency-experiment)
 - [It’s a smol_world: thoughts and lessons (2023)](https://tendril.blog/@snej/log2/133/) ([Lobsters](https://lobste.rs/s/igud1r/it_s_smol_world_thoughts_lessons))
+- [Rust and RAII Memory Management (2023)](https://www.youtube.com/watch?v=pTMvh6VzDls)

@@ -371,3 +371,4 @@ title: GraphQL
 - [graphql-print](https://github.com/thomasheyenbrock/graphql-print) - Printer that GraphQL always deserved.
 - [garph](https://github.com/stepci/garph) - GraphQL schema-builder for TypeScript.
 - [yaacovcr/stitch](https://github.com/yaacovCR/stitch) - Set of tools for stitching GraphQL schemas.
+- [10 Things We Learned In Full Stack GraphQL Book Club (2023)](https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le)

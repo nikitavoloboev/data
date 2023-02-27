@@ -163,3 +163,4 @@ title: Three.js
 - [ThreeGN](https://threegn.app/) - Procedural 3D graphics editor for the web. ([Code](https://github.com/roman01la/threegn))
 - [Environment Map Light Editor](https://github.com/pmndrs/env) - Create, edit, and preview HDR environment maps in the browser.
 - [r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) - React-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
+- [How to create Ghibli-style trees with Three.js (2023)](https://www.youtube.com/watch?v=IGK6eceWyU4)

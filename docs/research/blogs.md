@@ -366,6 +366,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [The CPU Shack](https://www.cpushack.com/)
 - [Evan Klitzke](https://eklitzke.org/)
 - [GeekLaunch](https://geeklaunch.io/blog/)
+- [Pol Piella](https://www.polpiella.dev/)
 
 ## Notes
 

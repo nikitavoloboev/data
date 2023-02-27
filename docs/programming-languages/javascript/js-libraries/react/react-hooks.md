@@ -348,3 +348,4 @@ useEffect(() => {
 - [Mastering Mutations in React Query (2021)](https://tkdodo.eu/blog/mastering-mutations-in-react-query)
 - [You Might Not Need React Query for Jotai (2023)](https://blog.axlight.com/posts/you-might-not-need-react-query-for-jotai/)
 - [Demystifying Create React Signals Internals (2023)](https://blog.axlight.com/posts/demystifying-create-react-signals-internals/)
+- [How to avoid tricky async state manager pitfalls in React (2023)](https://evilmartians.com/chronicles/how-to-avoid-tricky-async-state-manager-pitfalls-react)

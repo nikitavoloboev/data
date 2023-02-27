@@ -59,3 +59,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [Проектируем идеальную систему реактивности](https://page.hyoo.ru/#!=eh2o9_cl9nuy/View%22eh2o9_cl9nuy%22.Details=Reactive%20ReactJS)
 - [JS Reactivity Benchmark](https://github.com/modderme123/js-reactivity-benchmark)
 - [Why are people SO obsessed with useSignal()? (2023)](https://www.youtube.com/watch?v=lXDDNM5rZQI)
+- [Signals For Solid, Qwik And React (2023)](https://www.youtube.com/watch?v=ZLMjJL70glE)

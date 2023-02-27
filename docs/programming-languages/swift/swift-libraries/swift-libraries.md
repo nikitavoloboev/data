@@ -1548,3 +1548,5 @@
 - [dependency-graph](https://github.com/simonbs/dependency-graph) - Command-line tool that can visualize the dependencies of packages.
 - [Swift Package Template](https://github.com/StanfordBDHG/SwiftPackageTemplate)
 - [Creating an XCFramework (2023)](https://rhonabwy.com/2023/02/10/creating-an-xcframework/)
+- [Coming in Swift 5.9: Network requests in Swift package plugins (2023)](https://www.polpiella.dev/network-requests-in-swift-package-plugins)
+- [Safely pinning SPM dependencies to exact versions (2023)](https://www.polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions)

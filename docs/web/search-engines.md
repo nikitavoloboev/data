@@ -12,6 +12,8 @@ Use [Lyra](https://github.com/nearform/lyra) or [Liqe](https://github.com/gajus/
 
 Want to build my own version of [Monocle](https://github.com/thesephist/monocle) to search over my data.
 
+[Search Engine in Rust](https://www.youtube.com/watch?v=hm5xOJiVEeg) is nice watch.
+
 ## Notes
 
 - [If you’re implementing search please understand that using quotes means “find this literal text”.](https://twitter.com/davidfowl/status/1574138778129944576)
@@ -334,3 +336,4 @@ Want to build my own version of [Monocle](https://github.com/thesephist/monocle)
 - [Creating a Search Engine For My Music Streaming Platform (2023)](https://nectarine.sh/posts/creating-a-search-engine-for-my-streaming-platform/) ([HN](https://news.ycombinator.com/item?id=34834641))
 - [Algolia CLI](https://github.com/algolia/cli) - Algolia’s official CLI dev tool.
 - [Phind](https://phind.com/) - AI search engine for developers. ([HN](https://news.ycombinator.com/item?id=34884338))
+- [Search Engine in Rust (2023)](https://www.youtube.com/watch?v=hm5xOJiVEeg)
