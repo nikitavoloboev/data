@@ -7,7 +7,7 @@
 ## Interesting artists
 
 - [Sasha Tattooing](https://www.bysashatattooing.com/) ([Barcelona](https://sashatattooingbarcelona.com/))
-- [Kyle Stacher](https://www.instagram.com/thiefhands)
+- [Kyle Stacher](https://thiefhands.com/)
 - [Daria Shishkina](https://www.instagram.com/shishkina_art/)
 - [Mio](https://www.instagram.com/cochlea1313/)
 - [Angelina (@mimilinism)](https://www.instagram.com/mimilinism/)

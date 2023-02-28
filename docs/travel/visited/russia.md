@@ -57,7 +57,7 @@ All of this is just my opinion and I genuinely don't know a lot. The west has ma
 
 I also hope the discourse around conflicting topics like the above get [healthier and not purely based on emotions](https://lithuaniatribune.com/our-russian-psychological-complexes/). This is only way I see most everyone improve and minimize our chances of future mess ups.
 
-I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Julia Ioffe](https://twitter.com/juliaioffe), [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often. Like [Meduza](https://meduza.io/) publication too.
+I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Julia Ioffe](https://twitter.com/juliaioffe), [Michael Kofman](https://twitter.com/KofmanMichael) & [Max Seddon](https://twitter.com/maxseddon) do nice summaries often. Like [Meduza](https://meduza.io/) publication too. [Коллектив](https://www.youtube.com/@kollektiv_doc/videos) has nice video channel that shows life in Russia.
 
 ## Notes
 

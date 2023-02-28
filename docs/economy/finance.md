@@ -20,7 +20,7 @@ I found [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) 
 
 Would love to build some things on top of global payment infrastructure and get those fees closer to minimum as possible. Perhaps by building on something like [TrueLayer](https://truelayer.com/) as you need a banking license to innovate in fin tech at least in US.
 
-Use [Cakedesk](https://cakedesk.app/) to create invoices but want to make something even nicer and more automated for my use cases.
+Use [Invoice Generator](https://invoice-generator.com/#/1) or [Cakedesk](https://cakedesk.app/) to create invoices but want to make something even nicer and more automated for my use cases.
 
 ## Ongoing subscriptions
 

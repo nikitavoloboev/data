@@ -1078,6 +1078,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Auxiliary Learning as an Asymmetric Bargaining Game (2023)](https://arxiv.org/abs/2301.13501) ([Code](https://github.com/AvivSham/auxinash))
 - [Block-Recurrent Transformers (2022)](https://arxiv.org/abs/2203.07852) ([Code](https://github.com/lucidrains/block-recurrent-transformer-pytorch))
 - [Awesome Causality Algorithms](https://github.com/rguo12/awesome-causality-algorithms)
-- [Coinductive guide to inductive transformer heads (2023)](https://arxiv.org/abs/2302.01834)
+- [Transformer learning explained: Coinductive guide to inductive transformer heads (2023)](https://arxiv.org/abs/2302.01834) ([HN](https://news.ycombinator.com/item?id=34970877))
 - [MultiViz: Towards Visualizing and Understanding Multimodal Models](https://multivizweb.github.io/) ([Code](https://github.com/pliang279/MultiViz)) ([Paper](https://arxiv.org/abs/2207.00056))
 - [Awesome Transformers](https://github.com/abacaj/awesome-transformers) - Curated list of awesome transformer models.

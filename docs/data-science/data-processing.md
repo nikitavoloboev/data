@@ -163,3 +163,4 @@
 - [unstructured](https://github.com/Unstructured-IO/unstructured) - Open-Source Pre-Processing Tools for Unstructured Data.
 - [pipelime](https://github.com/eyecan-ai/pipelime-python) - Swiss army knife for data processing.
 - [Explore Data with Data Painter](https://docs.kanaries.net/rath/tutorials/data-painter/) ([HN](https://news.ycombinator.com/item?id=34789698))
+- [Pandas 2.0 and the Arrow revolution (2023)](https://datapythonista.me/blog/pandas-20-and-the-arrow-revolution-part-i) ([HN](https://news.ycombinator.com/item?id=34968769))
