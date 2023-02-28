@@ -48,7 +48,7 @@
 - [Stray Bombay](https://www.straybombay.com/) ([Discord](https://discord.com/invite/straybombay))
 - [Avalanche Studios](https://avalanchestudios.com/)
 - [Tomorrow Corporation](http://tomorrowcorporation.com/)
-- [Atomic Heart](https://mundfish.com/)
+- [Mundfish](https://mundfish.com/)
 
 ## Devs
 

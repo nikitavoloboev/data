@@ -4,11 +4,9 @@ It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [
 
 It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get [fact based reporting](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
 
+Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
+
 Instead of [wasting lives](https://ukraine.bellingcat.com/) & [destroying cities](https://twitter.com/MaximEristavi/status/1513576913431941135) of its neighbors and oppressing it's own citizens, I hope one day a sane government comes where such a disastrous decision will be impossible to enact.
-
-[CredibleDefense](https://www.reddit.com/r/CredibleDefense/) has nice daily discussion threads on status of the war. Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
-
-It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). Here is [nice list](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
 
 I hope the war ends soon and Russia gives back the territories it unlawfully gained through war (Donetsk/Luhansk/..) or non vetted referendum (Crimea). And pays for the damages it inflicted to the people of Ukraine. Otherwise the war is most likely to [repeat again in future](https://twitter.com/mdmitri91/status/1534316819481300997).
 
