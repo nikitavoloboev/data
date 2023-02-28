@@ -146,3 +146,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [embeddings-splitter](https://github.com/another-ai/embeddings-splitter) - TypeScript library to help you use OpenAI Embeddings.
 - [Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode) - ChatGPT for Visual Studio Code.
 - [Open source ChatGPT with LLaMA implementation trains 15x faster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama) ([HN](https://news.ycombinator.com/item?id=34956807))
+- [World Building with GPT (2023)](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html) ([HN](https://news.ycombinator.com/item?id=34967515))

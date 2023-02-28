@@ -422,6 +422,7 @@ One of the things I've learned no company should ever do is not pay on time. Sal
 - [My Fifth Year as a Bootstrapped Founder (2023)](https://mtlynch.io/solo-developer-year-5/) ([HN](https://news.ycombinator.com/item?id=34740105))
 - [Ask HN: Are Paul Graham's Classic Startup Essays Outdated? (2023)](https://news.ycombinator.com/item?id=34750727)
 - [Reflect's startup stack (2023)](https://twitter.com/maccaw/status/1627820421436563456)
+- [What I Learned at Stripe (2022)](https://steinkamp.us/post/2022/11/10/what-i-learned-at-stripe.html) ([HN](https://news.ycombinator.com/item?id=34968371))
 
 ## Images
 

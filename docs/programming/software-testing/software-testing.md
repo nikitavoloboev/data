@@ -4,6 +4,8 @@
 
 [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) is great read.
 
+I personally [don't start with tests](https://www.youtube.com/watch?v=VB3Vh9Vf724) ever. Prefer exploring over pre planning code.
+
 ## Notes
 
 - [My advice is never to start with unit tests. Start with integration tests and work your way backwards until it stops being worth your time.](https://twitter.com/buildsghost/status/1274240189485862912)
@@ -184,3 +186,4 @@
 - [Efficient and Flexible Model-Based Testing (2023)](https://concerningquality.com/model-based-testing-theory/) ([Lobsters](https://lobste.rs/s/sjltvu/efficient_flexible_model_based_testing))
 - [I gained a new appreciation for Test Driven Development (2023)](https://www.worthe-it.co.za/blog/2023-02-09-i-was-saved-by-test-driven-development.html) ([HN](https://news.ycombinator.com/item?id=34731917))
 - [Swarm Testing (2012)](https://users.cs.utah.edu/~regehr/papers/swarm12.pdf) ([Lobsters](https://lobste.rs/s/eneyt5/swarm_testing))
+- [Test Driven Development Sucks (2023)](https://www.youtube.com/watch?v=VB3Vh9Vf724)
