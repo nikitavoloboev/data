@@ -203,3 +203,4 @@
 - [ChatGPT for Robotics (2023)](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/) ([HN](https://news.ycombinator.com/item?id=34881424))
 - [It Takes Two: Learning to Plan for Human-Robot Cooperative Carrying (2023)](https://arxiv.org/abs/2209.12890) ([Code](https://github.com/eleyng/cooperative_planner))
 - [Awesome Quadrupedal Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
+- [Voltron: Language-Driven Representation Learning for Robotics](https://github.com/siddk/voltron-robotics)

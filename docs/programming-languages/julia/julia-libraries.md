@@ -845,6 +845,7 @@
 - [ConstructionBase](https://github.com/JuliaObjects/ConstructionBase.jl) - Primitives for construction of objects.
 - [CassetteOverlay](https://github.com/JuliaDebug/CassetteOverlay.jl) - Experimental simple method overlay mechanism for Julia.
 - [VideoIO](https://github.com/JuliaIO/VideoIO.jl) - Reading and writing of video files in Julia.
+- [SparseMatricesCSR](https://github.com/gridap/SparseMatricesCSR.jl) - Sparse matrices in CSR format for Julia computations.
 
 ## Links
 

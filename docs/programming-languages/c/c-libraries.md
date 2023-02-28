@@ -68,6 +68,7 @@
 
 - [Calcium](https://github.com/fredrik-johansson/calcium) - Exact real and complex numbers in C.
 - [OpenLibm](https://github.com/JuliaMath/openlibm) - High quality, portable, standalone C mathematical library.
+- [FLINT](https://github.com/flintlib/flint2) - Fast Library for Number Theory.
 
 ## Crypto
 

@@ -1162,3 +1162,4 @@
 - [SIMPLI - Self-improving Multiplane-to-layer Images for Novel View Synthesis (2023)](https://github.com/SamsungLabs/MLI)
 - [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) - Image registration related books, papers, videos, and toolboxes.
 - [Learning Visual Representations via Language-Guided Sampling (2023)](https://arxiv.org/abs/2302.12248) ([Code](https://github.com/mbanani/lgssl))
+- [RealFusion: 360° Reconstruction of Any Object from a Single Image (2023)](https://arxiv.org/abs/2302.10663) ([Code](https://github.com/lukemelas/realfusion))

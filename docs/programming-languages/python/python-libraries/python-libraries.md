@@ -244,6 +244,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Graphene-SQLAlchemy](https://github.com/graphql-python/graphene-sqlalchemy) - SQLAlchemy integration for Graphene.
 - [yhttp-pony](https://github.com/yhttp/yhttp-pony) - Pony ORM extension for yhttp.
 - [greendb](https://github.com/coleifer/greendb) - Lightweight server (and Python client) for symas lmdb.
+- [Theine](https://github.com/Yiling-J/theine) - High performance in-memory cache.
 
 ## WebSocket
 

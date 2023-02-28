@@ -300,3 +300,4 @@
 - [Passkeys for Infrastructure (2023)](https://goteleport.com/blog/passkeys/) ([HN](https://news.ycombinator.com/item?id=34881967))
 - [Portunus](https://github.com/majewsky/portunus) - Self-contained user/group management and authentication service.
 - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
+- [jwtauth](https://github.com/refcell/jwtauth) - Minimal CLI to interact with JWT Auth Tokens.
