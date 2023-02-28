@@ -1,6 +1,8 @@
 # Internationalization
 
-[SimpleLocalize](https://simplelocalize.io/), [Crowdin](https://crowdin.com/) & [Inlang](https://github.com/inlang/inlang) are interesting.
+Currently using [Inlang](https://github.com/inlang/inlang) for everything.
+
+[SimpleLocalize](https://simplelocalize.io/) seem [Crowdin](https://crowdin.com/) nice too.
 
 ## Notes
 

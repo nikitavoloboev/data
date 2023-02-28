@@ -8,6 +8,7 @@ Once I get enough money for piano, I want to learn to play like them.
 
 - [My Friend the Forest, Nils Frahm](https://www.youtube.com/watch?v=jZBSebzfgVI)
 - [Glass – Hania Rani](https://musescore.com/user/22634621/scores/8034411)
+- [Nils Frahm, Somewhere Nearby, Piano](https://www.youtube.com/watch?v=xzM3Gl6p_e4)
 
 ## Links
 
