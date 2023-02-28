@@ -2,7 +2,7 @@
 
 I now am using [Solid](../../js-libraries/solid.md) for all my web apps and static sites, so trying to port many useful components from here to Solid.
 
-[React Spectrum](https://github.com/adobe/react-spectrum) & [shadcn UI](https://github.com/shadcn/ui) have quality UI components. [React TS Form](https://github.com/iway1/react-ts-form) is great for form handling.
+[React Spectrum](https://github.com/adobe/react-spectrum) & [shadcn UI](https://github.com/shadcn/ui) have quality UI components. [React TS Form](https://github.com/iway1/react-ts-form) or [HouseForm](https://github.com/crutchcorn/houseform) are great for form handling.
 
 [Ladle](https://github.com/tajo/ladle) seem like nice alternative to [Storybook](https://storybook.js.org/). [How to use Props in React](https://www.robinwieruch.de/react-pass-props-to-component/) is a good read.
 
@@ -419,3 +419,4 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Components to copy paste. Built with Radix UI and Tailwind CSS.](https://github.com/shadcn/ui)
 - [Nice way to manage modals in React](https://twitter.com/wking__/status/1608829077691174915)
 - [Kitchen](https://github.com/tonightpass/kitchen) - Tonight Pass' delicious React components.
+- [EnhanceAI for React](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI, a library for enhancing web app text input with AI autocomplete.

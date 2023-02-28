@@ -225,3 +225,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Learn Images](https://web.dev/learn/images/) - In-depth course on images for the web.
 - [unpic img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component.
 - [How To Improve Lighthouse Scores by Avoiding \<img\> Layout Shifts (2023)](https://www.builder.io/blog/how-to-improve-lighthouse-scores-by-avoiding-img-layout-shifts)
+- [Dumb tricks that made my app 95.7x Faster (2023)](https://www.youtube.com/watch?v=vP3QVrveSvI)

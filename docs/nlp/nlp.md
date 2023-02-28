@@ -859,3 +859,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LangChain Sidecar](https://github.com/add-context/sidecar) - UI starterkit for building LangChain apps that can be embedded on any website, similar to how Intercom can be embedded.
 - [embedland](https://github.com/danielgross/embedland) - Collection of text embedding experiments.
 - [Understanding large language models](https://github.com/abacaj/transformers)
+- [MindsJS](https://github.com/dosco/minds) - Build your workflows and app backends with large language models (LLMs) like OpenAI, Cohere and AlephAlpha.
+- [LLaMA Inference code](https://github.com/facebookresearch/llama)

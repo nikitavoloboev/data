@@ -437,6 +437,7 @@
 - [indxdb](https://github.com/surrealdb/indxdb) - Key-value database engine abstraction layer for IndexedDB running in the browser with WASM.
 - [Mini Moka](https://github.com/moka-rs/mini-moka) - Fast, concurrent cache library for Rust.
 - [serde-query](https://github.com/pandaman64/serde-query) - Rust library that lets you write jq-like queries for your data.
+- [cacache](https://github.com/zkat/cacache-rs) - High-performance, concurrent, content-addressable disk cache, optimized for async APIs.
 
 ## Video
 
@@ -1054,6 +1055,7 @@
 - [Deluxe](https://github.com/jf2048/deluxe) - Rust procedural macro attribute parser.
 - [transitive](https://github.com/bobozaur/transitive) - Transitive derive macros for Rust.
 - [ffi-opaque](https://github.com/skade/ffi-opaque) - Macro generating correct opaque types.
+- [struct-field-names-as-array](https://github.com/jofas/struct_field_names_as_array) - Rust crate providing a procedural macro that generates an array of the field names of a named struct.
 
 ## Math
 
@@ -2716,6 +2718,7 @@
 - [QWT](https://github.com/rossanoventurini/qwt) - Rust implementation of the Quad Wavelet Tree.
 - [Wax](https://github.com/olson-sean-k/wax) - Opinionated and portable globs that can be matched against paths and directory trees.
 - [ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data.
+- [ruice](https://github.com/yumemi-inc/ruice) - Runtime based Dependency Injection for Rust.
 
 ## Cargo Plugins
 

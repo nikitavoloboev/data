@@ -85,7 +85,7 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Speki](https://github.com/TBS1996/speki) - Flashcards for your terminal.
 - [Anki-English](https://github.com/wesselb/anki-english)
 - [Spaced inbox](https://github.com/riceissa/spaced-inbox) - Minimal spaced writing inbox.
-- [Anki SRS Algorithm : Spaced repetition explained with code (2022)](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html) ([HN](https://news.ycombinator.com/item?id=34152100))
+- [Anki SRS Algorithm : Spaced repetition explained with code (2022)](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html) ([HN](https://news.ycombinator.com/item?id=34152100)) ([Code](https://github.com/julien-sobczak/anki-srs-under-the-hood))
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - Modern Anki custom scheduling based on free spaced repetition scheduler algorithm.
 - [genanki-js](https://github.com/krmanik/genanki-js) - JavaScript implementation for generating Anki decks in browser client side.
 - [Anki and GPT-3](https://github.com/AndrewJudson/ankiextension) ([HN](https://news.ycombinator.com/item?id=34622913))
@@ -95,3 +95,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [SmoothBrain](https://github.com/alexbowe/smoothbrain) - Anki plugin that fetches Readwise highlights and makes flashcards using OpenAI GPT.
 - [How to Remember Anything using Anki (2023)](https://rachel.fast.ai/posts/2023-02-21-anki/)
 - [Anki Helper](https://github.com/MarcusXavierr/anki-helper) - Track new words you learn in a foreign language and add them to Anki for further practice and memorization.
+- [Anki CLI](https://github.com/julien-sobczak/anki-cli) - CLI to automate Anki notes/flashcards creation.

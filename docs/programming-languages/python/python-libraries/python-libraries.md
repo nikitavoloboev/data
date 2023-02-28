@@ -451,7 +451,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [dramatiq](https://github.com/Bogdanp/dramatiq) - Fast and reliable background task processing library for Python 3.
 - [More Itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools.
 - [awkward-array](https://github.com/scikit-hep/awkward-array) - Manipulate arrays of complex data structures as easily as Numpy.
-- [pydantic](https://github.com/samuelcolvin/pydantic/) - Data parsing and validation using Python type hints. ([Docs](https://pydantic-docs.helpmanual.io/))
+- [Pydantic](https://github.com/samuelcolvin/pydantic/) - Data parsing and validation using Python type hints. ([Docs](https://docs.pydantic.dev/))
 - [Goodconf](https://github.com/lincolnloop/goodconf) - Transparently load variables from environment or JSON/YAML file.
 - [graphene-pydantic](https://github.com/graphql-python/graphene-pydantic) - Integrate GraphQL with your Pydantic models.
 - [Python Sorted Containers](https://github.com/grantjenks/python-sortedcontainers) - Sorted List, Sorted Dict, and Sorted Set.
