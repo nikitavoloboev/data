@@ -337,3 +337,4 @@ Want to build my own version of [Monocle](https://github.com/thesephist/monocle)
 - [Algolia CLI](https://github.com/algolia/cli) - Algolia’s official CLI dev tool.
 - [Phind](https://phind.com/) - AI search engine for developers. ([HN](https://news.ycombinator.com/item?id=34884338))
 - [Search Engine in Rust (2023)](https://www.youtube.com/watch?v=hm5xOJiVEeg)
+- [milli-py](https://github.com/AlexAltea/milli-py) - Python bindings for Milli, the embeddable Rust-based search engine powering Meilisearch.

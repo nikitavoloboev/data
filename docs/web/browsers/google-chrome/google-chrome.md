@@ -117,3 +117,4 @@ And here are Chrome extensions I use:
 - [New headless Chrome has been released and has a near-perfect browser fingerprint (2023)](https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html) ([HN](https://news.ycombinator.com/item?id=34857087))
 - [Chromium Security Quarterly Updates](https://www.chromium.org/Home/chromium-security/quarterly-updates/)
 - [Spy Extension](https://github.com/msfrisbie/spy-extension) - Chrome extension that will steal literally everything it can. ([Article](https://mattfrisbie.substack.com/p/spy-chrome-extension)) ([HN](https://news.ycombinator.com/item?id=34889243))
+- [Vimium](https://vimium.github.io/) - Browser extension that provides Vim-style keyboard controls. ([Code](https://github.com/philc/vimium)) ([HN](https://news.ycombinator.com/item?id=34964572))
