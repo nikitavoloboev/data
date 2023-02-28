@@ -77,7 +77,7 @@ title: AWS Lambda
 - [AWS Lambda Behind the Scenes](https://www.bschaatsbergen.com/behind-the-scenes-lambda) ([HN](https://news.ycombinator.com/item?id=27792951))
 - [Lambda-local](https://github.com/ashiina/lambda-local) - Lets you test NodeJS Amazon Lambda functions on your local machine, by providing a simplistic API and command-line tool.
 - [Modern Cloud](https://www.moderncloud.io/) - Browser-based serverless platform that lets developers build functions and endpoints in minutes. ([Code](https://github.com/ModernCloud/moderncloud))
-- [FireCracker internals: a deep dive inside the technology powering AWS Lambda (2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
+- [FireCracker internals: a deep dive inside the technology powering AWS Lambda (2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/) ([HN](https://news.ycombinator.com/item?id=34964197))
 - [Performance monitoring for AWS Lambda (2021)](https://taavirehemagi.medium.com/performance-monitoring-for-aws-lambda-6d9eefb21716)
 - [Lambda GitHub Runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution.
 - [aws-websocket-handler](https://github.com/matrus2/aws-websocket-handler) - Module is created to handle AWS Lambda websocket actions as a one default handler.

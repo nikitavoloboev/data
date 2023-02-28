@@ -2,7 +2,7 @@
 
 Currently using [Inlang](https://github.com/inlang/inlang) for everything.
 
-[SimpleLocalize](https://simplelocalize.io/) seem [Crowdin](https://crowdin.com/) nice too.
+[SimpleLocalize](https://simplelocalize.io/) and [Crowdin](https://crowdin.com/) seem nice too.
 
 ## Notes
 

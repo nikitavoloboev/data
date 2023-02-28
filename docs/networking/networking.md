@@ -591,3 +591,4 @@
 - [dhcpm](https://github.com/leshow/dhcpm) - CLI tool for constructing & sending DHCP messages.
 - [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
 - [Connecting a 1980s Pinball Machine to the Internet (2023)](https://eli.lipsitz.net/posts/internet-connected-pinball/) ([HN](https://news.ycombinator.com/item?id=34897668))
+- [Mathematical Foundations of Computer Networking (2012)](https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105) ([HN](https://news.ycombinator.com/item?id=34963685))

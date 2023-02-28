@@ -861,3 +861,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Understanding large language models](https://github.com/abacaj/transformers)
 - [MindsJS](https://github.com/dosco/minds) - Build your workflows and app backends with large language models (LLMs) like OpenAI, Cohere and AlephAlpha.
 - [LLaMA Inference code](https://github.com/facebookresearch/llama)
+- [Language Is Not All You Need: Aligning Perception with Language Models (2023)](https://arxiv.org/abs/2302.14045)
+- [LLMs are compilers (2023)](https://vivekhaldar.com/articles/llms-are-compilers/) ([Lobsters](https://lobste.rs/s/ug0alo/llms_are_compilers))

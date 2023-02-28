@@ -1069,3 +1069,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Ergonomic APIs for hard problems - Raph Levien (2022)](https://www.youtube.com/watch?v=Phk0C-kLlho)
 - [Actors with Tokio – a lesson in ownership - Alice Ryhl (2022)](https://www.youtube.com/watch?v=fTXuGRP1ee4)
 - [Rust Web Development (2023)](https://www.youtube.com/watch?v=OYAKjlYm_Ew)
+- [Speeding up Rust Code (2023)](https://www.youtube.com/watch?v=b0KIDIOL_i4)

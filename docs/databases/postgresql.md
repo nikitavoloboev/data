@@ -267,7 +267,7 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [pganalyze](https://pganalyze.com/) - PostgreSQL Performance Monitoring. PostgreSQL Tuning. ([GitHub](https://github.com/pganalyze))
 - [pganalyze collector](https://github.com/pganalyze/collector) - Go-based daemon which collects various information about Postgres databases as well as queries run on it.
 - [Working with PostgreSQL (2021)](https://zerodha.tech/blog/working-with-postgresql/)
-- [Pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres. ([HN](https://news.ycombinator.com/item?id=26903105))
+- [Pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres. ([HN](https://news.ycombinator.com/item?id=26903105)) ([HN](https://news.ycombinator.com/item?id=34966045))
 - [PgCookbook](https://github.com/grayhemp/pgcookbook) - PostgreSQL documentation project.
 - [pg_tmp](http://eradman.com/ephemeralpg/) - Run tests on an isolated, temporary PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=26947964))
 - [IntegreSQL](https://github.com/allaboutapps/integresql) - Manages isolated PostgreSQL databases for your integration tests.

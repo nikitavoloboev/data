@@ -10,3 +10,4 @@
 - [Open-Korean-Text](https://github.com/open-korean-text/open-korean-text) - Open-source Korean Text Processor.
 - [The REAL Reason North Korea Hates the USA (2022)](https://www.youtube.com/watch?v=Jt7hE12n11s)
 - [South Korea is in a Hidden Crisis (2022)](https://www.youtube.com/watch?v=kEDPsOEQbl0)
+- [Being a digital nomad in Korea has made me never want to live in North America (2023)](https://www.reddit.com/r/digitalnomad/comments/11dyvun/being_a_digital_nomad_in_korea_has_made_me_never/)

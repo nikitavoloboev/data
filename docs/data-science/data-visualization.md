@@ -217,3 +217,4 @@
 - [Kanaries](https://kanaries.net/) - AI enhanced data exploration.
 - [PyGWalker](https://github.com/Kanaries/pygwalker) - Turn your pandas dataframe into a Tableau-style User Interface for visual analysis. ([HN](https://news.ycombinator.com/item?id=34869244))
 - [Aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy.
+- [What chart libraries are ‘modern’? (2023)](https://www.reddit.com/r/reactjs/comments/11dald6/what_chart_libraries_are_modern/)

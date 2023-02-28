@@ -105,3 +105,4 @@
 - [vrml2scad](https://github.com/agausmann/vrml2scad) - Translate VRML / WRL files to OpenSCAD.
 - [DSLCAD](https://github.com/DSchroer/dslcad) - Programming language & interpreter for building 3D models.
 - [GraphiteThree](https://github.com/BrunoLevy/GraphiteThree) - Experimental 3D modeler.
+- [Unfolder for Mac](https://www.unfolder.app/) - 3D modelcreating papercraft. ([HN](https://news.ycombinator.com/item?id=34964939))

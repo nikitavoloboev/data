@@ -276,3 +276,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Quine](https://github.com/ekmett/quine) - Graphics experiments in Haskell.
 - [Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/) ([HN](https://news.ycombinator.com/item?id=34660580))
 - [Polymer](https://github.com/ddiakopoulos/polymer) - Graphics + interaction engine.
+- [Every Graphics at Once: Nintendo's Popeye (2023)](https://nicole.express/2023/yes-popeye-the-sailor-man.html) ([HN](https://news.ycombinator.com/item?id=34947382))

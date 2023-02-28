@@ -43,7 +43,7 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) ([nice example](ht
 - [w-gl](https://github.com/anvaka/w-gl) - Simple WebGL renderer.
 - [Moonbridge](https://moonbridge.app/) - Simple and fun way to create your own WebGL experiment.
 - [gl-bench](https://github.com/munsocket/gl-bench) - WebGL performance monitor that showing percentage of GPU/CPU load.
-- [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic. ([Code](https://github.com/gfxfundamentals/webgl2-fundamentals))
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic. ([Code](https://github.com/gfxfundamentals/webgl2-fundamentals)) ([HN](https://news.ycombinator.com/item?id=34944161))
 - [Lume](https://github.com/lume/lume) - Create CSS3D/WebGL applications declaratively with HTML. Give regular DOM elements shadow and lighting. ([Web](https://lume.io/))
 - [WebGL Fluid Dynamics: Reintegration Tracking (2020)](https://michaelmoroz.github.io/Reintegration-Tracking/)
 - [manyworlds](https://github.com/neefrehman/manyworlds) - Scifi-inspired study of signed distanced functions and noise fields in WebGL.

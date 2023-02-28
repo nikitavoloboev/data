@@ -368,6 +368,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [GeekLaunch](https://geeklaunch.io/blog/)
 - [Pol Piella](https://www.polpiella.dev/)
 - [Alice Ryhl](https://ryhl.io/)
+- [Absorptions](https://www.windytan.com/)
+- [Nicole Express](https://nicole.express/)
 
 ## Notes
 

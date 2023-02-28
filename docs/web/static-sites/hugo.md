@@ -91,3 +91,4 @@ title: Hugo
 - [Hugo Lyra](https://github.com/paolomainardi/hugo-lyra) - Node module for creating LyraSearch indexes for static Hugo sites.
 - [hudevto](https://github.com/maelvls/hudevto) - CLI for pushing and synchronizing your Hugo blog posts to Dev.to.
 - [How to Embed the GeoGebra Calculator App in a Hugo Static Site (2023)](https://grantshandy.github.io/posts/geogebra-in-hugo/)
+- [Minimum Viable Hugo](https://github.com/hiAndrewQuinn/minimum-viable-hugo) - No CSS, no JS. One static HTML page to start you off. ([HN](https://news.ycombinator.com/item?id=34958454))
