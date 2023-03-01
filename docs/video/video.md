@@ -16,6 +16,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 
 ## Inspiring editing
 
+- [Smooth iPhone transition](https://twitter.com/juanbuis/status/16310076948983193720)
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.
 - [The New iPad Pro — On Any Given Wednesday](https://www.youtube.com/watch?v=UR5ODc5Wbbo) - By Leonardo Dalessandri.
 - [My Pitch to Casey Neistat - From the CEO of Patreon](https://www.youtube.com/watch?v=jAI38B-3Hzc) - Awesome transitions.

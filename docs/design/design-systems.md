@@ -4,7 +4,7 @@
 
 [Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/), [Polaris](https://polaris.shopify.com/) & [Mantine](https://mantine.dev/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list. [Utopia](https://utopia.fyi/) is nice guideline for responsive design. [Reshaped](https://reshaped.so/) is great too.
 
-[Component Gallery](https://component.gallery/) is great overview of different components.
+[Component Gallery](https://component.gallery/) is great overview of different components. Together with [Supernova](https://www.supernova.io/).
 
 ## Interesting design systems
 
@@ -230,3 +230,4 @@
 - [Tips for naming design system things](https://twitter.com/danmall/status/1603815850133291013)
 - [Me in front of the Design System counsel, humbly looking for acceptance of the new border radius](https://twitter.com/hejhej_jay/status/1572522814007287812)
 - [Design Tokens Generator](https://tokens.layoutit.com/)
+- [Supernova](https://www.supernova.io/) - Design systems made easy.

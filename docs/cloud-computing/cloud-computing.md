@@ -4,7 +4,7 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 
 [OVHcloud](https://www.ovhcloud.com/en-ie/) (with [Terraform OVH Provider](https://github.com/ovh/terraform-provider-ovh)) is nice too. Had bad experience with [GCP](gcp/gcp.md)/[AWS](aws/aws.md) billing so try to use it smartly now.
 
-[Wing](https://github.com/winglang/wing) seems interesting.
+[Wing](https://github.com/winglang/wing) seems interesting. [This](https://news.ycombinator.com/item?id=34982965) gives a nice list of current cheaper cloud providers.
 
 ## ML
 

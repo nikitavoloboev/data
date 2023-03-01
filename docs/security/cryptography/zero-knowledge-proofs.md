@@ -6,7 +6,7 @@ title: Zero knowledge proofs
 
 [RISC Zero](https://github.com/risc0/risc0) looks neat. [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK) & [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) are nice intros.
 
-[Noir](https://github.com/noir-lang/noir) is nice DSL.
+[Noir](https://github.com/noir-lang/noir) is nice DSL. [Fusion zkRollup](https://github.com/leonardoalt/fusion) is interesting.
 
 ## Notes
 
@@ -161,3 +161,4 @@ title: Zero knowledge proofs
 - [ark-groth16](https://github.com/arkworks-rs/groth16) - Rust implementation of the Groth16 zkSNARK.
 - [Introduction to zero-knowledge machine learning (ZKML) (2023)](https://worldcoin.org/blog/engineering/intro-to-zkml)
 - [Awesome ZKML](https://github.com/worldcoin/awesome-zkml)
+- [Fusion zkRollup](https://github.com/leonardoalt/fusion) - Progressive and fast zkRollup written in Rust, focused on performance, modularity, and applying cutting-edge Verifiable Computation proof systems.
