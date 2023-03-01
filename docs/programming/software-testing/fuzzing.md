@@ -103,3 +103,4 @@ title: Fuzzing
 - [Hyperpom](https://github.com/Impalabs/hyperpom) - Coverage-guided mutation-based fuzzing framework built on top of the Apple Silicon Hypervisor.
 - [FTZZ](https://github.com/SUPERCILEX/ftzz) - File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files.
 - [AFLNet](https://github.com/aflnet/aflnet) - Greybox Fuzzer for Network Protocols.
+- [Firefly](https://github.com/Brum3ns/firefly) - Black box fuzzer for web applications.

@@ -22,3 +22,4 @@ title: ZeroMQ
 - [TMQ](https://github.com/cetra3/tmq) - Rust ZeroMQ bindings for Tokio.
 - [Deno ZeroMQ](https://github.com/jjeffcaii/deno-zeromq) - Pure Deno bindings for ZeroMQ.
 - [Zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface.
+- [ZeroMQ.js](https://github.com/zeromq/zeromq.js) - Node.js bindings.

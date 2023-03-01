@@ -1081,3 +1081,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Transformer learning explained: Coinductive guide to inductive transformer heads (2023)](https://arxiv.org/abs/2302.01834) ([HN](https://news.ycombinator.com/item?id=34970877))
 - [MultiViz: Towards Visualizing and Understanding Multimodal Models](https://multivizweb.github.io/) ([Code](https://github.com/pliang279/MultiViz)) ([Paper](https://arxiv.org/abs/2207.00056))
 - [Awesome Transformers](https://github.com/abacaj/awesome-transformers) - Curated list of awesome transformer models.
+- [Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (2022)](https://arxiv.org/abs/2201.06503) ([Code](https://github.com/baofff/Analytic-DPM))

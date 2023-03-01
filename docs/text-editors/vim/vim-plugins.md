@@ -6,7 +6,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
-- [Ale](https://github.com/dense-analysis/ale) - Asynchronouhttps://github.com/b0o/mapx.luaLint Engine.
+- [Ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with LSP support.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [Nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Quick comments.
@@ -104,6 +104,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing.
 - [Mind.nvim](https://github.com/phaazon/mind.nvim) - Organizer tool for Neovim. ([Video overview](https://www.youtube.com/watch?v=UWSOGoHqkv4))
 - [NCM2](https://github.com/ncm2/ncm2) - Slim, Fast and Hackable Completion Framework for Neovim.
+- [yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) - Get, set and autodetect YAML schemas in your buffers.
 - [nest.nvim](https://github.com/LionC/nest.nvim) - Neovim utility plugin to define keymaps in concise, readable, cascading lists and trees.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [SnippetGenie](https://github.com/ziontee113/SnippetGenie) - Snippet creation tool for Neovim.

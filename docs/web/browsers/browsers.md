@@ -2,7 +2,7 @@
 
 [Web Browser Engineering](https://browser.engineering/) & [Inside look at modern web browser](https://twitter.com/addyosmani/status/1492398000500404227) are great resources. [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s) is a great watch too.
 
-[Microlink](https://microlink.io/) is nice tool.
+[Microlink](https://microlink.io/) & [WebExtension Toolbox](https://github.com/webextension-toolbox/webextension-toolbox) are nice tools.
 
 Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-template) template to build extensions. [WebExtension Vite Starter](https://github.com/antfu/vitesse-webext) is great too.
 

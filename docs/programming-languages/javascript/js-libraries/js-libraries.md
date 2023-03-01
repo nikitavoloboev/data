@@ -1131,6 +1131,7 @@
 - [custom-function](https://github.com/WebReflection/custom-function) - Literally the only sane way, if not the fastest one, to extend the Function class without evaluation.
 - [store](https://github.com/nbubna/store) - Better way to use localStorage and sessionStorage.
 - [EasyStar.js](https://github.com/prettymuchbryce/easystarjs) - HTML5/JavaScript Pathfinding Library.
+- [import-jsx](https://github.com/vadimdemedes/import-jsx) - Import and transpile JSX on the fly.
 
 ## Links
 

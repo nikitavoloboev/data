@@ -22,6 +22,7 @@ title: Lua
 - [Lua VM in pure Go](https://github.com/Shopify/go-lua)
 - [GopherLua](https://github.com/yuin/gopher-lua) - VM and compiler for Lua in Go.
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
+- [Awesome Lua 2](https://github.com/uhub/awesome-lua)
 - [Embedding Lua Tutorial](https://github.com/davepoo/EmbeddingLuaTutorial)
 - [Lunatic Python](https://github.com/bastibe/lunatic-python) - Two-way bridge between Python and Lua.
 - [Interesting things about the Lua interpreter (2020)](https://thesephist.com/posts/lua/)

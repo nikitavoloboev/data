@@ -2719,6 +2719,7 @@
 - [Wax](https://github.com/olson-sean-k/wax) - Opinionated and portable globs that can be matched against paths and directory trees.
 - [ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data.
 - [ruice](https://github.com/yumemi-inc/ruice) - Runtime based Dependency Injection for Rust.
+- [blink-alloc](https://github.com/zakarumych/blink-alloc) - Fast, concurrent, arena-based allocator with drop support.
 
 ## Cargo Plugins
 

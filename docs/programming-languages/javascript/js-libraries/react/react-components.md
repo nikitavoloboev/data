@@ -365,6 +365,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [react-hook-qrcode-svg](https://github.com/alexzel/react-hook-qrcode-svg) - React hook that generates QR code and returns SVG path.
 - [Sonner](https://github.com/emilkowalski/sonner) - Opinionated toast component for React.
 - [suspense](https://github.com/bvaughn/suspense) - APIs to simplify data loading and caching. Primarily intended for use with React Suspense.
+- [MorpherX](https://github.com/Kelin2025/morphling) - Morphing animations with ease.
 
 ## Links
 

@@ -18,3 +18,4 @@
 - [FlexiRaft: Flexible Quorums with Raft (2023)](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)
 - [Visual Query Designer for MySQL](https://swapnilmj.github.io/web-vqd/) ([Code](https://codeberg.org/swapnilmj/web-vqd))
 - [Scaling Etsy Payments with Vitess (2023)](https://www.etsy.com/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
+- [Vitess 16 (2023)](https://planetscale.com/blog/announcing-vitess-16) ([HN](https://news.ycombinator.com/item?id=34972733))

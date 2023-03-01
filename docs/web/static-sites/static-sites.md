@@ -138,3 +138,4 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Adventures in making this website: static site generation (2022)](https://prefetch.eu/blog/2022/website-adventures-generators/)
 - [Writing a Static Site Generator Using Shake (2022)](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)
 - [Soupault 4.4.0 release and a review of cache implementations in static site generators (2023)](https://soupault.app/blog/soupault-4.4.0-release-and-ssg-caching/)
+- [oranda](https://github.com/axodotdev/oranda) - Generate beautiful landing pages for your developer tools.
