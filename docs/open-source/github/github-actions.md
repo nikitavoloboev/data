@@ -424,6 +424,7 @@ title: GitHub actions
 
 ## Nix
 
+- [Nix Installer Action](https://github.com/DeterminateSystems/nix-installer-action) - GitHub Action for the Determinate Nix Installer.
 - [Nix CI Demo](https://github.com/nixbuild/ci-demo)
 - [Nix + GitHub Actions](https://github.com/DeterminateSystems/nix-github-actions) - Example project showing how to use Nix to replace third-party GitHub Actions.
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.

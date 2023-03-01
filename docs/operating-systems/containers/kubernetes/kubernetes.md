@@ -937,3 +937,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Kubernetes Cluster Hetzner API Provider](https://github.com/syself/cluster-api-provider-hetzner) - Provides a consistent deployment and day 2 operations of "self-managed" Kubernetes clusters on Hetzner.
 - [One Chart](https://github.com/gimlet-io/onechart) - Generic Helm chart for your application deployments.
 - [Community Images](https://github.com/dims/community-images) - kubectl plugin that displays images running in a Kubernetes cluster that were pulled from community owned repositories and warn the user to switch repositories if needed.
+- [KWOK: Kubernetes WithOut Kubelet (2023)](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/) ([HN](https://news.ycombinator.com/item?id=34978264))

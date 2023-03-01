@@ -313,7 +313,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability tool designed to work exclusively with the transformers package.
 - [Whatlang](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. ([Web](https://whatlang.org/))
 - [Category Theory + NLP Papers](https://github.com/jbrkr/Category_Theory_Natural_Language_Processing_NLP)
-- [UniLM](https://github.com/microsoft/unilm) - Pre-trained models for natural language understanding (NLU) and generation (NLG) tasks.
+- [UniLM](https://github.com/microsoft/unilm) - Pre-trained models for natural language understanding (NLU) and generation (NLG) tasks. ([HN](https://news.ycombinator.com/item?id=34980449))
 - [AutoNLP](https://github.com/huggingface/autonlp) - Faster and easier training and deployments of SOTA NLP models.
 - [TAble PArSing (TAPAS)](https://github.com/google-research/tapas) - End-to-end neural table-text understanding models.
 - [Replacing Bert Self-Attention with Fourier Transform: 92% Accuracy, 7X Faster (2021)](https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/)

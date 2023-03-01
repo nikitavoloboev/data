@@ -103,3 +103,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [Autodidax: JAX core from scratch](https://jax.readthedocs.io/en/latest/autodidax.html) ([HN](https://news.ycombinator.com/item?id=34732361))
 - [Aesara on JAX](https://github.com/rlouf/aejax)
 - [Training Deep Networks with Data Parallelism in Jax (2023)](https://www.mishalaskin.com/posts/data_parallel) ([HN](https://news.ycombinator.com/item?id=34926778))
+- [JAX – Augments numpy and Python code with function transformations (2019)](https://colinraffel.com/blog/you-don-t-know-jax.html) ([HN](https://news.ycombinator.com/item?id=34979201))

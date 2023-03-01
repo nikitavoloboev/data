@@ -694,6 +694,7 @@
 - [Neuron](https://github.com/wvabrinskas/Neuron) - Neural network library for Swift.
 - [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [Carlo](https://github.com/maxhumber/Carlo) - Monte Carlo Tree Search Library.
+- [Replicate Swift](https://github.com/mattt/replicate-swift) - Lets you run models from your Swift code, and do various other things on Replicate.
 
 ## DB
 

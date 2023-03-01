@@ -329,7 +329,7 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation (2023)](https://multidiffusion.github.io/) ([Code](https://github.com/omerbt/MultiDiffusion))
 - [Diffusion WebUI Colab](https://github.com/acheong08/Diffusion-ColabUI) - Choose your diffusion models and spin up a WebUI on Colab in one click.
 - [Universal Guidance for Diffusion Models (2023)](https://arxiv.org/abs/2302.07121) ([Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion))
-- [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI. ([Code](https://github.com/replicate/scribble-diffusion))
+- [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI. ([Code](https://github.com/replicate/scribble-diffusion)) ([HN](https://news.ycombinator.com/item?id=34971579))
 - [tldream](https://github.com/Sanster/tldream) - Tiny little diffusion drawing app.
 - [Civitai](https://civitai.com/) - Stable Diffusion models, embeddings, hypernetworks and more. ([Code](https://github.com/civitai/civitai))
 - [Easy Lora Handbook](https://github.com/haofanwang/Easy-Lora-Handbook) - Most easy-to-understand tutorial for using Lora within diffusers framework for AI Generation Researchers.

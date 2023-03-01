@@ -180,6 +180,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [LakeOS](https://github.com/vincenthouyi/LakeOS) - L4-like micro-kernel OS written in Rust.
 - [BetaOS](https://github.com/admkopec/BetaOS) - Operating system written in Swift.
 - [HellOS](https://github.com/andrewrk/HellOS) - Bare bones "hello world" i386 kernel written in Zig.
+- [ArceOS](https://github.com/rcore-os/arceos) - Experimental modular OS written in Rust.
 
 ## Notes
 

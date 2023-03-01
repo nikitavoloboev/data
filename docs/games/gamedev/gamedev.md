@@ -332,3 +332,4 @@
 - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping in Go.
 - [Write a First Person Game in 2KB with Rust (2023)](https://grantshandy.github.io/posts/raycasting/) ([HN](https://news.ycombinator.com/item?id=34948151))
 - [Project Goobii](https://projectgoobii.com/) - Former game devs building a platform showcasing game projects. ([HN](https://news.ycombinator.com/item?id=34962820))
+- [Game Asset Storage, Loading, Compression and Caching (2023)](https://ph3at.github.io/posts/Asset-Compression/)

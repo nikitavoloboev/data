@@ -173,3 +173,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX Cheat Sheet](https://github.com/ric-sar/latex_cheat_sheet)
 - [LaTeXSwiftUI](https://github.com/colinc86/LaTeXSwiftUI) - SwiftUI view that renders LaTeX.
 - [LaTeX is The Best Thing to Explain Computer Graphics (2023)](https://www.youtube.com/watch?v=J39D-OTiyeY)
+- [Texdoc](https://github.com/TeX-Live/texdoc) - Find and view documentation in TeX Live.

@@ -839,3 +839,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Tom](https://github.com/Kikobeats/tom) - Backoffice for your projects.
 - [WebHookThing](https://webhookthing.com/) - Run webhooks locally with 1 click.
 - [Beeper](https://www.beeper.com/) - All your chats in one app.
+- [Thema](https://github.com/grafana/thema) - CUE-based framework for portable, evolvable schema.

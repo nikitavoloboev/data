@@ -187,3 +187,4 @@ I personally [don't start with tests](https://www.youtube.com/watch?v=VB3Vh9Vf72
 - [I gained a new appreciation for Test Driven Development (2023)](https://www.worthe-it.co.za/blog/2023-02-09-i-was-saved-by-test-driven-development.html) ([HN](https://news.ycombinator.com/item?id=34731917))
 - [Swarm Testing (2012)](https://users.cs.utah.edu/~regehr/papers/swarm12.pdf) ([Lobsters](https://lobste.rs/s/eneyt5/swarm_testing))
 - [Test Driven Development Sucks (2023)](https://www.youtube.com/watch?v=VB3Vh9Vf724)
+- [Pact](https://pact.io/) - Microservices testing made easy. ([Pact Reference Implementation](https://github.com/pact-foundation/pact-reference)) ([Python Code](https://github.com/pact-foundation/pact-python))

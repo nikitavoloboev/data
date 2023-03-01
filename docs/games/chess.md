@@ -273,4 +273,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Fire On Board: Shirov's Best Games by Alexei Shirov](https://www.goodreads.com/en/book/show/1405650)
 - [Deno Chess](https://github.com/raydog/deno-chess) - Speedy pure-Typescript chess engine.
 - [Go Chess](https://github.com/Vadman97/GolangChessAI) - Exploring Parallel Search Techniques with a Novel Go Chess Engine.
-- [What is Chess? What to think and how long for (2023)](https://www.alexcrompton.com/blog/time-thoughts-chess)
+- [What is Chess? What to think and how long for (2023)](https://www.alexcrompton.com/blog/time-thoughts-chess) ([HN](https://news.ycombinator.com/item?id=34981737))
