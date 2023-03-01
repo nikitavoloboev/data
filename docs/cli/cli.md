@@ -243,3 +243,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Shell script which checks your $HOME for unwanted files and directories.
 - [greple](https://github.com/kaz-utashiro/greple) - Extensible grep with lexical expression and region handling.
 - [WIKI-TUI](https://github.com/Builditluc/wiki-tui) - Simple and easy to use Wikipedia Text User Interface.
+- [GTop](https://github.com/mJehanno/gtop) - Alternative to top or htop made in Go.

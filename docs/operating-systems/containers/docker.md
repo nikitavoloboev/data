@@ -12,6 +12,8 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 
 [dive](https://github.com/wagoodman/dive) is neat tool explore contents of each image.
 
+[MRSK](https://github.com/mrsked/mrsk) is interesting tool to deploy containers on bare [Linux](../linux/linux.md) machines like [Hetzner](https://www.hetzner.com/).
+
 ## Links
 
 - [Docker Docs](https://docs.docker.com/) ([Code](https://github.com/docker/docker.github.io))
@@ -296,3 +298,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Docker Will Edit Host-Based Firewall Rules For You (2023)](https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/) ([HN](https://news.ycombinator.com/item?id=34858775))
 - [docker-bakery](https://github.com/smartrecruiters/docker-bakery) - Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes.
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples) ([HN](https://news.ycombinator.com/item?id=34940181))
+- [MRSK](https://github.com/mrsked/mrsk) - Deploys web apps anywhere from bare metal to cloud VMs using Docker with zero downtime.

@@ -657,3 +657,4 @@ title: GitHub actions
 - [action-validator](https://github.com/mpalmer/action-validator) - Tool to validate GitHub Action and Workflow YAML files.
 - [Rust-generated WebAssembly GitHub action template](https://github.com/peter-evans/rust-wasm-action)
 - [Select Matching Issues](https://github.com/lee-dohm/select-matching-issues) - GitHub Action to select issues matching a query.
+- [Cached LFS checkout](https://github.com/nschloe/action-cached-lfs-checkout) - GitHub checkout action with LFS files pulled from cache.

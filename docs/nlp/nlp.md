@@ -864,3 +864,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Language Is Not All You Need: Aligning Perception with Language Models (2023)](https://arxiv.org/abs/2302.14045)
 - [LLMs are compilers (2023)](https://vivekhaldar.com/articles/llms-are-compilers/) ([Lobsters](https://lobste.rs/s/ug0alo/llms_are_compilers))
 - [Beating OpenAI CLIP with 100x less data and compute (2023)](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality) ([HN](https://news.ycombinator.com/item?id=34970045))
+- [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://github.com/ridgerchu/SpikeGPT)
+- [TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks](https://github.com/ridgerchu/TCJA)

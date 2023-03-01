@@ -194,7 +194,6 @@ title: Rails
 - [Docked Rails CLI](https://github.com/rails/docked) - Running Rails from Docker for easy start to development.
 - [Handling Stripe Webhooks with Rails (2022)](https://www.cjav.dev/articles/handling-stripe-webhooks-with-rails)
 - [Rails Authentication from Scratch (2022)](https://stevepolito.design/blog/rails-authentication-from-scratch/) ([HN](https://news.ycombinator.com/item?id=34301317))
-- [MRSK](https://github.com/rails/mrsk) - Zero-downtime deploys of Rails apps packed as containers to any host.
 - [Ask HN: Who’s using Ruby for web development, without Ruby on Rails? (2023)](https://news.ycombinator.com/item?id=34354129)
 - [Gemfile of dreams: the libraries we use to build Rails apps (2023)](https://evilmartians.com/chronicles/gemfile-of-dreams-libraries-we-use-to-build-rails-apps)
 - [Ruby on Jets](https://github.com/boltops-tools/jets) - Like Rails but serverless. ([HN](https://news.ycombinator.com/item?id=34474049))

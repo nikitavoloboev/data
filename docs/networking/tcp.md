@@ -115,3 +115,4 @@ title: TCP
 - [Tonel](https://github.com/sabify/tonel) - Multi-Stream UDP over TCP Tunneler for Lightning-Fast Network Layer 3 Transmission with TUN Interface.
 - [tcpdump is amazing (2016)](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) ([HN](https://news.ycombinator.com/item?id=34623604))
 - [Is It Time to Replace TCP in Data Centers? (2023)](https://blog.ipspace.net/2023/01/data-center-tcp-replacement.html) ([HN](https://news.ycombinator.com/item?id=34871670))
+- [dill](https://github.com/fwkz/dill) - Cloud ready L4 TCP proxy with first-class support for dynamic listeners.
