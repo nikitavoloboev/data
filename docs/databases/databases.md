@@ -785,3 +785,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Dumping databases for faster furigana (2023)](https://geeklaunch.io/blog/dumping-databases-for-faster-furigana/)
 - [Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms (2023)](https://kuzudb.com/blog/wcoj.html) ([HN](https://news.ycombinator.com/item?id=34959895))
 - [A Relational Spreadsheet (2023)](https://kevinlynagh.com/relational-spreadsheet/) ([HN](https://news.ycombinator.com/item?id=34946189))
+- [Database Cryptography Fur the Rest of Us (2023)](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/) ([Lobsters](https://lobste.rs/s/px3ovv/database_cryptography_fur_rest_us))

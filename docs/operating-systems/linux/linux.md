@@ -698,3 +698,4 @@ title: Linux
 - [Time to get the Posix elephant off our necks? (2022)](https://queue.acm.org/detail.cfm?id=3570921) ([HN](https://news.ycombinator.com/item?id=34904337))
 - [Alpine Suck](https://as.bt.ht/) - Lightweight Desktop installer for Alpine Linux based on the suckless philosophy.
 - [Linux-factory](https://github.com/clayrisser/linux-factory) - Framework used to create custom Linux Debian operating systems. ([HN](https://news.ycombinator.com/item?id=34962914))
+- [Mounting into mount namespaces (2023)](https://brauner.io/2023/02/28/mounting-into-mount-namespaces.html)

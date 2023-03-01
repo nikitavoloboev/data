@@ -426,3 +426,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Nix Based C++ Workflow From Scratch (2021)](https://www.breakds.org/post/nix-based-c++-workflow/)
 - [Zork](https://github.com/zerodaycode/Zork) - Project manager and builder automation tool for modern C++ projects.
 - [The Most Important Optimizations to Apply in Your C++ Programs (2022)](https://www.youtube.com/watch?v=qCjEN5XRzHc)
+- [New C++23 features I'm excited about (2022)](https://twdev.blog/2022/10/cpp23/)

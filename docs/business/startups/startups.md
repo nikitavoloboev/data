@@ -20,6 +20,8 @@ Liked [this episode](https://www.thetwentyminutevc.com/kevin-systrom/) as it goe
 
 One of the things I've learned no company should ever do is not pay on time. Salary should hit employees accounts at same day every month.
 
+[Cal.com Handbook](https://handbook.cal.com/) is nice.
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.

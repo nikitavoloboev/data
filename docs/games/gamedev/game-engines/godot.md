@@ -114,3 +114,4 @@ title: Godot
 - [GDShell](https://github.com/Kubulambula/Godot-GDShell) - Feature-packed linux-like in-game console for development, debugging, cheats and/or any other interaction with your game.
 - [gd-YAFSM](https://github.com/imjp94/gd-YAFSM) - Finite State Machine for Godot.
 - [Godot Goal Oriented Action Planning Example](https://github.com/viniciusgerevini/godot-goap)
+- [Godot 4.0 Released (2023)](https://godotengine.org/article/godot-4-0-sets-sail/) ([HN](https://news.ycombinator.com/item?id=34982889))

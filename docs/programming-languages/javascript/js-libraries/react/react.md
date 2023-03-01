@@ -376,3 +376,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Improving React Interaction Times by 4x (2022)](https://causal.app/blog/react-perf)
 - [React Is Holding Me Hostage (2023)](https://emnudge.dev/blog/react-hostage)
 - [forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
+- [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library (2023)](https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/)

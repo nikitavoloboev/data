@@ -189,3 +189,4 @@
 - [Much Ado About Sampling (2022)](https://www.jeremyong.com/math/monte%20carlo/2022/05/17/much-ado-about-sampling/)
 - [Learning Statistics Shiny App](https://github.com/nrennie/learning-statistics)
 - [The Unreasonable Effectiveness of Conditional Probabilities (2023)](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html) ([HN](https://news.ycombinator.com/item?id=34897701))
+- [Curated Book List - Open Access Textbooks on Statistics](https://franknielsen.github.io/Books/CuratedBookLists.html)

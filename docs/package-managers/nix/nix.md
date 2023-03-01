@@ -514,3 +514,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix: Reasonable Default Configs (2022)](https://jackson.dev/post/nix-reasonable-defaults/)
 - [Determinate Nix Installer (2023)](https://determinate.systems/posts/determinate-nix-installer) ([Lobsters](https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer)) ([HN](https://news.ycombinator.com/item?id=34957953))
 - [Some notes on using nix (2023)](https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/)
+- [Nix journey part 0: Learning and reference materials (2023)](https://tinkering.xyz/nix-docs/) ([Lobsters](https://lobste.rs/s/zwgwrw/nix_journey_part_0_learning_reference))

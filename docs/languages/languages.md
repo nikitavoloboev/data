@@ -101,3 +101,4 @@
 - [DeepL X](https://github.com/OwO-Network/DeepLX) - Permanently free DeepL API written in Go.
 - [Borgo](https://github.com/borgo-lang/borgo) - Rusty functional language that compiles to Go.
 - [Help! Is This Arabic?](https://isthisarabic.com/) ([HN](https://news.ycombinator.com/item?id=34949146))
+- [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.

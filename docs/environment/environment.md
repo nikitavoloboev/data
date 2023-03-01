@@ -209,3 +209,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Data-driven predictions of the time remaining until critical global warming thresholds are reached (2023)](https://www.pnas.org/doi/10.1073/pnas.2207183120)
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
 - [Cobalt is suddenly abundant (2023)](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant) ([HN](https://news.ycombinator.com/item?id=34853522))
+- [Epoch BioDesign](https://www.epochbiodesign.com/) - Making our planet better with biology.
