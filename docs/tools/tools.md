@@ -204,7 +204,6 @@ One of my favorite things in life is building little tools for solving even the 
 - [Dico.app](https://dico.app/) - Manage static content for your web app with ease. ([GitHub](https://github.com/dico-app))
 - [Boon](https://boon.tv/) - Build your members community.
 - [Answer](https://answer.dev/) - Build Q&A community. ([Code](https://github.com/answerdev/answer))
-- [Typebot](https://typebot.io/) - Open-source conversational apps builder. ([Code](https://github.com/baptisteArno/typebot.io)) ([HN](https://news.ycombinator.com/item?id=30811499))
 - [avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars.
 - [Markwhen](https://markwhen.com/) - Text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline. ([Docs](https://markwhen.com/docs)) ([Code](https://github.com/kochrt/markwhen))
 - [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes. ([HN](https://news.ycombinator.com/item?id=24168152))

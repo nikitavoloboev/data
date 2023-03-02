@@ -222,6 +222,7 @@ div.CodeMirror-cursor,
 - [Clipper](https://github.com/jgchristopher/obsidian-clipper) - Capture highlights from the web as Markdown entries in Obsidian.
 - [ActivityWatch Obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) - Obsidian plugin to track user activity with ActivityWatch.
 - [Obsidian GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) - Obsidian plugin to generate notes based on GP3 output.
+- [GPT3 Summarizer](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize text with GPT-3 in Obsidian.
 
 ## Themes
 

@@ -137,3 +137,4 @@ Using it to currently to manage my schema and ORM for [LA](../ideas/learn-anythi
 - [Prisma JSON Types Generator](https://github.com/arthurfiorette/prisma-json-types-generator)
 - [Alternative Prisma Data Proxy](https://github.com/aiji42/prisma-data-proxy-alt)
 - [ZenStack](https://zenstack.dev/) - Prisma Catalyst For Full-stack Development. ([Code](https://github.com/zenstackhq/zenstack))
+- [Prisma Databases Sync](https://github.com/baptisteArno/prisma-database-sync) - Typesafe databases sync tool powered by Prisma.
