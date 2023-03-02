@@ -6,6 +6,10 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 
 We also need to focus all our efforts on [halting & reversing extinctions of animals and insects](https://twitter.com/TonyJuniper/status/1522094235365052416).
 
+What [Epoch BioDesign](https://www.epochbiodesign.com/) are doing to [actually recycle plastic](https://www.youtube.com/watch?v=Hwp-6CjvcA4) is amazing.
+
+Recycling should be [fully automated](https://twitter.com/nikitavoloboev/status/1631282441951363072).
+
 ## Notes
 
 - [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
@@ -210,3 +214,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
 - [Cobalt is suddenly abundant (2023)](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant) ([HN](https://news.ycombinator.com/item?id=34853522))
 - [Epoch BioDesign](https://www.epochbiodesign.com/) - Making our planet better with biology.
+- [Giving New Life to Plastic Waste | Epoch Biodesign (2023)](https://www.youtube.com/watch?v=Hwp-6CjvcA4)

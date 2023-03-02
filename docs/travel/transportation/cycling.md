@@ -49,3 +49,4 @@
 - [Rad Power Bikes](https://www.radpowerbikes.com/)
 - [Pi Zero Bike computer](https://github.com/hishizuka/pizero_bikecomputer) - Open-source bike computer based on Raspberry Pi Zero (W, WH, 2 W) with GPS and ANT+.
 - [Rental bike usage patterns (2023)](https://www.extua.pw/blog/2023/02/25/rental_bike_usage_patterns/)
+- [Can We Make Bicycles Sustainable Again? (2023)](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html)

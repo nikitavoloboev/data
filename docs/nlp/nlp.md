@@ -8,7 +8,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 
 [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) is a nice intro.
 
-[LangChain](https://github.com/hwchase17/langchain/) & [Petals](https://petals.ml/) are interesting. [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt) is nice minimal GPT implementation.
+[LangChain](https://github.com/hwchase17/langchain/) & [Petals](https://petals.ml/) are interesting. [Lightning GPT](https://github.com/Lightning-AI/lightning-gpt) is nice minimal GPT implementation. Want to try use [LLaMA](https://github.com/facebookresearch/llama) model.
 
 [Tokenizers](https://github.com/huggingface/tokenizers) & [tiktoken](https://github.com/openai/tiktoken) are interesting tokenizers.
 

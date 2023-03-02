@@ -14,7 +14,7 @@ title: WebAssembly
 
 [Extism](https://github.com/extism/extism) looks nice for extending native code.
 
-[WebAssembly Tour](https://github.com/thangchung/webassembly-tour) is nice overview.
+[WebAssembly Tour](https://github.com/thangchung/webassembly-tour) & [Learning WebAssembly, Rust and Node](https://github.com/second-state/wasm-learning) are nice overviews.
 
 ## Links
 

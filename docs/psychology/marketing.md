@@ -212,6 +212,7 @@ Recently, I like how [CleanShot](https://twitter.com/cleanshot) iterates and sha
 - [Vintage Apple advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/) ([HN](https://news.ycombinator.com/item?id=34007654))
 - [Underrated growth tool: playgrounds](https://twitter.com/rauchg/status/1609633615511711747)
 - [How to market your product not only on Twitter (2023)](https://twitter.com/pie6k/status/1615275903218778112)
+- [How Duolingo reignited user growth (2023)](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth) ([HN](https://news.ycombinator.com/item?id=34977435))
 
 ## Images
 

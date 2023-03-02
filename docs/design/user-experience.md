@@ -1,6 +1,6 @@
 # User Experience
 
-[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/), [Practical UI](https://www.practical-ui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
+[Web Interface Guidelines](https://rauno.me/interfaces) & [Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/), [Practical UI](https://www.practical-ui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
 
 Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969). [This](https://maggieappleton.com/command-bar) is nice overview of well designed search palettes. And [CMD+K](https://github.com/pacocoursey/cmdk) is nice library for making them.
 
@@ -236,3 +236,4 @@ Great onboarding is essential. Loved [Arc Browser](https://arc.net/) onboarding.
 - [Explore Wikipedia's New Look](https://wikimediafoundation.org/wikipedia-desktop/) ([HN](https://news.ycombinator.com/item?id=34429175))
 - [Ask HN: Why are toggle switches replacing checkboxes? Isn't on/off less obvious? (2023)](https://news.ycombinator.com/item?id=34436606)
 - [When you hear "software made with care," what products come to mind? (2023)](https://twitter.com/Gavmn/status/1626734312984043520)
+- [Web Interface Guidelines](https://rauno.me/interfaces) ([Tweet](https://twitter.com/raunofreiberg/status/1629124238589235201))

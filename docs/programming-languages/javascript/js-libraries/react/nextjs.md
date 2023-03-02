@@ -435,3 +435,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Streaming OpenAI completions with the Vercel Edge Runtime (2023)](https://www.beskar.co/blog/streaming-openai-completions-vercel-edge)
 - [First Look at Create T3 App w/ Christopher Ehrlich (2023)](https://www.youtube.com/watch?v=-CWarVQDtEg)
 - [Code Walkthrough for Next.js 13 / Tailwind CSS / MySQL App (2023)](https://www.youtube.com/watch?v=jeBy4vIBqw0)
+- [Next load](https://github.com/aralroca/next-load) - Load & consume data in an easy way in Next.js +13 app dir.

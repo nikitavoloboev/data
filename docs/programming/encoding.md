@@ -87,3 +87,4 @@
 - [rsbkb](https://github.com/trou/rsbkb) - Command line tools to encode/decode things.
 - [Hello, PNG (2023)](https://www.da.vidbuchanan.co.uk/blog/hello-png.html) ([HN](https://news.ycombinator.com/item?id=34425067))
 - [Schemaboi](https://github.com/josephg/schemaboi) - Serialization / deserialization format designed to fill a similar niche as Protobuf or JSON.
+- [Unicode Arrows](https://unicodearrows.com/)

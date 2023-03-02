@@ -106,3 +106,4 @@ I am confident that the advancements in computer vision can let you write your o
 - [Why VR/AR Gets Farther Away as It Comes Into Focus (2023)](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
 - [Bigscreen Beyond – Small VR Headset (2023)](https://twitter.com/BigscreenVR/status/1625152589624135698) ([HN](https://news.ycombinator.com/item?id=34775061))
 - [Nice VR games (2023)](https://mobile.twitter.com/meijer_s/status/1627687635647954951)
+- [Meta’s AR/VR hardware roadmap for the next four years (2023)](https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans) ([HN](https://news.ycombinator.com/item?id=34982919))

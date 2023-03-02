@@ -652,3 +652,4 @@ I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more t
 - [Highlights](https://github.com/sawyerh/highlights) - Code for converting, importing, processing, and displaying Kindle, Instapaper, and Safari Books highlights.
 - [bk](https://github.com/aeosynth/bk) - Terminal Epub reader.
 - [Burgr – Books in Your Terminal (2023)](https://blubsblog.bearblog.dev/burgr-books-in-your-terminal/) ([HN](https://news.ycombinator.com/item?id=34918782))
+- [BookGPT](https://book-gpt.vercel.app/) - Drop a book, start asking question. ([Code](https://github.com/fraserxu/book-gpt))
