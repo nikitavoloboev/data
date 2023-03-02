@@ -429,7 +429,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Teaching resources (OER) for Operating Systems](https://github.com/open-education-hub/operating-systems)
 - [weld](https://github.com/Hywan/weld) - Linker in Rust.
 - [Hypervisor 101 in Rust](https://github.com/tandasat/Hypervisor-101-in-Rust)
-- [Writing an OS in Rust to run on RISC-V](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)
+- [Writing an OS in Rust to run on RISC-V](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb) ([HN](https://news.ycombinator.com/item?id=34971765))
 - [Joe Duffy - Blogging about Midori (2015)](https://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 - [Building a Minimalistic Virtual Machine (2023)](https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/) ([HN](https://news.ycombinator.com/item?id=34936729)) ([Lobsters](https://lobste.rs/s/hc7bk7/building_minimalistic_virtual_machine))
 - [vmtest](https://github.com/danobi/vmtest) - Helps run your tests in a virtual machine.

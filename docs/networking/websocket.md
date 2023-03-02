@@ -140,3 +140,4 @@ title: WebSocket
 - [gws](https://github.com/lxzan/gws) - Event-driven go WebSocket server.
 - [Direct Sockets: Proposal for a future web platform API](https://github.com/WICG/direct-sockets/blob/main/docs/explainer.md) ([HN](https://news.ycombinator.com/item?id=34850903))
 - [streamscope](https://github.com/mikedewar/streamscope) - Visualize streams of data through a WebSocket.
+- [WebSocket Fiber](https://github.com/gofiber/websocket) - WebSocket middleware for Fiber.

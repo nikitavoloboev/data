@@ -83,3 +83,4 @@ The [interview](https://www.thetwentyminutevc.com/podcast/ian-lee/) with [Ian](h
 - [How to allocate work efficiently in DAOs?](https://twitter.com/spengrah/status/1537825584520249345)
 - [Go Fork Yourself (2022)](https://www.notboring.co/p/go-fork-yourself)
 - [A simple guide to quadratic voting (2022)](https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1) ([HN](https://news.ycombinator.com/item?id=32337705))
+- [The Hidden Shortcomings of (D)AOs -- An Empirical Study of On-Chain Governance (2023)](https://arxiv.org/abs/2302.12125)

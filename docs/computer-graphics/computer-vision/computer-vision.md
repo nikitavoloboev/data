@@ -1163,3 +1163,8 @@
 - [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) - Image registration related books, papers, videos, and toolboxes.
 - [Learning Visual Representations via Language-Guided Sampling (2023)](https://arxiv.org/abs/2302.12248) ([Code](https://github.com/mbanani/lgssl))
 - [RealFusion: 360° Reconstruction of Any Object from a Single Image (2023)](https://arxiv.org/abs/2302.10663) ([Code](https://github.com/lukemelas/realfusion))
+- [Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment (2022)](https://arxiv.org/abs/2208.13628) ([Code](https://github.com/mshukor/ViCHA))
+- [Composer: Creative and Controllable Image Synthesis with Composable Conditions (2023)](https://arxiv.org/abs/2302.09778) ([Code](https://github.com/damo-vilab/composer))
+- [Decoupling Human and Camera Motion from Videos in the Wild (2023)](https://arxiv.org/abs/2302.12827) ([Code](https://github.com/vye16/slahmr))
+- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth (2023)](https://arxiv.org/abs/2302.12288) ([Code](https://github.com/isl-org/ZoeDepth))
+- [The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (2023)](https://openreview.net/forum?id=xLr0I_xYGAs) ([Code](https://github.com/Jun-CEN/Unified_Open_Set_Recognition))

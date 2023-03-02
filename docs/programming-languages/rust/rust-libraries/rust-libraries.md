@@ -2720,6 +2720,7 @@
 - [ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data.
 - [ruice](https://github.com/yumemi-inc/ruice) - Runtime based Dependency Injection for Rust.
 - [blink-alloc](https://github.com/zakarumych/blink-alloc) - Fast, concurrent, arena-based allocator with drop support.
+- [HEVC Parser](https://github.com/quietvoid/hevc_parser) - HEVC format parser.
 
 ## Cargo Plugins
 
@@ -3053,3 +3054,4 @@
 - [Packaging Your Rust Code (2022)](https://skerritt.blog/packaging-your-rust-code/) ([Reddit](https://www.reddit.com/r/rust/comments/1169uxo/packaging_your_rust_code/))
 - [Nothing in Rust (2023)](https://geeklaunch.io/blog/nothing-in-rust/) ([Lobsters](https://lobste.rs/s/ecsspe/nothing_rust))
 - [Rust for Web Development | An Honest Evaluation (2023)](https://www.reddit.com/r/rust/comments/11ddacc/rust_for_web_development_an_honest_evaluation/)
+- [Rust's BufRead, And When To Use It (2023)](https://www.brandons.me/blog/bufread-and-when-to-use-it)

@@ -66,3 +66,4 @@ Like how you can [embed Swift code into Expo](https://twitter.com/Baconbrix/stat
 - [Expo Community Flipper](https://github.com/jakobo/expo-community-flipper) - Flipper Support for Expo Apps in React Native.
 - [What is the disadvantage of using expo instead of React Native CLI (2022)](https://www.reddit.com/r/reactnative/comments/yzybgj/what_is_the_disadvantage_of_using_expo_instead_of/)
 - [Expo Modules API allows first class Swift embedding](https://twitter.com/Baconbrix/status/1594311305099444225)
+- [Expo Examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools.

@@ -199,3 +199,4 @@ title: Rails
 - [Ruby on Jets](https://github.com/boltops-tools/jets) - Like Rails but serverless. ([HN](https://news.ycombinator.com/item?id=34474049))
 - [Safe PG Migrations](https://github.com/doctolib/safe-pg-migrations) - ActiveRecord migrations for Postgres made safe.
 - [Rails on Docker · Fly (2023)](https://fly.io/ruby-dispatch/rails-on-docker/) ([HN](https://news.ycombinator.com/item?id=34533930))
+- [Administration Zero](https://github.com/lazaronixon/administration-zero) - Administration system generator for Rails applications.

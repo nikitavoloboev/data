@@ -169,3 +169,5 @@
 - [MyST Markdown Tools](https://github.com/executablebooks/mystjs) - Parser and CLI for MyST Markdown, built in JavaScript.
 - [trimd](https://danburzo.ro/trimd/) - Online HTML to Markdown converter. ([Code](https://github.com/danburzo/trimd))
 - [goldmark-highlighting](https://github.com/yuin/goldmark-highlighting) - Syntax highlighting extension for the goldmark markdown parser.
+- [Mistune](https://github.com/lepture/mistune) - Fast yet powerful Python Markdown parser with renderers and plugins.
+- [PyMdown Extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown.

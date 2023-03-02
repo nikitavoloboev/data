@@ -192,6 +192,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 
 ## DB
 
+- [Cacheops](https://github.com/Suor/django-cacheops) - Slick ORM cache with automatic granular event-driven invalidation.
 - [Danio](https://github.com/strongbugman/danio) - ORM for python asyncio world.
 - [GINO](https://github.com/python-gino/gino) - Not ORM - is a lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio. ([Web](https://python-gino.org/))
 - [SQLModel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -1381,3 +1382,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [One does not simply 'pip install' (2023)](https://www.ianwootten.co.uk/2023/02/17/one-does-not-simply-pip-install/) ([HN](https://news.ycombinator.com/item?id=34835097))
 - [lazy_loader](https://github.com/scientific-python/lazy_loader) - Makes it easy to load subpackages and functions on demand.
 - [Awesome pyproject.toml](https://github.com/carlosperate/awesome-pyproject)
+- [Swift Python Cookiecutter](https://github.com/KennethEnevoldsen/swift-python-cookiecutter) - Python package template intended for low maintenance and quick package development.

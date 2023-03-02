@@ -159,3 +159,4 @@
 - [Icon Libraries](https://github.com/luizov/icon-libraries)
 - [Dashboard Icons](https://github.com/walkxcode/dashboard-icons) - Icons for your personal dashboard.
 - [Iconhunt](https://www.iconhunt.site/) - Search for open source icons, 150.000+ icons. ([HN](https://news.ycombinator.com/item?id=34949635))
+- [Glyphana](https://github.com/virtualritz/glyphana) - Unicode glyph map inspired by macOS Character Viewer.

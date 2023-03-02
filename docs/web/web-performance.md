@@ -226,3 +226,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [unpic img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component.
 - [How To Improve Lighthouse Scores by Avoiding \<img\> Layout Shifts (2023)](https://www.builder.io/blog/how-to-improve-lighthouse-scores-by-avoiding-img-layout-shifts)
 - [Dumb tricks that made my app 95.7x Faster (2023)](https://www.youtube.com/watch?v=vP3QVrveSvI)
+- [512KB Club](https://512kb.club/) - Showcase of lightweight websites. ([Code](https://github.com/kevquirk/512kb.club))

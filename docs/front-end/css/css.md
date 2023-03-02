@@ -632,5 +632,5 @@ all: unset
 - [CSS Wish List 2023 – Eric](https://meyerweb.com/eric/thoughts/2023/02/08/css-wish-list-2023/)
 - [CSS Wishlist 2023](https://daverupert.com/2023/01/css-wishlist-2023/)
 - [The Stack: Every Layout](https://every-layout.dev/layouts/stack/)
-- [On Container Queries, Responsive Images, and JPEG-XL (2023)](https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/)
+- [On Container Queries, Responsive Images, and JPEG-XL (2023)](https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/) ([HN](https://news.ycombinator.com/item?id=34979942))
 - [unpic/placeholder](https://github.com/ascorbic/unpic-placeholder) - Pure-CSS image placeholders.

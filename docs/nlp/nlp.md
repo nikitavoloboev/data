@@ -866,3 +866,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Beating OpenAI CLIP with 100x less data and compute (2023)](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality) ([HN](https://news.ycombinator.com/item?id=34970045))
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://github.com/ridgerchu/SpikeGPT)
 - [TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks](https://github.com/ridgerchu/TCJA)
+- [LLM Security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs.
+- [LangChain Chat](https://github.com/sullivan-sean/chat-langchainjs)
+- [Awesome Generative Information Retrieval](https://github.com/gabriben/awesome-generative-information-retrieval)

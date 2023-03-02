@@ -317,3 +317,5 @@ title: Spatial analysis
 - [Geo Assist](https://github.com/thegeekyasian/geo-assist) - Spatial library that allows you to manage spatial data in-memory. ([HN](https://news.ycombinator.com/item?id=34817779))
 - [Salta](https://github.com/pixwire/salta) - Small footprint reverse-geocoder for when you don't need precision.
 - [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard) ([HN](https://news.ycombinator.com/item?id=34919659))
+- [Geo Timezones (2023)](https://re-factor.blogspot.com/2023/03/geo-timezones.html)
+- [Open Source Routing Machine](https://github.com/Project-OSRM/osrm-backend) - High performance routing engine written in C++ designed to run on OpenStreetMap data.

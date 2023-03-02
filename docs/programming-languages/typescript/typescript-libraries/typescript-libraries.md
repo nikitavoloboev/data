@@ -817,6 +817,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [unctx](https://github.com/unjs/unctx) - Composables in vanilla JS.
 - [nodl](https://github.com/emilwidlund/nodl) - Framework for node-based applications. Leveraged by RxJS and Zod.
 - [Basin](https://github.com/microsoft/object-basin) - TypeScript library to stream updates to an object.
+- [text-dedup](https://github.com/ChenghaoMou/text-dedup) - Collection of data deduplication scripts.
+- [Kubb](https://github.com/stijnvanhulle/kubb) - OpenAPI to TypeScript, React-Query, Zod and Axios.
+- [ts-async-kit](https://github.com/NicolasLopes7/ts-async-kit) - Lightweight TypeScript library that provides an easy-to-use API for dealing with common promise-related operations such as retrying and looping.
 
 ## Links
 
@@ -934,3 +937,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more.
 - [micro-ts](https://github.com/adevinwild/micro-ts) - Micro-minimalist template to create TypeScript packages with `microbundle`.
 - [TypeScript: Building a better EventEmitter (2023)](https://www.youtube.com/watch?v=Pl7pDjWd830)
+- [Type Genius](https://type-genius.carbonology.in/) - Generate Typescript types from any JSON object. ([Code](https://github.com/MikeCarbone/type-genius))

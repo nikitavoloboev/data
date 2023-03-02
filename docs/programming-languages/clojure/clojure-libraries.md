@@ -109,6 +109,7 @@
 - [Clojure2D](https://github.com/Clojure2D/clojure2d) - Library supporting generative coding or glitching. ([Examples](https://github.com/Clojure2D/clojure2d-examples))
 - [Quil](https://github.com/quil/quil) - Clojure/ClojureScript library for creating interactive drawings and animations. ([Web](http://quil.info/))
 - [HumbleUI](https://github.com/HumbleUI/HumbleUI) - Clojure Desktop UI framework. ([Wordle in Clojure with Humble UI](https://www.youtube.com/watch?v=qSswvHrVnvo)) ([Starter](https://github.com/lilactown/humble-starter))
+- [cljbox2d](https://github.com/lambdaisland/cljbox2d) - Idiomatic and cross-platform Clojure version of the Box2D physics engine API.
 
 ## Error
 

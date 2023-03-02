@@ -115,3 +115,4 @@
 - [Favorite Figma plugin? (2023)](https://twitter.com/FonsMans/status/1610546597313794052)
 - [Magician](https://magician.design/) - Magical design tool for Figma powered by AI. ([Tweet](https://twitter.com/oykun/status/1611013578101760001))
 - [Text to Figma](https://github.com/jayhack/text-to-figma) - Conversational UI for Figma.
+- [Figma GPT Plugin](https://github.com/ryonakae/figma-plugin-figma-gpt) - Plugin that can talk with the ChatGPT.

@@ -147,3 +147,4 @@
 - [napi-rs/ssh](https://github.com/Brooooooklyn/ssh)
 - [Dropbear SSH](https://matt.ucc.asn.au/dropbear/dropbear.html) - Self-contained client/server for embedded systems.
 - [What is the Randomart Image for? (2023)](https://bytes.zone/posts/what-is-the-randomart-image-for/) ([HN](https://news.ycombinator.com/item?id=34878431))
+- [libssh2](https://github.com/libssh2/libssh2) - SSH2 library.

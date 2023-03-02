@@ -102,3 +102,4 @@
 - [Borgo](https://github.com/borgo-lang/borgo) - Rusty functional language that compiles to Go.
 - [Help! Is This Arabic?](https://isthisarabic.com/) ([HN](https://news.ycombinator.com/item?id=34949146))
 - [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.
+- [grammY Translations Telegram Bot](https://github.com/grammyjs/translations-bot) ([Translation Guide](https://github.com/grammyjs/website/blob/main/TRANSLATING.md))

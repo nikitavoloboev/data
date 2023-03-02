@@ -73,3 +73,4 @@ title: Tauri
 - [nsis-tauri-utils](https://github.com/tauri-apps/nsis-tauri-utils) - Collection of NSIS plugins written in rust.
 - [Why we built a Rust-powered desktop app for previewing documentation (2023)](https://www.doctave.com/blog/2023/02/02/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation.html)
 - [Tauri Mobile – Develop Mobile Apps with JavaScript and Rust (2023)](https://studioterabyte.nl/en/blog/tauri-mobile-app-development) ([HN](https://news.ycombinator.com/item?id=34979910))
+- [Tauri Lite](https://github.com/bramblex/tauri-lite)

@@ -338,3 +338,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [WebUI extension for ControlNet](https://github.com/Mikubill/sd-webui-controlnet)
 - [Stable Diffusion WebUI Colabs With ControlNet](https://github.com/camenduru/controlnet-colab)
 - [ControlLoRA: A Light Neural Network To Control Stable Diffusion Spatial Information (2023)](https://github.com/HighCWu/ControlLoRA)
+- [generate potter](https://github.com/aleemrehmtulla/generatepotter) - Boilerplate repo to deploy a custom stable diffusion model.

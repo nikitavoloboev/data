@@ -1452,6 +1452,7 @@
 - [RequestDL](https://github.com/brennobemoura/request-dl) - DL networking library for Swift.
 - [SFSymbol](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 - [SwifCron](https://github.com/MihaelIsaev/SwifCron) - Simple pure swift cron expression parser.
+- [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ## Other (not lib)
 

@@ -6,6 +6,10 @@ title: Firebase
 
 I like the real time aspect of Firebase but not sure how well it can scale for more complex use cases. [Some say it's not that great](https://twitter.com/kieranmch/status/1524334764223836161).
 
+## OSS apps
+
+- [Converational Voice Capture app](https://github.com/facebookresearch/conversational-voice-capture) - Create spaces for real-time audio conversations. Record data. Includes web app and admin interface.
+
 ## Notes
 
 - [Firebase can sometimes not sync data properly.](https://twitter.com/maccaw/status/1466506830977327105)

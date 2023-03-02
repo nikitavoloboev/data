@@ -504,3 +504,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [The best free (or low-cost) tools for video editors (2023)](https://www.theverge.com/23602829/best-free-video-editing-software-open-source-tools-free-shareware-encoding)
 - [Chocolate](https://github.com/ChocolateApp/Chocolate) - Open source media manager.
 - [FFmpeg 6.0 (2023)](http://www.ffmpeg.org/download.html#release_6.0) ([HN](https://news.ycombinator.com/item?id=34965535))
+- [Automatic subtitles in your videos](https://github.com/m1guelpf/auto-subtitle)

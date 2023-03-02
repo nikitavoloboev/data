@@ -137,3 +137,4 @@ title: Field-programmable gate array
 - [Introduction to FPGAs (2023)](https://smist08.wordpress.com/2023/02/04/introduction-to-fpgas/) ([HN](https://news.ycombinator.com/item?id=34664349))
 - [SatCat5](https://github.com/the-aerospace-corporation/satcat5) - FPGA gateware that implements a low-power, mixed-media Ethernet switch. ([HN](https://news.ycombinator.com/item?id=34817550))
 - [Maia SDR](https://github.com/maia-sdr/maia-sdr) - Open-source FPGA-based SDR project focusing on the ADALM Pluto.
+- [Learn FPGA](https://github.com/bl0x/learn-fpga-amaranth) - Code for Bruno Levy's learn-fpga tutorial written in Amaranth HDL.

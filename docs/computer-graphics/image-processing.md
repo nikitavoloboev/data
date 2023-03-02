@@ -243,3 +243,4 @@
 - [The dangers behind image resizing (2021)](https://zuru.tech/blog/the-dangers-behind-image-resizing) ([HN](https://news.ycombinator.com/item?id=34816918))
 - [SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling.
 - [Sips: Scriptable Image Processing System](https://til.simonwillison.net/macos/sips) ([HN](https://news.ycombinator.com/item?id=34849734))
+- [Simple image resizer/cropper API in Rust](https://github.com/kiyov09/simple-image-resizer-cropper)

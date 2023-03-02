@@ -370,6 +370,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Alice Ryhl](https://ryhl.io/)
 - [Absorptions](https://www.windytan.com/)
 - [Nicole Express](https://nicole.express/)
+- [Brandon Smith](https://www.brandons.me/)
 
 ## Notes
 

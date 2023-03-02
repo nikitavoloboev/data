@@ -150,3 +150,10 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [ChatGPT Helper](https://github.com/kiranvshah/chatgpt-helper) - VS Code extension to quickly query OpenAI's ChatGPT from inside your editor.
 - [Jailbreak Chat](https://www.jailbreakchat.com/) - Collection of ChatGPT jailbreaks. ([HN](https://news.ycombinator.com/item?id=34972791))
 - [Introducing ChatGPT and Whisper APIs (2023)](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) ([HN](https://news.ycombinator.com/item?id=34985848))
+- [TerminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT-like chatGPT on your terminal.
+- [ChatML: ChatGPT API expects a structured format, called Chat Markup Language](https://github.com/openai/openai-python/blob/main/chatml.md) ([HN](https://news.ycombinator.com/item?id=34988748))
+- [Jailbreaking OpenAI GPT language model](https://github.com/tg12/gpt_jailbreak_status)
+- [Go GPT3](https://github.com/sashabaranov/go-gpt3) - OpenAI ChatGPT and GPT-3 API client for Go.
+- [EX-chatGPT introduction](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs.
+- [Awesome Language Model Evaluations](https://github.com/Spico197/awesome-lm-evaluation) - Collection of ChatGPT evaluation reports on various bechmarks.
+- [Comparative Study on ChatGPT and Fine-tuned BERT](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT)

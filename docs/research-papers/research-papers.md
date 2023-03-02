@@ -222,3 +222,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [BibLaTeX](https://github.com/typst/biblatex) - Rust crate for parsing and writing BibTeX and BibLaTeX files.
 - [ResearchGPT](https://github.com/mukulpatnaik/researchgpt) - Interface to enable a conversation with a research paper.
 - [ChatGPT, please help to improve my paper writing](https://github.com/ashawkey/chatgpt_please_improve_my_paper_writing)
+- [Michael Whittaker's Paper Summaries](https://mwhittaker.github.io/papers/) ([Code](https://github.com/mwhittaker/papers))
+- [ResearchGPT](https://github.com/mukulpatnaik/researchgpt) - Open-source LLM based research assistant that allows you to have a conversation with a research paper.

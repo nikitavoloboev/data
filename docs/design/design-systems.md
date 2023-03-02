@@ -231,3 +231,4 @@
 - [Me in front of the Design System counsel, humbly looking for acceptance of the new border radius](https://twitter.com/hejhej_jay/status/1572522814007287812)
 - [Design Tokens Generator](https://tokens.layoutit.com/)
 - [Supernova](https://www.supernova.io/) - Design systems made easy.
+- [Design systems in the time of AI (2023)](https://bradfrost.com/blog/post/design-systems-in-the-time-of-ai/)
