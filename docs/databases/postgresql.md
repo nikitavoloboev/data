@@ -672,3 +672,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Postgres Unlogged Tables (2023)](https://www.crunchydata.com/blog/postgresl-unlogged-tables) ([HN](https://news.ycombinator.com/item?id=34846366))
 - [What's Postgres Got To Do With AI? (2023)](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai) ([HN](https://news.ycombinator.com/item?id=34903454))
 - [CoreDB](https://github.com/CoreDB-io/coredb) - Postgres for Everything.
+- [Mathesar](https://github.com/centerofci/mathesar) - Open-source collaborative UI for Postgres databases. ([HN](https://news.ycombinator.com/item?id=34999774))

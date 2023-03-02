@@ -940,3 +940,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [KWOK: Kubernetes WithOut Kubelet (2023)](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/) ([HN](https://news.ycombinator.com/item?id=34978264))
 - [ArgoCD Plugin running Nix flakes apps](https://github.com/mayflower/argocd-nix-flakes-plugin)
 - [Iter8](https://github.com/iter8-tools/iter8) - Kubernetes Release Optimizer.
+- [Running Databases on Kubernetes (2023)](https://questdb.io/blog/databases-on-k8s/) ([HN](https://news.ycombinator.com/item?id=34999039))

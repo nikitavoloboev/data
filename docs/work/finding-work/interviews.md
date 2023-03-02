@@ -179,3 +179,4 @@
 - [Gaming CS Interviews (2017)](https://transitivebullsh.it/gaming-cs-interviews)
 - [Best questions to ask while being interviewed](https://www.reddit.com/r/ExperiencedDevs/comments/y41n98/best_questions_to_ask_while_being_interviewed/)
 - [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
+- [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview) ([HN](https://news.ycombinator.com/item?id=34999464))
