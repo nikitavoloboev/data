@@ -1,8 +1,14 @@
 # Serverless computing
 
-Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) (NextJS) & [Cloudflare Workers](https://workers.cloudflare.com/) (Rust) for [serverless workloads](https://twitter.com/algo_luca/status/1464275828519448580).
+Use [Fly.io](../fly-io.md) for running [Docker](../../operating-systems/containers/docker.md) containers with [Go](../../programming-languages/go/go.md) or [Rust](../../programming-languages/rust/rust.md).
 
-[Railway](https://railway.app/) & [Fly.io](https://fly.io/) are incredible platforms too. [Serverless Application Stack](https://jbrandhorst.com/post/serverless-application-stack/) is nice overview.
+Also love using [Cloudflare Workers](cloudflare-workers.md) with [Hono](https://hono.dev/) library in [TS](../../programming-languages/typescript/typescript.md).
+
+[Railway](https://railway.app/), [Google Cloud Run](https://cloud.google.com/run), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) seem nice too.
+
+[Serverless Application Stack](https://jbrandhorst.com/post/serverless-application-stack/) is nice overview.
+
+[Service Weaver](https://github.com/ServiceWeaver/weaver) seems like a nice way to manage deployed [distributed services](../../distributed-systems/distributed-systems.md).
 
 ## Notes
 
@@ -191,3 +197,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Carving The Scheduler Out Of Our Orchestrator (2023)](https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/) ([HN](https://news.ycombinator.com/item?id=34628889))
 - [Flock](https://github.com/flock-lab/flock) - Low-Cost Streaming Query Engine on FaaS Platforms.
 - [Vercel Edge Functions + Hono Router + Wasm + Rust](https://github.com/leerob/hono-vercel-edge-functions)
+- [Nice serverless offerings (2021)](https://twitter.com/algo_luca/status/1464275828519448580)
