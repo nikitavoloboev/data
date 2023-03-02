@@ -104,3 +104,4 @@ title: Fuzzing
 - [FTZZ](https://github.com/SUPERCILEX/ftzz) - File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files.
 - [AFLNet](https://github.com/aflnet/aflnet) - Greybox Fuzzer for Network Protocols.
 - [Firefly](https://github.com/Brum3ns/firefly) - Black box fuzzer for web applications.
+- [autofz: Automated Fuzzer Composition at Runtime (2023)](https://arxiv.org/abs/2302.12879)

@@ -822,6 +822,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-async-kit](https://github.com/NicolasLopes7/ts-async-kit) - Lightweight TypeScript library that provides an easy-to-use API for dealing with common promise-related operations such as retrying and looping.
 - [HighwayHasher](https://github.com/nickbabcock/highwayhasher) - JS bindings to the Rust implementation of Google's HighwayHash, a fast, keyed and strong hash function.
 - [jsoq](https://github.com/nire0510/jsoq) - Query and manipulate JSON arrays easily.
+- [ts-known](https://github.com/LuciNyan/ts-known) - Guards for common types, and methods to generate type guards for specific types quickly.
 
 ## Links
 

@@ -13,7 +13,7 @@ Below are my 1,000+ notes & their relations visualized.
 This wiki is large. 100,000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc))
 
 ```
-~/Dropbox/Write/knowledge
+~/src/docs/knowledge
 ❯ loc
 --------------------------------------------------------------------------------
  Language             Files        Lines        Blank      Comment         Code
