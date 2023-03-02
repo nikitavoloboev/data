@@ -164,3 +164,4 @@ Sticking a link for how to contact you, be it twitter/telegram to your passport,
 - [GPTravel Advisor](https://gpt-travel-advisor.vercel.app/) - Create a travel itinerary for any city in the world in just a few seconds. ([Code](https://github.com/dabit3/gpt-travel-advisor))
 - [Where to?](https://www.wheretoai.com/)
 - [My Tips for Extended Solo Travel](https://www.reddit.com/r/solotravel/comments/1163bh5/my_tips_for_extended_solo_travel/)
+- [Mapy.cz](https://en.mapy.cz/)

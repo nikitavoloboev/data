@@ -159,3 +159,4 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Comparative Study on ChatGPT and Fine-tuned BERT](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT)
 - [ChatGPT API Demo](https://github.com/ddiu8081/chatgpt-demo)
 - [Chat with ChatGPT via a GitHub issue](https://github.com/second-state/chat-with-chatgpt)
+- [a](https://github.com/ddddddeon/a) - CLI tool to generate code from GPT3. ([HN](https://news.ycombinator.com/item?id=35001823))
