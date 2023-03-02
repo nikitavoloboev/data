@@ -427,3 +427,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Zork](https://github.com/zerodaycode/Zork) - Project manager and builder automation tool for modern C++ projects.
 - [The Most Important Optimizations to Apply in Your C++ Programs (2022)](https://www.youtube.com/watch?v=qCjEN5XRzHc)
 - [New C++23 features I'm excited about (2022)](https://twdev.blog/2022/10/cpp23/)
+- [Effortless Performance Improvements in C++: std:unordered_map (2023)](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-unordered_map/) ([HN](https://news.ycombinator.com/item?id=34992189))

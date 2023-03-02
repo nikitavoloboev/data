@@ -2,6 +2,8 @@
 
 [DeepL Translate](https://www.deepl.com/translator) is nice. Has [nice API client](https://github.com/OwO-Network/DeepLX) too.
 
+[Speak](https://www.speak.com/) seems like a nice way to learn languages.
+
 ## Links
 
 - [BabelNet](https://babelnet.org/) - Multilingual resource that covers hundreds of languages and, according to need, can be used as either an encyclopedic dictionary, or a semantic network, or a huge knowledge base.
@@ -103,3 +105,4 @@
 - [Help! Is This Arabic?](https://isthisarabic.com/) ([HN](https://news.ycombinator.com/item?id=34949146))
 - [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.
 - [grammY Translations Telegram Bot](https://github.com/grammyjs/translations-bot) ([Translation Guide](https://github.com/grammyjs/website/blob/main/TRANSLATING.md))
+- [Speak](https://www.speak.com/) - Speaking app that actually talks. ([Tweet](https://twitter.com/connorzwick/status/1630998153410527233))

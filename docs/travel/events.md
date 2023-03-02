@@ -7,6 +7,8 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 ## Neat event pages
 
 - [Flat Camp](https://flatcamp.com/)
+- [WaffleJS](https://wafflejs.com/)
+- [Demos & chill](https://lu.ma/sumoorange)
 
 ## Links
 
@@ -49,3 +51,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Awesome How to Run Events](https://github.com/redthreadsnet/awesome-how-to-run-events)
 - [How to Run an Event That Doesn’t Suck (2022)](https://karmanivero.us/blog/how-to-run-an-event-that-doesnt-suck/) ([HN](https://news.ycombinator.com/item?id=32876804))
 - [Ask HN: Where are all the parties? (2023)](https://news.ycombinator.com/item?id=34450096)
+- [WaffleJS](https://wafflejs.com/)

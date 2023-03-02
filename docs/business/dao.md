@@ -8,6 +8,8 @@ I think DAOs can be interesting for crowd funding with benefits baked in. One ex
 
 The [interview](https://www.thetwentyminutevc.com/podcast/ian-lee/) with [Ian](https://twitter.com/ianDAOs) who leads [Syndicate](https://syndicate.io/) is nice.
 
+[Hidden Shortcomings of (D)AOs](https://arxiv.org/abs/2302.12125) is a nice paper.
+
 ## Interesting
 
 - [Station](https://www.station.express/) - Connecting people and projects in Web3. ([Twitter](https://twitter.com/0xStation))

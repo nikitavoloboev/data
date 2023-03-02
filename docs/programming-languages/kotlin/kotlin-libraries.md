@@ -112,6 +112,7 @@
 - [EffeKt](https://github.com/bendgk/effekt) - Kotlin reactive library inspired by Vue.
 - [Inikio](https://github.com/serras/inikio) - Better initial-style DSLs in Kotlin.
 - [Parsus](https://github.com/alllex/parsus) - Parser-combinators with Kotlin Coroutines.
+- [Kalium](https://github.com/wireapp/kalium) - SDK used to create a Wire client on Android and JVM.
 
 ## Links
 

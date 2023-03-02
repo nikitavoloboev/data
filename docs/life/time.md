@@ -67,3 +67,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Setting the clock ahead to see what breaks (2023)](https://rachelbythebay.com/w/2023/01/19/time/) ([HN](https://news.ycombinator.com/item?id=34496287))
 - [Henri Poincaré believed time was slowing down](https://twitter.com/CWingUexkull/status/1619939153365585920)
 - [Jamzone.today](https://www.jamzone.today/editor) - Worldwide collaboration made easy. ([Code](https://github.com/alex-page/jamzone.today))
+- [Europe pushing for lunar time zone (2023)](https://apnews.com/article/moon-time-zone-space-2b0124415c14755e08a58e1b5ed5362a) ([HN](https://news.ycombinator.com/item?id=34982157))

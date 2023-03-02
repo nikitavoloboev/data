@@ -126,6 +126,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [aoi.js](https://github.com/AkaruiDevelopment/aoi.js) - Advanced string-based package to create a Discord Bot fast and powerful.
 - [Calamity](https://github.com/simmsb/calamity) - Library for writing discord bots in Haskell.
 - [Droff](https://github.com/tim-smart/droff) - Simple Discord client powered by RxJS and Axios.
+- [Discord Haskell](https://github.com/discord-haskell/discord-haskell) - Haskell library for writing Discord bots.
 
 ## Interesting servers
 

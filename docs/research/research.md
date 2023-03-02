@@ -156,3 +156,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Causaly](https://www.causaly.com/) - Biomedical search platform. ([GitHub](https://github.com/causaly))
 - [The rise and fall of peer review (2022)](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review) ([HN](https://news.ycombinator.com/item?id=33997953))
 - [Open Editors](https://github.com/andreaspacher/openeditors) - Web scraping data about editors of scientific journals.
+- [Royal Astronomical Society: all journals to publish as open access from 2024](https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024) ([HN](https://news.ycombinator.com/item?id=34992891))

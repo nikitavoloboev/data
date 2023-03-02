@@ -217,3 +217,4 @@
 - [ACIR](https://github.com/noir-lang/acvm) - Abstract Circuit Intermediate Representation.
 - [Real-World Cryptography, a bit more than a year later (2023)](https://www.cryptologie.net/article/586/real-world-cryptography-a-bit-more-than-a-year-later/)
 - [Capstone: A Capability-based Foundation for Trustless Secure Memory Access (2023)](https://arxiv.org/abs/2302.13863)
+- [Wire CoreCrypto](https://github.com/wireapp/core-crypto) - MLS/Proteus multiplexer abstraction with encrypted persistent storage in Rust.
