@@ -2721,6 +2721,8 @@
 - [ruice](https://github.com/yumemi-inc/ruice) - Runtime based Dependency Injection for Rust.
 - [blink-alloc](https://github.com/zakarumych/blink-alloc) - Fast, concurrent, arena-based allocator with drop support.
 - [HEVC Parser](https://github.com/quietvoid/hevc_parser) - HEVC format parser.
+- [dap-rs](https://github.com/sztomi/dap-rs) - Rust implementation of the Debug Adapter Protocol.
+- [smallbox](https://github.com/andylokandy/smallbox) - Small Box optimization: store small item on stack and fallback to heap for large item.
 
 ## Cargo Plugins
 

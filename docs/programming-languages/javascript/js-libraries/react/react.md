@@ -6,7 +6,7 @@ title: React
 
 [Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [Preact](https://preactjs.com/), [Fresh](https://github.com/lucacasonato/fresh), [Plasmic](https://www.plasmic.app/) & [Rakkas](https://github.com/rakkasjs/rakkasjs) look interesting.
 
-Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464).
+Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464). [Signals are great](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71).
 
 [Replay Dev Tools](https://github.com/replayio/devtools) has nice React code to study.
 
@@ -377,3 +377,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [React Is Holding Me Hostage (2023)](https://emnudge.dev/blog/react-hostage)
 - [forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
 - [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library (2023)](https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/)
+- [React vs Signals: 10 Years Later (2023)](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71) ([Tweet](https://twitter.com/RyanCarniato/status/1630983653441560577))

@@ -821,6 +821,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Kubb](https://github.com/stijnvanhulle/kubb) - OpenAPI to TypeScript, React-Query, Zod and Axios.
 - [ts-async-kit](https://github.com/NicolasLopes7/ts-async-kit) - Lightweight TypeScript library that provides an easy-to-use API for dealing with common promise-related operations such as retrying and looping.
 - [HighwayHasher](https://github.com/nickbabcock/highwayhasher) - JS bindings to the Rust implementation of Google's HighwayHash, a fast, keyed and strong hash function.
+- [jsoq](https://github.com/nire0510/jsoq) - Query and manipulate JSON arrays easily.
 
 ## Links
 

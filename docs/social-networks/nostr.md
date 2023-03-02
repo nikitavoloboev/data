@@ -54,3 +54,4 @@ title: Nostr
 - [Nostr Stuff](https://nostrstuff.com/) - Web app that can do things such as query info about nostr relays. ([Code](https://github.com/SamSamskies/nostrstuff))
 - [Lume](https://github.com/reyamir/lume-desktop) - Ambitious Nostr client.
 - [rsslay](https://github.com/piraces/rsslay) - Nostr relay that creates profiles from RSS or Atom feeds and emits items as Nostr events.
+- [Nosli](https://github.com/akiomik/nosli) - Helps you create a curated list of posts on nostr.

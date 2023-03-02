@@ -317,3 +317,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Gluon](https://github.com/ProtonMail/gluon) - IMAP server library written in Go. ([Intro](https://proton.me/blog/gluon-imap-library)) ([HN](https://news.ycombinator.com/item?id=34909169))
 - [Email Coding Guidelines](https://github.com/hteumeuleu/email-guidelines)
 - [MailCrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust.
+- [Stalwart SMTP Server](https://github.com/stalwartlabs/smtp-server) - Modern SMTP server developed in Rust with a focus on security, speed, and extensive configurability.

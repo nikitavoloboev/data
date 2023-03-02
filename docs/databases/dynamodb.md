@@ -109,3 +109,5 @@ title: DynamoDB
 - [Dynamoutil](https://github.com/daangn/dynamoutil) - Useful commands for DynamoDB.
 - [How to implement login system using DynamoDB (2021)](https://blog.rahulahire.com/how-to-implement-login-system-using-dynamodb-by-rahul-ahire)
 - [ddbsh](https://github.com/awslabs/dynamodb-shell) - Simple CLI for DynamoDB modeled on isql, and the MySQL CLIs.
+- [The What, Why, and When of Single-Table Design with DynamoDB (2020)](https://www.alexdebrie.com/posts/dynamodb-single-table/) ([Tweet](https://twitter.com/thealexkates/status/1630960235199229954?s=20))
+- [DynamoDB solves a whole class of problems](https://twitter.com/thealexkates/status/1630634315909398528?s=20)

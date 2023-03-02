@@ -650,3 +650,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git branches are named sequences of commits (2023)](https://blog.plover.com/2023/02/27/) ([HN](https://news.ycombinator.com/item?id=34965567)) ([Lobsters](https://lobste.rs/s/k5kgru/i_wish_people_would_stop_insisting_git))
 - [WASM Git](https://github.com/petersalomonsen/wasm-git) - libgit2 compiled to WASM.
 - [Decentralized governance for Git](https://github.com/gov4git/gov4git)
+- [Git Essentials](https://github.com/NotesHubApp/git-essentials) - Collection of essential Git commands for your browser and Node.js.

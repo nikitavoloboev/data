@@ -157,3 +157,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [EX-chatGPT introduction](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs.
 - [Awesome Language Model Evaluations](https://github.com/Spico197/awesome-lm-evaluation) - Collection of ChatGPT evaluation reports on various bechmarks.
 - [Comparative Study on ChatGPT and Fine-tuned BERT](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT)
+- [ChatGPT API Demo](https://github.com/ddiu8081/chatgpt-demo)
+- [Chat with ChatGPT via a GitHub issue](https://github.com/second-state/chat-with-chatgpt)

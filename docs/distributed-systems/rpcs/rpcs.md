@@ -69,4 +69,4 @@ Love using [tRPC](../../api/trpc.md). [Bling](https://github.com/TanStack/bling)
 - [TSRPC](https://github.com/k8w/tsrpc) - TypeScript RPC framework with runtime type checking and binary serialization.
 - [Blue RPC](https://github.com/JoshuaWise/blue-rpc) - Simple but powerful RPC protocol that uses WebSockets and MessagePack.
 - [PicoRPC](https://github.com/fabiospampinato/picorpc) - Tiny RPC library and spec, inspired by JSON-RPC 2.0 and tRPC.
-- [bling](https://github.com/TanStack/bling) - Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.
+- [bling](https://github.com/TanStack/bling) - Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more. ([Tweet](https://twitter.com/tannerlinsley/status/1631003945522065409))
