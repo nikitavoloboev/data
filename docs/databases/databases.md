@@ -284,6 +284,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [AllyDB](https://github.com/Allyedge/allydb) - In-memory database similar to Redis, built using Elixir.
 - [RixxDB](https://github.com/surrealdb/rixxdb) - Versioned, embedded, strongly-consistent, key-value database.
 - [OctoBase](https://github.com/toeverything/OctoBase) - Offline-available, scalable, self-contained collaborative database, which was originally designed for AFFiNE.
+- [Fireproof](https://github.com/jchris/fireproof) - Real time database for today's interactive applications.
 
 ## Tools
 

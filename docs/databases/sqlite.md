@@ -313,3 +313,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [SQLite the only database you will ever need in most cases (2021)](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html) ([HN](https://news.ycombinator.com/item?id=34812527))
 - [sqlite-rs](https://github.com/xtuc/sqlite-rs) - Decoder, encoder and tools for SQLite in Rust.
 - [sqlean](https://github.com/nalgeon/sqlean) - All the Missing SQLite Functions. ([HN](https://news.ycombinator.com/item?id=34969491))
+- [SQLite Parser Nom](https://github.com/mycelial/sqlite-parser-nom) - Parser library for SQLite storage format in Rust.

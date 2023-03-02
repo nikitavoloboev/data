@@ -1383,3 +1383,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [lazy_loader](https://github.com/scientific-python/lazy_loader) - Makes it easy to load subpackages and functions on demand.
 - [Awesome pyproject.toml](https://github.com/carlosperate/awesome-pyproject)
 - [Swift Python Cookiecutter](https://github.com/KennethEnevoldsen/swift-python-cookiecutter) - Python package template intended for low maintenance and quick package development.
+- [JSON Schema generate Python types](https://github.com/camptocamp/jsonschema-gentypes) - Tools to generate Python types based on TypedDict from a JSON schema.

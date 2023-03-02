@@ -19,7 +19,7 @@ title: Dependent types
 - [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 - [Minimal implementations for dependent type checking and elaboration](https://github.com/AndrasKovacs/elaboration-zoo)
 - [Remora](https://github.com/jrslepak/Remora) - Dependently-typed language with Iverson-style implicit lifting.
-- [Juvix](https://github.com/cryptiumlabs/juvix) - More elegant language for a more civilized age. ([Reddit](https://www.reddit.com/r/haskell/comments/czierr/juvix_dependentlinearlytyped_core_language_with/))
+- [Juvix](https://github.com/anoma/juvix) - High-level programming language for writing privacy preserving apps. ([Reddit](https://www.reddit.com/r/haskell/comments/czierr/juvix_dependentlinearlytyped_core_language_with/))
 - [sixty](https://github.com/ollef/sixty) - Dependent type checker using normalisation by evaluation.
 - [Formality](https://github.com/moonad/Formality) - Efficient dependently-typed systems programming language and proof assistant. ([HN](https://news.ycombinator.com/item?id=18230148))
 - [Certified Programming with Dependent types](http://adam.chlipala.net/cpdt/) ([PDF](http://adam.chlipala.net/cpdt/cpdt.pdf)) ([Code](https://github.com/hargoniX/cpdt-lean))

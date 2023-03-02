@@ -468,3 +468,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Ask HN: What is the most barebone back end solution? (2023)](https://news.ycombinator.com/item?id=34869884)
 - [OpenAPI to Postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI specs to the Postman Collection format.
 - [Step CI](https://stepci.com/) - Fully automated API Testing and Quality Assurance. ([GitHub](https://github.com/stepci))
+- [OpenAPI spec for the OpenAI API](https://github.com/openai/openai-openapi)

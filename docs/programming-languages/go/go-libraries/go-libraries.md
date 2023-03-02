@@ -634,6 +634,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [otelsql](https://github.com/nhatthm/otelsql) - OpenTelemetry SQL database driver wrapper for Go.
 - [scan](https://github.com/stephenafamo/scan) - Scan provides the ability to to scan SQL rows directly to any defined structure.
 - [go-db](https://github.com/nicolasparada/go-db) - Wrapper over pgx with better transaction API.
+- [GreptimeDB Go Client](https://github.com/GreptimeTeam/greptimedb-client-go)
 
 ## ML
 
