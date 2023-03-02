@@ -8,6 +8,8 @@ Use [Google Flights](https://www.google.com/travel/flights) to buy plane tickets
 
 Sticking a link for how to contact you, be it twitter/telegram to your passport, in case you lost it is very wise.
 
+[Roam Around](https://www.roamaround.io/) is neat way to get quick travel plans.
+
 ## Notes
 
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.

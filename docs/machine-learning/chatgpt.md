@@ -12,7 +12,7 @@ I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to in
 
 [RWKV](https://github.com/BlinkDL/RWKV-LM) model is great. [Open Assistant](https://github.com/LAION-AI/Open-Assistant) seems like a nice open alternative.
 
-There's lots of low hanging fruit prompts that you can make into great products. Like [Travel Advisor](https://twitter.com/dabit3/status/1622330852943319048) that is essentially a UI over [`what is an ideal itinerary for ${days} days in ${city}?` query](https://github.com/dabit3/gpt-travel-advisor/blob/31415cf89c822f51e192ec5111feddd6b9917b54/pages/api/get-itinerary.ts#L32).
+There's lots of low hanging fruit prompts that you can make into great products. Like [Roam Around](https://www.roamaround.io/) that is essentially a UI over [`what is an ideal itinerary for ${days} days in ${city}?` query](https://github.com/dabit3/gpt-travel-advisor/blob/main/pages/api/get-itinerary.ts#L42).
 
 [FlexGen](https://github.com/Ying1123/FlexGen) is [nice way](https://news.ycombinator.com/item?id=34869960) to train own GPT on just one GPU.
 

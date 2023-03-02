@@ -187,7 +187,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [React ECS](https://github.com/dustinlacewell/react-ecs) - Declarative Entity Component System for React.
 - [Replay](https://github.com/vimond/replay) - React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 - [candycode/elements](https://github.com/cndycd/elements) - Basic ingredients for baking custom React components spiced with spring physics.
-- [Mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience. ([Web](https://mantine.dev/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/oeuspg/mantine_20_is_out_100_hooks_and_components_with/))
+- [Mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience. ([Web](https://mantine.dev/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/oeuspg/mantine_20_is_out_100_hooks_and_components_with/)) ([Reddit](https://www.reddit.com/r/reactjs/comments/11fz4wp/introducing_mantine_60/))
 - [re-position](https://github.com/rmarganti/re-position) - Drag, resize, and rotate all in one flexible React component.
 - [masonic](https://github.com/jaredLunde/masonic) - High-performance masonry layouts for React.
 - [react-loosely-lazy](https://github.com/atlassian-labs/react-loosely-lazy) - Use advanced React async components patterns today.

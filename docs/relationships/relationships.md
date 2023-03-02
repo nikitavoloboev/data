@@ -71,6 +71,8 @@ There’s many more points like how they treat others [including animals](../env
 
 Once in a relationship, it's important to have some kind of [date nights once a week where you spend time together with the goal of doing nothing but enjoying time in each other’s company](https://www.reddit.com/r/sex/comments/yw0jl5/women_and_sex_in_longterm_relationships/).
 
+[Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ) is nice watch.
+
 ## Notes
 
 - [You can't love someone into loving you.](https://www.reddit.com/r/datingoverthirty/comments/z1igzj/he_had_a_stronger_connection_with_someone_else/)
@@ -355,3 +357,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Ask HN: What can you do or learn to experience a better love life? (2023)](https://news.ycombinator.com/item?id=34653505)
 - [How to Live Near Your Friends (2023)](https://prigoose.substack.com/p/how-to-live-near-your-friends)
 - [Как у нас с Сашей до сих пор есть то, что у нас есть](https://twitter.com/KantWilde/status/1626282688343601152)
+- [Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ)
