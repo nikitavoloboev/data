@@ -16,3 +16,4 @@ title: Playwright
 - [Playwright Workshop](https://github.com/mathieumure/workshop-playwright)
 - [On Playwright in GitHub Actions (2023)](https://radekmie.dev/blog/on-playwright-in-github-actions/)
 - [Extending Playwright's Built-In Test Method for Super-Clean Test Setups (2022)](https://maxschmitt.me/posts/extend-playwright-test/)
+- [Argos Playwright](https://github.com/argos-ci/argos-playwright) - Playwright plugin for Argos visual testing.

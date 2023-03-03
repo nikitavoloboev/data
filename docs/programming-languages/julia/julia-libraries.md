@@ -847,6 +847,7 @@
 - [VideoIO](https://github.com/JuliaIO/VideoIO.jl) - Reading and writing of video files in Julia.
 - [SparseMatricesCSR](https://github.com/gridap/SparseMatricesCSR.jl) - Sparse matrices in CSR format for Julia computations.
 - [OpenAI](https://github.com/rory-linehan/OpenAI.jl) - OpenAI API wrapper for Julia.
+- [TruncatedStacktraces.jl](https://github.com/SciML/TruncatedStacktraces.jl) - Truncated and Simpler Stacktraces.
 
 ## Links
 

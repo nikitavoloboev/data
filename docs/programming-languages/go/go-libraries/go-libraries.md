@@ -2094,6 +2094,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [JSON-RPC](https://github.com/ybbus/jsonrpc) - Go implementation of JSON RPC 2.0 client over HTTP.
 - [OpenAI Go](https://github.com/andrewstuart/openai) - Go wrapper for OpenAI Platform APIs.
 - [slices](https://github.com/PeterRK/slices) - Generic sort for slices in Go.
+- [IPLib](https://github.com/c-robinson/iplib) - Library for working with IP addresses and networks in Go.
+- [JSON Logic](https://github.com/diegoholiveira/jsonlogic) - Implementation of JSON Logic in Go.
 
 ## Links
 

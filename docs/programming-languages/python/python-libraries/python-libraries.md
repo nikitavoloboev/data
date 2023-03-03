@@ -1163,6 +1163,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [pybool_ir](https://github.com/hscells/pybool_ir) - Toolkit for domain-specific information retrieval experimentation.
 - [Logbook](https://github.com/getlogbook/logbook) - Nice logging replacement.
 - [Funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.
+- [Fickling](https://github.com/trailofbits/fickling) - Decompiler, static analyzer, and bytecode rewriter for Python pickle object serializations.
 
 ## Notes
 

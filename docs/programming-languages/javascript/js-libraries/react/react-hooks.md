@@ -10,6 +10,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 
 ## State
 
+- [Nano Stores Query](https://github.com/nanostores/query) - Data fetcher for Nano Stores.
 - [Act](https://github.com/artalar/act) - Most efficient reactive library in both: speed, size, correctness.
 - [Reatom](https://github.com/artalar/reatom) - Immutability and explicit reactivity (no proxies), implicit DI and actor-like lifecycle hooks.
 - [Nano Stores React](https://github.com/nanostores/react) - Tiny state manager with many atomic tree-shakable stores.
