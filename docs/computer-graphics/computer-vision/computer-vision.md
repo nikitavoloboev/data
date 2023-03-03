@@ -1169,3 +1169,4 @@
 - [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth (2023)](https://arxiv.org/abs/2302.12288) ([Code](https://github.com/isl-org/ZoeDepth))
 - [The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (2023)](https://openreview.net/forum?id=xLr0I_xYGAs) ([Code](https://github.com/Jun-CEN/Unified_Open_Set_Recognition))
 - [Image as Set of Points (2023)](https://arxiv.org/abs/2303.01494) ([Code](https://github.com/ma-xu/Context-Cluster))
+- [MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound (2022)](https://rowanzellers.com/merlotreserve/) ([Code](https://github.com/rowanz/merlot_reserve))

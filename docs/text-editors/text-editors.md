@@ -111,7 +111,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Eclipse Theia](http://theia-ide.org) - Extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. ([Code](https://github.com/eclipse-theia/theia)) ([HN](https://news.ycombinator.com/item?id=22792258))
 - [Typewriter](https://github.com/typewriter-editor/typewriter) - Rich text editor based off of Quill.js and Ultradom, and using Svelte for UI.
 - [CodeJar](https://github.com/antonmedv/codejar) - Micro code editor.
-- [tiptap](https://www.tiptap.dev/) - Headless editor framework for web artisans. ([Code](https://github.com/scrumpy/tiptap)) ([Overview](https://www.youtube.com/watch?v=M7s-KMI5lCQ))
+- [TipTap](https://www.tiptap.dev/) - Headless editor framework for web artisans. ([Code](https://github.com/scrumpy/tiptap)) ([Overview](https://www.youtube.com/watch?v=M7s-KMI5lCQ)) ([Awesome](https://github.com/ueberdosis/awesome-tiptap))
 - [Marky Marked](https://github.com/patrickfatrick/marky-marked) - Lightweight in-browser content editor combining Markdown with the typical WYSIWYG toolbar.
 - [yace](https://github.com/petersolopov/yace) - Yet another code editor for browser.
 - [Slate](https://github.com/ianstormtaylor/slate) - Completely customizable framework for building rich text editors.
@@ -261,3 +261,4 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage) - TextMate grammar files for TypeScript for VS Code, Sublime Text.
 - [Monaco tree-sitter](https://github.com/Menci/monaco-tree-sitter) - Highlight your Monaco Editor with tree-sitter grammar.
 - [Embrace the Chaos: How to Write a Code Editor from Scratch in 4 Months (2023)](https://edita.vercel.app/blog/approach/) ([HN](https://news.ycombinator.com/item?id=34577246))
+- [Create TipTap Extension](https://github.com/ueberdosis/create-tiptap-extension) - Create a new TipTap extension in seconds.

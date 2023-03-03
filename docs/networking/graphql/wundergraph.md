@@ -10,3 +10,4 @@ title: WunderGraph
 - [Solid + WunderGraph](https://github.com/verdavaine/solidgraph)
 - [Simple starter for WunderGraph Cloud](https://github.com/wundergraph/cloud-starter)
 - [Getting Started with Twitter Clone using WunderGraph](https://github.com/Sawmonabo/wundergraph-twitter-clone)
+- [WunderGraph Next.js Starter](https://github.com/abdelhameedhamdy/nextjs-wg-livemap)

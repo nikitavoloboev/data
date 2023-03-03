@@ -29,6 +29,8 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Valentines day poem or poems in general](https://twitter.com/maccaw/status/1625667601312489472)
   - i.e. `Write a short cute poem for a girl that everyone thinks loves cats but in reality she is so much more.` or `write a short cute valentine day poem for a girl that loves cats, harry potter, magic and adventures` or `write a cute valentine day poem for a girl that loves cats, harry potter, magic and adventures`
 
+Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
+
 ## Links
 
 - [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - Wrapper library around the ChatGPT and OpenAI HTTP API.
@@ -168,3 +170,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Resource, Evaluation and Detection Papers for ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT)
 - [ChatGPT API Free](https://github.com/ayaka14732/ChatGPTAPIFree) - Use the OpenAI ChatGPT API in your own application for free.
 - [ChatGPT deployed as GitHub app](https://github.com/flows-network/chatgpt-github-app)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT.

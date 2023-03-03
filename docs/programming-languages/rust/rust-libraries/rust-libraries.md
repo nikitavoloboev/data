@@ -2724,6 +2724,7 @@
 - [dap-rs](https://github.com/sztomi/dap-rs) - Rust implementation of the Debug Adapter Protocol.
 - [smallbox](https://github.com/andylokandy/smallbox) - Small Box optimization: store small item on stack and fallback to heap for large item.
 - [jsonb](https://github.com/datafuselabs/jsonb) - JSONB implemented in rust.
+- [nom-bibtex](https://github.com/charlesvdv/nom-bibtex) - Feature complete BibTeX parser using nom.
 
 ## Cargo Plugins
 
