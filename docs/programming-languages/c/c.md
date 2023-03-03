@@ -325,4 +325,4 @@
 - [Lessons learnt while trying to modernize some C code (2022)](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
 - [GOTOphobia considered harmful (in C) (2023)](https://blog.joren.ga/gotophobia-harmful) ([Lobsters](https://lobste.rs/s/hiteri/gotophobia_considered_harmful_c)) ([HN](https://news.ycombinator.com/item?id=34943952))
 - [Why the “volatile” type class should not be used](https://www.kernel.org/doc/html/v6.2/process/volatile-considered-harmful.html#volatile-considered-harmful)
-- [Demystifying bitwise operations, a gentle C tutorial (2023)](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
+- [Demystifying bitwise operations, a gentle C tutorial (2023)](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) ([HN](https://news.ycombinator.com/item?id=35010447))

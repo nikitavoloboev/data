@@ -23,3 +23,13 @@ Aside from that, talking with Artem is always inspiring. He is learning compiler
 Overall great month. And am exciting about the next one. Every day, moving closer and closer the goal of being happy with the way things are.
 
 Focus for next month is [Inlang](https://inlang.com/), getting first release of [LA](https://github.com/learn-anything/learn-anything/) and maybe first release of [my todo app](https://github.com/nikitavoloboev/zen).
+
+Trying to be more active on both [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://www.instagram.com/nikitavoloboev/). Just posting raw thoughts/photos. Don't care if someone dislikes what I has to say or finds it boring. So freeing. ♥️
+
+![](https://images.nikiv.dev/february-photos-23.png)
+
+First time doing a collage like this. Just put some photos in Figma and arranged them.
+
+I dream for the day when I will start writing these look backs not in Obsidian but in LA.
+
+
