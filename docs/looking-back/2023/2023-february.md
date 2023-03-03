@@ -24,7 +24,7 @@ Overall great month. And am exciting about the next one. Every day, moving close
 
 Focus for next month is [Inlang](https://inlang.com/), getting first release of [LA](https://github.com/learn-anything/learn-anything/) and maybe first release of [my todo app](https://github.com/nikitavoloboev/zen).
 
-Trying to be more active on both [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://www.instagram.com/nikitavoloboev/). Just posting raw thoughts/photos. Don't care if someone dislikes what I has to say or finds it boring. So freeing. ♥️
+Trying to be more active on both [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://www.instagram.com/nikitavoloboev/). Just posting raw thoughts/photos. Don't care if someone dislikes what I say or finds it boring. So freeing. ♥️
 
 ![](https://images.nikiv.dev/february-photos-23.png)
 

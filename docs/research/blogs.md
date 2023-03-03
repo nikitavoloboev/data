@@ -371,6 +371,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Absorptions](https://www.windytan.com/)
 - [Nicole Express](https://nicole.express/)
 - [Brandon Smith](https://www.brandons.me/)
+- [Hugging Face](https://huggingface.co/blog)
 
 ## Notes
 
