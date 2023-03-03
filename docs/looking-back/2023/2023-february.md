@@ -30,6 +30,20 @@ Trying to be more active on both [Twitter](https://twitter.com/nikitavoloboev) a
 
 First time doing a collage like this. Just put some photos in Figma and arranged them.
 
-I dream for the day when I will start writing these look backs not in Obsidian but in LA.
+I dream for the day when I will start writing these look backs not in Obsidian but in LA. 
 
+## Music
 
+![](https://images.nikiv.dev/february-artists-albums-23.png)
+
+![](https://images.nikiv.dev/february-songs-23.png)
+
+> From [last.fm](https://www.last.fm/user/playfullyExist)
+
+For a change as I think last.fm has been more details [than Volt.fm](https://volt.fm/nikitavoloboev).
+
+In any way, tracking music listened will be native feature of LA soon. 
+
+## Seen
+
+Only saw [‎Puss in Boots: The Last Wish](https://letterboxd.com/film/puss-in-boots-the-last-wish/) and some episodes of [The Americans](https://trakt.tv/shows/the-americans-2013). Loved both.

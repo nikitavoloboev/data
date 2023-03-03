@@ -31,3 +31,4 @@ title: DuckDB
 - [Scrooge McDuck](https://github.com/pdet/Scrooge-McDuck) - Financial extension to DuckDB.
 - [DuckDB Shell](https://shell.duckdb.org/)
 - [DuckDB Athena Extension](https://github.com/dacort/duckdb-athena-extension)
+- [Shredding Deeply Nested JSON, One Vector at a Time (2023)](https://duckdb.org/2023/03/03/json.html) ([HN](https://news.ycombinator.com/item?id=35009612))
