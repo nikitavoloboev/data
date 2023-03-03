@@ -941,3 +941,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [micro-ts](https://github.com/adevinwild/micro-ts) - Micro-minimalist template to create TypeScript packages with `microbundle`.
 - [TypeScript: Building a better EventEmitter (2023)](https://www.youtube.com/watch?v=Pl7pDjWd830)
 - [Type Genius](https://type-genius.carbonology.in/) - Generate Typescript types from any JSON object. ([Code](https://github.com/MikeCarbone/type-genius))
+- [Nate Moore's TS template](https://github.com/natemoo-re/project-template)

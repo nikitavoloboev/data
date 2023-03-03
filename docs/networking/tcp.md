@@ -116,3 +116,4 @@ title: TCP
 - [tcpdump is amazing (2016)](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) ([HN](https://news.ycombinator.com/item?id=34623604))
 - [Is It Time to Replace TCP in Data Centers? (2023)](https://blog.ipspace.net/2023/01/data-center-tcp-replacement.html) ([HN](https://news.ycombinator.com/item?id=34871670))
 - [dill](https://github.com/fwkz/dill) - Cloud ready L4 TCP proxy with first-class support for dynamic listeners.
+- [TCP Stream Extractor](https://github.com/genonullfree/stream-extractor) - Utility that can read in a PCAP file, search through it for TCP streams, and write out each stream to a separate new PCAP file.
