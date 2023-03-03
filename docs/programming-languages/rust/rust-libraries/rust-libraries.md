@@ -3057,3 +3057,4 @@
 - [Nothing in Rust (2023)](https://geeklaunch.io/blog/nothing-in-rust/) ([Lobsters](https://lobste.rs/s/ecsspe/nothing_rust))
 - [Rust for Web Development | An Honest Evaluation (2023)](https://www.reddit.com/r/rust/comments/11ddacc/rust_for_web_development_an_honest_evaluation/)
 - [Rust's BufRead, And When To Use It (2023)](https://www.brandons.me/blog/bufread-and-when-to-use-it)
+- [Reducing code size in librsvg by removing an unnecessary generic struct (2023)](https://viruta.org/reducing-binary-size-generics.html)

@@ -62,3 +62,4 @@ Quite like [Bill Burr](https://billburr.com/).
 - [Stand-up/comedy podcast recommendations (2022)](https://www.reddit.com/r/podcasts/comments/xnqe2g/standupcomedy_podcast_recommendations/)
 - [Top 5 Stand up specials of the past 10 years? (2022)](https://www.reddit.com/r/Standup/comments/xt3buw/top_5_stand_up_specials_of_the_past_10_years/)
 - [Who is currently the most popular standup comedian in US ? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/z7cwm6/who_is_currently_the_most_popular_standup/)
+- [Good Comedian Stand-Up Specials (2023)](https://www.reddit.com/r/MovieSuggestions/comments/11gbowt/good_comedian_standup_specials_does_this_count_as/)

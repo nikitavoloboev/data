@@ -516,3 +516,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Some notes on using nix (2023)](https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/)
 - [Nix journey part 0: Learning and reference materials (2023)](https://tinkering.xyz/nix-docs/) ([Lobsters](https://lobste.rs/s/zwgwrw/nix_journey_part_0_learning_reference)) ([HN](https://news.ycombinator.com/item?id=34987042))
 - [Benchmarks nix install actions](https://github.com/ryantm/nix-installer-action-benchmark)
+- [devenv 0.6: Generating containers and instant shell activation (2023)](https://devenv.sh/blog/2023/03/02/devenv-06-generating-containers-and-instant-shell-activation/)

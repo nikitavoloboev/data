@@ -60,3 +60,4 @@ Currently using [Inlang](https://github.com/inlang/inlang) for everything.
 - [Designing for the World: An Introduction to Localization by Spotify (2022)](https://spotify.design/article/designing-for-the-world-an-introduction-to-localization)
 - [tmsg](https://github.com/tanekloc/tmsg) - Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.
 - [Apple Localization Terms Glossary](https://applelocalization.com/)
+- [Docusaurus v2 i18n](https://github.com/facebook/docusaurus/issues/3317)

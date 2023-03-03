@@ -16,6 +16,8 @@ There's lots of low hanging fruit prompts that you can make into great products.
 
 [FlexGen](https://github.com/Ying1123/FlexGen) is [nice way](https://news.ycombinator.com/item?id=34869960) to train own GPT on just one GPU.
 
+[This](https://www.reddit.com/r/CredibleDefense/comments/11g270e/comment/jao9wps/?context=3) is nice comment strengths/weaknesses of ChatGPT.
+
 ## Interesting queries
 
 - [Can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)

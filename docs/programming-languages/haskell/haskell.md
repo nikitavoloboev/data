@@ -532,3 +532,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Haskell lazy evaluation illustrated](https://github.com/takenobu-hs/lazy_evaluation)
 - [halfsp](https://github.com/masaeedu/halfsp) - Haskell language server that doesn't do much, and does it faster than HLS.
 - [Haskell Playground](https://play.haskell.org/) ([Code](https://github.com/haskell/play-haskell)) ([Release](https://discourse.haskell.org/t/haskell-playground-is-live-at-play-haskell-org/5869))
+- [Haskell for Elm developers: giving names to stuff (Part 3 - Monads) (2023)](https://flaviocorpa.com/haskell-for-elm-developers-giving-names-to-stuff-part-3-monads.html)

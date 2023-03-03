@@ -83,3 +83,4 @@ Another thing that grealy helped overcome any sadness or depressive thoughts I h
 - [Getting Out of a Rut (2022)](https://news.ycombinator.com/item?id=33297934)
 - [Depression (2022)](https://muan.co/posts/depression)
 - [The Cause of Depression Is Probably Not What You Think (2023)](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)
+- [Book for a depressed person that thinks life is not worth it and everything is way to much effort etc. (2023)](https://www.reddit.com/r/suggestmeabook/comments/11g2egc/book_for_a_depressed_person_that_thinks_life_is/)
