@@ -44,3 +44,5 @@ Looking into using [tRPC Server Middleware for Hono](https://github.com/honojs/m
 - [Advanced tRPC - Callers, functions, and gSSP (2023)](https://www.youtube.com/watch?v=G2ZzmgShHgQ)
 - [T3: TRPC, Prisma and NextAuth Done Right (2023)](https://www.youtube.com/watch?v=J1gzN1SAhyM)
 - [tRPC Server Middleware for Hono](https://github.com/honojs/middleware/tree/main/packages/trpc-server)
+- [garph/gqty](https://github.com/stepci/garph-gqty) - tRPC-style client for Garph, based on GQty.
+- [tRPC Solid](https://github.com/juliusmarminge/trpc-solid) - Minimal example of using tRPC with Solid Start using the fetch adapter & Solid Query.

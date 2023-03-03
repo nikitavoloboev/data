@@ -2723,6 +2723,7 @@
 - [HEVC Parser](https://github.com/quietvoid/hevc_parser) - HEVC format parser.
 - [dap-rs](https://github.com/sztomi/dap-rs) - Rust implementation of the Debug Adapter Protocol.
 - [smallbox](https://github.com/andylokandy/smallbox) - Small Box optimization: store small item on stack and fallback to heap for large item.
+- [jsonb](https://github.com/datafuselabs/jsonb) - JSONB implemented in rust.
 
 ## Cargo Plugins
 

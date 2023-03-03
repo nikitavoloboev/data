@@ -823,6 +823,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [HighwayHasher](https://github.com/nickbabcock/highwayhasher) - JS bindings to the Rust implementation of Google's HighwayHash, a fast, keyed and strong hash function.
 - [jsoq](https://github.com/nire0510/jsoq) - Query and manipulate JSON arrays easily.
 - [ts-known](https://github.com/LuciNyan/ts-known) - Guards for common types, and methods to generate type guards for specific types quickly.
+- [thaler](https://github.com/lxsmnsyc/thaler) - Write server-side functions in an isomorphic way.
 
 ## Links
 

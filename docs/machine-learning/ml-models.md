@@ -160,3 +160,4 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 - [ML Model parallelism 101](https://github.com/hundredblocks/large-model-parallelism) - Functional local implementations of main model parallelism approaches.
 - [Minimal ML Template](https://github.com/AntreasAntoniou/minimal-ml-template) - Minimal ml project template that uses HF transformers and wandb to train a simple NN and evaluate it, in a stateless manner compatible with Spot instances Kubernetes workflows.
 - [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training (including pre-training and fine-tuning) for Big Models.
+- [CIFAR10 hyperlightspeedbench](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record.

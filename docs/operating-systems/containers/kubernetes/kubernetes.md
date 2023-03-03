@@ -941,3 +941,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [ArgoCD Plugin running Nix flakes apps](https://github.com/mayflower/argocd-nix-flakes-plugin)
 - [Iter8](https://github.com/iter8-tools/iter8) - Kubernetes Release Optimizer.
 - [Running Databases on Kubernetes (2023)](https://questdb.io/blog/databases-on-k8s/) ([HN](https://news.ycombinator.com/item?id=34999039))
+- [Spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.

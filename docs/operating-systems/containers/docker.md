@@ -299,3 +299,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [docker-bakery](https://github.com/smartrecruiters/docker-bakery) - Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes.
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples) ([HN](https://news.ycombinator.com/item?id=34940181))
 - [MRSK](https://github.com/mrsked/mrsk) - Deploys web apps anywhere from bare metal to cloud VMs using Docker with zero downtime.
+- [ADH](https://github.com/jcaromiq/adh-rust) - Docker 'Useful Commands' Helper.

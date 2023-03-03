@@ -295,3 +295,4 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [TL-Schema Explorer](https://schema.horner.tj/#!/) - Search for Telegram API methods, constructors, and types. ([Code](https://github.com/tjhorner/schema.tl))
 - [Telegram Exporter](https://github.com/Azarattum/TelegramExporter) - Python script for exporting data from your telegram account.
 - [TgStorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram.
+- [BotMate](https://botmate.app/) - Build & Host Telegram Bots. ([GitHub](https://github.com/botmate))

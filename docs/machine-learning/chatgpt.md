@@ -166,3 +166,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [Clarity AI](https://github.com/mckaywrigley/clarity-ai) - Simple Perplexity AI clone.
 - [ChatGPT Chrome Extension](https://github.com/gragland/chatgpt-chrome-extension) - Integrates ChatGPT into every text box on the internet.
 - [Resource, Evaluation and Detection Papers for ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT)
+- [ChatGPT API Free](https://github.com/ayaka14732/ChatGPTAPIFree) - Use the OpenAI ChatGPT API in your own application for free.
+- [ChatGPT deployed as GitHub app](https://github.com/flows-network/chatgpt-github-app)
