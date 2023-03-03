@@ -30,7 +30,7 @@ Trying to be more active on both [Twitter](https://twitter.com/nikitavoloboev) a
 
 First time doing a collage like this. Just put some photos in Figma and arranged them.
 
-I dream for the day when I will start writing these look backs not in Obsidian but in LA. 
+I dream for the day when I will start writing these look backs not in Obsidian but in LA.
 
 ## Music
 
@@ -40,9 +40,9 @@ I dream for the day when I will start writing these look backs not in Obsidian b
 
 > From [last.fm](https://www.last.fm/user/playfullyExist)
 
-For a change as I think last.fm has been more details [than Volt.fm](https://volt.fm/nikitavoloboev).
+For a change as I think last.fm has more details than [Volt.fm](https://volt.fm/nikitavoloboev).
 
-In any way, tracking music listened will be native feature of LA soon. 
+In any way, tracking music listened will be native feature of LA soon.
 
 ## Seen
 

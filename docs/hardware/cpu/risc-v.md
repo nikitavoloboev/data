@@ -221,3 +221,4 @@ title: RISC-V
 - [Building Simple RISC-V emulator](https://github.com/Amanieu/a-tale-of-binary-translation)
 - [Asterisc](https://github.com/protolambda/asterisc) - RISC-V interactive fraud-proof tech.
 - [Writing a bare-metal RISC-V application in D (2023)](https://zyedidia.github.io/blog/posts/1-d-baremetal/)
+- [RISC-V Business: Testing StarFive's VisionFive 2 SBC (2023)](https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc)
