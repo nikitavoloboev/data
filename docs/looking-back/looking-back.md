@@ -10,6 +10,7 @@ Below are all my public [journal](../life/journaling.md) entries.
 
 ## 2023
 
+- [February](2023/2023-february.md)
 - [January](2023/2023-january.md)
 
 ## [2022](2022/2022.md)

@@ -295,4 +295,5 @@
 - [Three approaches to heap sizing (2023)](https://wingolog.org/archives/2023/01/27/three-approaches-to-heap-sizing)
 - [LVC](https://github.com/sigurdschneider/lvc) - Linear Verified Compiler in Coq.
 - [CoreJIT](https://github.com/Aurele-Barriere/CoreJIT) - Formally Verified Speculation and Deoptimization in a JIT Compiler.
-- [Essentials of Compilation: An Incremental Approach in Python](https://www.amazon.com/dp/0262048248/) ([PDF](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf))
+- [Essentials of Compilation: An Incremental Approach in Racket](https://mitpress.mit.edu/9780262047760/essentials-of-compilation/)
+- [Essentials of Compilation: An Incremental Approach in Python](https://twitter.com/jeremysiek/status/1631481677586259968) ([PDF](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf))

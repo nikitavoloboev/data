@@ -634,3 +634,4 @@ all: unset
 - [The Stack: Every Layout](https://every-layout.dev/layouts/stack/)
 - [On Container Queries, Responsive Images, and JPEG-XL (2023)](https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/) ([HN](https://news.ycombinator.com/item?id=34979942))
 - [unpic/placeholder](https://github.com/ascorbic/unpic-placeholder) - Pure-CSS image placeholders.
+- [Scrollbar](https://scrollbar.app/) - Web app which helps developers to design and implement custom scrollbars. ([Code](https://github.com/henripar/scrollbar))

@@ -2,6 +2,8 @@
 
 Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languages/rust/rust-libraries/tauri.md)) & [Metal](metal.md) (iOS) APIs.
 
+[Scratchapixel](https://www.scratchapixel.com/) has some nice lessons.
+
 ## Notes
 
 - [To get started in 3d graphics all you really need to understand is how to multiply a bunch of 4x4 matrices together. From there it is a matter of learning how to put that to good effect.](https://www.reddit.com/r/haskell/comments/9sknxm/what_are_you_working_on/e8q82ug/)
@@ -172,7 +174,7 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [NPMs: Neural Parametric Models for 3D Deformable Shapes](https://pablopalafox.github.io/npms/) ([Code](https://github.com/pablopalafox/npms))
 - [Chaikin’s Algorithm: Drawing Curves (2021)](https://www.bit-101.com/blog/2021/08/chaikins-algorithm-drawing-curves/) ([HN](https://news.ycombinator.com/item?id=28353464))
 - [A Practical Model for Subsurface Light Transport](https://graphics.stanford.edu/papers/bssrdf/bssrdf.pdf)
-- [Scratchapixel](https://www.scratchapixel.com/index.php) - Learn Computer Graphics From Scratch.
+- [Scratchapixel](https://www.scratchapixel.com/) - Learn Computer Graphics From Scratch. ([Code](https://github.com/scratchapixel/website))
 - [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders.
 - [MaterialX](https://github.com/materialx/MaterialX) - Open standard for transfer of rich material and look-development content between applications and renderers. ([Web](http://www.materialx.org/))
 - [Appearance-Driven Automatic 3D Model Simplification (2021)](https://arxiv.org/abs/2104.03989) ([Code](https://github.com/NVlabs/nvdiffmodeling))

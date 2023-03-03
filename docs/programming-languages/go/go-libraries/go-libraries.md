@@ -2093,6 +2093,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Backoff](https://github.com/jpillora/backoff) - Simple exponential backoff counter in Go.
 - [JSON-RPC](https://github.com/ybbus/jsonrpc) - Go implementation of JSON RPC 2.0 client over HTTP.
 - [OpenAI Go](https://github.com/andrewstuart/openai) - Go wrapper for OpenAI Platform APIs.
+- [slices](https://github.com/PeterRK/slices) - Generic sort for slices in Go.
 
 ## Links
 
