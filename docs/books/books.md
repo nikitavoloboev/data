@@ -1,7 +1,5 @@
 # Books
 
-I love reading & listening to new books and making notes on things I've read and learned.
-
 I keep [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) lists of [books I am reading](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=currently-reading), [want to read in future](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=to-read) & ones I [want to read next](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=next).
 
 I also have bookshelves of books I [liked](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=favorite) & [read](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=read).
@@ -11,6 +9,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/). Love [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)'s writing a lot.
 
 I love to use [ChatGPT](../machine-learning/chatgpt.md) as I work through more technical literature. But even fictional too if you phrase your questions well.
+
+Love how some started making GPT programs tuned to specific books like [this](https://github.com/mckaywrigley/the-network-state-gpt). Ask questions about the book directly and have [language model](../nlp/nlp.md) explain things to you.
 
 ### 2019
 

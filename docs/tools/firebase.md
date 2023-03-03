@@ -97,3 +97,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firestore Indexes Diff](https://github.com/omar-dulaimi/firestore-indexes-diff) - Displays differences between two Firestore index config files.
 - [Firebase xcframework integration with SPM](https://github.com/akaffenberger/firebase-ios-sdk-xcframeworks)
 - [Y-Analytics Firebase iOS](https://github.com/yml-org/yanalytics-firebase-ios) - Firebase implementation of Y—Analytics' AnalyticsEngine protocol.
+- [EasyFirebase](https://github.com/Flowductive/easy-firebase) - Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.

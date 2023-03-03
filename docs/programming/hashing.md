@@ -77,3 +77,4 @@
 - [Hashing Apples, Bananas and Cherries (2022)](https://crypto.junod.info/posts/recursive-hash/)
 - [Homomorphic hashing for secure update propagation (2019)](https://engineering.fb.com/2019/03/01/security/homomorphic-hashing/)
 - [Introduction to Locality-Sensitive Hashing (2018)](https://tylerneylon.com/a/lsh1/) ([HN](https://news.ycombinator.com/item?id=34102868))
+- [Perfect Hash](https://github.com/tpn/perfecthash) - Performant, parallel, probabilistic, random acyclic-graph, low-latency, perfect hash generation library.

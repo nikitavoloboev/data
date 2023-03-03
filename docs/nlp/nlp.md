@@ -871,3 +871,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Awesome Generative Information Retrieval](https://github.com/gabriben/awesome-generative-information-retrieval)
 - [Facebook LLAMA is being openly distributed via torrents (2023)](https://news.ycombinator.com/item?id=35007978)
 - [Batch Prompting: Efficient Inference with Large Language Model APIs (2023)](https://arxiv.org/abs/2301.08721) ([Code](https://github.com/HKUNLP/batch-prompting))
+- [Local attention](https://github.com/lucidrains/local-attention) - Implementation of local windowed attention for language modeling.

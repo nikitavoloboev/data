@@ -123,7 +123,7 @@ It's hard to care about politics when [so much of it is empty words and empty di
 - [In most countries, Dictatorship is far from a distant memory (2022)](https://ourworldindata.org/democracies-age) ([HN](https://news.ycombinator.com/item?id=30455730))
 - [How to move from Dictatorship to Democracy (2013)](http://www.aeinstein.org/wp-content/uploads/2013/09/FDTD.pdf)
 - [Notes on Nationalism (1945)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/) ([HN](https://news.ycombinator.com/item?id=30575455))
-- [The Network State: How To Start a New Country , Srinivasan, Balaji (2022)](https://thenetworkstate.com/) ([Tweet](https://twitter.com/balajis/status/1504852745609637893))
+- [The Network State: How To Start a New Country , Srinivasan, Balaji (2022)](https://thenetworkstate.com/) ([Tweet](https://twitter.com/balajis/status/1504852745609637893)) ([Network State GPT](https://github.com/mckaywrigley/the-network-state-gpt))
 - [The user experience problems of quadratic voting (2022)](https://timdaub.github.io/2022/03/27/the-user-experience-problems-of-quadratic-voting/) ([HN](https://news.ycombinator.com/item?id=30822489))
 - [Corruption Has Shaped History. Why Do We Still Ignore It? (2022)](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it) ([HN](https://news.ycombinator.com/item?id=30865974))
 - [CONSUL](https://consulproject.org/en/) - Open Government and E-Participation Web Software. ([Code](https://github.com/consul/consul))

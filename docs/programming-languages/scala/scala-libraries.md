@@ -246,6 +246,7 @@
 - [otel4s](https://github.com/typelevel/otel4s) - OpenTelemetry library for Scala based on Cats-Effect.
 - [tethys](https://github.com/tethys-json/tethys) - JSON parsing/writing library for Scala.
 - [Decrel](https://github.com/yoohaemin/decrel) - Library for declarative programming using relations between your data.
+- [neotype](https://github.com/kitlangton/neotype) - Friendly newtype library for Scala 3.
 
 ## Links
 

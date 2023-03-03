@@ -318,3 +318,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Email Coding Guidelines](https://github.com/hteumeuleu/email-guidelines)
 - [MailCrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust.
 - [Stalwart SMTP Server](https://github.com/stalwartlabs/smtp-server) - Modern SMTP server developed in Rust with a focus on security, speed, and extensive configurability.
+- [junk.boats](https://junk.boats/) - Free temporary email service powered by Cloudflare. ([Code](https://github.com/berrysauce/junk.boats))

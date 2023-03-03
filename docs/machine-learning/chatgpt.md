@@ -162,3 +162,5 @@ There's lots of low hanging fruit prompts that you can make into great products.
 - [ChatGPT API Demo](https://github.com/ddiu8081/chatgpt-demo)
 - [Chat with ChatGPT via a GitHub issue](https://github.com/second-state/chat-with-chatgpt)
 - [a](https://github.com/ddddddeon/a) - CLI tool to generate code from GPT3. ([HN](https://news.ycombinator.com/item?id=35001823))
+- [Paul Graham GPT](https://github.com/mckaywrigley/paul-graham-gpt) - OpenAI-powered search & chat on all of Paul Graham’s essays.
+- [Clarity AI](https://github.com/mckaywrigley/clarity-ai) - Simple Perplexity AI clone.

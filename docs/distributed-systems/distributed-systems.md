@@ -310,3 +310,5 @@
 - [Gossip Glomers: Fly.io Distributed Systems Challenges](https://fly.io/blog/gossip-glomers/) ([HN](https://news.ycombinator.com/item?id=34897723))
 - [Eventually Consistent (2008)](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 - [Service Weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing, deploying, and managing distributed applications. ([Docs](https://serviceweaver.dev/)) ([Intro](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html?m=1))
+- [CASM](https://github.com/wetware/casm) - Universal middleware for decentralized computing.
+- [Wetware](https://github.com/wetware/ww) - Alternative to Kubernetes, Mesos and OpenShift that turns any group of networked computers -- including cloud-based instances -- into a programmable IaaS/PaaS cluster.

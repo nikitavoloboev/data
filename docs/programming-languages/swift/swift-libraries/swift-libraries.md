@@ -645,6 +645,7 @@
 - [Republished](https://github.com/adam-zethraeus/Republished) - Property wrapper enabling nested ObservableObjects in SwiftUI.
 - [SplitView](https://github.com/stevengharris/SplitView) - Split two SwiftUI views without NavigationSplitView nonsense.
 - [SwiftUI SharedObject](https://github.com/lorenzofiamingo/swiftui-shared-object) - New property wrapper for SwiftUI ObservableObject.
+- [ShinySwiftUI](https://github.com/Flowductive/shiny-swift-ui) - SwiftUI extensions and components that just make sense.
 
 ## Test
 

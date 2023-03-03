@@ -2092,6 +2092,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go Text](https://github.com/golang/text) - Go libraries for text processing, many involving Unicode.
 - [Backoff](https://github.com/jpillora/backoff) - Simple exponential backoff counter in Go.
 - [JSON-RPC](https://github.com/ybbus/jsonrpc) - Go implementation of JSON RPC 2.0 client over HTTP.
+- [OpenAI Go](https://github.com/andrewstuart/openai) - Go wrapper for OpenAI Platform APIs.
 
 ## Links
 
