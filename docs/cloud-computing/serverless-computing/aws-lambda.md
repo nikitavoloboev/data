@@ -157,3 +157,4 @@ title: AWS Lambda
 - [Add HTTP Streaming to your Lambda Functions](https://github.com/tom-sherman/lambda-streaming-demo)
 - [Lambda Cold Starts analysis](https://maxday.github.io/lambda-perf/) ([Code](https://github.com/maxday/lambda-perf))
 - [ridgenative](https://github.com/shogo82148/ridgenative) - AWS Lambda HTTP Proxy integration event bridge to Go net/http.
+- [AWS Is Asleep at the Lambda Wheel (2023)](https://www.lastweekinaws.com/blog/aws-is-asleep-at-the-lambda-wheel/) ([HN](https://news.ycombinator.com/item?id=35002024))

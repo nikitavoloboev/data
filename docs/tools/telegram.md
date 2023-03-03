@@ -22,6 +22,10 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 [Remove Join Group Messages](https://t.me/RemoveJoinGroupMsgBot) is nice bot to add to groups to remove `user joined` messages.
 
+![](https://images.nikiv.dev/2do-23.png)
+
+Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act on soon, random thoughts etc. Until I build an [app for it](https://github.com/nikitavoloboev/zen).
+
 ## Bot libraries
 
 - [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene)) ([Awesome](https://github.com/grammyjs/awesome-grammY)) ([Web Code](https://github.com/grammyjs/website))

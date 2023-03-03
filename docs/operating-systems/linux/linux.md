@@ -699,4 +699,4 @@ title: Linux
 - [Alpine Suck](https://as.bt.ht/) - Lightweight Desktop installer for Alpine Linux based on the suckless philosophy.
 - [Linux-factory](https://github.com/clayrisser/linux-factory) - Framework used to create custom Linux Debian operating systems. ([HN](https://news.ycombinator.com/item?id=34962914))
 - [Mounting into mount namespaces (2023)](https://brauner.io/2023/02/28/mounting-into-mount-namespaces.html)
-- [Rethinking splice() (2023)](https://lwn.net/Articles/923237/)
+- [Rethinking splice() (2023)](https://lwn.net/Articles/923237/) ([HN](https://news.ycombinator.com/item?id=35005022))

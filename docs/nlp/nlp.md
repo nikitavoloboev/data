@@ -14,7 +14,7 @@ Find [generative ML](../machine-learning/generative-machine-learning.md) like [S
 
 [rust-bert](https://github.com/guillaume-be/rust-bert) is useful for making NLP pipelines.
 
-Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-flan-t5-deepspeed).
+Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-flan-t5-deepspeed) together with examples from [OpenAI Cookbook](https://github.com/openai/openai-cookbook).
 
 ## Notes
 
@@ -736,6 +736,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [CMU Advanced NLP Assignment: End-to-end NLP System Building](https://github.com/neubig/nlp-from-scratch-assignment-2022)
 - [New and Improved Embedding Model for OpenAI (2022)](https://openai.com/blog/new-and-improved-embedding-model/) ([HN](https://news.ycombinator.com/item?id=34003394))
 - [GPT-NeoX](https://huggingface.co/docs/transformers/model_doc/gpt_neox) ([HN](https://news.ycombinator.com/item?id=33983086))
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [OpenAI Question Answering using Embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb)
 - [GreaseLM: Graph REASoning Enhanced Language Models for Question Answering (2022)](https://arxiv.org/abs/2201.08860) ([Code](https://github.com/snap-stanford/GreaseLM))
 - [Rank-One Model Editing (ROME)](https://github.com/kmeng01/rome) - Locating and editing factual associations in GPT.
@@ -872,3 +873,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Facebook LLAMA is being openly distributed via torrents (2023)](https://news.ycombinator.com/item?id=35007978)
 - [Batch Prompting: Efficient Inference with Large Language Model APIs (2023)](https://arxiv.org/abs/2301.08721) ([Code](https://github.com/HKUNLP/batch-prompting))
 - [Local attention](https://github.com/lucidrains/local-attention) - Implementation of local windowed attention for language modeling.
+- [Tiktokenizer](https://tiktokenizer.vercel.app/) - Online playground for OpenAPI tokenizers. ([Code](https://github.com/dqbd/tiktokenizer))

@@ -429,7 +429,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Type Hunting](https://typehunting.com/) - Archive of found typography.
 - [Fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics. ([Tweet](https://twitter.com/danielcroe/status/1581428654479138817))
 - [Fontra](https://github.com/BlackFoundryCom/fontra) - Browser-based font editor.
-- [COSMIC Text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text shaping and rendering for COSMIC. ([Reddit](https://www.reddit.com/r/rust/comments/yb2q8f/cosmic_text_a_pure_rust_library_no_system/))
+- [COSMIC Text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text shaping and rendering for COSMIC. ([Reddit](https://www.reddit.com/r/rust/comments/yb2q8f/cosmic_text_a_pure_rust_library_no_system/)) ([HN](https://news.ycombinator.com/item?id=35004705))
 - [ttf-properties-changer](https://github.com/kalashnikovisme/ttf-properties-changer) - Change properties of ttf-fonts.
 - [Tokotype](https://twitter.com/tokotype) - Indonesian company that specializes in digital typeface. ([GitHub](https://github.com/tokotype/PlusJakartaSans))
 - [A few of my favorite typefaces (2021)](https://blog.thea.codes/typefaces-i-love/)

@@ -4,7 +4,13 @@ title: 2Do
 
 # [2Do](https://www.2doapp.com/)
 
-I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
+I love GTD methodology. This app is phenomenal with helping me organize my tasks.
+
+![](https://images.nikiv.dev/2do-23.png)
+
+It's my preferred and main app for todos until I build [my own app for this](https://github.com/nikitavoloboev/zen).
+
+Here is how my sidebar looks:
 
 ![](https://i.imgur.com/HWWRvLb.png)
 

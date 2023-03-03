@@ -1456,6 +1456,7 @@
 - [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 - [swift-filestream](https://github.com/tetsuok/swift-filestream) - File stream APIs for reading from or writing to files on Linux and macOS.
 - [OpenAIKit](https://github.com/dylanshine/openai-kit) - Swift package used to communicate with the OpenAI API.
+- [swift-certificates](https://github.com/apple/swift-certificates) - Library for working with X.509 certificates.
 
 ## Other (not lib)
 

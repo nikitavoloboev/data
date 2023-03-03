@@ -6,7 +6,7 @@ title: Reactive programming
 
 [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph) & [Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) are great reads.
 
-Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reactivity model. [Voby](https://github.com/vobyjs/voby) is interesting too.
+Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reactivity model. [Voby](https://github.com/vobyjs/voby) & [Signia](https://github.com/tldraw/signia) interesting too.
 
 ## Notes
 
@@ -60,3 +60,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [JS Reactivity Benchmark](https://github.com/modderme123/js-reactivity-benchmark)
 - [Why are people SO obsessed with useSignal()? (2023)](https://www.youtube.com/watch?v=lXDDNM5rZQI)
 - [Signals For Solid, Qwik And React (2023)](https://www.youtube.com/watch?v=ZLMjJL70glE)
+- [Signia](https://github.com/tldraw/signia) - Reactive signals that scale, by tldraw.

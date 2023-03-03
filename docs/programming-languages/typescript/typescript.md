@@ -318,7 +318,7 @@ Run/deploy TS with [Deno](../../web/deno.md)/[Bun](../javascript/bun.md).
 - [Ask HN: Is TypeScript worth it? (2023)](https://news.ycombinator.com/item?id=34359504)
 - [TypeScript 5.0 Beta (2023)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-beta/) ([Reddit](https://www.reddit.com/r/javascript/comments/10m3mll/announcing_typescript_50_beta/))
 - [TypeScript utility types you need to know](https://www.youtube.com/watch?v=6Hj56GdFpgs)
-- [ts-reset](https://github.com/total-typescript/ts-reset) - 'CSS reset' for TypeScript, improving types for common JavaScript API's. ([Tweet](https://twitter.com/mattpocockuk/status/1627686847030743043))
+- [ts-reset](https://github.com/total-typescript/ts-reset) - 'CSS reset' for TypeScript, improving types for common JavaScript API's. ([Tweet](https://twitter.com/mattpocockuk/status/1627686847030743043)) ([HN](https://news.ycombinator.com/item?id=35005984))
 - [Linting TypeScript in 2023](https://github.com/JoshuaKGoldberg/linting-typescript-in-2023)
 - [I Made These TypeScript Mistakes For Years (2023)](https://www.youtube.com/watch?v=Xl02L1jy53c)
 - [Ezno](https://github.com/kaleidawave/ezno) - JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance.

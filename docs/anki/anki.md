@@ -12,7 +12,7 @@ The reason I am not currently using it is because I find the philosophy of `Know
 
 > A language isn’t something you learn so much as something you join.
 
-[genanki](https://github.com/kerrickstaley/genanki) is nice tool for generating Anki cards.
+[genanki](https://github.com/kerrickstaley/genanki) is nice tool for generating Anki cards. I may use Anki for language learning with some automation tools like [this](https://github.com/chenlijun99/autoanki).
 
 ## Tips
 
@@ -96,3 +96,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [How to Remember Anything using Anki (2023)](https://rachel.fast.ai/posts/2023-02-21-anki/)
 - [Anki Helper](https://github.com/MarcusXavierr/anki-helper) - Track new words you learn in a foreign language and add them to Anki for further practice and memorization.
 - [Anki CLI](https://github.com/julien-sobczak/anki-cli) - CLI to automate Anki notes/flashcards creation.
+- [Autoanki](https://github.com/chenlijun99/autoanki) - Set of tools and libraries that streamline the learning experience with Anki.

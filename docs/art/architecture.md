@@ -125,3 +125,4 @@
 - [The window trick of Las Vegas hotels (2023)](https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html) ([HN](https://news.ycombinator.com/item?id=34568624))
 - [The Genius Design of Apple Park (2023)](https://www.youtube.com/watch?v=VbeM8Lf7s5A)
 - [How to Engineer Buildings That Withstand Earthquakes (2023)](https://www.scientificamerican.com/article/how-to-engineer-buildings-that-withstand-earthquakes/) ([HN](https://news.ycombinator.com/item?id=34904063))
+- [RoomGPT](https://www.roomgpt.io/) - Generates designs of your room with AI. ([Code](https://github.com/Nutlope/roomGPT))

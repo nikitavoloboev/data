@@ -41,6 +41,12 @@ div.CodeMirror-cursor,
 
 ![](https://pbs.twimg.com/media/FWHswCFWYAArKUW?format=jpg&name=4096x4096)
 
+> how it looks with the theme
+
+![](https://images.nikiv.dev/obsidian-todo-23.png)
+
+Also use Obsidian as a way to work through active todos, until I build an [app for it](https://github.com/nikitavoloboev/zen).
+
 ## Plugins
 
 - [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian. ([Article](https://paulbricman.com/thoughtware/dual))
