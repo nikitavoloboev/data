@@ -594,3 +594,4 @@ for i, _ in enumerate(nums):
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) ([HN](https://news.ycombinator.com/item?id=34750397))
 - [Ask HN: How do you become a better Python developer? (2023)](https://news.ycombinator.com/item?id=34827386)
 - [Dis This](https://www.dis-this.com/) - Online Python Disassembler. ([Code](https://github.com/pamelafox/dis-this))
+- [Awesome Python Features Explained Using the World of Magic](https://github.com/zotroneneis/magical_universe)

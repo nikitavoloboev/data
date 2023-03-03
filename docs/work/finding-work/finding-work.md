@@ -187,3 +187,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Ask HN: Are you a “lifer”? If so why? (2022)](https://news.ycombinator.com/item?id=33794293)
 - [Job Hunting in 2022](https://mhlakhani.com/blog/2023/01/tech-job-market/) ([HN](https://news.ycombinator.com/item?id=34456416))
 - [Ask HN: Laid off folks, are you getting hired? (2023)](https://news.ycombinator.com/item?id=34725047)
+- [Ask HN: Has anyone started over outside of tech? (2023)](https://news.ycombinator.com/item?id=35008392)

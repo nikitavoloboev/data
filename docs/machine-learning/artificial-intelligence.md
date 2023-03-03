@@ -200,3 +200,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [Planning for AGI and beyond (2023)](https://openai.com/blog/planning-for-agi-and-beyond/)
 - [Ask HN: How do I stay on top of AI within software development? (2023)](https://news.ycombinator.com/item?id=34964000)
 - [EleutherAI announces it has become a non-profit (2023)](https://blog.eleuther.ai/year-two-preface/) ([HN](https://news.ycombinator.com/item?id=35000339))
+- [Self hosted AI (2023)](https://www.reddit.com/r/selfhosted/comments/11g776r/selfhosted_ai/)
