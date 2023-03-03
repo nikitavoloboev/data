@@ -9,6 +9,7 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 ## Websites
 
 - [Campsite](https://www.campsite.design/)
+- [Attio](https://attio.com/)
 - [Beeper](https://www.beeper.com/)
 - [Genius](https://www.genius.design/)
 - [Column](https://column.com/)

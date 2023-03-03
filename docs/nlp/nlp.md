@@ -869,3 +869,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LLM Security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs.
 - [LangChain Chat](https://github.com/sullivan-sean/chat-langchainjs)
 - [Awesome Generative Information Retrieval](https://github.com/gabriben/awesome-generative-information-retrieval)
+- [Facebook LLAMA is being openly distributed via torrents (2023)](https://news.ycombinator.com/item?id=35007978)

@@ -2,6 +2,8 @@
 
 It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) based off [misinformation](https://youtu.be/3RFMnjnvNPw?t=80) and expectations to [overwhelm Kyiv in first days of war](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>) and [take over the country](https://www.youtube.com/watch?v=8YkGrKQXZxE).
 
+The [extent of this tragedy](https://www.youtube.com/watch?v=EhssmUtN874) is hard to understand in full. Some humans truly have [no moral bounds or empathy](https://twitter.com/vamelina/status/1629578960957833216). [This](https://www.reddit.com/r/CredibleDefense/comments/11cgjkz/comment/ja4w809/) gives a nice summary of what happened in first days of the war.
+
 It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get [fact based reporting](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
 
 Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
