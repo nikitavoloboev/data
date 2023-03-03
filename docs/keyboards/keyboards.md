@@ -176,3 +176,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [Shift Happens](https://shifthappens.site/) - Book about keyboards. ([Newsletter](https://newsletter.shifthappens.site/))
 - [Yet another keyboard post, or, introducing ErgoNICE (2023)](https://val.packett.cool/blog/ergonice/) ([Lobsters](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing))
 - [Compare split keyboards](https://jhelvy.github.io/splitKbCompare/) ([Code](https://github.com/jhelvy/splitKbCompare))
+- [Initial V](https://github.com/tenderlove/initial-v) - BMW shifter converted to a Bluetooth Keyboard that you use with Vim. ([HN](https://news.ycombinator.com/item?id=35004828))
