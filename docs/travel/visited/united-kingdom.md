@@ -69,3 +69,4 @@ Still find it strange that UK left [EU](europe.md) but maybe they will [change t
 - [The strange case of Britain’s demise (2022)](https://www.economist.com/britain/2022/12/12/the-strange-case-of-britains-demise) ([HN](https://news.ycombinator.com/item?id=34027930))
 - [Reversing UK mobile rail tickets (2023)](https://eta.st/2023/01/31/rail-tickets.html) ([HN](https://news.ycombinator.com/item?id=34640433))
 - [Active Travel Intervention Platform](https://acteng.github.io/atip/) ([Code](https://github.com/acteng/atip))
+- [What is the minimal possible UK address? (2023)](https://microblog.vladh.net/posts/most-minimal-uk-address/) ([HN](https://news.ycombinator.com/item?id=34995370))

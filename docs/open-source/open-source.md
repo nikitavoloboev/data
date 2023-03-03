@@ -261,3 +261,4 @@ Like seeing overviews of OSS releases of a person in a [page like this](https://
 - [I’m Now a Full-Time Professional Open Source Maintainer (2023)](https://words.filippo.io/full-time-maintainer/) ([HN](https://news.ycombinator.com/item?id=34633713))
 - [Transparent Telemetry for Open-Source Projects (2023)](https://research.swtch.com/telemetry-intro) ([Lobsters](https://lobste.rs/s/bhbqkb/transparent_telemetry_for_open_source))
 - [Fabio's overview of code repos](https://github.com/fabiospampinato/monorepo)
+- [Helping open source program offices get started](https://github.com/github/github-ospo)

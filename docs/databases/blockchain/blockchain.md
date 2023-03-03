@@ -438,3 +438,4 @@ Want to study [Dexterity](https://github.com/solana-labs/dexterity) code for how
 - [Spatial](https://www.spatial.io/) - Create, Share & Experience Your Creativity In 3D.
 - [Blur](https://blur.io/) - NFT Marketplace for Pro Traders.
 - [Webb Monorepo](https://github.com/webb-tools/webb-dapp) - Decentralized interfaces into the Webb protocol.
+- [Blowfish](https://blowfish.xyz/) - Proactive defense for web3 wallets. ([Local Blocklists](https://github.com/blowfishxyz/blocklist))
