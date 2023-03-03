@@ -22,7 +22,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 [Remove Join Group Messages](https://t.me/RemoveJoinGroupMsgBot) is nice bot to add to groups to remove `user joined` messages.
 
-![](https://images.nikiv.dev/2do-23.png)
+![](https://images.nikiv.dev/telegram-saved-messages-23.png)
 
 Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act on soon, random thoughts etc. Until I build an [app for it](https://github.com/nikitavoloboev/zen).
 
