@@ -36,3 +36,5 @@ title: Grafana
 - [Grafana Image Renderer](https://github.com/grafana/grafana-image-renderer) - Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser.
 - [VictoriaMetrics data source for Grafana](https://github.com/VictoriaMetrics/grafana-datasource)
 - [Monitoring an Aquarium with InfluxDB and Grafana (2023)](https://www.bentasker.co.uk/posts/blog/house-stuff/monitoring-a-fishtank-with-influxdb-and-grafana.html)
+- [Grafana Dashboard Linter](https://github.com/grafana/dashboard-linter) - Tool to lint Grafana dashboards.
+- [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards.

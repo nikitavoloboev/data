@@ -39,3 +39,4 @@ title: Language Server Protocol
 - [Embedded Language Tools based on Volar Framework](https://github.com/volarjs/language-tools-starter)
 - [Multi LSP Proxy](https://github.com/messense/multi-lsp-proxy) - LSP proxy to multiple language servers.
 - [Language Server implementation for SQL written in Rust](https://github.com/matthias-Q/rusqlls)
+- [Language Server Index Format (LSIF)](https://github.com/microsoft/lsif-node) - Define an index format for Language Servers.

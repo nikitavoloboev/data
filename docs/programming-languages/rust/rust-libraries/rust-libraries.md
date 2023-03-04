@@ -252,6 +252,7 @@
 - [totp-rs](https://github.com/constantoine/totp-rs) - RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features.
 - [rs-ucan](https://github.com/ucan-wg/rs-ucan) - Rust implementation of UCAN.
 - [PASETOrs](https://github.com/brycx/pasetors) - Secure stateless tokens.
+- [Authifier](https://github.com/authifier/authifier) - Opinionated Rust authentication library.
 
 ## WASM
 
@@ -2727,6 +2728,7 @@
 - [jsonb](https://github.com/datafuselabs/jsonb) - JSONB implemented in rust.
 - [nom-bibtex](https://github.com/charlesvdv/nom-bibtex) - Feature complete BibTeX parser using nom.
 - [binary-extract](https://github.com/juliangruber/rs-binary-extract) - Extract a value from JSON string without parsing the whole thing.
+- [async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI.
 
 ## Cargo Plugins
 

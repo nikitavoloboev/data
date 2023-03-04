@@ -129,3 +129,4 @@ title: Web Components
 - [lit-transition](https://github.com/sijakret/lit-transition) - Directive for animated transitions in lit-html.
 - [WCC](https://github.com/ProjectEvergreen/wcc) - Web Components Compiler.
 - [UIMix](https://github.com/seanchas116/uimix) - Open-source web site & component editor.
+- [Custom Elements Manifest](https://github.com/open-wc/custom-elements-manifest) - File format that describes custom elements.

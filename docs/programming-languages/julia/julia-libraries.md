@@ -849,6 +849,7 @@
 - [SparseMatricesCSR](https://github.com/gridap/SparseMatricesCSR.jl) - Sparse matrices in CSR format for Julia computations.
 - [OpenAI](https://github.com/rory-linehan/OpenAI.jl) - OpenAI API wrapper for Julia.
 - [TruncatedStacktraces.jl](https://github.com/SciML/TruncatedStacktraces.jl) - Truncated and Simpler Stacktraces.
+- [IntervalTrees](https://github.com/BioJulia/IntervalTrees.jl) - Data structure for efficient manipulation of sets of intervals.
 
 ## Links
 

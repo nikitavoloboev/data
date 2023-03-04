@@ -247,6 +247,7 @@
 - [tethys](https://github.com/tethys-json/tethys) - JSON parsing/writing library for Scala.
 - [Decrel](https://github.com/yoohaemin/decrel) - Library for declarative programming using relations between your data.
 - [neotype](https://github.com/kitlangton/neotype) - Friendly newtype library for Scala 3.
+- [parboiled2](https://github.com/sirthias/parboiled2) - Macro-based PEG parser generator for Scala.
 
 ## Links
 

@@ -494,6 +494,7 @@
 - [kuhllib](https://github.com/dietmarkuehl/kuhllib) - Experimental standard C++ library.
 - [ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library.
 - [libfork](https://github.com/ConorWilliams/libfork) - Bleeding-edge, lock-free, wait-free, continuation-stealing tasking library.
+- [libremidi](https://github.com/jcelerier/libremidi) - Cross-platform C++17 library for real-time and MIDI file input and output.
 
 ## Links
 

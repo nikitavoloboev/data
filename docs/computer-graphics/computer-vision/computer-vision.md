@@ -1170,3 +1170,5 @@
 - [The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (2023)](https://openreview.net/forum?id=xLr0I_xYGAs) ([Code](https://github.com/Jun-CEN/Unified_Open_Set_Recognition))
 - [Image as Set of Points (2023)](https://arxiv.org/abs/2303.01494) ([Code](https://github.com/ma-xu/Context-Cluster))
 - [MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound (2022)](https://rowanzellers.com/merlotreserve/) ([Code](https://github.com/rowanz/merlot_reserve))
+- [NeRF2Mesh: Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement (2023)](https://me.kiui.moe/nerf2mesh/) ([Code](https://github.com/ashawkey/nerf2mesh))
+- [Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction (2023)](https://arxiv.org/abs/2208.12697) ([Code](https://github.com/wutong16/Voxurf))

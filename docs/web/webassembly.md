@@ -432,3 +432,4 @@ title: WebAssembly
 - [jco](https://github.com/bytecodealliance/jco) - JavaScript tooling for working with WebAssembly Components.
 - [WebAssembly Components Demo](https://github.com/rylev/wasmtime-component-demo) - Demo of how to work with WebAssembly components in wasmtime.
 - [Rust + WASM = Hot Reload](https://github.com/shekohex/rust-wasm-hotreload)
+- [Moss WASM](https://github.com/fuxiaohei/moss-wasm) - WASM serverless platform.
