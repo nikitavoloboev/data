@@ -1056,6 +1056,7 @@
 - [transitive](https://github.com/bobozaur/transitive) - Transitive derive macros for Rust.
 - [ffi-opaque](https://github.com/skade/ffi-opaque) - Macro generating correct opaque types.
 - [struct-field-names-as-array](https://github.com/jofas/struct_field_names_as_array) - Rust crate providing a procedural macro that generates an array of the field names of a named struct.
+- [fromit](https://github.com/al8n/fromit) - Macro for generating new structs with getters, setters, and From or TryFrom implementation based on the given struct.
 
 ## Math
 

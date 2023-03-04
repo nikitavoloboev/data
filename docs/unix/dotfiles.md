@@ -58,6 +58,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Maxim Baz](https://github.com/maximbaz/dotfiles)
 - [Stefan VanBuren](https://github.com/stefanvanburen/dotfiles)
 - [Chris Grieser](https://github.com/chrisgrieser/.config)
+- [Anton Gubarev](https://github.com/antgubarev/dotfiles)
 
 ## Links
 

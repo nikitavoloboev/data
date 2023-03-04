@@ -220,3 +220,4 @@
 - [What chart libraries are ‘modern’? (2023)](https://www.reddit.com/r/reactjs/comments/11dald6/what_chart_libraries_are_modern/)
 - [1 dataset. 100 visualizations.](https://100.datavizproject.com/)
 - [Plotteus](https://github.com/bprusinowski/plotteus) - JavaScript data visualization library designed to help you tell better stories.
+- [Plotly Panel](https://github.com/ae3e/ae3e-plotly-panel) - Render any kind of charts from any data source with Plotly.
