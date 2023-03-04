@@ -2731,6 +2731,9 @@
 - [nom-bibtex](https://github.com/charlesvdv/nom-bibtex) - Feature complete BibTeX parser using nom.
 - [binary-extract](https://github.com/juliangruber/rs-binary-extract) - Extract a value from JSON string without parsing the whole thing.
 - [async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI.
+- [anything](https://github.com/udoprog/anything) - Calculate everything and nothing with perfect precision.
+- [syntree_layout](https://github.com/jsinger67/syntree_layout) - Library to visualize tree structures.
+- [ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 
 ## Cargo Plugins
 

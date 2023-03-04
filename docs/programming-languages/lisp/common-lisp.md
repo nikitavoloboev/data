@@ -160,3 +160,4 @@
 - [Parachute](https://github.com/Shinmera/parachute) - Simple-to-use and extensible testing framework.
 - [iolib](https://github.com/sionescu/iolib) - Common Lisp I/O library.
 - [Common Lisp implementations in 2023](https://www.n16f.net/blog/common-lisp-implementations-in-2023/) ([HN](https://news.ycombinator.com/item?id=34909113))
+- [Transducers: Ergonomic, efficient data processing](https://github.com/fosskers/cl-transducers)

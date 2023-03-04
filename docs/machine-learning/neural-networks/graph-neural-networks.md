@@ -141,7 +141,7 @@
 - [Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries (2022)](https://arxiv.org/abs/2206.11140) ([Code](https://github.com/beabevi/SUN))
 - [Graph machine learning with missing node features (2022)](https://blog.twitter.com/engineering/en_us/topics/insights/2022/graph-machine-learning-with-missing-node-features)
 - [PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images (2021)](https://arxiv.org/abs/2111.15491) ([Code](https://github.com/zorzi-s/PolyWorldPretrainedNetwork))
-- [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs (2022)](https://arxiv.org/abs/2206.11990) ([Code](https://github.com/lucidrains/equiformer-pytorch))
+- [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs (2022)](https://arxiv.org/abs/2206.11990) ([Code](https://github.com/lucidrains/equiformer-pytorch)) ([Code](https://github.com/atomicarchitects/equiformer))
 - [Universal Graph Transformer Self-Attention Networks (2022)](https://github.com/daiquocnguyen/Graph-Transformer)
 - [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://github.com/materialsvirtuallab/megnet)
 - [E3NN.jl](https://github.com/Dsantra92/e3nn.jl) - Julia implementation of Euclidean neural networks.

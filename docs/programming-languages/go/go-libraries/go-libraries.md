@@ -2096,6 +2096,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [slices](https://github.com/PeterRK/slices) - Generic sort for slices in Go.
 - [IPLib](https://github.com/c-robinson/iplib) - Library for working with IP addresses and networks in Go.
 - [JSON Logic](https://github.com/diegoholiveira/jsonlogic) - Implementation of JSON Logic in Go.
+- [openai-go](https://github.com/rakyll/openai-go) - Go client libraries for OpenAI APIs.
 
 ## Links
 

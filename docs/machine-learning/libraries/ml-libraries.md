@@ -483,3 +483,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [PyLops](https://github.com/PyLops/pylops) - Linear-Operator Library for Python.
 - [robustlearn](https://github.com/microsoft/robustlearn) - Robust machine learning for responsible AI.
 - [fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework.
+- [HuggingFace.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API.

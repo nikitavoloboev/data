@@ -97,3 +97,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Anki Helper](https://github.com/MarcusXavierr/anki-helper) - Track new words you learn in a foreign language and add them to Anki for further practice and memorization.
 - [Anki CLI](https://github.com/julien-sobczak/anki-cli) - CLI to automate Anki notes/flashcards creation.
 - [Autoanki](https://github.com/chenlijun99/autoanki) - Set of tools and libraries that streamline the learning experience with Anki.
+- [Pentive](https://github.com/AlexErrant/Pentive) - Free, open source, offline-first spaced repetition system that has first class support for collaboration, curation, and plugins. It's Reddit for flashcards.

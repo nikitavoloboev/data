@@ -212,3 +212,4 @@ Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app to
 - [Social media is a cause, not a correlate, of mental illness in teen girls (2023)](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic) ([HN](https://news.ycombinator.com/item?id=34901571))
 - [Ask Dang: What tools do you use for moderating HN? (2023)](https://news.ycombinator.com/item?id=34920400)
 - [First Impressions of Bluesky's Brand New iOS App (2023)](https://notes.ghed.in/posts/2023/bluesky-ios-app-review/) ([HN](https://news.ycombinator.com/item?id=35009723))
+- [Enola Holmes](https://github.com/TheYahya/enola) - Modern shiny CLI tool written with Go to help you: Hunt down social media accounts by username across social networks.

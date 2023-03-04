@@ -293,6 +293,7 @@
 - [Mix Unused](https://github.com/hauleth/mix_unused) - Find unused functions in your project.
 - [LoggerBackends](https://github.com/elixir-lang/logger_backends) - Logger backends functionality for Elixir.
 - [Mahaul](https://github.com/emadalam/mahaul) - Parse and validate your environment variables easily in Elixir.
+- [Packmatic](https://github.com/evadne/packmatic) - Generates Zip streams by aggregating File or URL Sources.
 
 ## Links
 

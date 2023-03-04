@@ -673,3 +673,5 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [What's Postgres Got To Do With AI? (2023)](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai) ([HN](https://news.ycombinator.com/item?id=34903454))
 - [CoreDB](https://github.com/CoreDB-io/coredb) - Postgres for Everything.
 - [Mathesar](https://github.com/centerofci/mathesar) - Open-source collaborative UI for Postgres databases. ([HN](https://news.ycombinator.com/item?id=34999774))
+- [pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library.
+- [Codd](https://github.com/mzabani/codd) - Helps to apply plain postgres SQL migrations with strong cross-environment consistency checks and atomicity guarantees.

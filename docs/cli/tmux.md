@@ -33,3 +33,4 @@ title: Tmux
 - [tmux.nvim](https://github.com/spywhere/tmux.nvim) - Turning Neovim into a terminal multiplexer. ([HN](https://news.ycombinator.com/item?id=30971946))
 - [Use fzf for tmux session switching (2021)](https://waylonwalker.com/tmux-fzf-session-jump/) ([HN](https://news.ycombinator.com/item?id=31308099))
 - [Getting Started with Tmux (2022)](https://ittavern.com/getting-started-with-tmux/) ([HN](https://news.ycombinator.com/item?id=33943537))
+- [Be Careful Using tmux and Environment Variables (2023)](https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/)
