@@ -87,3 +87,4 @@ bindkey
 - [Moving files in ZSH - The wonderful world of zmv (2022)](https://filipe.kiss.ink/zmv-zsh-rename/)
 - [Fixing macOS Zsh Terminal History Settings (2022)](https://blog.akatz.org/fixing-macos-zsh-terminal-history-settings/) ([HN](https://news.ycombinator.com/item?id=33186412))
 - [Why does zsh start so slowly? (2022)](https://pickard.cc/posts/why-does-zsh-start-slowly/) ([HN](https://news.ycombinator.com/item?id=33580350))
+- [LazyShell](https://github.com/not-poma/lazyshell) - GPT powered Zsh completion script.

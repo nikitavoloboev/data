@@ -16,7 +16,7 @@ I like to [make private contributions private on my profile](https://i.imgur.com
 
 [gh-poi](https://github.com/seachicken/gh-poi) is useful for cleaning up already merged git branches.
 
-[Probot](https://github.com/probot/probot) is nice for writing GitHub automations.
+[Probot](https://github.com/probot/probot) is nice for writing GitHub automations. [Octocrab](https://github.com/XAMPPRocky/octocrab) is nice [Rust](../../programming-languages/rust/rust.md) GitHub library.
 
 ## Interesting GitHub Bios
 

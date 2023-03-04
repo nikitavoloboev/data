@@ -438,6 +438,7 @@
 - [Difference Lists](https://github.com/spl/dlist) - List-like types supporting O(1) append and snoc operations.
 - [ivar-simple](https://github.com/int-e/ivar-simple) - Write once concurrency primitives.
 - [monad-metrics](https://github.com/parsonsmatt/monad-metrics) - Convenient wrapper and API for using EKG metrics in your application.
+- [optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser.
 
 ## Notes
 

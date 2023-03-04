@@ -33,6 +33,7 @@ title: Tauri
 - [Nasoone](https://github.com/davideaimar/nasoone) - Application that allows you to collect statistics about the traffic in your network.
 - [Emoji Mart](https://github.com/Simon-Laux/tauri-emoji-mart-app) - Tauri app, click on an emoji to copy it to the clipboard.
 - [Tauri + Vue + Vite Template](https://github.com/Uninen/tauri-vue-template)
+- [Reddit mobile client built with Tauri/Vue](https://github.com/Leoglme/tauri-reddit-mobile-app)
 
 ## Notes
 

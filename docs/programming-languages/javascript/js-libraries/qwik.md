@@ -45,3 +45,4 @@ title: Qwik
 - [Qwik UI Components](https://github.com/qwikifiers/qwik-ui)
 - [Qwik nice form example](https://twitter.com/manucorporat/status/1619746669452750848)
 - [Qwik Katas](https://github.com/survivejs/qwik-katas) - Series of katas to learn Qwik quickly.
+- [Qwik Icons](https://github.com/qwikest/icons) - Include popular icons easily in your Qwik projects.

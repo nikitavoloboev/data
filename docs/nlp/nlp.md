@@ -874,3 +874,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Batch Prompting: Efficient Inference with Large Language Model APIs (2023)](https://arxiv.org/abs/2301.08721) ([Code](https://github.com/HKUNLP/batch-prompting))
 - [Local attention](https://github.com/lucidrains/local-attention) - Implementation of local windowed attention for language modeling.
 - [Tiktokenizer](https://tiktokenizer.vercel.app/) - Online playground for OpenAPI tokenizers. ([Code](https://github.com/dqbd/tiktokenizer))
+- [LLaMA: INT8 edition](https://github.com/tloen/llama-int8) - Hastily quantized inference code for LLaMA models.

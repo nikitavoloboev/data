@@ -375,3 +375,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [Intercepting t.co links using DNS rewrites (2023)](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/) ([HN](https://news.ycombinator.com/item?id=34571448)) ([Lobsters](https://lobste.rs/s/zvpabd/intercepting_t_co_links_using_dns))
 - [Bird.makeup](https://bird.makeup/) - Twitter to ActivityPub bridge. ([HN](https://news.ycombinator.com/item?id=34748669)) ([Code](https://sr.ht/~cloutier/bird.makeup/))
 - [TwitterBackup](https://github.com/one-among-us/TwitterBackup) - Backup other users' twitter accounts with Twitter API.
+- [next-tweet](https://github.com/vercel-labs/next-tweet) - Embedded and static tweet for Next.js applications.
