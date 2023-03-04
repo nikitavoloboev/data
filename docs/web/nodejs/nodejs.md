@@ -454,3 +454,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [Nodebox](https://github.com/codesandbox/nodebox-runtime) - Runtime for executing Node.js modules in the browser. ([Article](https://codesandbox.io/blog/announcing-sandpack-2))
 - [WhatWG Node](https://github.com/ardatan/whatwg-node) - Platform agnostic libraries for all JS environments.
 - [A Deep Dive into Node.js: Understanding its history, threading, and event-driven architecture (2023)](https://dev.to/thefaisal/a-deep-dive-into-nodejs-understanding-its-history-threading-and-event-driven-architecture-23j1)
+- [Run That](https://github.com/run-z/run-z) - Command line utility able to run multiple npm-scripts at once.

@@ -469,3 +469,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [OpenAPI to Postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI specs to the Postman Collection format.
 - [Step CI](https://stepci.com/) - Fully automated API Testing and Quality Assurance. ([GitHub](https://github.com/stepci))
 - [OpenAPI spec for the OpenAI API](https://github.com/openai/openai-openapi)
+- [GraphQL vs. REST APIs: a complete guide (2023)](https://www.airplane.dev/blog/graphql-vs-rest-apis-a-complete-guide) ([HN](https://news.ycombinator.com/item?id=35014395))

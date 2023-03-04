@@ -815,6 +815,8 @@
 - [Rust Landlock](https://github.com/landlock-lsm/rust-landlock) - Rust library for the Linux Landlock sandboxing feature.
 - [devicemapper-rs](https://github.com/stratis-storage/devicemapper-rs) - Rust library for using Linux devicemapper.
 - [linux-raw-sys](https://github.com/sunfishcode/linux-raw-sys) - Generated bindings for Linux's userspace API.
+- [rustix-uring](https://github.com/jordanisaacs/rustix-uring) - Low-level io_uring userspace interface for Rust ported to rustix.
+- [A10](https://github.com/Thomasdezeeuw/a10) - Low-level library safely exposing the io_uring API.
 
 ## Embedded
 

@@ -31,3 +31,4 @@ title: Ebiten
 - [Ebiten Game Template](https://github.com/sinisterstuf/ebiten-game-template)
 - [Kage's desk](https://github.com/tinne26/kage-desk) - Make Kage shaders more accessible to Ebitengine.
 - [Ebitengine Kage support for Visual Studio Code](https://github.com/sedyh/ebitengine-kage-vscode)
+- [Ebiten UI](https://github.com/ebitenui/ebitenui) - User interface engine and widget library for Ebiten.

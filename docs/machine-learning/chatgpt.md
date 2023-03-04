@@ -172,4 +172,4 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [ChatGPT deployed as GitHub app](https://github.com/flows-network/chatgpt-github-app)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT.
-- [Self-replicating Python using ChatGPT](https://github.com/fullthom/chat-gpt-quine)
+- [Self-replicating Python using ChatGPT](https://github.com/fullthom/chat-gpt-quine) ([HN](https://news.ycombinator.com/item?id=35013459))

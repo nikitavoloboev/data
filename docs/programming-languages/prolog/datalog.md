@@ -45,4 +45,4 @@ title: Datalog
 - [Mangle](https://github.com/google/mangle) - Programming language for deductive database programming. It is an extension of Datalog, with various extensions like aggregation, function calls and optional type-checking.
 - [Datafun](https://github.com/rntz/datafun) - Research on integrating datalog & lambda calculus via monotonicity types.
 - [Introduction to Datalog (2022)](https://blogit.michelin.io/an-introduction-to-datalog/) ([HN](https://news.ycombinator.com/item?id=34801457))
-- [Deconstructing Datalog (2021)](http://www.rntz.net/files/thesis.pdf)
+- [Deconstructing Datalog (2021)](http://www.rntz.net/files/thesis.pdf) ([HN](https://news.ycombinator.com/item?id=34991276))

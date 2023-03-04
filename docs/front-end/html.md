@@ -326,3 +326,4 @@ Hi<div>oh no break</div>
 - [Declarative Shadow DOM (2023)](https://webkit.org/blog/13851/declarative-shadow-dom/) ([HN](https://news.ycombinator.com/item?id=34778224))
 - [lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images.
 - [unpic](https://github.com/ascorbic/unpic) - Universal image CDN URL translator.
+- [qr-code](https://github.com/bitjson/qr-code) - No-framework, no-dependencies, customizable, animate-able, SVG-based qr-code HTML element.

@@ -68,4 +68,4 @@ title: Brain Computer Interfaces
 - [Bryan Johnson: Kernel Brain-Computer Interfaces (2023)](https://www.youtube.com/watch?v=1YbcB6b4A2U)
 - [Real-Time Brain-to-Image Reconstructions](https://medarc.notion.site/Real-Time-Brain-to-Image-Reconstructions-e1116f115715456a96bb053a304b6292) ([HN](https://news.ycombinator.com/item?id=34737517))
 - [The future of brain–machine interfaces is optical (2023)](https://www.nature.com/articles/s41928-023-00926-y)
-- [High-resolution image reconstruction with latent diffusion models from human brain activity (2023)](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2) ([Code](https://github.com/yu-takagi/StableDiffusionReconstruction)) ([Tweet](https://twitter.com/blader/status/1631543565305405443))
+- [High-resolution image reconstruction with latent diffusion models from human brain activity (2023)](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2) ([Code](https://github.com/yu-takagi/StableDiffusionReconstruction)) ([Tweet](https://twitter.com/blader/status/1631543565305405443)) ([HN](https://news.ycombinator.com/item?id=35012981))

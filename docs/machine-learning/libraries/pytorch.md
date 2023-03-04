@@ -507,3 +507,4 @@ title: PyTorch
 - [minLoRA](https://github.com/cccntu/minLoRA) - Minimal PyTorch library that allows you to apply LoRA to any PyTorch model.
 - [Implementation of the Hyena Operator in PyTorch](https://github.com/lucidrains/hyena-pytorch)
 - [PyTorchTS](https://github.com/zalandoresearch/pytorch-ts) - PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend.
+- [Zipslicer](https://github.com/kir-gadjello/zipslicer) - Library for incremental loading of large PyTorch checkpoints. ([HN](https://news.ycombinator.com/item?id=35013939))

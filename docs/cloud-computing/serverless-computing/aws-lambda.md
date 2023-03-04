@@ -158,3 +158,4 @@ title: AWS Lambda
 - [Lambda Cold Starts analysis](https://maxday.github.io/lambda-perf/) ([Code](https://github.com/maxday/lambda-perf))
 - [ridgenative](https://github.com/shogo82148/ridgenative) - AWS Lambda HTTP Proxy integration event bridge to Go net/http.
 - [AWS Is Asleep at the Lambda Wheel (2023)](https://www.lastweekinaws.com/blog/aws-is-asleep-at-the-lambda-wheel/) ([HN](https://news.ycombinator.com/item?id=35002024))
+- [algnhsa](https://github.com/akrylysov/algnhsa) - AWS Lambda Go net/http server adapter.

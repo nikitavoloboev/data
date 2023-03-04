@@ -439,3 +439,4 @@ Want to study [Dexterity](https://github.com/solana-labs/dexterity) code for how
 - [Blur](https://blur.io/) - NFT Marketplace for Pro Traders.
 - [Webb Monorepo](https://github.com/webb-tools/webb-dapp) - Decentralized interfaces into the Webb protocol.
 - [Blowfish](https://blowfish.xyz/) - Proactive defense for web3 wallets. ([Local Blocklists](https://github.com/blowfishxyz/blocklist))
+- [Uniswap Wallet](https://github.com/Uniswap/wallet) - Simplest, safest, and most powerful self-custodial crypto wallet.

@@ -60,3 +60,5 @@
 - [ARDiffMuseum](https://github.com/ynagatomo/ARDiffMuseum) - iOS app that generate images using Stable Diffusion and displays them in AR.
 - [RKUtilities](https://github.com/Reality-Dev/RealityKit-Utilities) - Code that makes writing code with RealityKit easier.
 - [Replaying memories in AR](https://twitter.com/mrgreen/status/1629045335312957440)
+- [Could we make the web more immersive using a simple optical illusion? (2023)](https://shopify.github.io/spatial-commerce-projects/WonkaVision/) ([HN](https://news.ycombinator.com/item?id=35016988))
+- [Spatial Commerce Projects](https://shopify.github.io/spatial-commerce-projects/)

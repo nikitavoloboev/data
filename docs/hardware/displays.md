@@ -32,3 +32,4 @@
 - [Ask HN: Can you recommend an “instant-switch” Monitor? Does one exist? (2022)](https://news.ycombinator.com/item?id=34048573)
 - [Samsung bets on MicroLED and 8K for its premium 2023 TVs](https://www.engadget.com/samsungs-bets-on-micro-led-and-8-k-for-its-premium-2023-t-vs-030033433.html) ([HN](https://news.ycombinator.com/item?id=34245350))
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Custom Resolutions, XDR/HDR Extra Brightness, Dummy Displays, Brightness Adjustment, Picture in Picture, Display and EDID overrides + more.
+- [Why I stopped using an external monitor (2023)](https://bt.ht/monitor/) ([HN](https://news.ycombinator.com/item?id=35015277))

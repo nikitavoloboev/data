@@ -286,6 +286,7 @@ title: GitHub actions
 - [Cosign Installer](https://github.com/sigstore/cosign-installer)
 - [setup-bin](https://github.com/supplypike/setup-bin) - Sets up a binary in $PATH for use in actions.
 - [Issue Manager](https://github.com/tiangolo/issue-manager) - Automatically close issues that have a label, after a custom delay, if no one replies back.
+- [Code Sign Action](https://github.com/lando/code-sign-action) - Code sign files.
 
 ## Go
 
@@ -351,6 +352,7 @@ title: GitHub actions
 - [Build and Tag action](https://github.com/JasonEtco/build-and-tag-action) - GitHub Action for publishing JavaScript Actions.
 - [optic-release-automation-action](https://github.com/nearform/optic-release-automation-action) - Automate the release process of your npm modules, apps and actions.
 - [pNPM Setup](https://github.com/DerYeger/pnpm-setup-action) - GitHub Action for setting up a pNPM environment. Caches dependencies for reduced execution times.
+- [Pkg Action](https://github.com/lando/pkg-action) - GitHub action that allows you to "compile" node projects with pkg.
 
 ## Zig
 

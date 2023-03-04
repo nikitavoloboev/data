@@ -541,3 +541,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Writing high-performance clients for TigerBeetle (2023)](https://tigerbeetle.com/blog/2023-02-21-writing-high-performance-clients-for-tigerbeetle/)
 - [Give Me Flexibility and Give Me Types (2023)](https://capitalex.codeberg.page/give-me-flexibility-and-give-me-types/)
 - [Stdout Buffering (2016)](https://eklitzke.org/stdout-buffering)
+- [Architecting Asynchronous Schedulers (2020)](https://slightknack.dev/passerine/schedule/)

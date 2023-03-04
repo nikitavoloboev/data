@@ -312,3 +312,4 @@
 - [Service Weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing, deploying, and managing distributed applications. ([Docs](https://serviceweaver.dev/)) ([Intro](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html?m=1)) ([Tweet](https://twitter.com/martinkl/status/1631602767524495363))
 - [CASM](https://github.com/wetware/casm) - Universal middleware for decentralized computing.
 - [Wetware](https://github.com/wetware/ww) - Alternative to Kubernetes, Mesos and OpenShift that turns any group of networked computers -- including cloud-based instances -- into a programmable IaaS/PaaS cluster.
+- [Canadensis](https://github.com/samcrow/canadensis) - Open technology for real-time intravehicular distributed computing and communication based on modern networking standards.

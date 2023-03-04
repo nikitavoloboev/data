@@ -1073,3 +1073,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Releasing Rust applications with cargo dist (2023)](https://www.youtube.com/watch?v=Cl2qgOwswH4)
 - [Let's make an htop-like in your browser (with Rust) (2023)](https://www.youtube.com/watch?v=c_5Jy_AVDaM) ([Code](https://github.com/fasterthanlime/axact))
 - [rustc-tools](https://github.com/GuillaumeGomez/rustc-tools) - Some internal rustc tools made accessible.
+- [Dealing with Cyclic Data in Rust (2022)](https://slightknack.dev/blog/rust-cycles/)
+- [Living with Rust Long-Term - Jon Gjengset (2023)](https://www.youtube.com/watch?v=r35cBkPRNMI)

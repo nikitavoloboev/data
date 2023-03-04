@@ -37,3 +37,4 @@ title: Tailscale
 - [tclip](https://github.com/tailscale-dev/tclip) - Pastebin for tailscale users.
 - [Replacing Tailscale with a NixOS Module (2022)](https://jackson.dev/post/replacing-tailscale-with-nixos/)
 - [libtailscale](https://github.com/tailscale/libtailscale) - C library that embeds Tailscale into a process.
+- [Tailscale Docker Extension](https://github.com/tailscale/docker-extension) - Docker Desktop extension adding Tailscale networking.
