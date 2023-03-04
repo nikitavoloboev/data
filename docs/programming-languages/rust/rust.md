@@ -1072,3 +1072,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Speeding up Rust Code (2023)](https://www.youtube.com/watch?v=b0KIDIOL_i4)
 - [Releasing Rust applications with cargo dist (2023)](https://www.youtube.com/watch?v=Cl2qgOwswH4)
 - [Let's make an htop-like in your browser (with Rust) (2023)](https://www.youtube.com/watch?v=c_5Jy_AVDaM) ([Code](https://github.com/fasterthanlime/axact))
+- [rustc-tools](https://github.com/GuillaumeGomez/rustc-tools) - Some internal rustc tools made accessible.

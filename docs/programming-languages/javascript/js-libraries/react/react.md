@@ -378,3 +378,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
 - [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library (2023)](https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/)
 - [React vs Signals: 10 Years Later (2023)](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71) ([Tweet](https://twitter.com/RyanCarniato/status/1630983653441560577)) ([Nice reply](https://dev.to/dan_abramov/comment/256g9)) ([Tweet](https://twitter.com/dan_abramov/status/1631061136727482377?s=20))
+- [Wakuwork](https://github.com/dai-shi/wakuwork) - Minimalistic React Framework.

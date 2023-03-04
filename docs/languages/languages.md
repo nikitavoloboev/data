@@ -106,3 +106,4 @@
 - [Unbabel](https://unbabel.com/) - Seamless Multilingual Translation Services.
 - [grammY Translations Telegram Bot](https://github.com/grammyjs/translations-bot) ([Translation Guide](https://github.com/grammyjs/website/blob/main/TRANSLATING.md))
 - [Speak](https://www.speak.com/) - Speaking app that actually talks. ([Tweet](https://twitter.com/connorzwick/status/1630998153410527233))
+- [Lingva Scraper](https://github.com/thedaviddelta/lingva-scraper) - Google Translate scraper for Lingva Translate.

@@ -211,6 +211,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Xash3D](https://github.com/sultim-t/xash-rt) - Half-Life 1 with real-time path tracing.
 - [Tic Tac Toe implementation over network](https://github.com/dineshgowda24/tic-tac-toe)
 - [Bemuse](https://bemuse.ninja/) - Web-based online rhythm action game. ([Code](https://github.com/bemusic/bemuse))
+- [Defect Process](https://github.com/incoherentsoftware/defect-process) - 2D hack n' slash game in Haskell.
 
 ## Awesome games (other)
 

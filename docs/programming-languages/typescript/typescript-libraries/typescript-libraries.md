@@ -824,6 +824,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [jsoq](https://github.com/nire0510/jsoq) - Query and manipulate JSON arrays easily.
 - [ts-known](https://github.com/LuciNyan/ts-known) - Guards for common types, and methods to generate type guards for specific types quickly.
 - [thaler](https://github.com/lxsmnsyc/thaler) - Write server-side functions in an isomorphic way.
+- [Banditypes](https://github.com/thoughtspile/banditypes) - 400-byte schema validator for TS.
 
 ## Links
 

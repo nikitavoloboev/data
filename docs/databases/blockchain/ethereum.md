@@ -773,3 +773,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [DB3 Network](https://github.com/dbpunk-labs/db3) - Open-source decentralized firebase firestore alternative.
 - [Vitalik Buterin's some personal user experiences (2023)](https://vitalik.eth.limo/general/2023/02/28/ux.html)
 - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
+- [reth-light-sync](https://github.com/rkrasiuk/reth-light) - Syncing and uploading Ethereum plain state using reth.

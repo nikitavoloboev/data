@@ -96,3 +96,5 @@ Still exploring different kinds of clothing styles. I currently mostly use [Bjö
 - [Reformation](https://www.thereformation.com/) - Sustainable Women's Clothing and Accessories.
 - [NOBconcept](https://nobconcept.com/en/) - Online & Designer shopping.
 - [Moda Operandi](https://www.modaoperandi.com/) - Women's Designer Clothing Collections & Runway Fashion.
+- [Free People](https://www.freepeople.com/)
+- [Lyst](https://www.lyst.com/)

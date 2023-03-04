@@ -182,3 +182,4 @@ title: Speech recognition
 - [FunASR: Fundamental End-to-End Speech Recognition Toolkit](https://github.com/alibaba-damo-academy/FunASR)
 - [Streamlit UI for OpenAI's Whisper](https://github.com/hayabhay/whisper-ui)
 - [Whisperer](https://github.com/miguelvalente/whisperer) - Go from raw audio files to a speaker separated text-audio datasets automatically.
+- [Whisper Node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper.

@@ -533,3 +533,5 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [halfsp](https://github.com/masaeedu/halfsp) - Haskell language server that doesn't do much, and does it faster than HLS.
 - [Haskell Playground](https://play.haskell.org/) ([Code](https://github.com/haskell/play-haskell)) ([Release](https://discourse.haskell.org/t/haskell-playground-is-live-at-play-haskell-org/5869))
 - [Haskell for Elm developers: giving names to stuff (Part 3 - Monads) (2023)](https://flaviocorpa.com/haskell-for-elm-developers-giving-names-to-stuff-part-3-monads.html)
+- [Hierarchical Free Monads: The Most Developed Approach In Haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell)
+- [Three Layer](https://github.com/Holmusk/three-layer) - Architecture of Haskell web applications.
