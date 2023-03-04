@@ -658,3 +658,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [Data consistency is overrated (2023)](https://two-wrongs.com/data-consistency-is-overrated) ([HN](https://news.ycombinator.com/item?id=34847527))
 - [Writing an engineering strategy (2023)](https://lethain.com/eng-strategies/)
 - [Ask HN: What would happen if we prioritised all bugs over all new features? (2023)](https://news.ycombinator.com/item?id=34907970)
+- [Intro to Content Defined Chunking (2023)](https://joshleeb.com/posts/content-defined-chunking.html)

@@ -437,3 +437,4 @@ title: Reinforcement learning
 - [STARTcraft](https://github.com/davechurchill/STARTcraft) - Get started with Starcraft: BroodWar AI Development as fast as possible.
 - [Awesome RLHF (RL with Human Feedback)](https://github.com/opendilab/awesome-RLHF)
 - [abcdRL](https://github.com/sdpkjc/abcdrl) - Modular Single-file Reinfocement Learning Algorithms Library.
+- [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904) ([HN](https://news.ycombinator.com/item?id=35016250))

@@ -372,6 +372,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Nicole Express](https://nicole.express/)
 - [Brandon Smith](https://www.brandons.me/)
 - [Hugging Face](https://huggingface.co/blog)
+- [Josh Toit](https://joshleeb.com/)
 
 ## Notes
 
