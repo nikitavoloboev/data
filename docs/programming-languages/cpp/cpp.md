@@ -6,6 +6,8 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 
 [Whisper-rs](https://github.com/tazz4843/whisper-rs) is nice example of making bindings from Rust into C++ work well.
 
+[Circle](https://github.com/seanbaxter/circle) is an ambitious new C++ compiler.
+
 ## Notes
 
 - [C++ is a fucking nightmare. There's 5 ways to do everything, ie because of historical reasons. Endless rules about shit like coercions, etc etc.](https://twitter.com/AdamRackis/status/1441233740248719361)

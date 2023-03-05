@@ -2097,6 +2097,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [IPLib](https://github.com/c-robinson/iplib) - Library for working with IP addresses and networks in Go.
 - [JSON Logic](https://github.com/diegoholiveira/jsonlogic) - Implementation of JSON Logic in Go.
 - [openai-go](https://github.com/rakyll/openai-go) - Go client libraries for OpenAI APIs.
+- [changelog](https://github.com/parkr/changelog) - Parse markdown-esque changelogs (like our example), parse out versions, sections, changes & references.
 
 ## Links
 

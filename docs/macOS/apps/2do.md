@@ -8,7 +8,7 @@ I love GTD methodology. This app is phenomenal with helping me organize my tasks
 
 ![](https://images.nikiv.dev/2do-23.png)
 
-It's my preferred and main app for todos until I build [my own app for this](https://github.com/nikitavoloboev/zen).
+It's my preferred and main app for todos until I build my own app for this.
 
 Here is how my sidebar looks:
 

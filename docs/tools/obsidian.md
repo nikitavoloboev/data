@@ -45,7 +45,7 @@ div.CodeMirror-cursor,
 
 ![](https://images.nikiv.dev/obsidian-todo-23.png)
 
-Also use Obsidian as a way to work through active todos, until I build an [app for it](https://github.com/nikitavoloboev/zen).
+Also use Obsidian as a way to work through active todos, until I build an app for it.
 
 ## Plugins
 
