@@ -34,3 +34,4 @@ title: NEAR Protocol
 - [NEAR Contract Tools](https://github.com/encody/near-contract-tools) - Helpful functions and macros for developing smart contracts on NEAR Protocol.
 - [Here](https://herewallet.app/) - NEAR Wallet.
 - [Your opinion on NEAR Protocol (2022)](https://www.reddit.com/r/CryptoTechnology/comments/yl3g6d/comment/iuwujw0/?utm_source=reddit&utm_medium=web2x&context=3)
+- [QuickJS for WebAssembly and JavaScript contracts inside Rust on NEAR protocol](https://github.com/petersalomonsen/quickjs-wasm-near)

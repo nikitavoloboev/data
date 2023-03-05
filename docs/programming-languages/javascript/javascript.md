@@ -6,6 +6,8 @@ title: JavaScript
 
 [Modern JavaScript Tutorial](https://javascript.info/) & [Just JavaScript](https://justjavascript.com/) are great intros.
 
+[Metaphysics and JavaScript](https://www.swyx.io/svelte-metaphysics) is a [nice talk](https://www.youtube.com/watch?v=g584AIL1HtI&t=9355s).
+
 ## Notes
 
 - [You can define and run the function straight away by enclosing it in parenthesis and adding empty () after](https://forum.keyboardmaestro.com/t/javascript-assistance/8331/2)
