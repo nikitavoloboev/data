@@ -266,3 +266,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Canvas And Lisp Magic](https://github.com/VitoVan/calm) - Calm down and draw something, in Lisp.
 - [Void](https://github.com/ianstormtaylor/void) - Toolkit for making generative art in TS.
 - [gaul](https://github.com/aldernero/gaul) - Generative Art Utility Library.
+- [Nannou](https://nannou.cc/) - Open-source creative-coding framework for Rust. ([HN](https://news.ycombinator.com/item?id=35027543))

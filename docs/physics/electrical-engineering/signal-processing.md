@@ -72,3 +72,4 @@ title: Signal processing
 - [NxSignal](https://github.com/elixir-nx/nx_signal) - Digital Signal Processing with Nx.
 - [Diospyros](https://github.com/cucapra/diospyros) - Compiler for generating high-performance, intrinsics-based code for linear algebra kernels running on digital signal processors.
 - [Julius Smith - Sound synthesis based on physical models (2012)](https://www.youtube.com/watch?v=dUcNzPhZdwk)
+- [What Are Signals?](https://signia.tldraw.dev/docs/what-are-signals) ([HN](https://news.ycombinator.com/item?id=35009417))
