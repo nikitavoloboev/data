@@ -595,3 +595,4 @@ for i, _ in enumerate(nums):
 - [Ask HN: How do you become a better Python developer? (2023)](https://news.ycombinator.com/item?id=34827386)
 - [Dis This](https://www.dis-this.com/) - Online Python Disassembler. ([Code](https://github.com/pamelafox/dis-this))
 - [Awesome Python Features Explained Using the World of Magic](https://github.com/zotroneneis/magical_universe)
+- [Even the Pylint codebase uses Ruff](https://news.ycombinator.com/item?id=35035618)

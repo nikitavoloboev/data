@@ -148,3 +148,4 @@ title: Phoenix framework
 - [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss (2023)](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss) ([HN](https://news.ycombinator.com/item?id=34804627))
 - [Phoenix 1.7.0 released: Built-in Tailwind, Verified Routes, LiveView Streams, and what's next (2023)](https://phoenixframework.org/blog/phoenix-1.7-final-released)
 - [Phoenix Dev Blog - Streams (2023)](https://fly.io/phoenix-files/phoenix-dev-blog-streams/) ([Reddit](https://www.reddit.com/r/elixir/comments/11drzcz/phoenix_dev_blog_streams/))
+- [Phoenix 1.7.0 (2023)](https://www.phoenixframework.org/blog/phoenix-1.7-final-released) ([HN](https://news.ycombinator.com/item?id=35036637))

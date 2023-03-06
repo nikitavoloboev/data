@@ -227,3 +227,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Data Fetching in SolidJS: How to Use createResource (2023)](https://www.youtube.com/watch?v=A5_58oenCqk)
 - [pRPC](https://github.com/OrJDev/prpc) - Write simple and interactive SolidStart code that will run on the server but will easily be used on the client. ([Tweet](https://twitter.com/OrJDevv/status/1629142063315910657?s=20))
 - [Solid Rollup AWS Lambda](https://github.com/Bersaelor/solid-rollup-aws-lambda)
+- [Solid Liveblocks](https://github.com/tmns/solid-liveblocks) - Solid hooks and providers to use Liveblocks declaratively.

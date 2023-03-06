@@ -39,6 +39,7 @@ When I get a chance, I will setup [gymnastics rings](https://www.gornation.com/b
 
 ## Notes
 
+- [Find an activity that involves physical activity that you enjoy and takes place outside. Exercise for the purpose of looking good, being better at work, or being healthier is one of the saddest human developments.](https://twitter.com/aboodman/status/1632622044230868992)
 - [To build muscle: eat ~250 calories above maintenance, aim for 1.3-2 g protein per kg of bodyweight, fill in the rest with carbs and fats however you'd like, get enough vitamins, sleep enough, eat whenever works for you. To maintain muscle: eat as much as you burn, you can drop protein slightly, rest is same.](https://www.reddit.com/r/veganfitness/comments/zhrfr6/im_beginning_my_vegan_lifestyle_ive_always/)
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.
 - [It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy.](https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/)

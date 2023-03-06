@@ -184,3 +184,4 @@ Love this list of [favorite interview questions](https://twitter.com/nathanbarry
 - [Frappe HR](https://github.com/frappe/hrms) - Open Source HR and Payroll Software. ([Web](https://frappehr.com/))
 - [What is your favorite interview question to ask when hiring?](https://twitter.com/nathanbarry/status/1622614844200431617)
 - [Ask HN: Why is hiring so dehumanized, and what can be done? (2023)](https://news.ycombinator.com/item?id=34899976)
+- [How to hire engineering talent without the BS (2023)](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/) ([HN](https://news.ycombinator.com/item?id=35031474))

@@ -16,6 +16,8 @@ title: React Native
 
 ## Nice OSS RN apps
 
+- [React Native Replicache](https://github.com/Braden1996/react-native-replicache/) - Plug-in React Native compatibility bindings for Replicache.
+- [Create T3 Turbo](https://github.com/t3-oss/create-t3-turbo) - T3 Stack with Expo React Native.
 - [RNN Starter](https://github.com/kanzitelli/rnn-starter) - Powered by cli-rn, React Native Navigation, Expo Modules, RNN Screens, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
 - [SimpleShop](https://github.com/hoangvvo/SimpleShop) - Tiny app to manage inventory and keep track of orders and profits.

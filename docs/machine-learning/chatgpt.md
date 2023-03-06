@@ -173,3 +173,4 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT.
 - [Self-replicating Python using ChatGPT](https://github.com/fullthom/chat-gpt-quine) ([HN](https://news.ycombinator.com/item?id=35013459))
+- [ChatGPT generated a puzzle game (2023)](https://puzzledpenguin.substack.com/p/chatgpt-invented-its-own-puzzle-game) ([HN](https://news.ycombinator.com/item?id=35038804))

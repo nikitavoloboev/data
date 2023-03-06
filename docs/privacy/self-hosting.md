@@ -59,3 +59,4 @@
 - [Ask HN: Self-hosting in 2023: Nextcloud on Linode, or...? (2023)](https://news.ycombinator.com/item?id=34503176)
 - [Building an ARM64 home server the hard way (2023)](https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html) ([HN](https://news.ycombinator.com/item?id=34856866))
 - [Self hosting in 2023](https://grifel.dev/decentralization/) ([HN](https://news.ycombinator.com/item?id=34860655))
+- [Self-Host All the Things? (2023)](https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/) ([HN](https://news.ycombinator.com/item?id=35031109))

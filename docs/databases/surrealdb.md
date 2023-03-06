@@ -16,3 +16,4 @@ title: SurrealDB
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground for Desktop.
 - [Kysely SurrealDB](https://github.com/igalklebanov/kysely-surrealdb)
 - [Cirql](https://github.com/StarlaneStudios/cirql) - Flexible SurrealDB ORM & query builder with Zod powered validation.
+- [SurrealDB: from Go to Rust — building the world’s fastest-growing DB (2023)](https://www.youtube.com/watch?v=Chl8IdMxr4Y)

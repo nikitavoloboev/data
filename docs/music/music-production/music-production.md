@@ -11,7 +11,7 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 ## Tools
 
 - [Ableton Live](https://www.ableton.com/en/) - Digital audio workstation. ([GitHub](https://github.com/Ableton))
-- [GLICOL](https://github.com/chaosprint/glicol) - Graph-oriented live coding language written in Rust. Make music with code. ([Web](https://glicol.org/)) ([HN](https://news.ycombinator.com/item?id=30746299)) ([HN](https://news.ycombinator.com/item?id=30942074))
+- [GLICOL](https://github.com/chaosprint/glicol) - Graph-oriented live coding language written in Rust. Make music with code. ([Web](https://glicol.org/)) ([HN](https://news.ycombinator.com/item?id=30746299)) ([HN](https://news.ycombinator.com/item?id=30942074)) ([Talk](https://www.youtube.com/watch?v=YgY2stL5lt0))
 - [Klangmeister](http://ctford.github.io/klangmeister/about)
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, both desktop and mobile. ([Web](https://helio.fm/)) ([HN](https://news.ycombinator.com/item?id=28382873))
 - [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool. ([Code](https://github.com/sonic-pi-net/sonic-pi)) ([Sonic Pi Tool](https://github.com/lpil/sonic-pi-tool)) ([Sonic Pi Challenge](https://github.com/github/sonic-pi-challenge)) ([Sonic Pi Tool (Python)](https://github.com/emlyn/sonic-pi-tool)) ([HN](https://news.ycombinator.com/item?id=28274069)) ([HN](https://news.ycombinator.com/item?id=33516405))

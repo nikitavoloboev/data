@@ -281,3 +281,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Every Graphics at Once: Nintendo's Popeye (2023)](https://nicole.express/2023/yes-popeye-the-sailor-man.html) ([HN](https://news.ycombinator.com/item?id=34947382))
 - [SDF Viewer](https://github.com/Yeicor/sdf-viewer) - Fast and cross-platform Signed Distance Function (SDF) viewer, easily integrated with your SDF library.
 - [These Are Not Pixels: Revisited (2018)](https://www.youtube.com/watch?v=Ea6tw-gulnQ)
+- [3dfx: So powerful it’s kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous) ([HN](https://news.ycombinator.com/item?id=35026862))
