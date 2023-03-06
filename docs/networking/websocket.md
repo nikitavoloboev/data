@@ -11,6 +11,8 @@ title: WebSocket
 
 [DriftDB](https://driftdb.com/) is nice.
 
+It's incredible how you can do multi device updating [fast](https://twitter.com/ctnicholasdev/status/1632746561464827904) with WebSockets.
+
 ## Links
 
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ([Web](http://websocketd.com/)) ([HN](https://news.ycombinator.com/item?id=29656456))

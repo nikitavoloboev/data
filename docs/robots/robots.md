@@ -204,3 +204,4 @@
 - [It Takes Two: Learning to Plan for Human-Robot Cooperative Carrying (2023)](https://arxiv.org/abs/2209.12890) ([Code](https://github.com/eleyng/cooperative_planner))
 - [Awesome Quadrupedal Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
 - [Voltron: Language-Driven Representation Learning for Robotics](https://github.com/siddk/voltron-robotics)
+- [Rofunc](https://github.com/Skylark0924/Rofunc) - Full Process Python Package for Robot Learning from Demonstration.

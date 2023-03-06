@@ -6,6 +6,8 @@ Currently use [Banana](https://www.banana.dev/) to serve ML models (mostly [gene
 
 [XManager](https://github.com/deepmind/xmanager) is nice for managing ML model experiments.
 
+[Web AI](https://github.com/visheratin/web-ai) is great for [running models in browser](https://twitter.com/visheratin/status/1632632366727417859).
+
 ## Links
 
 - [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures](https://github.com/astorfi/lip-reading-deeplearning)
