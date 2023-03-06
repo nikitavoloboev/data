@@ -158,3 +158,4 @@ Foods I try to eat a lot of and make [recipes](recipes.md) from:
 - [What guidelines do you use to keep a balanced diet?](https://www.reddit.com/r/nutrition/comments/106rwkk/what_guidelines_do_you_use_to_keep_a_balanced_diet/)
 - [What are your hottest nutrition takes? (2023)](https://www.reddit.com/r/nutrition/comments/110vu3u/what_are_your_hottest_nutrition_takes/)
 - [Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness (2023)](https://hubermanlab.com/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness/)
+- [Ultra-processed foods may contribute to cognitive decline (2023)](https://cam.mbi.ufl.edu/2023/01/31/6089/) ([HN](https://news.ycombinator.com/item?id=35043246))

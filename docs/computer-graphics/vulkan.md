@@ -117,3 +117,4 @@ title: Vulkan API
 - [Exploring Rust for Vulkan drivers (2023)](https://www.collabora.com/news-and-blog/blog/2023/02/02/exploring-rust-for-vulkan-drivers-part-1/) ([HN](https://news.ycombinator.com/item?id=34627754))
 - [vkoverhead](https://github.com/zmike/vkoverhead) - Tool for evaluating CPU-based overhead of Vulkan drivers.
 - [vkvk](https://github.com/Lokathor/vkvk) - Vulkan library in Rust.
+- [Go-VK](https://github.com/bbredesen/go-vk) - Go binding around the Vulkan graphics and compute API. ([Samples](https://github.com/bbredesen/go-vk-samples))

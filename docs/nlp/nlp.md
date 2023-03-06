@@ -875,3 +875,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Local attention](https://github.com/lucidrains/local-attention) - Implementation of local windowed attention for language modeling.
 - [Tiktokenizer](https://tiktokenizer.vercel.app/) - Online playground for OpenAPI tokenizers. ([Code](https://github.com/dqbd/tiktokenizer))
 - [LLaMA: INT8 edition](https://github.com/tloen/llama-int8) - Hastily quantized inference code for LLaMA models.
+- [The Waluigi Effect: an explanation of bizarre semiotic effects in LLMs (2023)](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post) ([HN](https://news.ycombinator.com/item?id=35042431))
+- [Vellum](https://www.vellum.ai/) - Dev platform for LLM apps. ([HN](https://news.ycombinator.com/item?id=35042836))
+- [Large Language Model Training Playbook](https://github.com/huggingface/large_language_model_training_playbook)
+- [Inference-only implementation of LLaMA in plain NumPy](https://github.com/recmo/cria)

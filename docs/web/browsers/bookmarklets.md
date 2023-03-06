@@ -52,3 +52,4 @@ javascript: ((b) =>
 - [HN Anti Paywall](https://github.com/MostlyEmre/hn-anti-paywall) - Userscript that adds archive URLs below the paywalled HN submissions. ([HN](https://news.ycombinator.com/item?id=33794672))
 - [Hacker News userscript to make this site more legible](https://github.com/mgladdish/website-customisations/tree/main/news.ycombinator.com) ([HN](https://news.ycombinator.com/item?id=34037462))
 - [Bookmarklet Editor](https://www.gibney.org/bookmarklet_editor) ([Lobsters](https://lobste.rs/s/3jgneb/my_bookmarklet_editor))
+- [esbuild-plugin-bookmarklet](https://github.com/reesericci/esbuild-plugin-bookmarklet) - Esbuild plugin to generate bookmarklets.

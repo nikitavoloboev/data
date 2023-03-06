@@ -70,3 +70,4 @@ Love using [tRPC](../../api/trpc.md). [Bling](https://github.com/TanStack/bling)
 - [Blue RPC](https://github.com/JoshuaWise/blue-rpc) - Simple but powerful RPC protocol that uses WebSockets and MessagePack.
 - [PicoRPC](https://github.com/fabiospampinato/picorpc) - Tiny RPC library and spec, inspired by JSON-RPC 2.0 and tRPC.
 - [bling](https://github.com/TanStack/bling) - Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more. ([Tweet](https://twitter.com/tannerlinsley/status/1631003945522065409))
+- [UJRPC](https://github.com/unum-cloud/ujrpc) - Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings. ([HN](https://news.ycombinator.com/item?id=35042316))

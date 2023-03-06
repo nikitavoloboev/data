@@ -982,3 +982,4 @@ if *boolArgPtr != false {
 - [Serialize a struct to bytes to send it through the network in Go (2022)](https://scribe.froth.zone/@maximgradan/serialize-a-struct-to-bytes-to-send-it-through-the-network-in-go-part-i-b861c15d2f06)
 - [Making Go telemetry opt-in is a mistake (2023)](https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html) ([Lobsters](https://lobste.rs/s/eyjoiw/making_go_telemetry_opt_is_mistake))
 - [Cross-compile Go application for major platforms with Zig and GoReleaser with CGO](https://github.com/goreleaser/goreleaser-example-zig-cgo)
+- [FlameScope for Go (2023)](https://blog.felixge.de/flamescope-for-go/)

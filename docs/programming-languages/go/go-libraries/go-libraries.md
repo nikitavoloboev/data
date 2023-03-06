@@ -743,6 +743,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [xxhash](https://github.com/OneOfOne/xxhash) - Native implementation of the excellent XXHash hashing algorithm.
 - [curve25519-voi](https://github.com/oasisprotocol/curve25519-voi) - High-performance Curve25519/ristretto255 for Go.
 - [Whisper](https://github.com/lukejoshuapark/whisper) - Wraps an io.ReadWriter in a secure tunnel using modern elliptic-curve cryptography. ([HN](https://news.ycombinator.com/item?id=34857411))
+- [keygen](https://github.com/FiloSottile/keygen) - Deterministic key generation for Go.
 
 ## Linux
 

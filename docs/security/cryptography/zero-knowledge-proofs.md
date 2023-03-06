@@ -162,3 +162,5 @@ title: Zero knowledge proofs
 - [Introduction to zero-knowledge machine learning (ZKML) (2023)](https://worldcoin.org/blog/engineering/intro-to-zkml)
 - [Awesome ZKML](https://github.com/worldcoin/awesome-zkml)
 - [Fusion zkRollup](https://github.com/leonardoalt/fusion) - Progressive and fast zkRollup written in Rust, focused on performance, modularity, and applying cutting-edge Verifiable Computation proof systems.
+- [Awesome PLONK](https://github.com/fluidex/awesome-plonk)
+- [Sovereign SDK](https://github.com/Sovereign-Labs/sovereign) - Toolkit for building zk-rollups.

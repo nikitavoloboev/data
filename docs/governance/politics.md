@@ -1,6 +1,6 @@
 # Politics
 
-Love reading through [Credible Defense](https://www.reddit.com/r/CredibleDefense/) daily discussions. 
+Love reading through [Credible Defense](https://www.reddit.com/r/CredibleDefense/) daily discussions.
 
 ## Notes
 

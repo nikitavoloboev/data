@@ -434,3 +434,4 @@ title: WebAssembly
 - [Rust + WASM = Hot Reload](https://github.com/shekohex/rust-wasm-hotreload)
 - [Moss WASM](https://github.com/fuxiaohei/moss-wasm) - WASM serverless platform.
 - [wabin](https://github.com/tetratelabs/wabin) - WebAssembly Binary Format in Go.
+- [browser_wasi_shim](https://github.com/bjorn3/browser_wasi_shim) - WASI shim for in the browser.

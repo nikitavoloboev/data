@@ -421,3 +421,4 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Nice way to manage modals in React](https://twitter.com/wking__/status/1608829077691174915)
 - [Kitchen](https://github.com/tonightpass/kitchen) - Tonight Pass' delicious React components.
 - [EnhanceAI for React](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI, a library for enhancing web app text input with AI autocomplete.
+- [preact-reconciler](https://github.com/CodyJasonBennett/preact-reconciler) - Custom renderers for Preact in <1KB.

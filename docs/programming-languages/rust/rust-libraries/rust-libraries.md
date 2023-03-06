@@ -2734,6 +2734,7 @@
 - [anything](https://github.com/udoprog/anything) - Calculate everything and nothing with perfect precision.
 - [syntree_layout](https://github.com/jsinger67/syntree_layout) - Library to visualize tree structures.
 - [ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
+- [CITA-Trie](https://github.com/citahub/cita-trie) - Rust implementation of the Modified Patricia Tree (aka Trie).
 
 ## Cargo Plugins
 

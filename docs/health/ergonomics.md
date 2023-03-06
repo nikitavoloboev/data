@@ -8,9 +8,9 @@ I can't stand working on chairs that don't let me relax my spine properly. If I 
 
 Together with above, I try do many [exercises](../fitness/exercises.md) that target my back muscles. [Here](https://www.reddit.com/r/Posture/comments/t7guck/fix_your_spine_a_goldmine_of_practices_for_better/) is a list of many great exercises for this.
 
-I found when I don't have proper table/chair to work from it's not as bad to work in bed by lying down on the stomach with pillow under the chin and macbook in front. The spine is stretched out and there is no unnecessary pressure anywhere. It's much nicer than sitting on chairs where you are forced to slouch or put pressure to keep proper posture.
+I found when I don't have proper table/chair to work from it's not as bad to work in bed by lying down on the stomach with pillow under the chin and Macbook in front. The spine is stretched out and there is no unnecessary pressure anywhere. It's much nicer than sitting on chairs where you are forced to slouch or put pressure to keep proper posture.
 
-My favorite work setup is something [like this](https://twitter.com/neee_eeed/status/1619368842677059584) but with proper chair/table.
+My favorite work setup is something [like this](https://twitter.com/neee_eeed/status/1619368842677059584) but with proper chair/table. And silent surroundings.
 
 ## Chairs
 

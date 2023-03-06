@@ -359,3 +359,4 @@ title: Svelte
 - [Svelte Maplibre](https://github.com/dimfeld/svelte-maplibre)
 - [Svelecte](https://github.com/mskocik/svelecte) - Flexible autocomplete/select component written in Svelte.
 - [Storybook for SvelteKit (2023)](https://storybook.js.org/blog/storybook-for-sveltekit/)
+- [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Supercharge your SvelteKit forms.

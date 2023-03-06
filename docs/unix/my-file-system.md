@@ -6,7 +6,7 @@ I try to keep all code I write [open source](../open-source/open-source.md). And
 
 ## ~/Desktop
 
-Think of Desktop as a kind of `todo` pile. Just folders/files that either I am actively working on.
+Think of Desktop as a kind of `todo` pile. Just folders/files that I am actively working on.
 
 ![](https://images.nikiv.dev/desktop-23.png)
 

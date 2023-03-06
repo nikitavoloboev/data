@@ -238,3 +238,4 @@ title: Generative adversarial networks
 - [JoliGAN: Image-to-Image Translation with GANs and Diffusion for Real-World Applications](https://github.com/jolibrain/joliGAN)
 - [Diffusion-GAN: Training GANs with Diffusion (2022)](https://arxiv.org/abs/2206.02262) ([Code](https://github.com/Zhendong-Wang/Diffusion-GAN))
 - [StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis (2023)](https://arxiv.org/abs/2301.09515) ([Code](https://github.com/autonomousvision/stylegan-t))
+- [FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion (2023)](https://arxiv.org/abs/2301.02110) ([Code](https://github.com/MartinPernus/FICE))

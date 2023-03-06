@@ -216,3 +216,4 @@ Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) m
 - [Toy CPU Simulator](https://jimhall.itch.io/toy-cpu) ([HN](https://news.ycombinator.com/item?id=34949015))
 - [nopl](https://www.jookia.org/wiki/Nopl)
 - [ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark (2023)](https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/) ([HN](https://news.ycombinator.com/item?id=34990302))
+- [Linker notes on AArch64 (2023)](https://maskray.me/blog/2023-03-05-linker-notes-on-aarch64)

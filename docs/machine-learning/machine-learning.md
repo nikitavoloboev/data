@@ -1083,3 +1083,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Awesome Transformers](https://github.com/abacaj/awesome-transformers) - Curated list of awesome transformer models.
 - [Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (2022)](https://arxiv.org/abs/2201.06503) ([Code](https://github.com/baofff/Analytic-DPM))
 - [Dropout Reduces Underfitting (2023)](https://arxiv.org/abs/2303.01500) ([Code](https://github.com/facebookresearch/dropout))
+- [Consistency Models (2023)](https://arxiv.org/abs/2303.01469) ([Code](https://github.com/cloneofsimo/consistency_models))

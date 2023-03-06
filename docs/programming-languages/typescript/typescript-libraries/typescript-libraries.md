@@ -143,6 +143,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Fast-Fuzz](https://github.com/WeWatchWall/fast-fuzz) - Test Case Generator Based on Branch Coverage and Fuzzing.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 - [Kelonio](https://github.com/mtkennerly/kelonio) - Performance testing library for Node, written in TypeScript.
+- [mock-utils](https://github.com/mattpocock/mock-utils) - Solves the 'as' problem in TypeScript tests.
 
 ## Auth
 
@@ -946,3 +947,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Type Genius](https://type-genius.carbonology.in/) - Generate Typescript types from any JSON object. ([Code](https://github.com/MikeCarbone/type-genius))
 - [Nate Moore's TS template](https://github.com/natemoo-re/project-template)
 - [pnpm/meta-updater](https://github.com/pnpm/meta-updater) - Keeps meta files up-to-date in a monorepo.
+- [Concurrent.js](https://github.com/bitair-org/concurrent.js) - Neat Multithreading for JavaScript (Node.js, Deno & Browser).

@@ -657,7 +657,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Collection of Rust Tips and Tricks](https://github.com/vandadnp/rust-tips-and-tricks)
 - [Rust Iterator Items An exploration of syntax](https://estebank.github.io/rust-iterator-item-syntax.html)
 - [Async Cancellation (2021)](https://blog.yoshuawuyts.com/async-cancellation-1/) ([HN](https://news.ycombinator.com/item?id=29195381))
-- [Rust Is The Future of JavaScript Infrastructure (2021)](https://leerob.io/blog/rust) ([HN](https://news.ycombinator.com/item?id=29192088)) ([Tweet](https://twitter.com/leeerob/status/1458878573532651527))
+- [Rust Is The Future of JavaScript Infrastructure (2021)](https://leerob.io/blog/rust) ([HN](https://news.ycombinator.com/item?id=29192088)) ([Tweet](https://twitter.com/leeerob/status/1458878573532651527)) ([HN](https://news.ycombinator.com/item?id=35043720))
 - [The Rust compiler has gotten faster again (2021)](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html) ([HN](https://news.ycombinator.com/item?id=29194902)) ([Reddit](https://www.reddit.com/r/rust/comments/qryt8m/the_rust_compiler_has_gotten_faster_again/))
 - [What does `&mut &[T]` mean? (2021)](https://ihatereality.space/04-what-mutref-to-slice-ref-means/) ([Lobsters](https://lobste.rs/s/w0buyv/what_does_mut_t_mean))
 - [Rust data structures with circular references (2021)](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/) ([HN](https://news.ycombinator.com/item?id=29207397))

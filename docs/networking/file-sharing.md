@@ -144,3 +144,4 @@
 - [sendme](https://github.com/n0-computer/sendme) - Send data over the internet.
 - [LocalSend](https://github.com/localsend/localsend) - Open source cross-platform alternative to AirDrop.
 - [sharrr](https://www.sharrr.com/) - End-to-end encrypted file transfer. ([Code](https://github.com/stophecom/sharrr-svelte))
+- [Enkra Send](https://github.com/enkra/enkra-send) - Secure File Transfer with End-to-End Encryption.

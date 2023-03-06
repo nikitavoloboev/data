@@ -322,3 +322,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [HowRare Solana RPC proxy](https://github.com/HowRareIs/solproxy) - Allow project creators to freely route Solana RPC calls to different Solana nodes utilizing prioritization and capping.
 - [Solana Improvement Documents](https://github.com/solana-foundation/solana-improvement-documents)
 - [Dexterity](https://github.com/solana-labs/dexterity) - Reference implementation of a decentralized exchange for custom instruments, risk, and fees in Solana.
+- [Firedancer](https://github.com/firedancer-io/firedancer) - Jump Crypto's Solana consensus node implementation.

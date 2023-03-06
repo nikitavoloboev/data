@@ -48,3 +48,4 @@
 - [Anime Now](https://github.com/AnimeNow-Team/AnimeNow) - Watch your favorite anime shows anywhere! Built with SwiftUI and TCA.
 - [AutoAnimeBot](https://github.com/kaif-00z/AutoAnimeBot) - Upload Ongoing Animes Automatically.
 - [Saikou](https://github.com/saikou-app/saikou) - Android Anilist only client, which lets you stream & download Anime & Manga.
+- [aniz](https://github.com/Hejsil/aniz) - Program for keeping a local list of anime you have watched.

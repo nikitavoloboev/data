@@ -8,7 +8,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 [Glyphs app](https://glyphsapp.com/) is [great for designing fonts](https://twitter.com/joeltalksdesign/status/1531296706792415234).
 
-[Type Design Resources](https://typedesignresources.com/) are great.
+[Type Design Resources](https://typedesignresources.com/) are great. [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) is fascinating.
 
 ## Interesting fonts
 
@@ -469,3 +469,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Local Google Fonts](https://local-google-fonts.vercel.app/) - Download modern Google Fonts files for local hosting. ([Code](https://github.com/wearerequired/local-google-fonts))
 - [The end of Type 1 Fonts (2023)](https://typenetwork.com/articles/the-end-of-type-1#) ([HN](https://news.ycombinator.com/item?id=34866740))
 - [Raster CRT Typography (According to DEC) (2019)](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
+- [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) ([HN](https://news.ycombinator.com/item?id=35041119)) ([Code](https://github.com/WordAsImage/Word-As-Image))
