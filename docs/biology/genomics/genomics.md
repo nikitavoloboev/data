@@ -258,3 +258,4 @@ title: Genomics
 - [GenomeScope: Fast genome analysis from unassembled short reads](https://github.com/schatzlab/genomescope)
 - [pafplot](https://github.com/ekg/pafplot) - Base-level sequence alignment rasterizer / dotplot generator.
 - [PanGenie](https://github.com/eblerjana/pangenie) - Short-read genotyper for various types of genetic variants (such as SNPs, indels and structural variants) represented in a pangenome graph.
+- [Lakeview](https://github.com/jzhang-dev/lakeview) - Python 3 library for creating publication-quality IGV-style genomic visualizations.

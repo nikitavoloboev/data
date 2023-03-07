@@ -53,3 +53,4 @@ title: ClickHouse
 - [Real-time SQL analytics at scale: A story of open-source GitHub activity using ClickHouse + Grafana (2023)](https://www.youtube.com/watch?v=fXC6vzNc7g0)
 - [Making a Homegrown ClickHouse Log for $20/mo (2023)](https://www.hybridlogic.co.uk/2023/02/clog/) ([HN](https://news.ycombinator.com/item?id=34771486))
 - [Using Aggregate Combinators in ClickHouse (2023)](https://clickhouse.com/blog/aggregate-functions-combinators-in-clickhouse-for-arrays-maps-and-states)
+- [Snuba](https://github.com/getsentry/snuba) - Service that provides a rich data model on top of Clickhouse together with a fast ingestion consumer and a query optimizer.

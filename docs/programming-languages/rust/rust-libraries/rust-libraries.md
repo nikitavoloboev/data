@@ -2739,6 +2739,9 @@
 - [CITA-Trie](https://github.com/citahub/cita-trie) - Rust implementation of the Modified Patricia Tree (aka Trie).
 - [atomic-traits](https://github.com/flier/rust-atomic-traits) - Traits for generic atomic operations in Rust.
 - [art-rs](https://github.com/ezrosent/art-rs) - Adaptive Radix Tree in Rust.
+- [arc-atomic-ref](https://github.com/bluecatengineering/arc-atomic-ref) - Smart pointer type that can be shared with many different threads of execution, while at the same time can be swapped out atomically with new data.
+- [Freezie](https://github.com/bluecatengineering/freezie) - Disables mutation for the contained type.
+- [tmpdir](https://github.com/bluecatengineering/tmpdir) - Useful to create temp directories and copying their contents on completion of some action.
 
 ## Cargo Plugins
 

@@ -340,3 +340,4 @@ Want to build my own version of [Monocle](https://github.com/thesephist/monocle)
 - [milli-py](https://github.com/AlexAltea/milli-py) - Python bindings for Milli, the embeddable Rust-based search engine powering Meilisearch.
 - [Kamilata](https://github.com/Mubelotix/kamilata) - Peer-to-Peer Search Engine System.
 - [Google Search Is Dying (2022)](https://dkb.blog/p/google-search-is-dying) ([HN](https://news.ycombinator.com/item?id=35039360))
+- [Text Search with Tries (2021)](https://chidiwilliams.com/post/text-search-with-tries/)

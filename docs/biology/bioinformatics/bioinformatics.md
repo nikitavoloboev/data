@@ -291,3 +291,4 @@ title: Bioinformatics
 - [TRILL](https://github.com/martinez-zacharya/TRILL) - Sandbox for Deep-Learning based Computational Protein Design.
 - [HTSlib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats.
 - [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
+- [List of molecular design using Generative AI and Deep Learning](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)

@@ -259,3 +259,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [xc](https://github.com/joerdav/xc) - Simple, Convenient, Markdown defined task runner. ([HN](https://news.ycombinator.com/item?id=34911216))
 - [Traceo](https://github.com/traceo-dev/traceo) - Simple platform to monitor application performance with error handling.
 - [Chaos](https://github.com/Clivern/Chaos) - Tool can cause a chaos to running servers.
+- [Framework-defined infrastructure (2023)](https://vercel.com/blog/framework-defined-infrastructure)

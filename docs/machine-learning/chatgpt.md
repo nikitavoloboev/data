@@ -180,3 +180,4 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [heygpt](https://github.com/fuyufjh/heygpt) - Simple common-line interface for ChatGPT API in Rust.
 - [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) - Integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python.
 - [bong](https://github.com/hizkifw/bong) - Giving ChatGPT access to the web.
+- [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api)

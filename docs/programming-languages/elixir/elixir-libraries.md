@@ -79,6 +79,7 @@
 - [EctoDbg](https://github.com/akoutmos/ecto_dbg) - Utility to format and output Ecto queries.
 - [Clickhousex](https://github.com/clickhouse-elixir/clickhousex) - ClickHouse database driver to connect with Elixir application by HTTP interface.
 - [EctoShorts](https://github.com/MikaAK/ecto_shorts) - Library focused around making Ecto easier to use in an application and helping to write shorter code.
+- [Z!](https://github.com/tleef/zbang) - Schema description and data validation library.
 
 ## Test
 

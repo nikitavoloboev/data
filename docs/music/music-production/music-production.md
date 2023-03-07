@@ -536,3 +536,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [audioFlux](https://github.com/libAudioFlux/audioFlux) - Library for audio and music analysis, feature extraction.
 - [WebAssembly Music](https://github.com/petersalomonsen/javascriptmusic) - Live coding music and synthesis in Javascript / AssemblyScript (WebAssembly).
 - [Omni](https://github.com/lukephills/omni) - Play and learn about music scales from around the world.
+- [DAWG](https://dawg.dev/) - DAW built using Electron and the Web Audio API. ([Code](https://github.com/dawg/dawg))
