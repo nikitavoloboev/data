@@ -262,3 +262,6 @@ title: Vue.js
 - [Weekly Vue News](https://weekly-vue.news/)
 - [Vue's Connection to Signals](https://vuejs.org/guide/extras/reactivity-in-depth.html#connection-to-signals)
 - [Vue Land Discord](https://discord.com/invite/HBherRA)
+- [Karbon](https://github.com/storipress/karbon) - Vue-based framework for building dynamic, custom publications.
+- [Nuxt-Parse](https://github.com/sidebase/nuxt-parse) - Parse, validate and transform data with confidence in nuxt using zod.
+- [Sidebase](https://sidebase.io/) - Productive way to build full stack Nuxt 3 applications. ([Code](https://github.com/sidebase/sidebase))

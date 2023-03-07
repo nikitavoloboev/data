@@ -597,3 +597,4 @@ for i, _ in enumerate(nums):
 - [Awesome Python Features Explained Using the World of Magic](https://github.com/zotroneneis/magical_universe)
 - [Even the Pylint codebase uses Ruff](https://news.ycombinator.com/item?id=35035618)
 - [davinci-functions](https://github.com/odashi/davinci-functions) - Library to ask OpenAI GPT-3 for generating objects on the Python runtime.
+- [Using SymPy in Python doctests (2023)](https://maxhalford.github.io/blog/sympy-doctests/)

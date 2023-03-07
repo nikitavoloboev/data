@@ -105,3 +105,4 @@ Currently reside in [Spain](spain.md). Want to spend some time in [Portugal](por
 - [Is Europe Just Not Good at Innovating? (2022)](https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/) ([HN](https://news.ycombinator.com/item?id=33971577))
 - [Ask HN: EU Bank with Good API? (2023)](https://news.ycombinator.com/item?id=34543832)
 - [Night Train Map with all regularly served night train destinations in Europe](https://files.wegewerk.com/index.php/s/Mr8WX7WMT5gd66a) ([HN](https://news.ycombinator.com/item?id=34910324))
+- [Being Digital nomad in EU countries explained (2023)](https://www.reddit.com/r/eupersonalfinance/comments/11kpsvo/german_digital_nomad_in_europe_trying_to_figure/)

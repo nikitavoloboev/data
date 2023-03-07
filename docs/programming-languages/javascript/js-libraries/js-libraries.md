@@ -1240,3 +1240,4 @@
 - [Sandpack NPM CDN](https://github.com/codesandbox/sandpack-cdn)
 - [JavaScript Serverless Functions Standardization](https://github.com/nodeshift/js-functions-standardization)
 - [ChangelogsXYZ](https://changelogs.xyz/) - Find changelogs from any npm package. ([Code](https://github.com/Thinkmill/changelogs-xyz))
+- [ES Module Shims](https://github.com/guybedford/es-module-shims) - Shims modern ES Modules features like import maps on top of the baseline modules support in browsers supported by 95% of users.

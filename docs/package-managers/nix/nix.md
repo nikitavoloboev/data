@@ -519,3 +519,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [devenv 0.6: Generating containers and instant shell activation (2023)](https://devenv.sh/blog/2023/03/02/devenv-06-generating-containers-and-instant-shell-activation/)
 - [Bootstrapping a Hare development environment with Nix (2023)](https://honza.pokorny.ca/2023/03/bootstrapping-a-hare-development-environment-with-nix/)
 - [How do Nix builds work? (2023)](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/) ([Lobsters](https://lobste.rs/s/isligm/how_do_nix_builds_work)) ([HN](https://news.ycombinator.com/item?id=35016101))
+- [Nix journey: My grand unified theory of Nix documentation (2023)](https://tinkering.xyz/nix-docs-unified-theory/)

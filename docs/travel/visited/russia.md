@@ -10,7 +10,7 @@ The [extent of this tragedy](https://www.youtube.com/watch?v=EhssmUtN874) is har
 
 It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get [fact based reporting](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
 
-Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub tries to give news from both sides of the war.
+Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub although with some [bias](https://www.reddit.com/r/CredibleDefense/comments/11jyawc/comment/jb5g3qt/?context=3) tries to give news from both sides of the war.
 
 I have a maybe naive look on the situation but I do try to operate on facts as much as possible.
 

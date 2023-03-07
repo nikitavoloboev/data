@@ -1165,6 +1165,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.
 - [Fickling](https://github.com/trailofbits/fickling) - Decompiler, static analyzer, and bytecode rewriter for Python pickle object serializations.
 - [MakeELF](https://github.com/v3l0c1r4pt0r/makeelf) - ELF reader-writer library for Python3.
+- [Sushi](https://github.com/dev-sushi/sushi) - Library that allows you to run functions from other languages without needing to translate the code.
 
 ## Notes
 

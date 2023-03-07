@@ -105,3 +105,4 @@ title: Reddit
 - [roux-stream](https://github.com/torfsen/roux-stream) - Streaming API for the Rust Reddit Client roux.
 - [Reddit ETL Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) - Data pipeline to extract Reddit data from r/dataengineering.
 - [shreddit](https://github.com/andrewbanchich/shreddit) - Tool to delete Reddit comments and posts.
+- [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/) - Creates an aggregate of a users activity.

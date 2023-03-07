@@ -862,7 +862,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Understanding large language models](https://github.com/abacaj/transformers)
 - [MindsJS](https://github.com/dosco/minds) - Build your workflows and app backends with large language models (LLMs) like OpenAI, Cohere and AlephAlpha.
 - [LLaMA Inference code](https://github.com/facebookresearch/llama)
-- [Language Is Not All You Need: Aligning Perception with Language Models (2023)](https://arxiv.org/abs/2302.14045)
+- [Language Is Not All You Need: Aligning Perception with Language Models (2023)](https://arxiv.org/abs/2302.14045) ([Tweet](https://twitter.com/omarsar0/status/1630392643602599937))
 - [LLMs are compilers (2023)](https://vivekhaldar.com/articles/llms-are-compilers/) ([Lobsters](https://lobste.rs/s/ug0alo/llms_are_compilers))
 - [Beating OpenAI CLIP with 100x less data and compute (2023)](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality) ([HN](https://news.ycombinator.com/item?id=34970045))
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://github.com/ridgerchu/SpikeGPT)
@@ -879,3 +879,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Vellum](https://www.vellum.ai/) - Dev platform for LLM apps. ([HN](https://news.ycombinator.com/item?id=35042836))
 - [Large Language Model Training Playbook](https://github.com/huggingface/large_language_model_training_playbook)
 - [Inference-only implementation of LLaMA in plain NumPy](https://github.com/recmo/cria)
+- [GPT-3 will ignore tools when it disagrees with them (2023)](https://vgel.me/posts/tools-not-needed/)
+- [Palm-E: An Embodied Multimodal Language Model (2023)](https://palm-e.github.io/) ([HN](https://news.ycombinator.com/item?id=35050475))
+- [UForm](https://github.com/unum-cloud/uform) - Multi-Modal Inference Library For Semantic Search Applications and Mid-Fusion Vision-Language Transformers.
+- [Basaran](https://github.com/hyperonym/basaran) - Open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
+- [4 bits quantization of LLaMa using GPTQ](https://github.com/qwopqwop200/GPTQ-for-LLaMa)

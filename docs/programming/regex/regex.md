@@ -126,3 +126,4 @@ Match all that don't have notes or twitter in input
 - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html) ([HN](https://news.ycombinator.com/item?id=34692373))
 - [Writing The Perfect RGB Regex And Failing (2023)](https://emnudge.dev/blog/perfect-rgb-regex/)
 - [Regex Library in Rust from Scratch (Finite-State Machines) (2021)](https://www.youtube.com/watch?v=MH56D5M9xSQ)
+- [Regex Derivatives (Brzozowski Derivatives)](https://github.com/c0stya/brzozowski)

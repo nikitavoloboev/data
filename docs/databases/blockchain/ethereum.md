@@ -775,3 +775,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
 - [reth-light-sync](https://github.com/rkrasiuk/reth-light) - Syncing and uploading Ethereum plain state using reth.
 - [ethers-multicall-provider](https://github.com/Rubilmax/ethers-multicall-provider) - Call any set of functions from any set of smart contracts in a single RPC query, seamlessly using ethers' providers API.
+- [Viem](https://github.com/wagmi-dev/viem) - TypeScript Interface for Ethereum. ([Web](https://viem.sh/))

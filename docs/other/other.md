@@ -122,7 +122,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Best of 2019 in Tech Talks (2020)](https://medium.com/@copyconstruct/best-of-2019-in-tech-talks-bac697c3ee13)
 - [FOSDEM video recordings](https://video.fosdem.org/2020/) - Recordings for other years available too.
 - [tart](https://github.com/jtdaugherty/tart) - Draw ASCII art in the terminal with your mouse.
-- [Shiki](https://github.com/octref/shiki) - Beautiful Syntax Highlighter.
+- [Shiki](https://github.com/octref/shiki) - Beautiful Syntax Highlighter. ([Web](https://shiki.matsu.io/)) ([HN](https://news.ycombinator.com/item?id=35049729))
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) - Open source Spotify client running as a UNIX daemon. ([HN](https://news.ycombinator.com/item?id=34056067))
 - [Kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.

@@ -18,6 +18,7 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Bevy Tower Defense Tutorial Game](https://github.com/mwbryant/bevy-tower-defense-tutorial)
 - [Oicana](https://github.com/NiklasEi/oicana) - Tower defence game with some puzzling.
 - [Flappy Bevy](https://github.com/TanTanDev/flappy_bevy) - Game like flappy bird made for the bevy engine.
+- [Kataster](https://github.com/BorisBoutillier/Kataster) - Minimalist single screen space shooter developped in Rust with Bevy.
 
 ## Links
 

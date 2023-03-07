@@ -166,3 +166,4 @@ title: Three.js
 - [How to create Ghibli-style trees with Three.js (2023)](https://www.youtube.com/watch?v=IGK6eceWyU4)
 - [Talking avatar](https://github.com/bornfree/talking_avatar) - ThreeJS-powered virtual human being that uses a set of neat Azure APIs to do some talking.
 - [Project Flowerbed](https://github.com/meta-quest/ProjectFlowerbed) - WebXR gardening experience written on top of ThreeJS.
+- [Three.js Realism Effects](https://github.com/0beqz/realism-effects) - SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism.

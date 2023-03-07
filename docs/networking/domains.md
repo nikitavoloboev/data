@@ -43,3 +43,5 @@ I use [Cloudflare](https://www.cloudflare.com/en-gb/) to handle [DNS](dns.md).
 - [Hardening unused (sub)domains (2022)](https://www.mailhardener.com/kb/hardening-unused-domains)
 - [One Word Domains](https://oneword.domains/) - Database of available and brandable one-word domains. ([Tweet](https://twitter.com/steventey/status/1597293104276869122))
 - [SmartyNames](https://smartynames.com/) - Domain Name Search with AI. ([HN](https://news.ycombinator.com/item?id=33882497))
+- [What domain registrar is worth using? (2023)](https://lobste.rs/s/flcpop/what_domain_registrar_is_worth_using)
+- [Domain Names as Handles in Bluesky (2023)](https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky) ([HN](https://news.ycombinator.com/item?id=35050335))

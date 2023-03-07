@@ -535,3 +535,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Haskell for Elm developers: giving names to stuff (Part 3 - Monads) (2023)](https://flaviocorpa.com/haskell-for-elm-developers-giving-names-to-stuff-part-3-monads.html)
 - [Hierarchical Free Monads: The Most Developed Approach In Haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell)
 - [Three Layer](https://github.com/Holmusk/three-layer) - Architecture of Haskell web applications.
+- [Haskell on Fastly](https://github.com/nomeata/haskell-on-fastly) - Running Haskell via WebAssembly on Fastly.

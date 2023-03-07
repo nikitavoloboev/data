@@ -1084,3 +1084,6 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (2022)](https://arxiv.org/abs/2201.06503) ([Code](https://github.com/baofff/Analytic-DPM))
 - [Dropout Reduces Underfitting (2023)](https://arxiv.org/abs/2303.01500) ([Code](https://github.com/facebookresearch/dropout))
 - [Consistency Models (2023)](https://arxiv.org/abs/2303.01469) ([Code](https://github.com/cloneofsimo/consistency_models))
+- [Online active learning in 80 lines of Python (2023)](https://maxhalford.github.io/blog/online-active-learning-river-databutton/)
+- [Prismer: A Vision-Language Model with An Ensemble of Experts (2023)](https://arxiv.org/abs/2303.02506) ([Code](https://github.com/NVlabs/prismer))
+- [Compose & Embellish: Well-Structured Piano Performance Generation via A Two-Stage Approach (2022)](https://arxiv.org/abs/2209.08212) ([Code](https://github.com/slSeanWU/Compose_and_Embellish))

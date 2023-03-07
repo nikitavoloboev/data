@@ -264,3 +264,4 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [Create TipTap Extension](https://github.com/ueberdosis/create-tiptap-extension) - Create a new TipTap extension in seconds.
 - [monaco-types](https://github.com/remcohaszing/monaco-types) - Type-only exports of Monaco editor.
 - [What's your editor setup? (2023)](https://lobste.rs/s/nbr9bl/what_s_your_editor_setup)
+- [text.management](https://github.com/mindofmatthew/text.management) - Experimental Live Code Editor.

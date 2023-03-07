@@ -240,3 +240,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare Worker template](https://github.com/3perf/cloudflare-worker-template)
 - [Generating Cloudflare workerd configs with capnproto-rust](https://github.com/KianNH/capnproto-rust-workerd-configs)
 - [Create a full-stack application step by step](https://github.com/yusukebe/cloudflare-pages-step-by-step)
+- [Creating custom embeds with an oEmbed API using Cloudflare Workers (2023)](https://jam.dev/blog/creating-custom-embeds-with-a-serverless-oembed-api-using-cloudflare-workers/)

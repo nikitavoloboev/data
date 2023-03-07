@@ -297,3 +297,4 @@
 - [CoreJIT](https://github.com/Aurele-Barriere/CoreJIT) - Formally Verified Speculation and Deoptimization in a JIT Compiler.
 - [Essentials of Compilation: An Incremental Approach in Racket](https://mitpress.mit.edu/9780262047760/essentials-of-compilation/)
 - [Essentials of Compilation: An Incremental Approach in Python](https://twitter.com/jeremysiek/status/1631481677586259968) ([PDF](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf))
+- [Emscripten](https://emscripten.org/) - Complete compiler toolchain to WebAssembly, using LLVM, with a special focus on speed, size, and the Web platform. ([Code](https://github.com/emscripten-core/emsdk))

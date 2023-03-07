@@ -174,3 +174,9 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT.
 - [Self-replicating Python using ChatGPT](https://github.com/fullthom/chat-gpt-quine) ([HN](https://news.ycombinator.com/item?id=35013459))
 - [ChatGPT generated a puzzle game (2023)](https://puzzledpenguin.substack.com/p/chatgpt-invented-its-own-puzzle-game) ([HN](https://news.ycombinator.com/item?id=35038804))
+- [ChatGPT Inline Bot on Telegram](https://chatgptontelegram.com/) ([HN](https://news.ycombinator.com/item?id=35053101))
+- [Chat](https://github.com/LMescheder/chat) - Simple CLI wrapper around OpenAI's ChatGPT API in Python.
+- [ChatGPTKit](https://github.com/heysaik/ChatGPTKit) - Swift Package to communicate with the ChatGPT API from OpenAI.
+- [heygpt](https://github.com/fuyufjh/heygpt) - Simple common-line interface for ChatGPT API in Rust.
+- [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) - Integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python.
+- [bong](https://github.com/hizkifw/bong) - Giving ChatGPT access to the web.

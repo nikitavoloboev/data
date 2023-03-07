@@ -256,3 +256,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [Building a SQL-like language to filter flows (2023)](https://vincent.bernat.ch/en/blog/2023-sql-like-language-filter)
 - [Type Constraints in 65 lines of SQL (2023)](https://supabase.com/blog/type-constraints-in-65-lines-of-sql) ([HN](https://news.ycombinator.com/item?id=34835063))
 - [SQL Parser CST](https://github.com/nene/sql-parser-cst) - SQL Parser which produces a Concrete Syntax Tree (CST).
+- [Stochastic gradient descent written in SQL (2023)](https://maxhalford.github.io/blog/ogd-in-sql/) ([HN](https://news.ycombinator.com/item?id=35054786))

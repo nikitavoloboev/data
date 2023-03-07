@@ -28,6 +28,7 @@
 - [Rack](https://github.com/rack/rack) - Modular Ruby web server interface.
 - [Phlex](https://github.com/joeldrapper/phlex) - Framework for building object-oriented views in Ruby. ([Web](https://www.phlex.fun/)) ([Lobsters](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view))
 - [Hanami](https://github.com/hanami/hanami) - Web, with simplicity. ([2.0](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)) ([HN](https://news.ycombinator.com/item?id=33705249)) ([My first Hanami app](https://kukicola.io/posts/my-first-hanami-app/))
+- [Rux](https://github.com/camertron/rux) - JSX-inspired way to render view components in Ruby. ([HN](https://news.ycombinator.com/item?id=35045138))
 
 ## macOS
 

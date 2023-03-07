@@ -37,3 +37,4 @@
 - [PETLION](https://github.com/MarcBerliner/PETLION.jl) - High-performance simulations of the Porous Electrode Theory for Li-ion batteries.
 - [Na-S Battery: Low-cost with four times the capacity of lithium (2022)](https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html) ([HN](https://news.ycombinator.com/item?id=33998271))
 - [The Gallium Nitride Revolutions (2022)](https://www.youtube.com/watch?v=3aSLZDep7dM)
+- [PyBaMM](https://github.com/pybamm-team/PyBaMM) - Fast and flexible physics-based battery models in Python.

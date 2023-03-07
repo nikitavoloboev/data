@@ -513,3 +513,4 @@ Awesome List
 - [GitHub webhooks with Spin and Fermyon Cloud](https://github.com/radu-matei/spin-github-webhooks)
 - [ghfs](https://github.com/k1LoW/ghfs) - Go io/fs implementation for GitHub remote repository.
 - [request.js](https://github.com/octokit/request.js) - Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node.
+- [Refined GitHub Notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications.

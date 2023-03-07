@@ -141,3 +141,4 @@ title: Lean
 - [SSA in Lean](https://github.com/bollu/ssa) - Theory of static single assignment development in Lean.
 - [Leonardo de Moura - The Lean proof assistant: introduction and challenges (2023)](https://www.youtube.com/watch?v=BY78oZYMGCk)
 - [ExtParser](https://github.com/lituzou/ExtParser) - Extensible Grammar Parser.
+- [Lean 4 Game](https://github.com/leanprover-community/lean4game) - Prototype for a Lean 4 game platform.

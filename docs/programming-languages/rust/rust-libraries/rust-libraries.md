@@ -85,6 +85,7 @@
 - [kdam](https://github.com/clitic/kdam) - Console progress bar library for rust.
 - [tracing-indicatif](https://github.com/emersonford/tracing-indicatif) - Tracing layer that automatically creates and manages progress bars for active spans.
 - [vt100](https://github.com/doy/vt100-rust) - Parses a terminal byte stream and provides an in-memory representation of the rendered contents.
+- [Cartographer](https://github.com/Nickiel12/cartographer) - Menu maker for Rust TUIs.
 
 ## Web
 
@@ -552,6 +553,7 @@
 - [concoct](https://github.com/concoct-rs/concoct) - Cross-platform UI framework in rust.
 - [scene-graph](https://github.com/sanbox-irl/scene-graph) - Scene-graph implementation in Rust.
 - [etagere](https://github.com/nical/etagere) - Dynamic texture atlas allocator using the shelf packing algorithm.
+- [piet-hardware](https://github.com/notgull/piet-hardware) - Rust's 2D vector graphics library, using GPU primitives.
 
 ## Games
 
@@ -2735,6 +2737,8 @@
 - [syntree_layout](https://github.com/jsinger67/syntree_layout) - Library to visualize tree structures.
 - [ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [CITA-Trie](https://github.com/citahub/cita-trie) - Rust implementation of the Modified Patricia Tree (aka Trie).
+- [atomic-traits](https://github.com/flier/rust-atomic-traits) - Traits for generic atomic operations in Rust.
+- [art-rs](https://github.com/ezrosent/art-rs) - Adaptive Radix Tree in Rust.
 
 ## Cargo Plugins
 

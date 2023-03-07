@@ -84,3 +84,4 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [Mushroom Wonderland - YouTube](https://www.youtube.com/@mushroomwonderland1/videos)
 - [The 7 Basic Steps Of Mushroom Cultivation (How Most Mushrooms Are Grown)](https://www.youtube.com/watch?v=CDjuk07E6rI)
 - [How can we fight potential fungal pandemic](https://twitter.com/krhornberger/status/1624008997249359875)
+- [Study finds mushrooms magnify memory by boosting nerve growth (2023)](https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html) ([HN](https://news.ycombinator.com/item?id=35050523))

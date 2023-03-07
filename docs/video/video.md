@@ -505,3 +505,6 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Chocolate](https://github.com/ChocolateApp/Chocolate) - Open source media manager.
 - [FFmpeg 6.0 (2023)](http://www.ffmpeg.org/download.html#release_6.0) ([HN](https://news.ycombinator.com/item?id=34965535))
 - [Automatic subtitles in your videos](https://github.com/m1guelpf/auto-subtitle)
+- [Sorbay](https://sorbay.io/) - Open Source alternative to Loom. ([Code](https://github.com/sorbayhq/sorbay)) ([HN](https://news.ycombinator.com/item?id=35042662))
+- [hoshinova](https://github.com/HoloArchivists/hoshinova) - Monitor YouTube channels and automatically run ytarchive when the channel goes live.
+- [Taichi NeRFs](https://github.com/taichi-dev/taichi-nerfs) - PyTorch + Taichi implementation of instant-ngp NeRF training pipeline.

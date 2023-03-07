@@ -257,3 +257,4 @@ title: Genomics
 - [uBin](https://github.com/ProbstLab/uBin) - Software for manual curation of genomes from metagenomes.
 - [GenomeScope: Fast genome analysis from unassembled short reads](https://github.com/schatzlab/genomescope)
 - [pafplot](https://github.com/ekg/pafplot) - Base-level sequence alignment rasterizer / dotplot generator.
+- [PanGenie](https://github.com/eblerjana/pangenie) - Short-read genotyper for various types of genetic variants (such as SNPs, indels and structural variants) represented in a pangenome graph.

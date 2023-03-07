@@ -87,3 +87,4 @@ title: Astro
 - [Islands Architecture, Astro, and You | Nate Moore (2022)](https://www.youtube.com/watch?v=SICd8tTEqvs)
 - [Astro + Netlify CMS](https://github.com/delucis/astro-netlify-cms)
 - [Prettier Plugin for Astro](https://github.com/withastro/prettier-plugin-astro)
+- [Welcome, World | Astro (2023)](https://astro.build/blog/welcome-world/)

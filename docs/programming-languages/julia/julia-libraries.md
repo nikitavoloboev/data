@@ -850,6 +850,7 @@
 - [OpenAI](https://github.com/rory-linehan/OpenAI.jl) - OpenAI API wrapper for Julia.
 - [TruncatedStacktraces.jl](https://github.com/SciML/TruncatedStacktraces.jl) - Truncated and Simpler Stacktraces.
 - [IntervalTrees](https://github.com/BioJulia/IntervalTrees.jl) - Data structure for efficient manipulation of sets of intervals.
+- [ChunkSplitters](https://github.com/m3g/ChunkSplitters.jl) - Simple chunk splitters for parallel loop executions.
 
 ## Links
 

@@ -54,3 +54,4 @@ title: Message queue
 - [Message Queue RPC](https://github.com/imqueue/rpc) - RPC-like client-service implementation over messaging queue.
 - [Conveyor MQ](https://github.com/conveyor-mq/conveyor-mq) - Fast, robust and extensible distributed task/job queue for Node.js, powered by Redis.
 - [Replicating Database Changes to a Message Queue is Tricky (2022)](https://www.evanjones.ca/replicating-db-to-queue.html)
+- [Ratus](https://github.com/hyperonym/ratus) - RESTful asynchronous task queue server.
