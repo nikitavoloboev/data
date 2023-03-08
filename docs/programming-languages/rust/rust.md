@@ -1076,3 +1076,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Dealing with Cyclic Data in Rust (2022)](https://slightknack.dev/blog/rust-cycles/)
 - [Living with Rust Long-Term - Jon Gjengset (2023)](https://www.youtube.com/watch?v=r35cBkPRNMI)
 - [Safety and Soundness in Rust (2023)](https://jacko.io/safety_and_soundness.html) ([HN](https://news.ycombinator.com/item?id=35032915))
+- [Learn Rust with Gitoxide - YouTube](https://www.youtube.com/playlist?list=PLMHbQxe1e9Mk5kOHrm9v20-umkE2ck_gE)

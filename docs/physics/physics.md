@@ -8,6 +8,8 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 
 It's wild [how far humans got](https://www.youtube.com/watch?v=PHiyQID7SBs) to understanding physics and especially [quantum physics](quantum-physics/quantum-physics.md).
 
+Love [Sean Carroll](https://twitter.com/seanmcarroll)'s [book](https://www.preposterousuniverse.com/biggestideas/) and [podcast](https://www.preposterousuniverse.com/podcast/). [Mindscape AMA is great](https://docs.google.com/spreadsheets/d/1i2tmn7L-nlqOz0i-O1MVoOg6kafe9gC45VkaXs0LxMA/edit).
+
 ## Notes
 
 - What is energy?

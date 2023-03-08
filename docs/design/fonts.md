@@ -470,3 +470,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [The end of Type 1 Fonts (2023)](https://typenetwork.com/articles/the-end-of-type-1#) ([HN](https://news.ycombinator.com/item?id=34866740))
 - [Raster CRT Typography (According to DEC) (2019)](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
 - [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) ([HN](https://news.ycombinator.com/item?id=35037217)) ([Code](https://github.com/WordAsImage/Word-As-Image))
+- [Какие шрифты подходят для газетной вёрстки? (2023)](https://bureau.ru/soviet/20230308/?utm_source=twi-s-s-080323)

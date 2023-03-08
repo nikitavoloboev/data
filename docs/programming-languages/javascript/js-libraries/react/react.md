@@ -374,7 +374,7 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [React's Instance Identity Model](https://github.com/gactjs/research/tree/main/react-instance-identity-model)
 - [React GPT](https://react-gpt.fly.dev/) - ChatGPT experience focused on React using LangChain & OpenAI. ([Code](https://github.com/peterpme/react-gpt))
 - [Improving React Interaction Times by 4x (2022)](https://causal.app/blog/react-perf)
-- [React Is Holding Me Hostage (2023)](https://emnudge.dev/blog/react-hostage)
+- [React Is Holding Me Hostage (2023)](https://emnudge.dev/blog/react-hostage) ([HN](https://news.ycombinator.com/item?id=35061672))
 - [forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
 - [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library (2023)](https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/)
 - [React vs Signals: 10 Years Later (2023)](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71) ([Tweet](https://twitter.com/RyanCarniato/status/1630983653441560577)) ([Nice reply](https://dev.to/dan_abramov/comment/256g9)) ([Tweet](https://twitter.com/dan_abramov/status/1631061136727482377?s=20))

@@ -96,3 +96,4 @@ Liked [overview of Helion's Nuclear Fusion process](https://www.youtube.com/watc
 - [Nuclear physicist explains why fusion ignition is hailed as a major breakthrough (2022)](https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475) ([HN](https://news.ycombinator.com/item?id=34037794))
 - [Everything I believed about nuclear waste was wrong (2023)](https://zionlights.substack.com/p/everything-i-believed-about-waste-was-wrong) ([HN](https://news.ycombinator.com/item?id=34742660))
 - [The Radical Promise of Nuclear Fusion (2023)](https://every.to/p/the-radical-promise-of-nuclear-fusion)
+- [Georgia nuclear plant begins splitting atoms (2023)](https://news.ycombinator.com/item?id=35058046)

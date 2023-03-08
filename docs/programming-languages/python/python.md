@@ -48,7 +48,7 @@ for i, _ in enumerate(nums):
 - [Profiling](https://github.com/what-studio/profiling) - Interactive continuous Python profiler.
 - [Pytype](https://github.com/google/pytype) - Static analyzer for Python code.
 - [gpython](https://github.com/go-python/gpython) - Python interpreter written in Go "batteries not included".
-- [RustPython](https://github.com/RustPython/RustPython) - Python Interpreter written in Rust. ([HN](https://news.ycombinator.com/item?id=29094323))
+- [RustPython](https://github.com/RustPython/RustPython) - Python Interpreter written in Rust. ([HN](https://news.ycombinator.com/item?id=29094323)) ([HN](https://news.ycombinator.com/item?id=35056586))
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Awesome Python Security resources](https://github.com/guardrailsio/awesome-python-security)
 - [Pyright](https://github.com/Microsoft/pyright) - Static type checker for the Python language. ([HN](https://news.ycombinator.com/item?id=34222407))

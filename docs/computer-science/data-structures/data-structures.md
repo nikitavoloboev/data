@@ -131,3 +131,4 @@
 - [YClass](https://github.com/ItsEthra/yclass) - Program that allows you to inspect and recreate data structures of other processes.
 - [Efficient Data Structures for Tamper-Evident Logging (2009)](https://www.usenix.org/legacy/events/sec09/tech/full_papers/crosby.pdf) ([Lobsters](https://lobste.rs/s/gg3qyn/efficient_data_structures_for_tamper))
 - [hg64: a 64-bit histogram data structure (2022)](https://dotat.at/@/2022-07-15-histogram.html)
+- [This Data Structure could be used for Autocomplete (2021)](https://www.youtube.com/watch?v=2fosrL7I7oc)
