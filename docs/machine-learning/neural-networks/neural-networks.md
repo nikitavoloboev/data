@@ -339,3 +339,4 @@
 - [Transformer Architecture from scratch in PyTorch](https://github.com/Khaliladib11/Transformer-from-scratch)
 - [Reimplementation of the Forward-Forward Algorithm](https://github.com/loeweX/Forward-Forward)
 - [Optical Transformers (2023)](https://arxiv.org/abs/2302.10360) ([HN](https://news.ycombinator.com/item?id=34905210))
+- [Toy neural network in C/Lua](https://github.com/cloudwu/neuralnet)

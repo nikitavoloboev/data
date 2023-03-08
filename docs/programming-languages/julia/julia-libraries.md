@@ -851,6 +851,8 @@
 - [TruncatedStacktraces.jl](https://github.com/SciML/TruncatedStacktraces.jl) - Truncated and Simpler Stacktraces.
 - [IntervalTrees](https://github.com/BioJulia/IntervalTrees.jl) - Data structure for efficient manipulation of sets of intervals.
 - [ChunkSplitters](https://github.com/m3g/ChunkSplitters.jl) - Simple chunk splitters for parallel loop executions.
+- [LaTeXTabulars.jl](https://github.com/tpapp/LaTeXTabulars.jl) - Write tabular data from Julia in LaTeX format.
+- [ReplGPT.jl](https://github.com/ThatcherC/ReplGPT.jl) - Talk to ChatGPT from the Julia REPL.
 
 ## Links
 

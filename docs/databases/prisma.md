@@ -6,9 +6,9 @@ title: Prisma
 
 Using it to currently to manage my schema and ORM for [LA](../ideas/learn-anything.md).
 
-[EdgeDB](edgedb.md) is nice alternative and has a [better way to do queries](https://www.youtube.com/watch?v=WVRLim8A8-I&t=1906s). Might move to it soon.
+[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) & [Schemix](https://github.com/ridafkih/schemix) are nice alternatives.
 
-[Schemix](https://github.com/ridafkih/schemix) is neat.
+[EdgeDB](edgedb.md) is great too especially as it has [better way to do queries](https://www.youtube.com/watch?v=WVRLim8A8-I&t=1906s).
 
 [Create Prisma Generator](https://github.com/YassinEldeeb/create-prisma-generator) is useful.
 

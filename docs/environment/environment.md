@@ -215,3 +215,4 @@ Recycling should be [fully automated](https://twitter.com/nikitavoloboev/status/
 - [Cobalt is suddenly abundant (2023)](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant) ([HN](https://news.ycombinator.com/item?id=34853522))
 - [Epoch BioDesign](https://www.epochbiodesign.com/) - Making our planet better with biology.
 - [Giving New Life to Plastic Waste | Epoch Biodesign (2023)](https://www.youtube.com/watch?v=Hwp-6CjvcA4)
+- [Zero energy ready homes are coming (2023)](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you) ([HN](https://news.ycombinator.com/item?id=35060298))

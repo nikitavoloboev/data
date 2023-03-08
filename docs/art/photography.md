@@ -280,3 +280,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Nobody Needs a Digital Rangefinder | Leica M11 Street Photo Walk (2023)](https://www.youtube.com/watch?v=mKn95qEMVzg)
 - [Where to store extra photos beyond iCloud](https://twitter.com/ibuildthecloud/status/1628127753781522433)
 - [ICM Photography Magazine](https://www.icmphotomag.com/)
+- [vkdt](https://vkdt.org/) - Graph-based photography workflow tool. ([Code](https://github.com/hanatos/vkdt))

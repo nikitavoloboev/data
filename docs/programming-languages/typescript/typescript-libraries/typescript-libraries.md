@@ -8,6 +8,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 [clack](https://github.com/natemoo-re/clack) with [cmd-ts](https://github.com/Schniz/cmd-ts) are great for CLIs.
 
+[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) is great for DB tasks.
+
 ## DB
 
 - [cachified](https://github.com/Xiphe/cachified) - Wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support.
@@ -827,6 +829,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [thaler](https://github.com/lxsmnsyc/thaler) - Write server-side functions in an isomorphic way.
 - [Banditypes](https://github.com/thoughtspile/banditypes) - 400-byte schema validator for TS.
 - [Pioppo](https://github.com/fabiospampinato/pioppo) - Tiny isomorphic batched logger. 3x faster than regular logging in Node.
+- [OpenAI Edge](https://github.com/dan-kwiat/openai-edge) - TypeScript module for querying OpenAI's API from an edge function environment.
+- [ModernDash](https://github.com/Maggi64/moderndash) - Typescript-First utility library inspired by Lodash. Optimized for modern browsers.
 
 ## Links
 

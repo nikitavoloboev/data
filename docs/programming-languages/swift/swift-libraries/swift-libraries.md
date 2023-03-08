@@ -1558,3 +1558,4 @@
 - [Creating an XCFramework (2023)](https://rhonabwy.com/2023/02/10/creating-an-xcframework/)
 - [Coming in Swift 5.9: Network requests in Swift package plugins (2023)](https://www.polpiella.dev/network-requests-in-swift-package-plugins)
 - [Safely pinning SPM dependencies to exact versions (2023)](https://www.polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions)
+- [Introducing Swift Certificates and Swift ASN.1 (2023)](https://www.swift.org/blog/swift-certificates-and-asn1/)

@@ -249,7 +249,7 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [SSG](https://ssg.rojser.best/) - Generate GramJS/Telethon string sessions in your browser. ([Code](https://github.com/rojserbest/ssg))
 - [Telegram Protected Content, Delete by Date, Device Management and more (2021)](https://telegram.org/blog/protected-content-delete-by-date-and-more) ([HN](https://news.ycombinator.com/item?id=29482918))
 - [TeleIRC](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
-- [Botmate](https://www.botmate.app/) - Self-hosted open source Telegram bot platform. ([Code](https://github.com/botmate/botmate))
+- [Botmate](https://www.botmate.app/) - Self-hosted open source Telegram bot platform. ([Code](https://github.com/botmate/botmate)) ([Web Code](https://github.com/botmate/landing))
 - [How Telegram Messenger circumvents Google Translate's API (2021)](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html) ([HN](https://news.ycombinator.com/item?id=29746674))
 - [mtproto/core](https://github.com/alik0211/mtproto-core) - Telegram API JS (MTProto) client library for Node.js and browser.
 - [Telegram Web App](https://github.com/evgeny-nadymov/telegram-react) - Based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly.

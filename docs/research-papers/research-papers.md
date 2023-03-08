@@ -224,3 +224,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [ChatGPT, please help to improve my paper writing](https://github.com/ashawkey/chatgpt_please_improve_my_paper_writing)
 - [Michael Whittaker's Paper Summaries](https://mwhittaker.github.io/papers/) ([Code](https://github.com/mwhittaker/papers))
 - [ResearchGPT](https://github.com/mukulpatnaik/researchgpt) - Open-source LLM based research assistant that allows you to have a conversation with a research paper.
+- [Zotero API client](https://github.com/tnajdek/zotero-api-client) - Lightweight, minimalist Zotero API client written in JavaScript.

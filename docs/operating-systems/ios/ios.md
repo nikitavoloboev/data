@@ -156,6 +156,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Expenso](https://github.com/sameersyd/Expenso-iOS) - Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics.
 - [CollegeCGPAios](https://github.com/AbGhost-cyber/CollegeCGPAios) - Offline academic tracker app.
 - [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
+- [Memo](https://github.com/dscyrescotti/Memo) - Recording application built with AVFoundation and SwiftUI that supports recording and playing audios.
 
 ## Other
 

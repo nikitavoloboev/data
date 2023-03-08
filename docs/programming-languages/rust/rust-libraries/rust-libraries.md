@@ -2742,6 +2742,8 @@
 - [arc-atomic-ref](https://github.com/bluecatengineering/arc-atomic-ref) - Smart pointer type that can be shared with many different threads of execution, while at the same time can be swapped out atomically with new data.
 - [Freezie](https://github.com/bluecatengineering/freezie) - Disables mutation for the contained type.
 - [tmpdir](https://github.com/bluecatengineering/tmpdir) - Useful to create temp directories and copying their contents on completion of some action.
+- [Overlord](https://github.com/nervosnetwork/overlord) - Consensus protocol that decouple the consensus process from the execution process.
+- [thin-vec](https://github.com/Gankra/thin-vec) - Vec that stores its length and capacity inline, making it take up less space.
 
 ## Cargo Plugins
 

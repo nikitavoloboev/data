@@ -245,3 +245,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [WIKI-TUI](https://github.com/Builditluc/wiki-tui) - Simple and easy to use Wikipedia Text User Interface.
 - [GTop](https://github.com/mJehanno/gtop) - Alternative to top or htop made in Go.
 - [Teleport](https://github.com/bollu/teleport) - Lightning-fast tool to quickly switch between repositories.
+- [Building CLI with Bubble Tea and Lip Gloss](https://github.com/charmbracelet/wizard-tutorial)

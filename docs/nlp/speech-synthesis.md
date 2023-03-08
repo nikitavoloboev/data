@@ -116,3 +116,4 @@
 - [StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation (2022)](https://arxiv.org/abs/2212.11851) ([Code](https://github.com/sp-uhh/storm))
 - [TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement (2023)](https://arxiv.org/abs/2302.08088) ([Code](https://github.com/YunyangZeng/TAPLoss))
 - [StyleTTS-VC: One-Shot Voice Conversion by Knowledge Transfer from Style-Based TTS Models (2022)](https://arxiv.org/abs/2212.14227) ([Code](https://github.com/yl4579/StyleTTS-VC))
+- [PITS: Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS](https://github.com/anonymous-pits/pits)

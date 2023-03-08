@@ -808,6 +808,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-xerrors](https://github.com/MDobak/go-xerrors) - Idiomatic and lightweight package that provides a set of functions to make working with errors easier. ([Reddit](https://www.reddit.com/r/golang/comments/xsfgw3/mdobakgoxerrors_yet_another_error_handling_library/))
 - [Fault](https://github.com/Southclaws/fault) - Go errors but structured and composable. Fault provides an extensible yet ergonomic mechanism for wrapping errors. ([Reddit](https://www.reddit.com/r/golang/comments/yhkr8i/go_errors_but_structured_and_composable_fault/))
 - [werr](https://github.com/iand/werr) - Wraps errors with a stack trace.
+- [err2](https://github.com/lainio/err2) - Automatic error propagation package.
 
 ## Other
 
@@ -2099,6 +2100,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [JSON Logic](https://github.com/diegoholiveira/jsonlogic) - Implementation of JSON Logic in Go.
 - [openai-go](https://github.com/rakyll/openai-go) - Go client libraries for OpenAI APIs.
 - [changelog](https://github.com/parkr/changelog) - Parse markdown-esque changelogs (like our example), parse out versions, sections, changes & references.
+- [FastURL](https://github.com/ImVexed/fasturl) - Go URL parser using a Ragel state-machine.
 
 ## Links
 

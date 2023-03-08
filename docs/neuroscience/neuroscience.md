@@ -168,6 +168,7 @@ Love [Alain Chedotal](https://twitter.com/AlainChedotal)'s research.
 - [Body and mind: how somatic feedback signals shape brain activity and cognition (2022)](https://link.springer.com/article/10.1007/s00424-022-02778-5)
 - [FreeSurfer](https://github.com/Deep-MI/FastSurfer) - Fast and accurate deep-learning based neuroimaging pipeline.
 - [Deep MI Lab](https://deep-mi.org/) ([GitHub](https://github.com/Deep-MI))
+- [RatInABox](https://github.com/TomGeorge1234/RatInABox) - Python package for modelling locomotion in complex environments and spatially/velocity selective cell activity.
 
 ## Images
 

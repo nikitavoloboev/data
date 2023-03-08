@@ -184,3 +184,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [Prime Reacts: Is This New Language Better Than Rust? C++? (Zig First Impressions) (2023)](https://www.youtube.com/watch?v=alp_Sx5qhn0)
 - [Zig's Curious Multi-Sequence For Loops (2023)](https://kristoff.it/blog/zig-multi-sequence-for-loops/) ([HN](https://news.ycombinator.com/item?id=34956407))
 - [When Zig is safer and faster than Rust (2023)](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/) ([Lobsters](https://lobste.rs/s/5jzng0/when_zig_is_safer_faster_than_rust)) ([Reddit](https://www.reddit.com/r/rust/comments/11l6ehj/when_zig_is_safer_and_faster_than_unsafe_rust/))
+- [All Algorithms implemented in Zig](https://github.com/TheAlgorithms/Zig)

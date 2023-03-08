@@ -659,3 +659,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [Writing an engineering strategy (2023)](https://lethain.com/eng-strategies/)
 - [Ask HN: What would happen if we prioritised all bugs over all new features? (2023)](https://news.ycombinator.com/item?id=34907970)
 - [Intro to Content Defined Chunking (2023)](https://joshleeb.com/posts/content-defined-chunking.html)
+- [Some possible reasons for 8-bit bytes (2023)](https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/) ([Lobsters](https://lobste.rs/s/b5rmwh/some_possible_reasons_for_8_bit_bytes))

@@ -381,3 +381,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Wakuwork](https://github.com/dai-shi/wakuwork) - Minimalistic React Framework.
 - [Ask Dan anything about React Server Components (2023)](https://twitter.com/dan_abramov/status/1631641431742857216)
 - [7GUIs in React with Signals](https://github.com/vangelov/7GUIs)
+- [React Server Components with Dan Abramov, Joe Savona, and Kent C. Dodds (2023)](https://www.youtube.com/watch?v=h7tur48JSaw)

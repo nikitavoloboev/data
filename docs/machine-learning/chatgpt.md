@@ -181,3 +181,6 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) - Integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python.
 - [bong](https://github.com/hizkifw/bong) - Giving ChatGPT access to the web.
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api)
+- [ChatGPT Toolbox](https://github.com/fuyufjh/chatgpt-toolbox) - ChatGPT Toolbox based on Streamlit.
+- [ChatGPT Linux assistant](https://github.com/rareranger/chatgpt-linux-assistant) - Knows what's on your system and can help you get things done. ([HN](https://news.ycombinator.com/item?id=35067120))
+- [OpenAI ChatGPT Code Review](https://github.com/adshao/chatgpt-code-review-action) - GitHub Action that uses OpenAI ChatGPT to analyze code in pull request comments.

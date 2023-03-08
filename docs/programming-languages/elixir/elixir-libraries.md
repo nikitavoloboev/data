@@ -295,6 +295,7 @@
 - [LoggerBackends](https://github.com/elixir-lang/logger_backends) - Logger backends functionality for Elixir.
 - [Mahaul](https://github.com/emadalam/mahaul) - Parse and validate your environment variables easily in Elixir.
 - [Packmatic](https://github.com/evadne/packmatic) - Generates Zip streams by aggregating File or URL Sources.
+- [Beaver](https://github.com/beaver-lodge/beaver) - LLVM/MLIR Toolkit in Elixir and Zig.
 
 ## Links
 

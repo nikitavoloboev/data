@@ -409,3 +409,4 @@
 - [Multi-policy-based annealer to solving real combinatorial optimization problems (2023)](https://phys.org/news/2023-02-multi-policy-based-annealer-real-world-combinatorial-optimization.html) ([HN](https://news.ycombinator.com/item?id=34887594))
 - [Using HDMI radio interference for high-speed data transfer (2023)](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html) ([HN](https://news.ycombinator.com/item?id=34962804))
 - [Embracing Chaos: The Imperfect Art of Semiconductor Manufacturing, Lithography (2023)](https://www.semianalysis.com/p/embracing-chaos-the-imperfect-art) ([HN](https://news.ycombinator.com/item?id=34980905))
+- [After four years of SMR storage, here's what we love—and what comes next (2023)](https://dropbox.tech/infrastructure/four-years-of-smr-storage-what-we-love-and-whats-next)

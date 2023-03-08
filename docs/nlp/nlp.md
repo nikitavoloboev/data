@@ -884,3 +884,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [UForm](https://github.com/unum-cloud/uform) - Multi-Modal Inference Library For Semantic Search Applications and Mid-Fusion Vision-Language Transformers.
 - [Basaran](https://github.com/hyperonym/basaran) - Open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
 - [4 bits quantization of LLaMa using GPTQ](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
+- [ClickPrompt](https://github.com/prompt-engineering/click-prompt) - Streamline your prompt design.
+- [Fork of Facebook’s LLaMa model to run on CPU](https://github.com/markasoftware/llama-cpu) ([HN](https://news.ycombinator.com/item?id=35065796))

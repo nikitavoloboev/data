@@ -361,3 +361,4 @@ title: Svelte
 - [Storybook for SvelteKit (2023)](https://storybook.js.org/blog/storybook-for-sveltekit/)
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Supercharge your SvelteKit forms.
 - [svelte-use-persist](https://github.com/fawaz-alesayi/svelte-use-presist) - Svelte action that saves forms and inputs client side to local storage and restores them on page load.
+- [svelte-typeahead](https://github.com/metonym/svelte-typeahead) - Accessible, fuzzy search typeahead component.

@@ -279,3 +279,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Ask HN: Share your favorite YouTube channels focused on mastering a skill/craft (2023)](https://news.ycombinator.com/item?id=34666777)
 - [Ask HN: What is your system for learning new things? (2023)](https://news.ycombinator.com/item?id=34771415)
 - [Helium](https://github.com/thoughtindustries/helium) - Headless, open-source LMS. ([HN](https://news.ycombinator.com/item?id=34814579))
+- [Wait But Why GPT](https://wait-but-why-gpt.vercel.app/) - AI search & chat for all Wait But Why posts. ([Code](https://github.com/mckaywrigley/wait-but-why-gpt))

@@ -447,3 +447,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [aws-whoami](https://github.com/benkehoe/aws-whoami-golang) - Find what AWS account and identity you're using.
 - [Usage AI](https://www.usage.ai/) - Cut AWS Spend in 5 Minutes. ([HN](https://news.ycombinator.com/item?id=34988505))
 - [Все что ты хотел знать о AWS Spot Instances, но боялся спросить (2023)](https://habr.com/en/post/719052/)
+- [Cloudlens](https://github.com/one2nc/cloudlens) - AWS Console in your terminal.

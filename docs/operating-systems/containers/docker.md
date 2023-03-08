@@ -300,3 +300,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples) ([HN](https://news.ycombinator.com/item?id=34940181))
 - [MRSK](https://github.com/mrsked/mrsk) - Deploys web apps anywhere from bare metal to cloud VMs using Docker with zero downtime.
 - [ADH](https://github.com/jcaromiq/adh-rust) - Docker 'Useful Commands' Helper.
+- [How we deploy faster with warm Docker containers (2023)](https://dagster.io/blog/fast-deploys-with-pex-and-docker) ([HN](https://news.ycombinator.com/item?id=35064079))
