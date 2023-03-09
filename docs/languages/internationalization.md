@@ -2,8 +2,6 @@
 
 Currently using [Inlang](https://github.com/inlang/inlang) for everything.
 
-[SimpleLocalize](https://simplelocalize.io/) and [Crowdin](https://crowdin.com/) seem nice too.
-
 ## Notes
 
 - [Made i18n strictly typed and every time I render a string that is not translated yet - typescript shows an error, so I can't forget it.](https://twitter.com/oleg008/status/1456205531153055755)
@@ -61,3 +59,4 @@ Currently using [Inlang](https://github.com/inlang/inlang) for everything.
 - [tmsg](https://github.com/tanekloc/tmsg) - Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.
 - [Apple Localization Terms Glossary](https://applelocalization.com/)
 - [Docusaurus v2 i18n](https://github.com/facebook/docusaurus/issues/3317)
+- [ChatGPT-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate websites' locale JSON files with AI assistance. ([HN](https://news.ycombinator.com/item?id=35082770)) ([Web](https://chatgpt-i18n.vercel.app/))

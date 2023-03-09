@@ -12,6 +12,8 @@ I use [Sublime Merge](https://www.sublimemerge.com/) as my git client app. And f
 
 Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with feature branches.
 
+[WASM Git](https://github.com/petersalomonsen/wasm-git) is great if you want to run git in the browser.
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.

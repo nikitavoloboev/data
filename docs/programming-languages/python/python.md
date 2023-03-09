@@ -598,3 +598,4 @@ for i, _ in enumerate(nums):
 - [Even the Pylint codebase uses Ruff](https://news.ycombinator.com/item?id=35035618)
 - [davinci-functions](https://github.com/odashi/davinci-functions) - Library to ask OpenAI GPT-3 for generating objects on the Python runtime.
 - [Using SymPy in Python doctests (2023)](https://maxhalford.github.io/blog/sympy-doctests/)
+- [Overhead of Python Asyncio tasks (2023)](https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/)
