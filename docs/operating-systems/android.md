@@ -36,6 +36,7 @@ title: Android
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android.
 - [CloudStream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [Dashlane Android app](https://github.com/Dashlane/android-apps)
+- [Claw](https://github.com/msfjarvis/compose-lobsters) - Read-only Android client for Lobsters.rs, built using Jetpack Compose.
 
 ## Links
 

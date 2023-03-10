@@ -508,3 +508,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Sorbay](https://sorbay.io/) - Open Source alternative to Loom. ([Code](https://github.com/sorbayhq/sorbay)) ([HN](https://news.ycombinator.com/item?id=35042662))
 - [hoshinova](https://github.com/HoloArchivists/hoshinova) - Monitor YouTube channels and automatically run ytarchive when the channel goes live.
 - [Taichi NeRFs](https://github.com/taichi-dev/taichi-nerfs) - PyTorch + Taichi implementation of instant-ngp NeRF training pipeline.
+- [Cutscenes](https://www.cutscenes.io/) - Create beautiful product videos.

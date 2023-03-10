@@ -521,3 +521,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [How do Nix builds work? (2023)](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/) ([Lobsters](https://lobste.rs/s/isligm/how_do_nix_builds_work)) ([HN](https://news.ycombinator.com/item?id=35016101))
 - [Nix journey: My grand unified theory of Nix documentation (2023)](https://tinkering.xyz/nix-docs-unified-theory/)
 - [Cachix 1.3: Uploads unleashed (2023)](https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/) ([HN](https://news.ycombinator.com/item?id=35067224))
+- [Nix — не только пакетный менеджер (2023)](https://www.youtube.com/watch?v=0Lhahzs-Wos)

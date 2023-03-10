@@ -57,3 +57,4 @@ title: Perl
 - [Actually Portable Perl](https://computoid.com/APPerl/) ([HN](https://news.ycombinator.com/item?id=33966755))
 - [Perl Weekly](https://perlweekly.com/)
 - [Perl Power Tools](https://github.com/briandfoy/PerlPowerTools)
+- [The Future of Perl (2023)](https://ovid.github.io/articles/the-future-of-perl.html)

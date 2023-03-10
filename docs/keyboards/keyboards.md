@@ -52,6 +52,7 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [Dilemma](https://github.com/Bastardkb/Dilemma) - Vertical stagger low-profile keyboard with mods.
 - [Clavert Keyboard](https://github.com/thlintw/clavert) - Vertical, wireless, ergonomic split keyboard.
 - [Fulcrum](https://github.com/dschil138/Fulcrum) - Wireless ergonomic keyboard that features 5-way switch joysticks. ([HN](https://news.ycombinator.com/item?id=34656652))
+- [Flux Keyboard](https://fluxkeyboard.com/) - Keyboard with adaptive display. ([HN](https://news.ycombinator.com/item?id=35083665))
 
 ## Interesting keycaps
 

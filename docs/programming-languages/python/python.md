@@ -8,6 +8,8 @@ title: Python
 
 [Ruff](https://github.com/charliermarsh/ruff) is nice linter.
 
+[Taichi language](https://github.com/taichi-dev/taichi) is interesting as it's embedded Python but with parallel code execution.
+
 ## Notes
 
 - [Global interpreter lock (or GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once.](https://wiki.python.org/moin/GlobalInterpreterLock)

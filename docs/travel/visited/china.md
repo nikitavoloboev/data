@@ -118,3 +118,4 @@ Truthfully though, I need to actually try live in China and speak to people ther
 - [Why China has such large population](https://twitter.com/tomaspueyo/status/1623826367786655745)
 - [Understanding the Chinese Navy (2022)](https://www.youtube.com/watch?v=M0aFqM4ES40)
 - [2022 letter on life in China](https://danwang.co/2022-letter/) ([HN](https://news.ycombinator.com/item?id=35021682))
+- [How Mao messed up China during his reign](https://www.reddit.com/r/worldnews/comments/11nct3u/comment/jbn3xdm/?context=3)
