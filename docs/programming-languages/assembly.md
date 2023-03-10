@@ -122,3 +122,4 @@ title: Assembly
 - [Small VMs & Coroutines (2023)](https://blog.dziban.net/coroutines/) ([Lobsters](https://lobste.rs/s/jrp9gv/small_vms_coroutines))
 - [Easy 6502, an assembly language tutorial (2015)](https://skilldrick.github.io/easy6502/) ([Code](https://github.com/skilldrick/easy6502/tree/gh-pages))
 - [ARM Assembly: ∞ Ways to Return (2017)](https://quantum5.ca/2017/10/19/arm-ways-to-return/)
+- [Famicom Party - Making NES Games in Assembly](https://famicom.party/book/)

@@ -29,3 +29,4 @@ title: Web workers
 - [Typed-Worker](https://github.com/egoist/typed-worker) - Type-safe and Promisified API for Web Worker and Iframe.
 - [Framebuffer Worker](https://github.com/cedeber/framebuffer-worker) - Draw on a Canvas from a Web Worker.
 - [Run](https://github.com/slashd-analytics/run) - Run user-provided code in a Web Worker.
+- [How Web Workers Work in JavaScript – With a Practical JS Example (2022)](https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/)

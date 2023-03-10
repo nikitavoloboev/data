@@ -509,3 +509,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [hoshinova](https://github.com/HoloArchivists/hoshinova) - Monitor YouTube channels and automatically run ytarchive when the channel goes live.
 - [Taichi NeRFs](https://github.com/taichi-dev/taichi-nerfs) - PyTorch + Taichi implementation of instant-ngp NeRF training pipeline.
 - [Cutscenes](https://www.cutscenes.io/) - Create beautiful product videos.
+- [Chat Downloader](https://github.com/xenova/chat-downloader) - Simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed.

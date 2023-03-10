@@ -143,3 +143,4 @@
 - [UIVerse](https://uiverse.io/) - Create, share, and use beautiful custom elements made with HTML and CSS.
 - [Fwoosh](https://github.com/fwoosh-dev/fwoosh) - Front-end notebook inspired by Storybook. ([Docs](https://fwoo.sh/docs/Welcome))
 - [Cross Framework Components](https://github.com/naver/cfcs) - Write once, create framework components that supports React, Vue, Svelte, and more.
+- [AI Component Generator with ChatGPT](https://ai2ui.co/) ([Code](https://github.com/yuvalsuede/ai-component-generator))

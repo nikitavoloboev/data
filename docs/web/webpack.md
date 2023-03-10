@@ -4,7 +4,9 @@ title: Webpack
 
 # [Webpack](https://webpack.js.org/)
 
-[swc](https://github.com/swc-project/swc)/[esbuild](https://github.com/evanw/esbuild)/[vite](https://vitejs.dev/) are faster alternatives.
+[Rspack](https://www.rspack.dev/) & [Turbo](https://turbo.build/) are successors to Webpack.
+
+[SWC](https://github.com/swc-project/swc), [Esbuild](https://github.com/evanw/esbuild) & [Vite](https://vitejs.dev/) are great too for some bundling tasks.
 
 ## Plugins
 

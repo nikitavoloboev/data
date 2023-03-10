@@ -953,3 +953,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pnpm/meta-updater](https://github.com/pnpm/meta-updater) - Keeps meta files up-to-date in a monorepo.
 - [Concurrent.js](https://github.com/bitair-org/concurrent.js) - Neat Multithreading for JavaScript (Node.js, Deno & Browser).
 - [Using Zod & TypeScript for more than user input validation (2023)](https://scastiel.dev/zod-typescript) ([Reddit](https://www.reddit.com/r/typescript/comments/11lyaf8/using_zod_typescript_for_more_than_user_input/))
+- [TypeScript's Migration to Modules (2023)](https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules/) ([Reddit](https://www.reddit.com/r/javascript/comments/11n4j48/typescripts_migration_to_modules/))

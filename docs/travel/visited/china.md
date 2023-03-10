@@ -100,7 +100,7 @@ Truthfully though, I need to actually try live in China and speak to people ther
 - [China v Taiwan Aerospace Discussion (2022)](https://mitchellinstituteaerospaceadvantage.podbean.com/e/china-taiwan-adiz/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/vm69wo/china_v_taiwan_whats_really_happening_in_the_air/))
 - [Why China is So Damn Big (2022)](https://www.youtube.com/watch?v=OQ2oOp040f0)
 - [China's Catastrophic Oil & Gas Problem (2022)](https://www.youtube.com/watch?v=ISHHe1Hu6d4)
-- [Issues China faces in future](https://www.reddit.com/r/investing/comments/wc2zry/comment/iiadgf7/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Issues China faces in future](https://www.reddit.com/r/investing/comments/wc2zry/comment/iiadgf7/)
 - [What could China do for you to have more of a favorable impression of the country? (2022)](https://www.reddit.com/r/China/comments/wd517m/what_could_china_do_for_you_to_have_more_of_a/)
 - [China’s Military Prepares for War with Taiwan (2022)](https://ndupress.ndu.edu/Portals/68/Documents/Books/crossing-the-strait/crossing-the-strait.pdf)
 - [The China Quarterly](https://www.cambridge.org/core/journals/china-quarterly)

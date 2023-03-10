@@ -88,3 +88,4 @@
 - [Hello, PNG (2023)](https://www.da.vidbuchanan.co.uk/blog/hello-png.html) ([HN](https://news.ycombinator.com/item?id=34425067))
 - [Schemaboi](https://github.com/josephg/schemaboi) - Serialization / deserialization format designed to fill a similar niche as Protobuf or JSON.
 - [Unicode Arrows](https://unicodearrows.com/)
+- [A Safer High Performance AV1 Decoder (2023)](https://www.memorysafety.org/blog/safer-av1-decoder/) ([Lobsters](https://lobste.rs/s/gvloxf/safer_high_performance_av1_decoder))

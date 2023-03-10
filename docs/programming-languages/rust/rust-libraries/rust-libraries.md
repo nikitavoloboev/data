@@ -2744,6 +2744,7 @@
 - [tmpdir](https://github.com/bluecatengineering/tmpdir) - Useful to create temp directories and copying their contents on completion of some action.
 - [Overlord](https://github.com/nervosnetwork/overlord) - Consensus protocol that decouple the consensus process from the execution process.
 - [thin-vec](https://github.com/Gankra/thin-vec) - Vec that stores its length and capacity inline, making it take up less space.
+- [default-net](https://github.com/shellrow/default-net) - Cross-platform library for network interface and gateway.
 
 ## Cargo Plugins
 
@@ -3079,3 +3080,4 @@
 - [Rust for Web Development | An Honest Evaluation (2023)](https://www.reddit.com/r/rust/comments/11ddacc/rust_for_web_development_an_honest_evaluation/)
 - [Rust's BufRead, And When To Use It (2023)](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [Reducing code size in librsvg by removing an unnecessary generic struct (2023)](https://viruta.org/reducing-binary-size-generics.html) ([HN](https://news.ycombinator.com/item?id=35028441))
+- [diff.rs](https://diff.rs/) - View a diff between crate versions. ([Code](https://github.com/xfbs/diff.rs))

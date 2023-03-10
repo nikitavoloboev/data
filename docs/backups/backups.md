@@ -109,3 +109,4 @@ I love the fact that I can set up any new mac or phone to use my exact and perfe
 - [PaperAge](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets.
 - [resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup.
 - [Backup Google Takeout archives](https://github.com/nelsonjchen/gargantuan-takeout-rocket)
+- [rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.

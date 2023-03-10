@@ -18,6 +18,8 @@ I try to go out my way to meet more people and reach out either physically or on
 
 > Nice diagram for how to deal with any kind of feedback.
 
+I try to communicate transparently and in detail about things I tried and things I am blocked on. And cultivate this kind of culture of not being afraid of sharing where you're blocked in any team/company I work with.
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)

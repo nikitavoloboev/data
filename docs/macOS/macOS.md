@@ -321,3 +321,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Hacking with macOS](https://www.hackingwithswift.com/store/hacking-with-macos) ([Code](https://github.com/twostraws/macOS))
 - [Prefsniff](https://github.com/zcutlip/prefsniff) - Utility to sniff preferences changes to macOS plist files.
 - [XNU Kernel Code](https://github.com/apple-oss-distributions/xnu) - Kernel that is part of the Darwin operating system for use in macOS and iOS operating systems.
+- [Remove animation on unhiding macOS dock](https://twitter.com/Gavmn/status/1633953059071234048)

@@ -244,3 +244,5 @@
 - [Exsclaim](https://github.com/MaterialEyes/exsclaim) - Toolkit for the automatic construction of self-labeled materials imaging datasets from scientific literature.
 - [Awesome Human Label Variation](https://github.com/mainlp/awesome-human-label-variation)
 - [Internet Explorer](https://github.com/internet-explorer-ssl/internet-explorer) - Explores the web in a self-supervised manner to progressively find relevant examples that improve performance on a desired target dataset.
+- [Occupancy Dataset for nuScenes](https://github.com/FANG-MING/occupancy-for-nuscenes)
+- [GINC (Generative In-Context learning Dataset)](https://github.com/p-lambda/incontext-learning) - Small-scale synthetic dataset for studying in-context learning.

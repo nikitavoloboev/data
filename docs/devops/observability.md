@@ -92,3 +92,4 @@ title: Observability
 - [Kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool.
 - [Rezolus](https://github.com/iopsystems/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
 - [Opting In to Transparent Telemetry (2023)](https://research.swtch.com/telemetry-opt-in)
+- [Getting started with monitoring (2023)](https://fiberplane.com/blog/getting-started-with-monitoring-part-1)

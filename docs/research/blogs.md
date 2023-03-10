@@ -375,6 +375,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Josh Toit](https://joshleeb.com/)
 - [Zach Mitchell](https://tinkering.xyz/)
 - [Max Halford](https://maxhalford.github.io/)
+- [Javier Coto](https://hondu.co/)
+- [Andy Hippo](https://werat.dev/posts/)
 
 ## Notes
 

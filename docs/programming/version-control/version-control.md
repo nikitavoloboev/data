@@ -55,3 +55,4 @@ I love the idea of big monorepos with great tooling to support making changes an
 - [Codeball](https://codeball.ai/) - AI Powered Code Review.
 - [Jamsync](https://jamsync.dev/about) - Version control system based on rsync. ([HN](https://news.ycombinator.com/item?id=34439461))
 - [Arc — система контроля версий для монорепозитория. Доклад Яндекса (2020)](https://habr.com/en/company/yandex/blog/482926/)
+- [Upwelling: Combining real-time collaboration with version control for writers (2023)](https://www.inkandswitch.com/upwelling/)

@@ -305,3 +305,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [Terraform NixOS Provider](https://github.com/corpix/terraform-provider-nixos)
 - [NixOS Installers for T2 Macs](https://github.com/t2linux/nixos-t2-iso)
 - [Running a NixOS VM on macOS (2023)](https://www.tweag.io/blog/2023-02-09-nixos-vm-on-macos/)
+- [NixOS in Production: NixOS handbook for professional use (2023)](https://leanpub.com/nixos-in-production) ([Code](https://github.com/Gabriella439/nixos-in-production))

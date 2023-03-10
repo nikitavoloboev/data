@@ -239,3 +239,4 @@ title: Generative adversarial networks
 - [Diffusion-GAN: Training GANs with Diffusion (2022)](https://arxiv.org/abs/2206.02262) ([Code](https://github.com/Zhendong-Wang/Diffusion-GAN))
 - [StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis (2023)](https://arxiv.org/abs/2301.09515) ([Code](https://github.com/autonomousvision/stylegan-t))
 - [FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion (2023)](https://arxiv.org/abs/2301.02110) ([Code](https://github.com/MartinPernus/FICE))
+- [GigaGAN: Scaling up GANs for Text-to-Image Synthesis (2023)](https://mingukkang.github.io/GigaGAN/) ([HN](https://news.ycombinator.com/item?id=35089661))

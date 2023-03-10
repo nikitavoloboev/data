@@ -9,7 +9,7 @@ title: Automatic differentiation
 - [Automatic Differentiation in Machine Learning: a Survey](http://jmlr.org/papers/volume18/17-468/17-468.pdf)
 - [autodiff](https://autodiff.github.io/) - C++17 library that uses modern and advanced programming techniques to enable automatic computation of derivatives in an efficient and easy way.
 - [Automatic Differentiation via Contour Integration (2020)](https://github.com/AidanRocke/AutoDiff) ([Article](https://keplerlounge.com/neural-computation/2020/01/16/complex-auto-diff.html)) ([HN](https://news.ycombinator.com/item?id=22084670))
-- [Taichi](http://taichi.graphics/) - Data-oriented programming language. Decouples computation from data organization. ([Code](https://github.com/taichi-dev/taichi)) ([Article](https://medium.com/@dunfan_magnificent/head-first-taichi-a-beginners-guide-to-high-performance-computing-in-python-be6afc5db93e)) ([Awesome](https://github.com/taichi-dev/awesome-taichi))
+- [Taichi](http://taichi.graphics/) - Data-oriented programming language. Decouples computation from data organization. ([Code](https://github.com/taichi-dev/taichi)) ([Article](https://medium.com/@dunfan_magnificent/head-first-taichi-a-beginners-guide-to-high-performance-computing-in-python-be6afc5db93e)) ([Awesome](https://github.com/taichi-dev/awesome-taichi)) ([HN](https://news.ycombinator.com/item?id=35084841))
 - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator (2019)](https://arxiv.org/abs/1803.10228)
 - [Forward-mode Automatic Differentiation for TensorFlow](https://github.com/renmengye/tensorflow-forward-ad)
 - [Automatic Differentiation tools for both forward and reverse mode written for R6RS Scheme](https://github.com/qobi/R6RS-AD)

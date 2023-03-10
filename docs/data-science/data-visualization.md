@@ -221,3 +221,4 @@
 - [1 dataset. 100 visualizations.](https://100.datavizproject.com/)
 - [Plotteus](https://github.com/bprusinowski/plotteus) - JavaScript data visualization library designed to help you tell better stories.
 - [Plotly Panel](https://github.com/ae3e/ae3e-plotly-panel) - Render any kind of charts from any data source with Plotly.
+- [How Bad Is Your Colormap? (2014)](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)

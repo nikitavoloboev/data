@@ -10,7 +10,7 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 
 [Replay Dev Tools](https://github.com/replayio/devtools) has nice React code to study.
 
-[React Server Components](https://www.youtube.com/watch?v=h7tur48JSaw) are amazing. Wonder how it would work with a signal based app like Solid. I don't think VDOM is necessary for this.
+[React Server Components](https://www.youtube.com/watch?v=h7tur48JSaw) are great. But you don't have to use React to write server components. Can [do them in Solid too](https://www.youtube.com/watch?v=QS9yAsv1czg).
 
 ## OSS React apps
 

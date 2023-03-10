@@ -184,3 +184,4 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [ChatGPT Toolbox](https://github.com/fuyufjh/chatgpt-toolbox) - ChatGPT Toolbox based on Streamlit.
 - [ChatGPT Linux assistant](https://github.com/rareranger/chatgpt-linux-assistant) - Knows what's on your system and can help you get things done. ([HN](https://news.ycombinator.com/item?id=35067120))
 - [OpenAI ChatGPT Code Review](https://github.com/adshao/chatgpt-code-review-action) - GitHub Action that uses OpenAI ChatGPT to analyze code in pull request comments.
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (2023)](https://arxiv.org/abs/2303.04671) ([Code](https://github.com/microsoft/visual-chatgpt)) ([Tweet](https://twitter.com/mathemagic1an/status/1634085179739475968)) ([HN](https://news.ycombinator.com/item?id=35090163))

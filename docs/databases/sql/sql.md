@@ -257,3 +257,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [Type Constraints in 65 lines of SQL (2023)](https://supabase.com/blog/type-constraints-in-65-lines-of-sql) ([HN](https://news.ycombinator.com/item?id=34835063))
 - [SQL Parser CST](https://github.com/nene/sql-parser-cst) - SQL Parser which produces a Concrete Syntax Tree (CST).
 - [Stochastic gradient descent written in SQL (2023)](https://maxhalford.github.io/blog/ogd-in-sql/) ([HN](https://news.ycombinator.com/item?id=35054786))
+- [CensusGPT](https://censusgpt.com/) - Natural Language → SQL. ([Code](https://github.com/caesarHQ/textSQL))

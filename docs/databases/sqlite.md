@@ -314,3 +314,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [sqlite-rs](https://github.com/xtuc/sqlite-rs) - Decoder, encoder and tools for SQLite in Rust.
 - [sqlean](https://github.com/nalgeon/sqlean) - All the Missing SQLite Functions. ([HN](https://news.ycombinator.com/item?id=34969491))
 - [SQLite Parser Nom](https://github.com/mycelial/sqlite-parser-nom) - Parser library for SQLite storage format in Rust.
+- [9 years of open-source database development: reviewing rqlite design choices (2023)](https://www.philipotoole.com/9-years-of-open-source-database-development-the-design-docs/)

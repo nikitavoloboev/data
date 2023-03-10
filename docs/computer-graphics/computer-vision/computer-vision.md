@@ -1174,3 +1174,4 @@
 - [Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction (2023)](https://arxiv.org/abs/2208.12697) ([Code](https://github.com/wutong16/Voxurf))
 - [MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices (2023)](https://arxiv.org/abs/2303.01932) ([Code](https://github.com/ActiveVisionLab/MobileBrick))
 - [MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation (2022)](https://arxiv.org/abs/2212.08062) ([Code](https://github.com/Meta-Portrait/MetaPortrait))
+- [FFCV-SSL](https://github.com/facebookresearch/FFCV-SSL) - Fast Forward Computer Vision for Self-Supervised Learning.

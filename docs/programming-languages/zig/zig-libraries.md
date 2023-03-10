@@ -174,6 +174,8 @@
 - [Zig String](https://github.com/JakubSzark/zig-string) - UTF-8 String Library.
 - [zig-wfc](https://github.com/dweiller/zig-wfc) - Implementation of the wave function collapse algorithm in Zig.
 - [tres](https://github.com/ziglibs/tres) - ValueTree-based JSON parser.
+- [okra](https://github.com/canvasxyz/okra) - Pseudo-random deterministic merkle tree built on LMDB.
+- [fastfilter](https://github.com/hexops/fastfilter) - Binary fuse & xor filters for Zig.
 
 ## Links
 

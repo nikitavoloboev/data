@@ -538,3 +538,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Omni](https://github.com/lukephills/omni) - Play and learn about music scales from around the world.
 - [DAWG](https://dawg.dev/) - DAW built using Electron and the Web Audio API. ([Code](https://github.com/dawg/dawg))
 - [Polarity music tools](https://github.com/polarity/polarity-music-tools) - Bitwig presets by polarity for you to use. Every week new stuff for bitwig & popular vsts.
+- [Ask HN: Is there anyone here making music? (2023)](https://news.ycombinator.com/item?id=35092674)

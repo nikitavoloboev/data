@@ -983,3 +983,5 @@ if *boolArgPtr != false {
 - [Making Go telemetry opt-in is a mistake (2023)](https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html) ([Lobsters](https://lobste.rs/s/eyjoiw/making_go_telemetry_opt_is_mistake))
 - [Cross-compile Go application for major platforms with Zig and GoReleaser with CGO](https://github.com/goreleaser/goreleaser-example-zig-cgo)
 - [FlameScope for Go (2023)](https://blog.felixge.de/flamescope-for-go/)
+- [Code coverage for Go integration tests (2023)](https://go.dev/blog/integration-test-coverage) ([HN](https://news.ycombinator.com/item?id=35074183))
+- [Efficiently writing binary data in Go (2023)](https://hondu.co/blog/efficiently-writing-binary-data-golang)

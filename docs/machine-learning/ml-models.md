@@ -6,7 +6,7 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 
 [XManager](https://github.com/deepmind/xmanager) is nice for managing ML model experiments.
 
-[Web AI](https://github.com/visheratin/web-ai) is great for [running models in browser](https://twitter.com/visheratin/status/1632632366727417859).
+[Web AI](https://github.com/visheratin/web-ai) or [Transformers.js](https://github.com/xenova/transformers.js) are great for [running models in browser](https://twitter.com/visheratin/status/1632632366727417859).
 
 ## Links
 
@@ -163,3 +163,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Minimal ML Template](https://github.com/AntreasAntoniou/minimal-ml-template) - Minimal ml project template that uses HF transformers and wandb to train a simple NN and evaluate it, in a stateless manner compatible with Spot instances Kubernetes workflows.
 - [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training (including pre-training and fine-tuning) for Big Models.
 - [CIFAR10 hyperlightspeedbench](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record.
+- [Transformers.js](https://github.com/xenova/transformers.js) - Run Transformers in your browser.

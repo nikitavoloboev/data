@@ -85,6 +85,7 @@
 - [Tornis](https://github.com/robb0wen/tornis) - Helps you watch and respond to changes in your browser's viewport.
 - [Tonic](https://github.com/socketsupply/tonic) - Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free. ([Web](https://tonicframework.dev/))
 - [Gluon](https://github.com/gluon-framework/gluon) - Framework for creating desktop apps from websites, using system installed browsers and NodeJS.
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes.
 
 ## Animation
 

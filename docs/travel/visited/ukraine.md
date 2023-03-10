@@ -4,7 +4,7 @@ It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [
 
 The [extent of this tragedy](https://www.youtube.com/watch?v=EhssmUtN874) is hard to understand in full. Some humans truly have [no moral bounds or empathy](https://twitter.com/vamelina/status/1629578960957833216). [This](https://www.reddit.com/r/CredibleDefense/comments/11cgjkz/comment/ja4w809/) gives a nice summary of what happened in first days of the war.
 
-It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get [fact based reporting](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
+It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get [fact based reporting](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?context=3).
 
 Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub although with some [bias](https://www.reddit.com/r/CredibleDefense/comments/11jyawc/comment/jb5g3qt/?context=3) tries to give news from both sides of the war.
 
@@ -16,7 +16,7 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 
 ## Notes
 
-- [There was no conflict until Russia started formenting it. Russia’s goal was to break Ukrainian sovereignty by using Donbass as a Trojan horse to prevent any pivot towards the West. But in doing so, they basically destroyed the political power of the pro-Russian faction in Ukraine. Ukraine was basically run by guys from Dnipro and Donetsk, without that second leg, they really don’t have the influence or votes anymore. Putin’s freak out over Maidan basically lost him any chance of influence in Ukraine. The invasion essentially solidified Ukraine as an anti-Russian state for the next few generations.](https://www.reddit.com/r/CredibleDefense/comments/wmjila/comment/ijzgd2b/?utm_source=reddit&utm_medium=web2x&context=3)
+- [There was no conflict until Russia started formenting it. Russia’s goal was to break Ukrainian sovereignty by using Donbass as a Trojan horse to prevent any pivot towards the West. But in doing so, they basically destroyed the political power of the pro-Russian faction in Ukraine. Ukraine was basically run by guys from Dnipro and Donetsk, without that second leg, they really don’t have the influence or votes anymore. Putin’s freak out over Maidan basically lost him any chance of influence in Ukraine. The invasion essentially solidified Ukraine as an anti-Russian state for the next few generations.](https://www.reddit.com/r/CredibleDefense/comments/wmjila/comment/ijzgd2b/?context=3)
 
 ## Links
 
@@ -173,7 +173,7 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Top Cargo200](https://topcargo200.com/)
 - [Ukraine’s military strategy of corrosion (2022)](https://twitter.com/WarintheFuture/status/1553973368809918464)
 - [Dzyga's Paw – Charity Fund](https://dzygaspaw.com/) ([Tweet](https://twitter.com/dim0kq/status/1555612916241547264))
-- [Road to war in Ukraine](https://www.washingtonpost.com/national-security/interactive/2022/ukraine-road-to-war/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/wqn53l/comment/ikpemqj/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Road to war in Ukraine](https://www.washingtonpost.com/national-security/interactive/2022/ukraine-road-to-war/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/wqn53l/comment/ikpemqj/?context=3))
 - [Digital Traces of Brain Drain: Developers during the Russian Invasion of Ukraine (2022)](https://arxiv.org/abs/2209.01041) ([Tweet](https://twitter.com/johannes_wachs/status/1566715431053938688))
 - [Рядовой телефонист Коблов Антон Викторович (2022)](https://www.youtube.com/watch?v=y0IubXheaj4&t=339s)
 - [Почему российская армия была разгромлена и спасалась бегством из Харьковской области](https://twitter.com/ian_matveev/status/1570372266206302208)
@@ -181,7 +181,7 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Best neutral reporting on the war in Ukraine](https://twitter.com/Plinz/status/1572428060284321793)
 - [I Visited Bucha Today (2022)](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha) ([HN](https://news.ycombinator.com/item?id=33028381))
 - [How does the Russo-Ukrainian War end? (2022)](https://snyder.substack.com/p/how-does-the-russo-ukrainian-war)
-- [Abandoned Russian base holds secrets of retreat in Ukraine (2022)](https://www.reuters.com/investigates/special-report/ukraine-crisis-russia-base/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/ydwbpd/comment/itun2qu/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Abandoned Russian base holds secrets of retreat in Ukraine (2022)](https://www.reuters.com/investigates/special-report/ukraine-crisis-russia-base/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/ydwbpd/comment/itun2qu/?context=3))
 - [Kyiv was the most magical city in Europe … and then the Russians bombed it (2022)](https://www.dailymaverick.co.za/article/2022-10-30-kyiv-was-the-most-magical-city-in-europe-and-then-the-russians-bombed-it/)
 - [Reporting from Ukraine - YouTube](https://www.youtube.com/c/ReportingfromUkraine/videos)
 - [The Russia Contingency with Michael Kofman Archives (2022)](https://warontherocks.com/episode/therussiacontingency/)
@@ -203,4 +203,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Обыкновенная денацификация. Документальный фильм (2023)](https://www.youtube.com/watch?v=6uicsdZDw-Y)
 - [YEAR - a documentary project by Dmytro Komarov | Part One (2023)](https://www.youtube.com/watch?v=EhssmUtN874) ([Part 2](https://www.youtube.com/watch?v=rlkzADUfb3s))
 - [The War in Ukraine One Year On (2023)](https://www.youtube.com/watch?v=mcERDZR9lpo)
-- [Documentary about the first few days on the war (2023)](https://www.youtube.com/watch?v=Cwdf44EiuRs) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja2ru0x/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Documentary about the first few days on the war (2023)](https://www.youtube.com/watch?v=Cwdf44EiuRs) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja2ru0x/?context=3))

@@ -78,3 +78,4 @@ Also [Biomaterials: The Intersection of Biology and Materials Science](https://w
 - [New Research Challenges Long-Held Beliefs About Limb Regeneration (2022)](https://today.tamu.edu/2022/07/05/new-research-challenges-long-held-beliefs-about-limb-regeneration/)
 - [Wake Forest Institute for Regenerative Medicine](https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine)
 - [Hand Transplants Demonstrate the Nervous System's Amazing Adaptability (2020)](https://www.scientificamerican.com/article/hand-transplants-demonstrate-the-nervous-systems-amazing-adaptability/)
+- [Heart transplant explained in image](https://www.mdpi.com/ijms/ijms-23-13040/article_deploy/html/images/ijms-23-13040-g001.png)

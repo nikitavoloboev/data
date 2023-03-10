@@ -155,7 +155,7 @@ Liked this [episode on issues with monetary policies](https://hiddenforces.io/po
 - [Modern Monetary Theory, explained (2019)](https://www.vox.com/future-perfect/2019/4/16/18251646/modern-monetary-theory-new-moment-explained)
 - [Any book or essay recommendations that talk about alternatives to our current economy or society? (2022)](https://www.reddit.com/r/simpleliving/comments/ti2nz0/any_book_or_essay_recommendations_that_talk_about/)
 - [Wealth: A New Era of Economics (2015)](https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441)
-- [Wartime Commercial Policy and Trade between Enemies (2021)](https://direct.mit.edu/isec/article/46/1/9/102856/Wartime-Commercial-Policy-and-Trade-between?utm_source=pocket_mylist)
+- [Wartime Commercial Policy and Trade between Enemies (2021)](https://direct.mit.edu/isec/article/46/1/9/102856/Wartime-Commercial-Policy-and-Trade-between)
 - [What is Money, Anyway? (2022)](https://www.lynalden.com/what-is-money/) ([HN](https://news.ycombinator.com/item?id=30825505))
 - [Inflation, Interest Rates and the Fed: A Dissent (2022)](http://jwmason.org/slackwire/inflation-interest-rates-and-the-fed-a-dissent/) ([Tweet](https://twitter.com/JWMason1/status/1508652910514737154))
 - [Gary Schnitkey's research](https://scholar.google.com/citations?user=T2MeNqMAAAAJ)

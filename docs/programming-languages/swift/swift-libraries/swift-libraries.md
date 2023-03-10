@@ -646,6 +646,7 @@
 - [SplitView](https://github.com/stevengharris/SplitView) - Split two SwiftUI views without NavigationSplitView nonsense.
 - [SwiftUI SharedObject](https://github.com/lorenzofiamingo/swiftui-shared-object) - New property wrapper for SwiftUI ObservableObject.
 - [ShinySwiftUI](https://github.com/Flowductive/shiny-swift-ui) - SwiftUI extensions and components that just make sense.
+- [ViewStateController](https://github.com/mdb1/ViewStateController) - Framework for simplified management of view state, allowing easy implementation of complex views.
 
 ## Test
 

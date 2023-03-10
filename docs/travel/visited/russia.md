@@ -8,7 +8,7 @@ It's tragic what [Ukraine](ukraine.md) has to deal through due to Russia's leade
 
 The [extent of this tragedy](https://www.youtube.com/watch?v=EhssmUtN874) is hard to understand in full. Some humans truly have [no moral bounds or empathy](https://twitter.com/vamelina/status/1629578960957833216). [This](https://www.reddit.com/r/CredibleDefense/comments/11cgjkz/comment/ja4w809/) gives a nice summary of what happened in first days of the war.
 
-It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get [fact based reporting](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?utm_source=reddit&utm_medium=web2x&context=3).
+It's hard to stay truly informed on what's going on unless you take the time to [study the sources of claims you read](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/). I love and recommend [Credible Defense](https://www.reddit.com/r/CredibleDefense/) subreddit's daily discussions as a nice way to get [fact based reporting](https://www.reddit.com/r/CredibleDefense/comments/11bkh28/comment/ja3hmgv/?context=3).
 
 Also like analysis of [Michael Kofman](https://twitter.com/KofmanMichael), [Perun](https://www.youtube.com/@PerunAU/videos) & [William Spaniel](https://www.youtube.com/@Gametheory101/videos). [Ukraine/Russia report](https://www.reddit.com/r/UkraineRussiaReport/) sub although with some [bias](https://www.reddit.com/r/CredibleDefense/comments/11jyawc/comment/jb5g3qt/?context=3) tries to give news from both sides of the war.
 
@@ -526,7 +526,7 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [A Voracious Reader: Stalin through his books](https://drb.ie/articles/a-voracious-reader-2/) ([HN](https://news.ycombinator.com/item?id=30632775))
 - [Undef Club](https://undef.club/#about) - Hackerspace in the middle of Moscow.
 - [Russian Colonialism History (2022)](https://twitter.com/MaximEristavi/status/1495323069539405826)
-- [Explaining Russia's endemic corruption issue and its effects](https://www.reddit.com/r/CredibleDefense/comments/tbx9bb/comment/i0bqxxv/?utm_source=share&utm_medium=web2x&context=3)
+- [Explaining Russia's endemic corruption issue and its effects](https://www.reddit.com/r/CredibleDefense/comments/tbx9bb/comment/i0bqxxv/?context=3)
 - [Inside Putin's Circle (2022)](https://www.ft.com/content/503fb110-f91e-4bed-b6dc-0d09582dd007) ([HN](https://news.ycombinator.com/item?id=30645967))
 - [Evaluation of Russia by Finnish Intelligence Colonel (2018)](https://www.youtube.com/watch?app=desktop&v=kF9KretXqJw)
 - [Putin's People: How the KGB Took Back Russia and Then Took On the West by Catherine Belton (2020)](https://www.goodreads.com/book/show/23848139-putin-s-people) ([HN](https://news.ycombinator.com/item?id=30646683))

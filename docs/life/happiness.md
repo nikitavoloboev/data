@@ -70,7 +70,7 @@ One important thing I always keep in my mind is that everyone has their own uniq
 - [The secret successful people don't want you to know? You can literally walk away from anything or anyone that doesn't make you happy and start over.](https://twitter.com/elizalian/status/1463953252500729856)
 - [I’ve found only 4 things that increase my baseline happiness: 1. Time outside, ideally in nature. 2. Physical activity, preferably rigorous. 3. Meaningful relationships, with lots of play. 4. Work that has purpose, where I have agency.](https://twitter.com/ankurnagpal/status/1476574206435418121)
 - [There’s a difference between being happy and being distracted from sadness](https://twitter.com/McKeeZach/status/1510561036017049602)
-- [Happiness and balance is found in moderation in all things and knowing your limits.](https://www.reddit.com/r/fatFIRE/comments/uinysu/should_i_experiment_with_being_a_sugar_daddy/i7e2d12/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Happiness and balance is found in moderation in all things and knowing your limits.](https://www.reddit.com/r/fatFIRE/comments/uinysu/should_i_experiment_with_being_a_sugar_daddy/i7e2d12/)
 - [Melancholy is the happiness of being sad.](https://www.youtube.com/watch?v=xNzPqFYcuKY)
 - [If you only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are.](https://twitter.com/waitbutwhy/status/1529017582870749184)
 - [The key to happiness really is just food, water, exercise, sun, security, relationships, gratitude, and purpose.](https://twitter.com/CXGonzalez/status/1535587810354282498)

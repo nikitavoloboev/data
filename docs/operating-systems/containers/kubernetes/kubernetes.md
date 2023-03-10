@@ -942,3 +942,5 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Iter8](https://github.com/iter8-tools/iter8) - Kubernetes Release Optimizer.
 - [Running Databases on Kubernetes (2023)](https://questdb.io/blog/databases-on-k8s/) ([HN](https://news.ycombinator.com/item?id=34999039))
 - [Spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.
+- [cri-tools](https://github.com/kubernetes-sigs/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI).
+- [Shift-left Network Topology Analyzer](https://github.com/np-guard/cluster-topology-analyzer) - Analyzes resource YAMLs of a Kubernetes-based application to extract the required connectivity between its workloads.

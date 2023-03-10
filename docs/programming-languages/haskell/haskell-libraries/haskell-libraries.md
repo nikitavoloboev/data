@@ -440,6 +440,7 @@
 - [monad-metrics](https://github.com/parsonsmatt/monad-metrics) - Convenient wrapper and API for using EKG metrics in your application.
 - [optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser.
 - [colourista](https://github.com/kowainik/colourista) - Convenient interface for printing colorful messages.
+- [Vector-Algorithms](https://github.com/erikd/vector-algorithms)
 
 ## Notes
 

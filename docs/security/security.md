@@ -363,3 +363,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Cedar: A new policy language (2023)](https://onecloudplease.com/blog/cedar-a-new-policy-language)
 - [X.520: What’s in a name? (2022)](https://medium.com/@sleevi_/x-520-whats-in-a-name-da6ea8954b4f)
 - [Covert](https://github.com/fmeringdal/covert) - Secrets management solution written in Rust.
+- [How to Yubikey: A Configuration Cheatsheet (2023)](https://debugging.works/blog/yubikey-cheatsheet/) ([HN](https://news.ycombinator.com/item?id=35091768))

@@ -194,3 +194,5 @@
 - [Elixir and its lab by Cédric Paumard (2023)](https://www.youtube.com/watch?v=lbcim_O1a-s)
 - [Orion](https://github.com/LivewareProblems/Orion) - Distributed Dynamic Profiling for the BEAM.
 - [Globally Distributed Elixir over Tailscale (2023)](https://www.richardtaylor.dev/articles/globally-distributed-elixir-over-tailscale) ([HN](https://news.ycombinator.com/item?id=35059770))
+- [Physical knobs & userspace drivers in Elixir (2023)](https://underjord.io/userspace-drivers-in-elixir.html)
+- [Interview and AMA with José Valim - Creator of Elixir (2023)](https://www.youtube.com/watch?v=LknqlTouTKg)

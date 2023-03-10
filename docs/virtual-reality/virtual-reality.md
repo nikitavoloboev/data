@@ -34,7 +34,7 @@ I am confident that the advancements in computer vision can let you write your o
 - [Half-Life: Alyx's SDK walkthrough (2020)](https://twitter.com/joewintergreen/status/1262662025903128576)
 - [Mozilla Hubs](https://hubs.mozilla.com/#/) - Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out. ([Code](https://github.com/mozilla/hubs))
 - [A-Frame](https://aframe.io/) - Make WebVR.
-- [Relativty](https://www.relativty.com/) - Open-source VR headset. ([HN](https://news.ycombinator.com/item?id=24431052)) ([Code](https://github.com/relativty/Relativty))
+- [Relativty](https://www.relativty.com/) - Open-source VR headset. ([HN](https://news.ycombinator.com/item?id=24431052)) ([Code](https://github.com/relativty/Relativty)) ([Discord](https://discord.com/invite/jARCsVb))
 - [Facebook Connect: John Carmack Unscripted Live (2020)](https://www.youtube.com/watch?v=sXmY26pOE-Y)
 - [Venture Reality Fund](https://www.thevrfund.com/)
 - [Oculus Quest Mixed Reality app for iOS](https://github.com/fabio914/OculusQuestMixedRealityForiOS)

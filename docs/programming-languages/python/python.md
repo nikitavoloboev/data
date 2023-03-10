@@ -601,3 +601,4 @@ for i, _ in enumerate(nums):
 - [davinci-functions](https://github.com/odashi/davinci-functions) - Library to ask OpenAI GPT-3 for generating objects on the Python runtime.
 - [Using SymPy in Python doctests (2023)](https://maxhalford.github.io/blog/sympy-doctests/)
 - [Overhead of Python Asyncio tasks (2023)](https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/)
+- [PEP 709 – Inlined comprehensions (2023)](https://peps.python.org/pep-0709/) ([Lobsters](https://lobste.rs/s/lrstjz/pep_709_inlined_comprehensions))
