@@ -1078,4 +1078,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Safety and Soundness in Rust (2023)](https://jacko.io/safety_and_soundness.html) ([HN](https://news.ycombinator.com/item?id=35032915))
 - [Learn Rust with Gitoxide - YouTube](https://www.youtube.com/playlist?list=PLMHbQxe1e9Mk5kOHrm9v20-umkE2ck_gE)
 - [The Registers of Rust (2023)](https://without.boats/blog/the-registers-of-rust/) ([HN](https://news.ycombinator.com/item?id=35071541))
-- [Leveraging Rust and the GPU to render user interfaces at 120 FPS (2023)](https://zed.dev/blog/videogame) ([HN](https://news.ycombinator.com/item?id=35078464))
+- [Leveraging Rust and the GPU to render user interfaces at 120 FPS (2023)](https://zed.dev/blog/videogame) ([HN](https://news.ycombinator.com/item?id=35078464)) ([Tweet](https://twitter.com/zeddotdev/status/1633852088433139713))

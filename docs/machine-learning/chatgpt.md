@@ -6,7 +6,7 @@ title: ChatGPT
 
 [What Is ChatGPT Doing](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/), [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) & [How ChatGPT is Trained](https://www.youtube.com/watch?v=VPRSBzXzavo) are great overviews of how it works.
 
-I use [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) to interface with ChatGPT so I have access to it from both mac and iOS.
+I use [MacGPT](https://goodsnooze.gumroad.com/l/menugpt) to access ChatGPT from mac. On iOS I want to deploy [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) but didn't yet.
 
 [NanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
 
