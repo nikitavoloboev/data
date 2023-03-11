@@ -64,3 +64,4 @@ Loved visiting [Maastricht](https://nl.wikipedia.org/wiki/Maastricht). It was un
 - [Dutch FIRE Reddit](https://www.reddit.com/r/DutchFIRE/)
 - [Amsterdam coffee shops with cozy interior](https://www.reddit.com/r/AmsterdamEnts/comments/1037hj2/coffeeshops_with_beautiful_and_cozy_interior/)
 - [Amsterdam Art](https://agentcooper.github.io/amsterdam-art/) - Historical paintings of Amsterdam on a map. ([Code](https://github.com/agentcooper/amsterdam-art#readme)) ([Reddit](https://www.reddit.com/r/Amsterdam/comments/116enzj/historic_paintings_of_amsterdam_on_a_map/))
+- [Nxt Museum](https://nxtmuseum.com/)

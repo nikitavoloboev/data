@@ -4,28 +4,40 @@ title: Learn Anything
 
 # [Learn Anything](https://learn-anything.xyz)
 
-Learn Anything is currently the main project I am working on.
+> App to share what you know or want to learn next. Together with ideas you want to build
 
-There is a lot of interesting things that still have to be done and since the project is fully [open source](https://github.com/learn-anything/learn-anything), all the communication and discussions about this project are done in the open so anyone interested can join in and help.
+The project is [open source](https://github.com/learn-anything/learn-anything/) and there's a lot of information included in the [readme](https://github.com/learn-anything/learn-anything) for how to run the project and what it's about.
 
-There is a lot of information included in the [readme](https://github.com/learn-anything/learn-anything). And there are lots of [curated lists](https://github.com/learn-anything/curated-lists) available that are open to contribution.
+The short story is that LA will eventually host this wiki.
 
-Aside from providing links and connected topics to learn from. The end goal is to create a machine learning system that understands what you know and what you want to learn. It can then craft the most optimized path for learning a thing X based on what you know. And that X can be anything. Bash, math, history, macOS.
+Connect notes/links with topics. Share these topics with all or just small group of people (only friends or spouse).
 
-A kind of Netflix for learning. And as its open source too, anyone who knows how to code can literally add a feature themselves. And if they don't like the direction in which the website is going, they can fork it away.
+Topics can have study guides. Users curated the study guides. Eventually AI learns to make and update the study guides tailored to each person.
+
+Ideas can share ideas. Some ideas are private, some public. Public ideas can be interacted with, get funding from others to incentivize you to build the idea or get friends to work on ideas together. 
+
+AI is fully integrated into your knowledge base. Have dialogues with it. Have others have AI interface to all you know. Based on what you allow them to query. 
+
+Best part, LA will help you keep track of where you are in life. It covers 2 essential things. What to make? And what do I know or want to learn?
+
+The what I know part is covered by you telling LA which topics you think you know, which topics you want to know. Which topics you are learning now. AI and community is there to help you learn anything. Mentoring is a built in feature. 
+
+Each topic in LA is a global topic. Each topic will get the links and notes that were shared publicly. Users can add notes or links from each global topic to their personal spaces. As I do in this wiki many times.
+
+All open source. Open data. You are in full control.
 
 ![](https://raw.githubusercontent.com/learn-anything/2017-release/master/media/header.png)
 
-In short, I want to make a tool that sits somewhere inbetween [Raindrop](https://raindrop.io/)/[Pinboard](https://pinboard.in/popular/) for bookmarks. Mixed in with [Learney](https://app.learney.me)/[MapOfReddit](https://anvaka.github.io/map-of-reddit/) for visualization of topics. Or someone said, create a [Google Maps but for navigating information space](https://twitter.com/MatthewWSiu/status/1519906295603675143).
+>  Existing version deployed on https://learn-anything.xyz
 
-## New design
+There are currently some [curated lists](https://github.com/learn-anything/curated-lists) available that are open to contribution. Will be eventually moved to LA.
 
-Some mockups for next version of Learn Anything.
+## Potential design
 
 ![](https://cdn.discordapp.com/attachments/428579844046192643/493481463686365194/03-topic-learn-plans-1.png)
 
-If you want to help out, we have a [Discord server](https://discord.gg/bxtD8x6aNF). ❤️
+If you want to help out, join our [Discord community](https://discord.gg/bxtD8x6aNF). ❤️
 
 ## Links
 
-- [LA Docs](https://www.notion.so/learnany/Public-b3b8e046a6bc44549367b84423360b93) - Includes roadmap, notes.
+- [LA Docs](https://www.notion.so/learnany/Public-b3b8e046a6bc44549367b84423360b93) - Includes roadmap, notes. 
