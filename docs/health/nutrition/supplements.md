@@ -4,7 +4,9 @@ Below is aspirational and doesn't always happen but I try to strive towards some
 
 Especially for supplements or extra nutritional powders outlined above, I make sure to mostly get all my nutrients from simply [eating whole foods. No added sugar. Whilst properly hydrating with water](https://hubermanlab.com/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness/) or [tea](drinks/tea.md).
 
-Every [morning](../../focusing/processes.md#morning), after I do a [workout](../../fitness/fitness.md), I make a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4). I mix:
+[Foundations of Physical and Mental Performance](https://tim.blog/2023/03/08/dr-andrew-huberman/) is amazing listen.
+
+Every [morning](../../focusing/processes.md#morning), after I do a [workout](../../fitness/fitness.md), I make a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4) (I should but I don't because I am [poor](https://wiki.nikiv.dev/looking-back/2023/january), so below list is aspirational, boys can dream). I mix:
 
 - 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
 - 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)

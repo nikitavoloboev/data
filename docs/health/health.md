@@ -14,6 +14,8 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 
 Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/videos) & [Rhonda Patrick](https://www.youtube.com/c/FoundMyFitness/videos) for health tips.
 
+[Foundations of Physical and Mental Performance](https://tim.blog/2023/03/08/dr-andrew-huberman/) is amazing listen.
+
 [Tools for Hormone Optimization](https://hubermanlab.com/dr-kyle-gillett-tools-for-hormone-optimization-in-males/) is nice episode.
 
 ## Notes

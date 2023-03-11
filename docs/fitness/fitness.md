@@ -2,6 +2,8 @@
 
 Below is aspirational and doesn't always happen but I try to strive towards some kind of [routine](../focusing/habits.md) in doing enough [daily exercise with proper form, good rest](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/) and [nutrition](../health/nutrition/nutrition.md).
 
+[Foundations of Physical and Mental Performance](https://tim.blog/2023/03/08/dr-andrew-huberman/) is amazing listen. I am trying to adopt Huberman's exercise routine more especially do the recommended neck and leg muscle exercises.
+
 I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips, leg raises and sit-ups. Dips, leg raises and pull ups being my favorite. I also do cardio usually by [cycling](../travel/transportation/cycling.md) or prolonged walking and sometimes [running](running.md).
 
 I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
