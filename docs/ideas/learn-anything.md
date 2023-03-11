@@ -12,9 +12,9 @@ The short story is that LA will eventually host this wiki.
 
 Connect notes/links with topics. Share these topics with all or just small group of people (only friends or spouse).
 
-Topics can have study guides. Users curated the study guides. Eventually AI learns to make and update the study guides tailored to each person.
+Topics can have study guides. Users curate the study guides. Eventually AI learns to make and update the study guides tailored to each person.
 
-Ideas can share ideas. Some ideas are private, some public. Public ideas can be interacted with, get funding from others to incentivize you to build the idea or get friends to work on ideas together. 
+People can share ideas. Some ideas are private, some public. Public ideas can be interacted with, get funding from others to incentivize you to build the idea or get friends to work on ideas together. 
 
 AI is fully integrated into your knowledge base. Have dialogues with it. Have others have AI interface to all you know. Based on what you allow them to query. 
 
