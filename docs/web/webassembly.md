@@ -435,3 +435,4 @@ title: WebAssembly
 - [Moss WASM](https://github.com/fuxiaohei/moss-wasm) - WASM serverless platform.
 - [wabin](https://github.com/tetratelabs/wabin) - WebAssembly Binary Format in Go.
 - [browser_wasi_shim](https://github.com/bjorn3/browser_wasi_shim) - WASI shim for in the browser.
+- [Pre-initialization of garbage-collected WebAssembly heaps (2023)](https://wingolog.org/archives/2023/03/10/pre-initialization-of-garbage-collected-webassembly-heaps)
