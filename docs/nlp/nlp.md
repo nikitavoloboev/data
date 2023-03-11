@@ -886,3 +886,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [4 bits quantization of LLaMa using GPTQ](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt) - Streamline your prompt design.
 - [Fork of Facebook’s LLaMa model to run on CPU](https://github.com/markasoftware/llama-cpu) ([HN](https://news.ycombinator.com/item?id=35065796))
+- [Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp (2023)](https://til.simonwillison.net/llms/llama-7b-m2)

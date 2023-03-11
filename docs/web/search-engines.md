@@ -14,6 +14,8 @@ Want to build my own version of [Monocle](https://github.com/thesephist/monocle)
 
 [Search Engine in Rust](https://www.youtube.com/watch?v=hm5xOJiVEeg) is nice watch.
 
+Want to build an app [like this](https://twitter.com/ronithhh/status/1634278433168711680) or [RewindAI](https://twitter.com/RewindAI) but [open source](https://twitter.com/nikitavoloboev/status/1634373248270884868).
+
 ## Notes
 
 - [If you’re implementing search please understand that using quotes means “find this literal text”.](https://twitter.com/davidfowl/status/1574138778129944576)
