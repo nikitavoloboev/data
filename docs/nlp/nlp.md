@@ -887,3 +887,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt) - Streamline your prompt design.
 - [Fork of Facebook’s LLaMa model to run on CPU](https://github.com/markasoftware/llama-cpu) ([HN](https://news.ycombinator.com/item?id=35065796))
 - [Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp (2023)](https://til.simonwillison.net/llms/llama-7b-m2)
+- [Llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++, with Apple Silicon support. ([HN](https://news.ycombinator.com/item?id=35100086))
+- [Large language models are having their Stable Diffusion moment right now (2023)](https://simonwillison.net/2023/Mar/11/llama/)

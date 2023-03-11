@@ -86,3 +86,4 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [How can we fight potential fungal pandemic](https://twitter.com/krhornberger/status/1624008997249359875)
 - [Study finds mushrooms magnify memory by boosting nerve growth (2023)](https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html) ([HN](https://news.ycombinator.com/item?id=35050523))
 - [How To Grow Magic Mushrooms At Home](https://thethirdwave.co/psychedelics/shrooms/grow-psilocybin-mushrooms/)
+- [Magic Mushroom Grow Kit Tutorial](https://www.wholecelium.com/wiki/manuals/magic-mushrooms-grow-kit-tutorial/)
