@@ -39,3 +39,4 @@ title: Tailscale
 - [libtailscale](https://github.com/tailscale/libtailscale) - C library that embeds Tailscale into a process.
 - [Tailscale Docker Extension](https://github.com/tailscale/docker-extension) - Docker Desktop extension adding Tailscale networking.
 - [libtailscale-rs](https://github.com/messense/libtailscale-rs) - Rust binding to libtailscale.
+- [Embed a Tailscale Funnel in your Go app (2023)](https://tailscale.dev/blog/embedded-funnel)

@@ -324,3 +324,4 @@ I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQl
 - [How to Write English Prose (2023)](https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/) ([HN](https://news.ycombinator.com/item?id=34363974))
 - [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit) ([HN](https://news.ycombinator.com/item?id=34576085))
 - [Jotte](https://jotte.ai/) - Graph-based AI for longform writing. ([HN](https://news.ycombinator.com/item?id=34901481))
+- [Punctuation Matters: How to use the en dash, em dash and hyphen](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/) ([HN](https://news.ycombinator.com/item?id=35118338))

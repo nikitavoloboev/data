@@ -123,3 +123,4 @@ title: Assembly
 - [Easy 6502, an assembly language tutorial (2015)](https://skilldrick.github.io/easy6502/) ([Code](https://github.com/skilldrick/easy6502/tree/gh-pages))
 - [ARM Assembly: ∞ Ways to Return (2017)](https://quantum5.ca/2017/10/19/arm-ways-to-return/)
 - [Famicom Party - Making NES Games in Assembly](https://famicom.party/book/)
+- [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78 (2023)](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/)

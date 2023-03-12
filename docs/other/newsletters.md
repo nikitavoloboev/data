@@ -99,3 +99,4 @@
 - [Ask HN: Which mailing lists would you recommend to subscribe to? (2022)](https://news.ycombinator.com/item?id=33059231)
 - [How we grew to be biggest crypto newsletter (2022)](https://twitter.com/ShaanVP/status/1603544644477800448)
 - [Lessons from 35 Years of Newsletter Publishing (2022)](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/) ([HN](https://news.ycombinator.com/item?id=34906476))
+- [Building a Privacy-First Newsletter (2023)](https://blog.kjamistan.com/building-a-privacy-first-newsletter.html)

@@ -111,3 +111,4 @@
 - [Open source Python project CI pipeline (2023)](https://brntn.me/blog/open-source-python-ci/) ([Lobsters](https://lobste.rs/s/9t7qtu/open_source_python_project_ci_pipeline))
 - [An Ideal CI/CD System (2022)](https://matt-rickard.com/an-ideal-ci-cd-system)
 - [Go CI](https://github.com/sagikazarmark/goci) - High-level CI config DSL written in Go based on Dagger.
+- [Macige](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development.

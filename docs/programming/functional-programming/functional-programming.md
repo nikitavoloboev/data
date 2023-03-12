@@ -224,6 +224,7 @@
 - [Do you guys know a pure functional language with good tooling? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/10i02jd/do_you_guys_know_a_pure_functional_language_with/)
 - [Introduction to functional programming for scalable statistical computing in Scala](https://github.com/darrenjw/fp-ssc-course)
 - [Functors, Applicatives, And Monads In Pictures (2013)](https://www.adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [The semantics of a simple functional language (2023)](https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html)
 
 ## Images
 

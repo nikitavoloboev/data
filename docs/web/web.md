@@ -499,3 +499,4 @@
 - [Your Client Side State is a Lie](https://marcellerusu.com/your_client_side_state_is_a_lie.html) ([Lobsters](https://lobste.rs/s/69qu6p/your_client_side_state_is_lie))
 - [WTF is code extraction (2023)](https://www.youtube.com/watch?v=taWdpJmaQZA)
 - [Rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based web bundler. ([Web](https://www.rspack.dev/))
+- [Weird web pages (2023)](https://blog.erlend.sh/weird-web-pages)
