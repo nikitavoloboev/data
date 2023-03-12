@@ -12,7 +12,7 @@ It's a lightweight variation of [YNAB methodology](https://www.youneedabudget.co
 
 It would also be nice to automate moving money from main account to good ETFs. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets ([good ETFs](investing.md#Interesting-ETFs) being the safest investment).
 
-[Mercury](https://mercury.com/) & [Column](https://news.ycombinator.com/item?id=31109170) are great company banks.
+[Mercury](https://mercury.com/), [Column](https://news.ycombinator.com/item?id=31109170) or [Wise](https://wise.com/) are great company banks.
 
 I found [Stripe Payment Links](https://stripe.com/en-nz/payments/payment-links) to process online payments to have nice DX but their [pricing is insane compared to alternatives](https://news.ycombinator.com/item?id=34609182) so avoid Stripe now in favor of [Adyen](https://www.adyen.com/).
 
@@ -268,3 +268,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Ask HN: HN for Finance? (2023)](https://news.ycombinator.com/item?id=34706550)
 - [Money Laundering and AML Compliance (2023)](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/) ([HN](https://news.ycombinator.com/item?id=34743896))
 - [pdoc](https://github.com/OliverEvans96/pdoc) - Command-line invoice / receipt generator, which stores user/client/project info as YAML files, and produces PDFs.
+- [Ask HN: What US bank post-SVB would you recommend? (2023)](https://news.ycombinator.com/item?id=35118725)
