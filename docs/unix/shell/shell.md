@@ -292,3 +292,4 @@ All active variables can be seen by running `env`.
 - [Shells are Two Things](https://borretti.me/article/shells-are-two-things) ([Lobsters](https://lobste.rs/s/sqtnxf/shells_are_two_things))
 - [Ask HN: Are alternative (oil, nu, etc.) shells usable as daily drivers? (2023)](https://news.ycombinator.com/item?id=34722208)
 - [Shellclear](https://github.com/rusty-ferris-club/shellclear) - Secure shell history commands by finding sensitive data.
+- [Write Posix Shell (2023)](https://j3s.sh/thought/write-posix-shell.html) ([HN](https://news.ycombinator.com/item?id=35108822)) ([Lobsters](https://lobste.rs/s/k4z2qf/write_posix_shell))
