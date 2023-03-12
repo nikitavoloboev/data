@@ -180,6 +180,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [Pipper](https://github.com/curzel-it/pipper) - App that allows users to keep a webview always visible on their screen, on top of other windows.
 - [Samra](https://github.com/SerenaKit/Samra) - Proper, full-fledged native Asset Catalog explorer & editor for macOS.
+- [Person Segmentation](https://github.com/fabio914/PersonSegmentationMacOS) - macOS app that applies Apple's Person Segmentation algorithm to a video.
 
 ## Other interesting apps
 

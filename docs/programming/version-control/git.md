@@ -14,6 +14,8 @@ Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with 
 
 [WASM Git](https://github.com/petersalomonsen/wasm-git) is great if you want to run git in the browser.
 
+[Dolt](https://github.com/dolthub/dolt) seems interesting for version controlling data.
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.

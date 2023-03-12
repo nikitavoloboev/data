@@ -510,3 +510,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Taichi NeRFs](https://github.com/taichi-dev/taichi-nerfs) - PyTorch + Taichi implementation of instant-ngp NeRF training pipeline.
 - [Cutscenes](https://www.cutscenes.io/) - Create beautiful product videos.
 - [Chat Downloader](https://github.com/xenova/chat-downloader) - Simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed.
+- [Ask HN: What are some of the most interesting YouTube channels to follow? (2023)](https://news.ycombinator.com/item?id=35120777)

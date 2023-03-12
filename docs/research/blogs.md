@@ -377,6 +377,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Max Halford](https://maxhalford.github.io/)
 - [Javier Coto](https://hondu.co/)
 - [Andy Hippo](https://werat.dev/posts/)
+- [Dominik Braun](https://dominikbraun.io/blog/)
 
 ## Notes
 

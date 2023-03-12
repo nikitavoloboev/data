@@ -8,6 +8,8 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 
 [Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs. [Step CI](https://github.com/stepci/stepci) seems nice for automated API testing.
 
+Looking into adopting [Grafbase](../networking/graphql/grafbase.md) for making new API endpoints fast.
+
 ## Other
 
 - [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli)) ([Node](https://github.com/openai/openai-node)) ([Rust](https://github.com/deontologician/openai-api-rust))

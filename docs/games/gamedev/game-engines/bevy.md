@@ -114,3 +114,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [bevy-rust-gpu](https://github.com/Bevy-Rust-GPU/bevy-rust-gpu) - Bevy plugin for hot-building and hot-reloading rust-gpu shaders.
 - [Bevy 0.10 (2023)](https://bevyengine.org/news/bevy-0-10/) ([HN](https://news.ycombinator.com/item?id=35045224))
 - [Bevy YOLECK](https://github.com/idanarye/bevy-yoleck) - Crate for having a game built with the Bevy game engine act as its own level editor.
+- [Warbler Grass](https://github.com/EmiOnGit/warbler_grass) - Bevy plugin for creating 3D grass in your game.

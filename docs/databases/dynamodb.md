@@ -6,6 +6,8 @@ title: DynamoDB
 
 [NoSQL Data Modeling with Amazon DynamoDB](https://www.youtube.com/watch?v=h7mH2Bxkc6k) is good intro talk. [DonutDB](https://github.com/psanford/donutdb) looks nice.
 
+[Grafbase](../networking/graphql/grafbase.md) is nice tool that builds on top of DynamoDB but exposes a [GraphQL](../networking/graphql/graphql.md) interface.
+
 ## OSS DynamoDB apps
 
 - [DynamoDB Instagram](https://github.com/alexdebrie/dynamodb-instagram)

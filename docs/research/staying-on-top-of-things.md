@@ -294,3 +294,4 @@ And these Discord servers:
 - [Ask HN: Do you subscribe to print magazines anymore? (2023)](https://news.ycombinator.com/item?id=34670619)
 - [Ask HN: How do you deal with information and internet addiction? (2023)](https://news.ycombinator.com/item?id=34710830)
 - [Ask HN: Where to have good discussions online? (2023)](https://news.ycombinator.com/item?id=34909082)
+- [Ask HN: More magazines like Quanta and Noema? (2023)](https://news.ycombinator.com/item?id=35114679)

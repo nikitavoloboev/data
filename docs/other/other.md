@@ -772,3 +772,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Rumba](https://github.com/mdn/rumba) - MDN's new back-end.
 - [How I work](https://formaat.notion.site/How-I-work-e352aa3c8d334c3a8c3d1f3c0f08c61c)
 - [Pisano](https://github.com/JonasKruckenberg/pisano) - Explore interesting Pisano Period visualisations.
+- [Liikennematto](https://github.com/klemola/liikennematto) - Small scale traffic simulation with a playful approach.

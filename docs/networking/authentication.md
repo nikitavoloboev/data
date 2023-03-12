@@ -1,6 +1,6 @@
 # Authentication
 
-[Clerk](https://clerk.dev/), [SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/), [Logto](https://github.com/logto-io/logto) & [ORY Hydra](https://github.com/ory/hydra) seem neat.
+[Oso](https://github.com/osohq/oso), [Clerk](https://clerk.dev/), [SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/), [Logto](https://github.com/logto-io/logto) & [ORY Hydra](https://github.com/ory/hydra) seem neat.
 
 [GoTrue](https://github.com/netlify/gotrue) is nice for generating SWT tokens.
 

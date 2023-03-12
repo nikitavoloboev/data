@@ -164,3 +164,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training (including pre-training and fine-tuning) for Big Models.
 - [CIFAR10 hyperlightspeedbench](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record.
 - [Transformers.js](https://github.com/xenova/transformers.js) - Run Transformers in your browser.
+- [ailia SDK](https://github.com/axinc-ai/ailia-sdk) - Cross-platform high speed inference SDK.

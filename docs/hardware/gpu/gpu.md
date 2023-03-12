@@ -148,3 +148,4 @@ title: GPU
 - [GPU Tester](https://github.com/rom1504/gpu-tester) - Detects broken and slow GPUs in a cluster.
 - [NVIDIA Cloud Native Stack](https://github.com/NVIDIA/cloud-native-stack) - Run cloud native workloads on NVIDIA GPUs.
 - [GPU-backed User Interfaces (2023)](https://digest.browsertech.com/archive/gpu-backed-user-interfaces/)
+- [GPU-Initiated On-Demand High-Throughput Storage Access in the BaM System Architecture](https://github.com/ZaidQureshi/bam)

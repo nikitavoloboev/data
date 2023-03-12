@@ -109,3 +109,4 @@
 - [Lingva Scraper](https://github.com/thedaviddelta/lingva-scraper) - Google Translate scraper for Lingva Translate.
 - [codespell](https://github.com/codespell-project/codespell) - Check code for common misspellings.
 - [libenchant](https://github.com/AbiWord/enchant) - Generic C++ spell checking library.
+- [OpenAI Translator](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.

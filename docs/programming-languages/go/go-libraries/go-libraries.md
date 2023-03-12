@@ -2101,6 +2101,9 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [openai-go](https://github.com/rakyll/openai-go) - Go client libraries for OpenAI APIs.
 - [changelog](https://github.com/parkr/changelog) - Parse markdown-esque changelogs (like our example), parse out versions, sections, changes & references.
 - [FastURL](https://github.com/ImVexed/fasturl) - Go URL parser using a Ragel state-machine.
+- [go-logger](https://github.com/savsgio/go-logger) - Fast, lightweight, customizable and structured logger for Go.
+- [gotils](https://github.com/savsgio/gotils) - Go utilities to make your life easier with zero allocations.
+- [Go-DateParser](https://github.com/markusmobius/go-dateparser) - Easily parse localized dates in almost any string formats commonly found on web pages.
 
 ## Links
 

@@ -574,6 +574,7 @@
 - [Game Loop](https://github.com/tuzz/game-loop) - Rust crate that implements a frame-rate-independent game loop.
 - [Bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees.
 - [Micro Jam Engine](https://github.com/AngelOnFira/micro-jam-engine)
+- [Rust for Playdate](https://github.com/pd-rs/crankstart)
 
 ## GraphQL
 
@@ -2745,6 +2746,10 @@
 - [Overlord](https://github.com/nervosnetwork/overlord) - Consensus protocol that decouple the consensus process from the execution process.
 - [thin-vec](https://github.com/Gankra/thin-vec) - Vec that stores its length and capacity inline, making it take up less space.
 - [default-net](https://github.com/shellrow/default-net) - Cross-platform library for network interface and gateway.
+- [rav1d](https://github.com/memorysafety/rav1d) - AV1 decoder in Rust.
+- [include_bytes_zstd](https://github.com/daac-tools/include-bytes-zstd) - Includes a file with zstd compression in Rust.
+- [deriving_via](https://github.com/LoliGothick/deriving_via) - More convenient version of derive_more for newtype pattern.
+- [installed](https://github.com/lyricwulf/installed-rs) - Get a list of installed software for runtime use.
 
 ## Cargo Plugins
 

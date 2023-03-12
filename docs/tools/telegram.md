@@ -173,6 +173,7 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [FoxBot](https://github.com/Syfaro/foxbot) - Telegram bot for easily collecting furry images from multiple sites.
 - [JsonBot](https://github.com/SpEcHiDe/JsonBot) - Bot to Display telegram-bot-api JSON of all sent messages.
 - [Django Telegram Bot](https://github.com/ohld/django-telegram-bot) - Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template.
+- [Stable Diffusion Telegram Bot](https://github.com/SASUKE40/sd-telegram-bot)
 
 ## Notes
 

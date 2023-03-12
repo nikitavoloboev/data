@@ -35,6 +35,7 @@
 - [Integrant](https://github.com/weavejester/integrant) - Clojure (and ClojureScript) micro-framework for building applications with data-driven architecture.
 - [http-server](https://github.com/babashka/http-server) - Serve static assets.
 - [shadow-css](https://github.com/thheller/shadow-css) - CSS-in-Clojure(Script).
+- [Martian](https://github.com/oliyh/martian) - HTTP abstraction library for Clojure/script, supporting OpenAPI, Swagger, Schema, re-frame and more.
 
 ## DB
 

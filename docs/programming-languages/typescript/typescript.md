@@ -323,6 +323,7 @@ Run/deploy TS with [Deno](../../web/deno.md)/[Bun](../javascript/bun.md).
 - [I Made These TypeScript Mistakes For Years (2023)](https://www.youtube.com/watch?v=Xl02L1jy53c)
 - [Ezno](https://github.com/kaleidawave/ezno) - JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance.
 - [ArkType](https://github.com/arktypeio/arktype) - Isomorphic types for TS/JS. ([Web](https://arktype.io/))
+- [TypeScripting the Technical Interview (2023)](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html) ([HN](https://news.ycombinator.com/item?id=35120084))
 
 ## Images
 

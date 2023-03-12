@@ -702,3 +702,4 @@ title: Linux
 - [Rethinking splice() (2023)](https://lwn.net/Articles/923237/) ([HN](https://news.ycombinator.com/item?id=35005022))
 - [ARM64 Linux Workstation (2023)](https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/) ([HN](https://news.ycombinator.com/item?id=35014677))
 - [The Quest for Netflix on Asahi Linux (2023)](https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html) ([Lobsters](https://lobste.rs/s/oajyfi/quest_for_netflix_on_asahi_linux)) ([HN](https://news.ycombinator.com/item?id=35081510))
+- [OpenTelemetry eBPF](https://github.com/open-telemetry/opentelemetry-ebpf)

@@ -225,3 +225,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Michael Whittaker's Paper Summaries](https://mwhittaker.github.io/papers/) ([Code](https://github.com/mwhittaker/papers))
 - [ResearchGPT](https://github.com/mukulpatnaik/researchgpt) - Open-source LLM based research assistant that allows you to have a conversation with a research paper.
 - [Zotero API client](https://github.com/tnajdek/zotero-api-client) - Lightweight, minimalist Zotero API client written in JavaScript.
+- [comparxiv](https://github.com/temken/comparxiv) - Compare two version of an arXiv preprint with a single command.

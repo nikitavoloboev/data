@@ -6,7 +6,7 @@ title: ChatGPT
 
 [What Is ChatGPT Doing](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/), [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) & [How ChatGPT is Trained](https://www.youtube.com/watch?v=VPRSBzXzavo) are great overviews of how it works.
 
-I use [MacGPT](https://goodsnooze.gumroad.com/l/menugpt) to access ChatGPT from mac. On iOS I want to deploy [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) but didn't yet.
+I use [ChatGPT desktop app](https://goodsnooze.gumroad.com/l/menugpt) to access ChatGPT from mac. On iOS I want to deploy [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) but didn't yet.
 
 [NanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
 
@@ -186,3 +186,5 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [OpenAI ChatGPT Code Review](https://github.com/adshao/chatgpt-code-review-action) - GitHub Action that uses OpenAI ChatGPT to analyze code in pull request comments.
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (2023)](https://arxiv.org/abs/2303.04671) ([Code](https://github.com/microsoft/visual-chatgpt)) ([Tweet](https://twitter.com/mathemagic1an/status/1634085179739475968)) ([HN](https://news.ycombinator.com/item?id=35090163))
 - [TypingMind](https://www.typingmind.com/) - Better UI for ChatGPT.
+- [Useful ChatGPT prompts](https://github.com/carterleffen/chatgpt-prompts)
+- [Zero-Shot Information Extraction via Chatting with ChatGPT (2023)](https://arxiv.org/abs/2302.10205) ([Code](https://github.com/cocacola-lab/ChatIE))

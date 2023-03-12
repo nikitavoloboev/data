@@ -888,4 +888,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Fork of Facebook’s LLaMa model to run on CPU](https://github.com/markasoftware/llama-cpu) ([HN](https://news.ycombinator.com/item?id=35065796))
 - [Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp (2023)](https://til.simonwillison.net/llms/llama-7b-m2)
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++, with Apple Silicon support. ([HN](https://news.ycombinator.com/item?id=35100086))
-- [Large language models are having their Stable Diffusion moment right now (2023)](https://simonwillison.net/2023/Mar/11/llama/)
+- [Large language models are having their Stable Diffusion moment right now (2023)](https://simonwillison.net/2023/Mar/11/llama/) ([HN](https://news.ycombinator.com/item?id=35111646))
+- [Vaporetto](https://github.com/daac-tools/vaporetto) - Fast and lightweight pointwise prediction-based tokenizer.
+- [Using LLaMA with M1 Mac (2023)](https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/) ([HN](https://news.ycombinator.com/item?id=35122689))

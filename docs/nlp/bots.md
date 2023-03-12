@@ -58,3 +58,5 @@
 - [Urban Bot](https://github.com/urban-bot/urban-bot) - Universal chat bot library based on React.
 - [ChatBotKit](https://chatbotkit.com/) - Simplest way to build advanced AI chat bots.
 - [Typebot](https://typebot.io/) - Open-source conversational apps builder. ([Code](https://github.com/baptisteArno/typebot.io)) ([HN](https://news.ycombinator.com/item?id=30811499))
+- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - Create both specialized and general purpose chatbots for various applications.
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - Simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
