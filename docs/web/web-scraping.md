@@ -249,3 +249,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Cloudflare Scrape](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass Cloudflare's anti-bot page.
 - [page-fetch](https://github.com/detectify/page-fetch) - Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files.
 - [Crul](https://www.crul.com/) - Query Any Webpage or API. ([HN](https://news.ycombinator.com/item?id=34970917))
+- [WikiScrape](https://scrape.wiki/) - Download Wikipedia pages as beautiful text files.

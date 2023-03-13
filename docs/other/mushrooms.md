@@ -2,13 +2,15 @@
 
 [Mycelium](https://www.micropia.nl/en/discover/microbiology/mycelium/) is [fascinating](https://www.youtube.com/watch?v=Pm1FgFFzQd4).
 
-I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionaly](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
+I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionally](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
 
 Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [Grow Kit](https://mycopunks.com/products/beginner-fruit-in-the-bag-mushroom-grow-kit).
 
+Using [this guide](https://www.shroomery.org/forums/showflat.php/Number/24420178).
+
 [Uncle Ben Tek](https://www.reddit.com/r/shrooms/comments/dbzy8e/uncle_ben_tek_aka_spiderman_tek_full_instructions/) combined with [this method](https://www.shroomery.org/forums/showflat.php/Number/25274461/fpart/all/vc/1) is nice too.
 
-[Mushroom Growers](https://www.reddit.com/r/MushroomGrowers/) is great sub to read.
+[Mushroom Growers](https://www.reddit.com/r/MushroomGrowers/) & [90 Second Mycology](https://www.youtube.com/@90SecondMycology) are great to study.
 
 ## Interesting
 
@@ -21,6 +23,7 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 ## Notes
 
 - [We think of mushrooms as being "the fungus" but really a mushroom is just a temporary structure that the fungus, which a network of hyphae buried in the substrate, builds to disperse its spores. They're like a protrusion from an unseen world into ours.](https://twitter.com/NotBrunoAgain/status/1520055622997270534)
+- Well worth getting a pressure cooker and getting into making own substrate/grain for mushrooms. Check out ['Easy As Fuk tek'](https://www.shroomery.org/13986/Simplified-Cultivation-Methods-Easy-As-Fuck-link-list-Trusted-Culvator-links-and-methods-and-other-cultivation-info) for an easy starter.
 
 ## Links
 
@@ -90,3 +93,7 @@ Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [
 - [Mushroom Grow Kits: A Complete Buyer's Guide](https://grocycle.com/mushroom-grow-kits/)
 - [A Complete Guide to Mushroom Substrates](https://grocycle.com/mushroom-substrate/)
 - [Clean spawn checklist for the new grower](https://www.shroomery.org/forums/showflat.php/Number/27187543)
+- [Growing Psilocybe Cubensis: Guide + Flow Chart](https://www.shroomery.org/forums/showflat.php/Number/24420178)
+- [Simplified Cultivation Methods, Easy As Fuck link list, Trusted Culvator links and methods and other cultivation info](https://www.shroomery.org/13986/Simplified-Cultivation-Methods-Easy-As-Fuck-link-list-Trusted-Culvator-links-and-methods-and-other-cultivation-info)
+- [Uncle Bens Reddit](https://www.reddit.com/r/unclebens/) - Technique, a simple and beginner-friendly method for cultivating mushrooms without a pressure cooker.
+- [Cylocybe](https://cylocybe.co.uk/) - UK Mushroom Growing Kits and Magic Spores for Research.

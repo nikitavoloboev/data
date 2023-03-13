@@ -334,3 +334,4 @@
 - [Project Goobii](https://projectgoobii.com/) - Former game devs building a platform showcasing game projects. ([HN](https://news.ycombinator.com/item?id=34962820))
 - [Game Asset Storage, Loading, Compression and Caching (2023)](https://ph3at.github.io/posts/Asset-Compression/)
 - [Creating Isometric RPG Game Backgrounds (2023)](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds) ([HN](https://news.ycombinator.com/item?id=34989407))
+- [Ask HN: Any solo game developers here? (2023)](https://news.ycombinator.com/item?id=35134805)

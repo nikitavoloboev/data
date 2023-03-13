@@ -1,6 +1,6 @@
 # Neuroscience
 
-[Computational Neuroscience course](https://compneuro.neuromatch.io/tutorials/intro.html) & [xcorr notebooks](https://xcorr.net/) are great.
+[Introduction to Neuroscience](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR), [Computational Neuroscience course](https://compneuro.neuromatch.io/tutorials/intro.html) & [xcorr notebooks](https://xcorr.net/) are great.
 
 The way our brains take input from different senses (eyes, touch) and then decide how to act on the signals is pretty wild. You can [trick the brain easily too this way](https://twitter.com/Imposter_Edits/status/1528888787388223488).
 
@@ -169,6 +169,7 @@ Love [Alain Chedotal](https://twitter.com/AlainChedotal)'s research.
 - [FreeSurfer](https://github.com/Deep-MI/FastSurfer) - Fast and accurate deep-learning based neuroimaging pipeline.
 - [Deep MI Lab](https://deep-mi.org/) ([GitHub](https://github.com/Deep-MI))
 - [RatInABox](https://github.com/TomGeorge1234/RatInABox) - Python package for modelling locomotion in complex environments and spatially/velocity selective cell activity.
+- [Introduction to Neuroscience (2023)](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)
 
 ## Images
 

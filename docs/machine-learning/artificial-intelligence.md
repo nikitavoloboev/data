@@ -12,6 +12,8 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 
 [Hugging Face](https://huggingface.co/) has amazing community focused on sharing [ml models](ml-models.md) with community.
 
+[OpenAI](https://openai.com/) & [Anthropic](https://www.anthropic.com/) do interesting research.
+
 ## Notes
 
 - [We will all soon stop emphasizing something was created using AI and we will just focus on creating.](https://twitter.com/c_valenzuelab/status/1599158969771393024)

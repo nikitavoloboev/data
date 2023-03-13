@@ -4,6 +4,8 @@ One of my bigger passions in life is being able to do more with less. [Life is s
 
 In spirit of maximizing outcomes, I want more amazing, kind and happy humans all around the globe and I want to do my part in making a dent on the world. My workflow below is what makes me move faster in life, I hope it helps/inspires you too in some way. ♥️
 
+This is an extension of [everything I know](everything-I-know.md).
+
 ## Life
 
 - [Rules](../focusing/rules.md) - Lessons learned encoded as rules.
@@ -12,11 +14,10 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Code
 
-- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Write mostly Go & TS.
-- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - Edit markdown (wiki, articles).
-- [Vim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config with it.
+- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor for code. 
+- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - Editing wiki mostly in combination with [Obsidan](../tools/obsidian.md). 
 - [Xcode](../macOS/apps/xcode/xcode.md) - Swift/SwiftUI.
-- [Dash](https://kapeli.com/dash) to search docs.
+- [Dash](https://kapeli.com/dash) - Search docs.
 
 ## Tasks
 
@@ -81,15 +82,14 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Tech
 
-- Static sites (landing pages) / Blogs - [Solid](../programming-languages/javascript/js-libraries/solid.md)
-- Web Apps - [Solid](../programming-languages/javascript/js-libraries/solid.md)
-- Server APIs - [Go](../programming-languages/go/go.md). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/) or on [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) with [Hono](https://github.com/honojs/hono).
-- Scripts & CLI tools - [Deno](../web/deno.md) or [Go](../programming-languages/go/go.md)
-- Database - [SQLite](../databases/sqlite.md) or [Postgres](../databases/postgresql.md). Use [Prisma](../databases/prisma.md) for queries. [EdgeDB](../databases/edgedb.md) is amazing too.
-- GraphQL - [GraphJin](https://github.com/dosco/graphjin) or [Graphile Starter](https://github.com/graphile/starter)
-- Auth (SSO, 2FA) - [Firebase Auth](https://firebase.google.com/docs/auth) if I use Firebase. Otherwise User table modeled well.
-- iOS/macOS apps - [Swift](../programming-languages/swift/swift.md)/[SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md). Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
-- Docs - [Docusaurus](../tools/docusaurus.md)
+- Static sites / Docs / Web Apps - [Solid](../programming-languages/javascript/js-libraries/solid.md)
+- HTTP APIs - [Hono](https://github.com/honojs/hono) deployed on [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md). Or [Go](../programming-languages/go/go.md)/[Rust](../programming-languages/rust/rust.md) packaged as [Docker container](../operating-systems/containers/docker.md) with [Nix](../package-managers/nix/nix.md). Deployed on [Cloud Run](https://cloud.google.com/run/) or [Fly.io](../cloud-computing/fly-io.md) or own hardware with [Hetzner](https://www.hetzner.com/).
+-  CLI/scripts - [TS](../programming-languages/typescript/typescript.md) ran with [Bun](../programming-languages/javascript/bun.md). Or [Go](../programming-languages/go/go.md)/[Rust](../programming-languages/rust/rust.md).
+- DB - [Grafbase](../networking/graphql/grafbase.md) preferred for ease of use. [SQLite](../databases/sqlite.md) for local DB in desktop apps. [Postgres](../databases/postgresql.md)/[PlanetScale](../databases/planetscale.md) are nice too combined with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) or [Prisma](../databases/prisma.md). [EdgeDB](../databases/edgedb.md) is great as well.
+- Auth (SSO, 2FA) - GitHub/Google single sign on auth preferred.
+- iOS - [Swift](../programming-languages/swift/swift.md)/[SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md). Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
+- Desktop - [Tauri](../programming-languages/rust/rust-libraries/tauri.md) that wraps over [Solid](../programming-languages/javascript/js-libraries/solid.md) web app.
+- Docs - [Docusaurus](../tools/docusaurus.md) or [VitePress](https://vitepress.dev/)
 
 ## Project tools
 
@@ -104,8 +104,8 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Cloud Compute
 
-- [Cloudflare Workers](https://workers.cloudflare.com/) preferred for APIs. [Fly](https://fly.io/) & [Railway](https://railway.app/) are nice too.
-- For serving websites, [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) are great. I try use [Cloudflare Pages](https://pages.cloudflare.com/) as my API is on Cloudflare Workers already.
+- [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) preferred for APIs. [Fly](https://fly.io/) & [Railway](https://railway.app/) are nice too.
+- For serving websites, [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) are great. Also looking into [Cloudflare Pages](https://pages.cloudflare.com/) as my API is on Cloudflare Workers already.
 - [AWS](../cloud-computing/aws/aws.md)/[GCP](../cloud-computing/gcp/gcp.md) have some niche useful services I use too.
 
 ## Utility
@@ -114,9 +114,8 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Solid
 
-- State - [createSignal](https://www.solidjs.com/docs/latest/api) & [Effector](../programming-languages/typescript/typescript-libraries/effector.md) for complex state.
+- State - [createSignal](https://www.solidjs.com/docs/latest/api) & [Nano Store](https://github.com/nanostores/solid).
 - Queries - [Solid Query](https://tanstack.com/query/v4/docs/adapters/solid-query)
-- GraphQL - [Urql](https://github.com/tqwewe/solid-urql)
 
 ## Web
 
@@ -142,5 +141,5 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Other
 
-- Format code automatically. [dprint](https://dprint.dev/) for JS/TS/CSS/HTML/MD. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift.
-- Forms: Write in code. [Reform](https://www.reform.app/) looks nice.
+- Format all code automatically. [Prettier](https://prettier.io) for most things. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift. 
+- Forms: Write in code. [Reform](https://www.reform.app/) seems nice too.

@@ -893,3 +893,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Using LLaMA with M1 Mac (2023)](https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/) ([HN](https://news.ycombinator.com/item?id=35122689))
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/) - Automatically install, run, and play with LLaMA on your computer. ([HN](https://news.ycombinator.com/item?id=35127020)) ([Code](https://github.com/cocktailpeanut/dalai))
 - [What is Temperature in NLP? (2021)](https://lukesalamone.github.io/posts/what-is-temperature/) ([HN](https://news.ycombinator.com/item?id=35131112))
+- [FLAN Instruction Tuning](https://github.com/google-research/FLAN)
+- [Minimal LLaMA](https://github.com/zphang/minimal-llama)
+- [ALLaMo](https://github.com/chrisociepa/allamo) - Simple, hackable and fast implementation for training/finetuning medium-sized LLaMA-based models.
+- [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-following LLaMA model. ([HN](https://news.ycombinator.com/item?id=35139168)) ([Web](https://crfm.stanford.edu/alpaca/)) ([HN](https://news.ycombinator.com/item?id=35139450))

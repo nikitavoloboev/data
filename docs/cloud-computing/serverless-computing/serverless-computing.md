@@ -1,14 +1,12 @@
 # Serverless computing
 
-Use [Fly.io](../fly-io.md) for running [Docker](../../operating-systems/containers/docker.md) containers with [Go](../../programming-languages/go/go.md) or [Rust](../../programming-languages/rust/rust.md).
+I mostly deploy HTTP services with [Cloudflare Workers](cloudflare-workers.md) using [TS](../../programming-languages/typescript/typescript.md)'s [Hono](https://hono.dev/) library.
 
-Also love using [Cloudflare Workers](cloudflare-workers.md) with [Hono](https://hono.dev/) library in [TS](../../programming-languages/typescript/typescript.md).
+I also deploy [Rust](../../programming-languages/rust/rust.md)/[Go](../../programming-languages/go/go.md) services as lean [Docker](../../operating-systems/containers/docker.md) containers packaged with [Nix](../../package-managers/nix/nix.md). Then give it to [Cloud Run](https://cloud.google.com/run) or [Fly.io](../fly-io.md).
 
-[Railway](https://railway.app/), [Google Cloud Run](https://cloud.google.com/run), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) seem nice too.
+[Railway](https://railway.app/) & [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) seem nice too.
 
 [Serverless Application Stack](https://jbrandhorst.com/post/serverless-application-stack/) is nice overview.
-
-[Service Weaver](https://github.com/ServiceWeaver/weaver) seems like a nice way to manage deployed [distributed services](../../distributed-systems/distributed-systems.md).
 
 ## Notes
 

@@ -6,25 +6,26 @@ Especially for supplements or extra nutritional powders outlined above, I make s
 
 [Foundations of Physical and Mental Performance](https://tim.blog/2023/03/08/dr-andrew-huberman/) is amazing listen.
 
-Every [morning](../../focusing/processes.md#morning), after I do a [workout](../../fitness/fitness.md), I make a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4) (I should but I don't because I am [poor](https://wiki.nikiv.dev/looking-back/2023/january), so below list is aspirational, boys can dream). I mix:
+Every [morning](../../focusing/processes.md#morning), after I do a [workout](../../fitness/fitness.md), I make a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4) mixing various things like:
 
 - 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
 - 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)
 - 1 tea spoon of [Master Blend Mushroom Extracts](https://vibemushrooms.ca/products/master-blend)
-- 1 scoop of [Creatine](https://nootropicsdepot.com/creatine-monohydrate-200-mesh-powder/) (~ 5g)
+- 1 scoop of [Creatine](https://nootropicsdepot.com/creatine-monohydrate-200-mesh-powder/) (~ 2g)
 - 2 raw eggs
 - Spinach (for extra fiber)
 - Frozen blueberries (for better taste + healthy)
-- Plain greek yugurt (for texture)
+- Plain greek yogurt (for texture)
 - Fill with [Alpro Unsweetened Almond Milk](https://www.alpro.com/uk/products/drinks/almond-drinks/almond-roasted-no-sugars/) (fill the blender glass)
 - Chia, hemp and flax seeds with walnuts on top (not much)
 
+Many times I miss doing this blend either as I am either traveling or [saving money](https://wiki.nikiv.dev/looking-back/2023/january).
+
 After drinking the smoothie, I also take these supplements, inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/):
 
-- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (3 capsules)
-- [Vitamin D3 + K2 + C](https://nootropicsdepot.com/vitamin-d3-k2-c-supplement/) (1 capsule)
-- [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule morning & 2 before sleep)
-- [B12 Sublingual](https://nootropicsdepot.com/super-b12-sublingual-solution/) (0.5mL drop)
+- [Vegan Omega 3 DHA](https://www.solgar.com/products/omega-3-vegetarian-dha-200-mg-vegetarian-softgels/) (3 capsules)
+- [D3 + Calcium/Magnesium](https://www.solgar.com/products/calcium-magnesium-with-vitamin-d3-tablets/) (5 capsules)
+- [B12](https://www.solgar.com/products/vitamin-b12-1000-mcg-nuggets/) (1 capsule)
 
 That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out ([healthy](nutrition.md)).
 
@@ -115,3 +116,6 @@ Some maybe interesting supplements. Some I tried but stopped.
 - [Top 5 supplements/vitamins/minerals (2022)](https://www.reddit.com/r/Biohackers/comments/zy989v/top_5_supplementsvitaminsmineralsnootripics/)
 - [Ask HN: What supplements do you take that have good scientific backing? (2023)](https://news.ycombinator.com/item?id=34315926)
 - [Blueprint supplements organized into their primary purpose](https://www.reddit.com/r/blueprint_/comments/10mtrhf/blueprint_supplements_organized_into_their/)
+- [Vitamin D Supplements Probably Won't Prevent Mental Illness After All (2023)](https://www.scientificamerican.com/article/vitamin-d-supplements-probably-wont-prevent-mental-illness-after-all/)
+- [Flaxseed vs Fish Oil - Which Is Better?](https://www.youtube.com/watch?v=KO6fE4JMY_0)
+- [Omega3: Fish vs Algae Oils](https://www.youtube.com/watch?v=FoP9tN8bVUg)

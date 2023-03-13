@@ -366,6 +366,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Sonner](https://github.com/emilkowalski/sonner) - Opinionated toast component for React.
 - [suspense](https://github.com/bvaughn/suspense) - APIs to simplify data loading and caching. Primarily intended for use with React Suspense.
 - [MorpherX](https://github.com/Kelin2025/morphling) - Morphing animations with ease.
+- [React Image Crop](https://github.com/DominicTobias/react-image-crop) - Image cropping tool for React with no dependencies.
 
 ## Links
 

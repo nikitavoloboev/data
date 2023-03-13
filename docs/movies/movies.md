@@ -206,3 +206,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Movies where the protagonist realizes he's not the good guy at the end? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/11kt0q6/movies_where_the_protagonist_realizes_hes_not_the/)
 - [What is the weirdest movie you've seen? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/11myg46/what_is_the_weirdest_movie_youve_seen/)
 - [Official Oscars Discussion Thread 2023](https://www.reddit.com/r/movies/comments/11ptyw2/official_oscars_discussion_thread_2023/) ([Reddit](https://www.reddit.com/r/movies/comments/11pz0i9/rmovies_oscars_2023_official_postgame_thread/))
+- [My ten favorite movies of 2022](https://www.slowboring.com/p/my-ten-favorite-movies-of-2022)

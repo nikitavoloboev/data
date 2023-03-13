@@ -269,3 +269,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Nannou](https://nannou.cc/) - Open-source creative-coding framework for Rust. ([HN](https://news.ycombinator.com/item?id=35027543))
 - [Watercolor](https://github.com/0xOlias/watercolor) - Dev server for artblocks-compatible projects using p5.
 - [Performant 2D strange attractors plotter](https://github.com/piellardj/strange-attractors-webgl)
+- [Tristan's Digital Art](https://github.com/TristanCacqueray/demo-render)

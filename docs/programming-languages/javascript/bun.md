@@ -4,13 +4,15 @@ title: Bun
 
 # [Bun](https://bun.sh/)
 
-[Elysia](https://github.com/elysiajs/elysia) is nice web framework.
-
-Prefer using Bun for running all my [TS](../typescript/typescript.md) code.
+Use Bun for running all my [TS](../typescript/typescript.md) code.
 
 [Deno](../../web/deno.md) has interesting ideas too.
 
-I never use [Node](../../web/nodejs/nodejs.md) now as Bun is simply faster and has nicer dev on ramp if I want to contribute.
+I never use [Node](../../web/nodejs/nodejs.md) now as Bun is faster and has nicer dev on ramp if I want to contribute.
+
+[Bun Docs](https://bun.sh/docs) are great. I love using [bunx](https://bun.sh/docs/cli/bunx) for running binaries without installing first.
+
+[Elysia](https://github.com/elysiajs/elysia) is nice web framework although I prefer [Hono](https://hono.dev/).
 
 ## Links
 

@@ -433,3 +433,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Joe Duffy - Blogging about Midori (2015)](https://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 - [Building a Minimalistic Virtual Machine (2023)](https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/) ([HN](https://news.ycombinator.com/item?id=34936729)) ([Lobsters](https://lobste.rs/s/hc7bk7/building_minimalistic_virtual_machine))
 - [vmtest](https://github.com/danobi/vmtest) - Helps run your tests in a virtual machine.
+- [Let's Go OS](https://github.com/SanseroGames/LetsGo-OS) - Operating system written in Go.

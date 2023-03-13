@@ -199,3 +199,4 @@
 - [My review of the C standard library in practice (2023)](https://nullprogram.com/blog/2023/02/11/) ([HN](https://news.ycombinator.com/item?id=34752400)) ([Lobsters](https://lobste.rs/s/v9luyg/review_c_standard_library_practice)) ([HN](https://news.ycombinator.com/item?id=34749724))
 - [Bunki](https://github.com/Keith-Cancel/Bunki) - Simple C cororoutine library.
 - [json.c](https://github.com/tidwall/json.c) - Fast little JSON library for C.
+- [STR](https://github.com/mickjc750/str) - C String handling library.

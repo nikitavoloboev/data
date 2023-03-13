@@ -331,3 +331,4 @@ title: HTTP
 - [What is CORS and why is it so annoying](https://www.reddit.com/r/reactjs/comments/11cyejn/what_is_cors_and_why_is_it_so_annoying/)
 - [Tunnelmole](https://github.com/robbie-cahill/tunnelmole-client) - Connect to local servers from anywhere.
 - [Goku](https://github.com/jcaromiq/goku) - HTTP load testing application written in Rust.
+- [Reverse proxy with dynamic backend selection (2023)](https://www.artur-rodrigues.com/tech/2023/03/12/reverse-proxy-with-dynamic-backend-selection.html)

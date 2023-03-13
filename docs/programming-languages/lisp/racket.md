@@ -169,3 +169,4 @@ title: Racket
 - [Regraph](https://github.com/herbie-fp/regraph) - Racket E-graph Library.
 - [Creating minimal language in Racket](https://github.com/Luv2C0d3/funascii)
 - [Racket grammar for tree-sitter](https://github.com/6cdh/tree-sitter-racket)
+- [pdb](https://github.com/greghendershott/pdb) - Multi-file check-syntax database.

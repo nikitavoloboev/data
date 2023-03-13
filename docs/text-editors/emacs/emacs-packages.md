@@ -21,6 +21,7 @@
 - [Auto Activating Snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type.
 - [symex.el](https://github.com/countvajhula/symex.el) - Edit Lisp symbolic expressions ("symexes") as trees in Emacs.
 - [f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs.
+- [Vertico](https://github.com/minad/vertico) - Performant and minimalistic vertical completion UI based on the default completion system.
 
 ## Git
 

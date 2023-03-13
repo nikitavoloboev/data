@@ -125,3 +125,4 @@ title: Assembly
 - [Famicom Party - Making NES Games in Assembly](https://famicom.party/book/)
 - [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78 (2023)](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/) ([HN](https://news.ycombinator.com/item?id=35100297))
 - [The Basics of Arm64 Assembly (2023)](https://www.deusinmachina.net/p/the-basics-of-arm64-assembly) ([HN](https://news.ycombinator.com/item?id=35080786))
+- [ASM.](https://github.com/71/asmdot) - Extensible Python framework for building a fast, zero-copy assembler.

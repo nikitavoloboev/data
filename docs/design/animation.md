@@ -109,3 +109,4 @@ Like using [Rive](rive.md) for making animations.
 - [Motion Canvas](https://github.com/motion-canvas/motion-canvas) - Web-based tool for creating animations programmatically. ([Examples](https://github.com/motion-canvas/examples)) ([Web](https://motion-canvas.github.io/)) ([Video](https://www.youtube.com/watch?v=H5GETOP7ivs)) ([HN](https://news.ycombinator.com/item?id=34897707))
 - [Computational Design of Mechanical Characters](https://la.disneyresearch.com/wp-content/uploads/CDMC1.pdf)
 - [Did We Just Change Animation Forever? (2023)](https://www.youtube.com/watch?v=_9LX9HSQkWo)
+- [GSAP vs. Webflow for Website Animations](https://www.webbae.net/post/gsap-vs-webflow-for-website-animations)

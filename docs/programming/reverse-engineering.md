@@ -138,3 +138,4 @@
 - [Documenting reverse engineering of the original Lytro lightfield camera](https://github.com/ea/lytro_unlock)
 - [Reverse-Engineering YouTube: Revisited (2023)](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited) ([HN](https://news.ycombinator.com/item?id=34653813))
 - [Reverse engineering an e-ink display (2023)](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/) ([HN](https://news.ycombinator.com/item?id=34738649))
+- [BinSync](https://github.com/binsync/binsync) - Collaborative reversing plugin for cross-decompiler collaboration, built on git.

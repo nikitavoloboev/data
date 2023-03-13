@@ -204,3 +204,4 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 - [Shop Minis](https://shop.app/minis) - Build for a new era of mobile commerce.
 - [Hydrogen](https://github.com/Shopify/hydrogen) - Tools, utilities, and best-in-class examples for building a commerce application with Remix.
 - [Nuxt Medusa](https://github.com/Baroshem/nuxt-medusa) - Medusa module for Nuxt.
+- [VTEX](https://vtex.com/us-en/) - Enterprise Digital Commerce Platform. ([OpenAPI Schemas](https://github.com/vtex/openapi-schemas))

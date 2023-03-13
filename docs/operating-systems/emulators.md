@@ -88,3 +88,4 @@
 - [Weird things I learned while writing an x86 emulator (2023)](https://www.timdbg.com/posts/useless-x86-trivia/) ([HN](https://news.ycombinator.com/item?id=34636699))
 - [Simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator.
 - [N64 WASM](https://github.com/nbarkhina/N64Wasm) - Web based N64 Emulator.
+- [Gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust.

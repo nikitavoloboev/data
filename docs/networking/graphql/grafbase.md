@@ -4,6 +4,8 @@ title: Grafbase
 
 # [Grafbase](https://grafbase.com/)
 
+Using it in [LA](https://github.com/learn-anything/learn-anything/).
+
 ## Links
 
 - [Instant serverless GraphQL backends with Grafbase (2022)](https://www.youtube.com/watch?v=JMizhu3ut-M)

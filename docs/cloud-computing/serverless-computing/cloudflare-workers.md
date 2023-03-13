@@ -4,11 +4,13 @@ title: Cloudflare workers
 
 # [Cloudflare workers](https://workers.cloudflare.com/)
 
-Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [Wrangler](https://github.com/cloudflare/wrangler2) & [Miniflare](https://github.com/cloudflare/miniflare) are useful ([nice template for it](https://github.com/mrbbot/miniflare-typescript-esbuild-jest)).
+Use [Hono](https://github.com/honojs/hono) with [Superflare](https://github.com/jplhomer/superflare) to build most of my [APIs](../../api/api.md).
 
-[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)), [Worktop](https://github.com/lukeed/worktop) & [workers Go lib](https://github.com/syumai/workers) ([template](https://github.com/syumai/worker-template-go)) seem like nice web frameworks built on top of Cloudflare workers.
+[Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105) is quite [extensive](https://github.com/cloudflare/wildebeest).
 
-Exploring building fast web apps with [Solid](../../programming-languages/javascript/js-libraries/solid.md), [Hono](https://github.com/honojs/hono) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
+[Wrangler](https://github.com/cloudflare/wrangler2), [Miniflare](https://github.com/cloudflare/miniflare), [Worktop](https://github.com/lukeed/worktop), [Workers Go lib](https://github.com/syumai/workers) (with [template](https://github.com/syumai/worker-template-go)) seem useful.
+
+Trying to build very fast web apps and sites with [Solid](../../programming-languages/javascript/js-libraries/solid.md), [Hono](https://github.com/honojs/hono), [D1](https://news.ycombinator.com/item?id=31339299) together with [Grafbase](../../networking/graphql/grafbase.md) or replicated [SQLite](../../databases/sqlite.md) with [Turso](https://chiselstrike.com/) as more permanent storage with smart caching and [architecture](../../programming/software-architecture/software-architecture.md).
 
 [Wildebeest](https://github.com/cloudflare/wildebeest) is nice demo of using Cloudflare tech for everything.
 
@@ -30,6 +32,8 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare Worker Deadman Switch](https://github.com/dep-sys/cloudflare-worker-deadman-switch) - Sends a notification if your monitor didn't send a HTTP ping for a while.
 - [Qwik app built on top of Cloudflare](https://github.com/cloudflare/wildebeest)
 - [Serverless IMDB API](https://github.com/tuhinpal/imdb-api)
+- [Example Hono API](https://github.com/sergiocarneiro/example-hono-api)
+- [Miniflare Example Project](https://github.com/cloudflare/miniflare-typescript-esbuild-jest)
 
 ## Notes
 
@@ -241,3 +245,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Generating Cloudflare workerd configs with capnproto-rust](https://github.com/KianNH/capnproto-rust-workerd-configs)
 - [Create a full-stack application step by step](https://github.com/yusukebe/cloudflare-pages-step-by-step)
 - [Creating custom embeds with an oEmbed API using Cloudflare Workers (2023)](https://jam.dev/blog/creating-custom-embeds-with-a-serverless-oembed-api-using-cloudflare-workers/)
+- [Superflare](https://github.com/jplhomer/superflare) - Full-stack toolkit for Cloudflare Workers. ([Tweet](https://twitter.com/jplhomer/status/1635289512065798146))

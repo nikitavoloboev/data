@@ -244,6 +244,7 @@
 - [xitca-web](https://github.com/HFQR/xitca-web) - Alternative HTTP library and web framework inspired by hyper.
 - [network-types](https://github.com/vadorovsky/network-types) - Rust structs representing network protocol headers (on Layer 2, 3 and 4).
 - [rate-limits](https://github.com/mre/rate-limits) - Parse HTTP Rate-Limit headers of different vendors.
+- [Touche](https://github.com/reu/touche) - Synchronous HTTP library for Rust.
 
 ## Auth
 
@@ -2756,6 +2757,7 @@
 - [Tydi](https://github.com/abs-tudelft/tydi) - Open specification for complex data structures over hardware streams.
 - [Narrow](https://github.com/mbrobbel/narrow) - Implementation of Apache Arrow.
 - [Pierce](https://github.com/wishawa/pierce) - Avoid double indirection in nested smart pointers.
+- [constant_time_eq](https://github.com/cesarb/constant_time_eq) - Compares two equal-sized byte strings in constant time.
 
 ## Cargo Plugins
 
@@ -3093,3 +3095,4 @@
 - [Reducing code size in librsvg by removing an unnecessary generic struct (2023)](https://viruta.org/reducing-binary-size-generics.html) ([HN](https://news.ycombinator.com/item?id=35028441))
 - [diff.rs](https://diff.rs/) - View a diff between crate versions. ([Code](https://github.com/xfbs/diff.rs))
 - [Rust CI config](https://github.com/jonhoo/rust-ci-conf) - Collection of CI configuration files for Rust projects.
+- [To async trait or just to trait (2023)](http://smallcultfollowing.com/babysteps/blog/2023/03/12/to-async-trait-or-just-to-trait/) ([Reddit](https://www.reddit.com/r/rust/comments/11pxtql/to_async_trait_or_just_to_trait/))

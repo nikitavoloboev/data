@@ -199,3 +199,4 @@
 - [IRIS²: The EU’s Response to Musk’s Starlink (2023)](https://www.reneweuropegroup.eu/news/2023-02-14/iris2-the-eus-response-to-elon-musks-starlink-satellites-project) ([HN](https://news.ycombinator.com/item?id=34855694))
 - [WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery.
 - [Color of the Night Sky](https://clarkvision.com/articles/color.of.the.night.sky/)
+- [Simple orbital mechanics simulation](https://github.com/jBugman/planets)

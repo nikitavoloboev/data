@@ -381,6 +381,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Philip Zucker](https://www.philipzucker.com/)
 - [Brian Anderson](https://brson.github.io/)
 - [Nikita Lisitsa](https://lisyarus.github.io/blog/)
+- [Transformer Circuits Thread](https://transformer-circuits.pub/)
 
 ## Notes
 

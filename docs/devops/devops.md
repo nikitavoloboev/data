@@ -260,3 +260,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Traceo](https://github.com/traceo-dev/traceo) - Simple platform to monitor application performance with error handling.
 - [Chaos](https://github.com/Clivern/Chaos) - Tool can cause a chaos to running servers.
 - [Framework-defined infrastructure (2023)](https://vercel.com/blog/framework-defined-infrastructure)
+- [Featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers.

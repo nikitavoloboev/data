@@ -6,13 +6,13 @@ title: GraphQL
 
 Using [Grafbase](grafbase.md) to setup GraphQL endpoints quickly.
 
-I am still exploring what the best way to do GraphQL queries from [Solid](../../programming-languages/javascript/js-libraries/solid.md).
+I am still exploring what the best way to do GraphQL queries from [Solid](../../programming-languages/javascript/js-libraries/solid.md). Probably it's [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator).
 
 [GraphQL Code Generator](https://graphql.wtf/episodes/67-the-new-graphql-code-generator-client-preset), [GQty](https://github.com/gqty-dev/gqty) or [The Guild Tools](https://the-guild.dev/) seem nice for that. And [Relay](../../programming-languages/javascript/js-libraries/react/relay.md) too.
 
 [Ent Go](../../programming-languages/go/go-libraries/ent.md) and [GraphJin](https://github.com/dosco/graphjin) are interesting tools. [URQL](https://formidable.com/open-source/urql/) is neat GraphQL client too.
 
-[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/), [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [Pothos GraphQL](https://github.com/hayes/pothos) & [garph](https://github.com/stepci/garph) look interesting. 
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/), [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [Pothos GraphQL](https://github.com/hayes/pothos), [garph](https://github.com/stepci/garph) & [Graphile Starter](https://github.com/graphile/starter) look interesting.
 
 [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
 

@@ -269,3 +269,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Money Laundering and AML Compliance (2023)](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/) ([HN](https://news.ycombinator.com/item?id=34743896))
 - [pdoc](https://github.com/OliverEvans96/pdoc) - Command-line invoice / receipt generator, which stores user/client/project info as YAML files, and produces PDFs.
 - [Ask HN: What US bank post-SVB would you recommend? (2023)](https://news.ycombinator.com/item?id=35118725)
+- [The End of Silicon Valley (Bank) (2023)](https://stratechery.com/2023/the-death-of-silicon-valley-bank/) ([HN](https://news.ycombinator.com/item?id=35134608))
+- [Mercury Vault](https://mercury.com/vault) - Simple way to manage bank risk and protect every dollar they deposit. ([How it works](https://twitter.com/immad/status/1635302598831112192))

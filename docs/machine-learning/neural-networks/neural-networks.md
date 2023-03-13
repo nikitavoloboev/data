@@ -4,6 +4,8 @@
 
 [Transformer Neural Networks](https://www.youtube.com/watch?v=XSSTuhyAmnI) are useful to understand. [RASPy](https://github.com/srush/raspy) is a nice tool.
 
+[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) is great read.
+
 ## Notes
 
 - Neural Networks are great identifying patterns in data. As a classic example, if you wanted to predict housing prices, you could build a data set that maps features about houses (square feet, location, proximity to Caltrain, etc) onto their actual price, and then train a network to recognize the complex relationship between features and pricing. Training happens by feeding the network features, letting it make a guess about the price, and then correcting the guess (backpropagation).

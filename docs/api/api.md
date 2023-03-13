@@ -1,14 +1,16 @@
 # API
 
-[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs. [ReadmeIO API](https://github.com/readmeio/api) is great for generating OpenAPI definitions.
+I mostly deploy HTTP services with [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) using [TS](../programming-languages/typescript/typescript.md)'s [Hono](https://hono.dev/) library.
 
-[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks. [tRPC](https://github.com/trpc/trpc) is nice for API access.
+Together with using [Grafbase](../networking/graphql/grafbase.md) for making new [GraphQL](../networking/graphql/graphql.md) endpoints fast.
+
+[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. [Apiker](https://github.com/hodgef/apiker) seems nice for releasing my APIs. [ReadmeIO API](https://github.com/readmeio/api) is great for generating OpenAPI definitions.
+
+[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks. [tRPC](trpc.md) is nice for API access.
 
 Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) on macOS for searching docs.
 
 [Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs. [Step CI](https://github.com/stepci/stepci) seems nice for automated API testing.
-
-Looking into adopting [Grafbase](../networking/graphql/grafbase.md) for making new API endpoints fast.
 
 ## Other
 
