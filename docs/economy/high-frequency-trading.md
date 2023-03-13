@@ -30,3 +30,4 @@
 - [Alphakit](https://github.com/thecolngroup/alphakit) - Framework for developing sound algorithmic trading strategies in the Go language.
 - [Algorithmic Trading: A Practitioner’s Guide (2023)](https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/) ([HN](https://news.ycombinator.com/item?id=34766728))
 - [Algorithmic Trading and DMA: An introduction to direct access trading strategies (2010)](https://www.amazon.co.uk/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207)
+- [PyBroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning. ([HN](https://news.ycombinator.com/item?id=35084227))

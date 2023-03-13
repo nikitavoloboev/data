@@ -1081,3 +1081,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Leveraging Rust and the GPU to render user interfaces at 120 FPS (2023)](https://zed.dev/blog/videogame) ([HN](https://news.ycombinator.com/item?id=35078464)) ([Tweet](https://twitter.com/zeddotdev/status/1633852088433139713))
 - [Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing (2023)](https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust) ([Lobsters](https://lobste.rs/s/mfd2jr/getting_past_ampersand_driven))
 - [Bridging Async and Sync Rust Code - A lesson learned while working with Tokio (2023)](https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust)
+- [Rewriting the CLI in Rust: Was It Worth It? (2023)](https://blog.railway.app/p/rust-cli-rewrite) ([HN](https://news.ycombinator.com/item?id=35110002))

@@ -159,3 +159,4 @@ title: Julia
 - [What's great about Julia? (2022)](https://viralinstruction.com/posts/goodjulia/) ([HN](https://news.ycombinator.com/item?id=33900122))
 - [SciMLWorkshop: Workshop Materials for Training in Scientific Computing and Scientific Machine Learning (SciML)](https://github.com/SciML/SciMLWorkshop.jl)
 - [Data-parallel programming in Julia](https://juliafolds.github.io/data-parallelism/) ([Code](https://github.com/JuliaFolds/data-parallelism))
+- [Julia 1.9 precompilation will be a turning point (2023)](https://news.ycombinator.com/item?id=35106488)

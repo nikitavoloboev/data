@@ -542,3 +542,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Give Me Flexibility and Give Me Types (2023)](https://capitalex.codeberg.page/give-me-flexibility-and-give-me-types/)
 - [Stdout Buffering (2016)](https://eklitzke.org/stdout-buffering)
 - [Architecting Asynchronous Schedulers (2020)](https://slightknack.dev/passerine/schedule/)
+- [Adventures in REPL Implementation (2023)](https://tonsky.me/blog/clojure-sublimed-3/) ([HN](https://news.ycombinator.com/item?id=35091917))

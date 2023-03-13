@@ -174,3 +174,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [pio](https://github.com/siiptuo/pio) - Optimize images while maintaining the same perceived quality.
 - [Tight Model Format](https://github.com/FractalFir/tmf) - Lossy 3D model format focused on reducing file size as much as posible without decreasing visual quality of the viewed model or read speeds.
 - [DataCompression](https://github.com/mw99/DataCompression) - Swift libcompression wrapper as an extension for the Data type.
+- [The History of LZ Compression (2023)](https://www.abortretry.fail/p/lz-compression)
