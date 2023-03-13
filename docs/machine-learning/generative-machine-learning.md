@@ -341,3 +341,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [generate potter](https://github.com/aleemrehmtulla/generatepotter) - Boilerplate repo to deploy a custom stable diffusion model.
 - [ControlNet in Diffusers (2023)](https://huggingface.co/blog/controlnet)
 - [Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent (2023)](https://arxiv.org/abs/2302.09057) ([Code](https://github.com/giannisdaras/cdm))
+- [One Transformer Fits All Distributions in Multi-Modal Diffusion (2022)](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf) ([Code](https://github.com/thu-ml/unidiffuser))

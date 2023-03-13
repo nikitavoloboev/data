@@ -441,6 +441,7 @@
 - [optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser.
 - [colourista](https://github.com/kowainik/colourista) - Convenient interface for printing colorful messages.
 - [Vector-Algorithms](https://github.com/erikd/vector-algorithms)
+- [JSON-RPC](https://github.com/jprupp/json-rpc) - Fully-featured JSON-RPC 2.0 library for Haskell programs.
 
 ## Notes
 
