@@ -1448,7 +1448,7 @@
 - [TreeArray](https://github.com/AlexRoar/TreeArray) - Swift tree-based array implementation. Efficient for random insertions/deletions.
 - [TreeSitterLanguages](https://github.com/simonbs/TreeSitterLanguages) - Languages for Tree-sitter wrapped in Swift packages.
 - [DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol.
-- [Parse Swift](https://github.com/parse-community/Parse-Swift) - Swift library that gives you access to the powerful Parse Server backend from your Swift applications.
+- [Parse Swift](https://github.com/parse-community/Parse-Swift) - Swift library that gives you access to the powerful Parse Server backend from your Swift applications. ([Fork](https://github.com/netreconlab/Parse-Swift))
 - [Readium Swift Toolkit](https://github.com/readium/swift-toolkit) - Toolkit for ebooks, audiobooks and comics written in Swift.
 - [HexGrid](https://github.com/fananek/hex-grid) - Easy and intuitive way of working with hexagonal grids.
 - [RequestDL](https://github.com/brennobemoura/request-dl) - DL networking library for Swift.

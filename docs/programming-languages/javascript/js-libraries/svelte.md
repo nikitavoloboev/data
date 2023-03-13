@@ -363,3 +363,4 @@ title: Svelte
 - [svelte-use-persist](https://github.com/fawaz-alesayi/svelte-use-presist) - Svelte action that saves forms and inputs client side to local storage and restores them on page load.
 - [svelte-typeahead](https://github.com/metonym/svelte-typeahead) - Accessible, fuzzy search typeahead component.
 - [svelte-sequence](https://github.com/AlexWarnes/svelte-sequence) - Custom stores to compose tweened motion sequences over multiple steps.
+- [Zero-effort type safety (2023)](https://svelte.dev/blog/zero-config-type-safety)

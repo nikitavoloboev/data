@@ -144,7 +144,7 @@
 - [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/entries/automatic_syntax_error_recovery.html)
 - [What to read to learn compilers (RU)](https://github.com/true-grue/Compiler-Development)
 - [HN: Best Resources for Compiler Construction (2020)](https://news.ycombinator.com/item?id=25275675)
-- [Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/) ([HN](https://news.ycombinator.com/item?id=25386756)) ([Web](https://www.cs.cornell.edu/courses/cs6120/2020fa/))
+- [Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/) ([HN](https://news.ycombinator.com/item?id=25386756)) ([Web](https://www.cs.cornell.edu/courses/cs6120/2020fa/)) ([HN](https://news.ycombinator.com/item?id=35130975))
 - [Advice on how to best approach learning compilers (2020)](https://www.reddit.com/r/Compilers/comments/kcpy3b/favorite_textbooks_for_students_taking_their/gfsk6kz/)
 - [Post-Modern Compiler Design (2019)](https://www.cs.purdue.edu/homes/rompf/pmca/vol1/index.html)
 - [Inline caching (2021)](https://bernsteinbear.com/blog/inline-caching/)

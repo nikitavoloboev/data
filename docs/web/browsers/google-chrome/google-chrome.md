@@ -118,3 +118,4 @@ And here are Chrome extensions I use:
 - [Chromium Security Quarterly Updates](https://www.chromium.org/Home/chromium-security/quarterly-updates/)
 - [Spy Extension](https://github.com/msfrisbie/spy-extension) - Chrome extension that will steal literally everything it can. ([Article](https://mattfrisbie.substack.com/p/spy-chrome-extension)) ([HN](https://news.ycombinator.com/item?id=34889243))
 - [Vimium](https://vimium.github.io/) - Browser extension that provides Vim-style keyboard controls. ([Code](https://github.com/philc/vimium)) ([HN](https://news.ycombinator.com/item?id=34964572))
+- [SPA view transitions land in Chrome 111 (2023)](https://developer.chrome.com/blog/spa-view-transitions-land/) ([HN](https://news.ycombinator.com/item?id=35091423))

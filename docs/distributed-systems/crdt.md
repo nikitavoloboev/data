@@ -122,3 +122,4 @@ title: Conflict-free replicated data type
 - [Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html) ([HN](https://news.ycombinator.com/item?id=34746716))
 - [CRDT work (2023)](https://rhonabwy.com/2023/02/19/crdt-work/)
 - [Automerge Repo](https://github.com/automerge/automerge-repo) - Wrapper for the Automerge CRDT library which provides facilities to support working with many documents at once, as well as pluggable networking and storage.
+- [y-sync](https://github.com/y-crdt/y-sync) - Yjs/Yrs sync protocol implementation.

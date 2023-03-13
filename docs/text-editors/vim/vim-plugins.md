@@ -389,3 +389,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Starter template for LazyVim](https://github.com/LazyVim/starter)
 - [Nv](https://github.com/appelgriebsch/Nv) - Neovim setup based on LazyVim.
 - [Personal list of Neovim plugins](https://github.com/yutkat/my-neovim-pluginlist)
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) - Aesthetic and feature-rich Neovim config. ([HN](https://news.ycombinator.com/item?id=35105657))
