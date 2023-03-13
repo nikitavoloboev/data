@@ -188,3 +188,4 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 - [rustis](https://github.com/dahomey-technologies/rustis) - Asynchronous Redis client for Rust.
 - [Consistent caching with PostgreSQL logical replication and a Redis API (2023)](https://shortishly.com/blog/streaming-replication-redis-api/)
 - [redis-cell](https://github.com/brandur/redis-cell) - Redis module that provides rate limiting in Redis as a single command.
+- [coredis](https://github.com/alisaifee/coredis) - Async redis client for python with support for redis cluster & sentinel.

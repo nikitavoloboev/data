@@ -21,6 +21,10 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 I currently don't deploy things on bare metal from some provider like [Hetzner](https://www.hetzner.com/). But I might in future for some self hosted things due to cost savings, probably using a [nix script like this](https://github.com/cachix/cachix-deploy-hetzner-dedicacted).
 
+[NixOS in Production](https://github.com/Gabriella439/nixos-in-production) is great book.
+
+[MicroVM.nix](https://github.com/astro/microvm.nix) is useful tool.
+
 ## Nix configs (NixOS)
 
 - [Mitchell Hashimoto](https://github.com/mitchellh/nixos-config) - Work for both Intel and Apple Silicon. ([Tweet](https://twitter.com/mitchellh/status/1452721115009191938)) ([NixOS VM on Mac Setup](https://www.youtube.com/watch?v=ubDMLoWz76U))

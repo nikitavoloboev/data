@@ -259,3 +259,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [Stochastic gradient descent written in SQL (2023)](https://maxhalford.github.io/blog/ogd-in-sql/) ([HN](https://news.ycombinator.com/item?id=35054786))
 - [CensusGPT](https://censusgpt.com/) - Natural Language → SQL. ([Code](https://github.com/caesarHQ/textSQL))
 - [graph-sql](https://github.com/dominikbraun/graph-sql) - SQL storage implementation for graph data structures.
+- [Human to SQL Translator](https://www.sqltranslate.app/) - Tool for converting natural language queries into SQL code using artificial intelligence. ([Code](https://github.com/whoiskatrin/sql-translator))

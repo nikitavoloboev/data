@@ -4,7 +4,9 @@ title: Ngrok
 
 # [Ngrok](https://ngrok.com/)
 
-I now use [Cloudflare Tunnel](https://twitter.com/signalnerve/status/1449038210076655624) for exposing local services to the web (such as localhost). [Bore](https://github.com/ekzhang/bore) & [rslocal](https://github.com/saltbo/rslocal) seem nice too.
+I now use [Pgrok](https://github.com/pgrok/pgrok) or [Cloudflare Tunnel](https://twitter.com/signalnerve/status/1449038210076655624) for exposing local services to the web (such as localhost).
+
+[Bore](https://github.com/ekzhang/bore) & [rslocal](https://github.com/saltbo/rslocal) seem nice too.
 
 ## Using it
 

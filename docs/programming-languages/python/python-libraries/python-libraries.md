@@ -246,6 +246,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [yhttp-pony](https://github.com/yhttp/yhttp-pony) - Pony ORM extension for yhttp.
 - [greendb](https://github.com/coleifer/greendb) - Lightweight server (and Python client) for symas lmdb.
 - [Theine](https://github.com/Yiling-J/theine) - High performance in-memory cache.
+- [limits](https://github.com/alisaifee/limits) - Rate limiting using various strategies and storage backends such as redis & memcached.
 
 ## WebSocket
 

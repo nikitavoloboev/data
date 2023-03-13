@@ -2104,6 +2104,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-logger](https://github.com/savsgio/go-logger) - Fast, lightweight, customizable and structured logger for Go.
 - [gotils](https://github.com/savsgio/gotils) - Go utilities to make your life easier with zero allocations.
 - [Go-DateParser](https://github.com/markusmobius/go-dateparser) - Easily parse localized dates in almost any string formats commonly found on web pages.
+- [Iterium](https://github.com/mowshon/iterium) - Generic Channel-based Iterators.
+- [combinations](https://github.com/mxschmitt/golang-combinations) - Algorithm to generate all combinations out of a given string array.
 
 ## Links
 
@@ -2298,3 +2300,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Jupiter Project Layout](https://github.com/douyu/jupiter-layout)
 - [go test and parallelism (2023)](https://bryce.is/writing/code/go-test-and-parallelism.html) ([Lobsters](https://lobste.rs/s/whvrpa/go_test_parallelism))
 - [Policy on util packages (2023)](https://brandur.org/fragments/policy-on-util-packages) ([Lobsters](https://lobste.rs/s/czi8ku/policy_on_util_packages))
+- [Are there any decent ORMs in Go? (2023)](https://www.reddit.com/r/golang/comments/11oi687/are_there_any_decent_orms_in_golang/)

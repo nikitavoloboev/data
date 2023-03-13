@@ -25,3 +25,4 @@ title: Cassandra DB
 - [myko](https://github.com/rakyll/myko) - Simple attribution engine. Currently only supports Cassandra and Cassandra-compatible datastores.
 - [Swift Cassandra Client](https://github.com/apple/swift-cassandra-client)
 - [cassandra-rs](https://github.com/Metaswitch/cassandra-rs) - Cassandra (CQL) driver for Rust, using the DataStax C/C++ driver under the covers.
+- [CDRS tokio](https://github.com/krojew/cdrs-tokio) - High-level async Cassandra client written in Rust.

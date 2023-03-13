@@ -378,6 +378,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Javier Coto](https://hondu.co/)
 - [Andy Hippo](https://werat.dev/posts/)
 - [Dominik Braun](https://dominikbraun.io/blog/)
+- [Philip Zucker](https://www.philipzucker.com/)
+- [Brian Anderson](https://brson.github.io/)
+- [Nikita Lisitsa](https://lisyarus.github.io/blog/)
 
 ## Notes
 

@@ -165,3 +165,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [CIFAR10 hyperlightspeedbench](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record.
 - [Transformers.js](https://github.com/xenova/transformers.js) - Run Transformers in your browser.
 - [ailia SDK](https://github.com/axinc-ai/ailia-sdk) - Cross-platform high speed inference SDK.
+- [Large Audio Models](https://github.com/liusongxiang/Large-Audio-Models) - Keep track of big models in audio domain, including speech, singing, music etc.

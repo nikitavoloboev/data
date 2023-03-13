@@ -1085,3 +1085,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Bridging Async and Sync Rust Code - A lesson learned while working with Tokio (2023)](https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust)
 - [Rewriting the CLI in Rust: Was It Worth It? (2023)](https://blog.railway.app/p/rust-cli-rewrite) ([HN](https://news.ycombinator.com/item?id=35110002))
 - [Hands-On Functional Programming in Rust Book (2018)](https://www.packtpub.com/product/hands-on-functional-programming-in-rust/9781788839358) ([Code](https://github.com/PacktPublishing/Hands-On-Functional-Programming-in-Rust))
+- [What learning resource has had the greatest impact in elevating your understanding and knowledge of Rust? (2023)](https://www.reddit.com/r/rust/comments/11pzzud/what_learning_resource_has_had_the_greatest/) ([Tweet](https://twitter.com/timClicks/status/1635156682652401664))

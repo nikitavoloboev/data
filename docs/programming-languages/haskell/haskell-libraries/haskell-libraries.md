@@ -512,3 +512,4 @@
 - [Hakyll + Nix template](https://github.com/rpearce/hakyll-nix-template) ([Tutorial](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html))
 - [stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix.
 - [Core Haskell Libraries Committee](https://github.com/haskell/core-libraries-committee)
+- [hsc2hs](https://github.com/haskell/hsc2hs) - Haskell Pre-processor for C FFI bindings.

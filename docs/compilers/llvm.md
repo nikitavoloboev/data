@@ -158,3 +158,4 @@ title: LLVM
 - [llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static LLVM tools & libs. ([Lobsters](https://lobste.rs/s/yiu95m/llvmbox_self_contained_fully_static_llvm))
 - [Rellume](https://github.com/aengelke/rellume) - Lift machine code to performant LLVM IR.
 - [llvm-ir-taint](https://github.com/cdisselkoen/llvm-ir-taint) - Taint tracking for LLVM IR.
+- [Writing an LLVM backend for the Move language in Rust (2023)](https://brson.github.io/2023/03/12/move-on-llvm)

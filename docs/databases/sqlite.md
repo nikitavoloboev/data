@@ -315,3 +315,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [sqlean](https://github.com/nalgeon/sqlean) - All the Missing SQLite Functions. ([HN](https://news.ycombinator.com/item?id=34969491))
 - [SQLite Parser Nom](https://github.com/mycelial/sqlite-parser-nom) - Parser library for SQLite storage format in Rust.
 - [9 years of open-source database development: reviewing rqlite design choices (2023)](https://www.philipotoole.com/9-years-of-open-source-database-development-the-design-docs/)
+- [MiniLitelog: Easy Breezy SQLite Datalog (2023)](https://www.philipzucker.com/tiny-sqlite-datalog/)

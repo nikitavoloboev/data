@@ -189,3 +189,8 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [Useful ChatGPT prompts](https://github.com/carterleffen/chatgpt-prompts)
 - [Zero-Shot Information Extraction via Chatting with ChatGPT (2023)](https://arxiv.org/abs/2302.10205) ([Code](https://github.com/cocacola-lab/ChatIE))
 - [gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.
+- [Free ChatGPT](https://freechatgpt.chat/) - Open-source web app that allows you to play with OpenAI's ChatGPT API for free. ([Code](https://github.com/ztjhz/FreeChatGPT))
+- [ChatGPT for Mac](https://github.com/ryngonzalez/ChatGPT-for-Mac) - Simple Mac app wrapper for ChatGPT.
+- [ChatGTP starter app](https://github.com/gannonh/gpt3.5-turbo-pgvector)
+- [Integration of ChatGPT, Stable Diffusion, and Eleven Labs](https://aidev.codes/) ([HN](https://news.ycombinator.com/item?id=35113219))
+- [OpenChatKit](https://www.together.xyz/blog/openchatkit) - Powerful, open-source base to create both specialized and general purpose chatbots for various applications. ([HN](https://news.ycombinator.com/item?id=35113534))

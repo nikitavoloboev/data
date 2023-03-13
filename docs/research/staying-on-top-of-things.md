@@ -295,3 +295,4 @@ And these Discord servers:
 - [Ask HN: How do you deal with information and internet addiction? (2023)](https://news.ycombinator.com/item?id=34710830)
 - [Ask HN: Where to have good discussions online? (2023)](https://news.ycombinator.com/item?id=34909082)
 - [Ask HN: More magazines like Quanta and Noema? (2023)](https://news.ycombinator.com/item?id=35114679)
+- [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments) ([HN](https://news.ycombinator.com/item?id=35126011))

@@ -1177,3 +1177,6 @@
 - [FFCV-SSL](https://github.com/facebookresearch/FFCV-SSL) - Fast Forward Computer Vision for Self-Supervised Learning.
 - [How computer vision is changing manufacturing in 2023](https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/) ([HN](https://news.ycombinator.com/item?id=35083163))
 - [Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation (2023)](https://arxiv.org/abs/2303.00440) ([Code](https://github.com/MCG-NJU/EMA-VFI))
+- [NeRFshop: Interactive Editing of Neural Radiance Fields](https://github.com/graphdeco-inria/nerfshop)
+- [Blind Video Deflickering by Neural Filtering with a Flawed Atlas (2023)](https://github.com/ChenyangLEI/All-In-One-Deflicker)
+- [Universal Instance Perception as Object Discovery and Retrieval (2023)](https://github.com/MasterBin-IIAU/UNINEXT)

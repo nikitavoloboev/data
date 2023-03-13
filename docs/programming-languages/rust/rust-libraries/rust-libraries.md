@@ -243,6 +243,7 @@
 - [httpz](https://github.com/oscartbeaumont/httpz) - Code once, support every Rust web server.
 - [xitca-web](https://github.com/HFQR/xitca-web) - Alternative HTTP library and web framework inspired by hyper.
 - [network-types](https://github.com/vadorovsky/network-types) - Rust structs representing network protocol headers (on Layer 2, 3 and 4).
+- [rate-limits](https://github.com/mre/rate-limits) - Parse HTTP Rate-Limit headers of different vendors.
 
 ## Auth
 
@@ -2751,6 +2752,10 @@
 - [deriving_via](https://github.com/LoliGothick/deriving_via) - More convenient version of derive_more for newtype pattern.
 - [installed](https://github.com/lyricwulf/installed-rs) - Get a list of installed software for runtime use.
 - [Unzrip](https://github.com/quininer/unzrip) - Unzip implementation, support for parallel decompression, automatic detection encoding.
+- [memoize](https://github.com/dermesser/memoize) - Macro for auto-memoizing Rust functions.
+- [Tydi](https://github.com/abs-tudelft/tydi) - Open specification for complex data structures over hardware streams.
+- [Narrow](https://github.com/mbrobbel/narrow) - Implementation of Apache Arrow.
+- [Pierce](https://github.com/wishawa/pierce) - Avoid double indirection in nested smart pointers.
 
 ## Cargo Plugins
 

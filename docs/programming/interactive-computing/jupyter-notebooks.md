@@ -249,3 +249,4 @@ title: Jupyter Notebooks
 - [jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix. ([Docs](https://jupyenv.io/documentation/getting-started/)) ([0.1](https://www.tweag.io/blog/2023-02-02-jupyenv-0-1-0/))
 - [JupyterLab Desktop (2023)](https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23) ([HN](https://news.ycombinator.com/item?id=34736064))
 - [JupyterLab Link Share](https://github.com/jupyterlab-contrib/jupyterlab-link-share) - JupyterLab Extension to easily share a link to a running server on Binder.
+- [Streamlit Jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Python package to preview and develop streamlit apps in jupyter notebooks.

@@ -65,3 +65,4 @@ I put most everything I create under public domain. So either [CC0](https://crea
 - [GPT Takes the Bar Exam (2022)](https://arxiv.org/abs/2212.14402) ([Code](https://github.com/mjbommar/gpt-takes-the-bar-exam))
 - [You Can Stop Updating Copyright Attribution Years](https://hynek.me/til/copyright-years/) ([Lobsters](https://lobste.rs/s/buyrkp/you_can_stop_updating_copyright))
 - [Contracts you should never sign (2023)](https://vadimkravcenko.com/shorts/contracts-you-should-never-sign/) ([HN](https://news.ycombinator.com/item?id=34544008))
+- [Robo Lawyer Slack](https://github.com/flows-network/robo-lawyer) - Slack bot that uses ChatGPT to respond to every legal question in your Slack workspace automatically.
