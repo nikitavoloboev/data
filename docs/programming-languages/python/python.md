@@ -602,3 +602,4 @@ for i, _ in enumerate(nums):
 - [Using SymPy in Python doctests (2023)](https://maxhalford.github.io/blog/sympy-doctests/)
 - [Overhead of Python Asyncio tasks (2023)](https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/)
 - [PEP 709 – Inlined comprehensions (2023)](https://peps.python.org/pep-0709/) ([Lobsters](https://lobste.rs/s/lrstjz/pep_709_inlined_comprehensions))
+- [How virtual environments work (2023)](https://snarky.ca/how-virtual-environments-work/) ([Lobsters](https://lobste.rs/s/ypbrf6/how_virtual_environments_work))

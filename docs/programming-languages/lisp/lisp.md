@@ -242,3 +242,4 @@
 - [I still Lisp (2021)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8) ([HN](https://news.ycombinator.com/item?id=34862607))
 - [Writing a simple Lisp interpreter in Rust (2023)](https://david-delassus.medium.com/writing-a-simple-lisp-interpreter-in-rust-91dd32ea4d8f) ([HN](https://news.ycombinator.com/item?id=35003306))
 - [Dak](https://www.daklang.com/) - Lisp like language that transpiles to JavaScript.
+- [Modern Macros (2023)](https://www.youtube.com/watch?v=YMUCpx6vhZM) ([Lobsters](https://lobste.rs/s/c8nqjz/padl_23_modern_macros))

@@ -2297,3 +2297,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Partially-Implemented Interfaces in Go (2023)](https://preslav.me/2023/02/22/partially-implemented-interfaces-in-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/1195v8d/partiallyimplemented_interfaces_in_go/))
 - [Jupiter Project Layout](https://github.com/douyu/jupiter-layout)
 - [go test and parallelism (2023)](https://bryce.is/writing/code/go-test-and-parallelism.html) ([Lobsters](https://lobste.rs/s/whvrpa/go_test_parallelism))
+- [Policy on util packages (2023)](https://brandur.org/fragments/policy-on-util-packages) ([Lobsters](https://lobste.rs/s/czi8ku/policy_on_util_packages))

@@ -14,6 +14,8 @@ I keep all products I use at my sink except [vitamin c serum](https://geekandgor
 
 [It’s best to let each product dry and absorb before the next one is applied](https://www.verishop.com/blog/beauty/skincare/how-much-time-between-skincare-products/). And don't apply any active ingredients except cleanser & sun screen to eye area. And [do it gently](https://www.reddit.com/r/SkincareAddiction/comments/lltp2v/comment/gnsljzr/).
 
+Below routine is aspirational, I often don't apply all the products outlined but do try to at least apply sun screen daily.
+
 ### Morning
 
 I first do my morning [exercise routine](../fitness/fitness.md) and shower. Then:

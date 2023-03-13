@@ -4,9 +4,17 @@ title: GraphQL
 
 # [GraphQL](https://graphql.org/)
 
-[GraphJin](https://github.com/dosco/graphjin) is interesting for setting up GraphQL APIs. [URQL](https://formidable.com/open-source/urql/) is great GraphQL react client.
+Using [Grafbase](grafbase.md) to setup GraphQL endpoints quickly.
 
-[Grafbase](https://grafbase.com/), [GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/), [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [GQty](https://github.com/gqty-dev/gqty), [Pothos GraphQL](https://github.com/hayes/pothos) & [garph](https://github.com/stepci/garph) look interesting. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
+[GraphJin](https://github.com/dosco/graphjin) is interesting. [URQL](https://formidable.com/open-source/urql/) is neat GraphQL react client.
+
+I am still exploring what the best way to do GraphQL queries from [Solid](../../programming-languages/javascript/js-libraries/solid.md).
+
+[GraphQL Code Generator](https://graphql.wtf/episodes/67-the-new-graphql-code-generator-client-preset), [GQty](https://github.com/gqty-dev/gqty) or [The Guild Tools](https://the-guild.dev/) seem nice for that. And [Relay](../../programming-languages/javascript/js-libraries/react/relay.md) too.
+
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/), [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [Pothos GraphQL](https://github.com/hayes/pothos) & [garph](https://github.com/stepci/garph) look interesting. 
+
+[Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
 
 [One Week GraphQL](https://oneweekgraphql.com/) is great course.
 
@@ -372,3 +380,4 @@ title: GraphQL
 - [garph](https://github.com/stepci/garph) - GraphQL schema-builder for TypeScript.
 - [yaacovcr/stitch](https://github.com/yaacovCR/stitch) - Set of tools for stitching GraphQL schemas.
 - [10 Things We Learned In Full Stack GraphQL Book Club (2023)](https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le)
+- [The new GraphQL Code Generator Client Preset (2022)](https://graphql.wtf/episodes/67-the-new-graphql-code-generator-client-preset)
