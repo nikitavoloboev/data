@@ -294,3 +294,4 @@ All active variables can be seen by running `env`.
 - [Shellclear](https://github.com/rusty-ferris-club/shellclear) - Secure shell history commands by finding sensitive data.
 - [Write Posix Shell (2023)](https://j3s.sh/thought/write-posix-shell.html) ([HN](https://news.ycombinator.com/item?id=35108822)) ([Lobsters](https://lobste.rs/s/k4z2qf/write_posix_shell))
 - [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated cross-platform terminal emulator written in Rust. ([HN](https://news.ycombinator.com/item?id=35137153))
+- [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
