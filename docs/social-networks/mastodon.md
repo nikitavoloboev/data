@@ -176,3 +176,4 @@ Use [Elk](https://elk.zone/) as my Mastodon client mostly to read [Merveilles lo
 - [Mastodon Embedding Tools](https://patrickcurry.com/socials/mastodon/tools/)
 - [Ask HN: Is Mastodon the best alternative to Twitter? (2023)](https://news.ycombinator.com/item?id=34946065)
 - [Mastoposter](https://github.com/hatkidchan/mastoposter) - Easy-to-use mastodon-to-[everything] reposter.
+- [Mastodon, but strongly inspired by Twitter](https://github.com/ronilaukkarinen/mastodon-bird-ui)

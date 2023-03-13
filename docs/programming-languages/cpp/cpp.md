@@ -431,3 +431,4 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [New C++23 features I'm excited about (2022)](https://twdev.blog/2022/10/cpp23/)
 - [Effortless Performance Improvements in C++: std:unordered_map (2023)](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-unordered_map/) ([HN](https://news.ycombinator.com/item?id=34992189))
 - [How not to design a UI library (2023)](https://lisyarus.github.io/blog/programming/2023/03/11/how-not-to-ui.html)
+- [Bazel zig cc toolchain](https://github.com/uber/bazel-zig-cc) - Bazel C/C++ toolchain for cross-compiling C/C++ programs.

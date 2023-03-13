@@ -1176,3 +1176,4 @@
 - [MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation (2022)](https://arxiv.org/abs/2212.08062) ([Code](https://github.com/Meta-Portrait/MetaPortrait))
 - [FFCV-SSL](https://github.com/facebookresearch/FFCV-SSL) - Fast Forward Computer Vision for Self-Supervised Learning.
 - [How computer vision is changing manufacturing in 2023](https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/) ([HN](https://news.ycombinator.com/item?id=35083163))
+- [Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation (2023)](https://arxiv.org/abs/2303.00440) ([Code](https://github.com/MCG-NJU/EMA-VFI))

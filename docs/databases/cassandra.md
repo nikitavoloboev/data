@@ -24,3 +24,4 @@ title: Cassandra DB
 - [GoCQL](https://github.com/gocql/gocql) - Fast and robust Cassandra client for Go. ([Article](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/))
 - [myko](https://github.com/rakyll/myko) - Simple attribution engine. Currently only supports Cassandra and Cassandra-compatible datastores.
 - [Swift Cassandra Client](https://github.com/apple/swift-cassandra-client)
+- [cassandra-rs](https://github.com/Metaswitch/cassandra-rs) - Cassandra (CQL) driver for Rust, using the DataStax C/C++ driver under the covers.

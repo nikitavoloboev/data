@@ -458,3 +458,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [Node.js multithreading with worker threads: pros and cons (2023)](https://snyk.io/blog/node-js-multithreading-worker-threads-pros-cons/)
 - [Defer](https://www.defer.run/) - Zero infrastructure Node.js background jobs. ([Docs](https://docs.defer.run/)) ([Docs Code](https://github.com/defer-run/defer.client))
 - [Turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.
+- [node-gyp-build](https://github.com/prebuild/node-gyp-build) - Build tool and bindings loader for node-gyp that supports prebuilds.

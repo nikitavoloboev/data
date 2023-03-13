@@ -24,6 +24,8 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Rerun](https://github.com/rerun-io/rerun) has great code to study for how to build an app in Rust.
 
+[Railway CLI](https://github.com/railwayapp/cli) is [great](https://blog.railway.app/p/rust-cli-rewrite).
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)
@@ -1082,3 +1084,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing (2023)](https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust) ([Lobsters](https://lobste.rs/s/mfd2jr/getting_past_ampersand_driven))
 - [Bridging Async and Sync Rust Code - A lesson learned while working with Tokio (2023)](https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust)
 - [Rewriting the CLI in Rust: Was It Worth It? (2023)](https://blog.railway.app/p/rust-cli-rewrite) ([HN](https://news.ycombinator.com/item?id=35110002))
+- [Hands-On Functional Programming in Rust Book (2018)](https://www.packtpub.com/product/hands-on-functional-programming-in-rust/9781788839358) ([Code](https://github.com/PacktPublishing/Hands-On-Functional-Programming-in-Rust))

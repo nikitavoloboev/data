@@ -87,3 +87,4 @@ title: Automata theory
 - [Conway’s Game of Life: Mathematics and Construction](http://www.njohnston.ca/publications/conways-game-of-life-mathematics-and-construction/) ([HN](https://news.ycombinator.com/item?id=34801788))
 - [Cellular Automata: A Discrete Universe Book](https://www.goodreads.com/book/show/3804153-cellular-automata)
 - [2D Liquid Simulator with Cellular Automaton (2017)](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/) ([HN](https://news.ycombinator.com/item?id=34946877))
+- [Variations on Conway's Game of Life, running on GPU](https://github.com/piellardj/game-of-life-webgl)

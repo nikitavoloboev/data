@@ -267,3 +267,5 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Void](https://github.com/ianstormtaylor/void) - Toolkit for making generative art in TS.
 - [gaul](https://github.com/aldernero/gaul) - Generative Art Utility Library.
 - [Nannou](https://nannou.cc/) - Open-source creative-coding framework for Rust. ([HN](https://news.ycombinator.com/item?id=35027543))
+- [Watercolor](https://github.com/0xOlias/watercolor) - Dev server for artblocks-compatible projects using p5.
+- [Performant 2D strange attractors plotter](https://github.com/piellardj/strange-attractors-webgl)

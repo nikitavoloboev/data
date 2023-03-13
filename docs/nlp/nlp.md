@@ -891,5 +891,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Large language models are having their Stable Diffusion moment right now (2023)](https://simonwillison.net/2023/Mar/11/llama/) ([HN](https://news.ycombinator.com/item?id=35111646))
 - [Vaporetto](https://github.com/daac-tools/vaporetto) - Fast and lightweight pointwise prediction-based tokenizer.
 - [Using LLaMA with M1 Mac (2023)](https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/) ([HN](https://news.ycombinator.com/item?id=35122689))
-- [Dalai](https://cocktailpeanut.github.io/dalai/#/) - Automatically install, run, and play with LLaMA on your computer. ([HN](https://news.ycombinator.com/item?id=35127020))
+- [Dalai](https://cocktailpeanut.github.io/dalai/#/) - Automatically install, run, and play with LLaMA on your computer. ([HN](https://news.ycombinator.com/item?id=35127020)) ([Code](https://github.com/cocktailpeanut/dalai))
 - [What is Temperature in NLP? (2021)](https://lukesalamone.github.io/posts/what-is-temperature/) ([HN](https://news.ycombinator.com/item?id=35131112))

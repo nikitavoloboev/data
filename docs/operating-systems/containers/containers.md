@@ -254,3 +254,4 @@
 - [conmon](https://github.com/containers/conmon) - OCI container runtime monitor.
 - [Crafting container images without Dockerfiles (2023)](https://ochagavia.nl/blog/crafting-container-images-without-dockerfiles/) ([HN](https://news.ycombinator.com/item?id=34678121))
 - [Make systemd better for Podman with Quadlet (2023)](https://www.redhat.com/sysadmin/quadlet-podman) ([HN](https://news.ycombinator.com/item?id=34873687))
+- [Nanocl](https://github.com/nxthat/nanocl) - Open-source platform for orchestrating containers and virtual machines across multiple hosts.

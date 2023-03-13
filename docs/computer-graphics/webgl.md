@@ -130,3 +130,5 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) ([nice example](ht
 - [Parametric Surfaces in the Browser](https://github.com/solidiquis/parametric_surfaces) - Drawn using the Rust + WASM toolchain with WebGL, React, and TypeScript.
 - [Stable-Fluids implemented in WebGL2](https://github.com/loicmagne/webgl2_fluidsim)
 - [SwissGL](https://github.com/google/swissgl) - Minimalistic wrapper on top of WebGL2 JS API.
+- [Diamond WebGL](https://github.com/piellardj/diamond-webgl) - Ray-tracing engine for real-time diamond rendering in WebGL.
+- [Stable fluid simulation on GPU using WebGL](https://github.com/piellardj/navier-stokes-webgl)

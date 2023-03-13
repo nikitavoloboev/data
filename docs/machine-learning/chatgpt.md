@@ -188,3 +188,4 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [TypingMind](https://www.typingmind.com/) - Better UI for ChatGPT.
 - [Useful ChatGPT prompts](https://github.com/carterleffen/chatgpt-prompts)
 - [Zero-Shot Information Extraction via Chatting with ChatGPT (2023)](https://arxiv.org/abs/2302.10205) ([Code](https://github.com/cocacola-lab/ChatIE))
+- [gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.

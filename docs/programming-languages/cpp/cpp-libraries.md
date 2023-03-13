@@ -496,6 +496,7 @@
 - [libfork](https://github.com/ConorWilliams/libfork) - Bleeding-edge, lock-free, wait-free, continuation-stealing tasking library.
 - [libremidi](https://github.com/jcelerier/libremidi) - Cross-platform C++17 library for real-time and MIDI file input and output.
 - [Rodin](https://github.com/cbritopacheco/rodin) - Modern C++17 finite element method and shape optimization framework.
+- [nsuv](https://github.com/nodesource/nsuv) - C++ wrapper around libuv focused on making callback arg passing safer.
 
 ## Links
 

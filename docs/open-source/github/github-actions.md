@@ -380,6 +380,7 @@ title: GitHub actions
 - [RegisterAction](https://github.com/julia-actions/RegisterAction) - Register Julia packages via GitHub Actions.
 - [Julia Cache](https://github.com/julia-actions/cache) - Cache Julia artifacts, packages and (optionally) registries to reduce GitHub Actions running time.
 - [Julia tree shake](https://github.com/julia-actions/julia-treeshake) - Find unused Julia project dependencies.
+- [julia-buildpkg](https://github.com/julia-actions/julia-buildpkg) - Runs the build step in a Julia package.
 
 ## OCaml
 

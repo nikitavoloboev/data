@@ -662,3 +662,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [Possible reasons for 8-bit bytes (2023)](https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/) ([Lobsters](https://lobste.rs/s/b5rmwh/some_possible_reasons_for_8_bit_bytes)) ([HN](https://news.ycombinator.com/item?id=35054948))
 - [What a good debugger can do (2023)](https://werat.dev/blog/what-a-good-debugger-can-do/) ([HN](https://news.ycombinator.com/item?id=35092998))
 - [“Clean Code, Horrible Performance” Discussion](https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md) ([HN](https://news.ycombinator.com/item?id=35105528))
+- [Repeat yourself, do more than one thing, and rewrite everything (2018)](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)

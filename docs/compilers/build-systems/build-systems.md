@@ -140,3 +140,4 @@
 - [Web Build Tools Compare](https://github.com/hardfist/bundler-compare)
 - [Turbo Racer](https://github.com/brunojppb/turbo-racer) - High-performance distributed remote cache for Turborepo.
 - [Moon](https://github.com/moonrepo/moon) - Build system and repo management tool for the web ecosystem, written in Rust. ([Web](https://moonrepo.dev/)) ([HN](https://news.ycombinator.com/item?id=34885077))
+- [Farm](https://github.com/farm-fe/farm) - Super fast web build tool written in Rust.

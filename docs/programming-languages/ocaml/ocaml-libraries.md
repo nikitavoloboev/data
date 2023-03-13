@@ -23,6 +23,7 @@ title: OCaml libraries
 - [Bonsai](https://github.com/janestreet/bonsai) - Library for building interactive browser-based UI. ([Web](https://bonsai.red/)) ([Setting up Bonsai](https://ceramichacker.com/blog/30-4x-setting-up-bonsai))
 - [ocaml-dispatch](https://github.com/inhabitedtype/ocaml-dispatch) - Path-based dispatching for client- and server-side applications.
 - [eehs](https://github.com/bikallem/eehs) - Effects Epoll HTTP Server.
+- [Spring](https://github.com/bikallem/spring) - Delightful OCaml web programming library.
 
 ## Test
 

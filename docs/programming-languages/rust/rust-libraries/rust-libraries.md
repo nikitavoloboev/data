@@ -2750,6 +2750,7 @@
 - [include_bytes_zstd](https://github.com/daac-tools/include-bytes-zstd) - Includes a file with zstd compression in Rust.
 - [deriving_via](https://github.com/LoliGothick/deriving_via) - More convenient version of derive_more for newtype pattern.
 - [installed](https://github.com/lyricwulf/installed-rs) - Get a list of installed software for runtime use.
+- [Unzrip](https://github.com/quininer/unzrip) - Unzip implementation, support for parallel decompression, automatic detection encoding.
 
 ## Cargo Plugins
 
@@ -3086,3 +3087,4 @@
 - [Rust's BufRead, And When To Use It (2023)](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [Reducing code size in librsvg by removing an unnecessary generic struct (2023)](https://viruta.org/reducing-binary-size-generics.html) ([HN](https://news.ycombinator.com/item?id=35028441))
 - [diff.rs](https://diff.rs/) - View a diff between crate versions. ([Code](https://github.com/xfbs/diff.rs))
+- [Rust CI config](https://github.com/jonhoo/rust-ci-conf) - Collection of CI configuration files for Rust projects.

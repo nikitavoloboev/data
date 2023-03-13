@@ -831,6 +831,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Pioppo](https://github.com/fabiospampinato/pioppo) - Tiny isomorphic batched logger. 3x faster than regular logging in Node.
 - [OpenAI Edge](https://github.com/dan-kwiat/openai-edge) - TypeScript module for querying OpenAI's API from an edge function environment.
 - [ModernDash](https://github.com/Maggi64/moderndash) - Typescript-First utility library inspired by Lodash. Optimized for modern browsers.
+- [dldr](https://github.com/maraisr/dldr) - Tiny utility for batching and caching operations.
 
 ## Links
 
