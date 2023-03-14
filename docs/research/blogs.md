@@ -385,6 +385,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Nikita Lapkov](https://laplab.me/posts/)
 - [Immunant](https://immunant.com/blog/)
 - [Pavel Panchekha](https://pavpanchekha.com/blog.html)
+- [Bogdan Popa](https://defn.io/)
 
 ## Notes
 

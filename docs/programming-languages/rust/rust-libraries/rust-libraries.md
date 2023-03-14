@@ -1,6 +1,6 @@
 # Rust libraries
 
-[axum](https://github.com/tokio-rs/axum) seems nice as a web framework ([neat template](https://github.com/joelparkerhenderson/demo-rust-axum)). [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles.
+[axum](https://github.com/tokio-rs/axum) seems nice as a web framework ([neat template](https://github.com/joelparkerhenderson/demo-rust-axum)). [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles. Also [tonic](https://github.com/hyperium/tonic) is interesting.
 
 [shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code. [Burn](https://github.com/burn-rs/burn) looks nice as ML library. [Typeshare](https://github.com/1Password/typeshare) is nice for type sharing between languages.
 

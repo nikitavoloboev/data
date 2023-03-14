@@ -6,6 +6,8 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 
 [Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template) is great starter code.
 
+[Tock](https://github.com/tock/tock) is interesting embedded OS with [nice Rust bindings](https://github.com/tock/libtock-rs).
+
 ## Interesting chips
 
 - [ESP32](https://en.wikipedia.org/wiki/ESP32)

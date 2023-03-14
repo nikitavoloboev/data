@@ -514,3 +514,4 @@
 - [stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix.
 - [Core Haskell Libraries Committee](https://github.com/haskell/core-libraries-committee)
 - [hsc2hs](https://github.com/haskell/hsc2hs) - Haskell Pre-processor for C FFI bindings.
+- [Elastically scalable thread pools in Haskell](https://github.com/stevana/elastically-scalable-thread-pools)

@@ -836,6 +836,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Modern.js](https://github.com/web-infra-dev/modern.js) - Web engineering system, including a web framework, a npm package solution and a documentation site solution.
 - [Untypeable](https://github.com/total-typescript/untypeable) - Get type-safe access to any API, with a zero-bundle size option.
 - [Micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices.
+- [webcontainer-reactive-fs](https://github.com/wheatjs/webcontainer-reactive-fs) - Reactive fs for WebContainers.
 
 ## Links
 

@@ -145,3 +145,4 @@ Might give it a go sometime. Right now I love [VSCode](../vs-code/vs-code.md) an
 - [A spiritual successor to Emacs (2023)](https://vivekhaldar.com/articles/a-spiritual-successor-to-emacs/)
 - [Introduction to Ido Mode](https://www.masteringemacs.org/article/introduction-to-ido-mode)
 - [Why and How I use "Org Mode" for my writing and more (2022)](https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html)
+- [Emacs + ChatGPT with voice](https://github.com/jackdoe/emacs-chatgpt-jarvis)

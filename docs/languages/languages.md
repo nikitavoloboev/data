@@ -110,3 +110,4 @@
 - [codespell](https://github.com/codespell-project/codespell) - Check code for common misspellings.
 - [libenchant](https://github.com/AbiWord/enchant) - Generic C++ spell checking library.
 - [OpenAI Translator](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [Duolingo Max, a learning experience powered by GPT-4 (2023)](https://blog.duolingo.com/duolingo-max/) ([HN](https://news.ycombinator.com/item?id=35154870))

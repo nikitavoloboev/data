@@ -62,3 +62,4 @@
 - [Replaying memories in AR](https://twitter.com/mrgreen/status/1629045335312957440)
 - [Could we make the web more immersive using a simple optical illusion? (2023)](https://shopify.github.io/spatial-commerce-projects/WonkaVision/) ([HN](https://news.ycombinator.com/item?id=35016988))
 - [Spatial Commerce Projects](https://shopify.github.io/spatial-commerce-projects/)
+- [Manitas](https://github.com/nacmartin/manitas) - Move your fingers in the air to interact with a computer.

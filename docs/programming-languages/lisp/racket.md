@@ -170,3 +170,5 @@ title: Racket
 - [Creating minimal language in Racket](https://github.com/Luv2C0d3/funascii)
 - [Racket grammar for tree-sitter](https://github.com/6cdh/tree-sitter-racket)
 - [pdb](https://github.com/greghendershott/pdb) - Multi-file check-syntax database.
+- [Racket dbg](https://github.com/Bogdanp/racket-dbg) - Server, client and UI for remotely debugging Racket applications.
+- [Racket Protocol Buffers](https://github.com/Bogdanp/racket-protocol-buffers) - Protocol Buffers implementation for Racket.

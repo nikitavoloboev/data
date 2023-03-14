@@ -46,3 +46,4 @@ Looking into using [tRPC Server Middleware for Hono](https://github.com/honojs/m
 - [tRPC Server Middleware for Hono](https://github.com/honojs/middleware/tree/main/packages/trpc-server)
 - [garph/gqty](https://github.com/stepci/garph-gqty) - tRPC-style client for Garph, based on GQty.
 - [tRPC Solid](https://github.com/juliusmarminge/trpc-solid) - Minimal example of using tRPC with Solid Start using the fetch adapter & Solid Query.
+- [Full-Stack TypeScript with tRPC and React (2023)](https://www.robinwieruch.de/react-trpc/) ([HN](https://news.ycombinator.com/item?id=35150100))

@@ -777,3 +777,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [ethers-multicall-provider](https://github.com/Rubilmax/ethers-multicall-provider) - Call any set of functions from any set of smart contracts in a single RPC query, seamlessly using ethers' providers API.
 - [Viem](https://github.com/wagmi-dev/viem) - TypeScript Interface for Ethereum. ([Web](https://viem.sh/))
 - [Polaris](https://github.com/berachain/polaris) - Modular implementation of the Ethereum Virtual Machine.
+- [substratum](https://github.com/clabby/substratum) - Opinionated, spec-compliant, optimized version of Optimism's contracts-bedrock package.

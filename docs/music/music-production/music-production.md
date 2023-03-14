@@ -540,3 +540,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Polarity music tools](https://github.com/polarity/polarity-music-tools) - Bitwig presets by polarity for you to use. Every week new stuff for bitwig & popular vsts.
 - [Ask HN: Is there anyone here making music? (2023)](https://news.ycombinator.com/item?id=35092674)
 - [Coltrane](https://github.com/pedrozath/coltrane) - Music theory library with a command-line interface. ([HN](https://news.ycombinator.com/item?id=35092929))
+- [Csound](https://csound.com/) - Sound and music computing system. ([Rust bindings](https://github.com/neithanmo/csound-rs))

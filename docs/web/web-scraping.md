@@ -250,3 +250,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [page-fetch](https://github.com/detectify/page-fetch) - Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files.
 - [Crul](https://www.crul.com/) - Query Any Webpage or API. ([HN](https://news.ycombinator.com/item?id=34970917))
 - [WikiScrape](https://scrape.wiki/) - Download Wikipedia pages as beautiful text files.
+- [crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance.

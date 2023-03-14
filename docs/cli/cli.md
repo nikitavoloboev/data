@@ -248,3 +248,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [Building CLI with Bubble Tea and Lip Gloss](https://github.com/charmbracelet/wizard-tutorial)
 - [halp](https://github.com/orhun/halp) - CLI tool to get help with CLI tools.
 - [WIK](https://github.com/yashsinghcodes/wik) - Terminal Based Wikipedia. ([HN](https://news.ycombinator.com/item?id=35119681))
+- [teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well".

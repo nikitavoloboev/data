@@ -53,6 +53,7 @@
 - [SPL-to-PySpark transpiler](https://github.com/databrickslabs/transpiler)
 - [ZIO-Schema](https://github.com/zio/zio-schema) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
 - [Gluten](https://github.com/oap-project/gluten) - Spark Plugin to Offload SQL Engine to Native Library.
+- [Anorm](https://github.com/playframework/anorm) - Simple data access layer that uses plain SQL to interact with the database and provides an API to parse and transform the resulting datasets.
 
 ## Math
 
@@ -292,3 +293,4 @@
 - [Scala One](https://github.com/propensive/one) - Platform of libraries for Scala 3.
 - [Managing micro libraries with Scala CLI - Alexandre Archambault (2022)](https://www.youtube.com/watch?v=_wG-DZ0FMQY)
 - [dexsearch](https://github.com/neandertech/dexsearch) - CLI lets you search for Scala libraries via Scaladex, and stores them in your clipboard, well formatted, ready to paste in build files and scripts.
+- [sbt-sonatype](https://github.com/xerial/sbt-sonatype) - sbt plugin for publishing Scala/Java projects to the Maven central.

@@ -185,3 +185,4 @@ title: Django
 - [Strawberry GraphQL Django integration](https://github.com/strawberry-graphql/strawberry-graphql-django)
 - [Silk](https://github.com/jazzband/django-silk) - Live profiling and inspection tool for the Django framework.
 - [Strawberry Django](https://github.com/blb-ventures/strawberry-django-plus) - Enhanced Strawberry integration with Django.
+- [Django Cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.

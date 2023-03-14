@@ -990,3 +990,4 @@ if *boolArgPtr != false {
 - [Higher-order functions in Go (2023)](https://eli.thegreenplace.net/2023/higher-order-functions-in-go/)
 - [Building Modern CLI Applications in Go (2023)](https://www.packtpub.com/product/building-modern-cli-applications-in-go/9781804611654) ([Code](https://github.com/PacktPublishing/Building-Modern-CLI-Applications-in-Go))
 - [ko](https://github.com/ko-build/ko) - Build and deploy Go applications.
+- [gsv](https://github.com/Zxilly/go-size-view) - Tool to view the size of a Go compiled binary.

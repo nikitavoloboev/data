@@ -511,3 +511,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [Cutscenes](https://www.cutscenes.io/) - Create beautiful product videos.
 - [Chat Downloader](https://github.com/xenova/chat-downloader) - Simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed.
 - [Ask HN: What are some of the most interesting YouTube channels to follow? (2023)](https://news.ycombinator.com/item?id=35120777)
+- [Video Silence Remover](https://github.com/lucaslattari/Video-Silence-Remover) - Tool created to automatically remove silence from videos.

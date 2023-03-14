@@ -904,3 +904,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [RLLaMA](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 - [Self-Instruct: Aligning Language Model with Self Generated Instructions (2022)](https://arxiv.org/abs/2212.10560) ([Code](https://github.com/yizhongw/self-instruct))
 - [LLaMA - Run LLM in A Single 4GB GPU](https://github.com/juncongmoo/pyllama)
+- [GPT-4 (2023)](https://openai.com/research/gpt-4) ([HN](https://news.ycombinator.com/item?id=35154527)) ([Demo](https://www.youtube.com/watch?v=outcGtbnMuQ)) ([Tweet](https://twitter.com/OpenAI/status/1635687373060317185)) ([Tweet](https://twitter.com/DrJimFan/status/1635691047773966336))
+- [Evals](https://github.com/openai/evals) - Framework for evaluating OpenAI models and an open-source registry of benchmarks. ([HN](https://news.ycombinator.com/item?id=35154614))
+- [Anthropic | Introducing Claude (2023)](https://www.anthropic.com/index/introducing-claude) ([HN](https://news.ycombinator.com/item?id=35153815))
+- [Prompt in Context-Learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering.
+- [GPT-4 System Card (2023)](https://cdn.openai.com/papers/gpt-4-system-card.pdf)

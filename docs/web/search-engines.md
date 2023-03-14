@@ -344,3 +344,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [Google Search Is Dying (2022)](https://dkb.blog/p/google-search-is-dying) ([HN](https://news.ycombinator.com/item?id=35039360))
 - [Text Search with Tries (2021)](https://chidiwilliams.com/post/text-search-with-tries/)
 - [Comby Search](https://github.com/huytd/comby-search) - Code search tool based on Comby.
+- [retriv](https://github.com/AmenRa/retriv) - User-friendly and efficient search engine implemented in Python supporting Sparse, Dense and Hybrid retrieval.

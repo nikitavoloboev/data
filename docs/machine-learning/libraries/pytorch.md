@@ -8,6 +8,8 @@ title: PyTorch
 
 [TorchScale](https://github.com/microsoft/torchscale) is nice library for making [Transformers](https://arxiv.org/abs/1706.03762) efficiently. [BackPACK](https://github.com/f-dangel/backpack) is interesting too.
 
+[WebDataset](https://github.com/webdataset/webdataset) is interesting.
+
 ## Notes
 
 - [torch.fx allows you to write composable transformations in Python that take in PyTorch code and output PyTorch code](https://twitter.com/cHHillee/status/1367621538791317504)
@@ -209,7 +211,7 @@ title: PyTorch
 - [Fast Transformers](https://github.com/idiap/fast-transformers) - PyTorch library for fast transformer implementations.
 - [PyTorch Quantization Aware Training (2020)](https://leimao.github.io/blog/PyTorch-Quantization-Aware-Training/)
 - [Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering](https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip)
-- [WebDataset](https://github.com/tmbdev/webdataset) - PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives and uses only sequential/streaming data access.
+- [WebDataset](https://github.com/webdataset/webdataset) - High-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [Semantic Segmentation in PyTorch](https://github.com/yassouali/pytorch_segmentation)
 - [torchlambda](https://github.com/szymonmaszke/torchlambda) - Lightweight tool to deploy PyTorch models to AWS Lambda.
 - [torchfunc](https://github.com/szymonmaszke/torchfunc) - PyTorch functions and utilities to make your life easier.

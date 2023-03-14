@@ -1135,6 +1135,7 @@
 - [import-jsx](https://github.com/vadimdemedes/import-jsx) - Import and transpile JSX on the fly.
 - [webreflection/promise](https://github.com/WebReflection/promise) - Abortable and Resolvable Promises.
 - [Tiny LRU](https://github.com/avoidwork/tiny-lru) - Least Recently Used cache for Client or Server.
+- [Exif.js](https://github.com/exif-js/exif-js) - JavaScript library for reading EXIF image metadata.
 
 ## Links
 

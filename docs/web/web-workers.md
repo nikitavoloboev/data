@@ -31,3 +31,4 @@ title: Web workers
 - [Run](https://github.com/slashd-analytics/run) - Run user-provided code in a Web Worker.
 - [How Web Workers Work in JavaScript – With a Practical JS Example (2022)](https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/)
 - [Consider Animating Your Canvas in a Web Worker (2023)](https://www.macarthur.me/posts/animate-canvas-in-a-worker) ([Reddit](https://www.reddit.com/r/javascript/comments/11orzjw/consider_animating_your_canvas_in_a_web_worker/))
+- [Via.js](https://github.com/AshleyScirra/via.js) - Write JS code that runs in a different context. E.g. use the DOM in a Web Worker.

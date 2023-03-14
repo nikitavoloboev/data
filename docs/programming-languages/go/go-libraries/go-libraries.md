@@ -2106,6 +2106,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go-DateParser](https://github.com/markusmobius/go-dateparser) - Easily parse localized dates in almost any string formats commonly found on web pages.
 - [Iterium](https://github.com/mowshon/iterium) - Generic Channel-based Iterators.
 - [combinations](https://github.com/mxschmitt/golang-combinations) - Algorithm to generate all combinations out of a given string array.
+- [klevdb](https://github.com/klev-dev/klevdb) - Fast message store, written in Go. Think single partition on kafka, but stored locally.
+- [vault-client-go](https://github.com/hashicorp/vault-client-go) - HashiCorp Vault Go Client Library generated from OpenAPI spec.
 
 ## Links
 
