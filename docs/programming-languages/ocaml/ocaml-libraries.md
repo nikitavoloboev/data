@@ -255,6 +255,7 @@ title: OCaml libraries
 - [refl](https://github.com/thierry-martinez/refl) - Efficient and type-safe type reflection for OCaml.
 - [radixmap](https://github.com/paurkedal/ocaml-radixmap) - Map a la Binary Radix Tree.
 - [ocaml-iomux](https://github.com/haesbaert/ocaml-iomux) - IO multiplexers bindings for ocaml (poll/kqueue/epoll and so on).
+- [OTOML](https://github.com/dmbaturin/otoml) - TOML parsing, manipulation, and pretty-printing library for OCaml.
 
 ## Links
 

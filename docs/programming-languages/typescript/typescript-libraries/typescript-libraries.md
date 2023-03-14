@@ -832,6 +832,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [OpenAI Edge](https://github.com/dan-kwiat/openai-edge) - TypeScript module for querying OpenAI's API from an edge function environment.
 - [ModernDash](https://github.com/Maggi64/moderndash) - Typescript-First utility library inspired by Lodash. Optimized for modern browsers.
 - [dldr](https://github.com/maraisr/dldr) - Tiny utility for batching and caching operations.
+- [SF Symbols](https://github.com/nandorojo/sf-symbols-typescript) - TypeScript types for iOS SF Symbols.
 
 ## Links
 

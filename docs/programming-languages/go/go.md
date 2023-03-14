@@ -986,3 +986,4 @@ if *boolArgPtr != false {
 - [Code coverage for Go integration tests (2023)](https://go.dev/blog/integration-test-coverage) ([HN](https://news.ycombinator.com/item?id=35074183))
 - [Efficiently writing binary data in Go (2023)](https://hondu.co/blog/efficiently-writing-binary-data-golang)
 - [Higher-order functions in Go (2023)](https://eli.thegreenplace.net/2023/higher-order-functions-in-go/)
+- [Building Modern CLI Applications in Go (2023)](https://www.packtpub.com/product/building-modern-cli-applications-in-go/9781804611654) ([Code](https://github.com/PacktPublishing/Building-Modern-CLI-Applications-in-Go))

@@ -40,7 +40,7 @@
 - [Using Mnesia in an Elixir Application (2020)](https://blog.appsignal.com/2020/05/19/using-mnesia-in-an-elixir-application.html) ([Lobsters](https://lobste.rs/s/bpyepm/using_mnesia_elixir_application))
 - [Reusable Elixir Libraries (2020)](https://keathley.io/blog/reusable-libraries.html)
 - [Homemade analytics with Ecto and Elixir (2020)](https://dashbit.co/blog/homemade-analytics-with-ecto-and-elixir)
-- [Elixir School](https://elixirschool.com/en)
+- [Elixir School](https://elixirschool.com/en) ([Code](https://github.com/elixirschool/school_house))
 - [Elixir RAM and the Template of Doom (2016)](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
 - [The BEAM has Spoiled Me (2020)](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html) ([HN](https://news.ycombinator.com/item?id=24172336))
 - [Parse, don't validate — Elixir edition (2020)](https://well-ironed.com/articles/parse-dont-validate-elixir-edition/)

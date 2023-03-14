@@ -212,6 +212,8 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Tic Tac Toe implementation over network](https://github.com/dineshgowda24/tic-tac-toe)
 - [Bemuse](https://bemuse.ninja/) - Web-based online rhythm action game. ([Code](https://github.com/bemusic/bemuse))
 - [Defect Process](https://github.com/incoherentsoftware/defect-process) - 2D hack n' slash game in Haskell.
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Indie Turn Based Strategy in Isometric Pixel Art.
+- [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Indie Turn Based Strategy in Isometric Voxel Art. ([Web](https://tof.p1x.in/))
 
 ## Awesome games (other)
 

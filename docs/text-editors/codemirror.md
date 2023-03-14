@@ -26,3 +26,4 @@ title: CodeMirror
 - [CodeMirror Lint](https://github.com/codemirror/lint) - Linting support for the CodeMirror code editor.
 - [Solid CoreMirror](https://github.com/riccardoperra/solid-codemirror)
 - [CodeMirror Indentation Markers](https://github.com/replit/codemirror-indentation-markers)
+- [Svelte CodeMirror Editor](https://github.com/touchifyapp/svelte-codemirror-editor)

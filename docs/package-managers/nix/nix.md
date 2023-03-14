@@ -522,3 +522,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix journey: My grand unified theory of Nix documentation (2023)](https://tinkering.xyz/nix-docs-unified-theory/)
 - [Cachix 1.3: Uploads unleashed (2023)](https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/) ([HN](https://news.ycombinator.com/item?id=35067224)) ([Lobsters](https://lobste.rs/s/7lipts/cachix_1_3_nix_uploads_unleashed))
 - [Nix — не только пакетный менеджер (2023)](https://www.youtube.com/watch?v=0Lhahzs-Wos)
+- [NixOS/Nix training material](https://github.com/spacekookie/learning-nix)
+- [Nixlings](https://github.com/spacekookie/nixlings) - Small exercises to get you used to reading and writing Nix code.

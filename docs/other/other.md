@@ -773,3 +773,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How I work](https://formaat.notion.site/How-I-work-e352aa3c8d334c3a8c3d1f3c0f08c61c)
 - [Pisano](https://github.com/JonasKruckenberg/pisano) - Explore interesting Pisano Period visualisations.
 - [Liikennematto](https://github.com/klemola/liikennematto) - Small scale traffic simulation with a playful approach.
+- [Electric Air](https://www.electricair.io/) - Heat pump sold directly to homeowners. ([HN](https://news.ycombinator.com/item?id=35138319))

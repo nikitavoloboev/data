@@ -10,7 +10,7 @@ title: WebAssembly
 
 [Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/) is great too.
 
-[Luna](https://github.com/thomscoder/luna) is nice code to study to understand WASM.
+[Luna](https://github.com/thomscoder/luna) & [Kyoto](https://github.com/raphamorim/kyoto) has nice code to study to understand WASM.
 
 [Extism](https://github.com/extism/extism) looks nice for extending native code.
 
@@ -437,3 +437,4 @@ title: WebAssembly
 - [browser_wasi_shim](https://github.com/bjorn3/browser_wasi_shim) - WASI shim for in the browser.
 - [Pre-initialization of garbage-collected WebAssembly heaps (2023)](https://wingolog.org/archives/2023/03/10/pre-initialization-of-garbage-collected-webassembly-heaps)
 - [pywasm](https://github.com/mohanson/pywasm) - WebAssembly interpreter written in pure Python.
+- [Kyoto](https://github.com/raphamorim/kyoto) - Programming language designed to build WebAssembly.

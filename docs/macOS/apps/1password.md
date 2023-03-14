@@ -59,3 +59,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Bitwarden Client Applications](https://github.com/bitwarden/clients)
 - [spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package.
 - [Goodbye, passwords (1Password Passkey support) (2023)](https://blog.1password.com/unlock-1password-with-passkeys/) ([HN](https://news.ycombinator.com/item?id=34752723))
+- [Vespass](https://github.com/nalinbhardwaj/Vespass) - New Kind of Password Manager.

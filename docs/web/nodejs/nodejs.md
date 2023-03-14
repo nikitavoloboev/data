@@ -459,3 +459,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [Defer](https://www.defer.run/) - Zero infrastructure Node.js background jobs. ([Docs](https://docs.defer.run/)) ([Docs Code](https://github.com/defer-run/defer.client))
 - [Turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.
 - [node-gyp-build](https://github.com/prebuild/node-gyp-build) - Build tool and bindings loader for node-gyp that supports prebuilds.
+- [env-var](https://github.com/evanshortiss/env-var) - Verification, sanitization, and type coercion for environment variables in Node.

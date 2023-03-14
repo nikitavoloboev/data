@@ -224,3 +224,4 @@ title: Terraform
 - [Terradrift](https://github.com/rootsami/terradrift) - Tool to detect drifts in Terraform IaC.
 - [Terraform Configurations With Nickel](https://github.com/tweag/tf-ncl)
 - [Open Source MLOps Stack Recipes](https://github.com/zenml-io/mlops-stacks)
+- [Terrars](https://github.com/andrewbaxter/terrars) - Tool for building Terraform stacks in Rust.
