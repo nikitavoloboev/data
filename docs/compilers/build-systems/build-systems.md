@@ -1,6 +1,6 @@
 # Build systems
 
-[Nx](https://nx.dev/) & [Turborepo](https://turborepo.org/) are nice.
+[Vite](../../web/vite.md), [Nx](https://nx.dev/), [Turborepo](https://turborepo.org/) & [unplugin](https://github.com/unjs/unplugin) are nice.
 
 ## Links
 

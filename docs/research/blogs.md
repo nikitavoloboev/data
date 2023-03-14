@@ -384,6 +384,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Transformer Circuits Thread](https://transformer-circuits.pub/)
 - [Nikita Lapkov](https://laplab.me/posts/)
 - [Immunant](https://immunant.com/blog/)
+- [Pavel Panchekha](https://pavpanchekha.com/blog.html)
 
 ## Notes
 

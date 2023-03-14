@@ -635,3 +635,4 @@ all: unset
 - [On Container Queries, Responsive Images, and JPEG-XL (2023)](https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/) ([HN](https://news.ycombinator.com/item?id=34979942))
 - [unpic/placeholder](https://github.com/ascorbic/unpic-placeholder) - Pure-CSS image placeholders.
 - [Scrollbar](https://scrollbar.app/) - Web app which helps developers to design and implement custom scrollbars. ([Code](https://github.com/henripar/scrollbar))
+- [Cassius](https://github.com/uwplse/Cassius) - Formalization of CSS, making it possible to build tools that reason about the appearance of web pages.

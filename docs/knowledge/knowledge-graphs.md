@@ -145,4 +145,4 @@
 - [Wiki Graph](https://blinpete.github.io/wiki-graph/?lang=en&query=) - Graph client for Wikipedia. ([Code](https://github.com/blinpete/wiki-graph))
 - [DeepKE](https://github.com/zjunlp/DeepKE) - Open Toolkit for Knowledge Graph Extraction and Construction.
 - [CSKG](https://github.com/usc-isi-i2/cskg) - CommonSense Knowledge Graph.
-- [From Books to Knowledge Graphs (2023)](https://arxiv.org/abs/2204.10766)
+- [From Books to Knowledge Graphs (2023)](https://arxiv.org/abs/2204.10766) ([HN](https://news.ycombinator.com/item?id=35135900))
