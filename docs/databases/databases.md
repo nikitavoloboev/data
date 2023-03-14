@@ -788,3 +788,6 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [A Relational Spreadsheet (2023)](https://kevinlynagh.com/relational-spreadsheet/) ([HN](https://news.ycombinator.com/item?id=34946189))
 - [Database Cryptography Fur the Rest of Us (2023)](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/) ([Lobsters](https://lobste.rs/s/px3ovv/database_cryptography_fur_rest_us))
 - [How to model one-to-one relationships - Tigris Data Modeling Series (2023)](https://www.tigrisdata.com/blog/modelling-one-to-one-relations/)
+- [How Binary JSON Works in YDB (2022)](https://laplab.me/posts/how-binary-json-works-in-ydb/)
+- [How Did I Become Database Engineer at 23 (2022)](https://laplab.me/posts/how-did-i-become-database-engineer-at-23/)
+- [Things DBs Don't Do - But Should (2023)](https://www.thenile.dev/blog/things-dbs-dont-do)

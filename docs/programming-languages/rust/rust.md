@@ -1087,3 +1087,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Hands-On Functional Programming in Rust Book (2018)](https://www.packtpub.com/product/hands-on-functional-programming-in-rust/9781788839358) ([Code](https://github.com/PacktPublishing/Hands-On-Functional-Programming-in-Rust))
 - [What learning resource has had the greatest impact in elevating your understanding and knowledge of Rust? (2023)](https://www.reddit.com/r/rust/comments/11pzzud/what_learning_resource_has_had_the_greatest/) ([Tweet](https://twitter.com/timClicks/status/1635156682652401664))
 - [Moving beyond Arc Mutex T - Katharina Fey (2023)](https://www.youtube.com/watch?v=Z-2siR9Ki84)
+- [Emitting Safer Rust with C2Rust (2023)](https://immunant.com/blog/2023/03/lifting/)

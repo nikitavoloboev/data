@@ -299,3 +299,4 @@
 - [Essentials of Compilation: An Incremental Approach in Python](https://twitter.com/jeremysiek/status/1631481677586259968) ([PDF](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf))
 - [Emscripten](https://emscripten.org/) - Complete compiler toolchain to WebAssembly, using LLVM, with a special focus on speed, size, and the Web platform. ([Code](https://github.com/emscripten-core/emsdk))
 - [Codon: A Compiler for High-Performance Pythonic Applications and DSLs (2023)](https://regmedia.co.uk/2023/03/11/mit_codon_paper.pdf) ([HN](https://news.ycombinator.com/item?id=35126303))
+- [Writing JIT Compiler on the Plane (2022)](https://laplab.me/posts/writing-jit-compiler-on-the-plane/)

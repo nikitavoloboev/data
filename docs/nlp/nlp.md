@@ -896,4 +896,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [FLAN Instruction Tuning](https://github.com/google-research/FLAN)
 - [Minimal LLaMA](https://github.com/zphang/minimal-llama)
 - [ALLaMo](https://github.com/chrisociepa/allamo) - Simple, hackable and fast implementation for training/finetuning medium-sized LLaMA-based models.
-- [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-following LLaMA model. ([HN](https://news.ycombinator.com/item?id=35139168)) ([Web](https://crfm.stanford.edu/alpaca/)) ([HN](https://news.ycombinator.com/item?id=35139450)) ([HN](https://news.ycombinator.com/item?id=35136624))
+- [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-following LLaMA model. ([HN](https://news.ycombinator.com/item?id=35139168)) ([Web](https://crfm.stanford.edu/alpaca/)) ([HN](https://news.ycombinator.com/item?id=35139450)) ([HN](https://news.ycombinator.com/item?id=35136624)) ([Web](https://crfm.stanford.edu/2023/03/13/alpaca.html))
+- [Modern language models refute Chomsky’s approach to language (2023)](https://lingbuzz.net/lingbuzz/007180)
