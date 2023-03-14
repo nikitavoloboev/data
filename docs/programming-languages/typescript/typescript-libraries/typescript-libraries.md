@@ -833,6 +833,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ModernDash](https://github.com/Maggi64/moderndash) - Typescript-First utility library inspired by Lodash. Optimized for modern browsers.
 - [dldr](https://github.com/maraisr/dldr) - Tiny utility for batching and caching operations.
 - [SF Symbols](https://github.com/nandorojo/sf-symbols-typescript) - TypeScript types for iOS SF Symbols.
+- [Modern.js](https://github.com/web-infra-dev/modern.js) - Web engineering system, including a web framework, a npm package solution and a documentation site solution.
+- [Untypeable](https://github.com/total-typescript/untypeable) - Get type-safe access to any API, with a zero-bundle size option.
+- [Micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices.
 
 ## Links
 

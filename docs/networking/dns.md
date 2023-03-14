@@ -274,3 +274,4 @@ title: DNS
 - [dns-detector](https://github.com/sun0day/dns-detector) - Tiny Node cli tool to resolve host IPs and find the fastest IP.
 - [Bizarre and Unusual Uses of DNS (2023)](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/) ([HN](https://news.ycombinator.com/item?id=34939809))
 - [How Rust and Wasm power Cloudflare's 1.1.1.1 (2023)](https://blog.cloudflare.com/big-pineapple-intro/)
+- [sniproxy](https://github.com/ameshkov/sniproxy) - SNI proxy with embedded DNS server that supports blocking and forwarding rules.

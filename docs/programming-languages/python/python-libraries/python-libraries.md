@@ -83,7 +83,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [HStream](https://github.com/conradbez/hstream) - Quick Python web apps. Streamlit alternative using htmx. ([HN](https://news.ycombinator.com/item?id=33547813))
 - [pyxl4](https://github.com/pyxl4/pyxl4) - Extend Python syntax with HTML.
 - [terminado](https://github.com/jupyter/terminado) - Tornado websocket backend for the Xterm.js JavaScript terminal emulator library.
-- [Pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. ([HN](https://news.ycombinator.com/item?id=33922754))
+- [Pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. ([HN](https://news.ycombinator.com/item?id=33922754)) ([Web](https://pynecone.io/)) ([HN](https://news.ycombinator.com/item?id=35136827))
 - [Falcon](https://github.com/falconry/falcon) - Minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale.
 - [hface](https://github.com/akamai/hface) - Hackable HTTP/{1,2,3} {client,server,proxy}.
 - [rush](https://github.com/sigmavirus24/rush) - Library for throttles.
@@ -1167,6 +1167,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Fickling](https://github.com/trailofbits/fickling) - Decompiler, static analyzer, and bytecode rewriter for Python pickle object serializations.
 - [MakeELF](https://github.com/v3l0c1r4pt0r/makeelf) - ELF reader-writer library for Python3.
 - [Sushi](https://github.com/dev-sushi/sushi) - Library that allows you to run functions from other languages without needing to translate the code.
+- [scikit-build-core](https://github.com/scikit-build/scikit-build-core) - Next generation Python CMake adaptor and Python API for plugins.
 
 ## Notes
 
@@ -1388,3 +1389,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Awesome pyproject.toml](https://github.com/carlosperate/awesome-pyproject)
 - [Swift Python Cookiecutter](https://github.com/KennethEnevoldsen/swift-python-cookiecutter) - Python package template intended for low maintenance and quick package development.
 - [JSON Schema generate Python types](https://github.com/camptocamp/jsonschema-gentypes) - Tools to generate Python types based on TypedDict from a JSON schema.
+- [FawltyDeps](https://github.com/tweag/FawltyDeps) - Dependency checker for Python. ([Article](https://www.tweag.io/blog/2023-03-14-announcing-fawltydeps/))

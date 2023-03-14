@@ -65,6 +65,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [far.vim](https://github.com/brooth/far.vim) - Find And Replace.
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [marks.nvim](https://github.com/chentau/marks.nvim) - Better user experience for interacting with and manipulating Vim marks.
+- [TreeSJ](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code.
 - [nvim-magic](https://github.com/jameshiew/nvim-magic) - Pluggable framework for using AI code assistance in Neovim.
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
 - [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.

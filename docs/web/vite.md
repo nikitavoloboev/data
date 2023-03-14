@@ -136,3 +136,4 @@ title: Vite
 - [Vite Plugin GLSL](https://github.com/UstymUkhman/vite-plugin-glsl) - Import, inline (and compress) GLSL shader files.
 - [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - Vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat.
 - [Vite i18next Loader Plugin](https://github.com/alienfast/vite-plugin-i18next-loader)
+- [Vite Plugin Filter Replace](https://github.com/ikeq/vite-plugin-filter-replace) - Apply filter-based replacements.

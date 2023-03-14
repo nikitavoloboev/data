@@ -123,3 +123,4 @@ title: Agda
 - [Completeness for categories of generalized automata](https://github.com/iwilare/categorical-automata) - Bicategories of automata, completeness of F-automata in monoidal categories.
 - [Abstract representation of scopes in Agda](https://github.com/jespercockx/scopes-n-roses)
 - [Risotto: Architecture Mapping Proofs in Agda](https://github.com/binary-translation/risotto-proofs)
+- [Interpreter and compiler for a procedural language (fragment of C) in Agda](https://github.com/andreasabel/plt-agda)

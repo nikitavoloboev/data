@@ -6,7 +6,7 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 
 [Whisper-rs](https://github.com/tazz4843/whisper-rs) is nice example of making bindings from Rust into C++ work well.
 
-[Circle](https://github.com/seanbaxter/circle) is an ambitious new C++ compiler.
+[Circle](https://github.com/seanbaxter/circle) & [Cheerp](https://github.com/leaningtech/cheerp-meta) are nice alternative compilers.
 
 ## Notes
 
@@ -57,7 +57,7 @@ Never wrote C++, [Rust](../rust/rust.md)/[Zig](../zig/zig.md)/[Go](../go/go.md) 
 - [Accelerated C++: Practical Programming by Example book (2000)](http://libertar.io/lab/wp-content/uploads/2017/03/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C-.pdf)
 - [2019 LLVM Developers’ Meeting: S. Haastregt & A. Stulova “An overview of Clang”](https://www.youtube.com/watch?v=5kkMpJpIGYU)
 - [C++ links: Coroutines](https://gist.github.com/MattPD/9b55db49537a90545a90447392ad3aeb)
-- [Cheerp](https://github.com/leaningtech/cheerp-meta) - C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript.
+- [Cheerp](https://github.com/leaningtech/cheerp-meta) - C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript. ([3.0](https://leaningtech.com/cheerp-3-0-the-most-advanced-c-compiler-for-the-web-now-permissively-licensed/)) ([Reddit](https://www.reddit.com/r/programming/comments/11r4mc9/cheerp_30_the_most_advanced_c_compiler_for_the/)) ([Code](https://github.com/leaningtech/cheerp-compiler))
 - [CppML](https://github.com/ZigaSajovic/CppML) - Meta Language for C++.
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 - [CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://www.youtube.com/watch?v=FJJTYQYB1JQ)

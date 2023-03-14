@@ -853,6 +853,7 @@
 - [ChunkSplitters](https://github.com/m3g/ChunkSplitters.jl) - Simple chunk splitters for parallel loop executions.
 - [LaTeXTabulars.jl](https://github.com/tpapp/LaTeXTabulars.jl) - Write tabular data from Julia in LaTeX format.
 - [ReplGPT.jl](https://github.com/ThatcherC/ReplGPT.jl) - Talk to ChatGPT from the Julia REPL.
+- [ScheduleMeetings](https://github.com/timholy/ScheduleMeetings.jl) - Schedule weekly meetings for lists of presenters.
 
 ## Links
 

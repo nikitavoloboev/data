@@ -386,3 +386,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [React Server Components with Dan Abramov, Joe Savona, and Kent C. Dodds (2023)](https://www.youtube.com/watch?v=h7tur48JSaw) ([Reddit](https://www.reddit.com/r/reactjs/comments/11m5hdi/react_server_components_with_dan_abramov_joe/))
 - [What React library or tool is causing you the most pain right now? (2023)](https://www.reddit.com/r/reactjs/comments/11ls3pw/what_library_or_tool_is_causing_you_the_most_pain/)
 - [Common Beginner Mistakes with React (2023)](https://www.joshwcomeau.com/react/common-beginner-mistakes/) ([HN](https://news.ycombinator.com/item?id=35108672))
+- [Preact MultiProvider](https://github.com/marvinhagemeister/preact-multi-provider) - Provide multiple contexts at the same time without getting lost in a jungle of context providers.

@@ -449,3 +449,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [Все что ты хотел знать о AWS Spot Instances, но боялся спросить (2023)](https://habr.com/en/post/719052/)
 - [Cloudlens](https://github.com/one2nc/cloudlens) - AWS Console in your terminal.
 - [Pull Request Preview Environments with AWS CDK and GitHub Actions](https://github.com/nikovirtala/cdk-preview-environments)
+- [AWS Serverless AI Stories](https://github.com/aws-samples/aws-serverless-ai-stories) - Using Lambda, EventBridge, DynamoDB, App Runner, ChatGPT and DALL-E.

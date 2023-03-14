@@ -344,3 +344,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [One Transformer Fits All Distributions in Multi-Modal Diffusion (2022)](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf) ([Code](https://github.com/thu-ml/unidiffuser))
 - [Breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser.
 - [Stable Diffusion WebUI 3D Model Loader](https://github.com/jtydhr88/sd-3dmodel-loader)
+- [Erasing Concepts from Diffusion Models (2023)](https://arxiv.org/abs/2303.07345) ([Code](https://github.com/rohitgandikota/erasing))

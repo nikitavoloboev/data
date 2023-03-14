@@ -24,6 +24,8 @@ It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/go
 
 [Concurrency in Go Fundamentals](https://rogerwelin.github.io/golang/go/concurrency/2018/09/04/golang-concurrency-fundamentals.html) & [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns) are great to read to understand concurrency better. [Concurrency is not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg).
 
+[go](https://github.com/ko-build/ko) seems nice for deploying Go as containers.
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.
@@ -987,3 +989,4 @@ if *boolArgPtr != false {
 - [Efficiently writing binary data in Go (2023)](https://hondu.co/blog/efficiently-writing-binary-data-golang)
 - [Higher-order functions in Go (2023)](https://eli.thegreenplace.net/2023/higher-order-functions-in-go/)
 - [Building Modern CLI Applications in Go (2023)](https://www.packtpub.com/product/building-modern-cli-applications-in-go/9781804611654) ([Code](https://github.com/PacktPublishing/Building-Modern-CLI-Applications-in-Go))
+- [ko](https://github.com/ko-build/ko) - Build and deploy Go applications.

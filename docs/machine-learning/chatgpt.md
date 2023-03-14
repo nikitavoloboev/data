@@ -194,3 +194,5 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [ChatGTP starter app](https://github.com/gannonh/gpt3.5-turbo-pgvector)
 - [Integration of ChatGPT, Stable Diffusion, and Eleven Labs](https://aidev.codes/) ([HN](https://news.ycombinator.com/item?id=35113219))
 - [OpenChatKit](https://www.together.xyz/blog/openchatkit) - Powerful, open-source base to create both specialized and general purpose chatbots for various applications. ([HN](https://news.ycombinator.com/item?id=35113534))
+- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt) - Open-source ChatGPT app with a voice.
+- [GPTerminal](https://github.com/AineeJames/ChatGPTerminator) - ChatGPT Terminal Interface.

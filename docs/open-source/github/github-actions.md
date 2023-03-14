@@ -287,6 +287,7 @@ title: GitHub actions
 - [setup-bin](https://github.com/supplypike/setup-bin) - Sets up a binary in $PATH for use in actions.
 - [Issue Manager](https://github.com/tiangolo/issue-manager) - Automatically close issues that have a label, after a custom delay, if no one replies back.
 - [Code Sign Action](https://github.com/lando/code-sign-action) - Code sign files.
+- [cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions.
 
 ## Go
 

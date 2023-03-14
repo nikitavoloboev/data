@@ -774,3 +774,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Pisano](https://github.com/JonasKruckenberg/pisano) - Explore interesting Pisano Period visualisations.
 - [Liikennematto](https://github.com/klemola/liikennematto) - Small scale traffic simulation with a playful approach.
 - [Electric Air](https://www.electricair.io/) - Heat pump sold directly to homeowners. ([HN](https://news.ycombinator.com/item?id=35138319))
+- [repco](https://github.com/openaudiosearch/repco) - Replication & Collection for community media.
+- [waybackgif](https://github.com/whatrocks/waybackgif) - Create GIF of chronological screenshots from any website on Wayback Machine.

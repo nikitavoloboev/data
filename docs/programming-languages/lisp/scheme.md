@@ -118,3 +118,4 @@ title: Scheme
 - [Scheme structured access to bytevector contents](https://github.com/TaylanUB/scheme-bytestructures)
 - [Nugget](https://github.com/justinethier/nugget) - Compiler for a tiny subset of the Scheme language.
 - [Chibi-Scheme](https://github.com/ashinn/chibi-scheme) - Minimal Scheme Implementation for use as an Extension Language.
+- [Chez Scheme backend for PureScript](https://github.com/purescm/purs-backend-chez)

@@ -14,8 +14,8 @@ This is an extension of [everything I know](everything-I-know.md).
 
 ## Code
 
-- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor for code. 
-- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - Editing wiki mostly in combination with [Obsidan](../tools/obsidian.md). 
+- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor for code.
+- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - Editing wiki mostly in combination with [Obsidan](../tools/obsidian.md).
 - [Xcode](../macOS/apps/xcode/xcode.md) - Swift/SwiftUI.
 - [Dash](https://kapeli.com/dash) - Search docs.
 
@@ -83,9 +83,9 @@ This is an extension of [everything I know](everything-I-know.md).
 ## Tech
 
 - Static sites / Docs / Web Apps - [Solid](../programming-languages/javascript/js-libraries/solid.md)
-- HTTP APIs - [Hono](https://github.com/honojs/hono) deployed on [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md). Or [Go](../programming-languages/go/go.md)/[Rust](../programming-languages/rust/rust.md) packaged as [Docker container](../operating-systems/containers/docker.md) with [Nix](../package-managers/nix/nix.md). Deployed on [Cloud Run](https://cloud.google.com/run/) or [Fly.io](../cloud-computing/fly-io.md) or own hardware with [Hetzner](https://www.hetzner.com/).
--  CLI/scripts - [TS](../programming-languages/typescript/typescript.md) ran with [Bun](../programming-languages/javascript/bun.md). Or [Go](../programming-languages/go/go.md)/[Rust](../programming-languages/rust/rust.md).
-- DB - [Grafbase](../networking/graphql/grafbase.md) preferred for ease of use. [SQLite](../databases/sqlite.md) for local DB in desktop apps. [Postgres](../databases/postgresql.md)/[PlanetScale](../databases/planetscale.md) are nice too combined with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) or [Prisma](../databases/prisma.md). [EdgeDB](../databases/edgedb.md) is great as well.
+- HTTP APIs - [Hono](https://github.com/honojs/hono) deployed on [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md). Or [Go](../programming-languages/go/go.md)/[Rust](../programming-languages/rust/rust.md) packaged as lean [Docker container](../operating-systems/containers/docker.md) with [Nix](../package-managers/nix/nix.md). Deployed on [Cloud Run](https://cloud.google.com/run/) or [Fly.io](../cloud-computing/fly-io.md) or own hardware with [Hetzner](https://www.hetzner.com/).
+- CLI/scripts - [TS](../programming-languages/typescript/typescript.md) ran with [Bun](../programming-languages/javascript/bun.md). Or [Go](../programming-languages/go/go.md)/[Rust](../programming-languages/rust/rust.md).
+- DB - [Grafbase](../networking/graphql/grafbase.md) preferred for ease of use. [SQLite](../databases/sqlite.md) for local DB in [iOS](../operating-systems/ios/ios.md)/[Tauri](../programming-languages/rust/rust-libraries/tauri.md) apps. [Postgres](../databases/postgresql.md)/[PlanetScale](../databases/planetscale.md) are nice too combined with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) or [Prisma](../databases/prisma.md). [EdgeDB](../databases/edgedb.md) is great as well.
 - Auth (SSO, 2FA) - GitHub/Google single sign on auth preferred.
 - iOS - [Swift](../programming-languages/swift/swift.md)/[SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md). Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
 - Desktop - [Tauri](../programming-languages/rust/rust-libraries/tauri.md) that wraps over [Solid](../programming-languages/javascript/js-libraries/solid.md) web app.
@@ -141,5 +141,5 @@ This is an extension of [everything I know](everything-I-know.md).
 
 ## Other
 
-- Format all code automatically. [Prettier](https://prettier.io) for most things. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift. 
+- Format all code automatically. [Prettier](https://prettier.io) for most things. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift.
 - Forms: Write in code. [Reform](https://www.reform.app/) seems nice too.

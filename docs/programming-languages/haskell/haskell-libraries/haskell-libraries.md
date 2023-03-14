@@ -442,6 +442,7 @@
 - [colourista](https://github.com/kowainik/colourista) - Convenient interface for printing colorful messages.
 - [Vector-Algorithms](https://github.com/erikd/vector-algorithms)
 - [JSON-RPC](https://github.com/jprupp/json-rpc) - Fully-featured JSON-RPC 2.0 library for Haskell programs.
+- [base-orphans](https://github.com/haskell-compat/base-orphans) - Backwards-compatible orphan instances for base.
 
 ## Notes
 

@@ -546,7 +546,7 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Коллекция готовых SQL запросов для PostgreSQL](https://github.com/rin-nas/postgresql-patterns-library)
 - [Postgres 15 improves UNIQUE and NULL (2022)](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null) ([HN](https://news.ycombinator.com/item?id=32053293))
 - [Postgres Full-Text Search: A Search Engine in a Database (2021)](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database) ([HN](https://news.ycombinator.com/item?id=32059566))
-- [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals) ([HN](https://news.ycombinator.com/item?id=32088316))
+- [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals) ([HN](https://news.ycombinator.com/item?id=32088316)) ([PDF](https://edu.postgrespro.com/postgresql_internals-14_en.pdf))
 - [Postgres Indexing: When Does BRIN Win? (2022)](https://www.crunchydata.com/blog/postgres-indexing-when-does-brin-win) ([HN](https://news.ycombinator.com/item?id=32089947))
 - [PQ](https://github.com/malthe/pq) - Simple transactional queue for PostgreSQL written in Python.
 - [PostgreSQL views and materialized views and how they influenced TimescaleDB (2022)](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/) ([HN](https://news.ycombinator.com/item?id=32097663))

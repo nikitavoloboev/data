@@ -6,6 +6,8 @@ title: Xcode
 
 [Tuist](https://github.com/tuist/tuist) & [Xcode Copilot](https://github.com/intitni/CopilotForXcode) are great.
 
+[ShadowVim](https://github.com/mickael-menu/ShadowVim) seems nice too.
+
 ## Notes
 
 - ["Run without building" has saved me so much time, it's ridiculous](https://twitter.com/DonnyWals/status/1215196512851984385)
