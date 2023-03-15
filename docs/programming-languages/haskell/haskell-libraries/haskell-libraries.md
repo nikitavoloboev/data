@@ -443,6 +443,7 @@
 - [Vector-Algorithms](https://github.com/erikd/vector-algorithms)
 - [JSON-RPC](https://github.com/jprupp/json-rpc) - Fully-featured JSON-RPC 2.0 library for Haskell programs.
 - [base-orphans](https://github.com/haskell-compat/base-orphans) - Backwards-compatible orphan instances for base.
+- [boring](https://github.com/phadej/boring) - Boring and Absurd types.
 
 ## Notes
 

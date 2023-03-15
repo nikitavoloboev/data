@@ -128,6 +128,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-dns](https://github.com/kirelagin/nix-dns) - Nix DSL for DNS zone files.
 - [Nix-based app VMs](https://github.com/jollheef/appvm)
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files.
+- [nix-index-database](https://github.com/Mic92/nix-index-database) - Weekly updated nix-index database.
 - [Nix-bisect](https://github.com/timokau/nix-bisect) - Bisect Nix Builds.
 - [Thoughts on Nix (2020)](https://christine.website/blog/thoughts-on-nix-2020-01-28) ([Lobsters](https://lobste.rs/s/tp6o0q/thoughts_on_nix))
 - [I was Wrong about Nix (2020)](https://christine.website/blog/i-was-wrong-about-nix-2020-02-10) ([HN](https://news.ycombinator.com/item?id=22295102)) ([Lobsters](https://lobste.rs/s/4otqzp/i_was_wrong_about_nix))
@@ -524,3 +525,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix — не только пакетный менеджер (2023)](https://www.youtube.com/watch?v=0Lhahzs-Wos)
 - [NixOS/Nix training material](https://github.com/spacekookie/learning-nix)
 - [Nixlings](https://github.com/spacekookie/nixlings) - Small exercises to get you used to reading and writing Nix code.
+- [buildxyz](https://github.com/RaitoBezarius/buildxyz) - Build your Nix package automatically.

@@ -111,3 +111,4 @@ title: Prometheus
 - [ts_prometheus](https://github.com/marcopacini/ts_prometheus) - Prometheus client in Typescript for Deno.
 - [AutometricsTS](https://github.com/autometrics-dev/autometrics-ts) - Easily add metrics to your system – and actually understand them using automatically customized Prometheus queries.
 - [AlertManager Prometheus GitHub Receiver](https://github.com/m-lab/alertmanager-github-receiver) - Prometheus Alertmanager webhook receiver that creates GitHub issues from alerts.
+- [How to use Prometheus for web application monitoring (2023)](https://jorzel.github.io/how-to-use-prometheus-for-web-application-monitoring/)

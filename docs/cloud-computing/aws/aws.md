@@ -450,3 +450,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [Cloudlens](https://github.com/one2nc/cloudlens) - AWS Console in your terminal.
 - [Pull Request Preview Environments with AWS CDK and GitHub Actions](https://github.com/nikovirtala/cdk-preview-environments)
 - [AWS Serverless AI Stories](https://github.com/aws-samples/aws-serverless-ai-stories) - Using Lambda, EventBridge, DynamoDB, App Runner, ChatGPT and DALL-E.
+- [Mountpoint](https://github.com/awslabs/mountpoint-s3) - File client for S3 written in Rust, from AWS. ([HN](https://news.ycombinator.com/item?id=35155944))

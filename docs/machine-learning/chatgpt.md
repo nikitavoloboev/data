@@ -197,3 +197,5 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt) - Open-source ChatGPT app with a voice.
 - [GPTerminal](https://github.com/AineeJames/ChatGPTerminator) - ChatGPT Terminal Interface.
 - [CLI for ChatGPT](https://github.com/j178/chatgpt)
+- [GenAI](https://github.com/noteable-io/genai) - Generative AI tooling for IPython.
+- [AIChat](https://github.com/sigoden/aichat) - Chat with ChatGPT in terminal.

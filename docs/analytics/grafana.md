@@ -38,3 +38,4 @@ title: Grafana
 - [Monitoring an Aquarium with InfluxDB and Grafana (2023)](https://www.bentasker.co.uk/posts/blog/house-stuff/monitoring-a-fishtank-with-influxdb-and-grafana.html)
 - [Grafana Dashboard Linter](https://github.com/grafana/dashboard-linter) - Tool to lint Grafana dashboards.
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards.
+- [Alerting](https://github.com/grafana/alerting) - Set of libraries used to build alerting systems at Grafana - including the Alertmanager.

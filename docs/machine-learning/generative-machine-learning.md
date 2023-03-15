@@ -345,3 +345,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser.
 - [Stable Diffusion WebUI 3D Model Loader](https://github.com/jtydhr88/sd-3dmodel-loader)
 - [Erasing Concepts from Diffusion Models (2023)](https://arxiv.org/abs/2303.07345) ([Code](https://github.com/rohitgandikota/erasing))
+- [Editing Implicit Assumptions in Text-to-Image Diffusion Models (2023)](https://arxiv.org/abs/2303.08084) ([Code](https://github.com/bahjat-kawar/time-diffusion))

@@ -225,3 +225,4 @@ title: Terraform
 - [Terraform Configurations With Nickel](https://github.com/tweag/tf-ncl)
 - [Open Source MLOps Stack Recipes](https://github.com/zenml-io/mlops-stacks)
 - [Terrars](https://github.com/andrewbaxter/terrars) - Tool for building Terraform stacks in Rust.
+- [OpenAPI Terraform Provider](https://github.com/dikhan/terraform-provider-openapi) - Minimize as much as possible the efforts needed from service providers to create and maintain custom terraform providers.

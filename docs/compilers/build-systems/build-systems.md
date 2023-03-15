@@ -141,3 +141,5 @@
 - [Turbo Racer](https://github.com/brunojppb/turbo-racer) - High-performance distributed remote cache for Turborepo.
 - [Moon](https://github.com/moonrepo/moon) - Build system and repo management tool for the web ecosystem, written in Rust. ([Web](https://moonrepo.dev/)) ([HN](https://news.ycombinator.com/item?id=34885077))
 - [Farm](https://github.com/farm-fe/farm) - Super fast web build tool written in Rust.
+- [How to speed up your next build 5-20x with Firebuild? (2023)](https://balintreczey.hu/blog/how-to-speed-up-your-next-build-with-firebuild/)
+- [Firebuild](https://github.com/firebuild/firebuild) - Automatic build accelerator.

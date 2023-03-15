@@ -59,3 +59,4 @@
 - [Our Trip to Prime Number Theorem (2021)](https://susam.net/club/trip-to-prime-number-theorem.html)
 - [A formula for the n’th digit of 𝜋 and 𝜋^n (2022)](https://arxiv.org/abs/2201.12601) ([HN](https://news.ycombinator.com/item?id=34389145))
 - [In a Moment, Mathematicians Merge Probability and Number Theory (2023)](https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/)
+- [GCD Grid (2021)](https://susam.net/blog/gcd-grid.html)

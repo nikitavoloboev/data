@@ -19,6 +19,7 @@ title: Godot
 - [Tabletop Club](https://github.com/drwhut/tabletop-club) - Open-source platform for playing tabletop games in a physics-based 3D environment.
 - [Godot 2D Rhythm Game](https://github.com/GDQuest/godot-2d-rhythm)
 - [Mandrake](https://github.com/Akademya/mandrake) - Simple open-source turn-base RPG.
+- [Abandoned Spaceship Godot Demo](https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo) - Godot 4 demo scene of abandoned spaceship in overgrown hangar.
 
 ## Links
 

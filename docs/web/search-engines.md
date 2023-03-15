@@ -345,3 +345,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [Text Search with Tries (2021)](https://chidiwilliams.com/post/text-search-with-tries/)
 - [Comby Search](https://github.com/huytd/comby-search) - Code search tool based on Comby.
 - [retriv](https://github.com/AmenRa/retriv) - User-friendly and efficient search engine implemented in Python supporting Sparse, Dense and Hybrid retrieval.
+- [Google Images Search](https://github.com/vadimdemedes/google-images) - Search images using Google Custom Search Engine API.

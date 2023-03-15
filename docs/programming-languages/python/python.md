@@ -604,3 +604,4 @@ for i, _ in enumerate(nums):
 - [PEP 709 – Inlined comprehensions (2023)](https://peps.python.org/pep-0709/) ([Lobsters](https://lobste.rs/s/lrstjz/pep_709_inlined_comprehensions))
 - [How virtual environments work (2023)](https://snarky.ca/how-virtual-environments-work/) ([Lobsters](https://lobste.rs/s/ypbrf6/how_virtual_environments_work)) ([HN](https://news.ycombinator.com/item?id=35131357))
 - [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [ViperGPT: Visual Inference via Python Execution for Reasoning (2023)](https://viper.cs.columbia.edu/) ([Code](https://github.com/cvlab-columbia/viper))

@@ -909,3 +909,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Anthropic | Introducing Claude (2023)](https://www.anthropic.com/index/introducing-claude) ([HN](https://news.ycombinator.com/item?id=35153815))
 - [Prompt in Context-Learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering.
 - [GPT-4 System Card (2023)](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
+- [LangFlow](https://github.com/logspace-ai/langflow) - User Interface For LangChain.
+- [Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning](https://github.com/tloen/alpaca-lora)
+- [Paper list of "The Life Cycle of Knowledge in Big Language Models: A Survey"](https://github.com/c-box/KnowledgeLifecycle)

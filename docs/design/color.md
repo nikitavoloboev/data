@@ -225,3 +225,4 @@
 - [26 Buckets of Paint (2023)](https://m15y.com/posts/buckets)
 - [Blackbody Radiation Color Palette](https://temperature.m15y.com/)
 - [Arbitrary Beautiful Colors (2023)](https://khanlou.com/2023/02/arbitrary-beautiful-colors/)
+- [Why some GitHub labels illegible (2023)](https://firsching.ch/github_labels.html) ([HN](https://news.ycombinator.com/item?id=35134678))

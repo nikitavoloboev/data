@@ -439,3 +439,4 @@
 - [What is some simple but beautiful “Proof by Contradiction” you know?](https://www.reddit.com/r/math/comments/11ad58f/what_is_some_simple_but_beautiful_proof_by/)
 - [Directory of Mathematical Headaches](https://docs.google.com/document/d/1JZmjIiqJikVD69y5ZY8w0V8MI47lBdH1DrhLiBeKQh8/edit)
 - [What We Talk About When We Talk About Mathematics (2022)](http://philsci-archive.pitt.edu/20979/7/talk_archive.pdf) ([HN](https://news.ycombinator.com/item?id=35000338))
+- [Approximating pi using a cake (2023)](https://ntietz.com/blog/happy-pi-day-2023/)

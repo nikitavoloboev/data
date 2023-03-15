@@ -89,3 +89,4 @@
 - [Simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator.
 - [N64 WASM](https://github.com/nbarkhina/N64Wasm) - Web based N64 Emulator.
 - [Gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust.
+- [Boytacean](https://github.com/joamag/boytacean) - Game Boy emulator that is written in Rust.

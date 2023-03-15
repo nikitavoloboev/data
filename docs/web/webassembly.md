@@ -8,7 +8,7 @@ title: WebAssembly
 
 [This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice. Looking into trying out [AssemblyScript](https://github.com/AssemblyScript/assemblyscript).
 
-[Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/) is great too.
+[Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/) & [wasmCloud](https://github.com/wasmCloud/wasmCloud) are interesting too.
 
 [Luna](https://github.com/thomscoder/luna) & [Kyoto](https://github.com/raphamorim/kyoto) has nice code to study to understand WASM.
 
@@ -438,3 +438,4 @@ title: WebAssembly
 - [Pre-initialization of garbage-collected WebAssembly heaps (2023)](https://wingolog.org/archives/2023/03/10/pre-initialization-of-garbage-collected-webassembly-heaps)
 - [pywasm](https://github.com/mohanson/pywasm) - WebAssembly interpreter written in pure Python.
 - [Kyoto](https://github.com/raphamorim/kyoto) - Programming language designed to build WebAssembly.
+- [Scale](https://github.com/loopholelabs/scale) - High-Performance WebAssembly Function Runtime.

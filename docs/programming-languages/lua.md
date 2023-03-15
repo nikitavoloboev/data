@@ -160,3 +160,4 @@ title: Lua
 - [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 - [LuaFileSystem](https://github.com/lunarmodules/luafilesystem) - File System Library for Lua.
 - [luzer](https://github.com/ligurio/luzer) - Coverage-guided, native Lua fuzzing engine.
+- [Wasynth](https://github.com/Rerumu/Wasynth) - WebAssembly to Lua translation library and tool.

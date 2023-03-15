@@ -92,3 +92,4 @@ I also use [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) 
 - [Electron Context Menu](https://github.com/sindresorhus/electron-context-menu)
 - [electron/osx-sign](https://github.com/electron/osx-sign) - Codesign Electron macOS apps.
 - [Electron Fiddle](https://www.electronjs.org/fiddle/) - Get started with Electron. ([HN](https://news.ycombinator.com/item?id=34926027))
+- [Electron Discord](https://discord.com/invite/APGC3k5yaH)

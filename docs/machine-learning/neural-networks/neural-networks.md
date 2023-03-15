@@ -343,3 +343,4 @@
 - [Optical Transformers (2023)](https://arxiv.org/abs/2302.10360) ([HN](https://news.ycombinator.com/item?id=34905210))
 - [Toy neural network in C/Lua](https://github.com/cloudwu/neuralnet)
 - [CHGNet: Pretrained universal neural network potential for charge-informed atomistic modeling (2023)](https://arxiv.org/abs/2302.14231) ([Code](https://github.com/CederGroupHub/chgnet))
+- [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) - Tools for understanding how transformer predictions are built layer-by-layer.

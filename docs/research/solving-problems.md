@@ -52,8 +52,6 @@ Often times I don't need to go this deep into sketching everything out. And just
 
 [FigJam](https://www.figma.com/figjam/) and [Excalidraw](https://excalidraw.com/) are amazing as they allow you to collaborate on brainstorming together.
 
-Sometimes I doodle small things on [iPad](../operating-systems/ios/ipad.md) with Notes apps.
-
 If through this process, you find some part of solving the task, not useful or unneeded, remove it! [Why Tesla removed Radar and Ultrasonic sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io) is nice overview of this in action.
 
 Minimal viable working thing first!
@@ -73,6 +71,8 @@ Each subtask, one by one. No distractions during work [focus sessions](../focusi
 I use [great tools](../sharing/my-workflow.md) to make the process of solving tasks as smooth/fast as possible.
 
 Know [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximize chances of getting a good answer.
+
+Often times I reach out to authors of certain libraries directly, sponsor them for their work and ask for help on my issue. GitHub sponsors are great for bringing attention to certain issues.
 
 ## 5. Optimize. Document. Share solution.
 

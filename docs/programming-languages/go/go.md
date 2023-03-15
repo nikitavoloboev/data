@@ -991,3 +991,4 @@ if *boolArgPtr != false {
 - [Building Modern CLI Applications in Go (2023)](https://www.packtpub.com/product/building-modern-cli-applications-in-go/9781804611654) ([Code](https://github.com/PacktPublishing/Building-Modern-CLI-Applications-in-Go))
 - [ko](https://github.com/ko-build/ko) - Build and deploy Go applications.
 - [gsv](https://github.com/Zxilly/go-size-view) - Tool to view the size of a Go compiled binary.
+- [Go Gen Tools](https://github.com/duyledat197/go-gen-tools) - Go code generator for gRPC.

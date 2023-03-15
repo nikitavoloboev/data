@@ -256,6 +256,8 @@ title: OCaml libraries
 - [radixmap](https://github.com/paurkedal/ocaml-radixmap) - Map a la Binary Radix Tree.
 - [ocaml-iomux](https://github.com/haesbaert/ocaml-iomux) - IO multiplexers bindings for ocaml (poll/kqueue/epoll and so on).
 - [OTOML](https://github.com/dmbaturin/otoml) - TOML parsing, manipulation, and pretty-printing library for OCaml.
+- [Bitstring](https://github.com/xguerin/bitstring) - Bitstring matching for OCaml.
+- [Gen](https://github.com/c-cube/gen) - Simple, efficient iterators for OCaml.
 
 ## Links
 

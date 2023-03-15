@@ -200,3 +200,4 @@
 - [WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery.
 - [Color of the Night Sky](https://clarkvision.com/articles/color.of.the.night.sky/)
 - [Simple orbital mechanics simulation](https://github.com/jBugman/planets)
+- [General Relativity and Solar System Stability](https://zyrxvo.github.io/gr/) ([HN](https://news.ycombinator.com/item?id=35151646))

@@ -14,6 +14,8 @@ I never use [Node](../../web/nodejs/nodejs.md) now as Bun is faster and has nice
 
 [Elysia](https://github.com/elysiajs/elysia) is nice web framework although I prefer [Hono](https://hono.dev/).
 
+Wish someone ported [dax](https://github.com/dsherret/dax) to Bun.
+
 ## Links
 
 - [HN: Bun](https://news.ycombinator.com/item?id=31993429) ([Tweet](https://twitter.com/jarredsumner/status/1544460933753229312)) ([Lobsters](https://lobste.rs/s/5ebzbq/bun_is_fast_all_one_javascript_runtime))

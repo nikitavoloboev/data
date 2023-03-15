@@ -69,3 +69,4 @@ Berlin is [one of](visited.md) my favorite cities to visit. The food and people 
 - [timur](https://github.com/wrznr/timur) - Finite-state morphology for German.
 - [Germany's Energy Catastrophe (2022)](https://news.ycombinator.com/item?id=32104875)
 - [Taxel](https://github.com/quambene/taxel) - CLI and Rust bindings for the ELSTER Rich Client (ERiC).
+- [Oscars 2023: How Germany Translates History into Oscars Success](https://www.youtube.com/watch?v=avr7zZCPhqc)

@@ -536,3 +536,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Hierarchical Free Monads: The Most Developed Approach In Haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell)
 - [Three Layer](https://github.com/Holmusk/three-layer) - Architecture of Haskell web applications.
 - [Haskell on Fastly](https://github.com/nomeata/haskell-on-fastly) - Running Haskell via WebAssembly on Fastly.
+- [Embedding Functional Logic Programming in Haskell via a Compiler Plugin (2023)](https://www.youtube.com/watch?v=UlBcgY9RwPc)

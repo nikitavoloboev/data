@@ -106,4 +106,4 @@
 - [Bytebeam ESP SDK](https://github.com/bytebeamio/esp-bytebeam-sdk) - Application for connecting ESP devices to Bytebeam IoT platform.
 - [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 - [CHERIoT: Rethinking security for low-cost embedded systems (2023)](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/) ([Code](https://github.com/microsoft/cheriot-rtos))
-- [MQTT vs. Kafka: An IoT Advocate's Perspective (2023)](https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/)
+- [MQTT vs. Kafka: An IoT Advocate's Perspective (2023)](https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/) ([HN](https://news.ycombinator.com/item?id=35156380))
