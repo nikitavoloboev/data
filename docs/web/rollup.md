@@ -25,3 +25,4 @@ title: Rollup
 - [Rollup Plugin Visualizer](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
 - [Rollup Plugin Styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal Rollup plugin for styles.
 - [rollup-plugin-local-import](https://github.com/AriPerkkio/rollup-plugin-local-import) - Rollup plugin for manipulating local import/export statements.
+- [Rollup Docs](https://rollupjs.org/introduction/)
