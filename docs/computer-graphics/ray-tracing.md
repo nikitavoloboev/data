@@ -136,3 +136,4 @@ title: Ray tracing
 - [Accelerated Photon Mapping for Hardware-based Ray Tracing (using Falcor 5.2)](https://github.com/SirKero/RTProgressivePhotonMapper)
 - [Simple spectral ray tracer in Rust](https://github.com/tvh/rayer-rs)
 - [Lumen](https://github.com/yuphin/Lumen) - Vulkan ray tracing framework for various bidirectional path tracing techniques.
+- [Ray Tracing in One Weekend in Go](https://github.com/ypujante/ray-tracing)
