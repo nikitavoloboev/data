@@ -170,6 +170,7 @@ Love [Alain Chedotal](https://twitter.com/AlainChedotal)'s research.
 - [Deep MI Lab](https://deep-mi.org/) ([GitHub](https://github.com/Deep-MI))
 - [RatInABox](https://github.com/TomGeorge1234/RatInABox) - Python package for modelling locomotion in complex environments and spatially/velocity selective cell activity.
 - [Introduction to Neuroscience (2023)](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)
+- [improv](https://github.com/project-improv/improv) - Adaptive Platform for Neuroscience Experiments.
 
 ## Images
 

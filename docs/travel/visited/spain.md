@@ -15,3 +15,4 @@
 - [Investing from Spain - Bogleheads](https://www.bogleheads.org/wiki/Investing_from_Spain)
 - [How to find cheaper places to stay in Spain (2023)](https://www.reddit.com/r/digitalnomad/comments/114y3ux/anywhere_in_spain_affordable_for_a_month_stay/)
 - [Resources to learn Spanish](https://twitter.com/buildsghost/status/1628513830019170306)
+- [What it takes to be a tax resident in Spain](https://www.reddit.com/r/ExpatFIRE/comments/11q5qrk/moving_to_spain_taxes_as_resident_nonresident/)

@@ -286,3 +286,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [What if browser tabs were next to each other](https://twitter.com/mortenjust/status/1626479116060065792)
 - [Building Browser Extensions](https://www.buildingbrowserextensions.com/)
 - [browser-history](https://github.com/browser-history/browser-history) - Simple, zero-dependencies, developer-friendly Python package to retrieve web browser history.
+- [Vimmatic](https://github.com/ueokande/vimmatic) - Accelerates your web browsing with Vim power.

@@ -1180,3 +1180,4 @@
 - [NeRFshop: Interactive Editing of Neural Radiance Fields](https://github.com/graphdeco-inria/nerfshop)
 - [Blind Video Deflickering by Neural Filtering with a Flawed Atlas (2023)](https://github.com/ChenyangLEI/All-In-One-Deflicker)
 - [Universal Instance Perception as Object Discovery and Retrieval (2023)](https://github.com/MasterBin-IIAU/UNINEXT)
+- [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization (2023)](https://arxiv.org/abs/2303.07418) ([Code](https://github.com/Jiawei-Yang/FreeNeRF))

@@ -636,3 +636,4 @@ all: unset
 - [unpic/placeholder](https://github.com/ascorbic/unpic-placeholder) - Pure-CSS image placeholders.
 - [Scrollbar](https://scrollbar.app/) - Web app which helps developers to design and implement custom scrollbars. ([Code](https://github.com/henripar/scrollbar))
 - [Cassius](https://github.com/uwplse/Cassius) - Formalization of CSS, making it possible to build tools that reason about the appearance of web pages.
+- [Ten tips for better CSS transitions and animations (2023)](https://joshcollinsworth.com/blog/great-transitions)

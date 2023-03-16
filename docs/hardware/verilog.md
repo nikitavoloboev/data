@@ -74,3 +74,4 @@
 - [Bedrock](https://github.com/BerkeleyLab/Bedrock) - LBNL RF controls support HDL libraries.
 - [VGASIM](https://github.com/ZipCPU/vgasim) - Video display simulator.
 - [OpenLane](https://github.com/efabless/openlane2) - RTL to GDSII infrastructure library based on several components including OpenROAD, Yosys, Magic, Netgen, CVC, KLayout.
+- [Verible](https://github.com/chipsalliance/verible) - SystemVerilog developer tools, including a parser, style-linter, formatter and language server.

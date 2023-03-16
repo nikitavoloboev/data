@@ -2,22 +2,22 @@
 
 ## ~ 2030
 
-- Animals get human rights and are no longer forced to endure life in slaughterhouses and be eaten. No animal can be harmed for food. Being vegan is normal. Caring is normal.
-- Renewable & environmentally friendly energy sources fully replace fossil fuel use. Each country's grid is ran off renewable clean energy. Extreme carbon tax is implemented.
-- All vehicles are electrical. Autonomous driving fully realized.
-- Cure for all cancers & diseases (cheap immunotherapies, medicine, can regenerative any tissue/organ you need).
-- Psychedelics legalized. Possession, purchase and manufacturing. Psychotherapy is available everywhere.
-- NLP lets machines understand knowledge & language at deep level.
-- Universal basic income allows each person to work on problems they deeply care about. Novel ideas can be explored by each person according to their interest & skill.
-- Learn Anything is one of the top tools for learning and finding ideas. AI is able to craft personally optimized learning paths & connecting users to interesting novel ideas.
-- No more Electron and other wasteful tech used. All apps are native and use optimal amount of resources.
-- No more UX dark patterns. Each app/tool experience optimizes for user joy & empowerment.
-- Ability to control computers with thoughts at high bandwidth.
-- Smarter cities that are friendly to humans & wildlife, not cars.
+- Animals get proper rights and are [no longer forced to endure life in slaughterhouses and be eaten](../environment/veganism.md). No animal can be harmed for food, especially at industrial scale. Being vegan is normal. Caring is normal.
+- Renewable & [environmentally friendly energy](../environment/environment.md) sources fully replace fossil fuel use. Each country's grid is ran off renewable clean energy. Extreme carbon tax is implemented.
+- All [vehicles are electrical](../travel/transportation/transportation.md). [Autonomous driving](../machine-learning/autonomous-driving.md) fully realized.
+- Cure for all [cancers](../medicine/diseases/cancer.md) & [diseases](../medicine/diseases/diseases.md) (cheap [immunotherapies](../biology/immunology/immunotherapy.md), [medicine](../medicine/medicine.md), can [regenerate any tissue/organ](../biology/regenerative-medicine.md) you need).
+- [Psychedelics](../drugs/psychedelics/psychedelics.md) legalized. Possession, purchase and manufacturing. Psychotherapy is available everywhere.
+- [NLP](../nlp/nlp.md) lets machines understand [knowledge](../knowledge/knowledge.md) & [language](../languages/languages.md) at deep level.
+- Universal [basic income](../economy/basic-income.md) allows each person to [work on problems](../research/solving-problems.md) they deeply care about. Novel [ideas](../ideas/ideas.md) can be explored by each person according to their interest & skill.
+- [Learn Anything](../ideas/learn-anything.md) is one of the top tools for learning and finding ideas. [AI](../machine-learning/artificial-intelligence.md) is able to craft personally optimized [learning paths](../education/learning.md) & [connecting people](../relationships/relationships.md) to interesting novel ideas.
+- Desktop apps built on web tech, use [Tauri](../programming-languages/rust/rust-libraries/tauri.md), not [Electron](../web/electron.md). All apps should run on most optimial speeds and use optimal amount of resources. No shipping a whole renderer just to render a page. Use the [OS](../operating-systems/operating-systems.md).
+- No more [UX](../design/user-experience.md) dark patterns. Each app/tool experience optimizes for [user joy](../life/happiness.md) & empowerment.
+- Ability to [control computers with thoughts at high bandwidth](../neuroscience/brain-computer-interfaces.md).
+- Smarter [cities](../travel/cities.md) that are friendly to humans & [wildlife](../animals/animals.md), not cars.
 - A lot of designated areas across the globe given back to wildlife to flourish.
-- No dictators (China/Russia/..). Every country has proper democratic process with fairly elected leaders. Countries/cities compete for best talent & do best by their citizens.
-- There are efficient tools to grow food at home so more people can live off the grid without government intervention and need to pay tax.
-- Government conducts itself in transparent and open manner. Any change to constitution or law is done in the open. Every tax dollar should be accounted for without ability to mismanage the budget (no stealing).
+- No dictators ([China](../travel/visited/china.md)/[Russia](../travel/visited/russia.md)/..). Every country has proper [democratic](../governance/governance.md) process with fairly elected leaders. Countries/cities compete for best talent & do best by their citizens.
+- There are efficient tools to grow [food](../health/nutrition/foods.md) at home so more people can live off the grid without government intervention and need to pay tax.
+- Government conducts itself in transparent and open manner. Any change to constitution or law is done in the [open](../open-source/open-source.md). Every tax dollar should be accounted for without ability to mismanage the budget (no stealing).
 
 I try to get to this future as soon as possible by setting and completing my own personal [life goals](../focusing/goals.md).
 

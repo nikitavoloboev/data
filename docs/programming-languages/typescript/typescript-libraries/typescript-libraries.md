@@ -55,6 +55,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Pinecone.io Client](https://github.com/rileytomasek/pinecone-client) - Fetch based client for the Pinecone.io vector database with excellent TypeScript support.
 - [Orchid ORM](https://github.com/romeerez/orchid-orm)
 - [supabase-query](https://github.com/HermanNygaard/supabase-query) - Supercharge your development speed with Supabase and react-query, combined.
+- [BlinkDB](https://github.com/blinkdb-js/blinkdb) - In-memory JS database optimized for large scale storage on the frontend.
 
 ## Web
 

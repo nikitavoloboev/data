@@ -166,3 +166,4 @@
 - [Pandas 2.0 and the Arrow revolution (2023)](https://datapythonista.me/blog/pandas-20-and-the-arrow-revolution-part-i) ([HN](https://news.ycombinator.com/item?id=34968769))
 - [Demystifying the Parquet File Format (2022)](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)
 - [How to Get Started with Dbt (2023)](https://www.blef.fr/get-started-dbt/) ([HN](https://news.ycombinator.com/item?id=35080707))
+- [Miller](https://github.com/johnkerl/miller) - Like Awk, sed, cut, join, and sort for CSV, TSV, and tabular JSON. ([HN](https://news.ycombinator.com/item?id=35179799))

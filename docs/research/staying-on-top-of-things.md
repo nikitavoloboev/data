@@ -296,3 +296,5 @@ And these Discord servers:
 - [Ask HN: Where to have good discussions online? (2023)](https://news.ycombinator.com/item?id=34909082)
 - [Ask HN: More magazines like Quanta and Noema? (2023)](https://news.ycombinator.com/item?id=35114679)
 - [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments) ([HN](https://news.ycombinator.com/item?id=35126011))
+- [Quality News](https://github.com/social-protocols/news) - Towards a fairer ranking formula for Hacker News. ([HN](https://news.ycombinator.com/item?id=35183317))
+- [TrendBowl](https://www.trendbowl.app/#/overview) - New Web trends on a daily basis.

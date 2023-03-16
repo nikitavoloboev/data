@@ -677,6 +677,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [tinyjson](https://github.com/CosmWasm/tinyjson) - Fast and easy way to marshal/unmarshal Go structs to/from JSON to use with TinyGo.
 - [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) - Run Go WASM tests easily in your browser.
 - [nottinygc](https://github.com/wasilibs/nottinygc) - Higher-performance allocator for TinyGo WASI apps.
+- [go-indexeddb](https://github.com/hack-pad/go-indexeddb) - IndexedDB driver with bindings for Go code compiled to WebAssembly.
 
 ## GUI
 
@@ -2305,3 +2306,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go test and parallelism (2023)](https://bryce.is/writing/code/go-test-and-parallelism.html) ([Lobsters](https://lobste.rs/s/whvrpa/go_test_parallelism))
 - [Policy on util packages (2023)](https://brandur.org/fragments/policy-on-util-packages) ([Lobsters](https://lobste.rs/s/czi8ku/policy_on_util_packages))
 - [Are there any decent ORMs in Go? (2023)](https://www.reddit.com/r/golang/comments/11oi687/are_there_any_decent_orms_in_golang/)
+- [Automating boilerplate/scaffolding code with custom code generation in Go, with `jen` (2023)](https://www.jvt.me/posts/2023/03/11/go-custom-generate-jen/)

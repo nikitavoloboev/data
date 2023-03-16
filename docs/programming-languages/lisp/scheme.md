@@ -44,7 +44,7 @@ title: Scheme
 - [Compiling Scheme to C with flat closure conversion](http://matt.might.net/articles/compiling-scheme-to-c/)
 - [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)
 - [scheme.rs](https://github.com/isamert/scheme.rs) - Simple yet comprehensive scheme interpreter in rust.
-- [Functional Geometry with Gambit Scheme and Raylib](https://github.com/georgjz/functional-geometry-gambit-scheme) - Implementation based in Peter Henderson's paper "Functional Geometry".
+- [Functional Geometry with Gambit Scheme and Raylib](https://github.com/georgjz/functional-geometry-gambit-scheme) - Implementation based in Peter Henderson's paper "Functional Geometry". ([HN](https://news.ycombinator.com/item?id=35147946))
 - [Guile Scheme](https://www.gnu.org/software/guile/) - General-purpose, high-level programming language.
 - [Lokke](https://github.com/lokke-org/lokke) - Clojure for Guile.
 - [pfds](https://github.com/ijp/pfds) - Set of purely functional data structures written in R6RS Scheme.

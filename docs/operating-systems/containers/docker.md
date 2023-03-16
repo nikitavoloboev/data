@@ -301,3 +301,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [MRSK](https://github.com/mrsked/mrsk) - Deploys web apps anywhere from bare metal to cloud VMs using Docker with zero downtime.
 - [ADH](https://github.com/jcaromiq/adh-rust) - Docker 'Useful Commands' Helper.
 - [How we deploy faster with warm Docker containers (2023)](https://dagster.io/blog/fast-deploys-with-pex-and-docker) ([HN](https://news.ycombinator.com/item?id=35064079))
+- [Working out which Docker namespaces and images you most depend on (2023)](https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/)

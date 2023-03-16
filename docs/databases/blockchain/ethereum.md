@@ -778,3 +778,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Viem](https://github.com/wagmi-dev/viem) - TypeScript Interface for Ethereum. ([Web](https://viem.sh/))
 - [Polaris](https://github.com/berachain/polaris) - Modular implementation of the Ethereum Virtual Machine.
 - [substratum](https://github.com/clabby/substratum) - Opinionated, spec-compliant, optimized version of Optimism's contracts-bedrock package.
+- [Pyrometer](https://github.com/nascentxyz/pyrometer) - Tool for analyzing the security and parameters of a solidity smart contract.

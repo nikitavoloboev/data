@@ -2,6 +2,8 @@
 
 I use [1Password](../macOS/apps/1password.md) password manager for saving all my passwords, various other credentials and private notes and it has been a lifesaver thus far. Having a unique password for all my accounts and using 2FA wherever available means I should be quite safe in case any of my accounts gets breached or the password gets leaked.
 
+[Cloak](https://github.com/purton-tech/cloak) is nice for managing secrets in teams.
+
 ## Notes
 
 - [SolarWinds supply chain attack: SolarWinds were pushing the malware in updates. The malware itself is your standard DLL injection that establishes C2 and then allows them to come in and install further tools on it. They pushed it to everyone via update and made it look authentic by leveraging SolarWind's token-based authentication in the update process. Delivered through a trusted code signed agent, the software goes to a central management server on your network that is used to inventory and manage network infrastructure. Also whoever did this would have vetted the exploit by running it against all known anti-malware and log analysis systems to ensure it wasn't flagged, there are great videos that show how to obfuscate code to get past signature based detection and this was attack was certainly planned out and not using off the shelf exploit kits that would detected](https://www.reddit.com/r/technology/comments/kda9pl/alleged_russian_solarwinds_hack_probably_an_11_on/)
@@ -364,3 +366,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [X.520: What’s in a name? (2022)](https://medium.com/@sleevi_/x-520-whats-in-a-name-da6ea8954b4f)
 - [Covert](https://github.com/fmeringdal/covert) - Secrets management solution written in Rust.
 - [How to Yubikey: A Configuration Cheatsheet (2023)](https://debugging.works/blog/yubikey-cheatsheet/) ([HN](https://news.ycombinator.com/item?id=35091768))
+- [Cloak](https://github.com/purton-tech/cloak) - Secrets automation for developers.

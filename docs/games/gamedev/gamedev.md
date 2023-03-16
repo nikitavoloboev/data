@@ -335,3 +335,4 @@
 - [Game Asset Storage, Loading, Compression and Caching (2023)](https://ph3at.github.io/posts/Asset-Compression/)
 - [Creating Isometric RPG Game Backgrounds (2023)](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds) ([HN](https://news.ycombinator.com/item?id=34989407))
 - [Ask HN: Any solo game developers here? (2023)](https://news.ycombinator.com/item?id=35134805)
+- [Rust – Are We Game Yet?](https://arewegameyet.rs/) ([HN](https://news.ycombinator.com/item?id=35183038))

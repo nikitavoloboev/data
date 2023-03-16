@@ -3098,3 +3098,4 @@
 - [diff.rs](https://diff.rs/) - View a diff between crate versions. ([Code](https://github.com/xfbs/diff.rs))
 - [Rust CI config](https://github.com/jonhoo/rust-ci-conf) - Collection of CI configuration files for Rust projects.
 - [To async trait or just to trait (2023)](http://smallcultfollowing.com/babysteps/blog/2023/03/12/to-async-trait-or-just-to-trait/) ([Reddit](https://www.reddit.com/r/rust/comments/11pxtql/to_async_trait_or_just_to_trait/))
+- [Rust on Nails](https://rust-on-nails.com/) - Full stack web architecture for Rust. ([Code](https://github.com/purton-tech/rust-on-nails))

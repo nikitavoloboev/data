@@ -945,3 +945,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [cri-tools](https://github.com/kubernetes-sigs/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI).
 - [Shift-left Network Topology Analyzer](https://github.com/np-guard/cluster-topology-analyzer) - Analyzes resource YAMLs of a Kubernetes-based application to extract the required connectivity between its workloads.
 - [ktunnels](https://github.com/int128/ktunnels) - Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy.
+- [A brief guide to Kubernetes networking (2023)](https://ergomake.dev/blog/kubernetes-networking-guide/) ([HN](https://news.ycombinator.com/item?id=35181301))

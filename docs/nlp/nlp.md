@@ -899,7 +899,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-following LLaMA model. ([HN](https://news.ycombinator.com/item?id=35139168)) ([Web](https://crfm.stanford.edu/alpaca/)) ([HN](https://news.ycombinator.com/item?id=35139450)) ([HN](https://news.ycombinator.com/item?id=35136624)) ([Web](https://crfm.stanford.edu/2023/03/13/alpaca.html))
 - [Modern language models refute Chomsky’s approach to language (2023)](https://lingbuzz.net/lingbuzz/007180)
 - [High-throughput Generative Inference of Large Language Models with a Single GPU (2023)](https://arxiv.org/abs/2303.06865) ([HN](https://news.ycombinator.com/item?id=35146081))
-- [LLaMA-rs](https://github.com/setzer22/llama-rs/) - Run LLaMA inference on CPU, with Rust.
+- [LLaMA-rs](https://github.com/setzer22/llama-rs/) - Run LLaMA inference on CPU, with Rust. ([HN](https://news.ycombinator.com/item?id=35171527))
 - [llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model. ([HN](https://news.ycombinator.com/item?id=35026902))
 - [RLLaMA](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 - [Self-Instruct: Aligning Language Model with Self Generated Instructions (2022)](https://arxiv.org/abs/2212.10560) ([Code](https://github.com/yizhongw/self-instruct))
@@ -913,3 +913,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning](https://github.com/tloen/alpaca-lora)
 - [Paper list of "The Life Cycle of Knowledge in Big Language Models: A Survey"](https://github.com/c-box/KnowledgeLifecycle)
 - [AI Q&A for huggingface/diffusers](https://quick-question.fly.dev/huggingface/diffusers)
+- [bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - Inference of HuggingFace's BLOOM-like models in pure C/C++.
+- [MiniLLM: Large Language Models on Consumer GPUs](https://github.com/kuleshov/minillm)
+- [Guardrails](https://github.com/ShreyaR/guardrails) - Python package for specifying structure and type, validating and correcting the outputs of large language models.

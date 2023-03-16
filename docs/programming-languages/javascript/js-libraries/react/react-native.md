@@ -358,3 +358,4 @@ title: React Native
 - [React Native In App Review](https://github.com/MinaSamir11/react-native-in-app-review)
 - [Chain React](https://chainreactconf.com/) - React Native conference.
 - [FluentUI React Native](https://github.com/microsoft/fluentui-react-native) - React-native component library that implements the Fluent Design System.
+- [React Modal Sheet](https://github.com/Temzasse/react-modal-sheet) - Flexible bottom sheet component for your React apps.

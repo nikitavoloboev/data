@@ -653,3 +653,4 @@ Love how some started making GPT programs tuned to specific books like [this](ht
 - [bk](https://github.com/aeosynth/bk) - Terminal Epub reader.
 - [Burgr – Books in Your Terminal (2023)](https://blubsblog.bearblog.dev/burgr-books-in-your-terminal/) ([HN](https://news.ycombinator.com/item?id=34918782))
 - [BookGPT](https://book-gpt.vercel.app/) - Drop a book, start asking question. ([Code](https://github.com/fraserxu/book-gpt))
+- [BookFinder](https://www.bookfinder.com/) - Find books with just one search.

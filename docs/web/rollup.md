@@ -4,6 +4,10 @@ title: Rollup
 
 # [Rollup](https://github.com/rollup/rollup)
 
+## Useful plugins
+
+- [@rollup/plugin-terser](https://www.npmjs.com/package/@rollup/plugin-terser) - Rollup plugin to generate a minified bundle with terser.
+
 ## Links
 
 - [Rollup plugins](https://github.com/rollup)

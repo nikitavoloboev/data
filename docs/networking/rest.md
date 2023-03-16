@@ -6,8 +6,6 @@ title: REST
 
 I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
 
-[Chiselstrike](../tools/chiselstrike.md) seemed nice too although is now discontinued.
-
 ## Notes
 
 - [Can turn any REST endpoint into a GraphQL API by using stepzen](https://twitter.com/gethackteam/status/1510530560086654980)

@@ -4,7 +4,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 
 I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I like exploring [Dribble](https://dribbble.com/nikitavoloboev/likes), [Behance](https://www.behance.net/nikitavoloboev/appreciated), [ArtStation](https://www.artstation.com/nikitavoloboev/likes) & [Artsy](https://www.artsy.net/) for various art people have made.
 
-[INPRNT](https://www.inprnt.com/) is nice place to buy art pieces.
+[INPRNT](https://www.inprnt.com/) is nice place to buy art pieces. [Artvee](https://artvee.com/) is a nice way to discover art.
 
 ## Favorite artists
 

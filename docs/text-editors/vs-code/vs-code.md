@@ -89,3 +89,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VS Code's schemas](https://github.com/wraith13/vscode-schemas)
 - [Configuring VSCode as a Keyboard-Centric IDE (2023)](https://davi.sh/blog/2023/01/vscode-like-emacs/) ([Lobsters](https://lobste.rs/s/xqlzax/configuring_vscode_as_keyboard_centric))
 - [What do you change in VSCode settings first thing? (2023)](https://twitter.com/code/status/1630972918757720070)
+- [Creating VS Code Snippets to Speed Up Workflow (2023)](https://css-irl.info/creating-vscode-snippets-to-speed-up-workflow/)
