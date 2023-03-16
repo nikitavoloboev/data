@@ -2759,6 +2759,7 @@
 - [Pierce](https://github.com/wishawa/pierce) - Avoid double indirection in nested smart pointers.
 - [constant_time_eq](https://github.com/cesarb/constant_time_eq) - Compares two equal-sized byte strings in constant time.
 - [hnsw-rs](https://github.com/jean-pierreBoth/hnswlib-rs) - Rust implementation of the HNSW algorithm (Malkov-Yashunin).
+- [Propane](https://github.com/withoutboats/propane) - Rust generators.
 
 ## Cargo Plugins
 

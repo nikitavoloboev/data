@@ -313,3 +313,4 @@
 - [CASM](https://github.com/wetware/casm) - Universal middleware for decentralized computing.
 - [Wetware](https://github.com/wetware/ww) - Alternative to Kubernetes, Mesos and OpenShift that turns any group of networked computers -- including cloud-based instances -- into a programmable IaaS/PaaS cluster.
 - [Canadensis](https://github.com/samcrow/canadensis) - Open technology for real-time intravehicular distributed computing and communication based on modern networking standards.
+- [Husky: Exactly-Once Ingestion and Multi-Tenancy at Scale (2023)](https://www.datadoghq.com/blog/engineering/husky-deep-dive/)

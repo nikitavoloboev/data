@@ -182,3 +182,4 @@ title: JSON
 - [json-pointer](https://github.com/sagold/json-pointer) - Failsafe value retrieval, modification and utils using json-pointer spec.
 - [I made JSON.parse() 2x faster (2023)](https://radex.io/react-native/json-parse/)
 - [JSON Schema Markdown Tools](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation.
+- [Analyzing multi-gigabyte JSON files locally (2023)](https://thenybble.de/posts/json-analysis/)

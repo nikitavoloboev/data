@@ -138,3 +138,5 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 - [My Anti-Aging Protocol Broke a World Record (2023)](https://www.youtube.com/watch?v=aXdEPiFlqH8)
 - [Observations from 9 Months of (Modified) Blueprint](https://www.reddit.com/r/blueprint_/comments/ywys43/observations_from_9_months_of_modified_blueprint/)
 - [Can ‘Blueprint’ make you biologically younger? (2023)](https://www.youtube.com/watch?v=7rs_JK-pTTQ)
+- [Peter Attia — The Science and Art of Longevity (2023)](https://tim.blog/2023/03/14/peter-attia-outlive/)
+- [Outlive: The Science & Art of Longevity - Peter Attia (2023)](https://peterattiamd.com/outlive/)

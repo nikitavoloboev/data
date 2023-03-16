@@ -186,3 +186,4 @@ title: Django
 - [Silk](https://github.com/jazzband/django-silk) - Live profiling and inspection tool for the Django framework.
 - [Strawberry Django](https://github.com/blb-ventures/strawberry-django-plus) - Enhanced Strawberry integration with Django.
 - [Django Cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
+- [In Defense of Crusty Old Swiss Army Knives - An Exploration of Django & HTMX (2023)](https://zachgoldstein.engineering/posts/crusty-knives/crusty-knives/) ([Lobsters](https://lobste.rs/s/tu3t09/defense_crusty_old_swiss_army_knives))

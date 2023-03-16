@@ -173,3 +173,4 @@ title: Formal verification
 - [SuperNova: Proving universal machine executions without universal circuits (2022)](https://eprint.iacr.org/2022/1758) ([Code](https://github.com/jules/supernova))
 - [Get Started with Open Source Formal Verification (2023)](https://fosdem.org/2023/schedule/event/open_source_formal_verification/) ([HN](https://news.ycombinator.com/item?id=34791015))
 - [PhD Defense - Formal Verification of Just-in-Time Compilation (2023)](https://www.youtube.com/watch?v=mbkF3BwenV4)
+- [Static Program Analysis (2022)](https://cs.au.dk/~amoeller/spa/)

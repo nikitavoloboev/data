@@ -912,3 +912,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LangFlow](https://github.com/logspace-ai/langflow) - User Interface For LangChain.
 - [Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning](https://github.com/tloen/alpaca-lora)
 - [Paper list of "The Life Cycle of Knowledge in Big Language Models: A Survey"](https://github.com/c-box/KnowledgeLifecycle)
+- [AI Q&A for huggingface/diffusers](https://quick-question.fly.dev/huggingface/diffusers)

@@ -387,6 +387,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Pavel Panchekha](https://pavpanchekha.com/blog.html)
 - [Bogdan Popa](https://defn.io/)
 - [Nicholas](https://ntietz.com/blog/)
+- [Saoirse Shipwreckt](https://without.boats/blog/)
 
 ## Notes
 

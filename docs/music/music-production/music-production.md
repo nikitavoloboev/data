@@ -541,3 +541,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Ask HN: Is there anyone here making music? (2023)](https://news.ycombinator.com/item?id=35092674)
 - [Coltrane](https://github.com/pedrozath/coltrane) - Music theory library with a command-line interface. ([HN](https://news.ycombinator.com/item?id=35092929))
 - [Csound](https://csound.com/) - Sound and music computing system. ([Rust bindings](https://github.com/neithanmo/csound-rs))
+- [Orbita](https://orbita.playtronica.com/) - MIDI Turntable Sequencer. ([HN](https://news.ycombinator.com/item?id=35165106))

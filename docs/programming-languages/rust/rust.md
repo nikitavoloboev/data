@@ -26,7 +26,7 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Railway CLI](https://github.com/railwayapp/cli) is [great](https://blog.railway.app/p/rust-cli-rewrite).
 
-[Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) is great series. 
+[Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) is great series.
 
 ## Templates
 
@@ -1090,3 +1090,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [What learning resource has had the greatest impact in elevating your understanding and knowledge of Rust? (2023)](https://www.reddit.com/r/rust/comments/11pzzud/what_learning_resource_has_had_the_greatest/) ([Tweet](https://twitter.com/timClicks/status/1635156682652401664))
 - [Moving beyond Arc Mutex T - Katharina Fey (2023)](https://www.youtube.com/watch?v=Z-2siR9Ki84)
 - [Emitting Safer Rust with C2Rust (2023)](https://immunant.com/blog/2023/03/lifting/)
+- [Temporary lifetimes (2023)](https://smallcultfollowing.com/babysteps/blog/2023/03/15/temporary-lifetimes/)
+- [Patterns & Abstractions (2023)](https://without.boats/blog/patterns-and-abstractions/)

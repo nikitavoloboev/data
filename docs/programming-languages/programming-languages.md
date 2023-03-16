@@ -545,3 +545,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Adventures in REPL Implementation (2023)](https://tonsky.me/blog/clojure-sublimed-3/) ([HN](https://news.ycombinator.com/item?id=35091917))
 - [Letlang](https://github.com/linkdd/letlang) - Functional language with a powerful type system.
 - [Codeverter](https://codeverter.vercel.app/) - Convert code to your programming language of choice. ([Code](https://github.com/TGlide/codeverter))
+- [What conlangs should be "required reading" for someone thinking about making their own? And why? (2023)](https://www.reddit.com/r/conlangs/comments/11rzkkb/what_conlangs_should_be_required_reading_for/)

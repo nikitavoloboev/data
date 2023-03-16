@@ -229,3 +229,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Solid Rollup AWS Lambda](https://github.com/Bersaelor/solid-rollup-aws-lambda)
 - [Solid Liveblocks](https://github.com/tmns/solid-liveblocks) - Solid hooks and providers to use Liveblocks declaratively.
 - [Solid Flow](https://github.com/miguelsalesvieira/solid-flow) - Component for building interactive flow-based diagrams and graphs.
+- [3 Patterns to Write Declarative, More Readable SolidJS Components (2023)](https://raqueebuddinaziz.com/blog/3-patterns-to-write-better-and-more-readable-solidjs-components/)

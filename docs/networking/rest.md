@@ -6,7 +6,7 @@ title: REST
 
 I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
 
-[Chiselstrike](../tools/chiselstrike.md) seemed nice too although is now discontinued. 
+[Chiselstrike](../tools/chiselstrike.md) seemed nice too although is now discontinued.
 
 ## Notes
 
@@ -57,3 +57,4 @@ I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
 - [How did REST come to mean the opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/) ([HN](https://news.ycombinator.com/item?id=32141027))
 - [How to leverage HTTP conditional requests to build robust REST APIs (2022)](https://quadratic.fm/p/how-meta-microsoft-google-github)
 - [How REST and CRUD work together](https://twitter.com/ChiselStrike/status/1603807907123908608)
+- [The Dogma of RESTful APIs (2023)](https://erock.io/2023/03/10/dogma-of-restful-api.html) ([Lobsters](https://lobste.rs/s/r0yael/dogma_restful_apis))

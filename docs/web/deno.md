@@ -373,3 +373,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno Native Messaging Host](https://github.com/guest271314/native-messaging-deno)
 - [Deno 1.31: Package.json Support (2023)](https://deno.com/blog/v1.31) ([HN](https://news.ycombinator.com/item?id=34925275))
 - [Deno: You don't need a build step (2023)](https://deno.com/blog/you-dont-need-a-build-step) ([HN](https://news.ycombinator.com/item?id=34996727))
+- [What is Deno and how to use its sandbox? (2023)](https://www.zaynetro.com/post/what-is-deno/)
