@@ -2,7 +2,7 @@
 
 I mostly deploy HTTP services with [Cloudflare Workers](cloudflare-workers.md) using [TS](../../programming-languages/typescript/typescript.md)'s [Hono](https://hono.dev/) library.
 
-I also deploy [Rust](../../programming-languages/rust/rust.md)/[Go](../../programming-languages/go/go.md) services as lean [Docker](../../operating-systems/containers/docker.md) containers packaged with [Nix](../../package-managers/nix/nix.md). Then give it to [Cloud Run](https://cloud.google.com/run) or [Fly.io](../fly-io.md).
+I also deploy [Rust](../../programming-languages/rust/rust.md)/[Go](../../programming-languages/go/go.md) services as lean [Docker](../../operating-systems/containers/docker.md) containers [packaged](https://fasterthanli.me/series/building-a-rust-service-with-nix/part-11) with [Nix](../../package-managers/nix/nix.md). Then give it to [Cloud Run](https://cloud.google.com/run) or [Fly.io](../fly-io.md).
 
 [Railway](https://railway.app/) & [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) seem nice too.
 

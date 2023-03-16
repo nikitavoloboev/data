@@ -26,6 +26,8 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Railway CLI](https://github.com/railwayapp/cli) is [great](https://blog.railway.app/p/rust-cli-rewrite).
 
+[Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) is great series. 
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)

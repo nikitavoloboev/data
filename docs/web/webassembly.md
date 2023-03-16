@@ -439,3 +439,4 @@ title: WebAssembly
 - [pywasm](https://github.com/mohanson/pywasm) - WebAssembly interpreter written in pure Python.
 - [Kyoto](https://github.com/raphamorim/kyoto) - Programming language designed to build WebAssembly.
 - [Scale](https://github.com/loopholelabs/scale) - High-Performance WebAssembly Function Runtime.
+- [Recommendations when publishing a Wasm library (2022)](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library/)
