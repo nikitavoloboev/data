@@ -916,3 +916,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - Inference of HuggingFace's BLOOM-like models in pure C/C++.
 - [MiniLLM: Large Language Models on Consumer GPUs](https://github.com/kuleshov/minillm)
 - [Guardrails](https://github.com/ShreyaR/guardrails) - Python package for specifying structure and type, validating and correcting the outputs of large language models.
+- [Alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Run an Instruction-Tuned Chat-Style LLM on a MacBook. ([HN](https://news.ycombinator.com/item?id=35184985))

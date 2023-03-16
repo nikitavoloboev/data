@@ -205,3 +205,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [Self hosted AI (2023)](https://www.reddit.com/r/selfhosted/comments/11g776r/selfhosted_ai/)
 - [The Most Cited AI Papers in 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022) ([HN](https://news.ycombinator.com/item?id=35030587))
 - [A weapon to surpass Metal Gear (2023)](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear) ([HN](https://lobste.rs/s/dcceyb/weapon_surpass_metal_gear))
+- [Not By AI Badges](https://notbyai.fyi/) - Badge for Your AI-free Content. ([HN](https://news.ycombinator.com/item?id=35181139))

@@ -347,3 +347,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Erasing Concepts from Diffusion Models (2023)](https://arxiv.org/abs/2303.07345) ([Code](https://github.com/rohitgandikota/erasing))
 - [Editing Implicit Assumptions in Text-to-Image Diffusion Models (2023)](https://arxiv.org/abs/2303.08084) ([Code](https://github.com/bahjat-kawar/time-diffusion))
 - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+- [Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models (2023)](https://arxiv.org/abs/2302.12228) ([Code](https://github.com/mkshing/e4t-diffusion))

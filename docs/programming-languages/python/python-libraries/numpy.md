@@ -46,3 +46,4 @@ title: NumPy
 - [BioNumPy](https://github.com/bionumpy/bionumpy) - Python library, built on top of NumPy, for enabling array programming on biological datasets in Python.
 - [Concrete Numpy](https://github.com/zama-ai/concrete-numpy) - Open-source library which simplifies the use of fully homomorphic encryption.
 - [Computing Distance Matrices with NumPy (2021)](https://jaykmody.com/blog/distance-matrices-with-numpy/)
+- [Shape typing numpy with pyright and variadic generics (2023)](https://taoa.io/posts/Shape-typing-numpy-with-pyright-and-variadic-generics)

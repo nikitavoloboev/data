@@ -18,6 +18,8 @@ There's lots of low hanging fruit prompts that you can make into great products.
 
 [This](https://www.reddit.com/r/CredibleDefense/comments/11g270e/comment/jao9wps/?context=3) is nice comment strengths/weaknesses of ChatGPT.
 
+Want to try run [Alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) on my mac for local ChatGPT access potentially.
+
 ## Interesting queries
 
 - [Can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)
@@ -30,6 +32,12 @@ There's lots of low hanging fruit prompts that you can make into great products.
   - i.e. `Write a short cute poem for a girl that everyone thinks loves cats but in reality she is so much more.` or `write a short cute valentine day poem for a girl that loves cats, harry potter, magic and adventures` or `write a cute valentine day poem for a girl that loves cats, harry potter, magic and adventures`
 
 Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
+
+## Real examples I used and was amazed at answer
+
+> 'initializes state with computations such resources’, what does this mean in context of solidjs
+
+It's also great at giving examples.
 
 ## Links
 

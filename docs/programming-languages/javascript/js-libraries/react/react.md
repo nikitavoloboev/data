@@ -4,7 +4,7 @@ title: React
 
 # [React](https://reactjs.org)
 
-[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [Preact](https://preactjs.com/), [Fresh](https://github.com/lucacasonato/fresh), [Plasmic](https://www.plasmic.app/) & [Rakkas](https://github.com/rakkasjs/rakkasjs) look interesting.
+[React docs](https://react.dev/learn) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [Preact](https://preactjs.com/), [Fresh](https://github.com/lucacasonato/fresh), [Plasmic](https://www.plasmic.app/) & [Rakkas](https://github.com/rakkasjs/rakkasjs) look interesting.
 
 Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464). [Signals are great](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71).
 
@@ -387,3 +387,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [What React library or tool is causing you the most pain right now? (2023)](https://www.reddit.com/r/reactjs/comments/11ls3pw/what_library_or_tool_is_causing_you_the_most_pain/)
 - [Common Beginner Mistakes with React (2023)](https://www.joshwcomeau.com/react/common-beginner-mistakes/) ([HN](https://news.ycombinator.com/item?id=35108672))
 - [Preact MultiProvider](https://github.com/marvinhagemeister/preact-multi-provider) - Provide multiple contexts at the same time without getting lost in a jungle of context providers.
+- [React.dev](https://react.dev/) ([HN](https://news.ycombinator.com/item?id=35186812))
