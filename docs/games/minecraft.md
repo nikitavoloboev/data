@@ -157,3 +157,4 @@ title: Minecraft
 - [Maximum Performance Launch Flags for Minecraft Server](https://github.com/hilltty/hilltty-flags)
 - [MCPTool](https://github.com/wrrulos/MCPTool) - Pentesting tool for Minecraft.
 - [Lodestone](https://github.com/Lodestone-Team/lodestone_core) - Free, open source server hosting tool for Minecraft and other multiplayers.
+- [Minecraft Interactive World Builder](https://github.com/gilesknap/mciwb) - Learn Python with Minecraft. ([HN](https://news.ycombinator.com/item?id=35166874))
