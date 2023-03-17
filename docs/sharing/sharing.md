@@ -30,7 +30,7 @@ My time is limited and I can't often do everything I wish. But I have many ideas
 
 ## macOS/iOS group on [Telegram](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw)
 
-I [love macOS](https://github.com/nikitavoloboev/my-mac-os) and automation so I made a Telegram group to discuss all things macOS/iOS.
+I [love macOS](https://github.com/nikitavoloboev/my-mac) and automation so I made a Telegram group to discuss all things macOS/iOS.
 
 ## [My workflow](my-workflow.md)
 

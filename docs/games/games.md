@@ -4,7 +4,9 @@ I keep a list of [games I want to play](https://www.grouvee.com/user/nikivi/shel
 
 I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I also [share thoughts on some games I played](https://www.grouvee.com/user/nikivi/reviews/).
 
-Recently I mostly only play [PS5](playstation.md) games. Together with [chess](chess.md) on iPhone/iPad. Occasional [Wild Rift](wild-rift.md) game on iPad is fun too.
+I mostly only play [PS5](playstation.md) games. Together with [chess](chess.md) on iPhone/iPad.
+
+One game I thought of making is extending [Veloren](https://github.com/veloren/veloren) to make my own version of [Hytale](https://hytale.com/)/[Minecraft](minecraft.md). Bottleneck there is making pretty assets but [generative models](../machine-learning/generative-machine-learning.md) are getting better and better. And can even generate [Blender](../design/blender.md) models now.
 
 If I ever make a small game, [itch.io](https://itch.io/) seems like a nice marketplace.
 
@@ -73,6 +75,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Rotaboxes](https://rotaboxes.com/) - Daily image puzzle game. ([HN](https://news.ycombinator.com/item?id=33718124))
 - [b](https://github.com/knvi/b) - Multiplayer Voxel Engine written in C.
 - [Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers) ([HN](https://news.ycombinator.com/item?id=34628386))
+- [Palia](https://palia.com/)
 
 ## Awesome OSS games
 

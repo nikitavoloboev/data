@@ -2307,3 +2307,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Policy on util packages (2023)](https://brandur.org/fragments/policy-on-util-packages) ([Lobsters](https://lobste.rs/s/czi8ku/policy_on_util_packages))
 - [Are there any decent ORMs in Go? (2023)](https://www.reddit.com/r/golang/comments/11oi687/are_there_any_decent_orms_in_golang/)
 - [Automating boilerplate/scaffolding code with custom code generation in Go, with `jen` (2023)](https://www.jvt.me/posts/2023/03/11/go-custom-generate-jen/)
+- [The power of single-method interfaces in Go (2023)](https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/)

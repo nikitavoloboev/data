@@ -1,6 +1,6 @@
 # macOS
 
-[macOS is incredible as a personal OS](https://github.com/nikitavoloboev/my-mac-os). Would love to join Apple and contribute to the OS at some point. [Karabiner](apps/karabiner/karabiner.md) is life changing.
+[macOS is incredible as a personal OS](https://github.com/nikitavoloboev/my-mac). Would love to join Apple and contribute to the OS at some point. [Karabiner](apps/karabiner/karabiner.md) is life changing.
 
 [Quill](https://github.com/anchore/quill) is great for signing binaries for macOS.
 

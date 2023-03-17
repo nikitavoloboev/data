@@ -16,6 +16,8 @@ Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with 
 
 [Dolt](https://github.com/dolthub/dolt) seems interesting for version controlling data.
 
+[Inside the Hidden Git Folder](https://www.youtube.com/watch?v=bSA91XTzeuA) is nice talk.
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.
@@ -661,3 +663,6 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [ptags](https://github.com/dalance/ptags) - Parallel universal-ctags wrapper for git repository.
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - CLI written in Go language that writes git commit messages for you using ChatGPT AI.
 - [git-dive](https://github.com/gitext-rs/git-dive) - Dive into a file's history to find root cause.
+- [Git Internals - How Git Works - Fear Not The SHA! (2017)](https://www.youtube.com/watch?v=P6jD966jzlk)
+- [Advanced Git: Graphs, Hashes, and Compression, Oh My! (2012)](https://www.youtube.com/watch?v=ig5E8CcdM9g)
+- [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)

@@ -60,7 +60,7 @@ This is an extension of [everything I know](everything-I-know.md).
 
 ## macOS/iOS
 
-- [macOS](https://github.com/nikitavoloboev/my-mac-os) - macOS apps/tools I use.
+- [macOS](https://github.com/nikitavoloboev/my-mac) - macOS apps/tools I use.
 - [iOS](https://github.com/nikitavoloboev/my-ios) - iOS apps/tools I use.
 
 ## Track

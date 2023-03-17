@@ -26,7 +26,7 @@ title: My GitHub
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev) - My personal home on the internet.
 - [AMA (2017)](https://github.com/nikitavoloboev/ama) - Ask me anything.
 - [My iOS (2016)](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing.
-- [My macOS (2016)](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing.
+- [My macOS (2016)](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing.
 - [Dotfiles (2016)](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix.
 
 ## Go Libraries

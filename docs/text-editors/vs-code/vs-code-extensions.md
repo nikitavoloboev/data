@@ -21,6 +21,7 @@ Below is a list of extensions I use.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them. ([Code](https://github.com/alefragnani/vscode-bookmarks))
 - [Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) - Enables you to open and search code on Sourcegraph.com easily and efficiently. ([Code](https://github.com/sourcegraph/sourcegraph-vscode)) ([Reddit](https://www.reddit.com/r/vscode/comments/sowwe7/we_made_an_extension_to_search_and_navigate_2/))
 - [XState](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) - Visual editing, autocomplete and typegen for XState. ([Code](https://github.com/statelyai/xstate-vscode))
+- [Open in GitHub](https://github.com/d4rkr00t/vscode-open-in-github) - Provides commands to quickly view the current file on GitHub.
 
 ## Go
 

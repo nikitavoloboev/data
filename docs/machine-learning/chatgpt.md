@@ -207,3 +207,6 @@ It's also great at giving examples.
 - [CLI for ChatGPT](https://github.com/j178/chatgpt)
 - [GenAI](https://github.com/noteable-io/genai) - Generative AI tooling for IPython.
 - [AIChat](https://github.com/sigoden/aichat) - Chat with ChatGPT in terminal.
+- [Can GPT-4 Actually Write Code? (2023)](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code) ([HN](https://news.ycombinator.com/item?id=35193188))
+- [GPT Repo Loader](https://github.com/mpoon/gpt-repository-loader) - Load entire code repos into GPT prompts. ([HN](https://news.ycombinator.com/item?id=35191303))
+- [Jail breaking ChatGPT-4](https://twitter.com/alexalbert__/status/1636488551817965568) ([HN](https://news.ycombinator.com/item?id=35190383))

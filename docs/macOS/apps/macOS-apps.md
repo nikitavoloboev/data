@@ -1,6 +1,6 @@
 # macOS apps
 
-I maintain a big list of apps I use on my system [here](https://github.com/nikitavoloboev/my-mac-os) together with why and how I use them.
+I maintain a big list of apps I use on my system [here](https://github.com/nikitavoloboev/my-mac) together with why and how I use them.
 
 And [here](../../code/config.md) is a full list of the apps I have inside my `/Applications` folder.
 

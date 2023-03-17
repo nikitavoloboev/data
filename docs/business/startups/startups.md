@@ -426,6 +426,7 @@ One of the things I've learned no company should ever do is not pay on time. Sal
 - [Reflect's startup stack (2023)](https://twitter.com/maccaw/status/1627820421436563456)
 - [What I Learned at Stripe (2022)](https://steinkamp.us/post/2022/11/10/what-i-learned-at-stripe.html) ([HN](https://news.ycombinator.com/item?id=34968371))
 - [Startup Decoupling & Reckoning (2023)](https://blog.eladgil.com/p/startup-decoupling-and-reckoning)
+- [Ask HN: What books helped you in your entrepreneurship journey? (2023)](https://news.ycombinator.com/item?id=35168647)
 
 ## Images
 

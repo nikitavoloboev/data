@@ -163,7 +163,7 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Minimal ML Template](https://github.com/AntreasAntoniou/minimal-ml-template) - Minimal ml project template that uses HF transformers and wandb to train a simple NN and evaluate it, in a stateless manner compatible with Spot instances Kubernetes workflows.
 - [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training (including pre-training and fine-tuning) for Big Models.
 - [CIFAR10 hyperlightspeedbench](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record.
-- [Transformers.js](https://github.com/xenova/transformers.js) - Run Transformers in your browser.
+- [Transformers.js](https://github.com/xenova/transformers.js) - Run Transformers in your browser. ([HN](https://news.ycombinator.com/item?id=35189794))
 - [ailia SDK](https://github.com/axinc-ai/ailia-sdk) - Cross-platform high speed inference SDK.
 - [Large Audio Models](https://github.com/liusongxiang/Large-Audio-Models) - Keep track of big models in audio domain, including speech, singing, music etc.
 - [BlindAI](https://github.com/mithril-security/blindai-preview) - Fast, easy-to-use, and confidential inference server, allowing you to easily and quickly deploy your AI models.

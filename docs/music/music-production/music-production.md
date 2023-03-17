@@ -6,7 +6,7 @@ Sometimes use [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ableton.
 
 As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his [synthesizer setup](https://equipboard.com/pros/nils-frahm). I want to get into it playing [synths](synthesizers.md)/[pianos](piano.md) more. [Hania Rani](https://haniarani.com/) & [Ólafur Arnalds](https://olafurarnalds.com/) have great songs I want to learn to play too.
 
-[Riffusion](https://github.com/riffusion/riffusion) is interesting.
+[Riffusion](https://github.com/riffusion/riffusion) & [Strudel](https://strudel.tidalcycles.org/) & [WebAssembly Music](https://github.com/petersalomonsen/javascriptmusic) are interesting.
 
 ## Tools
 

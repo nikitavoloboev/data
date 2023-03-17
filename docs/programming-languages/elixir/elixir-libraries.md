@@ -297,6 +297,7 @@
 - [Packmatic](https://github.com/evadne/packmatic) - Generates Zip streams by aggregating File or URL Sources.
 - [Beaver](https://github.com/beaver-lodge/beaver) - LLVM/MLIR Toolkit in Elixir and Zig.
 - [LoggerJSON](https://github.com/Nebo15/logger_json) - JSON console backend for Elixir Logger.
+- [Recode](https://github.com/hrzndhrn/recode) - Linter with autocorrection and a refactoring tool.
 
 ## Links
 
