@@ -8,6 +8,8 @@ title: Reactive programming
 
 Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reactivity model. [Voby](https://github.com/vobyjs/voby) & [Signia](https://github.com/tldraw/signia) interesting too.
 
+[Rust Signals](https://github.com/Pauan/rust-signals) library is interesting.
+
 ## Notes
 
 - [Event streams (like plain observables) emits values. Signals (and behavior subjects) have values. Queues (channels and some buffered and published observables) hold/store values. For example seminal paper on functional reactive programming defines two primitives- event streams and behaviors. They have different laws and this different capabilities. Queues are even more powerful but provide less guarantees.](https://www.reddit.com/r/reactjs/comments/yk6iy3/react_vdom_vs_preact_signal_performance_flame/)

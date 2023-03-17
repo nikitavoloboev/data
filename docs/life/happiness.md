@@ -131,3 +131,4 @@ One important thing I always keep in my mind is that everyone has their own uniq
 - [Science-Based Tools for Increasing Happiness - Huberman (2022)](https://hubermanlab.com/science-based-tools-for-increasing-happiness/)
 - [Chasing The Natural High: An Experiment](https://www.youtube.com/watch?v=O2Fwz1QYwFk)
 - [If you had to try and 10x your life satisfaction in a year, what would you do?](https://twitter.com/nickcammarata/status/1598443632465530881)
+- [What brings you the most amount of joy? What purchases are worthwhile? (2023)](https://www.reddit.com/r/leanfire/comments/11te42x/what_brings_you_the_most_amount_of_joy_what/)

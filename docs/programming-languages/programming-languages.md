@@ -548,3 +548,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [What conlangs should be "required reading" for someone thinking about making their own? And why? (2023)](https://www.reddit.com/r/conlangs/comments/11rzkkb/what_conlangs_should_be_required_reading_for/)
 - [Alumina](https://github.com/alumina-lang/alumina) - Imperative, general-purpose, statically typed, compiled system programming language.
 - [Advanced Topics in Programming Languages (2023)](https://github.com/plclub/cis6700-23sp)
+- [What are the issues with algebraic effects? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/11ti9sc/what_are_the_issues_with_algebraic_effects/)

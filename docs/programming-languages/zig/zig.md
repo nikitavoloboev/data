@@ -186,3 +186,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [When Zig is safer and faster than Rust (2023)](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/) ([Lobsters](https://lobste.rs/s/5jzng0/when_zig_is_safer_faster_than_rust)) ([Reddit](https://www.reddit.com/r/rust/comments/11l6ehj/when_zig_is_safer_and_faster_than_unsafe_rust/))
 - [All Algorithms implemented in Zig](https://github.com/TheAlgorithms/Zig)
 - [Zig: The modern alternative to C (2023)](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html) ([HN](https://news.ycombinator.com/item?id=35091219))
+- [Writing JSON to a custom output in Zig (2023)](https://www.openmymind.net/Writing-Json-To-A-Custom-Output-in-Zig/)

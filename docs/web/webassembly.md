@@ -440,3 +440,4 @@ title: WebAssembly
 - [Kyoto](https://github.com/raphamorim/kyoto) - Programming language designed to build WebAssembly.
 - [Scale](https://github.com/loopholelabs/scale) - High-Performance WebAssembly Function Runtime.
 - [Recommendations when publishing a Wasm library (2022)](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library/) ([HN](https://news.ycombinator.com/item?id=30829170))
+- [The Truth about Rust/WebAssembly Performance (2023)](https://www.youtube.com/watch?v=4KtotxNAwME)

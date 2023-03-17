@@ -1,10 +1,10 @@
 # Video
 
-I share [all the YouTube channels I follow](https://gist.github.com/nikitavoloboev/d7d179271bc2f63f02f6b24b29c307bb) and all [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid) (all but [Good Music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) are outdated).
+I share [all the YouTube channels I follow](https://gist.github.com/nikitavoloboev/d7d179271bc2f63f02f6b24b29c307bb) and all [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid) (all but [Good Music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) are outdated). Also share [my TikTok likes](https://www.tiktok.com/@nikitavoloboev).
 
 [Descript](https://www.descript.com/) is amazing for video/sound editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself). [YT-DLP](https://github.com/yt-dlp/yt-dlp) is great for downloading videos from the web.
 
-Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok videos](https://www.tiktok.com/@nikitavoloboev).
+Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. And [Around](https://www.around.co/) as a team tool to do video collaborations.
 
 [Video Encoding from Scratch](https://github.com/kevmo314/codec-from-scratch) is great for learning video codecs.
 

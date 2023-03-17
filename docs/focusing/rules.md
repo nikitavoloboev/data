@@ -354,6 +354,7 @@
 - Proof check dates before buying tickets. Don't prepare large liquids (> 100ml) in planes.
 - Check in online as early as possible.
 - [Move and live in countries with upwards momentum](https://www.youtube.com/watch?v=olayjvzrqIo). Don't be a slave to old legacy brands/countries.
+- Make VAT invoices on the company for all business related travels when buying flight/travel tickets.
 
 ## Giving talks
 

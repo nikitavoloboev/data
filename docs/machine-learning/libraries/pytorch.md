@@ -512,3 +512,4 @@ title: PyTorch
 - [Zipslicer](https://github.com/kir-gadjello/zipslicer) - Library for incremental loading of large PyTorch checkpoints. ([HN](https://news.ycombinator.com/item?id=35013939))
 - [Torch.fx.Transformer](https://pytorch.org/docs/stable/fx.html) - Symbolically modify PyTorch modules. ([HN](https://news.ycombinator.com/item?id=35107221))
 - [PyTorch 2.0 (2023)](https://pytorch.org/blog/pytorch-2.0-release/) ([HN](https://news.ycombinator.com/item?id=35174612))
+- [PyTorch 2.0 Native Flash Attention 32k Context Window (2023)](https://www.reddit.com/r/MachineLearning/comments/11tmpc5/d_pytorch_20_native_flash_attention_32k_context/)

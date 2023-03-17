@@ -4,7 +4,7 @@ title: Dependent types
 
 # [Dependent types](https://wiki.haskell.org/Dependent_type)
 
-[Magmide](https://github.com/magmide/magmide) & [TeenyTT](https://github.com/TOTBWF/teenytt) look interesting.
+[Magmide](https://github.com/magmide/magmide), [TeenyTT](https://github.com/TOTBWF/teenytt) & [Kind](https://github.com/HigherOrderCO/Kind) look interesting.
 
 [How to implement dependent types in 80 lines of code](https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196) is good read.
 
