@@ -10,6 +10,8 @@ I personally believe the idea of [reincarnation](https://en.wikipedia.org/wiki/R
 
 That's why it's so essential everyone acts nicely to each other. Because in some way, everyone is [actually you too](http://www.galactanet.com/oneoff/theegg_mod.html). To me this is the most plausible scenario of what happens when you die.
 
+[Joaquin Phoenix said it well](https://youtu.be/qiiWdTz_MNc?t=123).
+
 ## Notes
 
 - [If everyone in the world went to mostly plant-based (like the Okinawan traditional diet), it would be a MUCH better world. The positive impact would be huge. The impact on your health of having animal products only on special occasions would be minimal. I will tell you though, I've done that and when I've had beef after a long vegan run, it makes me sick to my stomach and I'm certain it's not merely psychological.](https://www.reddit.com/r/PlantBasedDiet/comments/8x3tfm/is_100_vegan_the_way_to_go/)

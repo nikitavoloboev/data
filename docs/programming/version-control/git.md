@@ -18,6 +18,8 @@ Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with 
 
 [Advanced Git: Graphs, Hashes, and Compression](https://www.youtube.com/watch?v=ig5E8CcdM9g) and [Inside the Hidden Git Folder](https://www.youtube.com/watch?v=bSA91XTzeuA) are great talks.
 
+I also am trying to [run Git in browsers nicely](https://github.com/nikitavoloboev/git).
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.

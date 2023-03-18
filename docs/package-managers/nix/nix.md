@@ -526,3 +526,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [NixOS/Nix training material](https://github.com/spacekookie/learning-nix)
 - [Nixlings](https://github.com/spacekookie/nixlings) - Small exercises to get you used to reading and writing Nix code.
 - [buildxyz](https://github.com/RaitoBezarius/buildxyz) - Build your Nix package automatically.
+- [20 Years of Nix](https://20th.nixos.org/) ([HN](https://news.ycombinator.com/item?id=35208402))
