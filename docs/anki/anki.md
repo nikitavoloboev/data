@@ -98,3 +98,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Anki CLI](https://github.com/julien-sobczak/anki-cli) - CLI to automate Anki notes/flashcards creation.
 - [Autoanki](https://github.com/chenlijun99/autoanki) - Set of tools and libraries that streamline the learning experience with Anki.
 - [Pentive](https://github.com/AlexErrant/Pentive) - Free, open source, offline-first spaced repetition system that has first class support for collaboration, curation, and plugins. It's Reddit for flashcards.
+- [Anki-fy your life (2023)](https://abouttolearn.substack.com/p/anki-fy-your-life) ([HN](https://news.ycombinator.com/item?id=35209775))
