@@ -2,6 +2,8 @@
 
 [App Icon Book](https://www.appiconbook.com/) is a nice read. [Iconic](https://iconic.app/), [Feather](https://feathericons.com/) & [Atlas Icons](https://atlasicons.vectopus.com/) have nice icons.
 
+[Icônes](https://icones.js.org/) is great search for many icons.
+
 ## Nice icons
 
 - [Readwise](https://twitter.com/Gavmn/status/1521531615465279488)

@@ -94,6 +94,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Alexandria Neonakis](https://www.alexneonakis.com/) ([Instagram](https://www.instagram.com/alexneonakis/))
 - [Guy Billout](https://www.boredpanda.com/surreal-illustrations-guy-billout/) ([More art](https://twitter.com/GraceSpelman/status/1276267166950711296))
 - [Gemma O’Brien](https://shop.gemmaobrien.com/)
+- [Nickie Zimov](https://www.instagram.com/nickiezimov/)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Li Chen](https://twitter.com/Exocomics) ([IG](https://www.instagram.com/exocomics/))
