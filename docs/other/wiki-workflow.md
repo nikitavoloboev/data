@@ -1,8 +1,6 @@
 # My workflow in writing and maintaining this wiki
 
-The entire wiki is open source on [GitHub](https://github.com/nikitavoloboev/knowledge). Everything is [authored with markdown](https://github.com/nikitavoloboev/knowledge/tree/main/docs). On every commit, [Vercel](https://vercel.com) that is hooked up to the GitHub repo runs [Docusaurus](https://docusaurus.io) and new version of wiki is published.
-
-The order of items in sidebar is alphabetical. Previously I used [GitBook](https://www.gitbook.com/) for publishing and that used [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md) file for custom order of items in sidebar.
+The entire wiki of [1,000+ topics](../intro.md#contents) is open source on [GitHub](https://github.com/nikitavoloboev/knowledge). Everything is [authored with markdown](https://github.com/nikitavoloboev/knowledge/tree/main/docs). On every commit, [Vercel](https://vercel.com) that is hooked up to the GitHub repo runs [Docusaurus](https://docusaurus.io) and new version of wiki is published.
 
 I write and edit all the markdown files in this wiki from [Sublime Text](../text-editors/sublime-text/sublime-text.md) with [Vim mode](https://github.com/guillermooo/Six) or [Obsidan](../tools/obsidian.md).
 

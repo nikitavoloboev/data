@@ -1,4 +1,4 @@
-# Data processing
+# Data Processing
 
 [Ibis](https://github.com/ibis-project/ibis), [Orchest](https://github.com/orchest/orchest) & [Mage](https://github.com/mage-ai/mage-ai) are nice. [Greptime](https://www.greptime.com/) is interesting OSS DB for time series data processing.
 
