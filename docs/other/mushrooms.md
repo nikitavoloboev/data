@@ -2,7 +2,7 @@
 
 [Mycelium](https://www.micropia.nl/en/discover/microbiology/mycelium/) is [fascinating](https://www.youtube.com/watch?v=Pm1FgFFzQd4).
 
-I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionally](../drugs/psychedelics/psychedelics.md). I also take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
+I personally love [psilocybin mushrooms](https://en.wikipedia.org/wiki/Psilocybin_mushroom) and take them [occasionally](../drugs/psychedelics/psychedelics.md). I also try take some mushrooms daily as part of my [supplement](../health/nutrition/supplements.md).
 
 Get my spores to grow [here](https://orangutantradingco.com/). Grow them using [Grow Kit](https://mycopunks.com/products/beginner-fruit-in-the-bag-mushroom-grow-kit).
 

@@ -14,7 +14,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 
 [Sensi Seeds](https://sensiseeds.com/en/) has great seeds. [Microgrowery](https://www.reddit.com/r/microgrowery/) is great subreddit.
 
-[Grow Weed Easy](https://www.growweedeasy.com/) & [Beginner Guide](https://www.reddit.com/r/microgrowery/wiki/beginguide/) are great starter resources for growing.
+[Beginner Guide](https://www.reddit.com/r/microgrowery/wiki/beginguide/) & [Grow Weed Easy](https://www.growweedeasy.com/) are great starter resources for growing.
 
 [Handbook of Plant Nutrition](http://libgen.rs/book/index.php?md5=0DE03F3742244A0FCFFD21A3C33FE812), [Marijuana Horticulture Fundamentals](https://www.pdfdrive.com/marijuana-horticulture-fundamentals-a-comprehensive-guide-to-cannabis-cultivation-and-hashish-production-e196913620.html), [Cannabis Encyclopedia](https://www.amazon.com/Cannabis-Encyclopedia-Definitive-Cultivation-Consumption/dp/1878823345) & [Handbook of Cannabis Production in Controlled Environments](https://www.routledge.com/Handbook-of-Cannabis-Production-in-Controlled-Environments/Zheng/p/book/9780367712570) are nice reads too.
 
