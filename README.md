@@ -1,6 +1,6 @@
 # [My Knowledge Wiki 🌿](https://wiki.nikiv.dev)
 
-This is my personal wiki where I share [everything I know](https://wiki.nikiv.dev/sharing/everything-I-know) about this world in form of an [online wiki](https://wiki.nikiv.dev) built with [Docusaurus](https://wiki.nikiv.dev/tools/docusaurus) on [GitHub](https://github.com/nikitavoloboev/knowledge).
+This is my personal wiki where I share [everything I know](https://wiki.nikiv.dev/sharing/everything-I-know) about this world in form of an [online wiki](https://wiki.nikiv.dev) built with [Docusaurus](https://wiki.nikiv.dev/tools/docusaurus) on [GitHub](https://github.com/nikitavoloboev/knowledge). It's [1,000+ of topics on all kinds of things](https://wiki.nikiv.dev/#contents).
 
 If this is your first time visiting this wiki, take a look [here](#getting-started) as it describes this wiki, its structure and goals.
 
@@ -10,7 +10,7 @@ Below are my 1,000+ notes & their relations visualized.
 
 ![](https://i.imgur.com/ODDdwde.png)
 
-This wiki is large. 100,000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc))
+[This wiki is large](https://wiki.nikiv.dev/#contents). 100,000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc))
 
 ```
 ~/src/docs/knowledge
@@ -23,13 +23,15 @@ This wiki is large. 100,000+ lines of markdown large (calculated with [loc](http
 
 ## Getting started
 
-This garden is quite literally my digital brain. It includes my thoughts, notes and links on topics I care about.
+This garden is quite literally my digital brain. It includes my thoughts, notes and links on [topics](https://wiki.nikiv.dev/#contents) I care about.
 
 I [update the notes](https://wiki.nikiv.dev/other/wiki-workflow) daily. I use the website and the [search plugin](https://github.com/nikitavoloboev/alfred-my-mind) I built for it together with the search bar above in right corner (or CMD+K hotkey) to query the content inside.
 
-The content being markdown files [found here](https://github.com/nikitavoloboev/knowledge/tree/main/docs), which after every commit to the [GitHub repo](https://github.com/nikitavoloboev/knowledge) builds the website using [Docusaurus](https://wiki.nikiv.dev/tools/docusaurus) and publishes it to [wiki.nikiv.dev](https://wiki.nikiv.dev) from which you are likely reading this page.
+The [content](https://wiki.nikiv.dev/#contents) being markdown files [found here](https://github.com/nikitavoloboev/knowledge/tree/main/docs), which after every commit to the [GitHub repo](https://github.com/nikitavoloboev/knowledge) builds the website using [Docusaurus](https://wiki.nikiv.dev/tools/docusaurus) and publishes it to [wiki.nikiv.dev](https://wiki.nikiv.dev) from which you are likely reading this page.
 
-The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep. For example take [programming languages](https://wiki.nikiv.dev/programming-languages/), it's top level folder (you can see [all the folders and structure of them here](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md)). All of these pages are part of programming languages:
+The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep.
+
+For example take [programming languages](https://wiki.nikiv.dev/programming-languages/), it's top level folder. All of these pages are part of programming languages:
 
 ![](https://i.imgur.com/wBj77ch.png)
 
