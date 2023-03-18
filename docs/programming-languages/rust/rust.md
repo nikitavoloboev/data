@@ -1092,3 +1092,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Emitting Safer Rust with C2Rust (2023)](https://immunant.com/blog/2023/03/lifting/) ([HN](https://news.ycombinator.com/item?id=35147765))
 - [Temporary lifetimes (2023)](https://smallcultfollowing.com/babysteps/blog/2023/03/15/temporary-lifetimes/)
 - [Patterns & Abstractions (2023)](https://without.boats/blog/patterns-and-abstractions/)
+- [Why is building a UI in Rust so hard? (2023)](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard) ([HN](https://news.ycombinator.com/item?id=35206734))
+- [Bringing Rust to the Xen Project (2023)](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)

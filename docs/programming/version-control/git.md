@@ -16,7 +16,7 @@ Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with 
 
 [Dolt](https://github.com/dolthub/dolt) seems interesting for version controlling data.
 
-[Inside the Hidden Git Folder](https://www.youtube.com/watch?v=bSA91XTzeuA) is nice talk.
+[Advanced Git: Graphs, Hashes, and Compression](https://www.youtube.com/watch?v=ig5E8CcdM9g) and [Inside the Hidden Git Folder](https://www.youtube.com/watch?v=bSA91XTzeuA) are great talks.
 
 ## Notes
 

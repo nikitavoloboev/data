@@ -271,3 +271,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Ask HN: What US bank post-SVB would you recommend? (2023)](https://news.ycombinator.com/item?id=35118725)
 - [The End of Silicon Valley (Bank) (2023)](https://stratechery.com/2023/the-death-of-silicon-valley-bank/) ([HN](https://news.ycombinator.com/item?id=35134608))
 - [Mercury Vault](https://mercury.com/vault) - Simple way to manage bank risk and protect every dollar they deposit. ([How it works](https://twitter.com/immad/status/1635302598831112192))
+- [Minimum Viable Finance: The Guide for Seed/Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies) ([HN](https://news.ycombinator.com/item?id=35203260))

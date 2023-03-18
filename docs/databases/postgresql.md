@@ -675,3 +675,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Mathesar](https://github.com/centerofci/mathesar) - Open-source collaborative UI for Postgres databases. ([HN](https://news.ycombinator.com/item?id=34999774))
 - [pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library.
 - [Codd](https://github.com/mzabani/codd) - Helps to apply plain postgres SQL migrations with strong cross-environment consistency checks and atomicity guarantees.
+- [PostgreSQL Logical Replication Explained (2023)](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql) ([HN](https://news.ycombinator.com/item?id=35203571))
