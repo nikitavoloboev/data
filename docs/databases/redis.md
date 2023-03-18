@@ -183,7 +183,7 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 - [Intro to Redis Scripting with Lua (2023)](https://www.novus.com/tech-blog/intro-to-redis-scripting-with-lua)
 - [Aedis](https://github.com/mzimbres/aedis) - Async redis client designed for performance and scalability in C++.
 - [fakeredis](https://github.com/cunla/fakeredis-py) - Fake version of a redis-py.
-- [Build Your Own Redis with C/C++](https://build-your-own.org/redis/) ([HN](https://news.ycombinator.com/item?id=34572263))
+- [Build Your Own Redis with C/C++](https://build-your-own.org/redis/) ([HN](https://news.ycombinator.com/item?id=34572263)) ([HN](https://news.ycombinator.com/item?id=35212660))
 - [Optimizing Redis’ Default Compiler Flags (2023)](https://redis.com/blog/optimizing-redis-compiler-flags/)
 - [rustis](https://github.com/dahomey-technologies/rustis) - Asynchronous Redis client for Rust.
 - [Consistent caching with PostgreSQL logical replication and a Redis API (2023)](https://shortishly.com/blog/streaming-replication-redis-api/)
