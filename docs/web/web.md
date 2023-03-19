@@ -500,3 +500,4 @@
 - [WTF is code extraction (2023)](https://www.youtube.com/watch?v=taWdpJmaQZA)
 - [Rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based web bundler. ([Web](https://www.rspack.dev/))
 - [Weird web pages (2023)](https://blog.erlend.sh/weird-web-pages)
+- [Ask HN: What has your personal website/blog done for you? (2023)](https://news.ycombinator.com/item?id=35164819)
