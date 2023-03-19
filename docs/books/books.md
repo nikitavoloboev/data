@@ -368,6 +368,7 @@ Love how some started making GPT programs tuned to specific books like [this](ht
 - [My Favorite Books of 2022](https://benjamincongdon.me/blog/2022/12/27/My-Favorite-Books-of-2022/)
 - [20 Genre-Defying Sci-Fi Books That Broke the Mold (2023)](https://bookriot.com/genre-defying-sci-fi-books/)
 - [Historical non-fiction that isn't a dry read (2023)](https://www.reddit.com/r/suggestmeabook/comments/11axpw8/historical_nonfiction_that_isnt_a_dry_read/)
+- [What’s your favorite book of all time that no one has ever heard of? (2023)](https://www.reddit.com/r/books/comments/11ux1ji/whats_your_favorite_book_of_all_time_that_no_one/)
 
 ## Interesting Prose Books
 

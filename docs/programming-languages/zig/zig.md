@@ -187,3 +187,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [All Algorithms implemented in Zig](https://github.com/TheAlgorithms/Zig)
 - [Zig: The modern alternative to C (2023)](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html) ([HN](https://news.ycombinator.com/item?id=35091219))
 - [Writing JSON to a custom output in Zig (2023)](https://www.openmymind.net/Writing-Json-To-A-Custom-Output-in-Zig/)
+- [The curious case of a memory leak in a Zig program (2023)](https://iamkroot.github.io/blog/zig-memleak) ([HN](https://news.ycombinator.com/item?id=35216075))
