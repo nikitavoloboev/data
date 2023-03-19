@@ -8,7 +8,7 @@ title: ChatGPT
 
 I use [ChatGPT desktop app](https://goodsnooze.gumroad.com/l/menugpt) to access ChatGPT from mac. On iOS I want to deploy [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) but didn't yet.
 
-ChatGPT has become a core part of my workflow. I use it as my core [learning](../education/learning.md) tool. Asking clarifiying questions. It's especially great giving high level views on most topics. Enough to prompt with more detailed questions or diving further into literature or other human made resources. ChatGPT is especially great for [programming](../programming/programming.md) as you can easily test your answers against a [type checker](../math/type-theory/type-theory.md) or [compiler](../compilers/compilers.md) to see if it was right or not.
+ChatGPT has become a core part of my workflow. I use it as my core [learning](../education/learning.md) tool. Asking clarifiying questions. It's especially great giving high level views on most topics. Enough to prompt with more detailed questions or diving further into literature or other human made resources. ChatGPT is especially great for [programming](../programming/programming.md) as you can easily [test your answers](https://twitter.com/bio_bootloader/status/1636880208304431104) against a [type checker](../math/type-theory/type-theory.md) or [compiler](../compilers/compilers.md) to see if it was right or not.
 
 [NanoGPT](https://github.com/karpathy/nanoGPT) with [Lightning GPT](https://github.com/Lightning-AI/lightning-GPT) is interesting. Curious if I can train it with [this method](https://github.com/JonasGeiping/cramming).
 

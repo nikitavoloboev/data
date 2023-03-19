@@ -278,3 +278,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Spotify Transcripts](https://github.com/johan-akerman/SpotifyTranscripts) - Combines Google Speech Recognition and the Spotify API to transcribe Spotify podcasts.
 - [Export your starred episodes in Overcast (2023)](https://byparker.com/blog/2023/exporting-overcast-favorited-episodes/)
 - [SyntaxAI Transcripts](https://github.com/wesbos/Syntax-AI-Transcripts) - Using OpenAI to generate Syntax Transcripts, show notes and categories.
+- [Ask HN: Which tech podcasts would you recommend to a friend? (2023)](https://news.ycombinator.com/item?id=35221488)
