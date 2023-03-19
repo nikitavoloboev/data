@@ -6,11 +6,13 @@ I try keep a minimum of ~ 3000 euro cash on my account (for emergency spending +
 
 Tax wise, at least in [Europe](../travel/visited/europe.md), you pay ~ 21% VAT every 3 months. You then pay income tax once a year, at least in [NL](../travel/visited/netherlands.md) all that's done through a website. Income tax is often progressive so amount you pay depends on how much you earned in the year.
 
+I found asking [ChatGPT](../machine-learning/chatgpt.md) questions regarding taxes/finances very useful. Do double check though as model can hallucinate.
+
 There are ways to avoid paying the tax if you don't stay a tax resident in any one country for prolonged time (usually 180 days). But I haven't tried doing that. 
 
 I do budgets on quarterly bases as I send in my revenue for 3 months to pay VAT tax. Anything beyond the 3000 cash goal gets invested into my [portfolio of stocks/ETFs](investing.md) at each end of month. Might automate it at some point.
 
-Aside from investing in ETFs, I use the money to invest in [ideas that interest me](../ideas/ideas.md). Pay open source contributors whose libraries I like. And generally try to give back to community on whose work I build on.
+Aside from investing in ETFs, I use the money to invest in [ideas that interest me](../ideas/ideas.md). Pay [open source](../open-source/open-source.md) contributors whose libraries I like. And generally try to give back to community on whose work I build on.
 
 I try reflect on my progress both financial and otherwise as part of my [look backs](../looking-back/looking-back.md).
 
