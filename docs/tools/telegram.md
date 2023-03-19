@@ -174,6 +174,7 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [JsonBot](https://github.com/SpEcHiDe/JsonBot) - Bot to Display telegram-bot-api JSON of all sent messages.
 - [Django Telegram Bot](https://github.com/ohld/django-telegram-bot) - Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template.
 - [Stable Diffusion Telegram Bot](https://github.com/SASUKE40/sd-telegram-bot)
+- [tgbot-mastodon-sync](https://github.com/SpriteOvO/tgbot-mastodon-sync) - Telegram bot synchronizes Telegram messages to Mastodon.
 
 ## Notes
 

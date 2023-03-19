@@ -1181,3 +1181,4 @@
 - [Blind Video Deflickering by Neural Filtering with a Flawed Atlas (2023)](https://github.com/ChenyangLEI/All-In-One-Deflicker)
 - [Universal Instance Perception as Object Discovery and Retrieval (2023)](https://github.com/MasterBin-IIAU/UNINEXT)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization (2023)](https://arxiv.org/abs/2303.07418) ([Code](https://github.com/Jiawei-Yang/FreeNeRF))
+- [Vid2Seq: a pretrained visual language model for describing multi-event videos (2023)](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html) ([HN](https://news.ycombinator.com/item?id=35201667))
