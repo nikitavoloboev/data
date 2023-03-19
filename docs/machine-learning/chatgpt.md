@@ -210,3 +210,4 @@ It's also great at giving examples.
 - [Can GPT-4 Actually Write Code? (2023)](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code) ([HN](https://news.ycombinator.com/item?id=35193188))
 - [GPT Repo Loader](https://github.com/mpoon/gpt-repository-loader) - Load entire code repos into GPT prompts. ([HN](https://news.ycombinator.com/item?id=35191303))
 - [Jail breaking ChatGPT-4](https://twitter.com/alexalbert__/status/1636488551817965568) ([HN](https://news.ycombinator.com/item?id=35190383))
+- [Chatty](https://github.com/huntabyte/chatty) - Enables you to run or deploy your own ChatGPT-like application.

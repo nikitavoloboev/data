@@ -28,9 +28,11 @@ Below are my 1,000+ topics & their relations visualized.
 
 ## Getting started
 
-This garden is quite literally my digital brain. It includes my thoughts, notes and links on [topics](#contents) I care about.
+This garden is quite literally my digital brain. It includes my thoughts, notes and links on topics I care about.
 
-I [update the notes](other/wiki-workflow.md) daily. I use the website and the [search plugin](https://github.com/nikitavoloboev/alfred-my-mind) I built for it together with the search bar above in right corner (or CMD+K hotkey) to query the content inside.
+See [here](#contents) for all topics I have in this wiki.
+
+I [update it daily](other/wiki-workflow.md). I use the website and the [search plugin](https://github.com/nikitavoloboev/alfred-my-mind) I built for it together with the search bar above in right corner (or CMD+K hotkey) to query the content inside.
 
 The [content](#contents) being markdown files [found here](https://github.com/nikitavoloboev/knowledge/tree/main/docs), which after every commit to the [GitHub repo](https://github.com/nikitavoloboev/knowledge) builds the website using [Docusaurus](tools/docusaurus.md) and publishes it to [wiki.nikiv.dev](https://wiki.nikiv.dev) from which you are likely reading this page.
 
