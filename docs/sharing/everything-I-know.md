@@ -1,6 +1,6 @@
 # Everything I know
 
-Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's post on things he doesn't know](https://overreacted.io/things-i-dont-know-as-of-2018/). 
+Page of [topics](../intro.md#contents) I consider myself knowledgeable of. Similar in spirit to [Dan's post on things he doesn't know](https://overreacted.io/things-i-dont-know-as-of-2018/). 
 
 My entire workflow is outlined [here](my-workflow.md).
 
