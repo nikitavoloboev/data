@@ -513,3 +513,4 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [Ask HN: What are some of the most interesting YouTube channels to follow? (2023)](https://news.ycombinator.com/item?id=35120777)
 - [Video Silence Remover](https://github.com/lucaslattari/Video-Silence-Remover) - Tool created to automatically remove silence from videos.
 - [YouTube Browser API](https://github.com/kauderk/youtube-browser-api) - Retrieve YouTube data from your Browser.
+- [Real-Time Video Processing with WebCodecs and Streams (2023)](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/) ([HN](https://news.ycombinator.com/item?id=35211171))
