@@ -4,6 +4,12 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
 
 Loved visiting [Maastricht](https://nl.wikipedia.org/wiki/Maastricht). It was unlike any other city in NL with its architecture.
 
+## Paying tax in NL
+
+You pay 21% VAT every 3 months on [Belastingdienst](https://www.belastingdienst.nl/). Then you pay once a year income tax. Put in your revenue, answer some questions and it tells you how much you owe in tax on your income.
+
+Similar system is in most other EU countries at least.
+
 ## Notes
 
 - NS.nl [season tickets](https://www.ns.nl/en/season-tickets) are must have if you plan to travel more than a few times on the train in the month.
@@ -65,3 +71,4 @@ Loved visiting [Maastricht](https://nl.wikipedia.org/wiki/Maastricht). It was un
 - [Amsterdam coffee shops with cozy interior](https://www.reddit.com/r/AmsterdamEnts/comments/1037hj2/coffeeshops_with_beautiful_and_cozy_interior/)
 - [Amsterdam Art](https://agentcooper.github.io/amsterdam-art/) - Historical paintings of Amsterdam on a map. ([Code](https://github.com/agentcooper/amsterdam-art#readme)) ([Reddit](https://www.reddit.com/r/Amsterdam/comments/116enzj/historic_paintings_of_amsterdam_on_a_map/))
 - [Nxt Museum](https://nxtmuseum.com/)
+- [The tax system in the Netherlands: a guide for taxpayers](https://www.expatica.com/nl/finance/taxes/netherlands-tax-system-103981/)

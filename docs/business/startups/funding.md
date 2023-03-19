@@ -4,6 +4,8 @@ I believe crowd funding to be best way to raise money for something. As compared
 
 [Fundraising Lore](https://www.lore.vc/) is great read. [Party Round](https://partyround.com/) is nice tool for crowd funding.
 
+[Minimum Viable Finance](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies) is a great read.
+
 ## Nice Funding pitches
 
 - [Reflect](https://wefunder.com/reflect)
