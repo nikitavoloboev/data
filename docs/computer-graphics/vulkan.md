@@ -118,3 +118,4 @@ title: Vulkan API
 - [vkoverhead](https://github.com/zmike/vkoverhead) - Tool for evaluating CPU-based overhead of Vulkan drivers.
 - [vkvk](https://github.com/Lokathor/vkvk) - Vulkan library in Rust.
 - [Go-VK](https://github.com/bbredesen/go-vk) - Go binding around the Vulkan graphics and compute API. ([Samples](https://github.com/bbredesen/go-vk-samples))
+- [Paving the Road to Vulkan on Asahi Linux (2023)](https://asahilinux.org/2023/03/road-to-vulkan/)

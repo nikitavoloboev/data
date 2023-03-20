@@ -166,3 +166,4 @@ Would love to own a [home of my own](https://twitter.com/Camp4/status/1624755246
 - [The search for extraterrestrial life as we don’t know it (2023)](https://www.scientificamerican.com/article/the-search-for-extraterrestrial-life-as-we-dont-know-it/) ([HN](https://news.ycombinator.com/item?id=34633884))
 - [What’s your best life look like?](https://twitter.com/Camp4/status/1624755246554808320)
 - [Ask HN: What is the best advice you got on any aspect of life? (2023)](https://news.ycombinator.com/item?id=34802589)
+- [Ask HN: Has anyone here left the big city in pursue of a simpler life? (2023)](https://news.ycombinator.com/item?id=35230118)
