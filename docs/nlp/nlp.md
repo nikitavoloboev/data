@@ -918,3 +918,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Guardrails](https://github.com/ShreyaR/guardrails) - Python package for specifying structure and type, validating and correcting the outputs of large language models.
 - [Alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Run an Instruction-Tuned Chat-Style LLM on a MacBook. ([HN](https://news.ycombinator.com/item?id=35184985))
 - [TextSynth Server](https://bellard.org/ts_server/) - REST API to large language models. ([HN](https://news.ycombinator.com/item?id=35180429))
+- [Wolverine](https://github.com/biobootloader/wolverine) - Give your python scripts regenerative healing abilities.

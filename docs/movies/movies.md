@@ -208,3 +208,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Official Oscars Discussion Thread 2023](https://www.reddit.com/r/movies/comments/11ptyw2/official_oscars_discussion_thread_2023/) ([Reddit](https://www.reddit.com/r/movies/comments/11pz0i9/rmovies_oscars_2023_official_postgame_thread/))
 - [My ten favorite movies of 2022](https://www.slowboring.com/p/my-ten-favorite-movies-of-2022)
 - [What's the "Best Picture" of the 21st century? (2023)](https://www.reddit.com/r/flicks/comments/11sergq/whats_the_best_picture_of_the_21st_century/)
+- [What’s the scariest movie you’ve ever seen? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/11v1rl2/whats_the_scariest_movie_youve_ever_seen/)

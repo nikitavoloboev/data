@@ -28,3 +28,4 @@
 - [AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/) ([Tweet](https://twitter.com/ericclemmons/status/1466467457816801290)) ([HN](https://news.ycombinator.com/item?id=29427883))
 - [AWS Amplify iOS](https://github.com/aws-amplify/amplify-ios) - Declarative library for application development using cloud services.
 - [Amplify UI](https://github.com/aws-amplify/amplify-ui) - Cloud-connected UI components for Android, iOS, React Native & Web.
+- [Aws Amplify Discord](https://discord.com/invite/amplify)

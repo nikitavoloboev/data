@@ -258,3 +258,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Supersonic](https://github.com/dweymouth/supersonic) - Lightweight cross-platform desktop client for Subsonic music servers.
 - [Listory](https://github.com/apricote/Listory) - Track your Spotify listens.
 - [Lofi](https://github.com/dvx/lofi) - Mini Spotify player with WebGL visualizations. ([HN](https://news.ycombinator.com/item?id=35076693))
+- [What's your favorite video game soundtrack of all time? (2023)](https://www.reddit.com/r/PS5/comments/11vu1wv/whats_your_favorite_video_game_soundtrack_of_all/)

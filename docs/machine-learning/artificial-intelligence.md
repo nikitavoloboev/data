@@ -207,3 +207,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [A weapon to surpass Metal Gear (2023)](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear) ([HN](https://lobste.rs/s/dcceyb/weapon_surpass_metal_gear))
 - [Not By AI Badges](https://notbyai.fyi/) - Badge for Your AI-free Content. ([HN](https://news.ycombinator.com/item?id=35181139))
 - [Yoshua Bengio talks: LLMs, Cognition, Causality, Responsible AI, Creativity (2023)](https://www.youtube.com/watch?v=wdExmzSfw4g)
+- [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)

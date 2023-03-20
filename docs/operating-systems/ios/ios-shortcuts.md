@@ -46,3 +46,4 @@ title: iOS Shortcuts
 - [50+ apps that work with App Shortcuts in iOS 16 (2022)](https://matthewcassinelli.com/50-apps-app-shortcuts-ios-16/)
 - [What iOS Shortcuts do you use?](https://twitter.com/swyx/status/1579892198916558848)
 - [Multi-platform stack machine implemented in Apple Shortcuts](https://github.com/erenyenigul/ios-stack-machine) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/1185cxo/i_created_a_stack_machine_in_apple_shortcuts_d/))
+- [How to use GPT-4 on macOS and iOS with Siri Shortcuts (2023)](https://www.youtube.com/watch?v=kv45bMTTPC0)

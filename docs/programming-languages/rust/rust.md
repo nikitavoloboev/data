@@ -28,6 +28,8 @@ Enjoyed [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/wat
 
 [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) is great series.
 
+My main blocker with not using Rust more is [compilation times](https://www.reddit.com/r/rust/comments/11vrzme/help_me_love_rust_compilation_time/). But there are [ways to improve this](https://nnethercote.github.io/perf-book/compile-times.html).
+
 ## Templates
 
 - [Rust Service Template](https://github.com/sambacha/rust-service-template)
@@ -1094,3 +1096,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Patterns & Abstractions (2023)](https://without.boats/blog/patterns-and-abstractions/)
 - [Why is building a UI in Rust so hard? (2023)](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard) ([HN](https://news.ycombinator.com/item?id=35206734))
 - [Bringing Rust to the Xen Project (2023)](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
+- [Help me love Rust - compilation time (2023)](https://www.reddit.com/r/rust/comments/11vrzme/help_me_love_rust_compilation_time/)
+- [Compile Times - The Rust Performance Book](https://nnethercote.github.io/perf-book/compile-times.html)
