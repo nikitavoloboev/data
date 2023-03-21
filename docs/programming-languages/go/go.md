@@ -992,3 +992,4 @@ if *boolArgPtr != false {
 - [ko](https://github.com/ko-build/ko) - Build and deploy Go applications.
 - [gsv](https://github.com/Zxilly/go-size-view) - Tool to view the size of a Go compiled binary.
 - [Go Gen Tools](https://github.com/duyledat197/go-gen-tools) - Go code generator for gRPC.
+- [GitHub Actions and Go (2023)](https://olegk.dev/github-actions-and-go)

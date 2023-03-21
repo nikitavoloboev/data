@@ -229,3 +229,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Dumb tricks that made my app 95.7x Faster (2023)](https://www.youtube.com/watch?v=vP3QVrveSvI)
 - [512KB Club](https://512kb.club/) - Showcase of lightweight websites. ([Code](https://github.com/kevquirk/512kb.club))
 - [Spidergram](https://github.com/autogram-is/spidergram) - Toolbox for exploring, auditing, and analyzing complicated web sites.
+- [Web Packager](https://github.com/google/webpackager) - Showcase of how to speed up the page loading with privacy-preserving prefetch.

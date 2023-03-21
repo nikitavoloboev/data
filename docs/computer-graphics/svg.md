@@ -127,7 +127,7 @@
 - [svg](https://github.com/rustyoz/svg) - Go library for parsing svg files.
 - [three-plotter-renderer](https://github.com/neurofuzzy/three-plotter-renderer) - SVG renderer with occlusion for plotters and SVG editors.
 - [WasmSVGGraphics](https://github.com/coastalwhite/WasmSVGGraphics) - Rust library for rendering SVG Graphics with WASM.
-- [TinyVG](https://tinyvg.tech/) - Challenger to the throne of vector graphics. ([Article](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)) ([HN](https://news.ycombinator.com/item?id=29629792)) ([Code](https://github.com/TinyVG/sdk)) ([Spec](https://github.com/TinyVG/specification)) ([Lobsters](https://lobste.rs/s/09wnbp/challenger_throne_vector_graphics_svg_is))
+- [TinyVG](https://tinyvg.tech/) - Challenger to the throne of vector graphics. ([Article](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)) ([HN](https://news.ycombinator.com/item?id=29629792)) ([Code](https://github.com/TinyVG/sdk)) ([Spec](https://github.com/TinyVG/specification)) ([Lobsters](https://lobste.rs/s/09wnbp/challenger_throne_vector_graphics_svg_is)) ([HN](https://news.ycombinator.com/item?id=35227635))
 - [svg2png-wasm](https://github.com/ssssota/svg2png-wasm) - SVG to PNG converter JS library made with WASM + resvg.
 - [Katachidraw](https://github.com/dai-shi/katachidraw) - SVG based drawing tool and react-native component.
 - [Using mask as clip-path (2022)](https://yuanchuan.dev/using-mask-as-clip-path) ([Tweet](https://twitter.com/razvancaliman/status/1494992764676755461))

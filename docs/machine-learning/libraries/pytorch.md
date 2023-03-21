@@ -4,7 +4,7 @@ title: PyTorch
 
 # [PyTorch](http://pytorch.org/)
 
-[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) & [Lightning Hydra Template](https://github.com/ashleve/lightning-hydra-template) are neat. [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) is great intro.
+[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) & [Lightning Hydra Template](https://github.com/ashleve/lightning-hydra-template) are neat. [PyTorch in 100 Seconds](https://www.youtube.com/watch?v=ORMx45xqWkA) & [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) is nice intros.
 
 [TorchScale](https://github.com/microsoft/torchscale) is nice library for making [Transformers](https://arxiv.org/abs/1706.03762) efficiently. [BackPACK](https://github.com/f-dangel/backpack) is interesting too.
 

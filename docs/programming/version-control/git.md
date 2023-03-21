@@ -16,7 +16,7 @@ Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with 
 
 [Dolt](https://github.com/dolthub/dolt) seems interesting for version controlling data.
 
-[Advanced Git: Graphs, Hashes, and Compression](https://www.youtube.com/watch?v=ig5E8CcdM9g) and [Inside the Hidden Git Folder](https://www.youtube.com/watch?v=bSA91XTzeuA) are great talks.
+[Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/), [Advanced Git: Graphs, Hashes, and Compression](https://www.youtube.com/watch?v=ig5E8CcdM9g) and [Inside the Hidden Git Folder](https://www.youtube.com/watch?v=bSA91XTzeuA) are great talks.
 
 I also am trying to [run Git in browsers nicely](https://github.com/nikitavoloboev/git).
 
@@ -668,3 +668,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Internals - How Git Works - Fear Not The SHA! (2017)](https://www.youtube.com/watch?v=P6jD966jzlk)
 - [Advanced Git: Graphs, Hashes, and Compression, Oh My! (2012)](https://www.youtube.com/watch?v=ig5E8CcdM9g)
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
+- [A Hacker's Guide to Git (2014)](https://wildlyinaccurate.com/a-hackers-guide-to-git/)

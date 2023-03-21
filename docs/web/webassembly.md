@@ -441,3 +441,4 @@ title: WebAssembly
 - [Scale](https://github.com/loopholelabs/scale) - High-Performance WebAssembly Function Runtime.
 - [Recommendations when publishing a Wasm library (2022)](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library/) ([HN](https://news.ycombinator.com/item?id=30829170))
 - [The Truth about Rust/WebAssembly Performance (2023)](https://www.youtube.com/watch?v=4KtotxNAwME)
+- [A world to win: WebAssembly for the rest of us (2023)](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us) ([HN](https://news.ycombinator.com/item?id=35236272)) ([Lobsters](https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us))

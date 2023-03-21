@@ -1098,3 +1098,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Bringing Rust to the Xen Project (2023)](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
 - [Help me love Rust - compilation time (2023)](https://www.reddit.com/r/rust/comments/11vrzme/help_me_love_rust_compilation_time/)
 - [Compile Times - The Rust Performance Book](https://nnethercote.github.io/perf-book/compile-times.html)
+- [Why use Rust on the back end? (2023)](https://blog.adamchalmers.com/why-rust-on-backend/) ([HN](https://news.ycombinator.com/item?id=35237830))
