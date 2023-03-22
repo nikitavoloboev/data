@@ -144,3 +144,4 @@
 - [Fwoosh](https://github.com/fwoosh-dev/fwoosh) - Front-end notebook inspired by Storybook. ([Docs](https://fwoo.sh/docs/Welcome))
 - [Cross Framework Components](https://github.com/naver/cfcs) - Write once, create framework components that supports React, Vue, Svelte, and more.
 - [AI Component Generator with ChatGPT](https://ai2ui.co/) ([Code](https://github.com/yuvalsuede/ai-component-generator))
+- [Cool frontend arts of local-first: storage, sync, conflicts (2023)](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)

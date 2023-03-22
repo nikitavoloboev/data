@@ -174,3 +174,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeXSwiftUI](https://github.com/colinc86/LaTeXSwiftUI) - SwiftUI view that renders LaTeX.
 - [LaTeX is The Best Thing to Explain Computer Graphics (2023)](https://www.youtube.com/watch?v=J39D-OTiyeY)
 - [Texdoc](https://github.com/TeX-Live/texdoc) - Find and view documentation in TeX Live.
+- [Typst](https://github.com/typst/typst) - Modern LaTeX alternative written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/11xpg6e/typst_a_modern_latex_alternative_written_in_rust/))

@@ -920,3 +920,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [TextSynth Server](https://bellard.org/ts_server/) - REST API to large language models. ([HN](https://news.ycombinator.com/item?id=35180429))
 - [Wolverine](https://github.com/biobootloader/wolverine) - Give your python scripts regenerative healing abilities.
 - [Recursive LLM prompts](https://github.com/andyk/recursive_llm) - Implement recursion using English as the programming language and GPT as the runtime.
+- [Alpaca-LoRA as a Chatbot Service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
+- [Simple UI for LLaMA Model Finetuning](https://github.com/lxe/simple-llama-finetuner)

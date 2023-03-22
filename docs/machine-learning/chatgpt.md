@@ -213,3 +213,4 @@ It's also great at giving examples.
 - [GPT Repo Loader](https://github.com/mpoon/gpt-repository-loader) - Load entire code repos into GPT prompts. ([HN](https://news.ycombinator.com/item?id=35191303))
 - [Jail breaking ChatGPT-4](https://twitter.com/alexalbert__/status/1636488551817965568) ([HN](https://news.ycombinator.com/item?id=35190383))
 - [Chatty](https://github.com/huntabyte/chatty) - Enables you to run or deploy your own ChatGPT-like application.
+- [ChatLLaMA](https://chatllama.baseten.co/) - ChatGPT style chatbot for Facebook's LLaMA. ([HN](https://news.ycombinator.com/item?id=35258553)) ([Code](https://github.com/basetenlabs/alpaca-7b-truss))

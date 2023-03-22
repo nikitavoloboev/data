@@ -2760,6 +2760,8 @@
 - [constant_time_eq](https://github.com/cesarb/constant_time_eq) - Compares two equal-sized byte strings in constant time.
 - [hnsw-rs](https://github.com/jean-pierreBoth/hnswlib-rs) - Rust implementation of the HNSW algorithm (Malkov-Yashunin).
 - [Propane](https://github.com/withoutboats/propane) - Rust generators.
+- [ndarray-csv](https://github.com/paulkernfeld/ndarray-csv) - Easily read homogeneous CSV data into a 2D ndarray.
+- [comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 
 ## Cargo Plugins
 

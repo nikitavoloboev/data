@@ -577,3 +577,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [iOS Tooling and Workflows](https://github.com/phynet/iOS-Tooling) - Share knowledge about the tooling that you use while developing iOS applications.
 - [iOS Deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode.
 - [From 'Hello world' to real iOS app guide (2023)](https://www.reddit.com/r/iOSProgramming/comments/11qit84/from_hello_world_to_your_first_job_the_selftaught/)
+- [App Store description symbols](https://github.com/sindresorhus/appstore-symbols) - List of symbols usable in an app description.

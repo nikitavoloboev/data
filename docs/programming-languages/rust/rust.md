@@ -1099,3 +1099,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Help me love Rust - compilation time (2023)](https://www.reddit.com/r/rust/comments/11vrzme/help_me_love_rust_compilation_time/)
 - [Compile Times - The Rust Performance Book](https://nnethercote.github.io/perf-book/compile-times.html)
 - [Why use Rust on the back end? (2023)](https://blog.adamchalmers.com/why-rust-on-backend/) ([HN](https://news.ycombinator.com/item?id=35237830))
+- [Scaling Rust builds with Bazel (2023)](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)

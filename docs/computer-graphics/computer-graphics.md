@@ -52,7 +52,7 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [V-HACD](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
 - [Geometric Algebra for Computer Graphics (2019)](https://www.youtube.com/watch?v=tX4H_ctggYo) ([HN](https://news.ycombinator.com/item?id=22282452))
 - [Graphics Gems books](http://www.realtimerendering.com/resources/GraphicsGems/) ([Code](https://github.com/erich666/GraphicsGems))
-- [Real-Time Rendering Resources](https://www.realtimerendering.com/)
+- [Real-Time Rendering Resources](https://www.realtimerendering.com/) ([Code](https://github.com/erich666/RealTimeRendering))
 - [Eric Haines courses/research](http://erich.realtimerendering.com/#)
 - [Accurate geometric camera calibration](https://github.com/puzzlepaint/camera_calibration)
 - [rs_pbrt](https://github.com/wahn/rs_pbrt) - Rust crate to implement at least parts of the PBRT book's C++ code.

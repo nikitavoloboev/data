@@ -2,6 +2,8 @@
 
 [PlanetScale](planetscale.md) is nice DB service based on MySQL & [Vitess](https://vitess.io/).
 
+[MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) is great course.
+
 ## Links
 
 - [MySync](https://github.com/yandex/mysync) - MySQL high-availability and cluster configuration tool.
@@ -20,3 +22,4 @@
 - [Scaling Etsy Payments with Vitess (2023)](https://www.etsy.com/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
 - [Vitess 16 (2023)](https://planetscale.com/blog/announcing-vitess-16) ([HN](https://news.ycombinator.com/item?id=34972733))
 - [Node MySQL 2](https://github.com/sidorares/node-mysql2) - MySQL client for Node with focus on performance.
+- [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) ([HN](https://news.ycombinator.com/item?id=35247242))
