@@ -6,6 +6,8 @@ title: Planetscale
 
 > MySQL-compatible serverless database platform
 
+It's nice when used with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm).
+
 ## OSS apps
 
 - [F1 Championship Stats](https://github.com/planetscale/f1-championship-stats)
