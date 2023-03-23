@@ -922,3 +922,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Recursive LLM prompts](https://github.com/andyk/recursive_llm) - Implement recursion using English as the programming language and GPT as the runtime.
 - [Alpaca-LoRA as a Chatbot Service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
 - [Simple UI for LLaMA Model Finetuning](https://github.com/lxe/simple-llama-finetuner)
+- [Serge](https://github.com/nsarrazin/serge) - Web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+- [llama-cli](https://github.com/go-skynet/llama-cli) - Self-hosted, Simple LLaMA/alpaca API & CLI written in go.

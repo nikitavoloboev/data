@@ -316,3 +316,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [SQLite Parser Nom](https://github.com/mycelial/sqlite-parser-nom) - Parser library for SQLite storage format in Rust.
 - [9 years of open-source database development: reviewing rqlite design choices (2023)](https://www.philipotoole.com/9-years-of-open-source-database-development-the-design-docs/)
 - [MiniLitelog: Easy Breezy SQLite Datalog (2023)](https://www.philipzucker.com/tiny-sqlite-datalog/)
+- [Strong Consistency with Raft and SQLite (2023)](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite) ([HN](https://news.ycombinator.com/item?id=35246228))

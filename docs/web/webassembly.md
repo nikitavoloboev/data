@@ -8,7 +8,7 @@ title: WebAssembly
 
 [This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice. Looking into trying out [AssemblyScript](https://github.com/AssemblyScript/assemblyscript).
 
-[Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/), [wasmCloud](https://github.com/wasmCloud/wasmCloud) and [Scale](https://github.com/loopholelabs/scale) are interesting too.
+[Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/), [wasmCloud](https://github.com/wasmCloud/wasmCloud), [Scale](https://github.com/loopholelabs/scale) & [Wasm Workers Server](https://github.com/vmware-labs/wasm-workers-server) are interesting too.
 
 [Luna](https://github.com/thomscoder/luna) & [Kyoto](https://github.com/raphamorim/kyoto) has nice code to study to understand WASM.
 

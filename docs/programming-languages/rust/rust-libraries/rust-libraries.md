@@ -940,6 +940,7 @@
 - [Applevisor](https://github.com/Impalabs/applevisor) - Rust bindings for the Apple Silicon Hypervisor.framework.
 - [darwin-libproc](https://github.com/heim-rs/darwin-libproc) - Rust FFI bindings for macOS libproc.
 - [imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics.
+- [MacBinary](https://github.com/wezm/macbinary) - MacBinary and resource fork reading in Rust.
 
 ## Macros
 

@@ -35,3 +35,4 @@ title: NEAR Protocol
 - [Here](https://herewallet.app/) - NEAR Wallet.
 - [Your opinion on NEAR Protocol (2022)](https://www.reddit.com/r/CryptoTechnology/comments/yl3g6d/comment/iuwujw0/?context=3)
 - [QuickJS for WebAssembly and JavaScript contracts inside Rust on NEAR protocol](https://github.com/petersalomonsen/quickjs-wasm-near)
+- [NEAR viewpoint](https://github.com/petersalomonsen/near-viewpoint) - Overview of NEAR accounts: balances, transactions, staking rewards, deposits/withdrawals, profit/loss.

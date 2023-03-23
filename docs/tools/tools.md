@@ -842,3 +842,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Buildt](https://www.buildt.ai/) - Conversational semantic code search. ([HN](https://news.ycombinator.com/item?id=35000562))
 - [Attio](https://attio.com/) - Customer relationship magic.
 - [What are your favorite pieces of software? (2023)](https://lobste.rs/s/d0ptcu/what_are_your_favourite_pieces_software)
+- [Cursor](https://www.cursor.so/) - Editor built for programming with AI. ([Code](https://github.com/getcursor/cursor))

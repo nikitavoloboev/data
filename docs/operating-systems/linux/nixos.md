@@ -311,3 +311,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [Running a NixOS VM on macOS (2023)](https://www.tweag.io/blog/2023-02-09-nixos-vm-on-macos/)
 - [NixOS in Production: NixOS handbook for professional use (2023)](https://leanpub.com/nixos-in-production) ([Code](https://github.com/Gabriella439/nixos-in-production))
 - [Quick VMs with NixOS (2023)](https://galowicz.de/2023/03/13/quick-vms-with-nixos/)
+- [NixOS Flake](https://github.com/srid/nixos-flake) - Flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.

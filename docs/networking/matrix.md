@@ -130,3 +130,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Conduit](https://github.com/timokoesters/conduit) - Matrix homeserver written in Rust.
 - [Matrix 2.0: How we’re making Matrix go voom (2023)](https://fosdem.org/2023/schedule/event/matrix20/) ([HN](https://news.ycombinator.com/item?id=34776132))
 - [Draupnir](https://github.com/Gnuxie/Draupnir) - Moderation tool for Matrix.
+- [PushBits](https://github.com/pushbits/server) - Simple server for push notifications via Matrix.

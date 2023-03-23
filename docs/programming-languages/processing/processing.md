@@ -31,3 +31,4 @@ title: Processing
 - [Testing some things in Processing](https://github.com/JoseCutileiro/NiceStuff)
 - [Creative coding, making loops with Processing](https://bleuje.com/) ([HN](https://news.ycombinator.com/item?id=34556309))
 - [Making a first gif with Processing (2020)](https://bleuje.com/tutorial1/)
+- [Processing GPT](https://processing-gpt.vercel.app/) ([Code](https://github.com/msfeldstein/processing-gpt))

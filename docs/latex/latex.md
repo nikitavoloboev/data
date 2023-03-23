@@ -4,11 +4,13 @@ title: LaTeX
 
 # [LaTeX](https://www.latex-project.org/)
 
-LaTeX is a nice typesetting language that I mostly use to markup various mathematical formulas. I use it in some places of this wiki with [KaTex](https://plugins.gitbook.com/plugin/katex) plugin.
+I don't write LaTeX as much now. [Typst](https://github.com/typst/typst) or [SILE](https://sile-typesetter.org/) like a nice alternatives.
 
-For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text.md) and [LateXTools](https://github.com/SublimeText/LaTeXTools) plugin.
+[Sublime Text](../text-editors/sublime-text/sublime-text.md) with [LateXTools](https://github.com/SublimeText/LaTeXTools) plugin seems nice.
 
-[SILE](https://sile-typesetter.org/) seems like a nice alternative to LaTeX. [Digestif](https://github.com/astoff/digestif) is great [LSP](../programming-languages/language-server-protocol.md) for LaTeX.
+[Digestif](https://github.com/astoff/digestif) is great [LSP](../programming-languages/language-server-protocol.md) for LaTeX.
+
+[KaTex](https://plugins.gitbook.com/plugin/katex) is nice plugin for web.
 
 ## Links
 
@@ -174,4 +176,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeXSwiftUI](https://github.com/colinc86/LaTeXSwiftUI) - SwiftUI view that renders LaTeX.
 - [LaTeX is The Best Thing to Explain Computer Graphics (2023)](https://www.youtube.com/watch?v=J39D-OTiyeY)
 - [Texdoc](https://github.com/TeX-Live/texdoc) - Find and view documentation in TeX Live.
-- [Typst](https://github.com/typst/typst) - Modern LaTeX alternative written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/11xpg6e/typst_a_modern_latex_alternative_written_in_rust/))
+- [Typst](https://github.com/typst/typst) - Modern LaTeX alternative written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/11xpg6e/typst_a_modern_latex_alternative_written_in_rust/)) ([HN](https://news.ycombinator.com/item?id=35250210))

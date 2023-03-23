@@ -338,7 +338,7 @@ useEffect(() => {
 - [Synchronizing with Effects](https://beta-reactjs-org-git-effects-fbopensource.vercel.app/learn/synchronizing-with-effects) ([Tweet](https://twitter.com/dan_abramov/status/1528420593686745091))
 - [Goodbye, useEffect: David Khourshid (2022)](https://www.youtube.com/watch?v=HPoC-k7Rxwo)
 - [Rapini](https://github.com/rametta/rapini) - OpenAPI to React Query & Axios.
-- [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect) ([Tweet](https://twitter.com/dan_abramov/status/1539735073947373568))
+- [You Might Not Need an Effect](https://react.dev/learn/you-might-not-need-an-effect) ([Tweet](https://twitter.com/dan_abramov/status/1539735073947373568)) ([HN](https://news.ycombinator.com/item?id=35270877))
 - [Understanding UseMemo and UseCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/) ([HN](https://news.ycombinator.com/item?id=32652627))
 - [Getting Started with React Query (2022)](https://dev.to/nischal_dutt/getting-started-with-react-query-30g7)
 - [React's `use` hook](https://twitter.com/housecor/status/1582358326075043841)

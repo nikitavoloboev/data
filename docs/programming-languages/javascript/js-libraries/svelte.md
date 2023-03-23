@@ -367,3 +367,4 @@ title: Svelte
 - [Zero-effort type safety (2023)](https://svelte.dev/blog/zero-config-type-safety)
 - [SvelteKit Document](https://github.com/barvian/sveltekit-document) - Utility for SvelteKit that lets you change the html, head, and body tags from any page or layout with full SSR support.
 - [Markflow](https://markflow.app/) - Copy elements as Svelte components. ([Reddit](https://www.reddit.com/r/sveltejs/comments/11sysla/copy_elements_as_svelte_components_details_in/))
+- [Svelte Meta Tags](https://github.com/oekazuma/svelte-meta-tags) - Components designed to help you manage SEO for Svelte projects.

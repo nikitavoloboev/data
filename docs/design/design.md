@@ -12,6 +12,8 @@ I keep a list of [inspiring designs](design-inspiration.md).
 
 [Arc](https://arc.net/) has nice design team. Love their video on how they did [design feedback meetings](https://www.youtube.com/watch?v=qixx7ESrJQg).
 
+More people should [do design in the open](https://twitter.com/CharlesPattson/status/1638269499186069504).
+
 ## Notes
 
 - [A good way to make your interface look “designed” is to use a consistent space scale](https://twitter.com/siddharthkp/status/1264578950799523843)

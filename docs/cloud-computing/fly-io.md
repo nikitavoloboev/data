@@ -19,3 +19,4 @@ title: Fly.io
 - [Ask HN: Are people considering moving off of Fly.io? (2023)](https://news.ycombinator.com/item?id=34742946)
 - [From Go on EC2 to Fly.io (2023)](https://benhoyt.com/writings/flyio/) ([HN](https://news.ycombinator.com/item?id=34953242))
 - [Fly.io Reliability: It’s Not Great (2023)](https://community.fly.io/t/reliability-its-not-great/11253) ([HN](https://news.ycombinator.com/item?id=35044516))
+- [MRSK vs. Fly.io (2023)](https://fly.io/ruby-dispatch/mrsk-vs-flyio/) ([HN](https://news.ycombinator.com/item?id=35263886))

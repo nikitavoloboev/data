@@ -376,3 +376,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [Bird.makeup](https://bird.makeup/) - Twitter to ActivityPub bridge. ([HN](https://news.ycombinator.com/item?id=34748669)) ([Code](https://sr.ht/~cloutier/bird.makeup/))
 - [TwitterBackup](https://github.com/one-among-us/TwitterBackup) - Backup other users' twitter accounts with Twitter API.
 - [next-tweet](https://github.com/vercel-labs/next-tweet) - Embedded and static tweet for Next.js applications.
+- [abbrevia.me](https://abbrevia.me/) - Abbreviate users' information from their latest tweets. ([Code](https://github.com/heedrox/abbreviame))

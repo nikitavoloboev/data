@@ -348,3 +348,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Editing Implicit Assumptions in Text-to-Image Diffusion Models (2023)](https://arxiv.org/abs/2303.08084) ([Code](https://github.com/bahjat-kawar/time-diffusion))
 - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models (2023)](https://arxiv.org/abs/2302.12228) ([Code](https://github.com/mkshing/e4t-diffusion))
+- [P+: Extended Textual Conditioning in Text-to-Image Generation (2023)](https://prompt-plus.github.io/) ([Code](https://github.com/mkshing/prompt-plus-pytorch))
+- [ArtBot for Stable Diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - Front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster.

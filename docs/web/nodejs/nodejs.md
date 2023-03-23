@@ -460,3 +460,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [Turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.
 - [node-gyp-build](https://github.com/prebuild/node-gyp-build) - Build tool and bindings loader for node-gyp that supports prebuilds.
 - [env-var](https://github.com/evanshortiss/env-var) - Verification, sanitization, and type coercion for environment variables in Node.
+- [Nodepad](https://github.com/joaopcm/nodepad) - All-in-one platform for creating, executing, and sharing Node.js code snippets.

@@ -214,3 +214,7 @@ It's also great at giving examples.
 - [Jail breaking ChatGPT-4](https://twitter.com/alexalbert__/status/1636488551817965568) ([HN](https://news.ycombinator.com/item?id=35190383))
 - [Chatty](https://github.com/huntabyte/chatty) - Enables you to run or deploy your own ChatGPT-like application.
 - [ChatLLaMA](https://chatllama.baseten.co/) - ChatGPT style chatbot for Facebook's LLaMA. ([HN](https://news.ycombinator.com/item?id=35258553)) ([Code](https://github.com/basetenlabs/alpaca-7b-truss))
+- [Awesome Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - List of open alternatives to ChatGPT. ([HN](https://news.ycombinator.com/item?id=35243435))
+- [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt) ([HN](https://news.ycombinator.com/item?id=35268197))
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - ChatGPT clone for running locally in your browser.
+- [ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.

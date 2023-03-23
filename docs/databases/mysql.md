@@ -4,6 +4,8 @@
 
 [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) is great course.
 
+Use it with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm).
+
 ## Links
 
 - [MySync](https://github.com/yandex/mysync) - MySQL high-availability and cluster configuration tool.

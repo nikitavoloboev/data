@@ -247,6 +247,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) - macOS app to show applications menu shortcuts.
 - [TextTransformer](https://github.com/insidegui/TextTransformer) - Apple ExtensionFoundation/ExtensionKit sample app.
 - [OrbStack](https://orbstack.dev/) - Fast, light, simple Docker & Linux for macOS. ([Code](https://github.com/orbstack/orbstack))
+- [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html) ([HN](https://news.ycombinator.com/item?id=35267707))
 
 ## Apps I used but dropped
 

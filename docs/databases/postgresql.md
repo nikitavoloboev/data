@@ -6,7 +6,11 @@ title: PostgreSQL
 
 [Internals of PostgreSQL](https://www.interdb.jp/pg/), [The Art of PostgreSQL](https://theartofpostgresql.com/) & [Postgres Docs](https://www.postgresql.org/docs/) are great reads.
 
-[Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs. Looking into [EdgeDB](edgedb.md) now as it builds on top of Postgres and has [many nice features](https://www.youtube.com/watch?v=6LqbBF0KAXE). [Citus](https://github.com/citusdata/citus) & [Snaplet](https://www.snaplet.dev/) seem neat too.
+Prefer using [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) for it.
+
+Looking into [EdgeDB](edgedb.md) too as it builds on top of Postgres and has [many nice features](https://www.youtube.com/watch?v=6LqbBF0KAXE).
+
+[Citus](https://github.com/citusdata/citus) & [Snaplet](https://www.snaplet.dev/) seem neat too.
 
 Want to try build something on top of [pgproto3](https://github.com/jackc/pgproto3). Also trying out [pgx](https://github.com/jackc/pgx) as a Go lib to query Postgres.
 
@@ -676,3 +680,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library.
 - [Codd](https://github.com/mzabani/codd) - Helps to apply plain postgres SQL migrations with strong cross-environment consistency checks and atomicity guarantees.
 - [PostgreSQL Logical Replication Explained (2023)](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql) ([HN](https://news.ycombinator.com/item?id=35203571))
+- [Pg_jsonschema – JSON Schema Support for Postgres (2022)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation) ([HN](https://news.ycombinator.com/item?id=35258323))

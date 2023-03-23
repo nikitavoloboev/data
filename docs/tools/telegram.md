@@ -91,6 +91,7 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [Telegram Vapor Bot](https://github.com/nerzh/telegram-vapor-bot) - Wrapper for the Telegram Bot API written in Swift with Vapor.
 - [Telexide](https://github.com/CalliEve/telexide) - Easy-to-use async telegram bot library for Rust.
 - [Telegram.jl](https://github.com/Arkoniak/Telegram.jl) - Native Julia Telegram bot API wrapper.
+- [telegraf/entity](https://github.com/telegraf/entity) - Convert Telegram entities to HTML or Markdown.
 
 ## Bots
 

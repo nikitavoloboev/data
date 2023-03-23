@@ -132,3 +132,4 @@ Love using [GPU-IO](https://github.com/amandaghassaei/gpu-io) ([nice example](ht
 - [SwissGL](https://github.com/google/swissgl) - Minimalistic wrapper on top of WebGL2 JS API.
 - [Diamond WebGL](https://github.com/piellardj/diamond-webgl) - Ray-tracing engine for real-time diamond rendering in WebGL.
 - [Stable fluid simulation on GPU using WebGL](https://github.com/piellardj/navier-stokes-webgl)
+- [Red Otter](https://github.com/tchayen/red-otter) - Self-contained WebGL flexbox layout engine.

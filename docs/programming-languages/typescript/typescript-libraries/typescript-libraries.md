@@ -838,6 +838,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Untypeable](https://github.com/total-typescript/untypeable) - Get type-safe access to any API, with a zero-bundle size option.
 - [Micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices.
 - [webcontainer-reactive-fs](https://github.com/wheatjs/webcontainer-reactive-fs) - Reactive fs for WebContainers.
+- [Symmetry](https://github.com/Two-Screen/symmetry) - Sync objects by diffing and patching.
+- [Djinject](https://github.com/langium/djinject) - Dependency injection done right.
 
 ## Links
 

@@ -261,3 +261,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [graph-sql](https://github.com/dominikbraun/graph-sql) - SQL storage implementation for graph data structures.
 - [Human to SQL Translator](https://www.sqltranslate.app/) - Tool for converting natural language queries into SQL code using artificial intelligence. ([Code](https://github.com/whoiskatrin/sql-translator))
 - [dbt_linreg](https://github.com/dwreeves/dbt_linreg) - Linear regression in SQL using dbt.
+- [LeiSQL](https://github.com/leiysky/leisql) - SQL database.

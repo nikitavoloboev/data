@@ -119,3 +119,4 @@ I try to setup proper [observability](../devops/observability.md) together with 
 - [Analytics: Hacker News v.s. a tweet from Elon Musk (2023)](https://simonwillison.net/2023/Feb/17/analytics/) ([HN](https://news.ycombinator.com/item?id=34841382))
 - [Brief Comparison of 10+ Best Google Analytics Alternatives (2023)](https://algustionesa.com/google-analytics-alternatives/)
 - [Using GoatCounter for blog analytics (2023)](https://eli.thegreenplace.net/2023/using-goatcounter-for-blog-analytics/) ([Lobsters](https://lobste.rs/s/wk58us/using_goatcounter_for_blog_analytics))
+- [PoeticMetric](https://github.com/th0th/poeticmetric) - Privacy-focused, open source, and blazingly fast alternative to Google Analytics.

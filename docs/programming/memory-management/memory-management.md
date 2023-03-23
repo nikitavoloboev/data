@@ -135,3 +135,5 @@
 - [Exploring some worst-case latencies in GCs](https://github.com/WillSewell/gc-latency-experiment)
 - [It’s a smol_world: thoughts and lessons (2023)](https://tendril.blog/@snej/log2/133/) ([Lobsters](https://lobste.rs/s/igud1r/it_s_smol_world_thoughts_lessons))
 - [Rust and RAII Memory Management (2023)](https://www.youtube.com/watch?v=pTMvh6VzDls)
+- [I built my own memory profiler (in Rust, on Linux) (2023)](https://www.youtube.com/watch?v=DpnXaNkM9_M)
+- [mevi](https://github.com/fasterthanlime/mevi) - Memory visualizer in Rust (ptrace + userfaultfd).

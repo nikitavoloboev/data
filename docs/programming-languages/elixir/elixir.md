@@ -196,3 +196,4 @@
 - [Globally Distributed Elixir over Tailscale (2023)](https://www.richardtaylor.dev/articles/globally-distributed-elixir-over-tailscale) ([HN](https://news.ycombinator.com/item?id=35059770))
 - [Physical knobs & userspace drivers in Elixir (2023)](https://underjord.io/userspace-drivers-in-elixir.html)
 - [Interview and AMA with José Valim - Creator of Elixir (2023)](https://www.youtube.com/watch?v=LknqlTouTKg)
+- [Building a full-text search engine in Elixir (2023)](https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir)

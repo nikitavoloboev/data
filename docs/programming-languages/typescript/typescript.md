@@ -326,6 +326,7 @@ Run TS with [Bun](../javascript/bun.md) and deploy [HTTP](../../networking/http.
 - [TypeScripting the Technical Interview (2023)](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html) ([HN](https://news.ycombinator.com/item?id=35120084))
 - [JavaScript and TypeScript features of the last 3 years (2023)](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42) ([HN](https://news.ycombinator.com/item?id=35079971))
 - [TypeScript 5.0 (2023)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/) ([HN](https://news.ycombinator.com/item?id=35185069)) ([Reddit](https://www.reddit.com/r/javascript/comments/11szqm1/announcing_typescript_50/))
+- [ValueScript](https://github.com/voltrevo/ValueScript) - Dialect of TypeScript with value semantics.
 
 ## Images
 

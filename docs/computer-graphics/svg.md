@@ -188,3 +188,4 @@
 - [Draw SVG rope using JavaScript (2022)](https://muffinman.io/blog/draw-svg-rope-using-javascript/) ([HN](https://news.ycombinator.com/item?id=34197379))
 - [usvg](https://github.com/ChengCat/usvg) - SVG simplification tool.
 - [SSSVG: An Interactive SVG Reference](https://fffuel.co/sssvg/)
+- [SVG Backgrounds](https://www.svgbackgrounds.com/) ([HN](https://news.ycombinator.com/item?id=35235952))

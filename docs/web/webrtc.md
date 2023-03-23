@@ -130,3 +130,4 @@ title: WebRTC
 - [FTL](https://github.com/hironichu/FTL) - Fast WebRTC based server for Deno.
 - [werift](https://github.com/shinyoshiaki/werift-webrtc) - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM.
 - [RSFU](https://github.com/harlanc/rsfu) - WebRTC SFU (Selective Forwarding Unit) in Rust.
+- [Cyberdeck](https://github.com/richardanaya/cyberdeck) - Library for easily creating WebRTC data channel connections in Rust.
