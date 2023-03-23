@@ -6,7 +6,7 @@ title: Blockchain
 
 Blockchain is an [immutable linked list of hashes that uses some consensus system like proof of stake (or other methods) to decide which blocks (transactions or runnable code) are added next](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
 
-[Solana](solana.md), [Tezos](tezos.md), [Monero](../../cryptocurrencies/monero.md) & [Avalanche](../../cryptocurrencies/avalanche.md) are interesting blockchains. In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383). In practice now, they are [mostly empty promises and lots of fraud](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
+[Solana](solana.md), [Tezos](tezos.md), [Monero](../../cryptocurrencies/monero.md), [Mimblewimble](https://github.com/mimblewimble/grin/blob/master/doc/intro.md) & [Avalanche](../../cryptocurrencies/avalanche.md) are interesting blockchains. In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383). In practice now, they are [mostly empty promises and lots of fraud](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
 
 [You should not use a blockchain unless you critically need finality in a shared context with a lot of other financial applications like exchanges, stable coin providers. If you don't need that, don't use a blockchain.](https://youtu.be/35_rr8Vf-4k?t=27635)
 
@@ -441,3 +441,5 @@ Want to study [Dexterity](https://github.com/solana-labs/dexterity) code for how
 - [Blowfish](https://blowfish.xyz/) - Proactive defense for web3 wallets. ([Local Blocklists](https://github.com/blowfishxyz/blocklist))
 - [Uniswap Wallet](https://github.com/Uniswap/wallet) - Simplest, safest, and most powerful self-custodial crypto wallet.
 - [Ponder](https://github.com/0xOlias/ponder) - Framework for blockchain application backends.
+- [Hyperledger Fabric Samples](https://github.com/hyperledger/fabric-samples)
+- [Grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.

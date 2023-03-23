@@ -59,3 +59,4 @@
 - [ansi](https://github.com/gleam-community/ansi) - ANSI colors, formatting, and control codes.
 - [Gleam Erlang](https://github.com/gleam-lang/erlang) - Library for making use of Erlang specific code.
 - [Gleam v0.27 - Hello panic, goodbye try (2023)](https://gleam.run/news/v0.27-hello-panic-goodbye-try/)
+- [Gleam OTP](https://github.com/gleam-lang/otp) - Fault tolerant multicore programs with actors.

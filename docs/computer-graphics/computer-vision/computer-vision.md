@@ -1184,3 +1184,4 @@
 - [Vid2Seq: a pretrained visual language model for describing multi-event videos (2023)](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html) ([HN](https://news.ycombinator.com/item?id=35201667))
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models (2023)](https://lukashoel.github.io/text-to-room/) ([Code](https://github.com/lukasHoel/text2room))
 - [Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (2023)](https://arxiv.org/abs/2211.13202) ([Code](https://github.com/noahzn/Lite-Mono))
+- [Generative Semantic Segmentation (2023)](https://arxiv.org/abs/2303.11316) ([Code](https://github.com/fudan-zvg/GSS))

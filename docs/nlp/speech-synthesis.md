@@ -118,3 +118,4 @@
 - [StyleTTS-VC: One-Shot Voice Conversion by Knowledge Transfer from Style-Based TTS Models (2022)](https://arxiv.org/abs/2212.14227) ([Code](https://github.com/yl4579/StyleTTS-VC))
 - [PITS: Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS](https://github.com/anonymous-pits/pits)
 - [Improving Few-shot Learning for Talking Face System with TTS Data Augmentation (2023)](https://github.com/Moon0316/T2A)
+- [Conditioning and Sampling in Variational Diffusion Models for Speech Super-Resolution (2022)](https://yoyololicon.github.io/diffwave-sr/) ([Code](https://github.com/yoyololicon/diffwave-sr))

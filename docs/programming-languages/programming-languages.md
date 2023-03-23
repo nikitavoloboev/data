@@ -548,3 +548,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Alumina](https://github.com/alumina-lang/alumina) - Imperative, general-purpose, statically typed, compiled system programming language.
 - [Advanced Topics in Programming Languages (2023)](https://github.com/plclub/cis6700-23sp)
 - [What are the issues with algebraic effects? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/11ti9sc/what_are_the_issues_with_algebraic_effects/)
+- [Mamba](https://github.com/JSAbrahams/mamba) - Compiles to Python.

@@ -250,3 +250,4 @@ title: Jupyter Notebooks
 - [JupyterLab Desktop (2023)](https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23) ([HN](https://news.ycombinator.com/item?id=34736064))
 - [JupyterLab Link Share](https://github.com/jupyterlab-contrib/jupyterlab-link-share) - JupyterLab Extension to easily share a link to a running server on Binder.
 - [Streamlit Jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Python package to preview and develop streamlit apps in jupyter notebooks.
+- [JupyterLab MyST Extension](https://github.com/executablebooks/jupyterlab-myst) - Use MyST Markdown directly in Jupyter Lab.

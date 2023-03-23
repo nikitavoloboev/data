@@ -63,3 +63,4 @@ title: QUIC
 - [Comparing TCP and QUIC (2022)](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 - [Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 - [quinn-holepunch](https://github.com/Frando/quinn-holepunch) - Holepuncheable QUIC sockets through a rendevouz server.
+- [Quic-Rpc](https://github.com/n0-computer/quic-rpc) - Streaming RPC system based on QUIC.

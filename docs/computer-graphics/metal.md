@@ -71,3 +71,4 @@ title: Metal
 - [Numerical Computing on Apple M1 : Study and Implementations](https://github.com/ShoYamanishi/AppleNumericalComputing)
 - [MetallicImage](https://github.com/iXerol/MetallicImage) - Image Processing Framework on Apple Platforms using Metal.
 - [Optimizing Parallel Reduction in Metal for Apple M1 (2021)](https://kieber-emmons.medium.com/optimizing-parallel-reduction-in-metal-for-apple-m1-8e8677b49b01)
+- [SwiftyCreatives](https://github.com/yukiny0811/swifty-creatives) - Creative coding framework for Swift. Built on Apple's Metal. Inspired by Processing.

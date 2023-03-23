@@ -58,3 +58,4 @@ title: Fourier transform
 - [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft/) ([HN](https://news.ycombinator.com/item?id=33668004))
 - [How I over-engineered a Fast Fourier Transform for Arduino (2022)](https://klafyvel.me/blog/articles/fft-arduino/) ([HN](https://news.ycombinator.com/item?id=33717847))
 - [fftconvolve](https://github.com/rhysnewell/fftconvolve) - Rust implementations of Fast Fourier Transform convolution and correlation for n-dimensional arrays.
+- [Notes on FFTs: for implementers (2023)](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/)

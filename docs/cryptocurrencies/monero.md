@@ -14,6 +14,8 @@ I am curious what society where everyone agreed to use only anonymous currencies
 
 [ETH-XMR Atomic Swaps](https://github.com/AthanorLabs/atomic-swap) is great.
 
+[Mimblewimble](https://github.com/mimblewimble/grin/blob/master/doc/intro.md) seems like a nice alternative to Monero which also has private transactions and is quite efficient.
+
 ## Notes
 
 - [Can buy Monero on Kraken/KuCoin/TradeOgre and transfer it out (to Exodus/Cake wallet).](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)

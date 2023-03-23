@@ -47,3 +47,4 @@ title: Framer
 - [Framer Motion - YouTube](https://www.youtube.com/playlist?list=PLlNdnoKwDZdwwEWvKXdR9qwDSlnkGtOjq)
 - [Multistep wizard - Framer Motion Recipes](https://buildui.com/series/framer-motion-recipes/multistep-wizard)
 - [Framer: Image Tool & Media](https://www.framer.com/updates/image-tool)
+- [Framer University](https://framer.university/)

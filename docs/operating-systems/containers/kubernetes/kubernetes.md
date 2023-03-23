@@ -946,3 +946,5 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Shift-left Network Topology Analyzer](https://github.com/np-guard/cluster-topology-analyzer) - Analyzes resource YAMLs of a Kubernetes-based application to extract the required connectivity between its workloads.
 - [ktunnels](https://github.com/int128/ktunnels) - Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy.
 - [A brief guide to Kubernetes networking (2023)](https://ergomake.dev/blog/kubernetes-networking-guide/) ([HN](https://news.ycombinator.com/item?id=35181301))
+- [n8n Helm Chart for Kubernetes](https://github.com/8gears/n8n-helm-chart) - Kubernetes Helm chart for n8n a Workflow Automation Tool. Easily automate tasks across different services.
+- [Awesome Kubernetes (K8s) Threat Detection](https://github.com/jatrost/awesome-kubernetes-threat-detection)

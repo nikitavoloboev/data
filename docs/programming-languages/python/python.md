@@ -605,3 +605,4 @@ for i, _ in enumerate(nums):
 - [How virtual environments work (2023)](https://snarky.ca/how-virtual-environments-work/) ([Lobsters](https://lobste.rs/s/ypbrf6/how_virtual_environments_work)) ([HN](https://news.ycombinator.com/item?id=35131357))
 - [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [ViperGPT: Visual Inference via Python Execution for Reasoning (2023)](https://viper.cs.columbia.edu/) ([Code](https://github.com/cvlab-columbia/viper)) ([HN](https://news.ycombinator.com/item?id=35198998))
+- [Speeding up text processing in Python (is hard) (2023)](https://pythonspeed.com/articles/faster-text-processing/)

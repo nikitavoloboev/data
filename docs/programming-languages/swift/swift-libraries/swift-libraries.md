@@ -1462,6 +1462,7 @@
 - [swift-certificates](https://github.com/apple/swift-certificates) - Library for working with X.509 certificates.
 - [LicensesPlugin](https://github.com/maiyama18/LicensesPlugin) - Plugin to collect licenses of the library used in your swift package.
 - [OpenAIStreamingCompletions](https://github.com/nate-parrott/openai-streaming-completions-swift) - Streaming text generation using the OpenAI APIs.
+- [Puid](https://github.com/puid/Swift-puid) - Simple, fast, flexible and efficient generation of probably unique identifiers.
 
 ## Other (not lib)
 

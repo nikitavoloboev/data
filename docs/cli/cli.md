@@ -252,3 +252,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [WIK](https://github.com/yashsinghcodes/wik) - Terminal Based Wikipedia. ([HN](https://news.ycombinator.com/item?id=35119681))
 - [teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well".
 - [gotrash](https://github.com/koki-develop/gotrash) - rm alternative written in Go.
+- [JSCodemod](https://github.com/NickHeiner/jscodemod) - Codemod runner.

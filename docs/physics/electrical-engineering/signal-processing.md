@@ -73,3 +73,4 @@ title: Signal processing
 - [Diospyros](https://github.com/cucapra/diospyros) - Compiler for generating high-performance, intrinsics-based code for linear algebra kernels running on digital signal processors.
 - [Julius Smith - Sound synthesis based on physical models (2012)](https://www.youtube.com/watch?v=dUcNzPhZdwk)
 - [What Are Signals?](https://signia.tldraw.dev/docs/what-are-signals) ([HN](https://news.ycombinator.com/item?id=35009417))
+- [TimeStretch](https://github.com/spluta/TimeStretch) - Implements a phase randomized Real FFT time stretch algorithm, the NessStretch, which splits the original sound file into 9 discrete frequency bands.

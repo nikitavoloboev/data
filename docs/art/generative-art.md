@@ -6,7 +6,7 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 
 [Samila](https://github.com/sepandhaghighi/samila), [Alma](https://www.alma.sh/) & [Nannou](https://github.com/nannou-org/nannou) are interesting.
 
-[GPU-IO](https://observablehq.com/@esperanc/gpu-io) is interesting.
+[GPU-IO](https://observablehq.com/@esperanc/gpu-io) & [SwiftyCreatives](https://github.com/yukiny0811/swifty-creatives) are interesting.
 
 ## Links
 

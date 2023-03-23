@@ -229,4 +229,6 @@ It's also great at giving examples.
 - [Alice](https://heyalice.app/) - AI assistant you've been waiting for.
 - [Using GPT-4 to measure the passage of time in fiction (2023)](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 - [ChatGPT Plugins (2023)](https://openai.com/blog/chatgpt-plugins) ([HN](https://news.ycombinator.com/item?id=35277677))
-- [ChatGPT Gets Its “Wolfram Superpowers” (2023)](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) ([HN](https://news.ycombinator.com/item?id=35277925))
+- [ChatGPT can now call Wolfram Alpha (2023)](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) ([HN](https://news.ycombinator.com/item?id=35277925))
+- [Cursor for Visual Studio Code](https://github.com/Helixform/CodeCursor) - AI code editor based on GPT-4.
+- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)

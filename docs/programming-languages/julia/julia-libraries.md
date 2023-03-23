@@ -854,6 +854,9 @@
 - [LaTeXTabulars.jl](https://github.com/tpapp/LaTeXTabulars.jl) - Write tabular data from Julia in LaTeX format.
 - [ReplGPT.jl](https://github.com/ThatcherC/ReplGPT.jl) - Talk to ChatGPT from the Julia REPL.
 - [ScheduleMeetings](https://github.com/timholy/ScheduleMeetings.jl) - Schedule weekly meetings for lists of presenters.
+- [Whisper.jl](https://github.com/aviks/Whisper.jl) - Julia package for automatic speech recognition, based on OpenAI's Whisper model.
+- [IRViz](https://github.com/JuliaComputing/IRViz.jl) - Tools for visualizing Julia IR.
+- [SparseDiffTools.jl](https://github.com/JuliaDiff/SparseDiffTools.jl) - Fast jacobian computation through sparsity exploitation and matrix coloring.
 
 ## Links
 

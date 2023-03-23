@@ -93,3 +93,4 @@ title: Observability
 - [Rezolus](https://github.com/iopsystems/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
 - [Opting In to Transparent Telemetry (2023)](https://research.swtch.com/telemetry-opt-in)
 - [Getting started with monitoring (2023)](https://fiberplane.com/blog/getting-started-with-monitoring-part-1)
+- [otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts & similar environments.

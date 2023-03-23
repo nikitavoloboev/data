@@ -228,3 +228,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [comparxiv](https://github.com/temken/comparxiv) - Compare two version of an arXiv preprint with a single command.
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
 - [PubPub Client](https://github.com/tefkah/pubpub-client) - Unofficial Node Client for PubPub.
+- [arxiv_daily_tools](https://github.com/weihaox/arxiv_daily_tools) - Converts arxiv papers into a certain markdown format.

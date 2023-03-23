@@ -2,7 +2,7 @@
 
 Find [generative ML](../machine-learning/generative-machine-learning.md) like [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)/[Midjourney](https://www.midjourney.com/home/) fascinating.
 
-Also [ChatGPT](../machine-learning/chatgpt.md) and its open variants like [Alpaca](https://github.com/tatsu-lab/stanford_alpaca). Alpaca specifically has lots of momentum building on top of it, like [this UI](https://github.com/nsarrazin/serge).
+Love using [ChatGPT](../machine-learning/chatgpt.md) and its open variants like [Alpaca](https://github.com/tatsu-lab/stanford_alpaca). Alpaca specifically has lots of momentum building on top of it, like [this UI](https://github.com/nsarrazin/serge).
 
 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) is great read.
 
@@ -932,3 +932,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Cheating is all you need (2023)](https://about.sourcegraph.com/blog/cheating-is-all-you-need) ([HN](https://news.ycombinator.com/item?id=35273406))
 - [Prompt Engineering (2023)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python) - Access to Anthropic's safety-first language model APIs.

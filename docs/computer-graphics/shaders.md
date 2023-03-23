@@ -125,3 +125,4 @@ title: Shaders
 - [Shader Playground](https://shader-playground.timjones.io/) - Exploring HLSL, GLSL, SPIR-V compilers. ([Code](https://github.com/tgjones/shader-playground))
 - [Tinyshader](https://github.com/felipeagc/tinyshader) - Lightweight, easy to embed HLSL to SPIR-V compiler written in C99.
 - [Three.js Shaders (GLSL) Crash Course For Absolute Beginners (2023)](https://www.youtube.com/watch?v=oKbCaj1J6EI)
+- [guc](https://github.com/pablode/guc) - glTF to Universal Scene Description (USD) converter.

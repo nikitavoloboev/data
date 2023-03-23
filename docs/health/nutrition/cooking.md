@@ -54,3 +54,4 @@ I share some [recipes I like](recipes.md).
 - [What is something that a lot of people typically make wrong or badly?](https://www.reddit.com/r/Cooking/comments/1013dfu/what_is_something_that_a_lot_of_people_typically/)
 - [How do you step up a basic spaghetti dinner?](https://www.reddit.com/r/Cooking/comments/102m2ce/how_do_you_step_up_a_basic_spaghetti_dinner/)
 - [What trick did you learn that changed everything? (2023)](https://www.reddit.com/r/Cooking/comments/10lbhdo/what_trick_did_you_learn_that_changed_everything/)
+- [The Sourdough Framework Book](https://github.com/hendricius/the-sourdough-framework) - Open-source book dedicated to helping you to make the best possible sourdough bread at home.

@@ -1066,6 +1066,7 @@
 - [ffi-opaque](https://github.com/skade/ffi-opaque) - Macro generating correct opaque types.
 - [struct-field-names-as-array](https://github.com/jofas/struct_field_names_as_array) - Rust crate providing a procedural macro that generates an array of the field names of a named struct.
 - [fromit](https://github.com/al8n/fromit) - Macro for generating new structs with getters, setters, and From or TryFrom implementation based on the given struct.
+- [enum-tags](https://github.com/DenverLacey/enum-tags) - Derive-Macro library that generates a companion tag-enum for any enum so that variants can be referred to without specifying fields.
 
 ## Math
 
@@ -1088,6 +1089,7 @@
 - [watermill](https://github.com/online-ml/watermill.rs) - Fast, generic and serializable online statistics.
 - [Cycle](https://github.com/hrkz/cycle) - Modern and safe symbolic mathematics.
 - [num-complex](https://github.com/rust-num/num-complex) - Complex numbers for Rust.
+- [RustQuant](https://github.com/avhz/RustQuant) - Rust library for quantitative finance.
 
 ## CSS
 
@@ -2765,6 +2767,7 @@
 - [comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 - [rapl](https://github.com/JErnestoMtz/rapl) - Rank Polymorphic array library for Rust.
 - [ort](https://github.com/pykeio/ort) - Rust wrapper for ONNX Runtime.
+- [Nestruct](https://github.com/yasuyuky/nestruct) - Rust Library for Flattening and Nesting Structs.
 
 ## Cargo Plugins
 

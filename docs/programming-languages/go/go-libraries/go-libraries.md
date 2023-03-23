@@ -2113,6 +2113,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-memdump](https://github.com/alexflint/go-memdump) - Very fast, very unsafe serialization for Go.
 - [go-restructure](https://github.com/alexflint/go-restructure) - Struct-based argument parsing.
 - [Utils](https://github.com/kubernetes/utils) - Non-Kubernetes-specific utility libraries which are consumed by multiple projects.
+- [Audioid](https://github.com/audioid/audioid) - Fast and reliable audio tools.
 
 ## Links
 
@@ -2311,3 +2312,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Automating boilerplate/scaffolding code with custom code generation in Go, with `jen` (2023)](https://www.jvt.me/posts/2023/03/11/go-custom-generate-jen/)
 - [The power of single-method interfaces in Go (2023)](https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/)
 - [Comprehensive Guide to Structured Logging in Go (2023)](https://betterstack.com/community/guides/logging/logging-in-go/)
+- [Planning Go 1.21 Cryptography Work (2023)](https://words.filippo.io/dispatches/go-1-21-plan/)

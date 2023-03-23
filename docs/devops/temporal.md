@@ -33,3 +33,4 @@ title: Temporal
 - [Temporal running on Render example](https://github.com/render-examples/temporal)
 - [Maru](https://github.com/temporalio/maru) - Temporal Load Simulator.
 - [Patching with XState + Temporal](https://github.com/Devessier/xstate-temporal-patch) - Workflow versioning with Temporal and XState. ([Tweet](https://twitter.com/BDevessier/status/1622509245802459138?s=20))
+- [Temporal Go SDK samples](https://github.com/temporalio/samples-go)
