@@ -251,3 +251,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Crul](https://www.crul.com/) - Query Any Webpage or API. ([HN](https://news.ycombinator.com/item?id=34970917))
 - [WikiScrape](https://scrape.wiki/) - Download Wikipedia pages as beautiful text files.
 - [crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance.
+- [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from HTML document.

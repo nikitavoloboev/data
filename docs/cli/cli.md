@@ -6,6 +6,8 @@
 
 There is also a [nice curated CLI list](https://github.com/learn-anything/command-line-tools)
 
+[fzf](https://github.com/junegunn/fzf) is [great tool](https://news.ycombinator.com/item?id=35248098).
+
 ## Use
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) to search for text.

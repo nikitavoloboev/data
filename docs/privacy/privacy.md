@@ -134,3 +134,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Instagram can track anything you do on any website in their in-app browser (2022)](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser) ([HN](https://news.ycombinator.com/item?id=32415470)) ([Lobsters](https://lobste.rs/s/oducds/instagram_facebook_can_track_anything))
 - [Ask HN: What do you do for online privacy? (2022)](https://news.ycombinator.com/item?id=33558737)
 - [The Decoupling Principle: A Practical Privacy Framework (2022)](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_schmitt.pdf)
+- [Web fingerprinting is worse than I thought (2023)](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)

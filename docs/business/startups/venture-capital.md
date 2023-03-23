@@ -160,3 +160,4 @@ Curious how [Sequoia VC](https://www.sequoiacap.com/our-companies/) is so succes
 - [Day in the Life of a Hedge Fund Analyst](https://twitter.com/FabiusMercurius/status/1530596584789946369)
 - [VCs are scared when they should be greedy (2022)](https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy) ([HN](https://news.ycombinator.com/item?id=32170244))
 - [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking? (2022)](https://news.ycombinator.com/item?id=32746741)
+- [The venture capitalist's dilemma (2023)](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)

@@ -1133,3 +1133,4 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 - [Scroll on Leica's M11 landing page](https://twitter.com/filipistyping/status/1594375926208405506)
 - [Ultra](https://www.studioultra.co/) - Websites that give growing startups an unfair advantage. ([Twitter](https://twitter.com/StudioUltraCo))
 - [Landings](https://landings.dev/) - Landing Page Examples.
+- [Minimal Gallery – Website inspiration](https://minimal.gallery/)

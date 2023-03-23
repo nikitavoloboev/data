@@ -4,6 +4,10 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 
 [A Best-in-Class iOS App](https://www.bestinclassiosapp.com/) is great book. [Any Distance is a neat app design wise](https://twitter.com/anydistanceclub/status/1528752024929521664).
 
+[Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation) is great read.
+
+I try build iOS apps either with [SwiftUI](../../programming-languages/swift/swift-libraries/swiftui.md) and [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) library. Or [Expo](../../programming-languages/javascript/js-libraries/react/expo.md) for cross platform apps.
+
 ## Nice OSS iOS Swift apps
 
 - [Standups](https://github.com/pointfreeco/standups) - Rebuild of Apple’s “Scrumdinger” application using modern, best practices for SwiftUI development.
@@ -579,3 +583,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [From 'Hello world' to real iOS app guide (2023)](https://www.reddit.com/r/iOSProgramming/comments/11qit84/from_hello_world_to_your_first_job_the_selftaught/)
 - [App Store description symbols](https://github.com/sindresorhus/appstore-symbols) - List of symbols usable in an app description.
 - [Collection of Mobile App Store Quirks](https://github.com/tramlinehq/store-quirks)
+- [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)

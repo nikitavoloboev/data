@@ -181,3 +181,4 @@ Liked this [episode on issues with monetary policies](https://hiddenforces.io/po
 - [The Informationist Newsletter | James Lavish](https://jameslavish.substack.com/) - Takes one financial concept and simplifies it for you in super easy to understand text.
 - [Large language models as simulated economic agents (2022)](https://john-joseph-horton.com/papers/llm_ask.pdf) ([HN](https://news.ycombinator.com/item?id=34374012))
 - [Money creation in the modern economy (2014)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf) ([HN](https://news.ycombinator.com/item?id=34386876))
+- [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models (2023)](https://arxiv.org/abs/2303.10130)

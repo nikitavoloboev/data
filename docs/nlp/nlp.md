@@ -1,6 +1,10 @@
 # Natural language processing
 
-Find [generative ML](../machine-learning/generative-machine-learning.md) like [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) fascinating.
+Find [generative ML](../machine-learning/generative-machine-learning.md) like [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)/[Midjourney](https://www.midjourney.com/home/) fascinating.
+
+Also [ChatGPT](../machine-learning/chatgpt.md) and its open variants like [Alpaca](https://github.com/tatsu-lab/stanford_alpaca). Alpaca specifically has lots of momentum building on top of it, like [this UI](https://github.com/nsarrazin/serge).
+
+[Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) is great read.
 
 [spaCy](https://spacy.io/) (with their [NLP course](https://github.com/explosion/spacy-course)) & [Fairseq](https://github.com/facebookresearch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
@@ -924,3 +928,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Simple UI for LLaMA Model Finetuning](https://github.com/lxe/simple-llama-finetuner)
 - [Serge](https://github.com/nsarrazin/serge) - Web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [llama-cli](https://github.com/go-skynet/llama-cli) - Self-hosted, Simple LLaMA/alpaca API & CLI written in go.
+- [Kor](https://github.com/eyurtsev/kor) - Extract structured data from text using LLMs. Specify the schema of what should be extracted and provide some examples.
+- [Cheating is all you need (2023)](https://about.sourcegraph.com/blog/cheating-is-all-you-need) ([HN](https://news.ycombinator.com/item?id=35273406))
+- [Prompt Engineering (2023)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)

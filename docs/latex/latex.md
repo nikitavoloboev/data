@@ -177,3 +177,4 @@ I don't write LaTeX as much now. [Typst](https://github.com/typst/typst) or [SIL
 - [LaTeX is The Best Thing to Explain Computer Graphics (2023)](https://www.youtube.com/watch?v=J39D-OTiyeY)
 - [Texdoc](https://github.com/TeX-Live/texdoc) - Find and view documentation in TeX Live.
 - [Typst](https://github.com/typst/typst) - Modern LaTeX alternative written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/11xpg6e/typst_a_modern_latex_alternative_written_in_rust/)) ([HN](https://news.ycombinator.com/item?id=35250210)) ([Lobsters](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting))
+- [Typst LSP + VSCode extension](https://github.com/nvarner/typst-lsp)

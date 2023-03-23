@@ -40,13 +40,14 @@ This is an extension of [everything I know](everything-I-know.md).
 
 - [Google Meet](https://meet.google.com/) or [Discord](../tools/discord.md) (voice/video chats)
 
-## Knowledge index
+## Knowledge / learning
 
 - [Wiki](../intro.md) - [Everything I know](everything-I-know.md) written out and quickly searched with [My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+- [Looking back](../looking-back/looking-back.md) - Public log of things I made & thought about. Reflect on the past to grow.
+- [ChatGPT](../machine-learning/chatgpt.md) used via [desktop app](https://github.com/lencx/ChatGPT). And Bing app on [iOS](../operating-systems/ios/ios.md).
+- [Dictionary macOS app](https://support.apple.com/en-gb/guide/dictionary/welcome/mac) - Search wiki fast.
 - [Articles](my-articles.md) - Long form writing.
 - [Curated lists](https://github.com/learn-anything/curated-lists)
-- [Looking back](../looking-back/looking-back.md) - Public log of things I made & thought about. Reflect on the past to grow.
-- [Dictionary macOS app](https://support.apple.com/en-gb/guide/dictionary/welcome/mac) - Search wiki fast.
 
 ## Search
 

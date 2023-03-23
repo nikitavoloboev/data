@@ -6,7 +6,9 @@ title: ChatGPT
 
 [What Is ChatGPT Doing](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/), [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) & [How ChatGPT is Trained](https://www.youtube.com/watch?v=VPRSBzXzavo) are great overviews of how it works.
 
-I use [ChatGPT desktop app](https://goodsnooze.gumroad.com/l/menugpt) to access ChatGPT from mac. On iOS I want to deploy [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) but didn't yet.
+I use [ChatGPT desktop app](https://github.com/lencx/ChatGPT) to access ChatGPT from mac (mapped to [o+space](../macOS/apps/karabiner/karabiner.md)). On iOS I use Bing app.
+
+Want to try deploy [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) too. And build out [Parallel GPT](https://github.com/nikitavoloboev/parallel-gpt) idea.
 
 ChatGPT has become a core part of my workflow. I use it as my core [learning](../education/learning.md) tool. Asking clarifiying questions. It's especially great giving high level views on most topics. Enough to prompt with more detailed questions or diving further into literature or other human made resources. ChatGPT is especially great for [programming](../programming/programming.md) as you can easily [test your answers](https://twitter.com/bio_bootloader/status/1636880208304431104) against a [type checker](../math/type-theory/type-theory.md) or [compiler](../compilers/compilers.md) to see if it was right or not.
 
@@ -222,3 +224,9 @@ It's also great at giving examples.
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4.
 - [Chatblade](https://github.com/npiv/chatblade) - CLI Swiss Army Knife for ChatGPT.
 - [Jema.ai](https://github.com/yuvalsuede/jasper-alternative-gpt) - Jasper alternative open source with ChatGPT.
+- [LangChain & Supabase - Create a ChatGpt Chatbot for Your Website](https://github.com/mayooear/langchain-supabase-website-chatbot)
+- [Everyday with GPT-4](https://overment.gumroad.com/l/everyday-gpt)
+- [Alice](https://heyalice.app/) - AI assistant you've been waiting for.
+- [Using GPT-4 to measure the passage of time in fiction (2023)](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
+- [ChatGPT Plugins (2023)](https://openai.com/blog/chatgpt-plugins) ([HN](https://news.ycombinator.com/item?id=35277677))
+- [ChatGPT Gets Its “Wolfram Superpowers” (2023)](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) ([HN](https://news.ycombinator.com/item?id=35277925))

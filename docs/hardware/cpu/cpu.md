@@ -220,3 +220,4 @@ Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) m
 - [Reverse-engineering the register codes for the 8086 processor's microcode (2023)](http://www.righto.com/2023/03/8086-register-codes.html)
 - [64-bit ARM CPU core information table](https://marcin.juszkiewicz.com.pl/download/tables/arm-cpu-cores.html)
 - [A CPU is a compiler (2023)](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html) ([Lobsters](https://lobste.rs/s/okcml7/cpu_is_compiler)) ([HN](https://news.ycombinator.com/item?id=35271779))
+- [False Sharing - A Phenomenon on Modern CPUs (2023)](https://www.youtube.com/watch?v=NSxPIxpD_x4)

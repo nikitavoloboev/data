@@ -176,3 +176,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [DataCompression](https://github.com/mw99/DataCompression) - Swift libcompression wrapper as an extension for the Data type.
 - [The History of LZ Compression (2023)](https://www.abortretry.fail/p/lz-compression)
 - [Squash](https://github.com/quixdb/squash) - Compression Abstraction Library.
+- [ARM ASTC Encoder](https://github.com/ARM-software/astc-encoder) - Compressor for the Adaptive Scalable Texture Compression data format.

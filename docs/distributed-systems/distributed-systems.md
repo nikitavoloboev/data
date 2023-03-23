@@ -314,3 +314,5 @@
 - [Wetware](https://github.com/wetware/ww) - Alternative to Kubernetes, Mesos and OpenShift that turns any group of networked computers -- including cloud-based instances -- into a programmable IaaS/PaaS cluster.
 - [Canadensis](https://github.com/samcrow/canadensis) - Open technology for real-time intravehicular distributed computing and communication based on modern networking standards.
 - [Husky: Exactly-Once Ingestion and Multi-Tenancy at Scale (2023)](https://www.datadoghq.com/blog/engineering/husky-deep-dive/)
+- [NOLA](https://github.com/richardartoul/nola) - Distributed virtual actor system that is heavily inspired by Cloudflare Durable Objects and other virtual actor systems like Orleans.
+- [Finding and fixing eventual consistency with Stripe events (2023)](https://blog.sequin.io/finding-and-fixing-eventual-consistency-with-stripe-events/)

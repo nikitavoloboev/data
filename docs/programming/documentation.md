@@ -6,6 +6,8 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 
 [DocsGPT](https://github.com/arc53/docsgpt) is exciting approach for making docs more useful.
 
+Love the approach of writing RFCs before any big architectural decisions are made [like Inlang](https://github.com/inlang/inlang/tree/main/rfcs) does.
+
 ## Examples of nice docs
 
 - [Linear Guide](https://linear.app/docs)

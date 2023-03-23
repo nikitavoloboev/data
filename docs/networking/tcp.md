@@ -4,6 +4,8 @@ title: TCP
 
 # [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
+[The quantum state of a TCP port](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/) is a nice read.
+
 ## Links
 
 - [smoltcp](https://github.com/smoltcp-rs/smoltcp) - Standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems.
@@ -117,3 +119,4 @@ title: TCP
 - [Is It Time to Replace TCP in Data Centers? (2023)](https://blog.ipspace.net/2023/01/data-center-tcp-replacement.html) ([HN](https://news.ycombinator.com/item?id=34871670))
 - [dill](https://github.com/fwkz/dill) - Cloud ready L4 TCP proxy with first-class support for dynamic listeners.
 - [TCP Stream Extractor](https://github.com/genonullfree/stream-extractor) - Utility that can read in a PCAP file, search through it for TCP streams, and write out each stream to a separate new PCAP file.
+- [The quantum state of a TCP port (2023)](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)

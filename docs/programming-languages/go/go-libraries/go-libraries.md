@@ -635,6 +635,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [scan](https://github.com/stephenafamo/scan) - Scan provides the ability to to scan SQL rows directly to any defined structure.
 - [go-db](https://github.com/nicolasparada/go-db) - Wrapper over pgx with better transaction API.
 - [GreptimeDB Go Client](https://github.com/GreptimeTeam/greptimedb-client-go)
+- [go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using Wazero.
 
 ## ML
 
