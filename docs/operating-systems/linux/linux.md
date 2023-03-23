@@ -705,3 +705,4 @@ title: Linux
 - [OpenTelemetry eBPF](https://github.com/open-telemetry/opentelemetry-ebpf)
 - [q](https://github.com/krisnova/q) - Surface Linux networking metrics with eBPF.
 - [penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - Console utility, under continuous development, that allows you to remaster your system and redistribute it as iso images.
+- [Practical libc-free threading on Linux (2023)](https://nullprogram.com/blog/2023/03/23/) ([Lobsters](https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux))

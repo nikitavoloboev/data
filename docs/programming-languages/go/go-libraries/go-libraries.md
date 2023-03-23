@@ -2111,6 +2111,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [vault-client-go](https://github.com/hashicorp/vault-client-go) - HashiCorp Vault Go Client Library generated from OpenAPI spec.
 - [go-memdump](https://github.com/alexflint/go-memdump) - Very fast, very unsafe serialization for Go.
 - [go-restructure](https://github.com/alexflint/go-restructure) - Struct-based argument parsing.
+- [Utils](https://github.com/kubernetes/utils) - Non-Kubernetes-specific utility libraries which are consumed by multiple projects.
 
 ## Links
 

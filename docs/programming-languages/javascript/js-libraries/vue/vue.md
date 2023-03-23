@@ -266,3 +266,4 @@ title: Vue.js
 - [Nuxt-Parse](https://github.com/sidebase/nuxt-parse) - Parse, validate and transform data with confidence in nuxt using zod.
 - [Sidebase](https://sidebase.io/) - Productive way to build full stack Nuxt 3 applications. ([Code](https://github.com/sidebase/sidebase))
 - [vue-functional-ref](https://github.com/sxzz/vue-functional-ref) - Functional-style refs for Vue.
+- [Nuxt I18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt.

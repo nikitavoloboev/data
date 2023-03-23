@@ -516,3 +516,4 @@ Awesome List
 - [Refined GitHub Notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications.
 - [get-changed-files](https://github.com/Ana06/get-changed-files) - Get all changed/modified files in a pull request.
 - [GitHub Copilot X: The AI-powered developer experience (2023)](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) ([HN](https://news.ycombinator.com/item?id=35261065))
+- [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Locally hosted version of GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=32327711)) ([HN](https://news.ycombinator.com/item?id=35264725))

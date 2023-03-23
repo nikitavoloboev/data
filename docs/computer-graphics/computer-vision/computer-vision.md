@@ -1182,3 +1182,5 @@
 - [Universal Instance Perception as Object Discovery and Retrieval (2023)](https://github.com/MasterBin-IIAU/UNINEXT)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization (2023)](https://arxiv.org/abs/2303.07418) ([Code](https://github.com/Jiawei-Yang/FreeNeRF))
 - [Vid2Seq: a pretrained visual language model for describing multi-event videos (2023)](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html) ([HN](https://news.ycombinator.com/item?id=35201667))
+- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models (2023)](https://lukashoel.github.io/text-to-room/) ([Code](https://github.com/lukasHoel/text2room))
+- [Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (2023)](https://arxiv.org/abs/2211.13202) ([Code](https://github.com/noahzn/Lite-Mono))

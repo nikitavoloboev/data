@@ -4,7 +4,7 @@
 
 [Intro to Parsing with Parsec in Haskell](https://github.com/JakeWheat/intro_to_parsing) is nice read.
 
-[basic-toml](https://github.com/dtolnay/basic-toml) has nice parsing code in Rust.
+[basic-toml](https://github.com/dtolnay/basic-toml) has nice parsing code in Rust. [Lezer](https://github.com/lezer-parser/lr) is interesting [TS](../programming-languages/typescript/typescript.md) parser library.
 
 ## Links
 

@@ -403,7 +403,6 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Ask HN: What do you code when learning a new language/framework? (2022)](https://news.ycombinator.com/item?id=32092943)
 - [Concatenation is composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition) ([HN](https://news.ycombinator.com/item?id=32115672))
 - [Languages with Rust's eums](https://www.reddit.com/r/rust/comments/w1jepg/other_languages_with_rusts_eums/)
-- [FauxPilot](https://github.com/moyix/fauxpilot) - Locally hosted version of GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=32327711))
 - [Quicksort implemented in different languages](https://github.com/ruippeixotog/quicksort)
 - [Language Incubator](https://github.com/EarlGray/language-incubator) - Learning compilers, interpreters, code generation, virtual machines, assemblers, JITs, etc.
 - [ipso](https://github.com/LightAndLight/ipso) - Functional scripting language.

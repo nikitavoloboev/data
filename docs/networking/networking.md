@@ -594,3 +594,4 @@
 - [Mathematical Foundations of Computer Networking (2012)](https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105) ([HN](https://news.ycombinator.com/item?id=34963685))
 - [Oxide and Friends – Rack-scale Networking (2023)](https://www.youtube.com/watch?v=AkWh2Sms3aw) ([HN](https://news.ycombinator.com/item?id=34976444))
 - [Daze](https://github.com/mohanson/daze) - Help you pass through the firewalls, in other words, proxy.
+- [Network Programming and Automation Essentials (2023)](https://www.packtpub.com/product/network-programming-and-automation-essentials/9781803233666) ([Code](https://github.com/PacktPublishing/Network-Programming-and-Automation-Essentials))

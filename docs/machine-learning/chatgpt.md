@@ -218,3 +218,7 @@ It's also great at giving examples.
 - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt) ([HN](https://news.ycombinator.com/item?id=35268197))
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - ChatGPT clone for running locally in your browser.
 - [ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
+- [gerev.ai](https://gerev.ai/) - ChatGPT search engine for your organization. ([Code](https://github.com/GerevAI/gerev))
+- [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4.
+- [Chatblade](https://github.com/npiv/chatblade) - CLI Swiss Army Knife for ChatGPT.
+- [Jema.ai](https://github.com/yuvalsuede/jasper-alternative-gpt) - Jasper alternative open source with ChatGPT.

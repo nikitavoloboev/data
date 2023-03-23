@@ -1168,6 +1168,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [MakeELF](https://github.com/v3l0c1r4pt0r/makeelf) - ELF reader-writer library for Python3.
 - [Sushi](https://github.com/dev-sushi/sushi) - Library that allows you to run functions from other languages without needing to translate the code.
 - [scikit-build-core](https://github.com/scikit-build/scikit-build-core) - Next generation Python CMake adaptor and Python API for plugins.
+- [Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 
 ## Notes
 

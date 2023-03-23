@@ -2763,6 +2763,7 @@
 - [Propane](https://github.com/withoutboats/propane) - Rust generators.
 - [ndarray-csv](https://github.com/paulkernfeld/ndarray-csv) - Easily read homogeneous CSV data into a 2D ndarray.
 - [comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
+- [rapl](https://github.com/JErnestoMtz/rapl) - Rank Polymorphic array library for Rust.
 
 ## Cargo Plugins
 
