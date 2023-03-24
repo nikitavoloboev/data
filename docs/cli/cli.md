@@ -253,3 +253,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well".
 - [gotrash](https://github.com/koki-develop/gotrash) - rm alternative written in Go.
 - [JSCodemod](https://github.com/NickHeiner/jscodemod) - Codemod runner.
+- [textra](https://github.com/freedmand/textra) - Command-line application to convert images, PDFs, and audio files to text using Apple's APIs.

@@ -118,3 +118,4 @@ title: Elm
 - [Ask HN: What Happened to Elm? (2023)](https://news.ycombinator.com/item?id=34746161) ([Lobsters](https://lobste.rs/s/ftqp21/whatever_happened_elm_anyway))
 - [Elm WebGl Lessons](https://nacmartin.github.io/elm-webgl-lessons/) ([Code](https://github.com/nacmartin/elm-webgl-lessons))
 - [Haskell to Elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types.
+- [Implementing multi-file analysis for linters (2023)](https://jfmengels.net/multi-file-analysis/)

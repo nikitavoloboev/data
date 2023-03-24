@@ -284,3 +284,5 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [3dfx: So powerful it’s kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous) ([HN](https://news.ycombinator.com/item?id=35026862))
 - [An Engine For An Editor (2023)](https://matklad.github.io/2023/03/08/an-engine-for-an-editor.html) ([Lobsters](https://lobste.rs/s/9a2vfd/engine_for_editor))
 - [The water technology behind Avatar: The Way of Water (2023)](https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water) ([HN](https://news.ycombinator.com/item?id=35109155))
+- [Taichi NGP Renderer](https://github.com/Linyou/taichi-ngp-renderer) - Instants-NGP renderer implemented using Taichi.
+- [apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.

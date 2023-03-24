@@ -2768,6 +2768,7 @@
 - [rapl](https://github.com/JErnestoMtz/rapl) - Rank Polymorphic array library for Rust.
 - [ort](https://github.com/pykeio/ort) - Rust wrapper for ONNX Runtime.
 - [Nestruct](https://github.com/yasuyuky/nestruct) - Rust Library for Flattening and Nesting Structs.
+- [Nipper](https://github.com/importcjj/nipper) - Rust crate for manipulating HTML with CSS selectors.
 
 ## Cargo Plugins
 

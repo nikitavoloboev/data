@@ -6,7 +6,7 @@ title: ChatGPT
 
 [What Is ChatGPT Doing](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/), [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) & [How ChatGPT is Trained](https://www.youtube.com/watch?v=VPRSBzXzavo) are great overviews of how it works.
 
-I use [ChatGPT desktop app](https://github.com/lencx/ChatGPT) to access ChatGPT from mac (mapped to [o+space](../macOS/apps/karabiner/karabiner.md)). On iOS I use Bing app.
+I use [ChatGPT desktop app](https://github.com/lencx/ChatGPT) to access ChatGPT from mac (mapped to [o+space](../macOS/apps/karabiner/karabiner.md)). On [iOS](../operating-systems/ios/ios.md) I use Bing app.
 
 Want to try deploy [ChatGPT Telegram Bot](https://github.com/m1guelpf/chatgpt-telegram) too. And build out [Parallel GPT](https://github.com/nikitavoloboev/parallel-gpt) idea.
 
@@ -23,6 +23,8 @@ There's lots of low hanging fruit prompts that you can make into great products.
 [This](https://www.reddit.com/r/CredibleDefense/comments/11g270e/comment/jao9wps/?context=3) is nice comment strengths/weaknesses of ChatGPT.
 
 Want to try run [Alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) on my mac for local ChatGPT access potentially.
+
+The way ChatGPT does [plugins](https://news.ycombinator.com/item?id=35277677) using [Toolformer](https://github.com/lucidrains/toolformer-pytorch) is [fascinating](https://twitter.com/mitchellh/status/1638966754226610181).
 
 ## Interesting queries
 
@@ -232,3 +234,10 @@ It's also great at giving examples.
 - [ChatGPT can now call Wolfram Alpha (2023)](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) ([HN](https://news.ycombinator.com/item?id=35277925))
 - [Cursor for Visual Studio Code](https://github.com/Helixform/CodeCursor) - AI code editor based on GPT-4.
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+- [How to use Alpaca-LoRA to fine-tune a model like ChatGPT (2023)](https://replicate.com/blog/fine-tune-alpaca-with-lora) ([HN](https://news.ycombinator.com/item?id=35279656))
+- [PlaticaBot](https://github.com/migueldeicaza/PlaticaBot) - MacOS, iOS and watchOS ChatGPT client using your own OpenAI key.
+- [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4)
+- [AutoPR GitHub Action](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by GPT-4.
+- [Helicone](https://www.helicone.ai/) - Open-source logging for OpenAI. ([Code](https://github.com/Helicone/helicone)) ([HN](https://news.ycombinator.com/item?id=35279155))
+- [Microsoft's paper on OpenAI's GPT-4 had hidden information (2023)](https://twitter.com/DV2559106965076/status/1638769434763608064) ([HN](https://news.ycombinator.com/item?id=35281527))
+- [OpenAI’s policies hinder reproducible research on language models (2023)](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible) ([HN](https://news.ycombinator.com/item?id=35269304))

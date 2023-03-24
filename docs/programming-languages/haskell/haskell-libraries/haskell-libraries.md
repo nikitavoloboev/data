@@ -54,6 +54,7 @@
 - [MongoDB](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell.
 - [HDBC](https://github.com/hdbc/hdbc) - Haskell Database Connectivity.
 - [hasql-listen-notify](https://github.com/awkward-squad/hasql-listen-notify) - LISTEN/NOTIFY using hasql.
+- [postgresql-simple](https://github.com/haskellari/postgresql-simple) - Mid-level client library for accessing PostgreSQL from Haskell.
 
 ## Test
 

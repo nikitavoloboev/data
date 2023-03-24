@@ -1393,3 +1393,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [JSON Schema generate Python types](https://github.com/camptocamp/jsonschema-gentypes) - Tools to generate Python types based on TypedDict from a JSON schema.
 - [FawltyDeps](https://github.com/tweag/FawltyDeps) - Dependency checker for Python. ([Article](https://www.tweag.io/blog/2023-03-14-announcing-fawltydeps/))
 - [Pytest Tips and Tricks (2023)](https://pythontest.com/pytest-tips-tricks/) ([HN](https://news.ycombinator.com/item?id=35256237))
+- [Setuptools plugin for Rust extensions](https://github.com/PyO3/setuptools-rust)

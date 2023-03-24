@@ -184,3 +184,4 @@ title: Speech recognition
 - [Whisperer](https://github.com/miguelvalente/whisperer) - Go from raw audio files to a speaker separated text-audio datasets automatically.
 - [Whisper Node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper.
 - [Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
+- [TriAAN-VC: Triple Adaptive Attention Normalization for any-to-any Voice Conversion (2023)](https://github.com/winddori2002/TriAAN-VC)

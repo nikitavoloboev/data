@@ -389,3 +389,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Preact MultiProvider](https://github.com/marvinhagemeister/preact-multi-provider) - Provide multiple contexts at the same time without getting lost in a jungle of context providers.
 - [React.dev](https://react.dev/) ([HN](https://news.ycombinator.com/item?id=35186812))
 - [MFNG - React Server Components Playground](https://github.com/unstubbable/mfng)
+- [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/) ([HN](https://news.ycombinator.com/item?id=35280454))

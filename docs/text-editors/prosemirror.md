@@ -11,3 +11,4 @@ title: ProseMirror
 - [ProseMirror Virtual Cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - Plugin that adds a virtual cursor (or caret) to your editor.
 - [ProseMirror table module](https://github.com/ProseMirror/prosemirror-tables)
 - [Prosemirror Svelte](https://github.com/christianheine/prosemirror-svelte) - Svelte bindings for the ProseMirror editor.
+- [React ProseMirror](https://github.com/nytimes/react-prosemirror) - Fully featured library for safely integrating ProseMirror and React.

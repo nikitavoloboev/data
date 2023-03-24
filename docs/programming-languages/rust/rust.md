@@ -1099,4 +1099,6 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Help me love Rust - compilation time (2023)](https://www.reddit.com/r/rust/comments/11vrzme/help_me_love_rust_compilation_time/)
 - [Compile Times - The Rust Performance Book](https://nnethercote.github.io/perf-book/compile-times.html)
 - [Why use Rust on the back end? (2023)](https://blog.adamchalmers.com/why-rust-on-backend/) ([HN](https://news.ycombinator.com/item?id=35237830))
-- [Scaling Rust builds with Bazel (2023)](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)
+- [Scaling Rust builds with Bazel (2023)](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html) ([HN](https://news.ycombinator.com/item?id=35270660))
+- [Must move types [Linear types proposed for Rust] (2023)](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
+- [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)

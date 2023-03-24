@@ -381,3 +381,4 @@ I am still exploring what the best way to do GraphQL queries from [Solid](../../
 - [yaacovcr/stitch](https://github.com/yaacovCR/stitch) - Set of tools for stitching GraphQL schemas.
 - [10 Things We Learned In Full Stack GraphQL Book Club (2023)](https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le)
 - [The new GraphQL Code Generator Client Preset (2022)](https://graphql.wtf/episodes/67-the-new-graphql-code-generator-client-preset)
+- [Grats](https://github.com/captbaritone/grats) - True code-first GraphQL for TypeScript.

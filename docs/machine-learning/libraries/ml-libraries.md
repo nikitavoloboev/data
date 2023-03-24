@@ -485,3 +485,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework.
 - [HuggingFace.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API.
 - [DLRover](https://github.com/intelligent-machine-learning/dlrover) - Automatically trains the Deep Learning model on the distributed cluster.
+- [Consistency Models](https://github.com/Kinyugo/consistency_models) - Mini-library for training consistency models.

@@ -413,7 +413,7 @@ title: PyTorch
 - [PyTorch Topological](https://github.com/aidos-lab/pytorch-topological) - Topological machine learning framework based on PyTorch.
 - [Optimizers](https://github.com/facebookresearch/optimizers) - PyTorch optimization algorithms.
 - [MinT](https://github.com/dpressel/mint) - Minimal Transformer Library and Tutorials.
-- [Apple Neural Engine (ANE) Transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE.
+- [Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers) ([HN](https://news.ycombinator.com/item?id=35282325))
 - [Taking Datasets, DataLoaders, and PyTorch’s New DataPipes for a Spin (2022)](https://sebastianraschka.com/blog/2022/datapipes.html) ([Code](https://github.com/rasbt/datapipes-blog))
 - [Lightning EcoSystem CI](https://github.com/PyTorchLightning/ecosystem-ci) - Automated Testing for Lightning EcoSystem Projects.
 - [Run PyTorch models in the browser using ONNX.js](https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js)

@@ -840,6 +840,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [webcontainer-reactive-fs](https://github.com/wheatjs/webcontainer-reactive-fs) - Reactive fs for WebContainers.
 - [Symmetry](https://github.com/Two-Screen/symmetry) - Sync objects by diffing and patching.
 - [Djinject](https://github.com/langium/djinject) - Dependency injection done right.
+- [funfetch](https://github.com/hyperstackjs/funfetch) - Type-safe, fetch based, functional HTTP toolkit for building API clients quickly.
 
 ## Links
 

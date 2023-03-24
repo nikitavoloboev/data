@@ -113,6 +113,7 @@
 - [Inikio](https://github.com/serras/inikio) - Better initial-style DSLs in Kotlin.
 - [Parsus](https://github.com/alllex/parsus) - Parser-combinators with Kotlin Coroutines.
 - [Kalium](https://github.com/wireapp/kalium) - SDK used to create a Wire client on Android and JVM.
+- [Quiver](https://github.com/cashapp/quiver) - Library that builds upon Arrow to make functional programming in Kotlin even more accessible & delightful.
 
 ## Links
 
@@ -128,3 +129,4 @@
 - [dukat](https://github.com/Kotlin/dukat) - Converter of any kind of declarations to Kotlin external declarations.
 - [Jewel](https://github.com/JetBrains/jewel) - Implementation of the IntelliJ look and feels in Compose for Desktop.
 - [Kotlin Hexagonal HTTP API Skeleton Course](https://github.com/CodelyTV/kotlin-hexagonal_http_api-course)
+- [Cite](https://github.com/JakeWharton/cite) - Kotlin compiler plugin for embedding information about the file being compiled.

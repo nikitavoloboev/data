@@ -69,3 +69,4 @@ title: MQTT
 - [Zigbee2MQTT](https://www.zigbee2mqtt.io/) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges. ([Docs Code](https://github.com/Koenkk/zigbee2mqtt.io))
 - [Homebridge MQTT-Thing](https://github.com/arachnetech/homebridge-mqttthing) - Plugin for Homebridge allowing the integration of many different accessory types using MQTT.
 - [LMC](https://github.com/montoyo/lmc-rs) - Lightweight MQTT Client for Rust.
+- [NanoMQ](https://github.com/emqx/nanomq) - Ultra-lightweight and blazing-fast MQTT broker for IoT edge.

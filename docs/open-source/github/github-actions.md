@@ -663,3 +663,4 @@ title: GitHub actions
 - [Select Matching Issues](https://github.com/lee-dohm/select-matching-issues) - GitHub Action to select issues matching a query.
 - [Cached LFS checkout](https://github.com/nschloe/action-cached-lfs-checkout) - GitHub checkout action with LFS files pulled from cache.
 - [GitHub Actions Permissions (2022)](https://matklad.github.io/2022/10/24/actions-permissions.html) ([Lobsters](https://lobste.rs/s/3xog4g/github_actions_permissions))
+- [notify-discord](https://github.com/th0th/notify-discord) - GitHub action for notifying a Discord channel about the status of GitHub Actions Workflow.

@@ -369,3 +369,4 @@ title: Svelte
 - [Markflow](https://markflow.app/) - Copy elements as Svelte components. ([Reddit](https://www.reddit.com/r/sveltejs/comments/11sysla/copy_elements_as_svelte_components_details_in/))
 - [Svelte Meta Tags](https://github.com/oekazuma/svelte-meta-tags) - Components designed to help you manage SEO for Svelte projects.
 - [svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects.
+- [Svelte Legos](https://github.com/ankurrsinghal/svelte-legos) - Collection of essential Svelte Composition Utilities.

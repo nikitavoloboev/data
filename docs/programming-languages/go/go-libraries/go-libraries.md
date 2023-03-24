@@ -2114,6 +2114,9 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-restructure](https://github.com/alexflint/go-restructure) - Struct-based argument parsing.
 - [Utils](https://github.com/kubernetes/utils) - Non-Kubernetes-specific utility libraries which are consumed by multiple projects.
 - [Audioid](https://github.com/audioid/audioid) - Fast and reliable audio tools.
+- [go-astisub](https://github.com/asticode/go-astisub) - Go library to manipulate subtitles.
+- [smtppool](https://github.com/knadh/smtppool) - High throughput Go SMTP pool library with graceful handling of idle timeouts, errors, and retries.
+- [slog](https://github.com/darvaza-proxy/slog) - Back-end agnostic interface for structured logs.
 
 ## Links
 

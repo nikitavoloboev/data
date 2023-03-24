@@ -167,3 +167,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [ailia SDK](https://github.com/axinc-ai/ailia-sdk) - Cross-platform high speed inference SDK.
 - [Large Audio Models](https://github.com/liusongxiang/Large-Audio-Models) - Keep track of big models in audio domain, including speech, singing, music etc.
 - [BlindAI](https://github.com/mithril-security/blindai-preview) - Fast, easy-to-use, and confidential inference server, allowing you to easily and quickly deploy your AI models.
+- [Cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
