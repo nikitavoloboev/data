@@ -339,6 +339,7 @@
 ## Web
 
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Swift HTTP library to rapidly create communication layers with API endpoints.
+- [ApiKit](https://github.com/danielsaidi/ApiKit) - Swift library that makes it easy to perform async api calls.
 - [CleanNetwork](https://github.com/alperen23230/CleanNetwork) - Lightweight URLSession wrapper for using async/await in networking.
 - [Mu](https://github.com/Nirma/Mu) - Minimalist HTTP request library via async / await.
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.

@@ -176,6 +176,7 @@
 - [tres](https://github.com/ziglibs/tres) - ValueTree-based JSON parser.
 - [okra](https://github.com/canvasxyz/okra) - Pseudo-random deterministic merkle tree built on LMDB.
 - [fastfilter](https://github.com/hexops/fastfilter) - Binary fuse & xor filters for Zig.
+- [zig-bench](https://github.com/Hejsil/zig-bench) - Simple benchmarking lib in Zig.
 
 ## Links
 

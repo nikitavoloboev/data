@@ -2770,6 +2770,7 @@
 - [ort](https://github.com/pykeio/ort) - Rust wrapper for ONNX Runtime.
 - [Nestruct](https://github.com/yasuyuky/nestruct) - Rust Library for Flattening and Nesting Structs.
 - [Nipper](https://github.com/importcjj/nipper) - Rust crate for manipulating HTML with CSS selectors.
+- [Tracing OpenTelemetry](https://github.com/tokio-rs/tracing-opentelemetry) - Utilities for adding OpenTelemetry interoperability to tracing.
 
 ## Cargo Plugins
 

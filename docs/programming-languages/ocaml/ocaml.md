@@ -171,3 +171,4 @@ title: OCaml
 - [Generating static and portable executables with OCaml (2021)](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)
 - [The Growth of the OCaml Distribution (2023)](https://ocamlpro.com/blog/2023_01_02_ocaml_distribution)
 - [Nix-Powered Development with OCaml (2023)](https://dimitrije.website/posts/2023-03-04-nix-ocaml.html)
+- [Inside OCaml](https://github.com/NickBarnes/inside-ocaml) - Documentation of the OCaml implementation.
