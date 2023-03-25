@@ -245,6 +245,7 @@
 - [network-types](https://github.com/vadorovsky/network-types) - Rust structs representing network protocol headers (on Layer 2, 3 and 4).
 - [rate-limits](https://github.com/mre/rate-limits) - Parse HTTP Rate-Limit headers of different vendors.
 - [Touche](https://github.com/reu/touche) - Synchronous HTTP library for Rust.
+- [Kobold](https://github.com/maciejhirsz/kobold) - Easy declarative web interfaces. ([Intro](https://maciej.codes/2023-03-23-kobold.html)) ([HN](https://news.ycombinator.com/item?id=35288860))
 
 ## Auth
 

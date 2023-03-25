@@ -241,3 +241,6 @@ It's also great at giving examples.
 - [Helicone](https://www.helicone.ai/) - Open-source logging for OpenAI. ([Code](https://github.com/Helicone/helicone)) ([HN](https://news.ycombinator.com/item?id=35279155))
 - [Microsoft's paper on OpenAI's GPT-4 had hidden information (2023)](https://twitter.com/DV2559106965076/status/1638769434763608064) ([HN](https://news.ycombinator.com/item?id=35281527))
 - [OpenAI’s policies hinder reproducible research on language models (2023)](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible) ([HN](https://news.ycombinator.com/item?id=35269304))
+- [Post-GPT Computing (2023)](https://grady.io/post-gpt-computing/) ([HN](https://news.ycombinator.com/item?id=35288190))
+- [Hello Dolly: Democratizing the magic of ChatGPT with open models (2023)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) ([HN](https://news.ycombinator.com/item?id=35288063))
+- [Ask HN: How are you using GPT to be productive? (2023)](https://news.ycombinator.com/item?id=35299071)

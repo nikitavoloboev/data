@@ -33,3 +33,4 @@ title: Web workers
 - [Consider Animating Your Canvas in a Web Worker (2023)](https://www.macarthur.me/posts/animate-canvas-in-a-worker) ([Reddit](https://www.reddit.com/r/javascript/comments/11orzjw/consider_animating_your_canvas_in_a_web_worker/))
 - [Via.js](https://github.com/AshleyScirra/via.js) - Write JS code that runs in a different context. E.g. use the DOM in a Web Worker.
 - [Is it Worker?](https://github.com/WebReflection/is-it-worker) - Allows any developer to test what's available and what's not in Web Workers.
+- [Is postMessage slow? (2019)](https://www.youtube.com/watch?v=D61EQuTqvvY)

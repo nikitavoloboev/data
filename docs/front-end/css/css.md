@@ -637,3 +637,4 @@ all: unset
 - [Scrollbar](https://scrollbar.app/) - Web app which helps developers to design and implement custom scrollbars. ([Code](https://github.com/henripar/scrollbar))
 - [Cassius](https://github.com/uwplse/Cassius) - Formalization of CSS, making it possible to build tools that reason about the appearance of web pages.
 - [Ten tips for better CSS transitions and animations (2023)](https://joshcollinsworth.com/blog/great-transitions)
+- [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/) ([HN](https://news.ycombinator.com/item?id=35289166))

@@ -411,3 +411,4 @@
 - [Embracing Chaos: The Imperfect Art of Semiconductor Manufacturing, Lithography (2023)](https://www.semianalysis.com/p/embracing-chaos-the-imperfect-art) ([HN](https://news.ycombinator.com/item?id=34980905))
 - [After four years of SMR storage, here's what we love—and what comes next (2023)](https://dropbox.tech/infrastructure/four-years-of-smr-storage-what-we-love-and-whats-next)
 - [Building Big Systems with Remote Hardware Teams (2023)](https://oxide.computer/blog/building-big-systems-with-remote-hardware-teams)
+- [True 3D is much tougher than 2.5D (2023)](https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/) ([HN](https://news.ycombinator.com/item?id=35273166))

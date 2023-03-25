@@ -4,7 +4,7 @@ title: Rust
 
 # [Rust](https://www.rust-lang.org/en-US/)
 
-[Rust Book](https://doc.rust-lang.org/book/) ([interactive version](https://rust-book.cs.brown.edu/)), [Comprehensive Rust Guide](https://google.github.io/comprehensive-rust/) & [rustlings](https://github.com/rust-lang/rustlings) are best intros into Rust. Together with [rust cheat sheet](https://cheats.rs/).
+[Rust Book](https://doc.rust-lang.org/book/) ([interactive version](https://rust-book.cs.brown.edu/)), [Comprehensive Rust Guide](https://google.github.io/comprehensive-rust/) & [rustlings](https://github.com/rust-lang/rustlings) are best [intros into Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs). Together with [rust cheat sheet](https://cheats.rs/).
 
 [Rust in Action](https://www.manning.com/books/rust-in-action), [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) ([good notes](https://bitemyapp.com/blog/notes-on-zero2prod-rust/)) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
 
@@ -1102,3 +1102,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Scaling Rust builds with Bazel (2023)](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html) ([HN](https://news.ycombinator.com/item?id=35270660))
 - [Must move types [Linear types proposed for Rust] (2023)](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
 - [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)
+- [How to Learn Rust (2023)](https://www.youtube.com/watch?v=2hXNd6x9sZs)

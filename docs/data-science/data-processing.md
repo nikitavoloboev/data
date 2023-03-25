@@ -167,4 +167,4 @@
 - [Demystifying the Parquet File Format (2022)](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)
 - [How to Get Started with Dbt (2023)](https://www.blef.fr/get-started-dbt/) ([HN](https://news.ycombinator.com/item?id=35080707))
 - [Miller](https://github.com/johnkerl/miller) - Like Awk, sed, cut, join, and sort for CSV, TSV, and tabular JSON. ([HN](https://news.ycombinator.com/item?id=35179799))
-- [Fascination of AWK](https://maximullaris.com/awk.html)
+- [Fascination of AWK](https://maximullaris.com/awk.html) ([HN](https://news.ycombinator.com/item?id=35273273))

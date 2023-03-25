@@ -2,7 +2,9 @@
 
 I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk) on evolution of AI and how it relates to understanding of [consciousness](../consciousness/consciousness.md).
 
-[Language models](../nlp/nlp.md) like [DALL·E](https://openai.com/blog/dall-e/) and [Midjourney](https://www.midjourney.com/) are fascinating. I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that hopefully eventually solves this problem as it will know in a lot of detail which knowledge you have and your preferences in learning.
+[Language models](../nlp/nlp.md) like [GPT](chatgpt.md), [DALL·E](https://openai.com/blog/dall-e/) and [Midjourney](https://www.midjourney.com/) are fascinating. Curious how far scaling [transformer based language models](https://github.com/abacaj/transformers) get, [maybe they get us to AGI](https://arxiv.org/abs/2303.12712).
+
+I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that hopefully eventually solves this problem as it will know in a lot of detail which knowledge you have and your preferences in learning.
 
 [On the Measure of Intelligence](https://twitter.com/alexkowsik/status/1518602848421961730) is a good read. [Bleeding Edge AI](https://bleedingedge.ai/) is nice way to stay up to date on AI.
 
@@ -208,3 +210,4 @@ I liked [Joscha Bach's presentation](https://www.youtube.com/watch?v=ApHnqHfFWBk
 - [Not By AI Badges](https://notbyai.fyi/) - Badge for Your AI-free Content. ([HN](https://news.ycombinator.com/item?id=35181139))
 - [Yoshua Bengio talks: LLMs, Cognition, Causality, Responsible AI, Creativity (2023)](https://www.youtube.com/watch?v=wdExmzSfw4g)
 - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (2023)](https://arxiv.org/abs/2303.12712) ([Tweet](https://twitter.com/SebastienBubeck/status/1638704164770332674))

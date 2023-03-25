@@ -23,3 +23,4 @@ title: Futhark
 - [Generating audio with literate Futhark (2022)](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
 - [Futhark CI](https://github.com/diku-dk/futhark-ci)
 - [Experimenting with Futhark programming style](https://github.com/diku-dk/edda)
+- [Compositional Deep Learning in Futhark (2019)](https://elsman.com/pdf/fhpnc19.pdf)

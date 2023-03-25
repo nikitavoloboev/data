@@ -445,3 +445,4 @@ title: WebAssembly
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript.
 - [witc](https://github.com/second-state/witc) - wasm-interface-types supplement & compiler of wasmedge.
 - [Modsurfer](https://github.com/dylibso/modsurfer) - Provides ops & dev teams with a system of record + diagnostics application to search, browse, and investigate WebAssembly modules.
+- [The Tug-of-War over Server-Side WebAssembly (2023)](https://digest.browsertech.com/archive/browsertech-digest-the-webassembly-rift/) ([HN](https://news.ycombinator.com/item?id=35288059))

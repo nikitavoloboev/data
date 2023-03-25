@@ -8,6 +8,8 @@
 
 [Web Standards podcast](https://web-standards.ru/podcast/) is great way to stay up to date on most new web releases. It's in Russian though.
 
+[Browsertech Digest](https://digest.browsertech.com/) is great too.
+
 ## Notes
 
 - Amazing thing about the web is the fact that clients (browsers) and servers can interact in complex ways without the client knowing anything beforehand about the server and the resources it hosts.

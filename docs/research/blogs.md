@@ -390,6 +390,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Saoirse Shipwreckt](https://without.boats/blog/)
 - [Jamie Tanna](https://www.jvt.me/kind/articles/)
 - [Jeroen Engels](https://jfmengels.net/)
+- [Maciej Hirsz](https://maciej.codes/)
 
 ## Notes
 

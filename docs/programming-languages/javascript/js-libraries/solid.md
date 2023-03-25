@@ -231,3 +231,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Solid Flow](https://github.com/miguelsalesvieira/solid-flow) - Component for building interactive flow-based diagrams and graphs.
 - [3 Patterns to Write Declarative, More Readable SolidJS Components (2023)](https://raqueebuddinaziz.com/blog/3-patterns-to-write-better-and-more-readable-solidjs-components/)
 - [SolidJS - The Hard Parts w/ Dan Jutan (2023)](https://www.youtube.com/watch?v=E3jYGTB50LE)
+- [Signals in TypeScript: The Road to Solid v1.7 (2023)](https://www.youtube.com/watch?v=2fW6JaJHoCE)

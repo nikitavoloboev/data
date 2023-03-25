@@ -16,3 +16,4 @@ title: Wolfram Alpha
 - [wstp](https://github.com/WolframResearch/wstp-rs) - Rust bindings to the Wolfram Symbolic Transport Protocol (WSTP).
 - [md2nb](https://github.com/ConnorGray/md2nb) - Markdown to Wolfram Notebook converter.
 - [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) ([HN](https://news.ycombinator.com/item?id=34422122))
+- [ChatGPT and Wolfram Is Insane (2023)](https://www.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/) ([HN](https://news.ycombinator.com/item?id=35291157))
