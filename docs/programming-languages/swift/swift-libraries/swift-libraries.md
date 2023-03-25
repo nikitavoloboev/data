@@ -4,7 +4,7 @@
 
 [swift-rs](https://github.com/Brendonovich/swift-rs) is neat way to call Swift functions from [Rust](../../rust/rust.md).
 
-[Setting](https://github.com/aheze/Setting) is nice library with great code to study.
+[Setting](https://github.com/aheze/Setting) & [Lexical](https://github.com/facebook/lexical-ios) are nice libraries with great code to study.
 
 ## CLI
 

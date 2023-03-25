@@ -48,3 +48,4 @@ I use Fish as my main shell now. My config for it is [here](https://github.com/n
 - [Fish 3.6.0 (2023)](https://github.com/fish-shell/fish-shell/releases/tag/3.6.0) ([HN](https://news.ycombinator.com/item?id=34298157))
 - [Fish (shell) porting to Rust from C++ (2023)](https://lobste.rs/s/fdcpy3/fish_shell_be_rewritten_rust) ([Lobsters](https://lobste.rs/s/fdcpy3/fish_shell_be_rewritten_rust)) ([HN](https://news.ycombinator.com/item?id=34588340)) ([Reddit](https://www.reddit.com/r/rust/comments/10pf7m8/fish_shell_porting_to_rust_from_c/))
 - [Fish shell quick start for converting bash scripts](https://www.cafe-encounter.net/p3107/fish-shell-quickstart-for-converting-bash-scripts)
+- [Sponge](https://github.com/meaningful-ooo/sponge) - Clean fish history from typos automatically.

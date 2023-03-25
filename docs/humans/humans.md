@@ -111,3 +111,4 @@ I am trying to meet as many people I find interesting as possible to get to know
 - [Elon Musk has lied for 27 years about his credentials](https://twitter.com/capitolhunters/status/1593307541932474368)
 - [Be wary of imitating high-status people who can afford to countersignal (2022)](https://robkhenderson.substack.com/p/the-perils-of-imitating-high-status) ([HN](https://news.ycombinator.com/item?id=33942670))
 - [Konstantin Tsiolkovsky - Wikipedia](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) ([HN](https://news.ycombinator.com/item?id=34893154))
+- [HN: Gordon Moore has died (2023)](https://news.ycombinator.com/item?id=35297420)

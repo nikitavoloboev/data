@@ -253,3 +253,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance.
 - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from HTML document.
 - [cdp-scrapers](https://github.com/CouncilDataProject/cdp-scrapers) - Scratchpad for scraper development and general utilities.
+- [scrapeghost](https://github.com/jamesturk/scrapeghost/) - Library for scraping websites using OpenAI's GPT.

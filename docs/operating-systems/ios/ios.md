@@ -285,7 +285,7 @@ I try build iOS apps either with [SwiftUI](../../programming-languages/swift/swi
 - [iOS Prototypes](https://twitter.com/i/events/1240479354192302081)
 - [Apple Continuity Protocol Reverse Engineering Project](https://github.com/furiousMAC/continuity)
 - [Sivire](https://github.com/MarioIannotta/Sivire) - Record video of your simulators from the mac menu bar.
-- [Neural Engine — what do we know about it](https://github.com/hollance/neural-engine)
+- [Neural Engine — what do we know about it](https://github.com/hollance/neural-engine) ([HN](https://news.ycombinator.com/item?id=35301447))
 - [Demo iOS application built to highlight MVP (Model View Presenter) and Clean Architecture concepts](https://github.com/FortechRomania/ios-mvp-clean-architecture)
 - [iOS Interview Questions for Senior Developers in 2020](https://medium.com/@alex_v_bush/ios-interview-questions-for-senior-developers-in-2020-6fffcf5d3c61)
 - [Inside iOS Dev](https://insideiosdev.com/) - Weekly show about real world iOS development.

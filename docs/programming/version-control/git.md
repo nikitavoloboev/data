@@ -669,3 +669,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Advanced Git: Graphs, Hashes, and Compression, Oh My! (2012)](https://www.youtube.com/watch?v=ig5E8CcdM9g)
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
 - [A Hacker's Guide to Git (2014)](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
+- [gut](https://github.com/julien040/gut) - CLI designed to make Git easier to use.

@@ -28,3 +28,4 @@ title: Datasette
 - [datasette-ui-extras](https://github.com/cldellow/datasette-ui-extras) - Add some UI flourishes to Datasette.
 - [datasette-faiss](https://github.com/simonw/datasette-faiss) - Maintain a FAISS index for specified Datasette tables.
 - [datasette-mutable-downloads](https://github.com/cldellow/datasette-mutable-downloads) - Enable downloading mutable databases from Datasette.
+- [datasette-chatgpt-plugin](https://github.com/simonw/datasette-chatgpt-plugin) - Datasette plugin that turns a Datasette instance into a ChatGPT plugin.

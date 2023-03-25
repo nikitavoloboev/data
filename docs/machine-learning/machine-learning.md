@@ -1092,3 +1092,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Precise Zero-Shot Dense Retrieval without Relevance Labels (2022)](https://arxiv.org/abs/2212.10496) ([Code](https://github.com/texttron/hyde))
 - [Superposition, Memorization, and Double Descent (2023)](https://transformer-circuits.pub/2023/toy-double-descent/index.html)
 - [Teaching material for Causal ML](https://github.com/MCKnaus/causalML-teaching)
+- [Symbolic Execution Papers](https://github.com/XMUsuny/symbolic-execution-papers)

@@ -161,3 +161,4 @@
 - [Top-Down LR Parsing (2023)](https://pavpanchekha.com/blog/top-down-lr.html) ([HN](https://news.ycombinator.com/item?id=35151606))
 - [Valiant's Parser (2023)](https://rahul.gopinath.org/post/2023/03/16/valiant-parser/)
 - [lezer/highlight](https://github.com/lezer-parser/highlight) - Syntax highlighting from Lezer trees.
+- [Optimizing a parser/compiler with data-oriented design: a case study (2023)](https://tweedegolf.nl/en/blog/88/data-oriented-design) ([Lobsters](https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data))

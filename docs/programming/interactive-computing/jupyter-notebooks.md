@@ -251,3 +251,4 @@ title: Jupyter Notebooks
 - [JupyterLab Link Share](https://github.com/jupyterlab-contrib/jupyterlab-link-share) - JupyterLab Extension to easily share a link to a running server on Binder.
 - [Streamlit Jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Python package to preview and develop streamlit apps in jupyter notebooks.
 - [JupyterLab MyST Extension](https://github.com/executablebooks/jupyterlab-myst) - Use MyST Markdown directly in Jupyter Lab.
+- [Solara](https://github.com/widgetti/solara) - Build large and Scalable Web Apps for Jupyter and Production.

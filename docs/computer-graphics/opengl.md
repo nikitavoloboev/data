@@ -46,3 +46,4 @@ title: OpenGL
 - [glutin](https://github.com/rust-windowing/glutin) - Low-level library for OpenGL context creation, written in pure Rust.
 - [OpenGL-like renderer written from scratch in Rust](https://github.com/alordash/renderust)
 - [GL4ES](https://github.com/ptitSeb/gl4es) - OpenGL for GLES Hardware.
+- [Learn OpenGL using Zig](https://github.com/craftlinks/zig_learn_opengl)

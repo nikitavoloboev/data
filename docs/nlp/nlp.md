@@ -934,3 +934,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python) - Access to Anthropic's safety-first language model APIs.
 - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora) ([HN](https://news.ycombinator.com/item?id=35287740))
+- [Autodoc](https://github.com/context-labs/autodoc) - Toolkit for auto-generating codebase documentation using LLMs. ([HN](https://news.ycombinator.com/item?id=35297766))
+- [Dolly](https://github.com/databrickslabs/dolly) - Fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks notebook.

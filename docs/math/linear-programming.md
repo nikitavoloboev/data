@@ -10,3 +10,4 @@ title: Linear programming
 - [Introduction to Linear Programming in Python (2022)](https://mlabonne.github.io/blog/linearoptimization/)
 - [clingoLP](https://github.com/potassco/clingoLP) - Theory propagator for linear programming using clingo theory language and interface.
 - [Clarabel.rs](https://github.com/oxfordcontrol/Clarabel.rs) - Interior-point solver for convex conic optimization problems in Rust.
+- [YALPS](https://github.com/Ivordir/YALPS) - Linear Programming Solver in TS.
