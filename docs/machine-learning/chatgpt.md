@@ -244,3 +244,4 @@ It's also great at giving examples.
 - [Post-GPT Computing (2023)](https://grady.io/post-gpt-computing/) ([HN](https://news.ycombinator.com/item?id=35288190))
 - [Hello Dolly: Democratizing the magic of ChatGPT with open models (2023)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) ([HN](https://news.ycombinator.com/item?id=35288063))
 - [Ask HN: How are you using GPT to be productive? (2023)](https://news.ycombinator.com/item?id=35299071)
+- [metamorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application.
