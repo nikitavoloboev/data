@@ -4,8 +4,9 @@ title: Ray tracing
 
 # [Ray tracing](<https://en.wikipedia.org/wiki/Ray_tracing_(graphics)>)
 
-[This](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) is nice intro. [Hybrid Rendering
-](https://github.com/diharaw/hybrid-rendering) is nice code to study.
+[Ray tracing with Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) & [How Ray Tracing (Modern CGI) Works](https://www.youtube.com/watch?v=gsZiJeaMO48) are nice.
+
+[Hybrid Rendering](https://github.com/diharaw/hybrid-rendering) is nice code to study.
 
 ## Links
 

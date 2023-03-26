@@ -549,3 +549,83 @@ showHistory(file: string)
 
 > perhaps not video but image can certainly be done
 > should use git lfs for video at least
+
+> TODO: some points to move to expand better on Git RFC (not as detailed / accurate perhaps)
+
+## Adding folder for storing metadata (no modification to git itself)
+
+The problem of storing generalized metadata will be present across all git based apps.
+
+In Inlang, there is currently [no ability to track which translations were machine translated](https://github.com/inlang/inlang/discussions/462).
+
+One solution is to have a custom [folder for storing metadata](https://github.com/orgs/inlang/discussions/355). Metadata such as comments/images/ etc.
+
+Assuming we decide to store all metadata in folder.
+
+We will cover the case of 'Modyfing git to become a proper backend' after.
+
+### JS
+
+You would be able to fetch the metadata folder via sparse-checkout clone. And read the metadata as it will be just files in a file system.
+
+Comitting/pushing files is trvial too. The only missing piece is adding sparse-checkout into isomorphic-git. All the remainder of git operations one would need to be able to work with a metadata folder should be covered already by existing featureset of isomorphic git.
+
+Not tested yet, but it should hopefully respect `.gitignore` placed inside the metadata folder too, but if it doesn't it's trivial to add as a feature too.
+
+### WASM
+
+Similar to Isomorphic Git, this would be trivial to add on top of libgit2 wasm.
+
+You would sparse-checkout the folder with metadata. Only difference is that as it currently stands, you are forced to save results into [Emscripten FS](https://emscripten.org/docs/api_reference/Filesystem-API.html).
+
+The way libgit2 works now as compiled through [wasm-git](https://github.com/petersalomonsen/wasm-git) is you get 1 .wasm file. And one .js file. The JS file contains the Emscripten FS and bindings to libgit2 git.
+
+[MEMFS](https://emscripten.org/docs/api_reference/Filesystem-API.html#memfs) is default in-memory file system mounted. Example code how that looks below:
+
+There is also [NODEFS](https://emscripten.org/docs/api_reference/Filesystem-API.html#nodefs) you can use for when git-sdk runs in Node.
+
+NODEFS uses native Node.js 'fs' module under the hood to access the host file system.
+
+One of stated goals of git sdk is it should run anywhere there is a file system. You provide the file system and git sdk does the rest.
+
+The interface of the file system provided by users to git sdk can be adapted to cover the API surface of MEMFS or NODEFS depending on the environment they are running git sdk in.
+
+Above was needed context to answer the question regarding adding support for the custom folder to hold metadata about repository.
+
+libgit2 supports the features needed to sparse-checkout the metadata folder and mount it into the file system. From then on, you can read/modify the contents of the files.
+
+## Modify git to become a proper backend
+
+Here is summary of [points made by Samuel on kinds of things one would need for git as a backend](https://github.com/orgs/inlang/discussions/355#discussioncomment-4875403). Let's go through each one and see how JS or WASM solutions compare in solving them.
+
+## Not every change needs to be committed
+
+Should be solvable irregardless of WASM/JS solution chosen for Git. Just do all the non comittable work on top of the FS. And only commit changes you need.
+
+## Git provides real-time collaboration
+
+Should also be solvable irregardless of WASM/JS solution chosen for Git.
+
+You can build real-time collaboration features on top of the FS api. Using operational transforms or other tech.
+
+Only when you want to commit and persist the changes, would you talk to Git and there all required git features are supported.
+
+Conflict resolution can be built in JS side irregardless if actual git is implemented in JS or WASM.
+
+> Perhaps I am missing a case where you would actually need to change some core git behavior in order to make above work? I don't see it.
+
+## Built-in auth via auth as code
+
+From [comment](https://github.com/orgs/inlang/discussions/355#discussioncomment-4875403):
+
+> Apps don't need an auth layer anymore. organization can configure auth as they please and need. Potentially revolutionizing here as well. If that auth layer is also able to hook into databases like sqlite
+
+From [authorization and file-based security issue](https://github.com/orgs/inlang/discussions/153).
+
+> The editor clones a whole repository. Especially for private repositories, file-based access control is desired. A translator should only be able to clone translation relevant files
+
+> Implementing a custom git server with auth as code like https://www.osohq.com/ could enable the feature. The cumbersome authorization path, see (reversed) #303, could simultaneously be streamlined by leveraging such a git server as auth layer
+
+Assume that would mean, Git SDK would need a custom git server with certain rules for this to work.
+
+> TODO: need expanding, don't fully understand how that'd work. This would probably actually need changes made to git core potentially
