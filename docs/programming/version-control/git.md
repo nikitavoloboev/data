@@ -20,6 +20,10 @@ Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with 
 
 I also am trying to [run Git in browsers nicely](https://github.com/nikitavoloboev/git).
 
+## Commands
+
+- `cherrypick` - move commit from some branch to another (do copy). if need to remove commit, do `reset`.
+
 ## Notes
 
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.
@@ -670,3 +674,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
 - [A Hacker's Guide to Git (2014)](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 - [gut](https://github.com/julien040/gut) - CLI designed to make Git easier to use.
+- [David Baumgold - Advanced Git (2015)](https://www.youtube.com/watch?v=4EOZvow1mk4)
