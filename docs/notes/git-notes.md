@@ -1,3 +1,9 @@
+---
+title: Git Notes
+---
+
+# Extension to [Inlang Git RFC](https://github.com/inlang/inlang/pull/455)
+
 Below are some implementation notes on [Git RFC](https://github.com/inlang/inlang/pull/455) written for [Inlang](https://inlang.com/).
 
 The notes were out of scope for the question RFC tried to answer. Whether libgit2 or isomorphic git should be used.
@@ -313,7 +319,7 @@ The answer to it would require more studying of how that part works to say for s
 
 > note: I need to study this further to make a conclusive answer.
 
-Currently provided `lg2.js` file seems to be doing all the file system <> git interfacing.
+Currently provided `lg2.js` file seems to be doing all the file system to/from git interfacing.
 
 #### Q: How would replacing Emscripten File System with another file system look like?
 
