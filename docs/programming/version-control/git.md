@@ -675,3 +675,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [A Hacker's Guide to Git (2014)](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 - [gut](https://github.com/julien040/gut) - CLI designed to make Git easier to use.
 - [David Baumgold - Advanced Git (2015)](https://www.youtube.com/watch?v=4EOZvow1mk4)
+- [Git protocols: still tinkering after all these years? (2019)](https://www.youtube.com/watch?v=8soFbJkbdFQ)
