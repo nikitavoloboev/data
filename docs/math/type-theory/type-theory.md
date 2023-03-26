@@ -235,3 +235,4 @@ title: Type Theory
 - [cooked-pi](https://github.com/jozefg/cooked-pi) - Type checker for λΠ in several different styles.
 - [How to implement type theory in an hour (2018)](https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/)
 - [Type Systems - Luca Cardelli (2004)](http://lucacardelli.name/papers/typesystems.pdf)
+- [OpenTau: Using OpenAI Codex for Gradual Type Inference](https://github.com/GammaTauAI/opentau) - Using Code Language Models for Gradual Type Inference.

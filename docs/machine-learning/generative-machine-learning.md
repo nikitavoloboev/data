@@ -351,3 +351,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [P+: Extended Textual Conditioning in Text-to-Image Generation (2023)](https://prompt-plus.github.io/) ([Code](https://github.com/mkshing/prompt-plus-pytorch))
 - [ArtBot for Stable Diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - Front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster.
 - [Adobe Firefly](https://firefly.adobe.com/) - AI Art Generator. ([Explained](https://www.adobe.com/sensei/generative-ai/firefly.html)) ([HN](https://news.ycombinator.com/item?id=35246139))
+- [Localizing Object-level Shape Variations with Text-to-Image Diffusion Models](https://github.com/orpatashnik/local-prompt-mixing)
+- [ReVersion: Diffusion-Based Relation Inversion from Images (2023)](https://arxiv.org/abs/2303.13495) ([Code](https://github.com/ziqihuangg/ReVersion))

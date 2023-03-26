@@ -390,3 +390,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [React.dev](https://react.dev/) ([HN](https://news.ycombinator.com/item?id=35186812))
 - [MFNG - React Server Components Playground](https://github.com/unstubbable/mfng)
 - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/) ([HN](https://news.ycombinator.com/item?id=35280454))
+- [Rethinking React best practices (2023)](https://frontendmastery.com/posts/rethinking-react-best-practices/) ([Reddit](https://www.reddit.com/r/javascript/comments/120dlku/rethinking_react_best_practices/))

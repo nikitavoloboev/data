@@ -245,7 +245,10 @@ It's also great at giving examples.
 - [Hello Dolly: Democratizing the magic of ChatGPT with open models (2023)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) ([HN](https://news.ycombinator.com/item?id=35288063))
 - [Ask HN: How are you using GPT to be productive? (2023)](https://news.ycombinator.com/item?id=35299071)
 - [metamorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application.
-- [Markprompt](https://github.com/motifland/markprompt) - Platform for building GPT-powered prompts. Scans Markdown, Markdoc and MDX files in your GitHub repo and creates embeddings.
+- [Markprompt](https://github.com/motifland/markprompt) - Platform for building GPT-powered prompts. Scans Markdown, Markdoc and MDX files in your GitHub repo and creates embeddings. ([HN](https://news.ycombinator.com/item?id=35307250))
 - [GPT Fine-Tuning using Node.js](https://github.com/dabit3/gpt-fine-tuning-with-nodejs)
 - [SwiftChatGPT](https://github.com/migueldeicaza/SwiftChatGPT) - Simple ChatGPT API.
 - [GPT-4 performs significantly worse on coding problems not in its training data (2023)](https://twitter.com/cHHillee/status/1635790330854526981) ([HN](https://news.ycombinator.com/item?id=35297067))
+- [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt)
+- [OpenAI's ChatGPT plugins may revolutionize the traditional customer journey (2023)](https://tevfik.xyz/posts/chatgpt-plugins/) ([HN](https://news.ycombinator.com/item?id=35306601))
+- [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032) ([HN](https://news.ycombinator.com/item?id=35311667))

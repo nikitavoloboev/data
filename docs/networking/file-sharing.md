@@ -146,3 +146,4 @@
 - [sharrr](https://www.sharrr.com/) - End-to-end encrypted file transfer. ([Code](https://github.com/stophecom/sharrr-svelte))
 - [Enkra Send](https://github.com/enkra/enkra-send) - Secure File Transfer with End-to-End Encryption.
 - [static](https://github.com/antfu/static) - Host for static files.
+- [copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, zeroconf, media indexer, thumbnails++ all in one file, no deps.

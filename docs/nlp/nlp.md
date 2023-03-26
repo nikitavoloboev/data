@@ -936,3 +936,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora) ([HN](https://news.ycombinator.com/item?id=35287740))
 - [Autodoc](https://github.com/context-labs/autodoc) - Toolkit for auto-generating codebase documentation using LLMs. ([HN](https://news.ycombinator.com/item?id=35297766))
 - [Dolly](https://github.com/databrickslabs/dolly) - Fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks notebook.
+- [Reflexion: an autonomous agent with dynamic memory and self-reflection (2023)](https://arxiv.org/abs/2303.11366) ([Code](https://github.com/noahshinn024/reflexion-human-eval))
+- [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca) ([HN](https://news.ycombinator.com/item?id=35302858))

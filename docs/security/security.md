@@ -368,3 +368,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [How to Yubikey: A Configuration Cheatsheet (2023)](https://debugging.works/blog/yubikey-cheatsheet/) ([HN](https://news.ycombinator.com/item?id=35091768))
 - [Cloak](https://github.com/purton-tech/cloak) - Secrets automation for developers.
 - [envio](https://github.com/humblepenguinn/envio) - Command-line tool that simplifies the management of environment variables across multiple profiles.
+- [Passkey-rs](https://github.com/1Password/passkey-rs) - Framework for defining Webauthn Authenticators that support passkeys.

@@ -152,3 +152,4 @@ title: Electrical engineering
 - [MISISTEMITA](https://github.com/galopago/misistemita) - Electronic hardware prototyping system. Solderless, robust and open source.
 - [SVG PCB](https://github.com/leomcelroy/svg-pcb) - Design PCBs in the Browser.
 - [A Brief Hobbyist Primer on Clipping Diodes (2020)](https://www.guitarpedalx.com/news/news/a-brief-hobbyist-primer-on-clipping-diodes) ([HN](https://news.ycombinator.com/item?id=34943288))
+- [Comparing Hobby PCB Vendors (2023)](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors) ([HN](https://news.ycombinator.com/item?id=35285769))

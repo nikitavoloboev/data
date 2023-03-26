@@ -370,3 +370,4 @@ title: Svelte
 - [Svelte Meta Tags](https://github.com/oekazuma/svelte-meta-tags) - Components designed to help you manage SEO for Svelte projects.
 - [svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects.
 - [Svelte Legos](https://github.com/ankurrsinghal/svelte-legos) - Collection of essential Svelte Composition Utilities.
+- [SvelteKit Enterprise Stack](https://github.com/joysofcode/enterprise-stack)

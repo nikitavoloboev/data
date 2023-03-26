@@ -137,3 +137,4 @@ title: Vite
 - [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - Vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat.
 - [Vite i18next Loader Plugin](https://github.com/alienfast/vite-plugin-i18next-loader)
 - [Vite Plugin Filter Replace](https://github.com/ikeq/vite-plugin-filter-replace) - Apply filter-based replacements.
+- [vite-plugin-markdown](https://github.com/hmsk/vite-plugin-markdown) - Plugin enables you to import a Markdown file as various formats on your vite project.

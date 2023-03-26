@@ -211,3 +211,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [Yoshua Bengio talks: LLMs, Cognition, Causality, Responsible AI, Creativity (2023)](https://www.youtube.com/watch?v=wdExmzSfw4g)
 - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (2023)](https://arxiv.org/abs/2303.12712) ([Tweet](https://twitter.com/SebastienBubeck/status/1638704164770332674))
+- [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI (2023)](https://www.youtube.com/watch?v=L_Guz73e6fw)

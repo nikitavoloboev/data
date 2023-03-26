@@ -2118,6 +2118,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-astisub](https://github.com/asticode/go-astisub) - Go library to manipulate subtitles.
 - [smtppool](https://github.com/knadh/smtppool) - High throughput Go SMTP pool library with graceful handling of idle timeouts, errors, and retries.
 - [slog](https://github.com/darvaza-proxy/slog) - Back-end agnostic interface for structured logs.
+- [Siegfried](https://github.com/richardlehane/siegfried) - Signature-based file format identification.
 
 ## Links
 

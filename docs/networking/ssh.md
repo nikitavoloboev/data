@@ -149,3 +149,4 @@
 - [What is the Randomart Image for? (2023)](https://bytes.zone/posts/what-is-the-randomart-image-for/) ([HN](https://news.ycombinator.com/item?id=34878431))
 - [libssh2](https://github.com/libssh2/libssh2) - SSH2 library.
 - [PAM-RSSH](https://github.com/z4yx/pam_rssh) - Remote sudo authenticated via ssh-agent.
+- [We need better support for SSH host certificates (2023)](https://mjg59.dreamwidth.org/65874.html) ([Lobsters](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host))

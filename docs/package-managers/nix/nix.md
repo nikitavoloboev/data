@@ -528,3 +528,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [buildxyz](https://github.com/RaitoBezarius/buildxyz) - Build your Nix package automatically.
 - [20 Years of Nix](https://20th.nixos.org/) ([HN](https://news.ycombinator.com/item?id=35208402))
 - [Typhon](https://github.com/typhon-ci/typhon) - Nix-based continuous integration software inspired by Hydra.
+- [Moving stuff around with Nix (2023)](https://determinate.systems/posts/moving-stuff-around-with-nix) ([Reddit](https://www.reddit.com/r/NixOS/comments/120mrc8/moving_stuff_around_with_nix/))
