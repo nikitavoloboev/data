@@ -34,3 +34,4 @@ title: DuckDB
 - [Shredding Deeply Nested JSON, One Vector at a Time (2023)](https://duckdb.org/2023/03/03/json.html) ([HN](https://news.ycombinator.com/item?id=35009612))
 - [PRQL as a DuckDB extension](https://github.com/ywelsch/duckdb-prql)
 - [Template for DuckDB extensions](https://github.com/duckdb/extension-template)
+- [DuckGPT](https://github.com/cube2222/DuckGPT) - Ask questions, let GPT do the SQL.

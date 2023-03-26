@@ -850,7 +850,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [How to make LLMs say true things (2023)](https://evanjconrad.com/posts/world-models)
 - [A Fast Post-Training Pruning Framework for Transformers (2022)](https://arxiv.org/abs/2204.09656) ([Code](https://github.com/WoosukKwon/retraining-free-pruning))
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
-- [FlexGen](https://github.com/Ying1123/FlexGen) - Running large language models like ChatGPT/GPT-3/OPT-175B on a single GPU. Up to 100x faster than other offloading systems. ([HN](https://news.ycombinator.com/item?id=34869960))
+- [FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU. ([HN](https://news.ycombinator.com/item?id=34869960)) ([HN](https://news.ycombinator.com/item?id=35311332))
 - [Butterfish](https://github.com/bakks/butterfish) - CLI tools for LLMs.
 - [Elk](https://github.com/EleutherAI/elk) - Eliciting latent knowledge inside the activations of a language model.
 - [Neurosymbolic Reading Group](http://www.neurosymbolic.org/reading-group.html)
@@ -938,3 +938,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Dolly](https://github.com/databrickslabs/dolly) - Fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks notebook.
 - [Reflexion: an autonomous agent with dynamic memory and self-reflection (2023)](https://arxiv.org/abs/2303.11366) ([Code](https://github.com/noahshinn024/reflexion-human-eval))
 - [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca) ([HN](https://news.ycombinator.com/item?id=35302858))
+- [LLaMA retrieval plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - Using OpenAI's retrieval plugin.

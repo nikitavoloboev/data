@@ -447,7 +447,7 @@ I want to:
 - [Mem](https://get.mem.ai/) - Capture and access information from anywhere. Simple as Apple Notes — powered by a collaborative graph database. ([Intro](https://www.youtube.com/watch?v=hWvQUvWUCeU))
 - [Building a Memex](https://github.com/adri/memex) - Search of my personal data.
 - [Ask HN: How do you organize your knowledge? (2021)](https://news.ycombinator.com/item?id=26935838)
-- [Reflect](https://reflect.app/) - Keep track of your notes, books, and meetings. ([GitHub](https://github.com/team-reflect))
+- [Reflect](https://reflect.app/) - Keep track of your notes, books, and meetings. ([GitHub](https://github.com/team-reflect)) ([HN](https://news.ycombinator.com/item?id=35303670))
 - [KnowAssist](https://www.knowassist.com/) - Good knowledge management.
 - [Gatsby Brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - Use this theme to integrate Roam Research inspired bidirectional linking of notes into a network on your site.
 - [Notea](https://cinwell.com/notea/) - Self-hosted note-taking app stored on S3. ([Code](https://github.com/QingWei-Li/notea))

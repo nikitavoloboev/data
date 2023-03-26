@@ -443,6 +443,7 @@
 - [Mini Moka](https://github.com/moka-rs/mini-moka) - Fast, concurrent cache library for Rust.
 - [serde-query](https://github.com/pandaman64/serde-query) - Rust library that lets you write jq-like queries for your data.
 - [cacache](https://github.com/zkat/cacache-rs) - High-performance, concurrent, content-addressable disk cache, optimized for async APIs.
+- [rsonpath](https://github.com/V0ldek/rsonpath) - Fast Rust JSONPath query engine.
 
 ## Video
 

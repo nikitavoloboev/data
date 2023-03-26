@@ -254,3 +254,5 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from HTML document.
 - [cdp-scrapers](https://github.com/CouncilDataProject/cdp-scrapers) - Scratchpad for scraper development and general utilities.
 - [scrapeghost](https://github.com/jamesturk/scrapeghost/) - Library for scraping websites using OpenAI's GPT.
+- [Black Maria](https://github.com/Smyja/blackmaria) - Python package for scraping in Natural language.
+- [Browser AI agent, using GPT-4](https://github.com/m1guelpf/browser-agent)

@@ -348,3 +348,5 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [Reducing Tailscale’s binary size on macOS (2023)](https://tailscale.com/blog/macos-binary-size/) ([HN](https://news.ycombinator.com/item?id=34833387))
 - [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable) ([HN](https://news.ycombinator.com/item?id=34841742))
 - [node-appdmg](https://github.com/LinusU/node-appdmg) - Generate beautiful DMG-images for your macOS applications.
+- [Apple Notes Liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Extract Notes.app Data and Save It as JSON. ([HN](https://news.ycombinator.com/item?id=35316679))
+- [Export Apple Notes to SQLite](https://github.com/dogsheep/apple-notes-to-sqlite)

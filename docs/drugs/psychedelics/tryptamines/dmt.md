@@ -137,3 +137,4 @@ It's fascinating that [DMT is made out of just carbon, hydrogen, and nitrogen](h
 - [DMT(s) Analysis Compilation](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=950490)
 - [Any consequences of doing DMT every day?](https://www.reddit.com/r/Drugs/comments/107eztr/any_consequences_of_doing_dmt_everyday/)
 - [Has anyone asked an entity who the true God is?](https://www.reddit.com/r/DMT/comments/10kjtkh/has_anyone_asked_an_entity_who_the_true_god_is/)
+- [Cybs' Hybrid ATB 'Salt' Tek](https://wiki.dmt-nexus.me/Cybs%27_Hybrid_ATB_%27Salt%27_Tek)

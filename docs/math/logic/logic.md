@@ -99,3 +99,4 @@
 - [Logic at its Limit: The Grelling-Nelson Paradox (2023)](https://www.youtube.com/watch?v=U2l-Ty5yyU4) ([Lobsters](https://lobste.rs/s/jwrrjo/logic_at_its_limit_grelling_nelson))
 - [Mathematical Logic through Python](https://www.logicthrupython.org/)
 - [The Temperley-Lieb categories and skein modules (2014)](https://arxiv.org/abs/1502.06845)
+- [Logic and Proof](https://leanprover.github.io/logic_and_proof/)

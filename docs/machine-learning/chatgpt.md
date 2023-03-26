@@ -253,3 +253,6 @@ It's also great at giving examples.
 - [OpenAI's ChatGPT plugins may revolutionize the traditional customer journey (2023)](https://tevfik.xyz/posts/chatgpt-plugins/) ([HN](https://news.ycombinator.com/item?id=35306601))
 - [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032) ([HN](https://news.ycombinator.com/item?id=35311667))
 - [ChatGPT and Code Interpreter = Magic (2023)](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/) ([HN](https://news.ycombinator.com/item?id=35312609))
+- [ChatGPT Memory](https://github.com/continuum-llms/chatgpt-memory) - Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
+- [Using ChatGPT Plugins with LLaMA (2023)](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14) ([HN](https://news.ycombinator.com/item?id=35315542))
+- [Run Wild](https://github.com/refcell/run-wild) - Let ChatGPT run free on random webpages and do what it likes. ([HN](https://news.ycombinator.com/item?id=35318797))
