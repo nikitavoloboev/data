@@ -252,3 +252,4 @@ It's also great at giving examples.
 - [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt)
 - [OpenAI's ChatGPT plugins may revolutionize the traditional customer journey (2023)](https://tevfik.xyz/posts/chatgpt-plugins/) ([HN](https://news.ycombinator.com/item?id=35306601))
 - [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032) ([HN](https://news.ycombinator.com/item?id=35311667))
+- [ChatGPT and Code Interpreter = Magic (2023)](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/) ([HN](https://news.ycombinator.com/item?id=35312609))
