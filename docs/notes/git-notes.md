@@ -427,11 +427,11 @@ So to implement a sparse checkout of just one file or folder, you would need to 
 
 There is no `sparse` option. There is no `--filter=blob:none` option. No `--no-checkout` either. You have to implement all 3 if you want to do a fast clone of just minimal git info to get going.
 
-![Options eplained](./git-clone-explained.png)
+![Options eplained](https://images.nikiv.dev/git-clone-explained-23.png)
 
 > Why you need the options
 
-![Options eplained](./git-clone-explained-2.png)
+![Options eplained](https://images.nikiv.dev/git-clone-explained-2-23.png)
 
 There is also a way to achieve above with `git init` and orphan branch. Speed wise, they are the same. In `git init` you just create a folder yourself.
 
