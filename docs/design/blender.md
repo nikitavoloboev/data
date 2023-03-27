@@ -118,5 +118,5 @@ title: Blender
 - [motion_generate_tools](https://github.com/UuuNyaa/blender_motion_generate_tools) - Blender addon for generate motion using MDM: Human Motion Diffusion Model.
 - [CAD Sketcher](https://www.cadsketcher.com/) - Blender Parametric Precision Modeling. ([HN](https://news.ycombinator.com/item?id=34856383))
 - [Blender Tools](https://github.com/framefactory/blender-tools) - Useful add-ons, tools and utilities for Blender scripting.
-- [GPT-4 X Blender](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4.
+- [BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4. ([HN](https://news.ycombinator.com/item?id=35320571))
 - [Building Tools](https://github.com/ranjian0/building_tools) - Building generation addon for blender.

@@ -190,3 +190,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [The curious case of a memory leak in a Zig program (2023)](https://iamkroot.github.io/blog/zig-memleak) ([HN](https://news.ycombinator.com/item?id=35216075))
 - [Errors and Zig (2023)](https://notes.eatonphil.com/errors-and-zig.html) ([HN](https://news.ycombinator.com/item?id=35255519))
 - [Zig is FASTER and SAFER than Rust | Prime Reacts (2023)](https://www.youtube.com/watch?v=CbQVR4v5PZw)
+- [Zig Quirks (2023)](https://www.openmymind.net/Zig-Quirks/) ([HN](https://news.ycombinator.com/item?id=35323645))

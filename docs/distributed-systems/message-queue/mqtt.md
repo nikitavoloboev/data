@@ -70,3 +70,4 @@ title: MQTT
 - [Homebridge MQTT-Thing](https://github.com/arachnetech/homebridge-mqttthing) - Plugin for Homebridge allowing the integration of many different accessory types using MQTT.
 - [LMC](https://github.com/montoyo/lmc-rs) - Lightweight MQTT Client for Rust.
 - [NanoMQ](https://github.com/emqx/nanomq) - Ultra-lightweight and blazing-fast MQTT broker for IoT edge.
+- [NanoSDK](https://github.com/emqx/NanoSDK) - MQTT 5.0-compliant SDK with QUIC support in NNG flavor.

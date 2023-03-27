@@ -371,3 +371,4 @@ title: Svelte
 - [svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects.
 - [Svelte Legos](https://github.com/ankurrsinghal/svelte-legos) - Collection of essential Svelte Composition Utilities.
 - [SvelteKit Enterprise Stack](https://github.com/joysofcode/enterprise-stack)
+- [Thoughts on Svelte (2023)](https://tyhopp.com/notes/thoughts-on-svelte) ([HN](https://news.ycombinator.com/item?id=35324430))

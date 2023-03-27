@@ -256,3 +256,4 @@ It's also great at giving examples.
 - [ChatGPT Memory](https://github.com/continuum-llms/chatgpt-memory) - Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
 - [Using ChatGPT Plugins with LLaMA (2023)](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14) ([HN](https://news.ycombinator.com/item?id=35315542))
 - [Run Wild](https://github.com/refcell/run-wild) - Let ChatGPT run free on random webpages and do what it likes. ([HN](https://news.ycombinator.com/item?id=35318797))
+- [Capabilities of GPT-4 on Medical Challenge Problems (2023)](https://arxiv.org/abs/2303.13375) ([HN](https://news.ycombinator.com/item?id=35319778))

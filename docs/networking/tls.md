@@ -119,3 +119,5 @@ title: TLS
 - [TurboTLS: TLS connection establishment with 1 less round trip (2023)](https://arxiv.org/abs/2302.05311) ([HN](https://news.ycombinator.com/item?id=34793411))
 - [CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in Go and JavaScript.
 - [Signal TLS Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
+- [Transport Layer Security (TLS) - Computerphile (2020)](https://www.youtube.com/watch?v=0TLDTodL7Lc)
+- [TLS Handshake Explained - Computerphile (2020)](https://www.youtube.com/watch?v=86cQJ0MMses)
