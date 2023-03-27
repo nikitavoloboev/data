@@ -257,3 +257,5 @@ It's also great at giving examples.
 - [Using ChatGPT Plugins with LLaMA (2023)](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14) ([HN](https://news.ycombinator.com/item?id=35315542))
 - [Run Wild](https://github.com/refcell/run-wild) - Let ChatGPT run free on random webpages and do what it likes. ([HN](https://news.ycombinator.com/item?id=35318797))
 - [Capabilities of GPT-4 on Medical Challenge Problems (2023)](https://arxiv.org/abs/2303.13375) ([HN](https://news.ycombinator.com/item?id=35319778))
+- [AI-enhanced development makes me more ambitious with my projects (2023)](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
+- [Ask HN: What is a specific use of GPT-4 that you think is remarkable? (2023)](https://news.ycombinator.com/item?id=35329054)

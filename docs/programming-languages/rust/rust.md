@@ -1103,3 +1103,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Must move types [Linear types proposed for Rust] (2023)](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
 - [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)
 - [How to Learn Rust (2023)](https://www.youtube.com/watch?v=2hXNd6x9sZs)
+- [Rust's Golden Rule (2023)](https://steveklabnik.com/writing/rusts-golden-rule) ([HN](https://news.ycombinator.com/item?id=35329038))

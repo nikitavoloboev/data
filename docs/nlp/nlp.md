@@ -939,3 +939,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Reflexion: an autonomous agent with dynamic memory and self-reflection (2023)](https://arxiv.org/abs/2303.11366) ([Code](https://github.com/noahshinn024/reflexion-human-eval))
 - [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca) ([HN](https://news.ycombinator.com/item?id=35302858))
 - [LLaMA retrieval plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - Using OpenAI's retrieval plugin.
+- [Retrieval in LangChain (2023)](https://blog.langchain.dev/retrieval/) ([HN](https://news.ycombinator.com/item?id=35301943))
