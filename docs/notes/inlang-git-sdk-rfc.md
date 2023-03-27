@@ -287,8 +287,6 @@ File-based auth seems to go hand-in-hand with “lazy cloning”. The server wou
 
 The editor requires real-time collaboration. We don’t know how we are going to implement real-time collaboration yet from both a technical and design standpoint. But how is easy could the git SDK be extended to add real-time-collaboration?
 
-![Having real-time collaboration in a branch combines Google Docs style collaboration with software engineering collaboration.](./real-time-collaboration.png)
-
 Having real-time collaboration in a branch combines Google Docs style collaboration with software engineering collaboration.
 
 > In my opinion this is best done on the frontend with something like Operational Transform, not Git for performance reasons. Once the a files edits have been resolved it can be committed normally to the repo (potentially noting the multiple contributors).
