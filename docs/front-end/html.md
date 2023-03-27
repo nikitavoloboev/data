@@ -329,3 +329,4 @@ Hi<div>oh no break</div>
 - [qr-code](https://github.com/bitjson/qr-code) - No-framework, no-dependencies, customizable, animate-able, SVG-based qr-code HTML element.
 - [Embetty](https://github.com/heiseonline/embetty) - Displays remote content like tweets or videos without compromising your privacy.
 - [Awesome Canvas](https://github.com/raphamorim/awesome-canvas)
+- [Fighting inter-component HTML bloat (2023)](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
