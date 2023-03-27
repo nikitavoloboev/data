@@ -706,3 +706,4 @@ title: Linux
 - [q](https://github.com/krisnova/q) - Surface Linux networking metrics with eBPF.
 - [penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - Console utility, under continuous development, that allows you to remaster your system and redistribute it as iso images.
 - [Practical libc-free threading on Linux (2023)](https://nullprogram.com/blog/2023/03/23/) ([Lobsters](https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux))
+- [Setting up a packaging environment for Alpine Linux (introducing alpkg) (2023)](https://blog.orhun.dev/alpine-packaging-setup/)
