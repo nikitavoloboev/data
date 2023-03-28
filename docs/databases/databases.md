@@ -2,7 +2,7 @@
 
 Love using [EdgeDB](edgedb.md) for all my db needs (builds on [Postgres](postgresql.md) & has [amazing query language](https://www.edgedb.com/docs/edgeql/index) & [declarative schema modeling](https://www.edgedb.com/docs/datamodel/index)).
 
-I use [SQlite](sqlite.md) for when I need an embedded database for my apps for local first architectures.
+I use [SQLite](sqlite.md) for when I need an embedded database for my apps for local first architectures.
 
 [Database Internals](https://www.databass.dev/) & [Designing Data-Intensive Applications](https://dataintensive.net/) are great books on databases.
 

@@ -995,4 +995,4 @@ if *boolArgPtr != false {
 - [GitHub Actions and Go (2023)](https://olegk.dev/github-actions-and-go)
 - [The simplicity of single-file Go deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/) ([HN](https://news.ycombinator.com/item?id=35260401))
 - [betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory.
-- [Go linters configuration, the right version (2023)](https://olegk.dev/go-linters-configuration-the-right-version)
+- [Go linters configuration, the right version (2023)](https://olegk.dev/go-linters-configuration-the-right-version) ([Lobsters](https://lobste.rs/s/a1gljv/go_linters_configuration_right_version))

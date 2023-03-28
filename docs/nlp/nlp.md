@@ -941,3 +941,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LLaMA retrieval plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - Using OpenAI's retrieval plugin.
 - [Retrieval in LangChain (2023)](https://blog.langchain.dev/retrieval/) ([HN](https://news.ycombinator.com/item?id=35301943))
 - [Open Sourcing Cody – Sourcegraph's AI-enabled editor assistant (2023)](https://about.sourcegraph.com/blog/open-sourcing-cody) ([HN](https://news.ycombinator.com/item?id=35339010))
+- [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models (2023)](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) ([HN](https://news.ycombinator.com/item?id=35343763))

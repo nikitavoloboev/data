@@ -221,3 +221,5 @@ Want to make use of [Apple AMX Instruction Set](https://github.com/corsix/amx) m
 - [64-bit ARM CPU core information table](https://marcin.juszkiewicz.com.pl/download/tables/arm-cpu-cores.html)
 - [A CPU is a compiler (2023)](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html) ([Lobsters](https://lobste.rs/s/okcml7/cpu_is_compiler)) ([HN](https://news.ycombinator.com/item?id=35271779))
 - [False Sharing - A Phenomenon on Modern CPUs (2023)](https://www.youtube.com/watch?v=NSxPIxpD_x4)
+- [samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux.
+- [Ice and Fire: How to read icicle and flame graphs (2023)](https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs/)

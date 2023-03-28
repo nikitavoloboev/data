@@ -549,3 +549,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Advanced Topics in Programming Languages (2023)](https://github.com/plclub/cis6700-23sp)
 - [What are the issues with algebraic effects? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/11ti9sc/what_are_the_issues_with_algebraic_effects/)
 - [Mamba](https://github.com/JSAbrahams/mamba) - Compiles to Python.
+- [What features have you seen in a PL that helped encourage code re-use? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/123sn1i/what_features_have_you_seen_in_a_pl_that_helped/)
