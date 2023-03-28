@@ -26,6 +26,8 @@ Want to try run [Alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) on my m
 
 The way ChatGPT does [plugins](https://news.ycombinator.com/item?id=35277677) using [Toolformer](https://github.com/lucidrains/toolformer-pytorch) is [fascinating](https://twitter.com/mitchellh/status/1638966754226610181).
 
+[ChatGPT Memory](https://github.com/continuum-llms/chatgpt-memory) & [ChatGPT Retrieval](https://github.com/openai/chatgpt-retrieval-plugin) are fascinating.
+
 ## Interesting queries
 
 - [Can you extract all the links from this code into an array with objects like {component, href, icon, children}](https://showgpt.co/s/QwdOvZon)
@@ -261,3 +263,4 @@ It's also great at giving examples.
 - [Ask HN: What is a specific use of GPT-4 that you think is remarkable? (2023)](https://news.ycombinator.com/item?id=35329054)
 - [ChatGPT outperforms crowd-workers for text-annotation tasks (2023)](https://arxiv.org/abs/2303.15056) ([HN](https://news.ycombinator.com/item?id=35334719))
 - [AI Tools for chatGPT](https://github.com/yufeikang/ai-cli) - Easily use chatGPT in the command line.
+- [Chatpad AI](https://github.com/deiucanta/chatpad) - Premium quality UI for ChatGPT.

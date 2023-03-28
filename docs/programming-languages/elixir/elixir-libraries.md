@@ -80,6 +80,7 @@
 - [Clickhousex](https://github.com/clickhouse-elixir/clickhousex) - ClickHouse database driver to connect with Elixir application by HTTP interface.
 - [EctoShorts](https://github.com/MikaAK/ecto_shorts) - Library focused around making Ecto easier to use in an application and helping to write shorter code.
 - [Z!](https://github.com/tleef/zbang) - Schema description and data validation library.
+- [Cachex](https://github.com/whitfin/cachex) - Powerful caching library for Elixir with support for transactions, fallbacks and expirations.
 
 ## Test
 
