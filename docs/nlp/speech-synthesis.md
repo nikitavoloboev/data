@@ -119,3 +119,4 @@
 - [PITS: Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS](https://github.com/anonymous-pits/pits)
 - [Improving Few-shot Learning for Talking Face System with TTS Data Augmentation (2023)](https://github.com/Moon0316/T2A)
 - [Conditioning and Sampling in Variational Diffusion Models for Speech Super-Resolution (2022)](https://yoyololicon.github.io/diffwave-sr/) ([Code](https://github.com/yoyololicon/diffwave-sr))
+- [Play.ht](https://play.ht/) - Generate and clone voices from 20 seconds of audio. ([HN](https://news.ycombinator.com/item?id=35328698))

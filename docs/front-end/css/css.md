@@ -639,3 +639,4 @@ all: unset
 - [Ten tips for better CSS transitions and animations (2023)](https://joshcollinsworth.com/blog/great-transitions)
 - [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/) ([HN](https://news.ycombinator.com/item?id=35289166))
 - [Stylelint Plugin Defensive CSS](https://github.com/yuschick/stylelint-plugin-defensive-css)
+- [Trigonometric Functions in CSS (2023)](https://web.dev/css-trig-functions/) ([HN](https://news.ycombinator.com/item?id=35336402))

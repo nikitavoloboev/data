@@ -259,3 +259,4 @@ It's also great at giving examples.
 - [Capabilities of GPT-4 on Medical Challenge Problems (2023)](https://arxiv.org/abs/2303.13375) ([HN](https://news.ycombinator.com/item?id=35319778))
 - [AI-enhanced development makes me more ambitious with my projects (2023)](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
 - [Ask HN: What is a specific use of GPT-4 that you think is remarkable? (2023)](https://news.ycombinator.com/item?id=35329054)
+- [ChatGPT outperforms crowd-workers for text-annotation tasks (2023)](https://arxiv.org/abs/2303.15056) ([HN](https://news.ycombinator.com/item?id=35334719))

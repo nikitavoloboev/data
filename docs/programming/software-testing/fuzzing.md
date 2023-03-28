@@ -105,3 +105,4 @@ title: Fuzzing
 - [AFLNet](https://github.com/aflnet/aflnet) - Greybox Fuzzer for Network Protocols.
 - [Firefly](https://github.com/Brum3ns/firefly) - Black box fuzzer for web applications.
 - [autofz: Automated Fuzzer Composition at Runtime (2023)](https://arxiv.org/abs/2302.12879)
+- [Random Fuzzy Thoughts (2023)](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)

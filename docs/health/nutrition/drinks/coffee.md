@@ -99,3 +99,4 @@ Drink coffee on occasions, try not to do it daily as to get actual effects from 
 - [What Is the Best Way to Learn Latte Art?](https://www.reddit.com/r/Coffee/comments/10lfn9v/what_is_the_best_way_to_learn_latte_art/)
 - [Method for reducing coffee acidity](https://patents.google.com/patent/US5853787A/en) ([HN](https://news.ycombinator.com/item?id=34627916))f
 - [The beginner's guide to over complicating coffee (2023)](https://tylercipriani.com/blog/2023/01/31/coffee-science/) ([HN](https://news.ycombinator.com/item?id=34907651))
+- [An Open-Source Espresso (2023)](https://hackaday.com/2023/03/24/enjoy-an-open-source-espresso/) ([HN](https://news.ycombinator.com/item?id=35320729))

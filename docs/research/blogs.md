@@ -393,6 +393,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Maciej Hirsz](https://maciej.codes/)
 - [tevfik](https://tevfik.xyz/)
 - [Iago Leal](https://iagoleal.com/posts/)
+- [Joshua Gilman](https://blog.jmgilman.com/)
 
 ## Notes
 
