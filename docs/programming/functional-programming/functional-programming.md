@@ -226,6 +226,7 @@
 - [Functors, Applicatives, And Monads In Pictures (2013)](https://www.adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [The semantics of a simple functional language (2023)](https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html)
 - [HOP](https://github.com/zicklag/hop) - High-Order Virtual Machine Plus. Simple syntax layer on top of raw HVM, written in HVM.
+- [HVM](https://github.com/HigherOrderCO/HVM) - Higher-Order Virtual Machine. ([HN](https://news.ycombinator.com/item?id=35336113))
 
 ## Images
 

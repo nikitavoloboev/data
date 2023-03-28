@@ -37,3 +37,4 @@ Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md).
 - [Handbook of Plant Nutrition](http://libgen.rs/book/index.php?md5=0DE03F3742244A0FCFFD21A3C33FE812)
 - [Sunken Greenhouse: The Solution To Plant Year Round](https://thetinylife.com/sunken-greenhouse/)
 - [Turn your backyard into a biodiversity hotspot](https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/) ([HN](https://news.ycombinator.com/item?id=34956067))
+- [Easy Organic Soil Mix for Beginners](https://forum.grasscity.com/threads/easy-organic-soil-mix-for-beginners.1116550/)
