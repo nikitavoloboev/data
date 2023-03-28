@@ -262,3 +262,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [Human to SQL Translator](https://www.sqltranslate.app/) - Tool for converting natural language queries into SQL code using artificial intelligence. ([Code](https://github.com/whoiskatrin/sql-translator))
 - [dbt_linreg](https://github.com/dwreeves/dbt_linreg) - Linear regression in SQL using dbt.
 - [LeiSQL](https://github.com/leiysky/leisql) - SQL database.
+- [sqlfmt](https://github.com/lopezator/sqlfmt) - SQL Formatter.

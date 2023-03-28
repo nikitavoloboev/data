@@ -375,3 +375,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno: You don't need a build step (2023)](https://deno.com/blog/you-dont-need-a-build-step) ([HN](https://news.ycombinator.com/item?id=34996727))
 - [What is Deno and how to use its sandbox? (2023)](https://www.zaynetro.com/post/what-is-deno/)
 - [Why we added package.json support to Deno (2023)](https://deno.com/blog/package-json-support) ([HN](https://news.ycombinator.com/item?id=35230837))
+- [deno-clippy](https://github.com/skanehira/deno-clippy) - Cross-platform Deno module for writing and reading clipboard.

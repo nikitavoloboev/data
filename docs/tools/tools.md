@@ -844,3 +844,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [What are your favorite pieces of software? (2023)](https://lobste.rs/s/d0ptcu/what_are_your_favourite_pieces_software)
 - [Cursor](https://www.cursor.so/) - Editor built for programming with AI. ([Code](https://github.com/getcursor/cursor))
 - [SequenceGenius](https://github.com/huytd/sequencegenius) - Generate sequence diagram from your ideas, with helps from AI.
+- [What's the piece of software you use most incorrectly? (2023)](https://twitter.com/t3dotgg/status/1639851680341827586)

@@ -949,3 +949,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [n8n Helm Chart for Kubernetes](https://github.com/8gears/n8n-helm-chart) - Kubernetes Helm chart for n8n a Workflow Automation Tool. Easily automate tasks across different services.
 - [Awesome Kubernetes (K8s) Threat Detection](https://github.com/jatrost/awesome-kubernetes-threat-detection)
 - [De-cloud and de-k8s – bringing our apps back home (2023)](https://dev.37signals.com/bringing-our-apps-back-home/) ([HN](https://news.ycombinator.com/item?id=35263285))
+- [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Tool for scanning your kubernetes clusters, diagnosing and triaging issues in simple english.

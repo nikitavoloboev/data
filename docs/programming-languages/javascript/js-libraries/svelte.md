@@ -372,3 +372,4 @@ title: Svelte
 - [Svelte Legos](https://github.com/ankurrsinghal/svelte-legos) - Collection of essential Svelte Composition Utilities.
 - [SvelteKit Enterprise Stack](https://github.com/joysofcode/enterprise-stack)
 - [Thoughts on Svelte (2023)](https://tyhopp.com/notes/thoughts-on-svelte) ([HN](https://news.ycombinator.com/item?id=35324430))
+- [svelte-right-click](https://github.com/stordahl/svelte-right-click) - Custom context menu for your Svelte application.

@@ -650,6 +650,7 @@
 - [Test generator](https://github.com/frehberg/test-generator) - Procedural macro attributes that generates multiple parametrized tests using one body with different resource input parameters.
 - [trycmd](https://github.com/assert-rs/trycmd) - Snapshot testing for a herd of CLI tests.
 - [lain](https://github.com/landaire/lain) - Structured fuzzing framework built in Rust.
+- [serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 
 ## Error
 

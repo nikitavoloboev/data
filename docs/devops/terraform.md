@@ -226,3 +226,4 @@ title: Terraform
 - [Open Source MLOps Stack Recipes](https://github.com/zenml-io/mlops-stacks)
 - [Terrars](https://github.com/andrewbaxter/terrars) - Tool for building Terraform stacks in Rust.
 - [OpenAPI Terraform Provider](https://github.com/dikhan/terraform-provider-openapi) - Minimize as much as possible the efforts needed from service providers to create and maintain custom terraform providers.
+- [Digger](https://github.com/diggerhq/digger) - Run Terraform plan / apply in your CI.

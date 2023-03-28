@@ -636,6 +636,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-db](https://github.com/nicolasparada/go-db) - Wrapper over pgx with better transaction API.
 - [GreptimeDB Go Client](https://github.com/GreptimeTeam/greptimedb-client-go)
 - [go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using Wazero.
+- [migrator](https://github.com/lopezator/migrator) - Dead simple Go database migration library.
 
 ## ML
 
@@ -2119,6 +2120,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [smtppool](https://github.com/knadh/smtppool) - High throughput Go SMTP pool library with graceful handling of idle timeouts, errors, and retries.
 - [slog](https://github.com/darvaza-proxy/slog) - Back-end agnostic interface for structured logs.
 - [Siegfried](https://github.com/richardlehane/siegfried) - Signature-based file format identification.
+- [broadcast](https://github.com/teivah/broadcast) - Notification broadcaster in Go.
 
 ## Links
 

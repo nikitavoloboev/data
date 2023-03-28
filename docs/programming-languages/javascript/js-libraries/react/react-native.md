@@ -359,3 +359,4 @@ title: React Native
 - [Chain React](https://chainreactconf.com/) - React Native conference.
 - [FluentUI React Native](https://github.com/microsoft/fluentui-react-native) - React-native component library that implements the Fluent Design System.
 - [React Modal Sheet](https://github.com/Temzasse/react-modal-sheet) - Flexible bottom sheet component for your React apps.
+- [react-native-webassembly](https://github.com/cawfree/react-native-webassembly) - Enables WebAssembly for React Native powered by C++ TurboModules and Wasm3.

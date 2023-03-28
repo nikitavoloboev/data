@@ -248,3 +248,4 @@
 - [GINC (Generative In-Context learning Dataset)](https://github.com/p-lambda/incontext-learning) - Small-scale synthetic dataset for studying in-context learning.
 - [Open Instruction Generalist (OIG) Dataset](https://github.com/LAION-AI/Open-Instruction-Generalist)
 - [Cleaned Alpaca Dataset](https://github.com/gururise/AlpacaDataCleaned)
+- [DeepFashion-MultiModal](https://github.com/yumingj/DeepFashion-MultiModal) - Large-scale high-quality human dataset with rich multi-modal annotations.

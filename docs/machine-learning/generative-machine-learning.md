@@ -354,3 +354,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Localizing Object-level Shape Variations with Text-to-Image Diffusion Models](https://github.com/orpatashnik/local-prompt-mixing)
 - [ReVersion: Diffusion-Based Relation Inversion from Images (2023)](https://arxiv.org/abs/2303.13495) ([Code](https://github.com/ziqihuangg/ReVersion))
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior (2023)](https://arxiv.org/abs/2303.14184) ([Code](https://github.com/junshutang/Make-It-3D))
+- [Stable diffusion webui colab](https://github.com/camenduru/stable-diffusion-webui-colab)
