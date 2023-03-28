@@ -1,6 +1,6 @@
 # 2023 March
 
-![](https://images.nikiv.dev/broke-again-23.png)
+![](https://images.nikiv.dev/broke-again-23.jpeg)
 
 Bank account check.
 
