@@ -8,7 +8,7 @@ Tax wise, at least in [Europe](../travel/visited/europe.md), you pay ~ 21% VAT e
 
 I found asking [ChatGPT](../machine-learning/chatgpt.md) questions regarding taxes/finances very useful. Do double check though as model can hallucinate.
 
-There are ways to avoid paying the tax if you don't stay a tax resident in any one country for prolonged time (usually 180 days). But I haven't tried doing that. 
+There are ways to avoid paying the tax if you don't stay a tax resident in any one country for prolonged time (usually 180 days). But I haven't tried doing that.
 
 I do budgets on quarterly bases as I send in my revenue for 3 months to pay VAT tax. Anything beyond the 3000 cash goal gets invested into my [portfolio of stocks/ETFs](investing.md) at each end of month. Might automate it at some point.
 
@@ -20,11 +20,11 @@ I want to build an app to help manage my finances better as well keep track of i
 
 ![](https://i.imgur.com/w8CuFdU.png)
 
-In some ways it's a light variation of [YNAB methodology](https://www.youneedabudget.com/method/). Goal is to be mindful of how the money gets spent monthly to make projections into future. Thus removing anxiety for potential future unforseen expenses. 
+In some ways it's a light variation of [YNAB methodology](https://www.youneedabudget.com/method/). Goal is to be mindful of how the money gets spent monthly to make projections into future. Thus removing anxiety for potential future unforseen expenses.
 
-I try to be mindful of more expensive things I buy but do try to never disregard spending money on quality [healthy food](../health/nutrition/foods.md) and essentials for my [well being](../life/happiness.md). All modern banks including N26 track spending into categories automatically. 
+I try to be mindful of more expensive things I buy but do try to never disregard spending money on quality [healthy food](../health/nutrition/foods.md) and essentials for my [well being](../life/happiness.md). All modern banks including N26 track spending into categories automatically.
 
-As mentioned above, I want to build an app that would automate all things financing, safe investing & bookkeeping for me. Where tax is optimized based on all information that is available to me and payment of tax is easy as all the bookkeeping details are neatly organized. 
+As mentioned above, I want to build an app that would automate all things financing, safe investing & bookkeeping for me. Where tax is optimized based on all information that is available to me and payment of tax is easy as all the bookkeeping details are neatly organized.
 
 [Fey](https://www.feyapp.com/) app looks interesting in this regard although it's focused on investing.
 
@@ -33,9 +33,8 @@ The app should:
 1. Read live data from my bank(s)
 2. All expeses automatically categorized (I should be able to instantly see how much was spent on what and how that change over last month or any other time period) (can get categories either from bank itself or write my own classifier)
 3. Ability to make projections based on historical data
-4. Ability to set goals on total value of assets 
+4. Ability to set goals on total value of assets
 5. Ability to set limits on categories and ideally have the bank enforce those limits or at least remind me when I went over the limit as the app reads live data from the bank as each transaction gets made
-
 
 For connecting to real time bank data, maybe [Nordigen](https://nordigen.com/en/) or [Tink](https://tink.com) can be used. Hopefully it's not too expensive to do.
 
@@ -43,7 +42,7 @@ For connecting to real time bank data, maybe [Nordigen](https://nordigen.com/en/
 
 [This person's Notion setup](https://twitter.com/heyeaslo/status/1591619161406713858) is close to the idea too.
 
-It would also be nice to automate moving money from main account to good ETFs I select. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets ([good ETFs](investing.md#Interesting-ETFs) being the safest investment). 
+It would also be nice to automate moving money from main account to good ETFs I select. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets ([good ETFs](investing.md#Interesting-ETFs) being the safest investment).
 
 I use [Interactive Brokers](https://www.interactivebrokers.co.uk/en/home.php) currently to make investments but honestly wish there was something better. The UI/UX of IB is horrendous but you can't easily purchase ETFs in any other app as EU citizen (I think at least).
 
@@ -55,9 +54,9 @@ For processing payments on websites/apps, [Stripe Payment Links](https://stripe.
 
 Ideally Adyen builds better integration points with as much care into integrations as Stripe has.
 
-[Lemon Squeezy](https://www.lemonsqueezy.com/) is nice tool to simply sell items online. [Paddle](https://www.paddle.com/) is [nice too](https://news.ycombinator.com/item?id=31522127). There are [other options](https://twitter.com/JordanMorgan10/status/1604324809583857664) though. 
+[Lemon Squeezy](https://www.lemonsqueezy.com/) is nice tool to simply sell items online. [Paddle](https://www.paddle.com/) is [nice too](https://news.ycombinator.com/item?id=31522127). There are [other options](https://twitter.com/JordanMorgan10/status/1604324809583857664) though.
 
-My personal goal though is to minimize fees I pay on each transaction over how nice DX is as I can abstract that away. Thus Adyen seems like a perfect company. 
+My personal goal though is to minimize fees I pay on each transaction over how nice DX is as I can abstract that away. Thus Adyen seems like a perfect company.
 
 In future I'd love to build some things on top of global payment infrastructure and get those fees closer to minimum as possible. Perhaps by building on something like [TrueLayer](https://truelayer.com/) as you need a banking license to innovate in fin tech.
 
@@ -93,6 +92,8 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [You have 2 ways of receiving money, as an individual or as a company. If you need to spend your money you are going to be subject to personal income tax laws. There are 2 ways to reduce this kind of tax, run a legitimate business that enables you to write off big day to day spends (like run a catering company and you eat the food it buys) or move to a country with favourable income tax breaks for new residents (Greece/Spain). If you plan on saving your money then you can start a legitimate business in a country with low or zero income tax (Estonia, Caymen islands). That business could be to buy property or an investment vehicle, that way you can benefit from keeping more of the money pre tax accumulating in interest before it's taxed on your personal income tax. Saying all that, it's a lot of work to figure it all out and make the pieces fit, or expensive to hire a good accountant to figure it out for you. Especially if you have an average income where your only saving a few thousand I'm tax a year.](https://www.reddit.com/r/eupersonalfinance/comments/w6028r/what_is_an_effective_strategy_for_a_freelancer_or/)
 - [If someone not paying their invoices for long time: First, create a paper trail of contact. Call them and follow up with an email documenting your call attempt and repeat your collection message. Continue this several more times as needed over several days. Only then escalate to an attorney letter. This process gives your attorney more firepower for the letter. Let them know they have x days until litigation, cc them with records of contact so they can't deny and let draft a very formal letter letting them know you have already taken steps to contact the people to take this to court. The very threat of having to deal with the court proceedings usually does the trick. I had the same thing happen (for less money mind you) after the letter was sent they paid almost the same day.](https://www.reddit.com/r/smallbusiness/comments/za71uf/client_not_paying_invoices_worth_20000_its_been/)
 - [I call our cell phone/ internet company every once in awhile and ask for a discount. It's normally works. Just got a $25 discount off our cell/internet bill today. You can always look up rates of competitors and then claim you are going to switch. That normally gets them to go lower.](https://www.reddit.com/r/Fire/comments/zp1l39/what_are_some_unique_but_effective_ways_youve/)
+- [VAT is about where the sale takes place, which for online digital goods is where the customer is, not where the business is.](https://www.reddit.com/r/eupersonalfinance/comments/123u9hw/do_i_have_to_charge_vat_if_my_company_is_eubased/)
+- [US sales tax is not a VAT. If you're selling online goods and services, you only need to pay US sales tax if you have a "nexus" or presence in that state. That means you're either physically present there, have an office or factory or equipment in that state, OR if you're above certain limit (in $ terms). This varies per state. Google "sales tax nexus for online services" or similar keywords. If you're a EU company, the VAT is calculated based on the sale "location". For digital services (IIRC for digital goods as well) it's location of the user. Meaning if your user is US based, no VAT.](https://www.reddit.com/r/eupersonalfinance/comments/123u9hw/do_i_have_to_charge_vat_if_my_company_is_eubased/)
 
 ## Links
 

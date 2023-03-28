@@ -681,3 +681,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Codd](https://github.com/mzabani/codd) - Helps to apply plain postgres SQL migrations with strong cross-environment consistency checks and atomicity guarantees.
 - [PostgreSQL Logical Replication Explained (2023)](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql) ([HN](https://news.ycombinator.com/item?id=35203571))
 - [Pg_jsonschema – JSON Schema Support for Postgres (2022)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation) ([HN](https://news.ycombinator.com/item?id=35258323))
+- [Quicker Serverless Postgres Connections (2023)](https://neon.tech/blog/quicker-serverless-postgres)
