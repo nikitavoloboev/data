@@ -128,3 +128,4 @@ Match all that don't have notes or twitter in input
 - [Regex Library in Rust from Scratch (Finite-State Machines) (2021)](https://www.youtube.com/watch?v=MH56D5M9xSQ)
 - [Regex Derivatives (Brzozowski Derivatives)](https://github.com/c0stya/brzozowski)
 - [ChatGPT is a regex god](https://www.reddit.com/r/webdev/comments/11pqq82/chatgpt_is_a_regex_god/)
+- [Regex.ai](https://regex.ai/) - AI-powered regular expression generator.
