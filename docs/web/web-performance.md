@@ -230,3 +230,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [512KB Club](https://512kb.club/) - Showcase of lightweight websites. ([Code](https://github.com/kevquirk/512kb.club))
 - [Spidergram](https://github.com/autogram-is/spidergram) - Toolbox for exploring, auditing, and analyzing complicated web sites.
 - [Web Packager](https://github.com/google/webpackager) - Showcase of how to speed up the page loading with privacy-preserving prefetch.
+- [Making Tanstack Table 1000x faster with a 1 line change (2023)](https://jpcamara.com/2023/03/07/making-tanstack-table.html)

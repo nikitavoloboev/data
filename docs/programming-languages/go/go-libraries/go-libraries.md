@@ -2121,6 +2121,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [slog](https://github.com/darvaza-proxy/slog) - Back-end agnostic interface for structured logs.
 - [Siegfried](https://github.com/richardlehane/siegfried) - Signature-based file format identification.
 - [broadcast](https://github.com/teivah/broadcast) - Notification broadcaster in Go.
+- [zeropool](https://github.com/colega/zeropool) - Zero-allocation type-safe pool for Go.
 
 ## Links
 

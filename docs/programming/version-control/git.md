@@ -677,3 +677,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [David Baumgold - Advanced Git (2015)](https://www.youtube.com/watch?v=4EOZvow1mk4)
 - [Git protocols: still tinkering after all these years? (2019)](https://www.youtube.com/watch?v=8soFbJkbdFQ)
 - [social4git](https://github.com/social4git/social4git) - Decentralized social protocol based on git.
+- [OpenCommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second.

@@ -1093,3 +1093,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Superposition, Memorization, and Double Descent (2023)](https://transformer-circuits.pub/2023/toy-double-descent/index.html)
 - [Teaching material for Causal ML](https://github.com/MCKnaus/causalML-teaching)
 - [Symbolic Execution Papers](https://github.com/XMUsuny/symbolic-execution-papers)
+- [Programming Machine Learning: From Coding to Deep Learning - Elixir Livebooks](https://github.com/nickgnd/programming-machine-learning-livebooks)

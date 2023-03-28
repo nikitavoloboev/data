@@ -264,3 +264,4 @@ It's also great at giving examples.
 - [ChatGPT outperforms crowd-workers for text-annotation tasks (2023)](https://arxiv.org/abs/2303.15056) ([HN](https://news.ycombinator.com/item?id=35334719))
 - [AI Tools for chatGPT](https://github.com/yufeikang/ai-cli) - Easily use chatGPT in the command line.
 - [Chatpad AI](https://github.com/deiucanta/chatpad) - Premium quality UI for ChatGPT.
+- [Awesome ChatGPT Plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
