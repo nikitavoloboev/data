@@ -350,3 +350,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [node-appdmg](https://github.com/LinusU/node-appdmg) - Generate beautiful DMG-images for your macOS applications.
 - [Apple Notes Liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Extract Notes.app Data and Save It as JSON. ([HN](https://news.ycombinator.com/item?id=35316679))
 - [Export Apple Notes to SQLite](https://github.com/dogsheep/apple-notes-to-sqlite)
+- [Apple passwords deserve an app (2023)](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/) ([HN](https://news.ycombinator.com/item?id=35329950))
