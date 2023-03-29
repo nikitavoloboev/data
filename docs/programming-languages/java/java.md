@@ -141,3 +141,4 @@ title: Java
 - [Why we picked Java (2022)](https://blog.picnic.nl/why-picnic-picked-java-e53fafe0df1b) ([HN](https://news.ycombinator.com/item?id=34064310))
 - [What should I know about garbage collection as a Java developer? (2023)](https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/) ([HN](https://news.ycombinator.com/item?id=34320947))
 - [JVM Field Guide: Memory (2023)](https://serce.me/posts/01-02-2023-jvm-field-guide-memory)
+- [Writing a Profiler in 240 lines of pure Java (2023)](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/) ([HN](https://news.ycombinator.com/item?id=35323640))

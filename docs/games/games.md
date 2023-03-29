@@ -306,6 +306,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Whats a single player game you LOVE but will never play again for a second playthrough? (2023)](https://www.reddit.com/r/patientgamers/comments/110vr9j/whats_a_single_player_game_you_love_but_will/)
 - [Games that reignited your passion for gaming? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/11n1va2/games_that_reignited_your_passion_for_gaming_pc/)
 - [What’s top 3 on your wishlist right now? (2023)](https://www.reddit.com/r/PS5/comments/11rwxy8/whats_top_3_on_your_wishlist_right_now/)
+- [What games would you describe as ridiculously good fun? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12597u2/what_games_would_you_describe_as_ridiculously/)
 
 ## Links
 

@@ -159,3 +159,4 @@ title: LLVM
 - [Rellume](https://github.com/aengelke/rellume) - Lift machine code to performant LLVM IR.
 - [llvm-ir-taint](https://github.com/cdisselkoen/llvm-ir-taint) - Taint tracking for LLVM IR.
 - [Writing an LLVM backend for the Move language in Rust (2023)](https://brson.github.io/2023/03/12/move-on-llvm)
+- [Adding a new target/object backend to LLVM JITLink (2023)](https://blog.llvm.org/posts/2023-03-16-adding-new-llvm-jitlink-target-object-backend/)

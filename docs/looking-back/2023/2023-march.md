@@ -22,7 +22,7 @@ In any way, aside from above, nothing else eventful happened this month. Just ne
 
 ## Watched
 
-I did get to watch [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a-marriage-2021) with my partner and loved it. It reaffirmed to me that all issues in relation stem from miscommunication or lack of it. Also showed well how being hurt really bad once by someone closes you of to ever be fragile again with that person.
+I did get to watch [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a-marriage-2021) with my partner and loved it. It reaffirmed to me that most issues in relationships stem from miscommunication or lack of it. Also showed well how being hurt really bad once by someone closes you of to ever be fragile again with that person.
 
 ## Listened
 
@@ -44,8 +44,8 @@ For now I am building a todo app I always wanted to build. [Solid](../../program
 
 ![](https://images.nikiv.dev/obsidian-todo-setup-23.png)
 
-Although brief, I learned a lot during me 3 weeks working with Inlang. Inspiring vision to build git backed apps. First time I ever got to work together with someone on an open source project with actually lovely code. It uses Solid too and I love the way they manage the state as the editor loads. Will replicate that part in my own apps. They use Discord for all communication, have nice channels. The textual checkins were great (I worked in companies that did morning video checkins and thought it was unnecessary). Honestly if I wasn't that bad of a programmer, it'd be a dreamy place to work at but alas.
+Although brief, I learned a lot during my 3 weeks working with Inlang. Inspiring vision to build git backed apps. First time I ever got to work together with someone on an open source project with actually lovely code. It uses Solid too and I love the way they manage the state as the editor loads. Will replicate that part in my own apps. They use Discord for all communication, have nice channels. The textual checkins were great (I worked in companies that did morning video checkins and thought it was unnecessary). Honestly if I wasn't that bad of a programmer, it'd be a dreamy place to work at but alas.
 
 Dream on. Work on. 😺
 
-Listening to [La](https://open.spotify.com/track/3OjWbbavamAsikThpDy2oP) as I am going on a train/plane back Spain to see my family and 🐶. Love them a lot.
+Listening to [We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) as I am going on a train back to Spain to see my family and 🐶. Love them a lot.

@@ -169,3 +169,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [BlindAI](https://github.com/mithril-security/blindai-preview) - Fast, easy-to-use, and confidential inference server, allowing you to easily and quickly deploy your AI models.
 - [Cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
 - [Triton Tutorials](https://github.com/triton-inference-server/tutorials) - Tutorials and examples for Triton Inference Server.
+- [Effortlessly Build Machine Learning Apps with Hugging Face’s Docker Spaces (2023)](https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/)

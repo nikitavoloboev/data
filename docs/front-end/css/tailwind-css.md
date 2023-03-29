@@ -201,3 +201,4 @@ I always value readability and extendability over being able to write/edit thing
 - [TailwindCSS Icons](https://github.com/egoist/tailwindcss-icons) - Use any icon from Iconify.
 - [I used Tailwind for the U in CUBE CSS and I liked it (2022)](https://andy-bell.co.uk/i-used-tailwind-for-the-u-in-cube-css-and-i-liked-it/)
 - [Konsta UI](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS. ([Web](https://konstaui.com/)) ([HN](https://news.ycombinator.com/item?id=34921157))
+- [Tailwind CSS v3.3 (2023)](https://tailwindcss.com/blog/tailwindcss-v3-3) ([HN](https://news.ycombinator.com/item?id=35353182)) ([Tweet](https://twitter.com/adamwathan/status/1640729559606734848))

@@ -1105,3 +1105,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [How to Learn Rust (2023)](https://www.youtube.com/watch?v=2hXNd6x9sZs)
 - [Rust's Golden Rule (2023)](https://steveklabnik.com/writing/rusts-golden-rule) ([HN](https://news.ycombinator.com/item?id=35329038)) ([Reddit](https://www.reddit.com/r/rust/comments/123z169/rusts_golden_rule/))
 - [Tree Borrows: A new aliasing model for Rust (2023)](https://perso.crans.org/vanille/treebor/)
+- [Rust Is a Scalable Language (2023)](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
