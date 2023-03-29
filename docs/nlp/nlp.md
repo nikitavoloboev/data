@@ -943,6 +943,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Open Sourcing Cody – Sourcegraph's AI-enabled editor assistant (2023)](https://about.sourcegraph.com/blog/open-sourcing-cody) ([HN](https://news.ycombinator.com/item?id=35339010))
 - [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models (2023)](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) ([HN](https://news.ycombinator.com/item?id=35343763))
 - [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) - Open-source implementation of LLaMA. ([HN](https://news.ycombinator.com/item?id=35344787))
-- [GPT4All](https://github.com/nomic-ai/gpt4all) - Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa. ([HN](https://news.ycombinator.com/item?id=35349608))
+- [GPT4All](https://github.com/nomic-ai/gpt4all) - Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa. ([HN](https://news.ycombinator.com/item?id=35349608)) ([Tweet](https://twitter.com/andriy_mulyar/status/1640836003194630144))
 - [LLMs and GPT: Some of my favorite learning materials](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) ([HN](https://news.ycombinator.com/item?id=35343791))
 - [Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)

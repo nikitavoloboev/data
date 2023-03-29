@@ -2,9 +2,9 @@
 
 Love [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh)'s music for focusing. [Transcend track](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) is one I use often as it has the right amount of activeness and variety. More recently I absolute love [Glass song](https://open.spotify.com/track/3cxBOgkPQKxUVASrzrxZAm). Everything by [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) is incredible for nice ambience. Also [Mura Masa is superb](https://open.spotify.com/track/2lF5acSU8Vu9292cthQmc5).
 
-Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5)/[Inspired](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) playlists are ambient. I also use [Endel](https://endel.io/) sometimes. Some special songs go into my [Repeat](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo) playlist.
+Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5)/[Inspired](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) playlists are ambient. I also use [Endel](https://endel.io/) sometimes. Some special songs go into my [Repeat](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo) or [Special](https://open.spotify.com/playlist/0phxrDBmTURKDkRNmbpEgO) playlists.
 
-Recently love listening to [Shimmer by Nils](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt).
+Recently love listening to [We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) or [Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt).
 
 ## Links
 

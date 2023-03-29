@@ -267,3 +267,4 @@ It's also great at giving examples.
 - [Awesome ChatGPT Plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
 - [Taxy AI](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4. ([HN](https://news.ycombinator.com/item?id=35344354))
 - [11 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/11-tips-better-chatgpt-prompts/)
+- [ChatGPT Gets a Computer (2023)](https://stratechery.com/2023/chatgpt-learns-computing/)

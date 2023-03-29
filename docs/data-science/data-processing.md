@@ -168,3 +168,4 @@
 - [How to Get Started with Dbt (2023)](https://www.blef.fr/get-started-dbt/) ([HN](https://news.ycombinator.com/item?id=35080707))
 - [Miller](https://github.com/johnkerl/miller) - Like Awk, sed, cut, join, and sort for CSV, TSV, and tabular JSON. ([HN](https://news.ycombinator.com/item?id=35179799))
 - [Fascination of AWK](https://maximullaris.com/awk.html) ([HN](https://news.ycombinator.com/item?id=35273273))
+- [Kaskada](https://github.com/kaskada-ai/kaskada) - Modern, open-source event-processing.
