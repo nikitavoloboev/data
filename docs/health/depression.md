@@ -8,7 +8,7 @@ I remember the times I did feel deperessed and down I doubted my ability and fut
 
 Since then I learned I am not as useless as I thought. The first job I got, I actually didn't even want to go to it as I was sure I would not get the job and fail the interview. Why even try? I did go eventually, thanks to my girlfriend telling me to try, took the train and went to Amsterdam and actually got the job. I lost it after few months as I wasn't as good at programming as they wanted but getting that first job was monumental in making me believe in myself.
 
-I have lost many more jobs since that time mostly for not being a great programmer. I was fired 7 times actually for underperformance. And on 2nd fire, I was told by CEO I should reconsider being a programmer and go back to studying or that I should just switch career entirely as I was just bad.
+I have lost many more jobs since that time mostly for not being a great programmer. I was fired 8 times actually for underperformance. And on 2nd fire, I was told by CEO I should reconsider being a programmer and go back to studying or that I should just switch career entirely as I was just bad.
 
 What's interesting is that all those firings have not phased me at all. I was not depressed since as I somehow found my self worth and realized no one externally can take that away from me. Nothing aside from physical pain could hurt me any more and I felt free.
 

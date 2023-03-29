@@ -1185,7 +1185,7 @@
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models (2023)](https://lukashoel.github.io/text-to-room/) ([Code](https://github.com/lukasHoel/text2room))
 - [Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (2023)](https://arxiv.org/abs/2211.13202) ([Code](https://github.com/noahzn/Lite-Mono))
 - [Generative Semantic Segmentation (2023)](https://arxiv.org/abs/2303.11316) ([Code](https://github.com/fudan-zvg/GSS))
-- [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators (2023)](https://arxiv.org/abs/2303.13439) ([Code](https://github.com/Picsart-AI-Research/Text2Video-Zero))
+- [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators (2023)](https://arxiv.org/abs/2303.13439) ([Code](https://github.com/Picsart-AI-Research/Text2Video-Zero)) ([HN](https://news.ycombinator.com/item?id=35352452))
 - [Diffusion-based Generation, Optimization, and Planning in 3D Scenes (2023)](https://arxiv.org/abs/2301.06015) ([Code](https://github.com/scenediffuser/Scene-Diffuser))
 - [Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes (2023)](https://arxiv.org/abs/2302.14348) ([Code](https://github.com/jyunlee/Im2Hands))
 - [Pointcept](https://github.com/Pointcept/Pointcept) - Powerful and flexible codebase for point cloud perception research.
