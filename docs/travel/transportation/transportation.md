@@ -79,3 +79,4 @@ I wish there were more electric superchargers in EU. Tesla cars seem nice too. C
 - [Realistic daily range of an electric vehicle (2023)](https://blog.forret.com/2023/01/15/realistic-daily-range-ev/) ([HN](https://news.ycombinator.com/item?id=34391407))
 - [Tesla Prep](https://github.com/mykeln/teslaprep) - Comprehensive guide on buying and owning a Tesla.
 - [Tesla's next-gen electric motors will get rid of rare earth elements (2023)](https://insideevs.com/news/655233/tesla-next-gen-eletric-motors-no-rare-earth-elements/) ([HN](https://news.ycombinator.com/item?id=35005095))
+- [The EV Transition Is Harder Than Anyone Thinks (2023)](https://spectrum.ieee.org/the-ev-transition-explained-2659602311) ([HN](https://news.ycombinator.com/item?id=35348452))
