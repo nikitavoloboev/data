@@ -947,3 +947,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LLMs and GPT: Some of my favorite learning materials](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) ([HN](https://news.ycombinator.com/item?id=35343791))
 - [Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
 - [Llama.cpp 30B runs with only 6GB of RAM now (2023)](https://github.com/ggerganov/llama.cpp/pull/613) ([HN](https://news.ycombinator.com/item?id=35393284))
+- [Baseplate](https://www.baseplate.ai/) - Back end-as-a-service for LLM apps. ([HN](https://news.ycombinator.com/item?id=35375727))

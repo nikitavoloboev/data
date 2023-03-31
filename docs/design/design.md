@@ -274,7 +274,7 @@ More people should [do design in the open](https://twitter.com/CharlesPattson/st
 - [Diagram](https://diagram.com/) - Be more creative with generative design tools.
 - [Introducing Genius (2023)](https://blog.diagram.com/p/introducing-genius)
 - [Galileo AI](https://www.usegalileo.ai/) - Copilot for interface design.
-- [Noya](https://www.noya.io/home) - New kind of design tool. ([HN](https://news.ycombinator.com/item?id=34848583))
+- [Noya](https://www.noya.io/) - New kind of design tool. ([HN](https://news.ycombinator.com/item?id=34848583)) ([HN](https://news.ycombinator.com/item?id=35374639))
 - [Purrity Creative illustrations for websites and applications](https://www.getillustrations.com/illustration-pack/purrity-illustrations)
 - [DesignHeaven](https://github.com/dimitrisraptis96/design-heaven) - Stunning free design resources for designers and developers.
 - [Startup CEO records entire meeting with designer Live Footage (2023)](https://www.youtube.com/watch?v=qixx7ESrJQg)
