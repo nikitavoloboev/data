@@ -30,7 +30,7 @@ I did get to watch [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a
 
 ![](https://images.nikiv.dev/listened-march-23.png)
 
-[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) & [A Place](https://open.spotify.com/track/2j1tj1GQCDCRM5tzLQG06V) are great little tunes.
+[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) is great little tune.
 
 Most of the songs I listen to now are instrumental.
 
@@ -72,4 +72,4 @@ One other thing that is truly annoying is just how unfair life is. I am quite lu
 
 All because of some geography and silly wars. I mean its 2023 now and there is active war happening still in Europe. It's actually insane how unbalanced the whole financial/opportunity system is.
 
-I should probably journal more often in private because above is mostly just therapeutically for me. I don't know how much value it has to others reading this. Probably anyone who reads this if they even reached the end of this entry thinks I am unwell and I should go to the doctor. I might do that actually. If I get money. I have few other health issues I can't fix because of money issues so it's certainly on the list. 😿
+I should probably journal more often in private because above is mostly just therapeutic for me to process my feelings as I try to survive. I don't know how much value it has to others reading this. Probably anyone who reads this if they even reached the end of this entry thinks I am unwell and I should go to the doctor. I might do that actually. If I get money. I have few other health issues I can't fix because of money issues so it's certainly on the list. 😿
