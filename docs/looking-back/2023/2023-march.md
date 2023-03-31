@@ -30,7 +30,7 @@ I did get to watch [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a
 
 ![](https://images.nikiv.dev/listened-march-23.png)
 
-[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) is great little tune. And [Cloud Forest](https://open.spotify.com/track/3gQAt3Q8pakB2nkRX4CzJp).
+[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) & [A Place](https://open.spotify.com/track/2j1tj1GQCDCRM5tzLQG06V) are great little tunes.
 
 Most of the songs I listen to now are instrumental.
 
@@ -58,7 +58,7 @@ Essentially I want to build a todo app I always wanted to exist.
 
 The todo app and [LA](../../ideas/learn-anything.md). 2 projects that will take all my time.
 
-I also want to build my own [ChatGPT](../../machine-learning/chatgpt.md) app. I now use [this tauri desktop wrapper](https://github.com/lencx/ChatGPT). It's nice. But I want ability to pipe results into GPT from selected text with pre prompts. And I want to build a better service for sharing GPT prompts than the existing [ShareGPT](https://sharegpt.com/).
+I also want to build my own [ChatGPT](../../machine-learning/chatgpt.md) app. I now use [this Tauri desktop wrapper](https://github.com/lencx/ChatGPT). It's nice. But I want ability to pipe results into GPT from selected text with pre prompts. And I want to build a better service for sharing GPT prompts than the existing [ShareGPT](https://sharegpt.com/).
 
 I honestly reached a point where I truly don't care about even outcomes. I set [goals](../../focusing/goals.md) and I try reach them. And I fail and fail until I reach them.
 
@@ -68,4 +68,8 @@ Coming back to Spain this month to see my family and 🐶. Love them a lot.
 
 No matter what happens. It will be okay. And with the way GPT models and all are progressing it seems nothing we do matters as much as we thought unless it directly contributes to reaching AGI anyway. So why worry.
 
-One other thing that did worry me a bit and maybe still does. Is just how unfair life is. I am quite lucky in many many ways. But still. To be a programmer in USA is just so unfair compared to anywhere else. And I can't move to USA because I don't have a degree or money to even visit it. Anyway. There's more to [happiness](https://www.youtube.com/watch?v=e9dZQelULDk) than success.
+One other thing that is truly annoying is just how unfair life is. I am quite lucky in many ways. But still. To be a programmer in USA is just so unfair compared to anywhere else. And I can't move to USA because I don't have a degree or money to even visit it. Anyway. There's more to [happiness](https://www.youtube.com/watch?v=e9dZQelULDk) than success.
+
+All because of some geography and silly wars. I mean its 2023 now and there is active war happening still in Europe. It's actually insane how unbalanced the whole financial/opportunity system is.
+
+I should probably journal more often in private because above is mostly just therapeutically for me. I don't know how much value it has to others reading this. Probably anyone who reads this if they even reached the end of this entry thinks I am unwell and I should go to the doctor. I might do that actually. If I get money. I have few other health issues I can't fix because of money issues so it's certainly on the list. 😿

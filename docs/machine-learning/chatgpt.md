@@ -272,3 +272,4 @@ It's also great at giving examples.
 - [Pairing With GPT-4 (2023)](https://fly.io/ruby-dispatch/pairing-with-gpt-4/) ([HN](https://news.ycombinator.com/item?id=35385019))
 - [HuggingGPT: Solving AI tasks with ChatGPT and its friends in HuggingFace (2023)](https://arxiv.org/abs/2303.17580) ([HN](https://news.ycombinator.com/item?id=35390153))
 - [Could you train a ChatGPT-beating model for $85k and run it in a browser? (2023)](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/) ([HN](https://news.ycombinator.com/item?id=35391115))
+- [Design and Code with ChatGPT and Midjourney](https://designcode.io/gpt4-apps)

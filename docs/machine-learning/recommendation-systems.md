@@ -2,7 +2,7 @@
 
 Use [Birdland](https://github.com/rlouf/birdland) as recommendation library based on random walks on graphs.
 
-[Monolith](https://github.com/bytedance/monolith) is interesting.
+[Twitter Recommendation Algorithm](https://github.com/twitter/the-algorithm) & [Monolith](https://github.com/bytedance/monolith) are interesting.
 
 ## Links
 
