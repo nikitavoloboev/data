@@ -38,3 +38,4 @@
 - [Na-S Battery: Low-cost with four times the capacity of lithium (2022)](https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html) ([HN](https://news.ycombinator.com/item?id=33998271))
 - [The Gallium Nitride Revolutions (2022)](https://www.youtube.com/watch?v=3aSLZDep7dM)
 - [PyBaMM](https://github.com/pybamm-team/PyBaMM) - Fast and flexible physics-based battery models in Python.
+- [Solid-State Battery Has 2x the Energy–and No Anode (2023)](https://spectrum.ieee.org/solid-state-battery-no-anode) ([HN](https://news.ycombinator.com/item?id=35384608))

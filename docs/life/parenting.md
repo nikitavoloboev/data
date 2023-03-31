@@ -114,3 +114,4 @@ Not parent yet but did like this [advice on fatherhood](https://twitter.com/simo
 - [Advice on having children](https://twitter.com/simonsarris/status/1622053679825051651)
 - [Babyshop.com](https://www.babyshop.com/) - Shop premium children's clothes and baby gear.
 - [Childhoods of Exceptional People](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) ([HN](https://news.ycombinator.com/item?id=34842962))
+- [Scratch](https://scratch.mit.edu/about) - World’s largest coding community for children. ([HN](https://news.ycombinator.com/item?id=35373052))

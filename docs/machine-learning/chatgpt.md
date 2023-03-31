@@ -273,3 +273,4 @@ It's also great at giving examples.
 - [HuggingGPT: Solving AI tasks with ChatGPT and its friends in HuggingFace (2023)](https://arxiv.org/abs/2303.17580) ([HN](https://news.ycombinator.com/item?id=35390153))
 - [Could you train a ChatGPT-beating model for $85k and run it in a browser? (2023)](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/) ([HN](https://news.ycombinator.com/item?id=35391115))
 - [Design and Code with ChatGPT and Midjourney](https://designcode.io/gpt4-apps)
+- [ChatGPT – The Revolutionary Bullshit Parrot (2023)](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?) ([HN](https://news.ycombinator.com/item?id=35391436))
