@@ -330,3 +330,4 @@ title: Swift
 - [How to use async/await with completion handlers (2023)](https://www.danijelavrzan.com/posts/2023/01/completion-handler-async-function/)
 - [Swift Cookbook](https://www.kodeco.com/books/swift-cookbook)
 - [swiftly](https://github.com/patrickfreed/swiftly) - CLI tool for installing, managing, and switching between Swift toolchains, written in Swift.
+- [Swift 5.8 Released (2023)](https://www.swift.org/blog/swift-5.8-released/)

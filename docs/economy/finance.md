@@ -2,7 +2,7 @@
 
 I use [N26](https://n26.com/en-gb/) as my bank and like it. [Revolut](https://www.revolut.com/) and [Monzo](https://monzo.com) are nice too.
 
-I try keep a minimum of ~ 3000 euro cash on my account (for emergency spending + any monthly bills). Rest in [invested](investing.md) in strong assets. Often this 3000 euro cash goal is [aspirational and I can barely afford food](../looking-back/2023/2023-january.md).
+I try keep a minimum of ~ 3000 euro cash on my account (for emergency spending + any monthly bills). Rest in [invested](investing.md) in strong assets. Often this 3000 euro cash goal is [aspirational and I can barely afford food](../looking-back/2023/2023-march.md).
 
 Tax wise, at least in [Europe](../travel/visited/europe.md), you pay ~ 21% VAT every 3 months. You then pay income tax once a year, at least in [NL](../travel/visited/netherlands.md) all that's done through a website. Income tax is often progressive so amount you pay depends on how much you earned in the year.
 

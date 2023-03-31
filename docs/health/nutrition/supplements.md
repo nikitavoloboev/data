@@ -19,7 +19,7 @@ Every [morning](../../focusing/processes.md#morning), after I do a [workout](../
 - Fill with [Alpro Unsweetened Almond Milk](https://www.alpro.com/uk/products/drinks/almond-drinks/almond-roasted-no-sugars/) (fill the blender glass)
 - Chia, hemp and flax seeds with walnuts on top (not much)
 
-Many times I miss doing this blend as I am either traveling or [saving money](../../looking-back/2023/2023-january.md).
+Many times I miss doing this blend as I am either traveling or [saving money](../../looking-back/2023/2023-march.md).
 
 After drinking the smoothie, I also take these supplements, inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/):
 
