@@ -2,23 +2,25 @@
 
 ![](https://images.nikiv.dev/broke-again-23.jpeg)
 
-Bank account check.
+28 in a month. Can't afford food. Got [fired for 8th time](../../health/depression.md) this month.
 
-Just want to die honestly. I am useless. Can't do anything. 😿
+Worked for a total of 3 weeks at [Inlang](https://inlang.com/). It's great company/team but too smart for me. As always.
 
-Didn't pass my first contract I had with [Inlang](https://inlang.com/). It's great company/team but too smart for me.
+My job was supposed to be to take over the Git SDK. Wrote up my first up [RFC on choosing between libgit2 and isomorphic-git for Git SDK](https://github.com/inlang/inlang/pull/455). Great experience and will do RFCs for bigger decisions in all my projects going forward I think.
 
-My job was supposed to be to take over the Git SDK. Wrote up [RFC for the future of Git SDK](https://github.com/inlang/inlang/pull/455) too. But turns out it was not a fit.
+In any way, not first time living with 0 on my bank account, not being able to afford to pay tax or food.
 
-In any way. Not my first time with being rejected. My whole life is a [series of failures](../../health/depression.md) and trying to survive on little food.
+I remember on the 2nd job I ever got, when I got fired, the CEO talked to me personally. He said I should go back to school and programming is not for me. I should reconsider this profession and choose something else. Was an interesting walk from his office afterwards.
 
-I did actually sit down and coded all day this last month. Every day. With barely no breaks. Actually with help of [ChatGPT](../../machine-learning/chatgpt.md), things like reimplementing or extending [Git in JS](https://github.com/isomorphic-git/isomorphic-git) suddenly start to seem approachable. I don't read news as much and generally am more focused. Just life is really too hard recently.
+That was the 2nd time. I got fired/rejected so many times I lost count. Maybe I am crazy to ever consider writing code again but who knows, maybe something comes of it.
 
-I have been in survival mode for the past 6 years it seems. From job to job. Barely making enough to make rent or food. Rejection after rejection. I've been fired 8 times now for not being good enough. I've been told that I should just go back to school and I will **never** become a programmer with my brain.
+With respect to Inlang, although only 3 weeks, I learned a lot. It was my first ever opportunity to work on an open source project and actually get paid. I love the team there and the vision to build git based apps. It's built with Solid and has some nice code I will in the least use in my future projects. Specifically the way the editor loads and sets the state when the page gets rendered.
 
-It truly seems daunting and sometimes I just want to give up.
+They also use Discord for all communication, have nice channels. The textual checkins were great (I worked in companies that did morning video checkins and thought it was unnecessary). Textual checkins are perfect enough honestly.
 
-In any way, aside from above, nothing else eventful happened this month. Just never ending grind to live.
+If I wasn't as bad of a programmer, it'd be a dreamy place to work at for sure. But alas.
+
+The maybe sad thing is that I did actually try these 3 weeks. I coded all day with only few breaks to talk with my partner or take a walk. Used [ChatGPT](../../machine-learning/chatgpt.md) for coding/learning and absolutely loved it. I actually understand Git on a deeper level now. Files are hashed. Commits are hashes of the hashed committed files. Branches are hashes of commits. [Hashes all the way down](https://www.youtube.com/watch?v=ig5E8CcdM9g).
 
 ## Watched
 
@@ -28,24 +30,40 @@ I did get to watch [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a
 
 ![](https://images.nikiv.dev/listened-march-23.png)
 
+[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) is great little tune.  And [Cloud Forest](https://open.spotify.com/track/3gQAt3Q8pakB2nkRX4CzJp).
+
+Most of the songs I listen to now are instrumental.
+
 ## Retro
 
-I want to be more honest with myself. I am not good enough. That is fine. What can I do to improve? Get better?
+Will be doing retros weekly from now on. I am not a good programmer in any way. I am fast on the mac but not as smart. I can't solve problems as fast and it's okay.
 
-My situation is as bad as it ever was. No money. No prospects for future. Some health problems. Soon tax that I need to pay and can't.
+Rejections don't phase me any more. After the things I've been told or experienced it would be a shame to start to get affected by these things.
 
-I don't want to burrow from friends. I can't get a loan. Only thing I can do is build and do it fast.
+The only thing I want is to in the least be able to afford to pay tax or buy food. And for that as I have no job now, I need to build. And build fast.
 
-I love open source but I seriously think it has broken me. Why did I release all the things I did including this wiki in the open and live in poverty all these years. It could be the case that this wiki or my other what I think are useful projects could of at least gave me enough money for some food.
+I need to reconsider how I do open source. It's not sustainable in any way. I earn 0 from everything I've uploaded to GitHub. I don't think the value of things I've shared is 0 though.
 
-In any way, that's in the past now. I am 28 in a month and I know many have completely rethought who they were in this moment and changed themselves. Let that be me.
+For next month, the goal is to build a todo app I always wanted to build. There's many todo apps. But this one will be different. It even has a name, KusKus. 
 
-For now I am building a todo app I always wanted to build. [Solid](../../programming-languages/javascript/js-libraries/solid.md) + [Grafbase](../../networking/graphql/grafbase.md) makes it a bit easier for me to get started. Also [Ark](https://github.com/chakra-ui/ark) seems nice. The goal is to really replace this kind of messy system I have now of tracking my todos/priorities. Plus have integration with GitHub issues.
+The app will have hotkeys similar to [2Do](../../macOS/apps/2do.md). Will have integration with GitHub issues similar to now dead [Ship](https://www.realartists.com/blog/ship-20.html). And it will be AI integrated. 
+
+For example, you write a task, press a hotkey and GPT will create subtasks for you. There will be live collaboration, nice design and one killer feature for why I currently use [Obsidian](../../tools/obsidian.md).
 
 ![](https://images.nikiv.dev/obsidian-todo-setup-23.png)
 
-Although brief, I learned a lot during my 3 weeks working with Inlang. Inspiring vision to build git backed apps. First time I ever got to work together with someone on an open source project with actually lovely code. It uses Solid too and I love the way they manage the state as the editor loads. Will replicate that part in my own apps. They use Discord for all communication, have nice channels. The textual checkins were great (I worked in companies that did morning video checkins and thought it was unnecessary). Honestly if I wasn't that bad of a programmer, it'd be a dreamy place to work at but alas.
+You can write todos into a text area with vim bindings. Just write things and indent as if it's a text file. And with hotkey, it will turn the text area into actual todos with due dates and all. [TaskPaper](https://www.taskpaper.com/) is similar to this in style.
 
-Dream on. Work on. 😺
+Essentially I want to build a todo app I always wanted to exist. 
 
-Listening to [We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) as I am going on a train back to Spain to see my family and 🐶. Love them a lot.
+The todo app and [LA](../../ideas/learn-anything.md). 2 projects that will take all my time. 
+
+I also want to build my own [ChatGPT](../../machine-learning/chatgpt.md) app. I now use [this tauri desktop wrapper](https://github.com/lencx/ChatGPT). It's nice. But I want ability to pipe results into GPT from selected text with pre prompts. And I want to build a better service for sharing GPT prompts than the existing [ShareGPT](https://sharegpt.com/). 
+
+I honestly reached a point where I truly don't care about even outcomes. I set [goals](../../focusing/goals.md) and I try reach them. And I fail and fail until I reach them.
+
+Will be using [Solid](../../programming-languages/javascript/js-libraries/solid.md) + [Grafbase](../../networking/graphql/grafbase.md) to build things out. Also [Ark](https://github.com/chakra-ui/ark) seems nice for UI. 
+
+Coming back to Spain this month to see my family and 🐶. Love them a lot.
+
+No matter what happens. It will be okay. And with the way GPT models and all are progressing it seems nothing we do matters as much as we thought unless it directly contributes to reaching AGI anyway. So why worry.

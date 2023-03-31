@@ -40,3 +40,4 @@ title: Tailscale
 - [Tailscale Docker Extension](https://github.com/tailscale/docker-extension) - Docker Desktop extension adding Tailscale networking.
 - [libtailscale-rs](https://github.com/messense/libtailscale-rs) - Rust binding to libtailscale.
 - [Embed a Tailscale Funnel in your Go app (2023)](https://tailscale.dev/blog/embedded-funnel)
+- [Tailscale Funnel now available in beta (2023)](https://tailscale.com/blog/tailscale-funnel-beta/) ([HN](https://news.ycombinator.com/item?id=35374302))
