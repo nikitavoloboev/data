@@ -2,7 +2,7 @@
 
 ![](https://images.nikiv.dev/broke-again-23.jpeg)
 
-28 in a month. Can't afford food. Got [fired for 8th time](../../health/depression.md) this month.
+28 next month. Can't afford food. Got [fired for 8th time](../../health/depression.md) this month.
 
 Worked for a total of 3 weeks at [Inlang](https://inlang.com/). It's great company/team but too smart for me. As always.
 
