@@ -73,3 +73,9 @@ One other thing that is truly annoying is just how unfair life is. I am quite lu
 All because of some geography and silly wars. I mean its 2023 now and there is active war happening still in Europe. It's actually insane how unbalanced the whole financial/opportunity system is.
 
 I should probably journal more often in private because above is mostly just therapeutic for me to process my feelings as I try to survive. I don't know how much value it has to others reading this. Probably anyone who reads this if they even reached the end of this entry thinks I am unwell and I should go to the doctor. I might do that actually. If I get money. I have few other health issues I can't fix because of money issues so it's certainly on the list. 😿
+
+To end this month on a more happier note, here is my 15 year old Labrador Rachel. ♥️
+
+![](https://images.nikiv.dev/rachel-march-23.jpeg)
+
+![](https://images.nikiv.dev/rachel-outside-march23.jpeg)
