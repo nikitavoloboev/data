@@ -450,3 +450,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Echo Games Discord](https://discord.com/invite/echogames)
 - [What’s a line in a video game that made you feel this way?](https://twitter.com/ArkhamNumb/status/1614733996503474176)
 - [Something like zombies but not typical zombies (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10jfocw/something_like_zombies_but_not_typical_zombies/)
+- [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.

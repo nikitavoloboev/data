@@ -377,7 +377,7 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [TwitterBackup](https://github.com/one-among-us/TwitterBackup) - Backup other users' twitter accounts with Twitter API.
 - [next-tweet](https://github.com/vercel-labs/next-tweet) - Embedded and static tweet for Next.js applications.
 - [abbrevia.me](https://abbrevia.me/) - Abbreviate users' information from their latest tweets. ([Code](https://github.com/heedrox/abbreviame))
-- [Twitter's Recommendation Algorithm (2023)](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) ([HN](https://news.ycombinator.com/item?id=35391433)) ([Code](https://github.com/twitter/the-algorithm)) ([Tweet](https://twitter.com/vboykis/status/1641883618602635269))
+- [Twitter's Recommendation Algorithm (2023)](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) ([HN](https://news.ycombinator.com/item?id=35391433)) ([Code](https://github.com/twitter/the-algorithm)) ([Tweet](https://twitter.com/vboykis/status/1641883618602635269)) ([Reddit](https://www.reddit.com/r/programming/comments/127uuq7/comment/jeh3ec1/?utm_source=reddit&utm_medium=web2x&context=3))
 - [Twitter ML Models Code](https://github.com/twitter/the-algorithm-ml)
 - [I Read Twitter's Code So You Don't Have To (2023)](https://www.youtube.com/watch?v=a8wCny94-_U)
 - [How tweets are ranked. Likes > Retweets](https://twitter.com/NFT_GOD/status/1641914923826462721)

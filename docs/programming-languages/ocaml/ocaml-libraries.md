@@ -283,3 +283,4 @@ title: OCaml libraries
 - [LinOCaml](https://github.com/keigoi/linocaml) - Lightweight, monad-based linear types in OCaml, with a few syntax extensions.
 - [OCaml PPX Template](https://github.com/johnyob/ppx-template)
 - [Solver Service](https://github.com/ocurrent/solver-service) - OCurrent service for solving opam dependencies.
+- [Yoshi](https://github.com/tmattio/yoshi) - Convert Markdown and YAML Data to OCaml Modules.

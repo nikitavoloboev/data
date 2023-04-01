@@ -377,3 +377,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Why we added package.json support to Deno (2023)](https://deno.com/blog/package-json-support) ([HN](https://news.ycombinator.com/item?id=35230837))
 - [deno-clippy](https://github.com/skanehira/deno-clippy) - Cross-platform Deno module for writing and reading clipboard.
 - [Pup](https://github.com/hexagon/pup) - Universal process manager for Deno.
+- [deno-embedder](https://github.com/NfNitLoop/deno-embedder) - Dev tools for embedding static files into Deno as code.
