@@ -1394,3 +1394,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [FawltyDeps](https://github.com/tweag/FawltyDeps) - Dependency checker for Python. ([Article](https://www.tweag.io/blog/2023-03-14-announcing-fawltydeps/))
 - [Pytest Tips and Tricks (2023)](https://pythontest.com/pytest-tips-tricks/) ([HN](https://news.ycombinator.com/item?id=35256237))
 - [Setuptools plugin for Rust extensions](https://github.com/PyO3/setuptools-rust)
+- [Why not tell people to “simply” use pyenv, poetry or anaconda (2023)](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use) ([HN](https://news.ycombinator.com/item?id=35379008))

@@ -174,3 +174,4 @@ title: Formal verification
 - [Get Started with Open Source Formal Verification (2023)](https://fosdem.org/2023/schedule/event/open_source_formal_verification/) ([HN](https://news.ycombinator.com/item?id=34791015))
 - [PhD Defense - Formal Verification of Just-in-Time Compilation (2023)](https://www.youtube.com/watch?v=mbkF3BwenV4)
 - [Static Program Analysis (2022)](https://cs.au.dk/~amoeller/spa/)
+- [How Kani helped find bugs in Hifitime (2023)](https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html)

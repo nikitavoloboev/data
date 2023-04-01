@@ -189,3 +189,4 @@
 - [usvg](https://github.com/ChengCat/usvg) - SVG simplification tool.
 - [SSSVG: An Interactive SVG Reference](https://fffuel.co/sssvg/)
 - [SVG Backgrounds](https://www.svgbackgrounds.com/) ([HN](https://news.ycombinator.com/item?id=35235952))
+- [When SVG almost got network support for raw sockets (2023)](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/) ([HN](https://news.ycombinator.com/item?id=35381755))
