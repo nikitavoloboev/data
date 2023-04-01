@@ -139,3 +139,4 @@ title: Field-programmable gate array
 - [Maia SDR](https://github.com/maia-sdr/maia-sdr) - Open-source FPGA-based SDR project focusing on the ADALM Pluto.
 - [Learn FPGA](https://github.com/bl0x/learn-fpga-amaranth) - Code for Bruno Levy's learn-fpga tutorial written in Amaranth HDL.
 - [Fletcher](https://github.com/abs-tudelft/fletcher) - Framework to integrate FPGA accelerators with Apache Arrow.
+- [SpyDrNet](https://github.com/byuccl/spydrnet) - Flexible framework for analyzing and transforming FPGA netlists.

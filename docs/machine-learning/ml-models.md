@@ -170,3 +170,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
 - [Triton Tutorials](https://github.com/triton-inference-server/tutorials) - Tutorials and examples for Triton Inference Server.
 - [Effortlessly Build Machine Learning Apps with Hugging Face’s Docker Spaces (2023)](https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/)
+- [Navi](https://github.com/twitter/the-algorithm/tree/main/navi/navi) - High-Performance Machine Learning Serving Server in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/127xwu1/twitter_open_sources_navi_highperformance_machine/))
