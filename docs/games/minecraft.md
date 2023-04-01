@@ -158,3 +158,4 @@ title: Minecraft
 - [MCPTool](https://github.com/wrrulos/MCPTool) - Pentesting tool for Minecraft.
 - [Lodestone](https://github.com/Lodestone-Team/lodestone_core) - Free, open source server hosting tool for Minecraft and other multiplayers.
 - [Minecraft Interactive World Builder](https://github.com/gilesknap/mciwb) - Learn Python with Minecraft. ([HN](https://news.ycombinator.com/item?id=35166874))
+- [mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address.
