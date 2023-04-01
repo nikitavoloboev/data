@@ -74,7 +74,7 @@ All because of some geography and silly wars. I mean its 2023 now and there is a
 
 I should probably journal more often in private because above is mostly just therapeutic for me to process my feelings as I try to survive. I don't know how much value it has to others reading this. Probably anyone who reads this if they even reached the end of this entry thinks I am unwell and I should go to the doctor. I might do that actually. If I get money. I have few other health issues I can't fix because of money issues so it's certainly on the list. 😿
 
-To end this month on a more happier note, here is my 15 year old adorably Rachel. ♥️
+To end this month on a more happier note, here is my 15 year old adorable Rachel. ♥️
 
 ![](https://images.nikiv.dev/rachel-outside-march23.jpeg)
 

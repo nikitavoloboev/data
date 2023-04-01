@@ -309,6 +309,7 @@
 - [Y-CalendarPicker](https://github.com/yml-org/ycalendarpicker-ios) - Easy-to-use and highly customizable month calendar.
 - [AlpacaChat](https://github.com/antimatter15/AlpacaChat) - Swift library that runs Alpaca prediction locally to implement ChatGPT like app on Apple platform devices.
 - [Lexical iOS](https://github.com/facebook/lexical-ios) - Extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
+- [StackUI](https://github.com/DevYeom/StackUI) - Declarative UIKit Library, like SwiftUI.
 
 ## macOS
 

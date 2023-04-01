@@ -278,6 +278,7 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 ## Notes
 
 - [macOS Preview app has a built-in feature to remove image background](https://twitter.com/poorlybatched/status/1608339437754421250)
+- `sudo xattr -r -d com.apple.quarantine /Applications/ChatGPT.app` = would make it so you can open 'damaged' apps. Replace `ChatGPT` with app you have.
 
 ## Links
 

@@ -263,3 +263,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [dbt_linreg](https://github.com/dwreeves/dbt_linreg) - Linear regression in SQL using dbt.
 - [LeiSQL](https://github.com/leiysky/leisql) - SQL database.
 - [sqlfmt](https://github.com/lopezator/sqlfmt) - SQL Formatter.
+- [AskBend](https://github.com/datafuselabs/askbend) - SQL-based Knowledge Base Search and Completion using Databend.

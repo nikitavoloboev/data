@@ -379,3 +379,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [abbrevia.me](https://abbrevia.me/) - Abbreviate users' information from their latest tweets. ([Code](https://github.com/heedrox/abbreviame))
 - [Twitter's Recommendation Algorithm (2023)](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) ([HN](https://news.ycombinator.com/item?id=35391433)) ([Code](https://github.com/twitter/the-algorithm)) ([Tweet](https://twitter.com/vboykis/status/1641883618602635269))
 - [Twitter ML Models Code](https://github.com/twitter/the-algorithm-ml)
+- [I Read Twitter's Code So You Don't Have To (2023)](https://www.youtube.com/watch?v=a8wCny94-_U)
