@@ -333,3 +333,4 @@ title: HTTP
 - [Goku](https://github.com/jcaromiq/goku) - HTTP load testing application written in Rust.
 - [Reverse proxy with dynamic backend selection (2023)](https://www.artur-rodrigues.com/tech/2023/03/12/reverse-proxy-with-dynamic-backend-selection.html)
 - [Tour of a HTTP request in Rust (2023)](https://rustwebdevelopment.com/blog/tour-http/)
+- [Use cURL with cookies from Chrome](https://github.com/fipso/ccurl.sh)
