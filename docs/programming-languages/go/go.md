@@ -996,3 +996,4 @@ if *boolArgPtr != false {
 - [The simplicity of single-file Go deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/) ([HN](https://news.ycombinator.com/item?id=35260401))
 - [betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory.
 - [Go linters configuration, the right version (2023)](https://olegk.dev/go-linters-configuration-the-right-version) ([Lobsters](https://lobste.rs/s/a1gljv/go_linters_configuration_right_version))
+- [What design pattern / technique made your programming in Go easier? (2023)](https://www.reddit.com/r/golang/comments/126y75p/as_a_go_programmer_what_design_pattern/)

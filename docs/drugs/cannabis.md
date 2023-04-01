@@ -67,6 +67,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [What is your genuine opinion on cannabis?](https://www.reddit.com/r/RationalPsychonaut/comments/117b1uc/what_is_your_genuine_opinion_on_cannabis/)
 - [Cannabis Seed to Harvest Full Time-Lapse 4k](https://www.youtube.com/watch?v=AeYtJtWzY-g)
 - [10 Mistakes to Avoid When Training Cannabis Plants](https://www.youtube.com/watch?v=v_Es91QcGF0)
+- [What's the biggest thing you wish you knew when you started growing? (2023)](https://www.reddit.com/r/cannabiscultivation/comments/127mxko/whats_the_biggest_thing_you_wish_you_knew_when/)
 
 ## Images
 
