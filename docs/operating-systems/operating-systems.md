@@ -439,3 +439,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [The Unix process API is unreliable and unsafe](http://catern.com/process.html) ([Lobsters](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe))
 - [Virter](https://github.com/LINBIT/virter) - Command line tool for simple creation and cloning of virtual machines.
 - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler) ([HN](https://news.ycombinator.com/item?id=35275301))
+- [Boot-rs](https://github.com/MarcusGrass/boot-rs) - Collection of tools to create an ergonomic and secure encrypted boot-process.

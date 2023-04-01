@@ -551,3 +551,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Mamba](https://github.com/JSAbrahams/mamba) - Compiles to Python.
 - [What features have you seen in a PL that helped encourage code re-use? (2023)](https://www.reddit.com/r/ProgrammingLanguages/comments/123sn1i/what_features_have_you_seen_in_a_pl_that_helped/)
 - [Decreasing the number of memory accesses (2023)](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/) ([HN](https://news.ycombinator.com/item?id=35383662))
+- [Type system of Fortnite's Verse language (2023)](https://brianmckenna.org/blog/verse_types) ([HN](https://news.ycombinator.com/item?id=35363993))

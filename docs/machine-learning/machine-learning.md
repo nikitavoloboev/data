@@ -1095,3 +1095,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Symbolic Execution Papers](https://github.com/XMUsuny/symbolic-execution-papers)
 - [Programming Machine Learning: From Coding to Deep Learning - Elixir Livebooks](https://github.com/nickgnd/programming-machine-learning-livebooks)
 - [Introduction to Autoencoders (2023)](https://www.pinecone.io/learn/autoencoders/)
+- [Awesome Uncertainty Deep Learning](https://github.com/ENSTA-U2IS/awesome-uncertainty-deeplearning)
+- [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) - Open source method for structure generation, with or without conditional information.

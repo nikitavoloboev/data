@@ -2122,6 +2122,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Siegfried](https://github.com/richardlehane/siegfried) - Signature-based file format identification.
 - [broadcast](https://github.com/teivah/broadcast) - Notification broadcaster in Go.
 - [zeropool](https://github.com/colega/zeropool) - Zero-allocation type-safe pool for Go.
+- [SwissMap](https://github.com/dolthub/swiss) - Hash table adapated from the "SwissTable" family of hash tables from Abseil.
 
 ## Links
 

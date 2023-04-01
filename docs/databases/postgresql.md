@@ -683,3 +683,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Pg_jsonschema – JSON Schema Support for Postgres (2022)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation) ([HN](https://news.ycombinator.com/item?id=35258323))
 - [Quicker Serverless Postgres Connections (2023)](https://neon.tech/blog/quicker-serverless-postgres) ([HN](https://news.ycombinator.com/item?id=35342464))
 - [Postgres as a graph database (2023)](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/) ([HN](https://news.ycombinator.com/item?id=35386948))
+- [The Wonders of Postgres Logical Decoding Messages (2023)](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/) ([HN](https://news.ycombinator.com/item?id=35393040))

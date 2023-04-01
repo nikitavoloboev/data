@@ -1189,3 +1189,4 @@
 - [Diffusion-based Generation, Optimization, and Planning in 3D Scenes (2023)](https://arxiv.org/abs/2301.06015) ([Code](https://github.com/scenediffuser/Scene-Diffuser))
 - [Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes (2023)](https://arxiv.org/abs/2302.14348) ([Code](https://github.com/jyunlee/Im2Hands))
 - [Pointcept](https://github.com/Pointcept/Pointcept) - Powerful and flexible codebase for point cloud perception research.
+- [Conditional Image-to-Video Generation with Latent Flow Diffusion Models (2023)](https://arxiv.org/abs/2303.13744) ([Code](https://github.com/nihaomiao/CVPR23_LFDM))

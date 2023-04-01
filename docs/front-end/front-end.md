@@ -146,3 +146,4 @@
 - [AI Component Generator with ChatGPT](https://ai2ui.co/) ([Code](https://github.com/yuvalsuede/ai-component-generator))
 - [Cool frontend arts of local-first: storage, sync, conflicts (2023)](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
 - [Ark](https://github.com/chakra-ui/ark) - Headless component library.
+- [Guild Component Library](https://github.com/the-guild-org/docs)

@@ -150,3 +150,4 @@ title: Phoenix framework
 - [Phoenix Dev Blog - Streams (2023)](https://fly.io/phoenix-files/phoenix-dev-blog-streams/) ([Reddit](https://www.reddit.com/r/elixir/comments/11drzcz/phoenix_dev_blog_streams/))
 - [Phoenix 1.7.0 (2023)](https://www.phoenixframework.org/blog/phoenix-1.7-final-released) ([HN](https://news.ycombinator.com/item?id=35036637))
 - [Phoenix Todo List Tutorial](https://github.com/dwyl/phoenix-todo-list-tutorial)
+- [Introducing Live Elements · Fly (2023)](https://fly.io/ruby-dispatch/introducing-live-elements/)

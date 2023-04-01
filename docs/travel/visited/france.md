@@ -16,3 +16,4 @@ France has some [beautiful songs](https://open.spotify.com/track/5oDNfTnNClOyD40
 - [Paris Will Become ‘100% Cyclable’ (2022)](https://news.ycombinator.com/item?id=33045546)
 - [A Modern Compiler for the French Tax Code (2021)](https://arxiv.org/abs/2011.07966) ([HN](https://news.ycombinator.com/item?id=34579236)) ([Tweet](https://twitter.com/johnjnay/status/1619730355518586884))
 - [France is weird](https://twitter.com/tomaspueyo/status/1532463050216857618)
+- [Hexatrek](https://en.hexatrek.com/) - Long distance thru hike in France. ([HN](https://news.ycombinator.com/item?id=35397051))

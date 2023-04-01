@@ -25,3 +25,4 @@ Use it with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm).
 - [Vitess 16 (2023)](https://planetscale.com/blog/announcing-vitess-16) ([HN](https://news.ycombinator.com/item?id=34972733))
 - [Node MySQL 2](https://github.com/sidorares/node-mysql2) - MySQL client for Node with focus on performance.
 - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) ([HN](https://news.ycombinator.com/item?id=35247242))
+- [How to read MySQL EXPLAINs (2023)](https://planetscale.com/blog/how-read-mysql-explains) ([HN](https://news.ycombinator.com/item?id=35370972))

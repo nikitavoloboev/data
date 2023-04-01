@@ -673,7 +673,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Advanced Git: Graphs, Hashes, and Compression, Oh My! (2012)](https://www.youtube.com/watch?v=ig5E8CcdM9g)
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
 - [A Hacker's Guide to Git (2014)](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
-- [gut](https://github.com/julien040/gut) - CLI designed to make Git easier to use.
+- [Gut](https://github.com/julien040/gut) - CLI designed to make Git easier to use. ([Web](https://gut-cli.dev/)) ([HN](https://news.ycombinator.com/item?id=35371469))
 - [David Baumgold - Advanced Git (2015)](https://www.youtube.com/watch?v=4EOZvow1mk4)
 - [Git protocols: still tinkering after all these years? (2019)](https://www.youtube.com/watch?v=8soFbJkbdFQ)
 - [social4git](https://github.com/social4git/social4git) - Decentralized social protocol based on git. ([HN](https://news.ycombinator.com/item?id=35342457))

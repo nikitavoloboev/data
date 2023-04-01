@@ -277,3 +277,6 @@ It's also great at giving examples.
 - [Vicuna](https://vicuna.lmsys.org/) - Open-source chatbot impressing GPT-4 with 90% ChatGPT quality. ([HN](https://news.ycombinator.com/item?id=35378683)) ([Code](https://github.com/lm-sys/FastChat))
 - [YakGPT](https://yakgpt.vercel.app/) - Locally running, hands-free ChatGPT UI. ([HN](https://news.ycombinator.com/item?id=35374593)) ([Code](https://github.com/yakGPT/yakGPT))
 - [Wellknown](https://github.com/cfortuner/wellknown) - Registry of AI Plugins.
+- [SpeechGPT](https://speechgpt.app/) - Web application that enables you to converse with ChatGPT. ([Code](https://github.com/hahahumble/speechgpt))
+- [How to use AI to do practical stuff: A new guide (2023)](https://oneusefulthing.substack.com/p/how-to-use-ai-to-do-practical-stuff)
+- [Using GPT on Library Collections (2023)](https://thisismattmiller.com/post/using-gpt-on-library-collections/)
