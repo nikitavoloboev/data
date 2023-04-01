@@ -275,3 +275,4 @@ It's also great at giving examples.
 - [Design and Code with ChatGPT and Midjourney](https://designcode.io/gpt4-apps)
 - [ChatGPT – The Revolutionary Bullshit Parrot (2023)](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?) ([HN](https://news.ycombinator.com/item?id=35391436))
 - [Vicuna](https://vicuna.lmsys.org/) - Open-source chatbot impressing GPT-4 with 90% ChatGPT quality. ([HN](https://news.ycombinator.com/item?id=35378683)) ([Code](https://github.com/lm-sys/FastChat))
+- [YakGPT](https://yakgpt.vercel.app/) - Locally running, hands-free ChatGPT UI. ([HN](https://news.ycombinator.com/item?id=35374593)) ([Code](https://github.com/yakGPT/yakGPT))

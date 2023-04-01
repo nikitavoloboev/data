@@ -46,7 +46,7 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - Powerful Automated Machine Learning python library.
 - [Mlxtend (machine learning extensions)](https://github.com/rasbt/mlxtend) - Python library of useful tools for the day-to-day data science tasks.
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - Framework for Privacy Preserving Machine Learning built on PyTorch.
-- [Faiss](https://github.com/facebookresearch/faiss) - Library for efficient similarity search and clustering of dense vectors. ([Tips](https://github.com/matsui528/faiss_tips))
+- [Faiss](https://github.com/facebookresearch/faiss) - Library for efficient similarity search and clustering of dense vectors. ([Tips](https://github.com/matsui528/faiss_tips)) ([HN](https://news.ycombinator.com/item?id=35378521))
 - [pyHSICLasso](https://github.com/riken-aip/pyHSICLasso) - Versatile Nonlinear Feature Selection Algorithm for High-dimensional Data.
 - [AutoGluon](https://github.com/awslabs/autogluon) - AutoML Toolkit for Deep Learning.
 - [DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala) - Simple library for creating complex neural networks from object-oriented and functional programming constructs.
