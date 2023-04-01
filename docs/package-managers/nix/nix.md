@@ -531,3 +531,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Moving stuff around with Nix (2023)](https://determinate.systems/posts/moving-stuff-around-with-nix) ([Reddit](https://www.reddit.com/r/NixOS/comments/120mrc8/moving_stuff_around_with_nix/))
 - [Generating Configs with Nix + Cue (2022)](https://blog.jmgilman.com/generate-configs-with-nix-cue/)
 - [Writing a Nix Flake Library (2022)](https://blog.jmgilman.com/writing-a-flake-library/)
+- [Haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix.

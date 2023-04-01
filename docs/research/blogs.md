@@ -395,6 +395,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Iago Leal](https://iagoleal.com/posts/)
 - [Joshua Gilman](https://blog.jmgilman.com/)
 - [Zicklag](https://zicklag.github.io/blog/)
+- [Tailscale Blog](https://tailscale.dev/blog)
 
 ## Notes
 

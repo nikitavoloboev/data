@@ -186,3 +186,4 @@ title: Erlang
 - [Tips and Tricks For Writing NIFs (2020)](https://mattpo.pe/posts/tips-and-tricks-nifs/)
 - [Cache](https://github.com/fogfish/cache) - Erlang in-memory cache.
 - [LZ4 NIF](https://github.com/rabbitmq/lz4-erlang) - LZ4 compression library for Erlang implemented as a NIF.
+- [Erlang/OTP: Garbage Collector (2023)](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87) ([HN](https://news.ycombinator.com/item?id=35385952))

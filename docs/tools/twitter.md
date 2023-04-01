@@ -381,3 +381,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [Twitter ML Models Code](https://github.com/twitter/the-algorithm-ml)
 - [I Read Twitter's Code So You Don't Have To (2023)](https://www.youtube.com/watch?v=a8wCny94-_U)
 - [How tweets are ranked. Likes > Retweets](https://twitter.com/NFT_GOD/status/1641914923826462721)
+- [Awesome Twitter Algorithm Annotated](https://github.com/veekaybee/awesome-twitter-algo)

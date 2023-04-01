@@ -120,3 +120,4 @@ title: Flutter
 - [Tauri - The Flutter killer? (2023)](https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27)
 - [Using Flutter Rust bridge in 2023](https://www.zaynetro.com/post/flutter-rust-bridge-2023/)
 - [FlutterFire CLI](https://github.com/invertase/flutterfire_cli) - CLI to help with using Firebase in your Flutter applications.
+- [INLANG Chronicles: ARB Files Explained (2023)](https://sunderee.github.io/sunderee-blog/posts/inlang-chronicles-building-arb-file-parser.html)

@@ -374,3 +374,5 @@ title: Svelte
 - [Thoughts on Svelte (2023)](https://tyhopp.com/notes/thoughts-on-svelte) ([HN](https://news.ycombinator.com/item?id=35324430))
 - [svelte-right-click](https://github.com/stordahl/svelte-right-click) - Custom context menu for your Svelte application.
 - [Svelte-Asyncable](https://github.com/sveltetools/svelte-asyncable) - Tiny, declarative, optimistic, async store.
+- [What's new in Svelte: April 2023](https://svelte.substack.com/p/whats-new-in-svelte-april-2023)
+- [Svelte JS Newsletter](https://svelte.substack.com/)
