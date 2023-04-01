@@ -209,3 +209,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [My ten favorite movies of 2022](https://www.slowboring.com/p/my-ten-favorite-movies-of-2022)
 - [What's the "Best Picture" of the 21st century? (2023)](https://www.reddit.com/r/flicks/comments/11sergq/whats_the_best_picture_of_the_21st_century/)
 - [What’s the scariest movie you’ve ever seen? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/11v1rl2/whats_the_scariest_movie_youve_ever_seen/)
+- [Why are movies so dark these days? (2023)](https://www.polygon.com/23661749/why-movies-look-dark-cinematography) ([HN](https://news.ycombinator.com/item?id=35385366))

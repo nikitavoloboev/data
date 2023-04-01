@@ -286,3 +286,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [The water technology behind Avatar: The Way of Water (2023)](https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water) ([HN](https://news.ycombinator.com/item?id=35109155))
 - [Taichi NGP Renderer](https://github.com/Linyou/taichi-ngp-renderer) - Instants-NGP renderer implemented using Taichi.
 - [apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
+- [StratusGFX](https://github.com/KTStephano/StratusGFX) - Open-source real-time 3D rendering engine. ([HN](https://news.ycombinator.com/item?id=35370284))
