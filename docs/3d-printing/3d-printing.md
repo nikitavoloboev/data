@@ -60,3 +60,4 @@
 - [Functional 3D Printing Reddit](https://www.reddit.com/r/functionalprint/)
 - [Octolamp](https://github.com/martinwoodward/octolamp) - 3D printed, GitHub infused, smart light.
 - [LivePrinter](https://github.com/pixelpusher/liveprinter) - Live coding for 3D printers.
+- [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/) ([HN](https://news.ycombinator.com/item?id=35380775))

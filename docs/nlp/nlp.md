@@ -954,3 +954,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [llm-cli](https://github.com/simonw/llm-cli) - Access large language models from the command-line.
 - [xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs.
 - [Five years of GPT progress (2023)](https://finbarr.ca/five-years-of-gpt-progress/)
+- [Actually, Othello-GPT Has A Linear Emergent World Representation (2023)](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
