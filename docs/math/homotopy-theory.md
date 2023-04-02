@@ -55,3 +55,4 @@ title: Homotopy theory
 - [Categories with families in HoTT](https://github.com/jaycech3n/CwF)
 - [Isabelle/HoTT](https://github.com/jaycech3n/Isabelle-HoTT) - Implementation of homotopy type theory in the interactive proof assistant Isabelle. ([Paper](https://arxiv.org/abs/1911.00399))
 - [HoTTEST Summer School 2022](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html) ([Code](https://github.com/martinescardo/HoTTEST-Summer-School))
+- [Homotopy Type Theory Exercises for MGS 2023](https://github.com/ericfinster/hott-mgs)

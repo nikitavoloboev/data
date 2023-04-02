@@ -280,3 +280,6 @@ It's also great at giving examples.
 - [SpeechGPT](https://speechgpt.app/) - Web application that enables you to converse with ChatGPT. ([Code](https://github.com/hahahumble/speechgpt))
 - [How to use AI to do practical stuff: A new guide (2023)](https://oneusefulthing.substack.com/p/how-to-use-ai-to-do-practical-stuff)
 - [Using GPT on Library Collections (2023)](https://thisismattmiller.com/post/using-gpt-on-library-collections/)
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - Attempt to make GPT-4 fully autonomous.
+- [GPTChat](https://github.com/ian-kent/gptchat) - GPT-4 client which gives your favorite AI a memory and tools for self-improvement.
+- [ChatGPT Plugins Collection (unofficial)](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection)

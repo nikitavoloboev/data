@@ -267,3 +267,4 @@ title: Vue.js
 - [Sidebase](https://sidebase.io/) - Productive way to build full stack Nuxt 3 applications. ([Code](https://github.com/sidebase/sidebase))
 - [vue-functional-ref](https://github.com/sxzz/vue-functional-ref) - Functional-style refs for Vue.
 - [Nuxt I18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt.
+- [v-lazy-show](https://github.com/antfu/v-lazy-show) - Compile-time directive to lazy initialize v-show for Vue.

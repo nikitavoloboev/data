@@ -31,6 +31,9 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [The things you are doing aren’t because of cannabis. I can do those things sober. It’s the surrendering that’s doing it. It’s the being still, silent and surrendering. You are pulling your consciousness away from the world and into your own awareness and body. Cannabis puts the feedback of your consciousness on blast so it’s easier to do, but in no way do you need it. It’s just things are more subtle when you are sober.](https://www.reddit.com/r/Psychonaut/comments/8bdt36/how_to_use_cannabis_as_a_very_potent_psychedelic/)
   - The thing so many people don’t realize about astral projection or deep states of consciousness is that it requires subtlety, immense subtlety. Cannabis helps that by amplifying the feedback so you can navigate your own consciousness easier.
 - [Cannabis stimulates the Default Mode Network, specifically the sub-cortical amygdala. It works on the conscious brain. Mushrooms quiet the DMN, like meditation does. It works on the subconscious brain. I personally do not like to combine them, as they work in opposition to each other.](https://www.reddit.com/r/RationalPsychonaut/comments/ozt4k5/thc_and_psilocybin_and_their_effects_on_thinking/)
+- [I do a variation of the paper towel method. What I do is I drop the seed into a shot glass of water for 24-48 hours. Then I come back and if the seeds floating I give it a tap to see if it’ll sink. If it sinks then it’s ready, if it’s still floating then it’s not ready. This is softening the outer shell so it makes it easier for the tap root to break through. Then I place them in a damp paper towel in a ziplock bag with it slightly open to allow air flow. I then place said back in a dark place and I’ll have a tap root in 1-4 days. Typically it’s closer to the 24-48 hour mark though, but I’ve had some stragglers. Then plant as you see fit.](https://twitter.com/blvdmitry/status/1642149819874508804)
+- [This method is simple and has about a 95 pct success rate for me personally. I fill a cup up with water and drop the seed in the cup. Put the cup somewhere dark and preferably with high humidity(I just put mine in a cupboard still works) in about a day it will slightly crack open. You know it's cracked when the seed sinks to the bottom of the cup. Leave it alone for about 3 more days or until the white stem is maybe 2 inches long then carefully plant it. I've learned to let the stem get a little longer because if it's too short then it might die.](https://www.reddit.com/r/microgrowery/comments/dmjxaq/germination_pro_tips/)
+- [Most people recommend a wet paper towel pocket for the seed but I've been just putting my seeds in a cup of water without any access to light and leave it for a day or two.](https://www.reddit.com/r/microgrowery/comments/1019uf/germination_method/)
 
 ## Links
 
@@ -68,6 +71,9 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [Cannabis Seed to Harvest Full Time-Lapse 4k](https://www.youtube.com/watch?v=AeYtJtWzY-g)
 - [10 Mistakes to Avoid When Training Cannabis Plants](https://www.youtube.com/watch?v=v_Es91QcGF0)
 - [What's the biggest thing you wish you knew when you started growing? (2023)](https://www.reddit.com/r/cannabiscultivation/comments/127mxko/whats_the_biggest_thing_you_wish_you_knew_when/)
+- [What is germination and how to best do it](https://www.reddit.com/r/microgrowery/comments/6n7xij/germination/)
+- [How long do you veg for and why?](https://www.reddit.com/r/microgrowery/comments/w55cn8/how_long_do_you_veg_for_and_why/)
+- [Beginner's Cannabis Grow Guide](https://www.reddit.com/r/microgrowery/comments/w3qz7/beginners_guide/)
 
 ## Images
 

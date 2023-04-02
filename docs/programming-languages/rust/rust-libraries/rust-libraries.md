@@ -2774,6 +2774,8 @@
 - [Nipper](https://github.com/importcjj/nipper) - Rust crate for manipulating HTML with CSS selectors.
 - [Tracing OpenTelemetry](https://github.com/tokio-rs/tracing-opentelemetry) - Utilities for adding OpenTelemetry interoperability to tracing.
 - [crunch-rs](https://github.com/ChevyRay/crunch-rs) - Rectangle packer, written in Rust, for cramming lots of rectangles into a larger one.
+- [scoped-trace](https://github.com/jswrenn/scoped-trace) - Capture scoped backtraces.
+- [vmcircbuffer](https://github.com/FutureSDR/vmcircbuffer) - Double Mapped Circular Buffer.
 
 ## Cargo Plugins
 

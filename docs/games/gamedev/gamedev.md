@@ -70,7 +70,7 @@
 - [Kit](https://github.com/kitlang/kit) - Programming language designed for creating concise, high performance cross-platform applications.
 - [raylib](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy videogames programming. ([go-raylib](https://github.com/chunqian/go-raylib))
 - [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)
-- [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things. ([Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html))
+- [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things. ([Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html)) ([The Dream Programming Language? Lobster](https://www.youtube.com/watch?v=uuPeBKdnBOI))
 - [Open Source Game Clones](https://osgameclones.com/)
 - [Flecs](https://github.com/SanderMertens/flecs) - Multithreaded Entity Component System written for C89 & C99.
 - [Marvel's Spider-Man: A Technical Postmortem (2019)](https://www.youtube.com/watch?v=KDhKyIZd3O8)

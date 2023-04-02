@@ -955,3 +955,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs.
 - [Five years of GPT progress (2023)](https://finbarr.ca/five-years-of-gpt-progress/)
 - [Actually, Othello-GPT Has A Linear Emergent World Representation (2023)](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
+- [PromptPerfect](https://promptperfect.jina.ai/) - Elevate your prompts to perfection.
+- [gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp)
+- [Wove](https://github.com/zckly/wove) - Tool for building long-running workflows with LLMs.

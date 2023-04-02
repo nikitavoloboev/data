@@ -376,3 +376,4 @@ title: Svelte
 - [Svelte-Asyncable](https://github.com/sveltetools/svelte-asyncable) - Tiny, declarative, optimistic, async store.
 - [What's new in Svelte: April 2023](https://svelte.substack.com/p/whats-new-in-svelte-april-2023)
 - [Svelte JS Newsletter](https://svelte.substack.com/)
+- [Radix Svelte](https://github.com/TGlide/radix-svelte)

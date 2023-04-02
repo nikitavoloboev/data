@@ -544,3 +544,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Orbita](https://orbita.playtronica.com/) - MIDI Turntable Sequencer. ([HN](https://news.ycombinator.com/item?id=35165106))
 - [Open MusicLM](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
 - [Okio](https://okio.ai/) - Open-source generative AI music tool suite that reimagines music.
+- [Dattorro reverb VST plugin](https://github.com/chaosprint/dattorro-vst-rs)

@@ -1099,3 +1099,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) - Open source method for structure generation, with or without conditional information.
 - [Advances in Foundation Models Course (2023)](https://stanford-cs324.github.io/winter2023/syllabus/)
 - [Hello Deep Learning (2023)](https://berthub.eu/articles/posts/hello-deep-learning/)
+- [AI Alignment Forum](https://www.alignmentforum.org/)

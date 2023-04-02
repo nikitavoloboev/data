@@ -392,3 +392,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/) ([HN](https://news.ycombinator.com/item?id=35280454))
 - [Rethinking React best practices (2023)](https://frontendmastery.com/posts/rethinking-react-best-practices/) ([Reddit](https://www.reddit.com/r/javascript/comments/120dlku/rethinking_react_best_practices/))
 - [Simple React Server Components](https://github.com/bholmesdev/simple-rsc)
+- [Vite RSC Experiments](https://github.com/cyco130/vite-rsc)

@@ -310,6 +310,7 @@
 - [AlpacaChat](https://github.com/antimatter15/AlpacaChat) - Swift library that runs Alpaca prediction locally to implement ChatGPT like app on Apple platform devices.
 - [Lexical iOS](https://github.com/facebook/lexical-ios) - Extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
 - [StackUI](https://github.com/DevYeom/StackUI) - Declarative UIKit Library, like SwiftUI.
+- [BlowinSwiper](https://github.com/horitaku46/BlowinSwiper) - Swipe back from anywhere on the screen.
 
 ## macOS
 
@@ -1465,6 +1466,7 @@
 - [LicensesPlugin](https://github.com/maiyama18/LicensesPlugin) - Plugin to collect licenses of the library used in your swift package.
 - [OpenAIStreamingCompletions](https://github.com/nate-parrott/openai-streaming-completions-swift) - Streaming text generation using the OpenAI APIs.
 - [Puid](https://github.com/puid/Swift-puid) - Simple, fast, flexible and efficient generation of probably unique identifiers.
+- [TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions.
 
 ## Other (not lib)
 

@@ -116,3 +116,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Bevy YOLECK](https://github.com/idanarye/bevy-yoleck) - Crate for having a game built with the Bevy game engine act as its own level editor.
 - [Warbler Grass](https://github.com/EmiOnGit/warbler_grass) - Bevy plugin for creating 3D grass in your game.
 - [N-body simulation with elastic collisions in Rust/Bevy (2023)](https://bagnalla.github.io/posts/newton_bevy.html) ([Code](https://github.com/bagnalla/newton_bevy))
+- [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines) - Plugin providing a simple line drawing API for bevy.

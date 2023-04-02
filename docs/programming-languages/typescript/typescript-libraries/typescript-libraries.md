@@ -842,6 +842,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Djinject](https://github.com/langium/djinject) - Dependency injection done right.
 - [funfetch](https://github.com/hyperstackjs/funfetch) - Type-safe, fetch based, functional HTTP toolkit for building API clients quickly.
 - [csv42](https://github.com/josdejong/csv42) - Small and fast CSV parser with support for nested JSON.
+- [eventsource-parser](https://github.com/rexxars/eventsource-parser) - Streaming, source-agnostic EventSource/Server-Sent Events parser.
+- [Match](https://github.com/Effect-TS/match) - Functional pattern matching with the full power of Typescript.
 
 ## Links
 

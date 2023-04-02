@@ -13,3 +13,4 @@ title: Array programming
 - [Getting to the Point. Index Sets and Parallelism-Preserving Autodiff for Pointful Array Programming (2021)](https://arxiv.org/abs/2104.05372) ([Tweet](https://twitter.com/apaszke/status/1381941073312952320))
 - [The Array Cast](https://www.arraycast.com/) - Podcast about the array programming languages. ([HN](https://news.ycombinator.com/item?id=27209093))
 - [Functional vs Array Programming (2021)](https://www.youtube.com/watch?v=UogkQ67d0nY)
+- [KlongPy](https://github.com/briangu/klongpy) - Vectorized port of Klong array language.
