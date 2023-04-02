@@ -74,6 +74,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Simple Discord bot to get the active developer badge.
 - [GPT Discord Bot](https://github.com/openai/gpt-discord-bot)
 - [Motorchik](https://github.com/JohnTheCoolingFan/rusted-motorchik) - Delete a number of messages, ban or kick someone and more.
+- [Liquid](https://github.com/MayorMonty/liquid) - Discord bot template, including auto reloading, slash commands, and a reasonable structure.
 
 ## Libraries
 

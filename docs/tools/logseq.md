@@ -48,3 +48,4 @@ title: Logseq
 - [How to use Logseq for learning (2022)](https://twitter.com/rroudt/status/1603375788077686784)
 - [Logseq Awesome Styler](https://github.com/yoyurec/logseq-awesome-styler)
 - [Catppuccin for Logseq](https://github.com/catppuccin/logseq)
+- [Logseq Copliot](https://github.com/EINDEX/logseq-copilot) - Chrome extension that allows you to access your Logseq via your browser.

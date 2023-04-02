@@ -543,3 +543,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Csound](https://csound.com/) - Sound and music computing system. ([Rust bindings](https://github.com/neithanmo/csound-rs))
 - [Orbita](https://orbita.playtronica.com/) - MIDI Turntable Sequencer. ([HN](https://news.ycombinator.com/item?id=35165106))
 - [Open MusicLM](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
+- [Okio](https://okio.ai/) - Open-source generative AI music tool suite that reimagines music.

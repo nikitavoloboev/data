@@ -119,3 +119,4 @@ title: Elm
 - [Elm WebGl Lessons](https://nacmartin.github.io/elm-webgl-lessons/) ([Code](https://github.com/nacmartin/elm-webgl-lessons))
 - [Haskell to Elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types.
 - [Implementing multi-file analysis for linters (2023)](https://jfmengels.net/multi-file-analysis/)
+- [Should I use Elm for production in 2023?](https://www.reddit.com/r/elm/comments/12961nu/should_i_use_elm_for_production_in_2023/)

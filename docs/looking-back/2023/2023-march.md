@@ -2,9 +2,9 @@
 
 ![](https://images.nikiv.dev/broke-again-23.jpeg)
 
-28 next month. Can't afford food or pay tax. Got [fired for 8th time](../../health/depression.md) this month.
+28 next month. Can't afford food. Got [fired for 8th time](../../health/depression.md) this month.
 
-Nothing new under the sun. Except I hoped my life would get better when i was younger. 😹
+Nothing new under the sun. Except I hoped my life would get better when I was younger. 😹
 
 ## Inlang
 
