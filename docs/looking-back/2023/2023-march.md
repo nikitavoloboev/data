@@ -48,7 +48,7 @@ After that fun talk with CEO who told me to reconsider programming as profession
 
 Maybe I should just give up indeed?
 
-There is a certain sense of calmness in accepting that you are who you are. I am not smart or great in any way. The fact that I can't afford food or to pay tax is nothing extraordinary too. Many people are in same situation as I am and are making it by. Why should I complain?
+There is a certain sense of calmness in accepting that you are who you are. I am not smart or great in any way. The fact that I can't afford food or to pay tax is nothing extraordinary too. Many people are in same situation as I am and are making by. Why should I complain?
 
 I will die eventually anyway, why suffer more beyond the suffering that is unavoidable in the moment.
 
@@ -94,7 +94,7 @@ No matter what happens. I think it will be okay.
 
 I came to terms with everyone I know dying at a certain point. Including myself. I am nobody on the grand scheme of things and its my ego who thinks I am important or have value. It's an illusion.
 
-With the way the way GPT models are progressing it seems nothing we do matters as much as we thought unless it directly contributes to reaching AGI anyway. We are on GPT version 4 at this point and each version jump is quite significant. I don't think this will stop.
+With the way GPT models are progressing it seems nothing we do matters as much as we thought unless it directly contributes to reaching AGI anyway. We are on GPT version 4 at this point and each version jump is quite significant. I don't think this will stop.
 
 I try to stay rational amongst whatever happens in life. Sometimes that's hard. The truth is that whilst I am quite lucky in quite a few ways, I am also deeply unlucky. Take even the simplest thing like not being born in USA. By this simple fact alone, you are cutting your future prospects by a lot. Want to do anything with AI or Rockets, good luck with it. You can potentially do it but it will be like climbing the steepest hill you can find. USA has monopoly on financial state of the world and I don't see it changing any time soon. Especially given how it's 2023 now and there is still a massive war happening in Europe. It's sad how decisions of few affect lives of millions. And there's not much you can do about it.
 

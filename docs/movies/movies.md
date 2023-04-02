@@ -210,3 +210,5 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [What's the "Best Picture" of the 21st century? (2023)](https://www.reddit.com/r/flicks/comments/11sergq/whats_the_best_picture_of_the_21st_century/)
 - [What’s the scariest movie you’ve ever seen? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/11v1rl2/whats_the_scariest_movie_youve_ever_seen/)
 - [Why are movies so dark these days? (2023)](https://www.polygon.com/23661749/why-movies-look-dark-cinematography) ([HN](https://news.ycombinator.com/item?id=35385366))
+- [What are movies that blew you away that no one talks about? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/128skc7/what_are_movies_that_blew_you_away_that_no_one/)
+- [Happy movies (2023)](https://www.reddit.com/r/MovieSuggestions/comments/128nm6l/two_of_my_close_friends_died_2_days_back_in_a_car/)
