@@ -953,3 +953,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Marvin](https://github.com/PrefectHQ/marvin) - Build AI functions that use an LLM as a runtime. ([HN](https://news.ycombinator.com/item?id=35366838))
 - [llm-cli](https://github.com/simonw/llm-cli) - Access large language models from the command-line.
 - [xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs.
+- [Five years of GPT progress (2023)](https://finbarr.ca/five-years-of-gpt-progress/)
