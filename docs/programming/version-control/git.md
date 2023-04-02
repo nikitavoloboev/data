@@ -607,6 +607,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Commit](https://github.com/alt-art/commit) - Command-line tool to guide your template commit messages anywhere, anytime.
 - [GIT for Beginners (2022)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
 - [MergeStat](https://github.com/mergestat/mergestat) - Enables SQL queries for data in git repositories (and related sources, such as the GitHub API).
+- [mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases.
 - [NodeGit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [Ask HN: Apps that are built with Git as the back end? (2022)](https://news.ycombinator.com/item?id=33261862)
 - [The Perfect Commit (2022)](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) ([Lobsters](https://lobste.rs/s/tgen6r/perfect_commit)) ([HN](https://news.ycombinator.com/item?id=33387855))

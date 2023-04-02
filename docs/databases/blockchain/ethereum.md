@@ -779,3 +779,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Polaris](https://github.com/berachain/polaris) - Modular implementation of the Ethereum Virtual Machine.
 - [substratum](https://github.com/clabby/substratum) - Opinionated, spec-compliant, optimized version of Optimism's contracts-bedrock package.
 - [Pyrometer](https://github.com/nascentxyz/pyrometer) - Tool for analyzing the security and parameters of a solidity smart contract.
+- [Etherface](https://github.com/volsa/etherface) - Ethereum Signature Database. ([Web](https://www.etherface.io/hash))

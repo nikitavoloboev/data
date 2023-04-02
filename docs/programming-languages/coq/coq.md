@@ -191,3 +191,4 @@ title: Coq
 - [mech.v](https://github.com/jouvelot/mech.v) - Coq/Mathematical Components library for mechanism design.
 - [CoqCP](https://github.com/huynhtrankhanh/CoqCP) - Formally verified competitive programming code.
 - [WiSE](https://github.com/acorrenson/WiSE) - Formally verified symbolic bug-finder for imperative programs.
+- [Free Compiler](https://github.com/FreeProving/free-compiler) - Haskell to Coq compiler that represents effectful programs with the free monad.

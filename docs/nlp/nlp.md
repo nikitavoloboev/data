@@ -951,3 +951,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Vocode](https://docs.vocode.dev/welcome) - Library for voice conversation with LLMs. ([HN](https://news.ycombinator.com/item?id=35358873)) ([Code](https://github.com/vocodedev/vocode-python))
 - [Finetuning LLMs on a Single GPU Using Gradient Accumulation (2023)](https://lightning.ai/pages/blog/gradient-accumulation/)
 - [Marvin](https://github.com/PrefectHQ/marvin) - Build AI functions that use an LLM as a runtime. ([HN](https://news.ycombinator.com/item?id=35366838))
+- [llm-cli](https://github.com/simonw/llm-cli) - Access large language models from the command-line.
+- [xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs.

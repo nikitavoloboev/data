@@ -997,3 +997,4 @@ if *boolArgPtr != false {
 - [betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory.
 - [Go linters configuration, the right version (2023)](https://olegk.dev/go-linters-configuration-the-right-version) ([Lobsters](https://lobste.rs/s/a1gljv/go_linters_configuration_right_version))
 - [What design pattern / technique made your programming in Go easier? (2023)](https://www.reddit.com/r/golang/comments/126y75p/as_a_go_programmer_what_design_pattern/)
+- [The Smallest Go Binary (5KB) (2023)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb) ([Reddit](https://www.reddit.com/r/golang/comments/128mmd4/the_smallest_go_binary_5kb/))
