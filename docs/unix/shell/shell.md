@@ -297,3 +297,4 @@ All active variables can be seen by running `env`.
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 - [Rio](https://github.com/raphamorim/rio) - WGPU based terminal - built with Rust and Tokio.
 - [So you've installed `fzf` – now what?](https://andrew-quinn.me/fzf/) ([HN](https://news.ycombinator.com/item?id=35248098))
+- [Comprehensive Keyboard Handling in Terminals](https://sw.kovidgoyal.net/kitty/keyboard-protocol/) ([HN](https://news.ycombinator.com/item?id=35397994))
