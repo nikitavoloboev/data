@@ -283,3 +283,4 @@ It's also great at giving examples.
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - Attempt to make GPT-4 fully autonomous.
 - [GPTChat](https://github.com/ian-kent/gptchat) - GPT-4 client which gives your favorite AI a memory and tools for self-improvement.
 - [ChatGPT Plugins Collection (unofficial)](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection)
+- [Think of language models like ChatGPT as a “calculator for words” (2023)](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
