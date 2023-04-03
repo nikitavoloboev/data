@@ -397,6 +397,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Zicklag](https://zicklag.github.io/blog/)
 - [Tailscale Blog](https://tailscale.dev/blog)
 - [Richard Geldreich](http://richg42.blogspot.com/)
+- [Maryanne Wachter](https://mclare.blog/)
+- [Jade Lovelace](https://jade.fyi/)
 
 ## Notes
 

@@ -532,3 +532,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Generating Configs with Nix + Cue (2022)](https://blog.jmgilman.com/generate-configs-with-nix-cue/)
 - [Writing a Nix Flake Library (2022)](https://blog.jmgilman.com/writing-a-flake-library/)
 - [Haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix.
+- [Stopping evaluation from blocking in Nix (2023)](https://jade.fyi/blog/nix-evaluation-blocking/)

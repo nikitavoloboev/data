@@ -382,3 +382,4 @@ I am still exploring what the best way to do GraphQL queries from [Solid](../../
 - [10 Things We Learned In Full Stack GraphQL Book Club (2023)](https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le)
 - [The new GraphQL Code Generator Client Preset (2022)](https://graphql.wtf/episodes/67-the-new-graphql-code-generator-client-preset)
 - [Grats](https://github.com/captbaritone/grats) - True code-first GraphQL for TypeScript.
+- [GraphQL: From Excitement to Deception (2023)](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf) ([Lobsters](https://lobste.rs/s/uncy17/graphql_from_excitement_deception))

@@ -680,3 +680,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [social4git](https://github.com/social4git/social4git) - Decentralized social protocol based on git. ([HN](https://news.ycombinator.com/item?id=35342457))
 - [OpenCommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second.
 - [What comes after Git? (2023)](https://twitter.com/mattrickard/status/1640860329898033153)
+- [Modeling Git Internals in Alloy, Part 1: Blobs and Trees (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)

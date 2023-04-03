@@ -958,3 +958,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [PromptPerfect](https://promptperfect.jina.ai/) - Elevate your prompts to perfection.
 - [gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp)
 - [Wove](https://github.com/zckly/wove) - Tool for building long-running workflows with LLMs.
+- [Eight Things to Know about Large Language Models (2023)](https://cims.nyu.edu/~sbowman/eightthings.pdf)
