@@ -85,3 +85,4 @@ title: WebGPU
 - [WebGPU Error Handling best practices](https://toji.dev/webgpu-best-practices/error-handling.html) ([HN](https://news.ycombinator.com/item?id=34933469))
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - Single-file zero-overhead C++ idiomatic wrapper for WebGPU native.
 - [Burrow](https://github.com/toji/burrow) - Toy WebGPU Deferred Renderer.
+- [Tour of WGSL](https://google.github.io/tour-of-wgsl/) ([Code](https://github.com/google/tour-of-wgsl))

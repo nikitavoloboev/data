@@ -22,13 +22,11 @@ As I was writing the RFC and trying to make WASM Git work as a package with Roll
 
 It happens. Life goes on and all. I did learn a lot about git in these 3 weeks.
 
-I actually wrote code daily with only few breaks to walk to/from library where I worked at. Used [ChatGPT](../../machine-learning/chatgpt.md) heavily to debug problems or learn and it was enjoyable.
+[Everything in git is built on top of hashes](https://www.youtube.com/watch?v=ig5E8CcdM9g). Files are hashed. Commits are are hashes of the hashed committed files. Branches are hashes of commits. Watching [this talk](https://www.youtube.com/watch?v=4EOZvow1mk4) helped me understand what cherrypick/reflog did. Will dive into Git more as I try automate some workflows. So far [Sublime Merge](https://www.sublimemerge.com/) has been treating me well.
 
-[Everything in git is built on top of hashes](https://www.youtube.com/watch?v=ig5E8CcdM9g). Files are hashed. Commits are are hashes of the hashed committed files. Branches are hashes of commits.
+The sad part is that I really tried to make it work. I wrote code daily with only few breaks to walk to/from library where I worked at. Used [ChatGPT](../../machine-learning/chatgpt.md) heavily to debug problems or learn and it was enjoyable.
 
-Also [this talk on using Git](https://www.youtube.com/watch?v=4EOZvow1mk4) was amazing.
-
-It was also my first ever opportunity to work on an open source project and actually get paid to do it. I love the team and the vision to build git based apps. And wish them the best.
+It was my first ever opportunity to do paid work on an open source project. I love the team and the vision to build git based apps. And wish them the best.
 
 I love how they use Discord for all communication with nice well purposed channels. The textual checkins were great. I worked in companies that did morning video checkins and thought it was unnecessary. Textual checkins are perfect enough honestly.
 
