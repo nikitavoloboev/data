@@ -100,20 +100,18 @@ Went back to Spain this month too to see my family and 🐶. Love them a lot.
 
 > Rachel, my 15 year old adorable labrador
 
-I once checked how long labradors live on average and I should not have done that. Apparently its only 10-12 years.
+I try spend majority of my time with her as I go on longer walks and listen to podcasts. 15 is past the average age that labradors live and it will be heartbreaking when eventually the day comes that she leaves this world.
 
-Thus I try to spend majority of my time to make life as nice possible for her. We go on longer walks and generally try to have a lot of fun.
-
-I also try to not skimp on quality dog food despite my dire financial situation. I would rather not eat than give lesser quality food for dogs.
+Until then, snuggles, great food and long walks it is. ♥️
 
 ## Watched
 
-I did get to watch [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a-marriage-2021) with my partner and loved it. It reaffirmed to me that most issues in relationships stem from miscommunication or lack of it. Also showed well how being hurt really bad once by someone closes you of to ever be fragile again with that person.
+Watched [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a-marriage-2021) with my partner and loved it. It reaffirmed to me that most issues in relationships stem from miscommunication or lack of it. Also showed well how being hurt really bad once by someone closes you of to ever be fragile again with that person.
 
 ## Listened
 
 ![](https://images.nikiv.dev/listened-march-23.png)
 
-[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) & [Cerca De Ti](https://open.spotify.com/track/4LY7VZhDLlRpsUlBIOZ7Ew) are great little tunes.
+[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) is great little tune.
 
-Most of the songs I listen to now are instrumental.
+Most of the songs I listen to now are instrumental. Very happy with my [Repeat playlist](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo).
