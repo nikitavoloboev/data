@@ -308,6 +308,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What’s top 3 on your wishlist right now? (2023)](https://www.reddit.com/r/PS5/comments/11rwxy8/whats_top_3_on_your_wishlist_right_now/)
 - [What games would you describe as ridiculously good fun? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12597u2/what_games_would_you_describe_as_ridiculously/)
 - [What are your 10/10 games? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/129fpmt/what_are_your_1010_games/)
+- [Best looking game you have ever experienced? (2023)](https://www.reddit.com/r/PS5/comments/12agokm/best_looking_game_you_have_ever_experienced/)
 
 ## Links
 

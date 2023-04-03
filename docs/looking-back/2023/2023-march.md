@@ -114,6 +114,6 @@ I did get to watch [Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a
 
 ![](https://images.nikiv.dev/listened-march-23.png)
 
-[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) is great little tune.
+[We Came And Left](https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe) & [Cerca De Ti](https://open.spotify.com/track/4LY7VZhDLlRpsUlBIOZ7Ew) are great little tunes.
 
 Most of the songs I listen to now are instrumental.
