@@ -399,6 +399,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Richard Geldreich](http://richg42.blogspot.com/)
 - [Maryanne Wachter](https://mclare.blog/)
 - [Jade Lovelace](https://jade.fyi/)
+- [Jakob](https://viralinstruction.com/)
 
 ## Notes
 
