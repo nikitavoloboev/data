@@ -301,3 +301,4 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [TgStorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram.
 - [BotMate](https://botmate.app/) - Build & Host Telegram Bots. ([GitHub](https://github.com/botmate))
 - [Telegram Bot on Cloudflare Workers](https://github.com/cvzi/telegram-bot-cloudflare)
+- [insights-bot](https://github.com/nekomeowww/insights-bot) - Bot works with OpenAI GPT models to provide insights for your Telegram info flows.

@@ -1170,6 +1170,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [scikit-build-core](https://github.com/scikit-build/scikit-build-core) - Next generation Python CMake adaptor and Python API for plugins.
 - [Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 - [demcmc](https://github.com/dstansby/demcmc) - Differential Emission Measure estimation using MCMC methods.
+- [insight](https://github.com/synthesized-io/insight) - Metrics & Monitoring of Datasets.
 
 ## Notes
 

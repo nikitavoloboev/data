@@ -139,3 +139,4 @@ title: Vite
 - [Vite Plugin Filter Replace](https://github.com/ikeq/vite-plugin-filter-replace) - Apply filter-based replacements.
 - [vite-plugin-markdown](https://github.com/hmsk/vite-plugin-markdown) - Plugin enables you to import a Markdown file as various formats on your vite project.
 - [Vite & Vue with Evan You (2023)](https://www.youtube.com/watch?v=q85fNQA071k)
+- [vite-plugin-warmup](https://github.com/bluwy/vite-plugin-warmup) - Warm up Vite's transform cache.

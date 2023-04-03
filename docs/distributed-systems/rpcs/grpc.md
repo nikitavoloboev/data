@@ -149,3 +149,4 @@ title: gRPC
 - [getezy/grpc-client](https://github.com/getezy/grpc-client) - Universal, extendable gRPC/gRPC-Web client library used in ezy.
 - [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Command line interface focusing on simplifying the debugging process of gRPC applications.
 - [grpcmock](https://github.com/nhatthm/grpcmock) - GRPC Test Utilities for Go.
+- [Spaceman](https://github.com/eliaperantoni/spaceman) - Cross-platform gRPC client designed to be pleasant to use and pretty to look at.

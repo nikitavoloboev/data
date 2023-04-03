@@ -1,6 +1,6 @@
 # Authentication
 
-[Oso](https://github.com/osohq/oso), [Clerk](https://clerk.dev/), [SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/), [Logto](https://github.com/logto-io/logto) & [ORY Hydra](https://github.com/ory/hydra) seem neat.
+[Warrant](https://github.com/warrant-dev/warrant), [Oso](https://github.com/osohq/oso), [Clerk](https://clerk.dev/), [SpiceDB](../databases/spicedb.md), [Passkeys](https://developer.apple.com/passkeys/), [Biscuit](https://www.biscuitsec.org/), [Hanko](https://www.hanko.io/), [Logto](https://github.com/logto-io/logto) & [ORY Hydra](https://github.com/ory/hydra) seem neat.
 
 [GoTrue](https://github.com/netlify/gotrue) is nice for generating SWT tokens.
 
@@ -302,3 +302,4 @@
 - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 - [jwtauth](https://github.com/refcell/jwtauth) - Minimal CLI to interact with JWT Auth Tokens.
 - [OAuth Support in Bluesky and AT Protocol (2023)](https://aaronparecki.com/2023/03/09/5/bluesky-and-oauth)
+- [Warrant](https://github.com/warrant-dev/warrant) - Open Source Access Control Service (inspired by Google Zanzibar).

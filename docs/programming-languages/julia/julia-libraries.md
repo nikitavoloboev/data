@@ -858,6 +858,7 @@
 - [IRViz](https://github.com/JuliaComputing/IRViz.jl) - Tools for visualizing Julia IR.
 - [SparseDiffTools.jl](https://github.com/JuliaDiff/SparseDiffTools.jl) - Fast jacobian computation through sparsity exploitation and matrix coloring.
 - [ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl) - Readily pin Julia threads to CPU processors.
+- [Pajarito](https://github.com/jump-dev/Pajarito.jl) - Solver for mixed-integer convex optimization.
 
 ## Links
 

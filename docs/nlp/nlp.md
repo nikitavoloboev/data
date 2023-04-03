@@ -959,3 +959,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp)
 - [Wove](https://github.com/zckly/wove) - Tool for building long-running workflows with LLMs.
 - [Eight Things to Know about Large Language Models (2023)](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+- [MiniChain](https://github.com/srush/MiniChain) - Tiny library for coding with large language models.
+- [Dynamic Web Interface](https://github.com/zckly/dynamic-interface-web) - Dynamically generate UI with Large Language Models.
+- [JARVIS](https://github.com/microsoft/JARVIS) - System to connect LLMs with ML community.
+- [OpenFlamingo](https://github.com/mlfoundations/open_flamingo) - Open-source framework for training large multimodal models.

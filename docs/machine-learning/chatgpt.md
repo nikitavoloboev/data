@@ -285,3 +285,6 @@ It's also great at giving examples.
 - [ChatGPT Plugins Collection (unofficial)](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection)
 - [Think of language models like ChatGPT as a “calculator for words” (2023)](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 - [ChatGPTSwift API](https://github.com/alfianlosari/ChatGPTSwift)
+- [GPTSwift](https://github.com/SwiftedMind/GPTSwift) - OpenAI GPT interface written in Swift.
+- [Glarity](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos.
+- [ChatGPT Survey: Performance on NLP datasets (2023)](https://opensamizdat.com/posts/chatgpt_survey/)

@@ -339,3 +339,4 @@
 - [Juice](https://garden.bradwoods.io/notes/design/juice) ([HN](https://news.ycombinator.com/item?id=35273139))
 - [What currently available game impresses game developers the most and why? (2023)](https://www.reddit.com/r/gamedev/comments/124k70h/what_currently_available_game_impresses_game/)
 - [Rust Gamedev](https://github.com/ChevyRay/rust-gamedev)
+- [Libraries and frameworks for Game Development in Rust](https://github.com/dasifefe/rust-game-development-frameworks)

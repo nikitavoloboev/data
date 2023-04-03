@@ -61,3 +61,4 @@ Wish someone ported [dax](https://github.com/dsherret/dax) to Bun.
 - [Setup Bun](https://github.com/oven-sh/setup-bun) - Download, install, and setup Bun in GitHub Actions.
 - [Bun v0.5.7 (2023)](https://bun.sh/blog/bun-v0.5.7) ([HN](https://news.ycombinator.com/item?id=34931412))
 - [Action Setup Bun](https://github.com/antongolub/action-setup-bun) - Setup GitHub Actions workflow with a specific version of Bun.
+- [Bun & Node.js comparison](https://github.com/privatenumber/compare-bun-node)

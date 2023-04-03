@@ -247,3 +247,4 @@ Trying to build very fast web apps and sites with [Solid](../../programming-lang
 - [Creating custom embeds with an oEmbed API using Cloudflare Workers (2023)](https://jam.dev/blog/creating-custom-embeds-with-a-serverless-oembed-api-using-cloudflare-workers/)
 - [Superflare](https://github.com/jplhomer/superflare) - Full-stack toolkit for Cloudflare Workers. ([Tweet](https://twitter.com/jplhomer/status/1635289512065798146))
 - [process-env](https://github.com/penalosa/process-env) - Example worker that shows how you could implement process.env support using Proxies and Cloudflare's new AsyncLocalStorage.
+- [otel-cf-workers](https://github.com/evanderkoogh/otel-cf-workers) - OpenTelemetry compatible library for instrumenting and exporting traces for Cloudflare Workers.
