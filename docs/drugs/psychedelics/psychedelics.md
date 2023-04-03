@@ -194,3 +194,4 @@ It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/commen
 - [Buy, sell and trade trichocereus cactus](https://www.reddit.com/r/sanpedrocactusforsale/)
 - [PsySpace Library](https://psyspacelibrary.in/) - Community driven project for curated resources and guides about psychedelics. ([Code](https://github.com/dhashdev/psyspacelibrary))
 - [Psychedelic Information Theory](https://psychedelic-information-theory.com/)
+- [Psychs where the hallucinations seem real and you don’t think your tripping](https://www.reddit.com/r/Psychedelics/comments/129yqdi/are_there_psychs_where_the_hallucinations_seem/)

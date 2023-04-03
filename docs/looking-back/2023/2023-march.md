@@ -24,15 +24,15 @@ It happens. Life goes on and all. I did learn a lot about git in these 3 weeks.
 
 I actually wrote code daily with only few breaks to walk to/from library where I worked at. Used [ChatGPT](../../machine-learning/chatgpt.md) heavily to debug problems or learn and it was enjoyable.
 
-In summary, [everything in git is built on top of hashes](https://www.youtube.com/watch?v=ig5E8CcdM9g). Files are hashed. Commits are are hashes of the hashed committed files. Branches are hashes of commits.
+[Everything in git is built on top of hashes](https://www.youtube.com/watch?v=ig5E8CcdM9g). Files are hashed. Commits are are hashes of the hashed committed files. Branches are hashes of commits.
 
 Also [this talk on using Git](https://www.youtube.com/watch?v=4EOZvow1mk4) was amazing.
 
-In summary, I did love working the 3 weeks there. I learned a lot and it was my first ever opportunity to work on an open source project and actually get paid to do it. I love the team and the vision to build git based apps. And wish them the best.
+It was also my first ever opportunity to work on an open source project and actually get paid to do it. I love the team and the vision to build git based apps. And wish them the best.
 
 I love how they use Discord for all communication with nice well purposed channels. The textual checkins were great. I worked in companies that did morning video checkins and thought it was unnecessary. Textual checkins are perfect enough honestly.
 
-Also Inlang is [built using Solid](https://github.com/inlang/inlang) and I will be using quite a few patterns from the code in my own future projects. Specifically the way Solid stores are used as the editor loads and renders. Everything is a signal.
+Also Inlang is [built using Solid](https://github.com/inlang/inlang) and I will be using quite a few patterns from their code in my own future projects. Specifically the way Solid stores are used as the editor loads and renders. Everything is a signal.
 
 If I wasn't as bad of a programmer, it'd be a dreamy place to work at for sure. But alas.
 
