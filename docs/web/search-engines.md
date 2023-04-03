@@ -347,3 +347,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [retriv](https://github.com/AmenRa/retriv) - User-friendly and efficient search engine implemented in Python supporting Sparse, Dense and Hybrid retrieval.
 - [Google Images Search](https://github.com/vadimdemedes/google-images) - Search images using Google Custom Search Engine API.
 - [probly-search](https://github.com/quantleaf/probly-search) - Lightweight full-text search library written in Rust that provides full control over the scoring calculations.
+- [Voy](https://github.com/tantaraio/voy) - WASM vector similarity search written in Rust.

@@ -62,3 +62,4 @@
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - Simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 - [ChatHub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client.
 - [Your website content -> chatbot / Q&A agent](https://github.com/mpaepper/content-chatbot) ([HN](https://news.ycombinator.com/item?id=35252223))
+- [ChatGPT Telegram Bot on Cloudflare Workers](https://github.com/fabe/telegram-chatgpt-worker)

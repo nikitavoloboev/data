@@ -84,3 +84,4 @@ title: WebGPU
 - [An In-Depth Look at WebGPU (2023)](https://unzip.dev/0x00f-webgpu/) ([HN](https://news.ycombinator.com/item?id=34701833))
 - [WebGPU Error Handling best practices](https://toji.dev/webgpu-best-practices/error-handling.html) ([HN](https://news.ycombinator.com/item?id=34933469))
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - Single-file zero-overhead C++ idiomatic wrapper for WebGPU native.
+- [Burrow](https://github.com/toji/burrow) - Toy WebGPU Deferred Renderer.

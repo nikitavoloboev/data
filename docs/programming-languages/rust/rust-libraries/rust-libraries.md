@@ -296,6 +296,7 @@
 - [Scotch](https://github.com/ItsEthra/scotch) - Create WASM plugins easily in Rust.
 - [Stylers](https://github.com/abishekatp/stylers) - Scoped CSS for Rust web frameworks like Leptos.
 - [Ribir](https://github.com/RibirX/Ribir) - Framework for building modern native/wasm cross-platform user interface application.
+- [silly-alloc](https://github.com/surma/silly-alloc) - Collection of very basic allocators. Written with WebAssembly in mind.
 
 ## GUI
 
@@ -2776,6 +2777,10 @@
 - [crunch-rs](https://github.com/ChevyRay/crunch-rs) - Rectangle packer, written in Rust, for cramming lots of rectangles into a larger one.
 - [scoped-trace](https://github.com/jswrenn/scoped-trace) - Capture scoped backtraces.
 - [vmcircbuffer](https://github.com/FutureSDR/vmcircbuffer) - Double Mapped Circular Buffer.
+- [Garde](https://github.com/jprochazk/garde) - Validation library.
+- [speedate](https://github.com/pydantic/speedate) - Fast and simple datetime, date, time and duration parsing.
+- [imstr](https://github.com/xfbs/imstr) - Immutable strings, in Rust.
+- [shell-words](https://github.com/tmiasko/shell-words) - Process command line according to parsing rules of Unix shell.
 
 ## Cargo Plugins
 

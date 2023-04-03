@@ -498,6 +498,7 @@
 - [Rodin](https://github.com/cbritopacheco/rodin) - Modern C++17 finite element method and shape optimization framework.
 - [nsuv](https://github.com/nodesource/nsuv) - C++ wrapper around libuv focused on making callback arg passing safer.
 - [Senders](https://github.com/NVIDIA/stdexec) - Standard Model for Asynchronous Execution in C++.
+- [Corto](https://github.com/cnr-isti-vclab/corto) - Library for compression and decompression meshes and point clouds (C++ and JavaScript).
 
 ## Links
 

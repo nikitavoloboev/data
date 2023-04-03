@@ -287,3 +287,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Building Browser Extensions](https://www.buildingbrowserextensions.com/)
 - [browser-history](https://github.com/browser-history/browser-history) - Simple, zero-dependencies, developer-friendly Python package to retrieve web browser history.
 - [Vimmatic](https://github.com/ueokande/vimmatic) - Accelerates your web browsing with Vim power.
+- [Mullvad Browser](https://mullvad.net/en/browser) ([HN](https://news.ycombinator.com/item?id=35421034)) ([GitHub](https://github.com/mullvad/mullvad-browser))

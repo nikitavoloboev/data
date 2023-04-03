@@ -1136,6 +1136,8 @@
 - [webreflection/promise](https://github.com/WebReflection/promise) - Abortable and Resolvable Promises.
 - [Tiny LRU](https://github.com/avoidwork/tiny-lru) - Least Recently Used cache for Client or Server.
 - [Exif.js](https://github.com/exif-js/exif-js) - JavaScript library for reading EXIF image metadata.
+- [Textify](https://github.com/MAGGIx1404/Textify-js) - Simple scroll based text reveal animation library.
+- [txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 
 ## Links
 

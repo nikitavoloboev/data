@@ -963,3 +963,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Dynamic Web Interface](https://github.com/zckly/dynamic-interface-web) - Dynamically generate UI with Large Language Models.
 - [JARVIS](https://github.com/microsoft/JARVIS) - System to connect LLMs with ML community.
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo) - Open-source framework for training large multimodal models.
+- [LangChain Tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library.
+- [babyagi](https://github.com/yoheinakajima/babyagi) - Python script is an example of an AI-powered task management system.

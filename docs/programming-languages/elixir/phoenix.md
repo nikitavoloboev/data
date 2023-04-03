@@ -151,3 +151,4 @@ title: Phoenix framework
 - [Phoenix 1.7.0 (2023)](https://www.phoenixframework.org/blog/phoenix-1.7-final-released) ([HN](https://news.ycombinator.com/item?id=35036637))
 - [Phoenix Todo List Tutorial](https://github.com/dwyl/phoenix-todo-list-tutorial)
 - [Introducing Live Elements · Fly (2023)](https://fly.io/ruby-dispatch/introducing-live-elements/)
+- [Swift Phoenix Client](https://github.com/davidstump/SwiftPhoenixClient) - Connect your Phoenix and iOS applications through WebSockets.

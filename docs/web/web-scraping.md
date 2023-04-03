@@ -256,3 +256,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [scrapeghost](https://github.com/jamesturk/scrapeghost/) - Library for scraping websites using OpenAI's GPT.
 - [Black Maria](https://github.com/Smyja/blackmaria) - Python package for scraping in Natural language.
 - [Browser AI agent, using GPT-4](https://github.com/m1guelpf/browser-agent)
+- [UltimaScraper](https://github.com/DIGITALCRIMINALS/OnlyFans) - Scrape all the media from an OnlyFans account.

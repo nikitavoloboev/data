@@ -319,3 +319,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [Strong Consistency with Raft and SQLite (2023)](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite) ([HN](https://news.ycombinator.com/item?id=35246228))
 - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw) ([HN](https://news.ycombinator.com/item?id=35317419))
 - [Sqlite Index Blaster](https://github.com/siara-cc/sqlite_blaster) - Library for creating huge Sqlite indexes at breakneck speeds.
+- [Turso: Globally Replicated SQLite with Glauber Costa (2023)](https://www.youtube.com/watch?v=DZbSjMAHxDw)

@@ -846,3 +846,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [SequenceGenius](https://github.com/huytd/sequencegenius) - Generate sequence diagram from your ideas, with helps from AI.
 - [What's the piece of software you use most incorrectly? (2023)](https://twitter.com/t3dotgg/status/1639851680341827586)
 - [Klavier](https://klavier.ai/) - Document Q&A with GPT. ([HN](https://news.ycombinator.com/item?id=35334792))
+- [Hocus](https://github.com/hocus-dev/hocus) - Self-hosted alternative to GitHub Codespaces using Firecracker. ([HN](https://news.ycombinator.com/item?id=35427343))
