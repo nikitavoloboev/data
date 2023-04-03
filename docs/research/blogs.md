@@ -401,6 +401,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Jade Lovelace](https://jade.fyi/)
 - [Jakob](https://viralinstruction.com/)
 - [Daw Liou](https://dawchihliou.github.io/)
+- [Evgeny Roskach](https://genyrosk.github.io/)
 
 ## Notes
 

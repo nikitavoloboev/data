@@ -533,3 +533,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Writing a Nix Flake Library (2022)](https://blog.jmgilman.com/writing-a-flake-library/)
 - [Haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix.
 - [Stopping evaluation from blocking in Nix (2023)](https://jade.fyi/blog/nix-evaluation-blocking/)
+- [Ideal interface for configuring packages with Nix](https://github.com/DavHau/pkgs-modules)
+- [Nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything.

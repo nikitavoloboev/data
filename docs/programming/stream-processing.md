@@ -47,3 +47,4 @@
 - [rspl](https://github.com/aronpaulson/rspl) - Stream processor language.
 - [Readings in Stream Processing](https://github.com/xerial/streamdb-readings)
 - [Serverless Makes Streaming Accessible (2023)](https://buz.dev/blog/serverless-makes-streaming-accessible)
+- [SeaStreamer](https://github.com/SeaQL/sea-streamer) - Stream processing toolkit for Rust.

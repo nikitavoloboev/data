@@ -270,3 +270,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Watercolor](https://github.com/0xOlias/watercolor) - Dev server for artblocks-compatible projects using p5.
 - [Performant 2D strange attractors plotter](https://github.com/piellardj/strange-attractors-webgl)
 - [Tristan's Digital Art](https://github.com/TristanCacqueray/demo-render)
+- [SandTable](https://github.com/dubnom/sandtable) - Create beautiful dynamic art in sand.

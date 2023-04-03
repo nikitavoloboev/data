@@ -607,3 +607,6 @@ for i, _ in enumerate(nums):
 - [ViperGPT: Visual Inference via Python Execution for Reasoning (2023)](https://viper.cs.columbia.edu/) ([Code](https://github.com/cvlab-columbia/viper)) ([HN](https://news.ycombinator.com/item?id=35198998))
 - [Speeding up text processing in Python (is hard) (2023)](https://pythonspeed.com/articles/faster-text-processing/)
 - [Making Python faster with Rust (2023)](https://ohadravid.github.io/posts/2023-03-rusty-python/) ([HN](https://news.ycombinator.com/item?id=35367520))
+- [Learn Python Generators (2023)](https://genyrosk.github.io/posts/2023-03-05-learn-python-generators/)
+- [Learn Python Decorators (2023)](https://genyrosk.github.io/posts/2023-03-05-learn-python-decorators/)
+- [Learn Python Context Managers (2023)](https://genyrosk.github.io/posts/2023-03-05-learn-python-context-managers/)
