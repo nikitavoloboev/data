@@ -965,3 +965,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo) - Open-source framework for training large multimodal models.
 - [LangChain Tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - Python script is an example of an AI-powered task management system.
+- [Implicit Representations of Meaning in Neural Language Models (2023)](https://underline.io/lecture/25456-implicit-representations-of-meaning-in-neural-language-models)
