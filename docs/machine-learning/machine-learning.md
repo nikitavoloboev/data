@@ -1100,3 +1100,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Advances in Foundation Models Course (2023)](https://stanford-cs324.github.io/winter2023/syllabus/)
 - [Hello Deep Learning (2023)](https://berthub.eu/articles/posts/hello-deep-learning/)
 - [AI Alignment Forum](https://www.alignmentforum.org/)
+- [Infinity-Diff: Infinite Resolution Diffusion with Subsampled Mollified States (2023)](https://arxiv.org/abs/2303.18242) ([Code](https://github.com/samb-t/infty-diff))

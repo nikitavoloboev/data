@@ -953,3 +953,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Kubernetes as a Dev Tool (2023)](https://matt-rickard.com/kubernetes-as-a-dev-tool)
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) - Plugin to generate and apply Kubernetes manifests using OpenAI GPT.
 - [Raspbernetes](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD.
+- [Kubespider](https://github.com/jwcesign/kubespider) - Global resource download orchestration system, build your home download center.

@@ -300,3 +300,4 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [Telegram Exporter](https://github.com/Azarattum/TelegramExporter) - Python script for exporting data from your telegram account.
 - [TgStorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram.
 - [BotMate](https://botmate.app/) - Build & Host Telegram Bots. ([GitHub](https://github.com/botmate))
+- [Telegram Bot on Cloudflare Workers](https://github.com/cvzi/telegram-bot-cloudflare)

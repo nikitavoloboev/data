@@ -309,6 +309,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What games would you describe as ridiculously good fun? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12597u2/what_games_would_you_describe_as_ridiculously/)
 - [What are your 10/10 games? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/129fpmt/what_are_your_1010_games/)
 - [Best looking game you have ever experienced? (2023)](https://www.reddit.com/r/PS5/comments/12agokm/best_looking_game_you_have_ever_experienced/)
+- [Games as emotional as The Last of Us (2023)](https://www.reddit.com/r/thelastofus/comments/12aan2o/other_games_to_play_with_a_similar_emotional/)
 
 ## Links
 

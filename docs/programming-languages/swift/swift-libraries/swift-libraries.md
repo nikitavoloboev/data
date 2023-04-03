@@ -1467,6 +1467,7 @@
 - [OpenAIStreamingCompletions](https://github.com/nate-parrott/openai-streaming-completions-swift) - Streaming text generation using the OpenAI APIs.
 - [Puid](https://github.com/puid/Swift-puid) - Simple, fast, flexible and efficient generation of probably unique identifiers.
 - [TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions.
+- [GeoJSON](https://github.com/kiliankoe/GeoJSON) - Swift types for working with GeoJSON data.
 
 ## Other (not lib)
 
