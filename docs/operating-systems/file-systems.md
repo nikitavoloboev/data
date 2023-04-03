@@ -166,3 +166,4 @@
 - [simplefs](https://github.com/sysprog21/simplefs) - Simple file system for Linux kernel.
 - [exFAT in pure Rust](https://github.com/obhq/exfat)
 - [A brief history of APFS (Apple file system) in honour of its fifth birthday (2022)](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/) ([HN](https://news.ycombinator.com/item?id=35335165))
+- [The secret life of fsync (2023)](https://puzpuzpuz.dev/the-secret-life-of-fsync) ([HN](https://news.ycombinator.com/item?id=35399818))
