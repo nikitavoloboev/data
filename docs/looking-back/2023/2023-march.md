@@ -88,6 +88,10 @@ Only thing I personally should start doing though is changing my approach a bit.
 
 Will be using [Solid](../../programming-languages/javascript/js-libraries/solid.md) + [Grafbase](../../networking/graphql/grafbase.md) to build things out. Also [Ark](https://github.com/chakra-ui/ark) with some [Tailwind](../../front-end/css/tailwind-css.md) seems nice for UI.
 
+Now that I am 28 soon, I learned one thing. Hope is a waste of time. Never got me anywhere.
+
+Only thing that matters is decisions/actions taken. Just ruthless prioritization. And in my case from now on being more aggressive with how I share things. Releasing actual paid products, not just open source like I do now.
+
 ## Back to Spain
 
 Went back to Spain this month too to see my family and 🐶. Love them a lot.

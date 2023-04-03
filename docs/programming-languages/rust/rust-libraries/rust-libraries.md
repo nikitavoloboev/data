@@ -3116,3 +3116,4 @@
 - [To async trait or just to trait (2023)](http://smallcultfollowing.com/babysteps/blog/2023/03/12/to-async-trait-or-just-to-trait/) ([Reddit](https://www.reddit.com/r/rust/comments/11pxtql/to_async_trait_or_just_to_trait/))
 - [Rust on Nails](https://rust-on-nails.com/) - Full stack web architecture for Rust. ([Code](https://github.com/purton-tech/rust-on-nails)) ([Lobsters](https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style))
 - [stabby](https://github.com/ZettaScaleLabs/stabby) - Stable ABI for Rust with compact sum-types.
+- [Can We Make Yew Even Faster? (2023)](https://www.youtube.com/watch?v=SIdTRs_AsGs)

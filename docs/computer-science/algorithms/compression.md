@@ -178,3 +178,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [Squash](https://github.com/quixdb/squash) - Compression Abstraction Library.
 - [ARM ASTC Encoder](https://github.com/ARM-software/astc-encoder) - Compressor for the Adaptive Scalable Texture Compression data format.
 - [ICER Image Compression Algorithm](https://github.com/TheRealOrange/icer_compression)
+- [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs (2023)](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html) ([HN](https://news.ycombinator.com/item?id=35420553))
