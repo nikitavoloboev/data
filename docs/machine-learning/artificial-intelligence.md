@@ -214,3 +214,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI (2023)](https://www.youtube.com/watch?v=L_Guz73e6fw)
 - [AI Courses](https://github.com/SkalskiP/courses)
 - [Simulators (2022)](https://generative.ink/posts/simulators/)
+- [How to think about modern AI from first principles](https://twitter.com/dvdkll/status/1637159514897268736)

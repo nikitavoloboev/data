@@ -979,3 +979,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Alpaca Libre](https://github.com/mobarski/alpaca-libre) - Reimplementation of the task generation part from the Alpaca paper.
 - [TextAugment](https://github.com/dsfsi/textaugment) - Text Augmentation Library.
 - [NLP Test: Deliver Safe & Effective Models](https://github.com/JohnSnowLabs/nlptest)
+- [nanoT5](https://github.com/PiotrNawrot/nanoT5) - Fast & Simple repository for pre-training and fine-tuning T5-style models.

@@ -127,3 +127,4 @@ title: Assembly
 - [The Basics of Arm64 Assembly (2023)](https://www.deusinmachina.net/p/the-basics-of-arm64-assembly) ([HN](https://news.ycombinator.com/item?id=35080786))
 - [ASM.](https://github.com/71/asmdot) - Extensible Python framework for building a fast, zero-copy assembler.
 - [scare](https://github.com/netspooky/scare) - Multi-arch assembly REPL and emulator for your command line.
+- [Even if you can't write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html) ([HN](https://news.ycombinator.com/item?id=35435811))
