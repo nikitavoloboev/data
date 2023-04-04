@@ -320,3 +320,4 @@ title: Spatial analysis
 - [Geo Timezones (2023)](https://re-factor.blogspot.com/2023/03/geo-timezones.html)
 - [Open Source Routing Machine](https://github.com/Project-OSRM/osrm-backend) - High performance routing engine written in C++ designed to run on OpenStreetMap data.
 - [A stupidly simple spatial data structure (2022)](https://lisyarus.github.io/blog/programming/2022/08/16/expanding-nd-array.html)
+- [check-geojson](https://github.com/placemark/check-geojson) - Checker for the geojson format. goes beyond a schema, checking semantics and producing character-level warnings.

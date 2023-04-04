@@ -74,6 +74,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [What is germination and how to best do it](https://www.reddit.com/r/microgrowery/comments/6n7xij/germination/)
 - [How long do you veg for and why?](https://www.reddit.com/r/microgrowery/comments/w55cn8/how_long_do_you_veg_for_and_why/)
 - [Beginner's Cannabis Grow Guide](https://www.reddit.com/r/microgrowery/comments/w3qz7/beginners_guide/)
+- [Cannabis Seed Germination — Troubleshooting Guide](https://www.royalqueenseeds.com/blog-cannabis-see-germination-troubleshooting-guide-n101)
 
 ## Images
 

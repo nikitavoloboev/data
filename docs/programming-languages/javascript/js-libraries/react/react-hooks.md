@@ -47,6 +47,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Geschichte](https://github.com/BowlingX/geschichte) - Zustand and immer based hook to manage query parameters.
 - [Use Chat](https://github.com/chatscope/use-chat) - React hook for state management in chat applications.
 - [jotai-urql](https://github.com/jotaijs/jotai-urql) - Jotai integration library for URQL.
+- [Jotai DevTools](https://github.com/jotaijs/jotai-devtools) - Powerful toolkit to enhance your development experience with Jotai.
 
 ## DB
 

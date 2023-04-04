@@ -290,3 +290,5 @@ It's also great at giving examples.
 - [ChatGPT Survey: Performance on NLP datasets (2023)](https://opensamizdat.com/posts/chatgpt_survey/)
 - [ChatGPTUI](https://github.com/dwisiswant0/chatgptui) - ChatGPT with Textual User Interface (TUI) mode written in Go.
 - [Robo-GPT](https://github.com/rokstrnisa/Robo-GPT) - Simple and extensible program that helps you run GPT-4 model autonomously.
+- [Promptr](https://github.com/ferrislucas/promptr) - CLI tool for operating on your codebase using GPT.
+- [ChatGPT Box](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply.

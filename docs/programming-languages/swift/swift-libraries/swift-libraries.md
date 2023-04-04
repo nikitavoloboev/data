@@ -311,6 +311,7 @@
 - [Lexical iOS](https://github.com/facebook/lexical-ios) - Extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.
 - [StackUI](https://github.com/DevYeom/StackUI) - Declarative UIKit Library, like SwiftUI.
 - [BlowinSwiper](https://github.com/horitaku46/BlowinSwiper) - Swipe back from anywhere on the screen.
+- [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 
 ## macOS
 

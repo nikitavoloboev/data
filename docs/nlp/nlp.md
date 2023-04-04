@@ -975,3 +975,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Baize](https://github.com/project-baize/baize) - Open-source chatbot trained with ChatGPT self-chatting data.
 - [e2b](https://github.com/e2b-dev/e2b) - IDE powered by AI agents. Developers describe what they want to build by writing documentation.
 - [RPTQ: Reorder-based Post-training Quantization for Large Language Models (2023)](https://arxiv.org/abs/2304.01089) ([Code](https://github.com/hahnyuan/RPTQ4LLM))
+- [Module: AI-Assisted Code Generation](https://github.com/danfinlay/llm-architect)
+- [Alpaca Libre](https://github.com/mobarski/alpaca-libre) - Reimplementation of the task generation part from the Alpaca paper.
+- [TextAugment](https://github.com/dsfsi/textaugment) - Text Augmentation Library.
+- [NLP Test: Deliver Safe & Effective Models](https://github.com/JohnSnowLabs/nlptest)
