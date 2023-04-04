@@ -536,3 +536,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Ideal interface for configuring packages with Nix](https://github.com/DavHau/pkgs-modules)
 - [Nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything.
 - [POP: Pure Object Prototypes in Nix](https://github.com/divnix/POP)
+- [Nix flake for many AI projects](https://github.com/nixified-ai/flake)

@@ -299,6 +299,7 @@
 - [Beaver](https://github.com/beaver-lodge/beaver) - LLVM/MLIR Toolkit in Elixir and Zig.
 - [LoggerJSON](https://github.com/Nebo15/logger_json) - JSON console backend for Elixir Logger.
 - [Recode](https://github.com/hrzndhrn/recode) - Linter with autocorrection and a refactoring tool.
+- [Haystack](https://github.com/elixir-haystack/haystack) - Simple, extendable full-text search engine written in Elixir.
 
 ## Links
 

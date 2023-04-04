@@ -2126,6 +2126,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [SwissMap](https://github.com/dolthub/swiss) - Hash table adapated from the "SwissTable" family of hash tables from Abseil.
 - [wifi](https://github.com/gokrazy/wifi) - WiFi daemon for connecting to WiFi networks (encrypted or unencrypted) with gokrazy.
 - [ujson](https://github.com/iOliverNguyen/ujson) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
+- [Config Manager](https://github.com/dnitsch/configmanager) - Config and Secret management across multiple implementations in a uniform way.
 
 ## Links
 

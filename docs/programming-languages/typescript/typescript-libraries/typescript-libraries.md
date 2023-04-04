@@ -147,6 +147,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 - [Kelonio](https://github.com/mtkennerly/kelonio) - Performance testing library for Node, written in TypeScript.
 - [mock-utils](https://github.com/mattpocock/mock-utils) - Solves the 'as' problem in TypeScript tests.
+- [AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT4 writes the code to pass it.
 
 ## Auth
 

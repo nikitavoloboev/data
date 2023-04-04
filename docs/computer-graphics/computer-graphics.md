@@ -288,3 +288,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
 - [StratusGFX](https://github.com/KTStephano/StratusGFX) - Open-source real-time 3D rendering engine. ([HN](https://news.ycombinator.com/item?id=35370284))
 - [texturize](https://github.com/texturedesign/texturize) - Generate photo-realistic textures based on source images or (soon) PBR materials.
+- [A Generalized Ray Formulation For Wave-Optics Rendering (2023)](https://ssteinberg.xyz/2023/03/27/rtplt/)

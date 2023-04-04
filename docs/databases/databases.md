@@ -792,3 +792,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [How Binary JSON Works in YDB (2022)](https://laplab.me/posts/how-binary-json-works-in-ydb/)
 - [How Did I Become Database Engineer at 23 (2022)](https://laplab.me/posts/how-did-i-become-database-engineer-at-23/)
 - [Things DBs Don't Do - But Should (2023)](https://www.thenile.dev/blog/things-dbs-dont-do)
+- [A developer-driven approach to building secondary indexes presentation (2023)](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)

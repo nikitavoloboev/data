@@ -356,3 +356,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior (2023)](https://arxiv.org/abs/2303.14184) ([Code](https://github.com/junshutang/Make-It-3D))
 - [Stable diffusion webui colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 - [Token Merging for Stable Diffusion](https://github.com/dbolya/tomesd) - Using nothing but pure python and pytorch, ToMe for SD speeds up diffusion by merging redundant tokens.
+- [DiffusionFastForward](https://github.com/mikonvergence/DiffusionFastForward) - Course on diffusion generative models in a fast forward mode.
