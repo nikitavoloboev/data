@@ -76,6 +76,10 @@ title: OCaml libraries
 - [pp_loc](https://github.com/Armael/pp_loc) - Provides support to additionally quote and highlight the input fragment the input that corresponds to a location (or a set of locations).
 - [ppx_assert](https://github.com/janestreet/ppx_assert) - Assert-like extension nodes that raise useful errors on failure.
 
+## GraphQL
+
+- [ResGraph](https://github.com/zth/resgraph) - Build implementation-first GraphQL servers in ReScript.
+
 ## Graphics
 
 - [Vg](https://github.com/dbuenzli/vg) - Declarative 2D vector graphics for OCaml.
@@ -258,6 +262,7 @@ title: OCaml libraries
 - [OTOML](https://github.com/dmbaturin/otoml) - TOML parsing, manipulation, and pretty-printing library for OCaml.
 - [Bitstring](https://github.com/xguerin/bitstring) - Bitstring matching for OCaml.
 - [Gen](https://github.com/c-cube/gen) - Simple, efficient iterators for OCaml.
+- [Format-doc](https://github.com/Octachron/format-doc) - Alternative interpreter for OCaml format strings.
 
 ## Links
 

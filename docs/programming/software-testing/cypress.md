@@ -71,3 +71,4 @@ title: Cypress
 - [Cypress Plugins Course](https://cypress.tips/courses/cypress-plugins)
 - [Cypress Docs](https://docs.cypress.io/) ([Code](https://github.com/cypress-io/cypress-documentation))
 - [On Migrating from Cypress to Playwright (2022)](https://mtlynch.io/notes/cypress-vs-playwright/)
+- [cypress-playwright](https://github.com/bahmutov/cypress-playwright) - Run Cypress tests using Playwright and Playwright tests using Cypress.

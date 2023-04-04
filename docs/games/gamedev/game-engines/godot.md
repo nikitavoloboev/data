@@ -117,3 +117,4 @@ title: Godot
 - [Godot Goal Oriented Action Planning Example](https://github.com/viniciusgerevini/godot-goap)
 - [Godot 4.0 Released (2023)](https://godotengine.org/article/godot-4-0-sets-sail/) ([HN](https://news.ycombinator.com/item?id=34984494)) ([HN](https://news.ycombinator.com/item?id=34982889))
 - [Godot 4 3D Pixelart Shader Demo](https://github.com/leopeltola/Godot-3d-pixelart-demo)
+- [Beehave](https://github.com/bitbrain/beehave) - Behavior tree AI for Godot Engine.

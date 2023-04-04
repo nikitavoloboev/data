@@ -968,3 +968,10 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Implicit Representations of Meaning in Neural Language Models (2023)](https://underline.io/lecture/25456-implicit-representations-of-meaning-in-neural-language-models)
 - [LLM playground you can run on your laptop](https://github.com/nat/openplayground) ([HN](https://news.ycombinator.com/item?id=35434790))
 - [Introducing Agents in Haystack: Make LLMs resolve complex tasks (2023)](https://haystack.deepset.ai/blog/introducing-haystack-agents) ([HN](https://news.ycombinator.com/item?id=35430188))
+- [Fast Inference Solutions for BLOOM](https://github.com/huggingface/transformers-bloom-inference)
+- [LLM Augmenter](https://github.com/pengbaolin/LLM-Augmenter)
+- [gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - TypeScript library that provides an interface to interact with GPT4All.
+- [PyLLaMACpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all.
+- [Baize](https://github.com/project-baize/baize) - Open-source chatbot trained with ChatGPT self-chatting data.
+- [e2b](https://github.com/e2b-dev/e2b) - IDE powered by AI agents. Developers describe what they want to build by writing documentation.
+- [RPTQ: Reorder-based Post-training Quantization for Large Language Models (2023)](https://arxiv.org/abs/2304.01089) ([Code](https://github.com/hahnyuan/RPTQ4LLM))

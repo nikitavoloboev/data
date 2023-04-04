@@ -1107,3 +1107,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Tree Borrows: A new aliasing model for Rust (2023)](https://perso.crans.org/vanille/treebor/)
 - [Rust Is a Scalable Language (2023)](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
 - [Linear Types One-Pager (2023)](https://blog.yoshuawuyts.com/linear-types-one-pager/)
+- [Rust: Not Just Zoom Zoom Fast (2023)](https://www.nexxel.dev/blog/rust)

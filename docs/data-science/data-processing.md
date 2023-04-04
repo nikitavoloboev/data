@@ -171,3 +171,4 @@
 - [Kaskada](https://github.com/kaskada-ai/kaskada) - Modern, open-source event-processing.
 - [Sidekick](https://github.com/ai-sidekick/sidekick) - Open-source ETL framework to sync data from SaaS tools to vector stores. ([HN](https://news.ycombinator.com/item?id=35375540))
 - [Parquet: more than just "Turbo CSV" (2023)](https://csvbase.com/blog/3)
+- [Pandas 2.0](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0) ([HN](https://news.ycombinator.com/item?id=35423569))

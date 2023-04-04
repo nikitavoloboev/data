@@ -2782,6 +2782,9 @@
 - [speedate](https://github.com/pydantic/speedate) - Fast and simple datetime, date, time and duration parsing.
 - [imstr](https://github.com/xfbs/imstr) - Immutable strings, in Rust.
 - [shell-words](https://github.com/tmiasko/shell-words) - Process command line according to parsing rules of Unix shell.
+- [integer-encoding-rs](https://github.com/dermesser/integer-encoding-rs) - Encoding and decoding of integers to and from bytestring representations.
+- [Alkahest](https://github.com/zakarumych/alkahest) - Fantastic serialization library.
+- [Serde Valid](https://github.com/yassun4dev/serde_valid) - JSON Schema based validation tool using with serde.
 
 ## Cargo Plugins
 

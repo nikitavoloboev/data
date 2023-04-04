@@ -289,3 +289,4 @@ It's also great at giving examples.
 - [Glarity](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos.
 - [ChatGPT Survey: Performance on NLP datasets (2023)](https://opensamizdat.com/posts/chatgpt_survey/)
 - [ChatGPTUI](https://github.com/dwisiswant0/chatgptui) - ChatGPT with Textual User Interface (TUI) mode written in Go.
+- [Robo-GPT](https://github.com/rokstrnisa/Robo-GPT) - Simple and extensible program that helps you run GPT-4 model autonomously.

@@ -28,6 +28,7 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [ESZIP Tools](https://eszip-viewer.deno.dev/) ([Code](https://github.com/denoland/eszip_viewer))
 - [Deno Paste](https://deno-paste.deno.dev/) - Minimal text storage service. ([Code](https://github.com/stephenmelnicki/deno_paste))
 - [Fresh with Hono](https://github.com/yudai-nkt/fresh-with-hono)
+- [Mitwi](https://github.com/Micheal-Earl/mitwi) - Twitter clone built with Deno and Fresh.
 
 ## Notes
 
@@ -378,3 +379,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [deno-clippy](https://github.com/skanehira/deno-clippy) - Cross-platform Deno module for writing and reading clipboard.
 - [Pup](https://github.com/hexagon/pup) - Universal process manager for Deno.
 - [deno-embedder](https://github.com/NfNitLoop/deno-embedder) - Dev tools for embedding static files into Deno as code.
+- [OpenAI API starter kit for Deno](https://github.com/andyjessop/deno-openai)

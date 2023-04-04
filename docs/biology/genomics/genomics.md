@@ -259,3 +259,4 @@ title: Genomics
 - [pafplot](https://github.com/ekg/pafplot) - Base-level sequence alignment rasterizer / dotplot generator.
 - [PanGenie](https://github.com/eblerjana/pangenie) - Short-read genotyper for various types of genetic variants (such as SNPs, indels and structural variants) represented in a pangenome graph.
 - [Lakeview](https://github.com/jzhang-dev/lakeview) - Python 3 library for creating publication-quality IGV-style genomic visualizations.
+- [The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics (2023)](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v2) ([Code](https://github.com/instadeepai/nucleotide-transformer))

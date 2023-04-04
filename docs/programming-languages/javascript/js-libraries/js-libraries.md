@@ -1138,6 +1138,7 @@
 - [Exif.js](https://github.com/exif-js/exif-js) - JavaScript library for reading EXIF image metadata.
 - [Textify](https://github.com/MAGGIx1404/Textify-js) - Simple scroll based text reveal animation library.
 - [txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
+- [json-logic-js](https://github.com/jwadhams/json-logic-js) - Build complex rules, serialize them as JSON, and execute them in JavaScript.
 
 ## Links
 

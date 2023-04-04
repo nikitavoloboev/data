@@ -848,3 +848,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Klavier](https://klavier.ai/) - Document Q&A with GPT. ([HN](https://news.ycombinator.com/item?id=35334792))
 - [Hocus](https://github.com/hocus-dev/hocus) - Self-hosted alternative to GitHub Codespaces using Firecracker. ([HN](https://news.ycombinator.com/item?id=35427343))
 - [Ask HN: What lesser-known accessories do you use with your computer? (2023)](https://news.ycombinator.com/item?id=35429801)
+- [Kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.

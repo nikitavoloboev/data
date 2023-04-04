@@ -416,6 +416,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [gurl](https://github.com/fogfish/gurl) - Combinator library for network I/O.
 - [WebGo](https://github.com/bnkamalesh/webgo) - Minimalistic router for Go to build web applications (server side) with no 3rd party dependencies.
 - [htmlquery](https://github.com/antchfx/htmlquery) - XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
+- [Goravel](https://github.com/goravel/goravel) - Go framework for web artisans. Tribute to Laravel.
 
 ## GraphQL
 
@@ -2124,6 +2125,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [zeropool](https://github.com/colega/zeropool) - Zero-allocation type-safe pool for Go.
 - [SwissMap](https://github.com/dolthub/swiss) - Hash table adapated from the "SwissTable" family of hash tables from Abseil.
 - [wifi](https://github.com/gokrazy/wifi) - WiFi daemon for connecting to WiFi networks (encrypted or unencrypted) with gokrazy.
+- [ujson](https://github.com/iOliverNguyen/ujson) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
 
 ## Links
 
