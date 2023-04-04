@@ -140,3 +140,4 @@ title: Field-programmable gate array
 - [Learn FPGA](https://github.com/bl0x/learn-fpga-amaranth) - Code for Bruno Levy's learn-fpga tutorial written in Amaranth HDL.
 - [Fletcher](https://github.com/abs-tudelft/fletcher) - Framework to integrate FPGA accelerators with Apache Arrow.
 - [SpyDrNet](https://github.com/byuccl/spydrnet) - Flexible framework for analyzing and transforming FPGA netlists.
+- [Pentimento: Data Remanence in Cloud FPGAs (2023)](https://arxiv.org/abs/2303.17881)

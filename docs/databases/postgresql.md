@@ -685,3 +685,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Postgres as a graph database (2023)](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/) ([HN](https://news.ycombinator.com/item?id=35386948))
 - [The Wonders of Postgres Logical Decoding Messages (2023)](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/) ([HN](https://news.ycombinator.com/item?id=35393040))
 - [pg_net](https://github.com/supabase/pg_net) - PostgreSQL extension providing an async networking interface accessible via SQL using a background worker and curl.
+- [Scaling serverless Postgres: How we implement autoscaling (2023)](https://neon.tech/blog/scaling-serverless-postgres)
