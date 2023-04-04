@@ -2785,6 +2785,7 @@
 - [integer-encoding-rs](https://github.com/dermesser/integer-encoding-rs) - Encoding and decoding of integers to and from bytestring representations.
 - [Alkahest](https://github.com/zakarumych/alkahest) - Fantastic serialization library.
 - [Serde Valid](https://github.com/yassun4dev/serde_valid) - JSON Schema based validation tool using with serde.
+- [shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust.
 
 ## Cargo Plugins
 

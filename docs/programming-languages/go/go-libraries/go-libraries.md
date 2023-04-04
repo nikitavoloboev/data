@@ -188,6 +188,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Mocktail](https://github.com/traefik/mocktail) - Naive code generator that creates mock implementation using testify.mock.
 - [ooze](https://github.com/gtramontina/ooze) - Go Mutation Testing.
 - [apitest](https://github.com/steinfletcher/apitest) - Simple and extensible behavioral testing library.
+- [Fake](https://github.com/icrowley/fake) - Fake data generator for Go.
 
 ## Web
 
@@ -417,6 +418,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [WebGo](https://github.com/bnkamalesh/webgo) - Minimalistic router for Go to build web applications (server side) with no 3rd party dependencies.
 - [htmlquery](https://github.com/antchfx/htmlquery) - XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
 - [Goravel](https://github.com/goravel/goravel) - Go framework for web artisans. Tribute to Laravel.
+- [QOR5](https://github.com/qor5/admin) - Go library to build web applications.
 
 ## GraphQL
 
@@ -2127,6 +2129,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [wifi](https://github.com/gokrazy/wifi) - WiFi daemon for connecting to WiFi networks (encrypted or unencrypted) with gokrazy.
 - [ujson](https://github.com/iOliverNguyen/ujson) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
 - [Config Manager](https://github.com/dnitsch/configmanager) - Config and Secret management across multiple implementations in a uniform way.
+- [tint](https://github.com/lmittmann/tint) - slog.Handler that writes tinted logs.
 
 ## Links
 

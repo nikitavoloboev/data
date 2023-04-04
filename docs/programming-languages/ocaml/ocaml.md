@@ -172,3 +172,4 @@ title: OCaml
 - [The Growth of the OCaml Distribution (2023)](https://ocamlpro.com/blog/2023_01_02_ocaml_distribution)
 - [Nix-Powered Development with OCaml (2023)](https://dimitrije.website/posts/2023-03-04-nix-ocaml.html)
 - [Inside OCaml](https://github.com/NickBarnes/inside-ocaml) - Documentation of the OCaml implementation.
+- [Lowcaml](https://github.com/copy/lowcaml) - Experimental OCaml-to-C compiler for type-safe access to SIMD.

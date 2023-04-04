@@ -255,3 +255,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [JSCodemod](https://github.com/NickHeiner/jscodemod) - Codemod runner.
 - [textra](https://github.com/freedmand/textra) - Command-line application to convert images, PDFs, and audio files to text using Apple's APIs.
 - [Curated list of command-line utilities written in Rust](https://github.com/sts10/rust-command-line-utilities)
+- [gat](https://github.com/koki-develop/gat) - cat alternative written in Go.

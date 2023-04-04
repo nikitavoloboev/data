@@ -27,3 +27,4 @@ title: CodeMirror
 - [Solid CoreMirror](https://github.com/riccardoperra/solid-codemirror)
 - [CodeMirror Indentation Markers](https://github.com/replit/codemirror-indentation-markers)
 - [Svelte CodeMirror Editor](https://github.com/touchifyapp/svelte-codemirror-editor)
+- [lang-javascript](https://github.com/codemirror/lang-javascript) - JavaScript language support for the CodeMirror code editor.

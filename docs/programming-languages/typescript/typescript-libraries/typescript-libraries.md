@@ -847,6 +847,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Match](https://github.com/Effect-TS/match) - Functional pattern matching with the full power of Typescript.
 - [tseep](https://github.com/Morglod/tseep) - Fastest event emitter in the world. ([Reddit](https://www.reddit.com/r/javascript/comments/12a3kbl/fastest_event_emitter_library_in_the_world/))
 - [Type-Level RegExp](https://github.com/didavid61202/type-level-regexp) - Parse and match string in TypeScript type system.
+- [json-schema-serializer](https://github.com/streamich/json-schema-serializer) - Fast JSON.stringify with schema.
 
 ## Links
 
@@ -971,3 +972,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Using Zod & TypeScript for more than user input validation (2023)](https://scastiel.dev/zod-typescript) ([Reddit](https://www.reddit.com/r/typescript/comments/11lyaf8/using_zod_typescript_for_more_than_user_input/))
 - [TypeScript's Migration to Modules (2023)](https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules/) ([Reddit](https://www.reddit.com/r/javascript/comments/11n4j48/typescripts_migration_to_modules/))
 - [Are The Types Wrong?](https://arethetypeswrong.github.io/) - Tool for analyzing TypeScript types of npm packages. ([Code](https://github.com/arethetypeswrong/arethetypeswrong.github.io))
+- [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation.

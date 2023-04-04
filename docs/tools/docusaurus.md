@@ -22,3 +22,4 @@ I want to try build a [SolidJS](../programming-languages/javascript/js-libraries
 - [Docusaurus Lyra Search Plugin](https://github.com/LyraSearch/plugin-docusaurus)
 - [Docusaurus Search Local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus.
 - [Tinasaurus](https://github.com/tinacms/tinasaurus) - Docusaurus starter project with TinaCMS. ([HN](https://news.ycombinator.com/item?id=34972964))
+- [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) - Docusaurus v2 plugin to download content from remote sources when it is needed.

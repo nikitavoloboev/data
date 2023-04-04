@@ -292,3 +292,6 @@ It's also great at giving examples.
 - [Robo-GPT](https://github.com/rokstrnisa/Robo-GPT) - Simple and extensible program that helps you run GPT-4 model autonomously.
 - [Promptr](https://github.com/ferrislucas/promptr) - CLI tool for operating on your codebase using GPT.
 - [ChatGPT Box](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply.
+- [ChatIDE](https://github.com/yagil/ChatIDE) - Talk with ChatGPT inside VS Code.
+- [Gish](https://github.com/drorm/gish) - GPT command line.
+- [SlickGPT](https://github.com/ShipBit/slickgpt) - Light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte.
