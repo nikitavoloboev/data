@@ -584,3 +584,4 @@ I try build iOS apps either with [SwiftUI](../../programming-languages/swift/swi
 - [App Store description symbols](https://github.com/sindresorhus/appstore-symbols) - List of symbols usable in an app description.
 - [Collection of Mobile App Store Quirks](https://github.com/tramlinehq/store-quirks)
 - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
+- [Size Matters: An Exploration of Virtual Memory on iOS (2022)](https://alwaysprocessing.blog/2022/02/20/size-matters)

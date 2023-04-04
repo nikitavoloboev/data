@@ -335,7 +335,7 @@
 - [libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11.
 - [xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library.
 - [ohm](https://github.com/csiro-robotics/ohm) - Efficient, extensible occupancy map supporting probabilistic occupancy, normal distribution transforms in CPU and GPU.
-- [Flecs](https://github.com/SanderMertens/flecs) - Fast entity component system (ECS) for C & C++.
+- [Flecs](https://github.com/SanderMertens/flecs) - Fast entity component system (ECS) for C & C++. ([Docs](https://www.flecs.dev/flecs/)) ([HN](https://news.ycombinator.com/item?id=35434374))
 - [Caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation.
 - [SML](https://github.com/boost-ext/sml) - C++14 State Machine Library.
 - [Kokkos](https://github.com/kokkos/kokkos) - Programming model in C++ for writing performance portable applications targeting all major HPC platforms.

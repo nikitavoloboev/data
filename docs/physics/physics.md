@@ -373,3 +373,4 @@ Love [Sean Carroll](https://twitter.com/seanmcarroll)'s [book](https://www.prepo
 - [Modern view on constants in fundamental physics (2023)](https://twitter.com/martinmbauer/status/1627221248160792578)
 - [What the Higgs boson tells us about the universe (2023)](https://www.symmetrymagazine.org/article/what-the-higgs-boson-tells-us-about-the-universe)
 - [Evidence for Dirac flat band superconductivity enabled by quantum geometry (2023)](https://www.nature.com/articles/s41586-022-05576-2) ([HN](https://news.ycombinator.com/item?id=34891407))
+- [Double-slit time diffraction at optical frequencies (2023)](https://www.nature.com/articles/s41567-023-01993-w) ([HN](https://news.ycombinator.com/item?id=35433982))

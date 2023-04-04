@@ -252,3 +252,4 @@ title: Jupyter Notebooks
 - [Streamlit Jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Python package to preview and develop streamlit apps in jupyter notebooks.
 - [JupyterLab MyST Extension](https://github.com/executablebooks/jupyterlab-myst) - Use MyST Markdown directly in Jupyter Lab.
 - [Solara](https://github.com/widgetti/solara) - Build large and Scalable Web Apps for Jupyter and Production.
+- [Ask HN: Fastest way to turn a Jupyter notebook into a website these days? (2023)](https://news.ycombinator.com/item?id=35435253)

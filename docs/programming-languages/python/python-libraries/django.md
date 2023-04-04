@@ -188,3 +188,4 @@ title: Django
 - [Django Cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 - [In Defense of Crusty Old Swiss Army Knives - An Exploration of Django & HTMX (2023)](https://zachgoldstein.engineering/posts/crusty-knives/crusty-knives/) ([Lobsters](https://lobste.rs/s/tu3t09/defense_crusty_old_swiss_army_knives))
 - [Ban 1+N in Django (2023)](https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/) ([HN](https://news.ycombinator.com/item?id=35313565))
+- [Django 4.2 Released (2023)](https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/) ([HN](https://news.ycombinator.com/item?id=35428225))

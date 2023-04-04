@@ -80,3 +80,4 @@
 - [Perfect Hash](https://github.com/tpn/perfecthash) - Performant, parallel, probabilistic, random acyclic-graph, low-latency, perfect hash generation library.
 - [The Smallest Hash Table (2023)](https://orlp.net/blog/worlds-smallest-hash-table/) ([HN](https://news.ycombinator.com/item?id=35037690))
 - [Hash Tables FTW (2023)](http://www.os2museum.com/wp/hash-tables-ftw/)
+- [Optimizing Open Addressing (2023)](https://thenumb.at/Hashtables/) ([Lobsters](https://lobste.rs/s/vnpupo/optimizing_open_addressing))

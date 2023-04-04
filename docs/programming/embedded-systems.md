@@ -2,6 +2,8 @@
 
 [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
 
+[Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/) is nice read.
+
 Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/toitlang/toit).
 
 [Rust on ESP-IDF "Hello, World" template](https://github.com/esp-rs/esp-idf-template) is great starter code.
@@ -255,3 +257,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [The cheapest flash microcontroller you can buy is actually an Arm Cortex-M0+ (2023)](https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/) ([HN](https://news.ycombinator.com/item?id=34660204))
 - [What is in your Embedded CI? (2023)](https://www.reddit.com/r/embedded/comments/118i0hw/what_is_on_your_ci/)
 - [Rust on Espressif chips - 2023 Roadmap](https://mabez.dev/blog/posts/esp-rust-24-02-2023/) ([HN](https://news.ycombinator.com/item?id=34924654))
+- [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)

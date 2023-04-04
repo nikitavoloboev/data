@@ -358,3 +358,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [How to Live Near Your Friends (2023)](https://prigoose.substack.com/p/how-to-live-near-your-friends)
 - [Как у нас с Сашей до сих пор есть то, что у нас есть](https://twitter.com/KantWilde/status/1626282688343601152)
 - [Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ)
+- [What cautionary advice about women would you give to a man who was new to the dating scene? (2023)](https://www.reddit.com/r/AskMen/comments/12am6ij/what_cautionary_advice_about_women_would_you_give/)

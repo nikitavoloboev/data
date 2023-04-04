@@ -169,3 +169,4 @@ In perfect world, it should not be this easy to buy dead animal's meat in superm
 - [Top 10 Best Wet Cat Foods (We Tested Them All) (2022)](https://www.youtube.com/watch?v=dDJLsqWn9Lc)
 - [Ranking Your Dog's FOOD. Nutritionist's Dog Food Guide (2022)](https://www.youtube.com/watch?v=lfhCL4eA8c0)
 - [Собачки Книга](http://www.togdazine.ru/article/1549)
+- [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html) ([HN](https://news.ycombinator.com/item?id=35431466))

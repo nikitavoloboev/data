@@ -535,3 +535,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Stopping evaluation from blocking in Nix (2023)](https://jade.fyi/blog/nix-evaluation-blocking/)
 - [Ideal interface for configuring packages with Nix](https://github.com/DavHau/pkgs-modules)
 - [Nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything.
+- [POP: Pure Object Prototypes in Nix](https://github.com/divnix/POP)

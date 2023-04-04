@@ -945,6 +945,7 @@
 - [darwin-libproc](https://github.com/heim-rs/darwin-libproc) - Rust FFI bindings for macOS libproc.
 - [imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics.
 - [MacBinary](https://github.com/wezm/macbinary) - MacBinary and resource fork reading in Rust.
+- [apple-rs](https://github.com/briantkelley/apple-rs) - Idiomatic Rust bindings for iOS and macOS system libraries and frameworks.
 
 ## Macros
 
