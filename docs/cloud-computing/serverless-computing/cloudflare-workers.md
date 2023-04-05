@@ -34,6 +34,7 @@ Trying to build very fast web apps and sites with [Solid](../../programming-lang
 - [Serverless IMDB API](https://github.com/tuhinpal/imdb-api)
 - [Example Hono API](https://github.com/sergiocarneiro/example-hono-api)
 - [Miniflare Example Project](https://github.com/cloudflare/miniflare-typescript-esbuild-jest)
+- [Pageview Worker](https://github.com/jiacai2050/pageview-worker) - Page View backend based on Cloudflare Workers and KV.
 
 ## Notes
 

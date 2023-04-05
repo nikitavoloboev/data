@@ -3127,3 +3127,4 @@
 - [Rust on Nails](https://rust-on-nails.com/) - Full stack web architecture for Rust. ([Code](https://github.com/purton-tech/rust-on-nails)) ([Lobsters](https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style))
 - [stabby](https://github.com/ZettaScaleLabs/stabby) - Stable ABI for Rust with compact sum-types.
 - [Can We Make Yew Even Faster? (2023)](https://www.youtube.com/watch?v=SIdTRs_AsGs)
+- [A definitive guide to sealed traits in Rust (2023)](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)

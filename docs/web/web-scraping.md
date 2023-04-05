@@ -257,3 +257,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Black Maria](https://github.com/Smyja/blackmaria) - Python package for scraping in Natural language.
 - [Browser AI agent, using GPT-4](https://github.com/m1guelpf/browser-agent)
 - [UltimaScraper](https://github.com/DIGITALCRIMINALS/OnlyFans) - Scrape all the media from an OnlyFans account.
+- [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps (2023)](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)

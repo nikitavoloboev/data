@@ -67,3 +67,4 @@ title: TLA+
 - [Creatively Misusing TLA+ (2023)](https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/)
 - [TLA+ questions, answers, and experiments](https://github.com/Isaac-DeFrain/TLAplusFun)
 - [endive](https://github.com/will62794/endive) - Tool for inferring inductive invariants of protocols specified in TLA+.
+- [The Capability-Tractability Tradeoff (2023)](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)
