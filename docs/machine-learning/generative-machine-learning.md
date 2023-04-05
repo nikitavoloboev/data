@@ -357,3 +357,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Stable diffusion webui colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 - [Token Merging for Stable Diffusion](https://github.com/dbolya/tomesd) - Using nothing but pure python and pytorch, ToMe for SD speeds up diffusion by merging redundant tokens.
 - [DiffusionFastForward](https://github.com/mikonvergence/DiffusionFastForward) - Course on diffusion generative models in a fast forward mode.
+- [Deep Learning Foundations to Stable Diffusion (2023)](https://course.fast.ai/Lessons/part2.html) ([HN](https://news.ycombinator.com/item?id=35449831))

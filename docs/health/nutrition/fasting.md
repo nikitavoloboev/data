@@ -39,3 +39,4 @@ I might try look into fasting again as [Chris Palmer had many nice things to say
 - [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science) ([HN](https://news.ycombinator.com/item?id=31265086))
 - [Time-restricted eating reduces visceral fat and improves metabolic syndrome (2022)](<https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9>) ([HN](https://news.ycombinator.com/item?id=33161267))
 - [Intermittent Fasting Completely Reverses Type 2 Diabetes in Study](https://news.ycombinator.com/item?id=34320811)
+- [Ask HN: Are you still doing intermittent fasting? (2023)](https://news.ycombinator.com/item?id=35442947)

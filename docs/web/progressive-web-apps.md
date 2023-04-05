@@ -36,3 +36,4 @@
 - [Best PWAs out there (2022)](https://twitter.com/hankchizljaw/status/1506724902702927875)
 - [Learn PWA](https://web.dev/learn/pwa/) ([HN](https://news.ycombinator.com/item?id=32675791))
 - [Atri Framework](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster.
+- [PWAs in App Stores (2023)](https://web.dev/pwas-in-app-stores/) ([HN](https://news.ycombinator.com/item?id=35449054))

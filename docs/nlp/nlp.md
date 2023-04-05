@@ -981,3 +981,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [NLP Test: Deliver Safe & Effective Models](https://github.com/JohnSnowLabs/nlptest)
 - [nanoT5](https://github.com/PiotrNawrot/nanoT5) - Fast & Simple repository for pre-training and fine-tuning T5-style models.
 - [llama_infer](https://github.com/zsc/llama_infer) - Inference script for Meta's LLaMA models using Hugging Face wrapper.
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer) ([HN](https://news.ycombinator.com/item?id=35453400))

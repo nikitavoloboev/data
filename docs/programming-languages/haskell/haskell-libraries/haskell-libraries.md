@@ -517,3 +517,4 @@
 - [Core Haskell Libraries Committee](https://github.com/haskell/core-libraries-committee)
 - [hsc2hs](https://github.com/haskell/hsc2hs) - Haskell Pre-processor for C FFI bindings.
 - [Elastically scalable thread pools in Haskell](https://github.com/stevana/elastically-scalable-thread-pools)
+- [Calling Purgatory from Heaven: Binding to Rust in Haskell (2023)](https://well-typed.com/blog/2023/03/purgatory/) ([HN](https://news.ycombinator.com/item?id=35449494))
