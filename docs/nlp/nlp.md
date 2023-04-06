@@ -990,3 +990,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816) ([HN](https://news.ycombinator.com/item?id=35430432))
 - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling (2023)](https://arxiv.org/abs/2304.01373) ([HN](https://news.ycombinator.com/item?id=35449559))
 - [Diffusion language models (2023)](https://sander.ai/2023/01/09/diffusion-language.html)
+- [Tabby](https://github.com/TabbyML/tabby) - Self-Hosted GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=35470915))

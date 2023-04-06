@@ -38,7 +38,7 @@
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
 - [In praise of scatter plots (2019)](https://johnwickerson.wordpress.com/2019/10/22/scatter-plots/)
-- [Perspective](https://github.com/finos/perspective/) - Streaming pivot visualization via WebAssembly.
+- [Perspective](https://github.com/finos/perspective/) - Streaming pivot visualization via WebAssembly. ([Web](https://perspective.finos.org/))
 - [Bar Chart Race, Explained (2019)](https://observablehq.com/@d3/bar-chart-race-explained)
 - [owid-grapher](https://github.com/owid/owid-grapher) - Interactive data visualizations done quickly.
 - [HoloViz](http://holoviz.org/) - High-level tools to simplify visualization in Python.

@@ -89,6 +89,7 @@
 - [Errata](https://github.com/1Computer1/errata) - Extremely customizable error pretty printer that can handle many kinds of error formatting.
 - [type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - Combinators for writing pretty type errors easily.
 - [Oops](https://github.com/haskell-works/oops)
+- [type-errors](https://github.com/isovector/type-errors) - Tools for writing better type errors.
 
 ## Graphics
 

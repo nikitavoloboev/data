@@ -190,3 +190,4 @@
 - [Learning Statistics Shiny App](https://github.com/nrennie/learning-statistics)
 - [The Unreasonable Effectiveness of Conditional Probabilities (2023)](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html) ([HN](https://news.ycombinator.com/item?id=34897701))
 - [Curated Book List - Open Access Textbooks on Statistics](https://franknielsen.github.io/Books/CuratedBookLists.html)
+- [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/) ([Code](https://github.com/mattblackwell/gov2002-book/))

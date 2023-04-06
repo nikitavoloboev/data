@@ -271,3 +271,4 @@ title: Clojure
 - [Clojure Turns 15 panel discussion video (2022)](https://www.youtube.com/watch?v=exSRG-iL74Q) ([HN](https://news.ycombinator.com/item?id=34774498))
 - [Clojure in the Tyre Manufacturing Industry (2021)](https://blogit.michelin.io/clojure-programming/) ([HN](https://news.ycombinator.com/item?id=34801464))
 - [Symbolic Programming with Clojure](https://www.cs.utexas.edu/users/novak/cs378.pdf)
+- [Mindset shifts for Functional Programming (with Clojure) (2023)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)

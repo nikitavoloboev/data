@@ -955,3 +955,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Raspbernetes](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD.
 - [Kubespider](https://github.com/jwcesign/kubespider) - Global resource download orchestration system, build your home download center.
 - [Otterize network mapper](https://github.com/otterize/network-mapper) - Zero-config tool that aims to be lightweight and doesn't require you to adapt anything in your cluster.
+- [Comparing k3s with Kubernetes (2023)](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)

@@ -450,3 +450,4 @@ title: WebAssembly
 - [SpiderLightning](https://github.com/deislabs/spiderlightning) - Set of WIT definitions and associated implementations to enable app developers to work at a faster pace.
 - [Announcing WCGI: WebAsseAmbly and CGI (2023)](https://wasmer.io/posts/announcing-wcgi) ([HN](https://news.ycombinator.com/item?id=35469276))
 - [WebAssembly tail calls (2023)](https://v8.dev/blog/wasm-tail-call)
+- [How WebAssembly is accelerating new web functionality (2023)](https://blog.chromium.org/2023/04/how-webassembly-is-accelerating-new-web.html)

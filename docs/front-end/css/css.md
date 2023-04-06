@@ -641,3 +641,4 @@ all: unset
 - [Stylelint Plugin Defensive CSS](https://github.com/yuschick/stylelint-plugin-defensive-css)
 - [Trigonometric Functions in CSS (2023)](https://web.dev/css-trig-functions/) ([HN](https://news.ycombinator.com/item?id=35336402))
 - [CSS Masking (2023)](https://ishadeed.com/article/css-masking/)
+- [You don't need JavaScript to support theming (2022)](https://www.standel.io/blog/you-dont-need-javascript-to-support-theming)

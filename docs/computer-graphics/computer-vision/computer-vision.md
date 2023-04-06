@@ -1197,3 +1197,4 @@
 - [Detecting and Grounding Multi-Modal Media Manipulation (2023)](https://arxiv.org/abs/2304.02556) ([Code](https://github.com/rshaojimmy/MultiModal-DeepFake))
 - [Better Aligning Text-to-Image Models with Human Preference (2023)](https://arxiv.org/abs/2303.14420) ([Code](https://github.com/tgxs002/align_sd))
 - [Scaling Language-Image Pre-training via Masking (2022)](https://arxiv.org/abs/2212.00794) ([Code](https://github.com/facebookresearch/flip))
+- [From Zero to Hero: Convincing with Extremely Complicated Math (2023)](https://arxiv.org/abs/2304.00399) ([HN](https://github.com/mweiherer/zero2hero))
