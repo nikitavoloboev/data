@@ -545,3 +545,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Open MusicLM](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
 - [Okio](https://okio.ai/) - Open-source generative AI music tool suite that reimagines music.
 - [Dattorro reverb VST plugin](https://github.com/chaosprint/dattorro-vst-rs)
+- [Boing](https://github.com/PaulBatchelor/Boing) - Audio DSP library for musical applications, written in Rust.

@@ -77,3 +77,4 @@ title: Tauri
 - [Tauri Mobile – Develop Mobile Apps with JavaScript and Rust (2023)](https://studioterabyte.nl/en/blog/tauri-mobile-app-development) ([HN](https://news.ycombinator.com/item?id=34979910))
 - [Tauri Lite](https://github.com/bramblex/tauri-lite)
 - [Tauri Awesome RPC](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system for Tauri that leverages WebSockets.
+- [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.

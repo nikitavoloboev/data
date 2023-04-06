@@ -851,6 +851,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Type-Level RegExp](https://github.com/didavid61202/type-level-regexp) - Parse and match string in TypeScript type system.
 - [json-schema-serializer](https://github.com/streamich/json-schema-serializer) - Fast JSON.stringify with schema.
 - [Micro Transform](https://github.com/dkzlv/micro-transform) - Tiny library to transform objects between different states.
+- [Vercel Otel](https://github.com/vercel/otel) - Simple and easy-to-use package that sets up your trace provider and exporter.
+- [Nano Stores Persistent](https://github.com/nanostores/persistent) - Tiny persistent store for Nano Stores state manager.
 
 ## Links
 

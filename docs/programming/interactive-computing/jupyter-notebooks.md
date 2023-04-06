@@ -254,3 +254,5 @@ title: Jupyter Notebooks
 - [Solara](https://github.com/widgetti/solara) - Build large and Scalable Web Apps for Jupyter and Production.
 - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days? (2023)](https://news.ycombinator.com/item?id=35435253)
 - [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) - Jupyter server extension to sync a git repository one-way to a local path.
+- [JupyterLab extension for widgets based on Yjs](https://github.com/davidbrochart/yjs-widgets)
+- [pyobsplot](https://github.com/juba/pyobsplot) - Observable Plot in Jupyter notebooks and Quarto documents.

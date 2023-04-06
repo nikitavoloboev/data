@@ -954,3 +954,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) - Plugin to generate and apply Kubernetes manifests using OpenAI GPT.
 - [Raspbernetes](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD.
 - [Kubespider](https://github.com/jwcesign/kubespider) - Global resource download orchestration system, build your home download center.
+- [Otterize network mapper](https://github.com/otterize/network-mapper) - Zero-config tool that aims to be lightweight and doesn't require you to adapt anything in your cluster.

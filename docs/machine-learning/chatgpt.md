@@ -296,3 +296,5 @@ It's also great at giving examples.
 - [Gish](https://github.com/drorm/gish) - GPT command line.
 - [SlickGPT](https://github.com/ShipBit/slickgpt) - Light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte.
 - [GPT-CLI](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT.
+- [Document + ChatGPT](https://github.com/justjavac/chatdoc)
+- [Increase GPT4's context size by asking it to compress your prompts](https://twitter.com/VictorTaelin/status/1642664054912155648) ([HN](https://news.ycombinator.com/item?id=35452735))

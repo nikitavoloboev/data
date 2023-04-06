@@ -405,6 +405,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Always Processing](https://alwaysprocessing.blog/)
 - [Shoubhit Dash](https://www.nexxel.dev/blog)
 - [Confused bit](https://confusedbit.dev/)
+- [Davis Silverman](https://thedav.is/post/)
 
 ## Notes
 

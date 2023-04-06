@@ -903,7 +903,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-following LLaMA model. ([HN](https://news.ycombinator.com/item?id=35139168)) ([Web](https://crfm.stanford.edu/alpaca/)) ([HN](https://news.ycombinator.com/item?id=35139450)) ([HN](https://news.ycombinator.com/item?id=35136624)) ([Web](https://crfm.stanford.edu/2023/03/13/alpaca.html))
 - [Modern language models refute Chomsky’s approach to language (2023)](https://lingbuzz.net/lingbuzz/007180)
 - [High-throughput Generative Inference of Large Language Models with a Single GPU (2023)](https://arxiv.org/abs/2303.06865) ([HN](https://news.ycombinator.com/item?id=35146081))
-- [LLaMA-rs](https://github.com/setzer22/llama-rs/) - Run LLaMA inference on CPU, with Rust. ([HN](https://news.ycombinator.com/item?id=35171527))
+- [LLaMA-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust. ([HN](https://news.ycombinator.com/item?id=35171527))
 - [llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model. ([HN](https://news.ycombinator.com/item?id=35026902))
 - [RLLaMA](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 - [Self-Instruct: Aligning Language Model with Self Generated Instructions (2022)](https://arxiv.org/abs/2212.10560) ([Code](https://github.com/yizhongw/self-instruct))
@@ -985,3 +985,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [GradientJ](https://gradientj.com/) - Build NLP Applications Faster with LLMs. ([HN](https://news.ycombinator.com/item?id=35445097))
 - [Simply explained: how does GPT work? (2023)](https://confusedbit.dev/posts/how_does_gpt_work/) ([HN](https://news.ycombinator.com/item?id=35466201))
 - [LLM Agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs.
+- [LLMParser](https://github.com/kyang6/llmparser) - Classify and extract structured data with LLMs.
+- [ChatArena](https://github.com/chatarena/chatarena) - Multi-Agent Language Game Environments for LLMs.
+- [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816) ([HN](https://news.ycombinator.com/item?id=35430432))
+- [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling (2023)](https://arxiv.org/abs/2304.01373) ([HN](https://news.ycombinator.com/item?id=35449559))
+- [Diffusion language models (2023)](https://sander.ai/2023/01/09/diffusion-language.html)

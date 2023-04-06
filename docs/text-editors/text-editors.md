@@ -163,6 +163,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [VZCode](https://github.com/vizhub-core/vzcode) - Multiplayer code editor system.
 - [HTML5 Text Editor](https://github.com/GoogleChromeLabs/text-editor) - Text editor build on the Native File System APIs.
 - [Wideboard](https://github.com/aappleby/Wideboard) - Text editor experiment.
+- [monaco-editor/loader](https://github.com/suren-atoyan/monaco-loader) - Utility to easy setup monaco-editor into your browser.
 
 ## Notes
 

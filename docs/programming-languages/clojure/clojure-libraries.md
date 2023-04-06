@@ -307,3 +307,4 @@
 - [Morpheus](https://github.com/benedekfazekas/morpheus) - Generate dependency graphs for variables in Clojure(Script) namespaces.
 - [Loopr: A Loop/Reduction Macro for Clojure (2022)](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure) ([HN](https://news.ycombinator.com/item?id=33887813))
 - [Babashka Babooka: Write Command-Line Clojure](https://github.com/braveclojure/babooka)
+- [deps-try](https://github.com/eval/deps-try) - Quickly try out Clojure dependencies on rebel-readline.

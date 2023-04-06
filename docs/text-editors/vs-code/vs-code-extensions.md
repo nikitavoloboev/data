@@ -22,6 +22,7 @@ Below is a list of extensions I use.
 - [Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) - Enables you to open and search code on Sourcegraph.com easily and efficiently. ([Code](https://github.com/sourcegraph/sourcegraph-vscode)) ([Reddit](https://www.reddit.com/r/vscode/comments/sowwe7/we_made_an_extension_to_search_and_navigate_2/))
 - [XState](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) - Visual editing, autocomplete and typegen for XState. ([Code](https://github.com/statelyai/xstate-vscode))
 - [Open in GitHub](https://github.com/d4rkr00t/vscode-open-in-github) - Provides commands to quickly view the current file on GitHub.
+- [Open in GitHub](https://github.com/fabiospampinato/vscode-open-in-github) - Open the current project or file in github.com.
 
 ## Go
 
@@ -193,6 +194,7 @@ Below is a list of extensions I use.
 - [Edge Developer Tools](https://github.com/microsoft/vscode-edge-devtools) - VSCode extension that allows you to use browser devtools from within the editor.
 - [Terrascan Rego Editor](https://marketplace.visualstudio.com/items?itemName=accuricsinc.terrascan-rego-editor) - Develop custom policies for Terrascan. ([Code](https://github.com/accurics/terrascan-rego-editor))
 - [dprint](https://github.com/dprint/dprint-vscode) - Format code with dprint.
+- [VHDL Language Server/Support](https://github.com/VHDL-LS/rust_hdl_vscode)
 - [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron) - Hierarchal note taking tool that grows as you do.
 - [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Developer collaboration.
 - [Liquid](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid) - Liquid language support for VS Code. ([Code](https://github.com/panoply/vscode-liquid))

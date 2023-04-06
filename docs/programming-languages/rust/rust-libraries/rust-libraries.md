@@ -445,6 +445,7 @@
 - [serde-query](https://github.com/pandaman64/serde-query) - Rust library that lets you write jq-like queries for your data.
 - [cacache](https://github.com/zkat/cacache-rs) - High-performance, concurrent, content-addressable disk cache, optimized for async APIs.
 - [rsonpath](https://github.com/V0ldek/rsonpath) - Fast Rust JSONPath query engine.
+- [adrodb](https://github.com/adrocodes/adrodb) - Super simple key-value store using SQLite.
 
 ## Video
 
@@ -2786,6 +2787,8 @@
 - [Alkahest](https://github.com/zakarumych/alkahest) - Fantastic serialization library.
 - [Serde Valid](https://github.com/yassun4dev/serde_valid) - JSON Schema based validation tool using with serde.
 - [shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust.
+- [Keshvar](https://github.com/pouriya/keshvar) - Collection of all sorts of useful information for every country.
+- [vdb-rs](https://github.com/Traverse-Research/vdb-rs) - Rust native implementation of the VDB file format.
 
 ## Cargo Plugins
 
@@ -3127,4 +3130,4 @@
 - [Rust on Nails](https://rust-on-nails.com/) - Full stack web architecture for Rust. ([Code](https://github.com/purton-tech/rust-on-nails)) ([Lobsters](https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style))
 - [stabby](https://github.com/ZettaScaleLabs/stabby) - Stable ABI for Rust with compact sum-types.
 - [Can We Make Yew Even Faster? (2023)](https://www.youtube.com/watch?v=SIdTRs_AsGs)
-- [A definitive guide to sealed traits in Rust (2023)](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
+- [A definitive guide to sealed traits in Rust (2023)](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/12cj6as/a_definitive_guide_to_sealed_traits_in_rust/))

@@ -1474,6 +1474,7 @@
 - [Puid](https://github.com/puid/Swift-puid) - Simple, fast, flexible and efficient generation of probably unique identifiers.
 - [TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions.
 - [GeoJSON](https://github.com/kiliankoe/GeoJSON) - Swift types for working with GeoJSON data.
+- [Coquille](https://github.com/alexrozanski/Coquille) - Simple, modern Swift class for running shell commands.
 
 ## Other (not lib)
 

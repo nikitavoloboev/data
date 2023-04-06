@@ -499,6 +499,7 @@
 - [nsuv](https://github.com/nodesource/nsuv) - C++ wrapper around libuv focused on making callback arg passing safer.
 - [Senders](https://github.com/NVIDIA/stdexec) - Standard Model for Asynchronous Execution in C++.
 - [Corto](https://github.com/cnr-isti-vclab/corto) - Library for compression and decompression meshes and point clouds (C++ and JavaScript).
+- [mem++](https://github.com/m4drat/memplusplus) - C++ memory allocator with smart GC.
 
 ## Links
 

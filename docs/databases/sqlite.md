@@ -320,3 +320,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw) ([HN](https://news.ycombinator.com/item?id=35317419))
 - [Sqlite Index Blaster](https://github.com/siara-cc/sqlite_blaster) - Library for creating huge Sqlite indexes at breakneck speeds.
 - [Turso: Globally Replicated SQLite with Glauber Costa (2023)](https://www.youtube.com/watch?v=DZbSjMAHxDw)
+- [SQLite Optimizations for Ultra High-Performance (2023)](https://www.powersync.co/blog/sqlite-optimizations-for-ultra-high-performance)

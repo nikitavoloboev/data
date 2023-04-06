@@ -1109,3 +1109,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Linear Types One-Pager (2023)](https://blog.yoshuawuyts.com/linear-types-one-pager/)
 - [Rust: Not Just Zoom Zoom Fast (2023)](https://www.nexxel.dev/blog/rust)
 - [Coq of Rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust by translation to Coq.
+- [Rust's Poor Composability (2023)](https://thedav.is/post/rusts-poor-composability/) ([HN](https://news.ycombinator.com/item?id=35468168))

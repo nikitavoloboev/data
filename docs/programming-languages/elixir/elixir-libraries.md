@@ -301,6 +301,7 @@
 - [Recode](https://github.com/hrzndhrn/recode) - Linter with autocorrection and a refactoring tool.
 - [Haystack](https://github.com/elixir-haystack/haystack) - Simple, extendable full-text search engine written in Elixir.
 - [Hammer](https://github.com/ExHammer/hammer) - Elixir rate-limiter with pluggable backends.
+- [Exonerate](https://github.com/E-xyza/Exonerate) - JSONSchema -> Elixir compiler.
 
 ## Links
 

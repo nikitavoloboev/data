@@ -443,3 +443,4 @@ Want to study [Dexterity](https://github.com/solana-labs/dexterity) code for how
 - [Ponder](https://github.com/0xOlias/ponder) - Framework for blockchain application backends.
 - [Hyperledger Fabric Samples](https://github.com/hyperledger/fabric-samples)
 - [Grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
+- [ink! Playground](https://github.com/paritytech/ink-playground) - Browser Based Playground for editing, sharing & compiling ink! Smart Contracts.

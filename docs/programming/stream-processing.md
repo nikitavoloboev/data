@@ -48,3 +48,4 @@
 - [Readings in Stream Processing](https://github.com/xerial/streamdb-readings)
 - [Serverless Makes Streaming Accessible (2023)](https://buz.dev/blog/serverless-makes-streaming-accessible)
 - [SeaStreamer](https://github.com/SeaQL/sea-streamer) - Stream processing toolkit for Rust.
+- [Arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine written in Rust.

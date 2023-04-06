@@ -640,6 +640,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [GreptimeDB Go Client](https://github.com/GreptimeTeam/greptimedb-client-go)
 - [go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using Wazero.
 - [migrator](https://github.com/lopezator/migrator) - Dead simple Go database migration library.
+- [go-tinylfu](https://github.com/dgryski/go-tinylfu) - TinyLFU cache admission policy.
 
 ## ML
 
@@ -2130,6 +2131,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [ujson](https://github.com/iOliverNguyen/ujson) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
 - [Config Manager](https://github.com/dnitsch/configmanager) - Config and Secret management across multiple implementations in a uniform way.
 - [tint](https://github.com/lmittmann/tint) - slog.Handler that writes tinted logs.
+- [Editorconfig Core Go](https://github.com/editorconfig/editorconfig-core-go)
 
 ## Links
 

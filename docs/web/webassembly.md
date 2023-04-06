@@ -448,3 +448,5 @@ title: WebAssembly
 - [The Tug-of-War over Server-Side WebAssembly (2023)](https://digest.browsertech.com/archive/browsertech-digest-the-webassembly-rift/) ([HN](https://news.ycombinator.com/item?id=35288059))
 - [wasmbin](https://github.com/GoogleChromeLabs/wasmbin) - Self-generating WebAssembly parser & serializer in Rust.
 - [SpiderLightning](https://github.com/deislabs/spiderlightning) - Set of WIT definitions and associated implementations to enable app developers to work at a faster pace.
+- [Announcing WCGI: WebAsseAmbly and CGI (2023)](https://wasmer.io/posts/announcing-wcgi) ([HN](https://news.ycombinator.com/item?id=35469276))
+- [WebAssembly tail calls (2023)](https://v8.dev/blog/wasm-tail-call)

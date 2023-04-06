@@ -114,3 +114,4 @@ title: DynamoDB
 - [The What, Why, and When of Single-Table Design with DynamoDB (2020)](https://www.alexdebrie.com/posts/dynamodb-single-table/) ([Tweet](https://twitter.com/thealexkates/status/1630960235199229954?s=20))
 - [DynamoDB solves a whole class of problems](https://twitter.com/thealexkates/status/1630634315909398528?s=20)
 - [ElectroDB](https://github.com/tywalch/electrodb) - DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
+- [Moving to DynamoDB, A Single Table at a Time (2023)](https://blog.textreme.app/posts/2023/03/13/moving-to-dynamodb/)

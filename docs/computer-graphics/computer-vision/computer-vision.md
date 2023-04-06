@@ -1195,3 +1195,5 @@
 - [GVision](https://github.com/GONZOsint/gvision) - Reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images.
 - [Segment Anything (2023)](https://ai.facebook.com/research/publications/segment-anything/) ([Code](https://github.com/facebookresearch/segment-anything))
 - [Detecting and Grounding Multi-Modal Media Manipulation (2023)](https://arxiv.org/abs/2304.02556) ([Code](https://github.com/rshaojimmy/MultiModal-DeepFake))
+- [Better Aligning Text-to-Image Models with Human Preference (2023)](https://arxiv.org/abs/2303.14420) ([Code](https://github.com/tgxs002/align_sd))
+- [Scaling Language-Image Pre-training via Masking (2022)](https://arxiv.org/abs/2212.00794) ([Code](https://github.com/facebookresearch/flip))
