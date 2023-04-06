@@ -328,3 +328,4 @@
 - [Demystifying bitwise operations, a gentle C tutorial (2023)](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) ([HN](https://news.ycombinator.com/item?id=35010447))
 - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c) ([HN](https://news.ycombinator.com/item?id=35381968))
 - [Ask HN: If Unix is written in C, how did they run C before Unix? (2023)](https://news.ycombinator.com/item?id=35441886)
+- [Using mmap to make LLaMA load faster (2023)](https://justine.lol/mmap/) ([Lobsters](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster)) ([HN](https://news.ycombinator.com/item?id=35455930))

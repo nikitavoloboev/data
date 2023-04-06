@@ -610,3 +610,4 @@ for i, _ in enumerate(nums):
 - [Learn Python Generators (2023)](https://genyrosk.github.io/posts/2023-03-05-learn-python-generators/)
 - [Learn Python Decorators (2023)](https://genyrosk.github.io/posts/2023-03-05-learn-python-decorators/)
 - [Learn Python Context Managers (2023)](https://genyrosk.github.io/posts/2023-03-05-learn-python-context-managers/)
+- [The different uses of Python type hints (2023)](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/) ([Lobsters](https://lobste.rs/s/2beggz/different_uses_python_type_hints))

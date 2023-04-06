@@ -88,3 +88,4 @@ title: Automata theory
 - [Cellular Automata: A Discrete Universe Book](https://www.goodreads.com/book/show/3804153-cellular-automata)
 - [2D Liquid Simulator with Cellular Automaton (2017)](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/) ([HN](https://news.ycombinator.com/item?id=34946877))
 - [Variations on Conway's Game of Life, running on GPU](https://github.com/piellardj/game-of-life-webgl)
+- [Grid World](https://alex.miller.garden/grid-world/) ([HN](https://news.ycombinator.com/item?id=35455770))

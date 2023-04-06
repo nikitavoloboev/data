@@ -152,7 +152,7 @@
 - [Tekitoi](https://github.com/jdrouet/tekitoi) - Lightweight, opensource and simple to use alternative to Auth0 and Keycloak.
 - [SAML is insecure by design (2021)](https://joonas.fi/2021/08/saml-is-insecure-by-design/) ([HN](https://news.ycombinator.com/item?id=28064835))
 - [ZITADEL](https://zitadel.com/) - Best of Auth0 and Keycloak combined. Built for the serverless era. ([Code](https://github.com/zitadel/zitadel))
-- [Biscuit](https://github.com/CleverCloud/biscuit) - Delegated, decentralized, capabilities based authorization token.
+- [Biscuit](https://github.com/CleverCloud/biscuit) - Delegated, decentralized, capabilities based authorization token. ([3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)) ([HN](https://news.ycombinator.com/item?id=35464000))
 - [How does Google Authenticator work? (2021)](https://prezu.ca/post/2021-07-30-totp-1/) ([HN](https://news.ycombinator.com/item?id=28324626))
 - [Ethereum Single Sign-On (2021)](https://twitter.com/parkerhendo/status/1435033726136700934)
 - [Why Authorization is Hard (2021)](https://www.osohq.com/post/why-authorization-is-hard) ([HN](https://news.ycombinator.com/item?id=28543457))
@@ -303,3 +303,4 @@
 - [jwtauth](https://github.com/refcell/jwtauth) - Minimal CLI to interact with JWT Auth Tokens.
 - [OAuth Support in Bluesky and AT Protocol (2023)](https://aaronparecki.com/2023/03/09/5/bluesky-and-oauth)
 - [Warrant](https://github.com/warrant-dev/warrant) - Open Source Access Control Service (inspired by Google Zanzibar).
+- [Securing Your Go Application (2023)](https://www.reddit.com/r/golang/comments/12bbahn/securing_your_golang_application_unleashing_the/)

@@ -186,3 +186,4 @@ title: Speech recognition
 - [Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 - [TriAAN-VC: Triple Adaptive Attention Normalization for any-to-any Voice Conversion (2023)](https://github.com/winddori2002/TriAAN-VC)
 - [Universal Speech Model (2023)](https://sites.research.google/usm/) ([HN](https://news.ycombinator.com/item?id=35365399))
+- [Ermine.ai](https://www.ermine.ai/) - Local Audio Transcription. ([Code](https://github.com/vishnumenon/ermine-ai)) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/12cl8su/record_and_transcribe_speech_100_clientsideprivate/)) ([HN](https://news.ycombinator.com/item?id=35441337))

@@ -180,3 +180,4 @@
 - [Best questions to ask while being interviewed](https://www.reddit.com/r/ExperiencedDevs/comments/y41n98/best_questions_to_ask_while_being_interviewed/)
 - [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
 - [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview) ([HN](https://news.ycombinator.com/item?id=34999464))
+- [Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah) ([HN](https://news.ycombinator.com/item?id=35447288))

@@ -172,3 +172,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Effortlessly Build Machine Learning Apps with Hugging Face’s Docker Spaces (2023)](https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/)
 - [Navi](https://github.com/twitter/the-algorithm/tree/main/navi/navi) - High-Performance Machine Learning Serving Server in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/127xwu1/twitter_open_sources_navi_highperformance_machine/))
 - [Dreamlook.ai](https://dreamlook.ai/) - Train models in minutes. Scale up to 1000s of runs per day.
+- [Flow Coder](https://waveworks.dk/flow-coder/) - Compile ML models into dependency-free source code for easy deployment.

@@ -86,3 +86,4 @@ title: WebGPU
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - Single-file zero-overhead C++ idiomatic wrapper for WebGPU native.
 - [Burrow](https://github.com/toji/burrow) - Toy WebGPU Deferred Renderer.
 - [Tour of WGSL](https://google.github.io/tour-of-wgsl/) ([Code](https://github.com/google/tour-of-wgsl))
+- [WebGPU is available in Chrome 113 (2023)](https://developer.chrome.com/blog/webgpu-release/) ([HN](https://news.ycombinator.com/item?id=35465729))

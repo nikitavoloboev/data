@@ -344,3 +344,4 @@
 - [Toy neural network in C/Lua](https://github.com/cloudwu/neuralnet)
 - [CHGNet: Pretrained universal neural network potential for charge-informed atomistic modeling (2023)](https://arxiv.org/abs/2302.14231) ([Code](https://github.com/CederGroupHub/chgnet))
 - [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) - Tools for understanding how transformer predictions are built layer-by-layer.
+- [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html) ([HN](https://news.ycombinator.com/item?id=35459031))

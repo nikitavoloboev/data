@@ -412,6 +412,7 @@
 - [After four years of SMR storage, here's what we love—and what comes next (2023)](https://dropbox.tech/infrastructure/four-years-of-smr-storage-what-we-love-and-whats-next)
 - [Building Big Systems with Remote Hardware Teams (2023)](https://oxide.computer/blog/building-big-systems-with-remote-hardware-teams)
 - [True 3D is much tougher than 2.5D (2023)](https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/) ([HN](https://news.ycombinator.com/item?id=35273166))
-- [A Brief History of Semiconductor Packaging (2023)](https://www.youtube.com/watch?v=nNpuiJitKwk)
+- [A Brief History of Semiconductor Packaging (2023)](https://www.youtube.com/watch?v=nNpuiJitKwk) ([HN](https://news.ycombinator.com/item?id=35427216))
 - [The Future of the Transistor (2023)](https://www.semianalysis.com/p/the-future-of-the-transistor) ([HN](https://news.ycombinator.com/item?id=35436886))
 - [TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings (2023)](https://arxiv.org/abs/2304.01433) ([HN](https://news.ycombinator.com/item?id=35447914))
+- [Ending an Ugly Chapter in Chip Design (2023)](https://spectrum.ieee.org/chip-design-controversy) ([HN](https://news.ycombinator.com/item?id=35441759))

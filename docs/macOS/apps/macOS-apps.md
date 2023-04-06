@@ -239,7 +239,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Sleeve](https://replay.software/sleeve) - Now playing on your Desktop. ([Tweet](https://twitter.com/brian_lovin/status/1529866374654283781))
 - [Graphing Calculator 4](https://apps.apple.com/nl/app/graphing-calculator-4/id522175477)
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
-- [Homerow](https://www.homerow.app/) - Navigate macOS like a pro.
+- [Homerow](https://www.homerow.app/) - Navigate macOS like a pro. ([HN](https://news.ycombinator.com/item?id=35451046))
 - [rcmd](https://lowtechguys.com/rcmd/) - Reimagined Cmd-Tab app switcher.
 - [Marta](https://marta.sh/) - File Manager for macOS.
 - [Superlayer](https://apps.apple.com/app/id1601796450) - Widget Engine for macOS. ([Docs](https://github.com/martinlexow/superlayer-support))

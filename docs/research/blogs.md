@@ -404,6 +404,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Evgeny Roskach](https://genyrosk.github.io/)
 - [Always Processing](https://alwaysprocessing.blog/)
 - [Shoubhit Dash](https://www.nexxel.dev/blog)
+- [Confused bit](https://confusedbit.dev/)
 
 ## Notes
 

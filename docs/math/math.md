@@ -61,7 +61,7 @@
 - [Cambridge math notes](https://dec41.user.srcf.net/notes/)
 - [Mathematics as thought](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
 - [Penrose](https://github.com/penrose/penrose) - Language-based platform for creating beautiful mathematical diagrams. ([HN](https://news.ycombinator.com/item?id=23387687)) ([Web](http://penrose.ink/siggraph20)) ([HN 2](https://news.ycombinator.com/item?id=23430282)) ([Lobsters](https://lobste.rs/s/e1m7rn/penrose_from_mathematical_notation)) ([Paper](https://penrose.ink/siggraph20.html)) ([HN](https://news.ycombinator.com/item?id=29674986))
-- [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
+- [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath) ([HN](https://news.ycombinator.com/item?id=35459488))
 - [A Programmer's Introduction to Mathematics book](https://pimbook.org/) ([Article](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)) ([HN](https://news.ycombinator.com/item?id=28197103))
 - [How to learn Math and Physics (2018)](http://math.ucr.edu/home/baez/books.html)
 - [Ask HN: How to self-study mathematics from the undergrad through graduate level? (2019)](https://news.ycombinator.com/item?id=18939913)
