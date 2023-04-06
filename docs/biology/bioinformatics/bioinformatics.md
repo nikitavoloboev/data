@@ -292,3 +292,4 @@ title: Bioinformatics
 - [HTSlib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats.
 - [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
 - [List of molecular design using Generative AI and Deep Learning](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)
+- [Molfeat](https://github.com/datamol-io/molfeat) - Hub for all your molecular featurizers.

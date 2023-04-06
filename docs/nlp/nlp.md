@@ -983,4 +983,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [llama_infer](https://github.com/zsc/llama_infer) - Inference script for Meta's LLaMA models using Hugging Face wrapper.
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer) ([HN](https://news.ycombinator.com/item?id=35453400))
 - [GradientJ](https://gradientj.com/) - Build NLP Applications Faster with LLMs. ([HN](https://news.ycombinator.com/item?id=35445097))
-- [Simply explained: how does GPT work? (2023)](https://confusedbit.dev/posts/how_does_gpt_work/)
+- [Simply explained: how does GPT work? (2023)](https://confusedbit.dev/posts/how_does_gpt_work/) ([HN](https://news.ycombinator.com/item?id=35466201))
+- [LLM Agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs.

@@ -688,6 +688,7 @@
 - [SwiftDocTest](https://github.com/schwa/SwiftDocTest) - Experimental tool for testing Swift example code in documentation.
 - [PreviewSnapshots](https://github.com/doordash-oss/swiftui-preview-snapshots) - Library for sharing view configurations between SwiftUI previews and SnapshotTesting snapshot tests.
 - [Swift Package Tests](https://github.com/apple/swift-integration-tests) - Automated tests for validating the generated Swift snapshots behave correctly.
+- [Swift Power Assert](https://github.com/kishikawakatsumi/swift-power-assert)
 
 ## API
 
@@ -761,6 +762,10 @@
 - [NumberKit](https://github.com/objecthub/swift-numberkit) - Advanced numeric data types for Swift 5, including BigInt, Rational, and Complex numbers.
 - [FirebladeMath](https://github.com/fireblade-engine/math) - Dependency free, lightweight, fast math library for 2D and 3D vectors, quaternions and matrices in Swift with (optional) SIMD support.
 - [Euler](https://github.com/arguiot/Euler) - Computational framework written in Swift.
+
+## Linux
+
+- [AppKid](https://github.com/smumriak/AppKid) - UI toolkit for Linux in Swift. Powered by Vulkan. Using cool Swift features, especially result builders.
 
 ## Other
 

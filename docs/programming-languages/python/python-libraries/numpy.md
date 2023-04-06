@@ -47,3 +47,4 @@ title: NumPy
 - [Concrete Numpy](https://github.com/zama-ai/concrete-numpy) - Open-source library which simplifies the use of fully homomorphic encryption.
 - [Computing Distance Matrices with NumPy (2021)](https://jaykmody.com/blog/distance-matrices-with-numpy/)
 - [Shape typing numpy with pyright and variadic generics (2023)](https://taoa.io/posts/Shape-typing-numpy-with-pyright-and-variadic-generics)
+- [NapkinML](https://github.com/eriklindernoren/NapkinML) - Tiny lib with pocket-sized implementations of machine learning models in NumPy, most of which will fit in a tweet.

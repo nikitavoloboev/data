@@ -168,3 +168,4 @@
 - [A brief history of APFS (Apple file system) in honour of its fifth birthday (2022)](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/) ([HN](https://news.ycombinator.com/item?id=35335165))
 - [The secret life of fsync (2023)](https://puzpuzpuz.dev/the-secret-life-of-fsync) ([HN](https://news.ycombinator.com/item?id=35399818))
 - [Native File System adapter](https://github.com/jimmywarting/native-file-system-adapter)
+- [go-kvfile](https://github.com/paralin/go-kvfile) - File format for storing a compressed key/value store to a file as an archive.

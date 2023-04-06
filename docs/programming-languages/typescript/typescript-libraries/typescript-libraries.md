@@ -120,6 +120,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Navigation](https://github.com/virtualstate/navigation) - Native JavaScript navigation implementation.
 - [Xania View](https://github.com/xania/view) - Fastest JavaScript view library for building user interfaces.
 - [Cample.js](https://github.com/Camplejs/Cample.js) - Typed JS web framework for creating site UI without VDOM. ([HN](https://news.ycombinator.com/item?id=34738792))
+- [kaito-http](https://github.com/kaito-http/kaito) - Functional HTTP Framework for TypeScript.
 
 ## GraphQL
 
@@ -849,6 +850,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tseep](https://github.com/Morglod/tseep) - Fastest event emitter in the world. ([Reddit](https://www.reddit.com/r/javascript/comments/12a3kbl/fastest_event_emitter_library_in_the_world/))
 - [Type-Level RegExp](https://github.com/didavid61202/type-level-regexp) - Parse and match string in TypeScript type system.
 - [json-schema-serializer](https://github.com/streamich/json-schema-serializer) - Fast JSON.stringify with schema.
+- [Micro Transform](https://github.com/dkzlv/micro-transform) - Tiny library to transform objects between different states.
 
 ## Links
 
@@ -974,3 +976,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript's Migration to Modules (2023)](https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules/) ([Reddit](https://www.reddit.com/r/javascript/comments/11n4j48/typescripts_migration_to_modules/))
 - [Are The Types Wrong?](https://arethetypeswrong.github.io/) - Tool for analyzing TypeScript types of npm packages. ([Code](https://github.com/arethetypeswrong/arethetypeswrong.github.io))
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation.
+- [Magicast](https://github.com/unjs/magicast) - Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.

@@ -377,4 +377,4 @@ title: Svelte
 - [What's new in Svelte: April 2023](https://svelte.substack.com/p/whats-new-in-svelte-april-2023)
 - [Svelte JS Newsletter](https://svelte.substack.com/)
 - [Radix Svelte](https://github.com/TGlide/radix-svelte)
-- [Make your website editable](https://editable.website/) - SvelteKit template for building CMS-free editable websites. ([HN](https://news.ycombinator.com/item?id=35456083))
+- [Make your website editable](https://editable.website/) - SvelteKit template for building CMS-free editable websites. ([HN](https://news.ycombinator.com/item?id=35456083)) ([Code](https://github.com/michael/editable-website))

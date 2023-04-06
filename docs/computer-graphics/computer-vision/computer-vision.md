@@ -1191,3 +1191,7 @@
 - [Pointcept](https://github.com/Pointcept/Pointcept) - Powerful and flexible codebase for point cloud perception research.
 - [Conditional Image-to-Video Generation with Latent Flow Diffusion Models (2023)](https://arxiv.org/abs/2303.13744) ([Code](https://github.com/nihaomiao/CVPR23_LFDM))
 - [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model (2023)](https://arxiv.org/abs/2304.01116) ([Code](https://github.com/mingyuan-zhang/ReMoDiffuse))
+- [GlueStick](https://github.com/cvg/GlueStick) - Joint Deep Matcher for Points and Lines.
+- [GVision](https://github.com/GONZOsint/gvision) - Reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images.
+- [Segment Anything (2023)](https://ai.facebook.com/research/publications/segment-anything/) ([Code](https://github.com/facebookresearch/segment-anything))
+- [Detecting and Grounding Multi-Modal Media Manipulation (2023)](https://arxiv.org/abs/2304.02556) ([Code](https://github.com/rshaojimmy/MultiModal-DeepFake))

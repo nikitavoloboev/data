@@ -295,3 +295,4 @@ It's also great at giving examples.
 - [ChatIDE](https://github.com/yagil/ChatIDE) - Talk with ChatGPT inside VS Code.
 - [Gish](https://github.com/drorm/gish) - GPT command line.
 - [SlickGPT](https://github.com/ShipBit/slickgpt) - Light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte.
+- [GPT-CLI](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT.

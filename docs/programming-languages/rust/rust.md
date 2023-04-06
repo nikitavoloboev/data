@@ -1108,3 +1108,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust Is a Scalable Language (2023)](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
 - [Linear Types One-Pager (2023)](https://blog.yoshuawuyts.com/linear-types-one-pager/)
 - [Rust: Not Just Zoom Zoom Fast (2023)](https://www.nexxel.dev/blog/rust)
+- [Coq of Rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust by translation to Coq.

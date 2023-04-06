@@ -302,3 +302,4 @@
 - [Writing JIT Compiler on the Plane (2022)](https://laplab.me/posts/writing-jit-compiler-on-the-plane/)
 - [Stanford CS143 Intro to Compilers course notes (2023)](https://compiled.bearblog.dev/stanford-cs143-intro-to-compilers-course-notes/)
 - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169) ([HN](https://news.ycombinator.com/item?id=35285518))
+- [cwhy](https://github.com/plasma-umass/cwhy) - Explains and suggest fixes for C/C++/Rust compiler error messages.

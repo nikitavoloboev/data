@@ -192,3 +192,4 @@ title: Coq
 - [CoqCP](https://github.com/huynhtrankhanh/CoqCP) - Formally verified competitive programming code.
 - [WiSE](https://github.com/acorrenson/WiSE) - Formally verified symbolic bug-finder for imperative programs.
 - [Free Compiler](https://github.com/FreeProving/free-compiler) - Haskell to Coq compiler that represents effectful programs with the free monad.
+- [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and CI.

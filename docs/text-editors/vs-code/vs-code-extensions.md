@@ -177,6 +177,7 @@ Below is a list of extensions I use.
 - [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.
 - [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - Spacemacs' like keybindings. ([Code](https://github.com/VSpaceCode/VSpacecode))
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support, with built-in Kubernetes syntax support. ([Code](https://github.com/redhat-developer/vscode-yaml))
+- [VS Code Open in GitHub Button](https://github.com/antfu/vscode-open-in-github-button)
 - [Wardley Maps](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Display and edit Wardley Maps. ([Code](https://github.com/damonsk/vscode-wardley-maps)) ([Tweet](https://twitter.com/owardleymaps/status/1321215623813357568))
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) ([Code](https://github.com/vscode-icons/vscode-icons))
 - [Stripe](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) ([Web](https://stripe.com/docs/stripe-vscode)) ([Tweet](https://twitter.com/auchenberg/status/1349772997993910272)) ([Code](https://github.com/stripe/vscode-stripe))

@@ -340,3 +340,4 @@
 - [What currently available game impresses game developers the most and why? (2023)](https://www.reddit.com/r/gamedev/comments/124k70h/what_currently_available_game_impresses_game/)
 - [Rust Gamedev](https://github.com/ChevyRay/rust-gamedev)
 - [Libraries and frameworks for Game Development in Rust](https://github.com/dasifefe/rust-game-development-frameworks)
+- [theseus](https://github.com/modrinth/theseus) - Game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.

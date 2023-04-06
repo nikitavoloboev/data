@@ -286,6 +286,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [OctoBase](https://github.com/toeverything/OctoBase) - Offline-available, scalable, self-contained collaborative database, which was originally designed for AFFiNE.
 - [Fireproof](https://github.com/jchris/fireproof) - Real time database for today's interactive applications.
 - [ArcticDB](https://github.com/man-group/ArcticDB) - High performance, serverless DataFrame database built for the Python Data Science ecosystem.
+- [SKDB](https://github.com/SkipLabs/skdb) - SQL database that tells you when your query results changed.
 
 ## Tools
 
