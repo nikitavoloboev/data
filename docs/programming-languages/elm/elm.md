@@ -120,3 +120,4 @@ title: Elm
 - [Haskell to Elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types.
 - [Implementing multi-file analysis for linters (2023)](https://jfmengels.net/multi-file-analysis/)
 - [Should I use Elm for production in 2023?](https://www.reddit.com/r/elm/comments/12961nu/should_i_use_elm_for_production_in_2023/)
+- [Writing linter rules why, how and when (2023)](https://www.youtube.com/watch?v=zY1xDjGE7DU)
