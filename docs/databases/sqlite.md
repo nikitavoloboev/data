@@ -321,3 +321,5 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [Sqlite Index Blaster](https://github.com/siara-cc/sqlite_blaster) - Library for creating huge Sqlite indexes at breakneck speeds.
 - [Turso: Globally Replicated SQLite with Glauber Costa (2023)](https://www.youtube.com/watch?v=DZbSjMAHxDw)
 - [SQLite Optimizations for Ultra High-Performance (2023)](https://www.powersync.co/blog/sqlite-optimizations-for-ultra-high-performance)
+- [SQLwrite](https://github.com/plasma-umass/sqlwrite) - Integrates AI into your database: automatically converts natural language queries into SQL, and then runs the SQL query.
+- [Quick SQLite](https://github.com/margelo/react-native-quick-sqlite) - Fast react-native SQLite library built using JSI.

@@ -500,6 +500,7 @@
 - [Senders](https://github.com/NVIDIA/stdexec) - Standard Model for Asynchronous Execution in C++.
 - [Corto](https://github.com/cnr-isti-vclab/corto) - Library for compression and decompression meshes and point clouds (C++ and JavaScript).
 - [mem++](https://github.com/m4drat/memplusplus) - C++ memory allocator with smart GC.
+- [BVH](https://github.com/madmann91/bvh) - Modern C++ BVH construction and traversal library.
 
 ## Links
 

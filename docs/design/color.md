@@ -227,3 +227,4 @@
 - [Arbitrary Beautiful Colors (2023)](https://khanlou.com/2023/02/arbitrary-beautiful-colors/)
 - [Why some GitHub labels illegible (2023)](https://firsching.ch/github_labels.html) ([HN](https://news.ycombinator.com/item?id=35134678))
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes.
+- [Spectral.js](https://github.com/rvanwijnen/spectral.js) - Powerful and versatile JavaScript library that allows you to achieve realistic color mixing in your web-based projects.

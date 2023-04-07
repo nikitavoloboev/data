@@ -461,3 +461,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [node-gyp-build](https://github.com/prebuild/node-gyp-build) - Build tool and bindings loader for node-gyp that supports prebuilds.
 - [env-var](https://github.com/evanshortiss/env-var) - Verification, sanitization, and type coercion for environment variables in Node.
 - [Nodepad](https://github.com/joaopcm/nodepad) - All-in-one platform for creating, executing, and sharing Node.js code snippets.
+- [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) - package.json linter for Node projects.

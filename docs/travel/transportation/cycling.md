@@ -51,3 +51,4 @@
 - [Rental bike usage patterns (2023)](https://www.extua.pw/blog/2023/02/25/rental_bike_usage_patterns/)
 - [Can We Make Bicycles Sustainable Again? (2023)](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html)
 - [Bicycle (2023)](https://ciechanow.ski/bicycle/) ([HN](https://news.ycombinator.com/item?id=35343495))
+- [Awesome Bike Projects](https://github.com/mltbnz/awesome-bikeprojects)

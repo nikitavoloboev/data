@@ -256,3 +256,4 @@ title: Jupyter Notebooks
 - [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) - Jupyter server extension to sync a git repository one-way to a local path.
 - [JupyterLab extension for widgets based on Yjs](https://github.com/davidbrochart/yjs-widgets)
 - [pyobsplot](https://github.com/juba/pyobsplot) - Observable Plot in Jupyter notebooks and Quarto documents.
+- [Jupyter interface for Glue](https://github.com/glue-viz/glue-jupyter)

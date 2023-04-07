@@ -991,3 +991,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling (2023)](https://arxiv.org/abs/2304.01373) ([HN](https://news.ycombinator.com/item?id=35449559))
 - [Diffusion language models (2023)](https://sander.ai/2023/01/09/diffusion-language.html)
 - [Tabby](https://github.com/TabbyML/tabby) - Self-Hosted GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=35470915))
+- [LMQL](https://github.com/eth-sri/lmql) - Query language for programming (large) language models.
+- [Instruction Tuning with GPT-4 (2023)](https://arxiv.org/abs/2304.03277) ([Code](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM))
+- [UltraChat: Large-scale, Informative, and Diverse Multi-round Dialogue Data](https://github.com/thunlp/UltraChat)
+- [GPTCache](https://github.com/zilliztech/GPTCache) - Library for Creating Semantic Cache for LLM Queries.
+- [clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP.

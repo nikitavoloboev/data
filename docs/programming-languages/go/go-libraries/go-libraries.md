@@ -2132,6 +2132,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Config Manager](https://github.com/dnitsch/configmanager) - Config and Secret management across multiple implementations in a uniform way.
 - [tint](https://github.com/lmittmann/tint) - slog.Handler that writes tinted logs.
 - [Editorconfig Core Go](https://github.com/editorconfig/editorconfig-core-go)
+- [arch](https://github.com/golang/arch) - Holds machine architecture information used by the Go toolchain.
 
 ## Links
 

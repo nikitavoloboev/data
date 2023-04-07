@@ -16,6 +16,7 @@ title: Svelte
 - [create-o7-app](https://github.com/ottomated/create-o7-app) - Opinionated CLI for creating type-safe Svelte apps.
 - [UpSnap](https://github.com/seriousm4x/UpSnap) - Simple wake on lan app written with SvelteKit, Go, PocketBase and nmap.
 - [Go Svelte SPA](https://github.com/saas-templates/go-svelte)
+- [Svelte Axum Template](https://github.com/jbertovic/svelte-axum-project)
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
 - [SvelteKit Commerce](https://github.com/vercel/sveltekit-commerce)
 - [KitBase Starter Template](https://github.com/kevmodrome/kitbase) - Starter template geared towards quickly spinning up projects using PocketBase and Stripe.

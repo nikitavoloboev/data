@@ -1101,3 +1101,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Hello Deep Learning (2023)](https://berthub.eu/articles/posts/hello-deep-learning/)
 - [AI Alignment Forum](https://www.alignmentforum.org/)
 - [Infinity-Diff: Infinite Resolution Diffusion with Subsampled Mollified States (2023)](https://arxiv.org/abs/2303.18242) ([Code](https://github.com/samb-t/infty-diff))
+- [Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling (2021)](https://arxiv.org/abs/2111.02434) ([Code](https://github.com/gregversteeg/esh_dynamics))

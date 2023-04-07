@@ -165,3 +165,4 @@ Sticking a link for how to contact you, be it twitter/telegram to your passport,
 - [Where to?](https://www.wheretoai.com/)
 - [My Tips for Extended Solo Travel](https://www.reddit.com/r/solotravel/comments/1163bh5/my_tips_for_extended_solo_travel/)
 - [Mapy.cz](https://en.mapy.cz/)
+- [Tripnotes.ai](https://tripnotes.ai/app) - Intelligent Travel Planner.

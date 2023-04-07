@@ -173,3 +173,4 @@
 - [PyMdown Extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown.
 - [goldmark-toc](https://github.com/abhinav/goldmark-toc) - Support for generating Tables of Contents from goldmark Markdown documents.
 - [remark-lint-no-dead-urls](https://github.com/remarkjs/remark-lint-no-dead-urls) - Ensure that external links in your Markdown are alive.
+- [cmarkit](https://github.com/dbuenzli/cmarkit) - CommonMark parser and renderer for OCaml.

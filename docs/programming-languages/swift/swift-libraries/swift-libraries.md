@@ -653,6 +653,7 @@
 - [SwiftUI SharedObject](https://github.com/lorenzofiamingo/swiftui-shared-object) - New property wrapper for SwiftUI ObservableObject.
 - [ShinySwiftUI](https://github.com/Flowductive/shiny-swift-ui) - SwiftUI extensions and components that just make sense.
 - [ViewStateController](https://github.com/mdb1/ViewStateController) - Framework for simplified management of view state, allowing easy implementation of complex views.
+- [Chat](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker.
 
 ## Test
 
@@ -1475,6 +1476,7 @@
 - [TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions.
 - [GeoJSON](https://github.com/kiliankoe/GeoJSON) - Swift types for working with GeoJSON data.
 - [Coquille](https://github.com/alexrozanski/Coquille) - Simple, modern Swift class for running shell commands.
+- [Reducer](https://github.com/wlsdms0122/Reducer) - Unidirectional state machine framework that inspired by ReactorKit & TCA.
 
 ## Other (not lib)
 

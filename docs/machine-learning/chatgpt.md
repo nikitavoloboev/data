@@ -298,3 +298,5 @@ It's also great at giving examples.
 - [GPT-CLI](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT.
 - [Document + ChatGPT](https://github.com/justjavac/chatdoc)
 - [Increase GPT4's context size by asking it to compress your prompts](https://twitter.com/VictorTaelin/status/1642664054912155648) ([HN](https://news.ycombinator.com/item?id=35452735))
+- [Sparks of AGI: early experiments with GPT-4 (2023)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+- [IntelliBar](https://intellibar.app/) - ChatGPT at your fingertips. ([Code](https://github.com/astoilkov/IntelliBar))

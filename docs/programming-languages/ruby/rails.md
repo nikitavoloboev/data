@@ -199,3 +199,4 @@ title: Rails
 - [Safe PG Migrations](https://github.com/doctolib/safe-pg-migrations) - ActiveRecord migrations for Postgres made safe.
 - [Rails on Docker · Fly (2023)](https://fly.io/ruby-dispatch/rails-on-docker/) ([HN](https://news.ycombinator.com/item?id=34533930))
 - [Administration Zero](https://github.com/lazaronixon/administration-zero) - Administration system generator for Rails applications.
+- [Building GitHub with Ruby on Rails (2023)](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/) ([HN](https://news.ycombinator.com/item?id=35478884))
