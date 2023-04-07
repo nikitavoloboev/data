@@ -997,3 +997,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [GPTCache](https://github.com/zilliztech/GPTCache) - Library for Creating Semantic Cache for LLM Queries.
 - [clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP.
 - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
+- [XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training.
+- [Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally.

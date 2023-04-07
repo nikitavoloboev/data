@@ -188,3 +188,4 @@ title: Speech recognition
 - [Universal Speech Model (2023)](https://sites.research.google/usm/) ([HN](https://news.ycombinator.com/item?id=35365399))
 - [Ermine.ai](https://www.ermine.ai/) - Local Audio Transcription. ([Code](https://github.com/vishnumenon/ermine-ai)) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/12cl8su/record_and_transcribe_speech_100_clientsideprivate/)) ([HN](https://news.ycombinator.com/item?id=35441337))
 - [Whisper Playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper.
+- [fan_transcribe](https://github.com/kousun12/fan_transcribe) - Fan out audio transcription tasks via OpenAI Whisper and Modal Labs.

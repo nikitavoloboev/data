@@ -18,6 +18,18 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 
 [Handbook of Plant Nutrition](http://libgen.rs/book/index.php?md5=0DE03F3742244A0FCFFD21A3C33FE812), [Marijuana Horticulture Fundamentals](https://www.pdfdrive.com/marijuana-horticulture-fundamentals-a-comprehensive-guide-to-cannabis-cultivation-and-hashish-production-e196913620.html), [Cannabis Encyclopedia](https://www.amazon.com/Cannabis-Encyclopedia-Definitive-Cultivation-Consumption/dp/1878823345) & [Handbook of Cannabis Production in Controlled Environments](https://www.routledge.com/Handbook-of-Cannabis-Production-in-Controlled-Environments/Zheng/p/book/9780367712570) are nice reads too.
 
+## Planting steps
+
+1. Germinate the seed
+
+- Can do it by placing the seed(s) between 2 tissues with some water on a plate. Put the plate in dark room in room temperature.
+- Then wait for 1-3 days for roots to show. Then it's ready to be planted into soil.
+- Can also [germinate directly in the soil](https://www.youtube.com/watch?v=Q5bIb5R9ot0)
+
+2. Plant the seed in soil. Not deeply. ~ 2x the size of the seed in depth (~ 1.5-3 cm).
+
+- Water the soil a bit after. Not too much. Soil should be of good quality.
+
 ## Favorite strains
 
 - [Purple Haze](https://sensiseeds.com/en/feminized-seeds/whitelabel/purple-haze-feminised)
@@ -77,6 +89,8 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [Cannabis Seed Germination — Troubleshooting Guide](https://www.royalqueenseeds.com/blog-cannabis-see-germination-troubleshooting-guide-n101)
 - [Favorite cannabis breeders? (2023)](https://www.reddit.com/r/microgrowery/comments/12d3g7d/whos_your_favorite_breeder_and_why/)
 - [How Deep to Plant Cannabis Seed?](https://groweriq.ca/2022/09/21/how-deep-to-plant-cannabis-seed/)
+- [Cannabis Seed Germination: Direct in Soil Method](https://www.youtube.com/watch?v=Q5bIb5R9ot0)
+- [How To Build A Super Soil To Grow Weed Easy, Just Add Water](https://www.youtube.com/watch?v=HxD67n0X6-c)
 
 ## Images
 

@@ -261,3 +261,4 @@ title: Genomics
 - [Lakeview](https://github.com/jzhang-dev/lakeview) - Python 3 library for creating publication-quality IGV-style genomic visualizations.
 - [The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics (2023)](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v2) ([Code](https://github.com/instadeepai/nucleotide-transformer))
 - [Plotsr](https://github.com/schneebergerlab/plotsr) - Tool to plot synteny and structural rearrangements between genomes.
+- [GraphBin](https://github.com/metagentools/GraphBin) - Refined binning of metagenomic contigs using assembly graphs.

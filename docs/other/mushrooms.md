@@ -20,6 +20,21 @@ Using [this guide](https://www.shroomery.org/forums/showflat.php/Number/24420178
 - [NootropicsDepot Cordyceps Mushroom Powder](https://nootropicsdepot.com/cordyceps-militaris-10-1-whole-fruiting-body-medicinal-mushroom-extract-powder/)
 - [NootropicsDepot Lion's Mane Mushroom Powder](https://nootropicsdepot.com/lions-mane-mushroom-powder-8-1-extract/)
 
+## Growing steps
+
+### With grow kit
+
+[This video](https://www.youtube.com/watch?v=CczWloHO__Y) is great.
+
+1. Open grow kit box. Put water in the box. Close the box and put it in either fridge or room. Wait ~ 12h.
+2. After 12h. Remove the water from the box. Put the box in the bag (without the lid). Close the bag with paperclips.
+
+- Make sure that it doesn't soak for more than 18 hours cause the mycelium can drown if it's soaked for too long.
+
+### Without grow kit (own substrate)
+
+If no grow kit, method is similar but you need to create your own substrate for mushrooms to grow in.
+
 ## Notes
 
 - [We think of mushrooms as being "the fungus" but really a mushroom is just a temporary structure that the fungus, which a network of hyphae buried in the substrate, builds to disperse its spores. They're like a protrusion from an unseen world into ours.](https://twitter.com/NotBrunoAgain/status/1520055622997270534)

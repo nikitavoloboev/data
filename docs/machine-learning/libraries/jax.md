@@ -107,3 +107,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [PureJaxRL](https://github.com/luchris429/purejaxrl) - End-to-End RL Training in Pure Jax.
 - [4000x Speedup in Reinforcement Learning with Jax (2023)](https://chrislu.page/blog/meta-disco/) ([HN](https://news.ycombinator.com/item?id=35474968))
 - [Creative Machine Learning](https://github.com/acids-ircam/creative_ml) - Creative Machine Learning course and notebooks in JAX, PyTorch and Numpy.
+- [LAST](https://github.com/google-research/last) - JAX library for building lattice-based speech transducer models.

@@ -2133,6 +2133,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [tint](https://github.com/lmittmann/tint) - slog.Handler that writes tinted logs.
 - [Editorconfig Core Go](https://github.com/editorconfig/editorconfig-core-go)
 - [arch](https://github.com/golang/arch) - Holds machine architecture information used by the Go toolchain.
+- [Tokenizer](https://github.com/tiktoken-go/tokenizer) - Pure Go implementation of OpenAI's tiktoken tokenizer.
 
 ## Links
 
