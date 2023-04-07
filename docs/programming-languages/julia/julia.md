@@ -39,7 +39,7 @@ title: Julia
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials) ([Tweet](https://twitter.com/johnmyleswhite/status/1264355256974168067))
 - [Why learn julia? (2020)](https://www.reddit.com/r/Julia/comments/gph8ob/why_learn_julia/)
 - [Julia Case Studies](https://juliacomputing.com/case-studies/)
-- [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
+- [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia) ([HN](https://news.ycombinator.com/item?id=35477695))
 - [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)
 - [JuliaLang Antipatterns (2020)](https://white.ucc.asn.au/2020/04/19/Julia-Antipatterns.html)
 - [Julia as a cli calculator (2020)](https://krasjet.com/rnd.wlk/julia/) ([HN](https://news.ycombinator.com/item?id=23414872))
