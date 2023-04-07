@@ -996,3 +996,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [UltraChat: Large-scale, Informative, and Diverse Multi-round Dialogue Data](https://github.com/thunlp/UltraChat)
 - [GPTCache](https://github.com/zilliztech/GPTCache) - Library for Creating Semantic Cache for LLM Queries.
 - [clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP.
+- [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)

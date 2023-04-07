@@ -144,3 +144,4 @@ It's incredible how you can do multi device updating [fast](https://twitter.com/
 - [streamscope](https://github.com/mikedewar/streamscope) - Visualize streams of data through a WebSocket.
 - [WebSocket Fiber](https://github.com/gofiber/websocket) - WebSocket middleware for Fiber.
 - [NATS as WebSocket server (2023)](https://satish860.hashnode.dev/running-nats-as-websocket-server-clf2hr7cu000008mlghbzetsb)
+- [fastwebsockets](https://github.com/littledivy/fastwebsockets) - Fast WebSocket server implementation.

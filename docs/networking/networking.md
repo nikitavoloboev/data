@@ -596,3 +596,5 @@
 - [Daze](https://github.com/mohanson/daze) - Help you pass through the firewalls, in other words, proxy.
 - [Network Programming and Automation Essentials (2023)](https://www.packtpub.com/product/network-programming-and-automation-essentials/9781803233666) ([Code](https://github.com/PacktPublishing/Network-Programming-and-Automation-Essentials))
 - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/)
+- [Shmipc-spec](https://github.com/cloudwego/shmipc-spec) - High-performance IPC solution that is suitable for production environments based on shared memory IPC.
+- [Shmipc](https://github.com/cloudwego/shmipc-go) - High performance inter-process communication Go library developed by ByteDance.

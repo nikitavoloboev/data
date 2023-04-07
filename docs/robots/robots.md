@@ -207,3 +207,4 @@
 - [Rofunc](https://github.com/Skylark0924/Rofunc) - Full Process Python Package for Robot Learning from Demonstration.
 - [Webots](https://github.com/cyberbotics/webots) - Open-source robot simulator.
 - [Ask HN: Courses/textbook recommendations for studying robotics? (2023)](https://news.ycombinator.com/item?id=35441180)
+- [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) - Collection of robotics simulation environments for reinforcement learning.

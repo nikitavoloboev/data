@@ -227,3 +227,4 @@ Love the approach of writing RFCs before any big architectural decisions are mad
 - [How we migrated our SDK docs to DocC at RevenueCat (2023)](https://dev.to/revenuecat/how-we-migrated-our-sdk-docs-to-docc-at-revenuecat-3dai)
 - [Pyro](https://github.com/lino-levan/pyro) - Static documentation site generator for Deno.
 - [Next.js OpenAI Doc Search Template](https://github.com/supabase-community/nextjs-openai-doc-search)
+- [Release Notes Generator](https://github.com/typefully/auto-release-notes) - Uses the Linear API and the OpenAI GPT language model to create a nicely formatted Markdown file.

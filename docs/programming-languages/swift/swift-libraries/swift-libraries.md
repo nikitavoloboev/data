@@ -733,6 +733,7 @@
 - [StoreKitPlus](https://github.com/danielsaidi/StoreKitPlus) - Adds extra functionality for working with StoreKit 2, like extensions, observable state, services, etc.
 - [PersistentHistoryTrackingKit](https://github.com/fatbobman/PersistentHistoryTrackingKit) - Library for managing Core Data's Persistent History Tracking.
 - [Stores](https://github.com/omaralbeik/Stores) - Typed key-value storage solution to store Codable types in various persistence layers like User Defaults, File System, Core Data, Keychain, and more.
+- [CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Layer of abstraction on top of the CloudKit framework that provides error handling and queueing for offline-capable apps.
 
 ## Graphics
 

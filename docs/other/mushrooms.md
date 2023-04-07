@@ -97,3 +97,4 @@ Using [this guide](https://www.shroomery.org/forums/showflat.php/Number/24420178
 - [Simplified Cultivation Methods, Easy As Fuck link list, Trusted Culvator links and methods and other cultivation info](https://www.shroomery.org/13986/Simplified-Cultivation-Methods-Easy-As-Fuck-link-list-Trusted-Culvator-links-and-methods-and-other-cultivation-info)
 - [Uncle Bens Reddit](https://www.reddit.com/r/unclebens/) - Technique, a simple and beginner-friendly method for cultivating mushrooms without a pressure cooker.
 - [Cylocybe](https://cylocybe.co.uk/) - UK Mushroom Growing Kits and Magic Spores for Research.
+- [How to Grow Mushrooms from Start to Finish with a Magic Grow Kit](https://www.youtube.com/watch?v=CczWloHO__Y)

@@ -215,3 +215,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [AI Courses](https://github.com/SkalskiP/courses)
 - [Simulators (2022)](https://generative.ink/posts/simulators/)
 - [How to think about modern AI from first principles](https://twitter.com/dvdkll/status/1637159514897268736)
+- [Ask HN: What's your best resource for keeping up-to-date on AI developments? (2023)](https://news.ycombinator.com/item?id=35479853)

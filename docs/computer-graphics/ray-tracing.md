@@ -138,3 +138,4 @@ title: Ray tracing
 - [Simple spectral ray tracer in Rust](https://github.com/tvh/rayer-rs)
 - [Lumen](https://github.com/yuphin/Lumen) - Vulkan ray tracing framework for various bidirectional path tracing techniques.
 - [Ray Tracing in One Weekend in Go](https://github.com/ypujante/ray-tracing)
+- [WebGPU Ray Tracing eXtension](https://github.com/codedhead/webrtx)

@@ -502,3 +502,4 @@ if (
 - [Writing JavaScript without a build system (2023)](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/) ([HN](https://news.ycombinator.com/item?id=34825676))
 - [Buildless JavaScript (2023)](https://blog.6nok.org/buildless-javascript/)
 - [Error.assert() proposal for ECMAScript](https://github.com/threepointone/proposal-error-assert)
+- [1000x FASTER JavaScript? (2023)](https://www.youtube.com/watch?v=B76gFi43HvM)

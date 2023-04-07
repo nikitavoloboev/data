@@ -88,3 +88,4 @@ title: Astro
 - [Astro + Netlify CMS](https://github.com/delucis/astro-netlify-cms)
 - [Prettier Plugin for Astro](https://github.com/withastro/prettier-plugin-astro)
 - [Welcome, World | Astro (2023)](https://astro.build/blog/welcome-world/)
+- [Static OG (Open Graph) Images in Astro (2023)](https://arne.me/blog/static-og-images-in-astro/)

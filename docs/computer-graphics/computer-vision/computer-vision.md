@@ -1199,3 +1199,5 @@
 - [Scaling Language-Image Pre-training via Masking (2022)](https://arxiv.org/abs/2212.00794) ([Code](https://github.com/facebookresearch/flip))
 - [From Zero to Hero: Convincing with Extremely Complicated Math (2023)](https://arxiv.org/abs/2304.00399) ([HN](https://github.com/mweiherer/zero2hero))
 - [Zero-shot Generative Model Adaptation via Image-specific Prompt Learning (2023)](https://arxiv.org/abs/2304.03119) ([Code](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation))
+- [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) - Collection of resources on digital human including clothed people digitalization, virtual try-on, and other related directions.
+- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything - Detect and Segment Anything with Text Inputs.

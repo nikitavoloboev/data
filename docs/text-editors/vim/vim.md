@@ -344,3 +344,4 @@ zz
 - [Learn Vim the Smart Way](https://learnvim.irian.to/)
 - [A Neovim Task Runner in 30 lines of Lua (2023)](https://www.hillelwayne.com/post/task-runner-neovim/)
 - [Using Vim 2023](https://www.youtube.com/watch?v=FrMRyXtiJkc)
+- [HN: Neovim 0.9 (2023)](https://news.ycombinator.com/item?id=35480629)

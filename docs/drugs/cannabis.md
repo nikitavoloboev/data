@@ -76,6 +76,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [Beginner's Cannabis Grow Guide](https://www.reddit.com/r/microgrowery/comments/w3qz7/beginners_guide/)
 - [Cannabis Seed Germination — Troubleshooting Guide](https://www.royalqueenseeds.com/blog-cannabis-see-germination-troubleshooting-guide-n101)
 - [Favorite cannabis breeders? (2023)](https://www.reddit.com/r/microgrowery/comments/12d3g7d/whos_your_favorite_breeder_and_why/)
+- [How Deep to Plant Cannabis Seed?](https://groweriq.ca/2022/09/21/how-deep-to-plant-cannabis-seed/)
 
 ## Images
 

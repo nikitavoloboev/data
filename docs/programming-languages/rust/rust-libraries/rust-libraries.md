@@ -2789,6 +2789,7 @@
 - [shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust.
 - [Keshvar](https://github.com/pouriya/keshvar) - Collection of all sorts of useful information for every country.
 - [vdb-rs](https://github.com/Traverse-Research/vdb-rs) - Rust native implementation of the VDB file format.
+- [type_description](https://github.com/TheNeikos/type_description) - Machine-readable descriptions for rust types.
 
 ## Cargo Plugins
 
