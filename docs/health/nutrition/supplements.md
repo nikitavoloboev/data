@@ -6,7 +6,15 @@ Especially for supplements or extra nutritional powders outlined above, I make s
 
 [Foundations of Physical and Mental Performance](https://tim.blog/2023/03/08/dr-andrew-huberman/) is amazing listen.
 
-Every [morning](../../focusing/processes.md#morning), after I do a [workout](../../fitness/fitness.md), I make a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4) mixing various things like:
+My [morning routine](../../focusing/processes.md#morning) is simple. After I do a walk with [small bodyweight workout](../../fitness/fitness.md), I make my daily breakfast of:
+
+4 eggs fried + salad (tomatoes + avocado + feta + ..). And take my 2 omega 3 pills + 1 magnesium pill.
+
+When time/money allows I also try to do a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4). I am still experimenting on making taste/health well. Most often I just drink a lot of [tea](drinks/tea.md).
+
+## Smoothie
+
+Some general ingredients, I don't add everything at once but often mix between these things.
 
 - 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
 - 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)
@@ -19,7 +27,7 @@ Every [morning](../../focusing/processes.md#morning), after I do a [workout](../
 - Fill with [Alpro Unsweetened Almond Milk](https://www.alpro.com/uk/products/drinks/almond-drinks/almond-roasted-no-sugars/) (fill the blender glass)
 - Chia, hemp and flax seeds with walnuts on top (not much)
 
-Many times I miss doing this blend as I am either traveling or [saving money](../../looking-back/2023/2023-march.md).
+Many times I miss doing this blend as I am either traveling or saving money.
 
 After drinking the smoothie, I also take these supplements, inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/):
 

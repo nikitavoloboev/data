@@ -6,32 +6,44 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 
 ## Morning
 
-1. Wake up. Go take shower.
-2. Do [morning skin care routine](../health/skin-care.md).
-3. Morning [exercise](../fitness/exercises.md). Until failure: push ups, deep squats & downward dog to cobra pose. Do exercise outside as I walk my dog, when I am around her. Listen to [podcast](../podcasts/podcasts.md) during it.
-4. Drink [morning smoothie + supplements](../health/nutrition/supplements.md).
-5. No [news](../research/staying-on-top-of-things.md) (Twitter/HN/..) until I do the above.
-6. Start day by checking my task manager for the day. Have timed 40 min to check Twitter/HN, reply to messages etc.
-7. Start work.
+1. Wake up at ~ 9:00. 
+2. If with dogs, go take dogs outside (listen to [podcasts](../podcasts/podcasts.md) a bit)
+3. Shower. Wash body + [skin care](../health/skin-care.md) on face. [Brush teeth](../health/teeth.md). Wear new clothes.
+4. If with dogs, give food to dogs + 2 pills for Rachel (put in bowl).
+5. Make [tea](../health/nutrition/drinks/tea.md) (big kettle)
+6. 4 eggs + salad (tomatoes + avocado + feta + ..). [Optional smoothie](../health/nutrition/supplements.md#smoothie).
+7. Take [2 omega 3 pills + 1 magnesium](../health/nutrition/supplements.md)
+8. Twitter 2 feeds actively, snapshot github/lobsters/hn/reddit. (should be automated asap, have my own algorithm for surfacing useful to me things, removing noise)
+9. Work through todos!
+
+## Day
+
+1. If with dogs, take dogs on longer walk (podcast listen) at least once for ~ 1h.
+2. Do some [exercise](../fitness/exercises.md) outside (sit ups + push ups).
+3. Put clothes to clean so there are always clean clothes available.
+4. Keep [good back](../health/ergonomics.md) (no slouch) and always work outside in terrace when you can.
+5. Take notes on everything I learn and be productive and aggressive on completing todos! Share progress made / thoughts on Twitter.
+6. Drink a lot of tea throughout the day. Always keep hydrated more than necessary.
+7. No coffee + no sweets. Just eggs + salad + fish or healthy proteins.
 
 ## Evening
 
-1. Do [evening skin care routine](../health/skin-care.md).
-2. Evening [exercise](../fitness/exercises.md). Until failure: push ups, deep squats & downward dog to cobra pose. Listen to some soothing music and think of plans for tomorrow or podcast.
-3. Write in [look back](../looking-back/looking-back.md) & review of habits + check on [plans](goals.md).
-4. Some light [news](../research/staying-on-top-of-things.md) or book reading (book preferred).
-5. Sleep. I try to not expose myself to blue light during evening and be thoroughly exhausted at this point from good day's work so falling asleep is fast.
+1. If with dogs, walk dogs + podcast.
+2. If with dogs, give dogs food.
+3. [Skin care](../health/skin-care.md) face + [brush teeth](../health/teeth.md). Clean myself.
+4. Write / voice memo transcribe the day's progress & how I feel in look back.
+5. Go to sleep. Always clean bed sheets.
 
-## End of week Plan/Review (Sunday)
+## End of week (Sunday)
 
-1. Write in [look back](../looking-back/looking-back.md), taking general view of what happened in a week.
-2. Make plans for next week. Arrange [ideas](../ideas/ideas.md) in focus. Long term focuses.
+1. Reflect on week in [look back](../looking-back/looking-back.md). 
+2. Make/check general plans for next week. Especially projects to focus on! 
 
-## End of month Plan/Review (1st day of month)
+## End of month (1st day of month)
 
-1. Summarize [look back](../looking-back/looking-back.md).
-2. Review finances & investments. Cut out non needed expenses. Reinvest if necessary.
-3. Make/check general plans for next month.
+1. Reflect on the month in [look back](../looking-back/looking-back.md).
+2. Review finances & investments. Cut out non needed expenses. Reinvest where necessary.
+3. Make/check general plans for next month. Especially projects to focus on! Am I more happy month to month?
 
 ## Learn
 

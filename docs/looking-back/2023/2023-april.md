@@ -2,37 +2,38 @@
 
 28 this month. Spending it Spain. Full focus on priority tasks/projects I need to complete in life.
 
-Fuck everything else. Wrote out routine for myself too:
+Fuck everything else. Wrote out [routine](../../focusing/processes.md) for myself too:
 
-## Routine
+## Morning
 
-morning: ~ 9:00 wake up
+1. Wake up at ~ 9:00. 
+2. Go take dogs outside (listen to [podcasts](../../podcasts/podcasts.md) a bit)
+3. Shower. Wash body + [skin care](../../health/skin-care.md) on face. [Brush teeth](../../health/teeth.md). Wear new clothes.
+4. Give food to dogs + 2 pills for Rachel (put in bowl).
+5. Make [tea](../../health/nutrition/drinks/tea.md) (big kettle)
+6. 4 eggs + salad (tomatoes + avocado + feta + ..). [Optional smoothie](../../health/nutrition/supplements.md#smoothie).
+7. Take [2 omega 3 pills + 1 magnesium](../../health/nutrition/supplements.md)
+8. Twitter 2 feeds actively, snapshot github/lobsters/hn/reddit. (should be automated asap, have my own algorithm for surfacing useful to me things, removing noise)
+9. Work through todos!
 
-1. take dogs outside (listen to podcast a bit)
-2. shower / wash + skin care on face / new clothes
-3. give food to dogs + 2 pills for Rachel (put in bowl)
-4. make tea (big kettle)
-5. 4 eggs + salad (tomatoes + avocado + feta + ..)
-6. take 2 omega 3 pills + 1 magnesium
-7. twitter 2 feeds actively, snapshot github/lobsters/hn (automate asap)
-8. work through todo!
 
-day:
+## Day
 
-1. take dogs on longer walk (podcast listen) at least once for ~ 1h
-2. do some exercise outside (sit ups + push ups)
-3. put clothes to clean so there are always clean clothes available
-4. keep good back (no slouch) and always work outside in terrace when you can
-5. take notes on everything I learn and be productive and aggressive on completing todos! share progress made / thoughts on twitter
-6. drink a lot of tea throughout the day. always keep hydrated more than necessary.
-7. no coffee + no sweets. just eggs + salad + fish or healthy proteins
+1. Take dogs on longer walk (podcast listen) at least once for ~ 1h.
+2. Do some [exercise](../../fitness/exercises.md) outside (sit ups + push ups).
+3. Put clothes to clean so there are always clean clothes available.
+4. Keep [good back](../../health/ergonomics.md) (no slouch) and always work outside in terrace when you can.
+5. Take notes on everything I learn and be productive and aggressive on completing todos! Share progress made / thoughts on Twitter.
+6. Drink a lot of tea throughout the day. Always keep hydrated more than necessary.
+7. No coffee + no sweets. Just eggs + salad + fish or healthy proteins.
 
-evening:
+## Evening
 
-1. walk dogs + podcast
-2. give dogs food
-3. skin care face + brush teeth + clean myself
-4. go to sleep
+1. Walk dogs + podcast.
+2. Give dogs food.
+3. [Skin care](../health/skin-care.md) face + [brush teeth](../health/teeth.md). Clean myself.
+4. Write / voice memo transcribe the day's progress & how I feel in look back.
+5. Go to sleep. Always clean bed sheets.
 
 Full transparency and no bullshit going forward.
 
@@ -47,6 +48,10 @@ Anyway, this quote in Fight Club comes to mind of how I feel in life right now.
 > [Only After We've Lost Everything Are We Free To Do Anything](https://www.youtube.com/watch?v=pzJOduVHxoQ)
 
 I don't own or have much anything in life. I am 28, not too old to do meaningful things. But I do have bitter experience of what works and what doesn't. I especially know my vices and know what addictions and unconscious behavior I am prone to repeat. My goal is to fully augment / remove the ability to do self destructive or non meaningful things to myself with software.
+
+p.s. I would rather die than write another look back where I complain about how life is unfair and how painful it is to survive.
+
+It's pathetic and achieves nothing.
 
 ## KusKus
 

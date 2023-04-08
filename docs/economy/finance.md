@@ -2,7 +2,7 @@
 
 I use [N26](https://n26.com/en-gb/) as my bank and like it. [Revolut](https://www.revolut.com/) and [Monzo](https://monzo.com) are nice too.
 
-I try keep a minimum of ~ 3000 euro cash on my account (for emergency spending + any monthly bills). Rest in [invested](investing.md) in strong assets. Often this 3000 euro cash goal is [aspirational and I can barely afford food](../looking-back/2023/2023-march.md).
+I try keep a minimum of ~ 2000 euro cash on my account (for emergency spending + any monthly bills). Rest in [invested](investing.md) in strong assets. Often this minimum goal is aspirational and I try to get by with what I have.
 
 Tax wise, at least in [Europe](../travel/visited/europe.md), you pay ~ 21% VAT every 3 months. You then pay income tax once a year, at least in [NL](../travel/visited/netherlands.md) all that's done through a website. Income tax is often progressive so amount you pay depends on how much you earned in the year.
 
@@ -26,12 +26,12 @@ I try to be mindful of more expensive things I buy but do try to never disregard
 
 As mentioned above, I want to build an app that would automate all things financing, safe investing & bookkeeping for me. Where tax is optimized based on all information that is available to me and payment of tax is easy as all the bookkeeping details are neatly organized.
 
-[Fey](https://www.feyapp.com/) app looks interesting in this regard although it's focused on investing.
+[Fey](https://www.feyapp.com/) app looks interesting in this regard although it's focused on investing. Also [Mercury](https://mercury.com/) seems like a great bank I might move to. I am still new to managing finances in startups.
 
 The app should:
 
 1. Read live data from my bank(s)
-2. All expeses automatically categorized (I should be able to instantly see how much was spent on what and how that change over last month or any other time period) (can get categories either from bank itself or write my own classifier)
+2. All expenses automatically categorized (I should be able to instantly see how much was spent on what and how that change over last month or any other time period) (can get categories either from bank itself or write my own classifier)
 3. Ability to make projections based on historical data
 4. Ability to set goals on total value of assets
 5. Ability to set limits on categories and ideally have the bank enforce those limits or at least remind me when I went over the limit as the app reads live data from the bank as each transaction gets made

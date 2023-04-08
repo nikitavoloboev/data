@@ -1,12 +1,16 @@
 # Habits
 
-I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily habits I try to follow to live a [happy life](../life/happiness.md). The habits are chosen with great care and are a subset of my life [rules](rules.md).
+I try to cover essential [processes](processes.md#mroning)/[processes](processes.md#day)/[processes](processes.md#evening) habits I have. Every day, without exceptions.
+
+I am currently building my own app to make sure I keep track of the habits I have.
+
+Habits in general help guide myself towards living more [happy](../life/happiness.md). Habits are chosen with care and adapted with experience. They should be quite lightweight in that I can follow the habits no matter where I am in the world, even if away from home.
+
+In the past I used used [Streaks](https://streaksapp.com) app. With wcich I made sure to complete my 6 daily habits. 
 
 ![](https://i.imgur.com/yEVoYit.png)
 
-I get a notification every day at 19:00 on my phone to complete the habits. I do plan to build an app of my own to replace Streaks as I want the evening habit check to include a [look back](../looking-back/looking-back.md) on the day too. And be more customizable and faster to use.
-
-I go through morning and evening routines I do in [processes](processes.md).
+I got a notification every day at 19:00 on my phone to complete the habits. 
 
 ## Habits described
 

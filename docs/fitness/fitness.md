@@ -1,20 +1,22 @@
 # Fitness
 
-Below is aspirational and doesn't always happen but I try to strive towards some kind of [routine](../focusing/habits.md) in doing enough [daily exercise with proper form, good rest](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/) and [nutrition](../health/nutrition/nutrition.md).
+Below is aspirational and doesn't always happen but I try to strive towards following basic morning/day/evening [habits](../focusing/habits.md). Which involves doing enough [daily exercise with proper form, good rest](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/) and [nutrition](../health/nutrition/nutrition.md).
+
+Often times it's just some doing some sit ups / push ups when I walk the dogs in the morning as I listen to podcasts.
 
 [Foundations of Physical and Mental Performance](https://tim.blog/2023/03/08/dr-andrew-huberman/) is amazing listen. I am trying to adopt Huberman's exercise routine more especially do the recommended neck and leg muscle exercises.
 
-I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips, leg raises and sit-ups. Dips, leg raises and pull ups being my favorite. I also do cardio usually by [cycling](../travel/transportation/cycling.md) or prolonged walking and sometimes [running](running.md).
+I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips, leg raises and sit-ups. Dips, leg raises and pull ups being my favorite. I also do cardio usually by [cycling](../travel/transportation/cycling.md) (preferred) or prolonged walking and sometimes [running](running.md) (never really got to enjoying it).
 
 I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
 
 I try to [not sit for prolonged times](../health/ergonomics.md) (by using a standing desk and taking physical breaks). Going on walks or cycling for a bit always [resets my mind](https://twitter.com/emollick/status/1590785568929382401).
 
-### Daily routine
+### Heavy exercise
 
 I use [Strong app](https://www.strong.app/) to track workouts/progress. [Fitbod](https://fitbod.me/) is nice too as it generates workouts for you based on muscle areas you want to target. [MuscleWiki](https://musclewiki.com/) is great for finding [exercises](exercises.md) targetting certain muscles.
 
-I currently don't go to the gym so do workouts at home without any special gear but do plan to change it. My current daily routine I repeat 2-3 times daily. Everything done until failure. And with [proper strict form](https://youtu.be/5Jth37OywOE?t=522).
+I currently don't go to the gym so do workouts at home without any special gear but do plan to change it. When I do dedicated exercises I try do below exercises. Everything done until failure but with [proper strict form](https://youtu.be/5Jth37OywOE?t=522).
 
 1. [Push ups](https://www.youtube.com/watch?v=IODxDxX7oi4) (2 reps maxing out each rep)
 2. [Deep squats](https://www.youtube.com/watch?v=gsNoPYwWXeM) (2 reps maxing out each rep)
