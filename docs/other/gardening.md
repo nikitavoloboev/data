@@ -38,3 +38,6 @@ Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md).
 - [Sunken Greenhouse: The Solution To Plant Year Round](https://thetinylife.com/sunken-greenhouse/)
 - [Turn your backyard into a biodiversity hotspot](https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/) ([HN](https://news.ycombinator.com/item?id=34956067))
 - [Easy Organic Soil Mix for Beginners](https://forum.grasscity.com/threads/easy-organic-soil-mix-for-beginners.1116550/)
+- [How to Make a Record Breaking Super Soil Recipe Mix for Living Soil + Top Dress Revealed](https://www.youtube.com/watch?v=z9_5iIqpTVA)
+- [Learn Organic Gardening - YouTube](https://www.youtube.com/@growingyourgreens/videos)
+- [Is Float Tech the Easiest Way to Germinating Seeds?](https://www.youtube.com/watch?v=6rd26cKjbqo)

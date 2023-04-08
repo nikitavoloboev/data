@@ -89,3 +89,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Web Push for Web Apps on iOS and iPadOS (2023)](https://webkit.org/blog/12945/meet-web-push/) ([HN](https://news.ycombinator.com/item?id=34823402))
 - [Safari 16.4 Is An Admission (2023)](https://infrequently.org/2023/02/safari-16-4-is-an-admission/) ([HN](https://news.ycombinator.com/item?id=34906722)) ([Lobsters](https://lobste.rs/s/fjsve0/safari_16_4_is_admission))
 - [Convert a Chrome Extension to Safari Web Extension (2020)](https://bartsolutions.github.io/2020/11/20/safari-extension/)
+- [Safari Release Notes](https://developer.apple.com/documentation/safari-release-notes)
