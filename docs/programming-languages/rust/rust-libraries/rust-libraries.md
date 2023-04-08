@@ -1096,6 +1096,7 @@
 - [Cycle](https://github.com/hrkz/cycle) - Modern and safe symbolic mathematics.
 - [num-complex](https://github.com/rust-num/num-complex) - Complex numbers for Rust.
 - [RustQuant](https://github.com/avhz/RustQuant) - Rust library for quantitative finance.
+- [primal](https://github.com/huonw/primal) - Puts raw power into prime numbers.
 
 ## CSS
 
