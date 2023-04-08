@@ -1,16 +1,16 @@
 # Habits
 
-I try to cover essential [processes](processes.md#mroning)/[processes](processes.md#day)/[processes](processes.md#evening) habits I have. Every day, without exceptions.
+I try to cover essential [morning](processes.md#mroning)/[day](processes.md#day)/[evening](processes.md#evening) habits I have. Every day, without exceptions.
 
 I am currently building my own app to make sure I keep track of the habits I have.
 
 Habits in general help guide myself towards living more [happy](../life/happiness.md). Habits are chosen with care and adapted with experience. They should be quite lightweight in that I can follow the habits no matter where I am in the world, even if away from home.
 
-In the past I used used [Streaks](https://streaksapp.com) app. With wcich I made sure to complete my 6 daily habits. 
+In the past I used used [Streaks](https://streaksapp.com) app. With wcich I made sure to complete my 6 daily habits.
 
 ![](https://i.imgur.com/yEVoYit.png)
 
-I got a notification every day at 19:00 on my phone to complete the habits. 
+I got a notification every day at 19:00 on my phone to complete the habits.
 
 ## Habits described
 

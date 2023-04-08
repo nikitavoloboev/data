@@ -547,3 +547,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Dattorro reverb VST plugin](https://github.com/chaosprint/dattorro-vst-rs)
 - [Boing](https://github.com/PaulBatchelor/Boing) - Audio DSP library for musical applications, written in Rust.
 - [NoiSQL](https://github.com/ClickHouse/NoiSQL) - Generating Music With SQL Queries. ([HN](https://news.ycombinator.com/item?id=35482636))
+- [List of demo websites for automatic music generation research](https://github.com/affige/genmusic_demo_list)

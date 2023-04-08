@@ -78,3 +78,4 @@ title: ESLint
 - [Speeding up the JavaScript ecosystem - ESLint (2023)](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)
 - [ESLint plugin for UnoCSS](https://github.com/devunt/eslint-plugin-unocss)
 - [eslint-etc](https://github.com/cartant/eslint-etc) - Utils for ESLint TypeScript rules.
+- [TypeScript language service plugin for ESLint](https://github.com/Quramy/typescript-eslint-language-service)
