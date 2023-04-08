@@ -665,3 +665,4 @@ title: GitHub actions
 - [GitHub Actions Permissions (2022)](https://matklad.github.io/2022/10/24/actions-permissions.html) ([Lobsters](https://lobste.rs/s/3xog4g/github_actions_permissions))
 - [notify-discord](https://github.com/th0th/notify-discord) - GitHub action for notifying a Discord channel about the status of GitHub Actions Workflow.
 - [Use ChatGPT to summary a GitHub Pull Request](https://github.com/flows-network/github-pr-summary)
+- [Watchgha: Watch the progress of GitHub Actions on the command line (2023)](https://nedbatchelder.com/blog/202303/watchgha.html)

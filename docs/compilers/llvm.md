@@ -161,3 +161,4 @@ title: LLVM
 - [Writing an LLVM backend for the Move language in Rust (2023)](https://brson.github.io/2023/03/12/move-on-llvm)
 - [Adding a new target/object backend to LLVM JITLink (2023)](https://blog.llvm.org/posts/2023-03-16-adding-new-llvm-jitlink-target-object-backend/)
 - [llvm-ir-analysis](https://github.com/cdisselkoen/llvm-ir-analysis) - Static analysis of LLVM IR.
+- [LLVM: The middle-end optimization pipeline (2023)](https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html)

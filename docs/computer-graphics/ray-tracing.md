@@ -139,3 +139,4 @@ title: Ray tracing
 - [Lumen](https://github.com/yuphin/Lumen) - Vulkan ray tracing framework for various bidirectional path tracing techniques.
 - [Ray Tracing in One Weekend in Go](https://github.com/ypujante/ray-tracing)
 - [WebGPU Ray Tracing eXtension](https://github.com/codedhead/webrtx)
+- [jank development update - Optimizing a ray tracer (2023)](https://jank-lang.org/blog/2023-04-07-ray-tracing/)

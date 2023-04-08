@@ -6,7 +6,7 @@ Fuck everything else. Wrote out [routine](../../focusing/processes.md) for mysel
 
 ## Morning
 
-1. Wake up at ~ 9:00. 
+1. Wake up at ~ 9:00.
 2. Go take dogs outside (listen to [podcasts](../../podcasts/podcasts.md) a bit)
 3. Shower. Wash body + [skin care](../../health/skin-care.md) on face. [Brush teeth](../../health/teeth.md). Wear new clothes.
 4. Give food to dogs + 2 pills for Rachel (put in bowl).
@@ -15,7 +15,6 @@ Fuck everything else. Wrote out [routine](../../focusing/processes.md) for mysel
 7. Take [2 omega 3 pills + 1 magnesium](../../health/nutrition/supplements.md)
 8. Twitter 2 feeds actively, snapshot github/lobsters/hn/reddit. (should be automated asap, have my own algorithm for surfacing useful to me things, removing noise)
 9. Work through todos!
-
 
 ## Day
 
