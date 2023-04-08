@@ -290,3 +290,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Mullvad Browser](https://mullvad.net/en/browser) ([HN](https://news.ycombinator.com/item?id=35421034)) ([GitHub](https://github.com/mullvad/mullvad-browser))
 - [Requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 - [SmolHTML](https://github.com/jbrennan/SmolHTML) - Web browser engine written from scratch in Swift.
+- [BrowserBox](https://github.com/dosyago/BrowserBox) - Remote isolated browser API for security, automation visibility and interactivity.

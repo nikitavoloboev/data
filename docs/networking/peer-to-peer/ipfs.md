@@ -127,3 +127,4 @@ I do like the distinction of distributing content over distributing links. Each 
 - [IPFS client for Deno](https://github.com/deno-libs/ipfs)
 - [go-libipfs](https://github.com/ipfs/go-libipfs) - Library for building IPFS implementations.
 - [S5](https://github.com/s5-dev/S5) - Decentralized content-addressed storage network.
+- [helia](https://github.com/ipfs/helia) - Implementation of IPFS in JavaScript.

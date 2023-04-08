@@ -587,7 +587,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [chartmuseum/storage](https://github.com/chartmuseum/storage) - Go library providing a common interface for working across multiple storage backends.
 - [go-blockservice](https://github.com/ipfs/go-blockservice) - Seamless interface to both local and remote storage backends.
 - [GORM Data Types](https://github.com/go-gorm/datatypes)
-- [sqlite](https://gitlab.com/cznic/sqlite) - CGo-free port of SQLite.
+- [sqlite](https://gitlab.com/cznic/sqlite) - CGo-free port of SQLite. ([HN](https://news.ycombinator.com/item?id=35488980))
 - [Golobby ORM](https://github.com/golobby/orm) - Lightweight yet powerful, fast, customizable, type-safe object-relational mapper for Go.
 - [lockfree](https://github.com/dustinxie/lockfree) - Go lock-free concurrent Hashmap.
 - [satomic](https://github.com/dhui/satomic) - Go package that makes managing nested SQL transactions/savepoints easier.
