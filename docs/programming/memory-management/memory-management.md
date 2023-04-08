@@ -137,4 +137,4 @@
 - [Rust and RAII Memory Management (2023)](https://www.youtube.com/watch?v=pTMvh6VzDls)
 - [I built my own memory profiler (in Rust, on Linux) (2023)](https://www.youtube.com/watch?v=DpnXaNkM9_M)
 - [mevi](https://github.com/fasterthanlime/mevi) - Memory visualizer in Rust (ptrace + userfaultfd).
-- [The Garbage Collection Handbook: The Art of Automatic Memory Management (2023)](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
+- [The Garbage Collection Handbook: The Art of Automatic Memory Management (2023)](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038) ([HN](https://news.ycombinator.com/item?id=35492307))

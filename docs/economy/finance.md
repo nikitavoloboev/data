@@ -66,6 +66,8 @@ Ideally anything related to finances is automated as much as possible for me.
 
 [Minimum Viable Finance](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies) is a nice article to read to get a better sense of things you need to know as you try finance your own [startup](../business/startups/startups.md).
 
+> Want to study all the financial crisis that happened across history and understand the root causes of each one. Specifically I don't fully understand the importance of raising/lowering interest rates and how it influences the economy.
+
 ## Ongoing subscriptions
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up. The app I mentioned above will cover the use case of Bobby too so hopefully I won't need this app in future.
