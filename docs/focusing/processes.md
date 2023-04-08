@@ -7,7 +7,7 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 ## Morning
 
 1. Wake up at ~ 9:00. 
-2. If with dogs, go take dogs outside (listen to [podcasts](../podcasts/podcasts.md) a bit)
+2. If with dogs, go take dogs outside (listen to [podcasts](../podcasts/podcasts.md)/[books](../books/books.md) a bit)
 3. Shower. Wash body + [skin care](../health/skin-care.md) on face. [Brush teeth](../health/teeth.md). Wear new clothes.
 4. If with dogs, give food to dogs + 2 pills for Rachel (put in bowl).
 5. Make [tea](../health/nutrition/drinks/tea.md) (big kettle)
@@ -18,7 +18,7 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 
 ## Day
 
-1. If with dogs, take dogs on longer walk (podcast listen) at least once for ~ 1h.
+1. If with dogs, take dogs on longer walk (podcast/book listen) at least once for ~ 1h.
 2. Do some [exercise](../fitness/exercises.md) outside (sit ups + push ups).
 3. Put clothes to clean so there are always clean clothes available.
 4. Keep [good back](../health/ergonomics.md) (no slouch) and always work outside in terrace when you can.
@@ -28,7 +28,7 @@ I think of my [rules](rules.md) as boundaries within I try to operate my life. A
 
 ## Evening
 
-1. If with dogs, walk dogs + podcast.
+1. If with dogs, walk dogs + podcast/book.
 2. If with dogs, give dogs food.
 3. [Skin care](../health/skin-care.md) face + [brush teeth](../health/teeth.md). Clean myself.
 4. Write / voice memo transcribe the day's progress & how I feel in look back.

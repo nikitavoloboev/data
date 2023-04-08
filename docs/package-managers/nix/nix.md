@@ -539,3 +539,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix flake for many AI projects](https://github.com/nixified-ai/flake)
 - [Single-Command Server Bootstrapping (2023)](https://galowicz.de/2023/04/05/single-command-server-bootstrap/)
 - [nix-health](https://github.com/srid/nix-health) - Check the health of your Nix install.
+- [System Manager using Nix](https://github.com/numtide/system-manager)

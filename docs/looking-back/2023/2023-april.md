@@ -7,7 +7,7 @@ Fuck everything else. Wrote out [routine](../../focusing/processes.md) for mysel
 ## Morning
 
 1. Wake up at ~ 9:00.
-2. Go take dogs outside (listen to [podcasts](../../podcasts/podcasts.md) a bit)
+2. Go take dogs outside (listen to [podcasts](../../podcasts/podcasts.md)/[books](../../books/books.md) a bit)
 3. Shower. Wash body + [skin care](../../health/skin-care.md) on face. [Brush teeth](../../health/teeth.md). Wear new clothes.
 4. Give food to dogs + 2 pills for Rachel (put in bowl).
 5. Make [tea](../../health/nutrition/drinks/tea.md) (big kettle)
@@ -18,7 +18,7 @@ Fuck everything else. Wrote out [routine](../../focusing/processes.md) for mysel
 
 ## Day
 
-1. Take dogs on longer walk (podcast listen) at least once for ~ 1h.
+1. Take dogs on longer walk (podcast/book listen) at least once for ~ 1h.
 2. Do some [exercise](../../fitness/exercises.md) outside (sit ups + push ups).
 3. Put clothes to clean so there are always clean clothes available.
 4. Keep [good back](../../health/ergonomics.md) (no slouch) and always work outside in terrace when you can.
@@ -28,7 +28,7 @@ Fuck everything else. Wrote out [routine](../../focusing/processes.md) for mysel
 
 ## Evening
 
-1. Walk dogs + podcast.
+1. Walk dogs + podcast/book.
 2. Give dogs food.
 3. [Skin care](../health/skin-care.md) face + [brush teeth](../health/teeth.md). Clean myself.
 4. Write / voice memo transcribe the day's progress & how I feel in look back.
@@ -51,6 +51,18 @@ I don't own or have much anything in life. I am 28, not too old to do meaningful
 p.s. I would rather die than write another look back where I complain about how life is unfair and how painful it is to survive.
 
 It's pathetic and achieves nothing.
+
+As I do take walks often now and listen to podcasts/books. I've always dreamed of having a podcast/book app that when you open it, you would see the full transcription of what was said. So you can highlight it and save it to your wiki. Right now if I come across something interesting, I have to pause the podcast/book, go to telegram saved messages and note it down. 
+
+[HappyScribe](https://www.happyscribe.com/public) is similar to this idea but it doesn't do it live like for example Spotify does with lyrics. I want that. With ideally tight integration with LA in future. So I can tag a note or make an action on it into KusKus.
+
+The future I envision and hope to get to asap is KusKus for todos fully. Todos private and public. Go on user's profile, see all their public todos which are basically ideas to build. Explore page in KusKus surfaces interesting todos ala Twitter/TikTok Explore page.
+
+Then on LA side, all knowledge mapped. Sorted by topics. Track topics to learn / learned. Generate study guides by AI with help of community. Fully automate getting to the stage where any idea can be built. Fully automate finding ideas to build. 
+
+In future, perhaps synthesize new ideas based on all kinds of things. 
+
+All of the above is kind of possible now in some way or form. But it's all so so messy. I want clean interfaces to creating, learning things. 
 
 ## KusKus
 
