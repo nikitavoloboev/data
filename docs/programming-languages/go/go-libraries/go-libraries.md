@@ -108,6 +108,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [mainer](https://github.com/mna/mainer) - Defines types relevant to flag parsing and command entrypoint implementation.
 - [termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go.
 - [version](https://github.com/mszostok/version) - Present your CLI version in a classy way.
+- [goclap](https://github.com/steverusso/goclap) - Generate command line argument parsing code from Go comments.
 
 ## Test
 
@@ -715,6 +716,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [percent](https://github.com/dariubs/percent) - Simple library for calculate percentages.
 - [vector](https://github.com/quartercastle/vector) - Better way to write vector math in Go.
 - [go-fraction](https://github.com/nethruster/go-fraction) - Go library for working with fractions.
+- [MathGL](https://github.com/go-gl/mathgl) - Pure Go 3D math library.
 
 ## Biology
 
@@ -2134,6 +2136,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Editorconfig Core Go](https://github.com/editorconfig/editorconfig-core-go)
 - [arch](https://github.com/golang/arch) - Holds machine architecture information used by the Go toolchain.
 - [Tokenizer](https://github.com/tiktoken-go/tokenizer) - Pure Go implementation of OpenAI's tiktoken tokenizer.
+- [gortsplib](https://github.com/bluenviron/gortsplib) - RTSP 1.0 client and server library for Go.
 
 ## Links
 

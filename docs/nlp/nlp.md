@@ -999,3 +999,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
 - [XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training.
 - [Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally.
+- [EVAL](https://github.com/corca-ai/EVAL) - Elastic Versatile Agent with Langchain. Will execute all your requests. Just like an eval method.
+- [GPT4All.zig](https://github.com/renerocksai/gpt4all.zig) - Run a GPT4All model locally.
+- [LLaMA-Adapter: Efficient Fine-tuning of LLaMA](https://github.com/ZrrSkywalker/LLaMA-Adapter)
+- [llama-node](https://github.com/hlhr202/llama-node) - Large Language Model LLaMA on node.js.

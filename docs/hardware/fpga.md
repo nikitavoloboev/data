@@ -141,3 +141,4 @@ title: Field-programmable gate array
 - [Fletcher](https://github.com/abs-tudelft/fletcher) - Framework to integrate FPGA accelerators with Apache Arrow.
 - [SpyDrNet](https://github.com/byuccl/spydrnet) - Flexible framework for analyzing and transforming FPGA netlists.
 - [Pentimento: Data Remanence in Cloud FPGAs (2023)](https://arxiv.org/abs/2303.17881)
+- [Awesome FPGA Programming](https://github.com/emanueledelsozzo/awesome-fpga-programming)

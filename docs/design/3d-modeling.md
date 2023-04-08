@@ -108,3 +108,4 @@
 - [Unfolder for Mac](https://www.unfolder.app/) - 3D modelcreating papercraft. ([HN](https://news.ycombinator.com/item?id=34964939))
 - [Forged Thoughts](https://github.com/markusmoenig/ForgedThoughts) - 3D modeling and rendering programming language utilizing SDFs.
 - [Make 3D Models using ChatGPT (2022)](https://www.youtube.com/watch?v=nVIMVBmAi_8)
+- [viser](https://github.com/brentyi/viser) - Library for interactive 3D visualization + Python.

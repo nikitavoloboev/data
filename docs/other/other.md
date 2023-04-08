@@ -778,3 +778,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [waybackgif](https://github.com/whatrocks/waybackgif) - Create GIF of chronological screenshots from any website on Wayback Machine.
 - [ELI5: How is GPS free?](https://www.reddit.com/r/explainlikeimfive/comments/118aak0/eli5_how_is_gps_free/)
 - [Maze Generation](https://github.com/adrocodes/maze-generation) - Generating mazes with Rust.
+- [irdb](https://github.com/probonopd/irdb) - Crowd-sourced, manufacturer-independent databases of infrared remote control codes.

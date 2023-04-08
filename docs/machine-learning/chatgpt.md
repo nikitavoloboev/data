@@ -301,3 +301,4 @@ It's also great at giving examples.
 - [Sparks of AGI: early experiments with GPT-4 (2023)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 - [IntelliBar](https://intellibar.app/) - ChatGPT at your fingertips. ([Code](https://github.com/astoilkov/IntelliBar))
 - [ChatGDB](https://github.com/pgosar/ChatGDB) - GPT-Powered GDB Assistant. ([HN](https://news.ycombinator.com/item?id=35483933))
+- [Awesome ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)

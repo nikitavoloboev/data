@@ -43,3 +43,4 @@ Evaluating using Raycast as my main plugin interface. Currently use [Alfred](../
 - [VSCode Raycast extension](https://marketplace.visualstudio.com/items?itemName=tonka3000.raycast) ([Code](https://github.com/tonka3000/vscode-raycast))
 - [Raycast's evolution in 2022](https://twitter.com/raycastapp/status/1605981287868534784)
 - [Raycast AI: The magic of AI, right on your Mac (2023)](https://www.youtube.com/watch?v=nKYeAhsWF70)
+- [Blast](https://github.com/BlastLauncher/blast) - Runtime for Raycast launcher compatible extensions.

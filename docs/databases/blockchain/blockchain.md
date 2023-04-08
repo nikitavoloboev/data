@@ -444,3 +444,4 @@ Want to study [Dexterity](https://github.com/solana-labs/dexterity) code for how
 - [Hyperledger Fabric Samples](https://github.com/hyperledger/fabric-samples)
 - [Grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [ink! Playground](https://github.com/paritytech/ink-playground) - Browser Based Playground for editing, sharing & compiling ink! Smart Contracts.
+- [thirdweb SDK for Browser, Node and Mobile apps](https://github.com/thirdweb-dev/js)

@@ -1204,3 +1204,7 @@
 - [VideoCrafter：Toolkit for Text-to-Video Generation and Editing](https://github.com/VideoCrafter/VideoCrafter)
 - [DiffMimic: Efficient Motion Mimicking with Differentiable Physics (2023)](https://arxiv.org/abs/2304.03274) ([Code](https://github.com/jiawei-ren/diffmimic))
 - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions (2023)](https://instruct-nerf2nerf.github.io/) ([Code](https://github.com/ayaanzhaque/instruct-nerf2nerf))
+- [MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
+- [Segment Anything with Clip](https://github.com/Curt-Park/segment-anything-with-clip)
+- [Hachi](https://github.com/ramanlabs-in/hachi) - Natural Language search for Videos and Images.
+- [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation (2023)](https://sadtalker.github.io/) ([Code](https://github.com/Winfredy/SadTalker))

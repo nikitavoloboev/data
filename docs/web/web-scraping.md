@@ -259,3 +259,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [UltimaScraper](https://github.com/DIGITALCRIMINALS/OnlyFans) - Scrape all the media from an OnlyFans account.
 - [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps (2023)](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)
 - [Wikipedia Article Reference Inventory WARI](https://github.com/internetarchive/wari) - Import workflows for the Wikipedia Citations Database.
+- [ScrapeGPT](https://github.com/davidhershey/ScrapeGPT) - Web scraper builder that uses GPT-4 to automatically generate Python scripts for scraping websites based on user input.
