@@ -1202,3 +1202,4 @@
 - [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) - Collection of resources on digital human including clothed people digitalization, virtual try-on, and other related directions.
 - [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything - Detect and Segment Anything with Text Inputs.
 - [VideoCrafter：Toolkit for Text-to-Video Generation and Editing](https://github.com/VideoCrafter/VideoCrafter)
+- [DiffMimic: Efficient Motion Mimicking with Differentiable Physics (2023)](https://arxiv.org/abs/2304.03274) ([Code](https://github.com/jiawei-ren/diffmimic))

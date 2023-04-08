@@ -3132,3 +3132,4 @@
 - [stabby](https://github.com/ZettaScaleLabs/stabby) - Stable ABI for Rust with compact sum-types.
 - [Can We Make Yew Even Faster? (2023)](https://www.youtube.com/watch?v=SIdTRs_AsGs)
 - [A definitive guide to sealed traits in Rust (2023)](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/12cj6as/a_definitive_guide_to_sealed_traits_in_rust/))
+- [Building your no-std Rust library for a no-std target in CI](https://github.com/KodrAus/rust-no-std)
