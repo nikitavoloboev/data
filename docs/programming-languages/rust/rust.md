@@ -1112,3 +1112,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust's Poor Composability (2023)](https://thedav.is/post/rusts-poor-composability/) ([HN](https://news.ycombinator.com/item?id=35468168))
 - [Custom allocators in Rust (2023)](https://nical.github.io/posts/rust-custom-allocators.html)
 - [Spotting and avoiding heap fragmentation in Rust applications (2023)](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/) ([HN](https://news.ycombinator.com/item?id=35469632))
+- [Learn Rust 101](https://github.com/plabayo/learn-rust-101) ([HN](https://news.ycombinator.com/item?id=35489029))

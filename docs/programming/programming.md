@@ -665,3 +665,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [Repeat yourself, do more than one thing, and rewrite everything (2018)](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
 - [Practical Optimizations (2023)](https://www.youtube.com/watch?v=NAVbI1HIzCE)
 - [Ask HN: Book recommendations that made you a better engineer overall? (2023)](https://news.ycombinator.com/item?id=35451676)
+- [How to Design Programs, Second Edition](https://htdp.org/2023-3-6/Book/index.html) ([HN](https://news.ycombinator.com/item?id=35478871))
