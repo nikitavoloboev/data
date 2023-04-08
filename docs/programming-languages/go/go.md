@@ -999,3 +999,4 @@ if *boolArgPtr != false {
 - [What design pattern / technique made your programming in Go easier? (2023)](https://www.reddit.com/r/golang/comments/126y75p/as_a_go_programmer_what_design_pattern/)
 - [The Smallest Go Binary (5KB) (2023)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb) ([Reddit](https://www.reddit.com/r/golang/comments/128mmd4/the_smallest_go_binary_5kb/))
 - [Type Specialization in Go (2023)](https://commaok.xyz/post/type_specialization/)
+- [Profiling Go Programs (2023)](https://benchkram.de/blog/dev/profiling-go-programs)
