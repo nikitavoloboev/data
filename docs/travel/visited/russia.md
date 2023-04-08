@@ -10,7 +10,7 @@ From being [pillaged by Mongol Empire](https://en.wikipedia.org/wiki/Mongol_inva
 
 Then [overthrowing the Tsar](https://en.wikipedia.org/wiki/Murder_of_the_Romanov_family), [fighting a civil war](https://en.wikipedia.org/wiki/Russian_Civil_War) and creating USSR. Which in practice never achieved the vision of equality for all but was used as a very oppressive regime to [consolidate power and kill many millions of own citizens](https://en.wikipedia.org/wiki/Mass_killings_under_communist_regimes).
 
-WW2 killed ~ 27,000,000 Russians alone. The devastating impact of the war together with USSR's victory was used aggressively by USSR to maintain power.
+WW2 [killed ~ 27,000,000 Russians](http://www.fallen.io/ww2/) alone. The devastating impact of the war together with USSR's victory was used aggressively by USSR to maintain power.
 
 After WW2, cold war started which meant that collaboration between the West and Russia was essentially at standstill. There were essentially no importable Western culture and vice versa. It's valuable to understand this together with the times like [Perestroika](https://en.wikipedia.org/wiki/Perestroika) and the effects it had on how modern Russia works and behaves.
 

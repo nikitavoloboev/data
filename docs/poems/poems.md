@@ -1,12 +1,16 @@
 # Poems
 
-## Favorite
+## Favorite poems
 
 - [Guest House](https://mrsmindfulness.com/guest-house-poem/)
 
-## Interesting
+## Interesting poems
 
 - [If – A Poem by Rudyard Kipling](https://poets.org/poem/if) ([HN](https://news.ycombinator.com/item?id=29753513))
+
+## Interesting poets
+
+- [Мандельштам, Осип Эмильевич](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%BC,_%D0%9E%D1%81%D0%B8%D0%BF_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87)
 
 ## Links
 
@@ -27,3 +31,4 @@
 - [Robots are writing poetry, and many people can’t tell the difference (2022)](https://thewalrus.ca/ai-poetry/) ([HN](https://news.ycombinator.com/item?id=31298899))
 - [Versepad](https://versepad.com/) - Text editor for poets.
 - [Language models can only write poetry (2021)](https://posts.decontextualize.com/language-models-poetry/)
+- [Почему Мандельштам, чтобы оскорбить Сталина, назвал его осетином](https://gorky.media/context/pochemu-mandelshtam-chtoby-oskorbit-stalina-nazval-ego-osetinom/)
