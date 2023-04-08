@@ -795,3 +795,5 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Things DBs Don't Do - But Should (2023)](https://www.thenile.dev/blog/things-dbs-dont-do)
 - [A developer-driven approach to building secondary indexes presentation (2023)](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)
 - [Neuledge](https://github.com/neuledge/engine-js) - Universal language to model, share, and interact with databases.
+- [MVCC for Rust](https://github.com/penberg/mvcc-rs) - Rust implementation of the Hekaton optimistic multiversion concurrency control algorithm.
+- [High-Performance Concurrency Control Mechanisms for Main-Memory Databases (2012)](https://vldb.org/pvldb/vol5/p298_per-akelarson_vldb2012.pdf)

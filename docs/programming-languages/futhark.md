@@ -24,3 +24,4 @@ title: Futhark
 - [Futhark CI](https://github.com/diku-dk/futhark-ci)
 - [Experimenting with Futhark programming style](https://github.com/diku-dk/edda)
 - [Compositional Deep Learning in Futhark (2019)](https://elsman.com/pdf/fhpnc19.pdf)
+- [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning) ([HN](https://news.ycombinator.com/item?id=35495070))

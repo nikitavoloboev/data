@@ -6,7 +6,7 @@ I am currently building my own app to make sure I keep track of the habits I hav
 
 Habits in general help guide myself towards living more [happy](../life/happiness.md). Habits are chosen with care and adapted with experience. They should be quite lightweight in that I can follow the habits no matter where I am in the world, even if away from home.
 
-In the past I used used [Streaks](https://streaksapp.com) app. With wcich I made sure to complete my 6 daily habits.
+In the past I used used [Streaks](https://streaksapp.com) app. With which I made sure to complete my 6 daily habits.
 
 ![](https://i.imgur.com/yEVoYit.png)
 

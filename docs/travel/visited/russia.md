@@ -8,7 +8,7 @@
 
 From being [pillaged by Mongol Empire](https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27) in 13-14th century. To centralizing power and [expanding and protecting its borders](https://en.wikipedia.org/wiki/Territorial_evolution_of_Russia) through its history.
 
-Then [overthrowing the Tsar](https://en.wikipedia.org/wiki/Murder_of_the_Romanov_family), [fighting a civil war](https://en.wikipedia.org/wiki/Russian_Civil_War) and creating USSR. Which in practice never achieved the vision of equality for all but was used as a very oppressive regime to [consolidate power and kill many millions of own citizens](https://en.wikipedia.org/wiki/Mass_killings_under_communist_regimes).
+Then [overthrowing the Tsar](https://en.wikipedia.org/wiki/Murder_of_the_Romanov_family), [fighting a civil war](https://en.wikipedia.org/wiki/Russian_Civil_War) and creating USSR. Which in practice never achieved the vision of equality for all but was used as a [very oppressive regime](https://youtu.be/tKWAnpECKgU?t=4166) to [consolidate power and kill many millions of own citizens](https://en.wikipedia.org/wiki/Mass_killings_under_communist_regimes).
 
 WW2 [killed ~ 27,000,000 Russians](http://www.fallen.io/ww2/) alone. The devastating impact of the war together with USSR's victory was used aggressively by USSR to maintain power.
 
@@ -701,3 +701,4 @@ I also have a [mostly Russian Twitter List](https://twitter.com/i/lists/13511205
 - [«Имперская формула принята официально: Россия нигде не заканчивается» За несколько дней до начала вторжения социолог Григорий Юдин в точности описал, какой будет эта война. «Медуза» поговорила с ним о том, как она завершится (2023)](https://meduza.io/feature/2023/02/24/imperskaya-formula-prinyata-ofitsialno-rossiya-nigde-ne-zakanchivaetsya) ([Tweet](https://twitter.com/noraltavir/status/1629084540445642752))
 - [In Moscow's Shadows Podcast](https://inmoscowsshadows.buzzsprout.com/)
 - [Доренко – Путин история человека захватившего власть в России](https://www.youtube.com/watch?v=ebLnz7yHizo)
+- [Либеров – как творить в несвободной стране (2023)](https://www.youtube.com/watch?v=tKWAnpECKgU)

@@ -54,3 +54,4 @@ I often switch between `Week` and `Month` views.
 - [TimeBlok](https://github.com/JettChenT/timeblok) - Programming language for calendars.
 - [ical-generator](https://github.com/sebbo2002/ical-generator) - Small piece of code which generates ical calendar files.
 - [tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client in TS.
+- [calsync](https://github.com/rchampourlier/calsync) - Simple Typescript tool to copy calendars from Google Calendar to CalDAV and vice-versa.

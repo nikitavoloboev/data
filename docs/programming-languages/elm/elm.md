@@ -121,3 +121,4 @@ title: Elm
 - [Implementing multi-file analysis for linters (2023)](https://jfmengels.net/multi-file-analysis/)
 - [Should I use Elm for production in 2023?](https://www.reddit.com/r/elm/comments/12961nu/should_i_use_elm_for_production_in_2023/)
 - [Writing linter rules why, how and when (2023)](https://www.youtube.com/watch?v=zY1xDjGE7DU)
+- [Why and How We Retired Elm at Culture Amp (2023)](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/) ([HN](https://news.ycombinator.com/item?id=35495910))
