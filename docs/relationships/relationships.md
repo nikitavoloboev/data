@@ -2,15 +2,29 @@
 
 Below is what I think it takes to have successful and happy relationships of any kind but especially romantic.
 
-I am 27 now so I have a lot to learn still and I genuinely just want to be a nice person and maximize the amount of fun and novel experiences I get to live through in this life. Below list I think maximizes that goal in some broad strokes systematic way. I have some [other rules](../focusing/rules.md) I note down too that help me a lot.
+I am 28 now so I have a lot to learn still and I genuinely just want to be a nice person and maximize the amount of fun and novel experiences I get to live through in this life. Below list I think maximizes that goal in some broad strokes systematic way. I have some [other rules](../focusing/rules.md) I note down too that help me a lot.
 
 > At the end of the day people won't remember what you said or did, they will remember how you made them feel.
 
 **1. Be honest. Be kind. Be empathetic.**
 
-Put above in short because I think it summarizes everything well. You have to be honest and communicate everything. A conflict is not you fighting with another person. It's you and her/him fighting to solve the issue/conflict whatever it may be. The hardest part is identifying what the issue is and being honest about it.
+Put above in short because I think it summarizes everything well. You have to be honest and communicate everything.
 
-More important than being honest is being kind through everything. You should really try to never hurt the person even if you are hurt/depressed yourself. If how you honestly feel about a person will hurt the person, often times it's best not say it and just leave the relationship. Of course explanation is in order if it's a very long term relationship but the truth is that some relationships just don't work out and there is nothing you nor her/him can do about it. It's probably either loss of physical attraction or loss of interest in spending time with the person or both.
+If you honestly love the person. Find out what they like/enjoy doing. And do it. If your partner mention something they wanted or thought would be nice, take initiative and do it.
+
+Conflicts are natural too. Important to remember that a conflict is not you fighting with another person. It's you and her/him fighting to solve the issue/conflict whatever it may be. The hardest part is identifying what the issue is and being honest about it.
+
+Most conflicts are solved through thorough and kind communication. Some conflicts can reappear often though and may hint at some deep issues in the relationship. It could be the case that you actually stopped loving a person for some reason. In those cases, it's good to cut the relationship early and not let each other suffer as this lack of love will show in many ways.
+
+It's important to remember that how others feel about you is not a reflection of who you are as a person. People are different. Tastes are different. Time plays a huge role too in how people perceive things. Be kind and talk through things.
+
+[Scenes from a Marriage](https://trakt.tv/shows/scenes-from-a-marriage-2021) is nice series that showcases how lack of communication can destroy relationships.
+
+You should always remember you are dealing with another human being. Who can be irrational with thoughts and emotions. It's hard to take another point's of view but you can try.
+
+One thing I personally found and try my best to stop doing is when I am hurt/depressed myself, I can project this unhappiness in way I talk or do things too. I don't do this any more as I became self aware of this behavior. What is unfortunate and good to remember is that any real damage you do to another person most likely won't disappear with time. Many wounds take a long of time/work to heal so be very careful with what you say and how you say things.
+
+Some relationships don't work out and there's nothing you can do about it. And that's okay. Cherish the time you spent together and move on. Leaving a relationship does not mean you won't see each other again. It could be the case you met each other at the wrong time in your life.
 
 **2. Don't avoid/ignore conflicts. Communicate everything.**
 
@@ -360,4 +374,3 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ)
 - [What cautionary advice about women would you give to a man who was new to the dating scene? (2023)](https://www.reddit.com/r/AskMen/comments/12am6ij/what_cautionary_advice_about_women_would_you_give/)
 - [Where do you feel you get the best objective relationship advice? (2023)](https://www.reddit.com/r/datingoverthirty/comments/12d2sdo/where_do_you_feel_you_get_the_best_objective/)
-- [Мой идеальный партнер](https://www.youtube.com/watch?v=hdiJf24IPZ4)
