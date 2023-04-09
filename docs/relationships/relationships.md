@@ -10,7 +10,7 @@ I am 28 now so I have a lot to learn still and I genuinely just want to be a nic
 
 Put above in short because I think it summarizes everything well. You have to be honest and communicate everything.
 
-If you honestly love the person. Find out what they like/enjoy doing. And do it. If your partner mention something they wanted or thought would be nice, take initiative and do it.
+If you honestly love the person. Find out what they like/enjoy doing. And do it. If your partner mentions something they wanted or thought would be nice, take initiative and do it.
 
 Conflicts are natural too. Important to remember that a conflict is not you fighting with another person. It's you and her/him fighting to solve the issue/conflict whatever it may be. The hardest part is identifying what the issue is and being honest about it.
 
@@ -374,3 +374,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ)
 - [What cautionary advice about women would you give to a man who was new to the dating scene? (2023)](https://www.reddit.com/r/AskMen/comments/12am6ij/what_cautionary_advice_about_women_would_you_give/)
 - [Where do you feel you get the best objective relationship advice? (2023)](https://www.reddit.com/r/datingoverthirty/comments/12d2sdo/where_do_you_feel_you_get_the_best_objective/)
+- [Всё про личные границы](https://www.youtube.com/watch?v=9zV_hTGmiJ8)

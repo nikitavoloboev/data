@@ -152,3 +152,4 @@
 - [We need better support for SSH host certificates (2023)](https://mjg59.dreamwidth.org/65874.html) ([Lobsters](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host))
 - [Forwarding ssh-agent through WebSockets](https://tristancacqueray.github.io/blog/forwarding-ssh-agent-through-websockets)
 - [SSH authorization keys experiments (2023)](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
+- [Closing a stale SSH connection (2023)](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
