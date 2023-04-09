@@ -476,3 +476,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [GraphQL vs. REST APIs: a complete guide (2023)](https://www.airplane.dev/blog/graphql-vs-rest-apis-a-complete-guide) ([HN](https://news.ycombinator.com/item?id=35014395))
 - [APIRank.dev](https://apirank.dev/) - Benchmarks of public APIs. ([HN](https://news.ycombinator.com/item?id=35084108))
 - [Supaglue](https://github.com/supaglue-labs/supaglue) - Open source unified API for CRMs.
+- [What are your favorite pieces of API design? (2023)](https://twitter.com/dan_abramov/status/1644461104121237505)

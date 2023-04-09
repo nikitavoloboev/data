@@ -233,3 +233,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [SolidJS - The Hard Parts w/ Dan Jutan (2023)](https://www.youtube.com/watch?v=E3jYGTB50LE)
 - [Signals in TypeScript: The Road to Solid v1.7 (2023)](https://www.youtube.com/watch?v=2fW6JaJHoCE)
 - [Strict Mode in SolidJS?! (2023)](https://www.youtube.com/watch?v=2bkuEIa3Nwk)
+- [Solid-Presence-Signal](https://github.com/EthanStandel/solid-presence-signal) - Animate the presence of an element. ([Reddit](https://www.reddit.com/r/solidjs/comments/12ft18u/i_made_a_lightweight_presence_animation_library/))
