@@ -702,3 +702,4 @@ I also have a [mostly Russian Twitter List](https://twitter.com/i/lists/13511205
 - [In Moscow's Shadows Podcast](https://inmoscowsshadows.buzzsprout.com/)
 - [Доренко – Путин история человека захватившего власть в России](https://www.youtube.com/watch?v=ebLnz7yHizo)
 - [Либеров – как творить в несвободной стране (2023)](https://www.youtube.com/watch?v=tKWAnpECKgU)
+- [Россия без империализма (2023)](https://www.youtube.com/watch?v=y7dbL0ukbbk)
