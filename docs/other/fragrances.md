@@ -24,3 +24,4 @@ Currently use [Burberry London for Men cologne](https://www.fragrantica.com/perf
 - [Jo Malone](https://www.jomalone.eu/)
 - [Lovely men fragrances (2023)](https://www.reddit.com/r/fragrance/comments/115rq2z/current_weapons_of_choice_26m/)
 - [Fragrances that you've smelled and instantly said "I must have this" (2023)](https://www.reddit.com/r/fragrance/comments/116wh3c/fragrances_that_youve_smelled_and_instantly_said/)
+- [Nice colognes](https://www.reddit.com/r/seduction/comments/12fb62o/colognes_that_get_you_laid/)

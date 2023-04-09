@@ -263,3 +263,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers.
 - [Tramline](https://www.tramline.app/) - Release apps without drowning in process. ([Lobsters](https://lobste.rs/s/rgmlxm/tramline_release_coordination_platform))
 - [Universal Binary Installer](https://github.com/houseabsolute/ubi)
+- [CHOMP](https://github.com/guybedford/chomp) - 'JS Make' - parallel task runner for the frontend ecosystem with a JS extension system.

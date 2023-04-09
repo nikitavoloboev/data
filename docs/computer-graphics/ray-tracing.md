@@ -4,7 +4,7 @@ title: Ray tracing
 
 # [Ray tracing](<https://en.wikipedia.org/wiki/Ray_tracing_(graphics)>)
 
-[Ray tracing with Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) & [How Ray Tracing (Modern CGI) Works](https://www.youtube.com/watch?v=gsZiJeaMO48) are nice.
+[Coding Adventure: Ray Tracing](https://www.youtube.com/watch?v=Qz0KTGYJtUk), [Ray tracing with Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) & [How Ray Tracing (Modern CGI) Works](https://www.youtube.com/watch?v=gsZiJeaMO48) are nice.
 
 [Hybrid Rendering](https://github.com/diharaw/hybrid-rendering) is nice code to study.
 
@@ -140,3 +140,4 @@ title: Ray tracing
 - [Ray Tracing in One Weekend in Go](https://github.com/ypujante/ray-tracing)
 - [WebGPU Ray Tracing eXtension](https://github.com/codedhead/webrtx)
 - [jank development update - Optimizing a ray tracer (2023)](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
+- [Coding Adventure: Ray Tracing (2023)](https://www.youtube.com/watch?v=Qz0KTGYJtUk) ([Tweet](https://twitter.com/SebastianLague/status/1642156718648881165))

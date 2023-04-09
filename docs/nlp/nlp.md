@@ -1009,3 +1009,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models (2023)](https://arxiv.org/abs/2304.01933) ([Code](https://github.com/AGI-Edgerunners/LLM-Adapters))
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [LLaMa-Pruning: Structural Pruning for LLaMa](https://github.com/horseee/LLaMa-Pruning)
+- [Simple Hierarchical Transformer](https://github.com/lucidrains/simple-hierarchical-transformer)
