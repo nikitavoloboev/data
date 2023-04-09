@@ -380,3 +380,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Pup](https://github.com/hexagon/pup) - Universal process manager for Deno.
 - [deno-embedder](https://github.com/NfNitLoop/deno-embedder) - Dev tools for embedding static files into Deno as code.
 - [OpenAI API starter kit for Deno](https://github.com/andyjessop/deno-openai)
+- [Supabase Edge Runtime](https://github.com/supabase/edge-runtime) - Web server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.

@@ -462,3 +462,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [env-var](https://github.com/evanshortiss/env-var) - Verification, sanitization, and type coercion for environment variables in Node.
 - [Nodepad](https://github.com/joaopcm/nodepad) - All-in-one platform for creating, executing, and sharing Node.js code snippets.
 - [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) - package.json linter for Node projects.
+- [lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.

@@ -691,6 +691,7 @@
 - [PreviewSnapshots](https://github.com/doordash-oss/swiftui-preview-snapshots) - Library for sharing view configurations between SwiftUI previews and SnapshotTesting snapshot tests.
 - [Swift Package Tests](https://github.com/apple/swift-integration-tests) - Automated tests for validating the generated Swift snapshots behave correctly.
 - [Swift Power Assert](https://github.com/kishikawakatsumi/swift-power-assert)
+- [ApprovalTests](https://github.com/approvals/ApprovalTests.Swift) - Powerful alternative to assertions.
 
 ## API
 

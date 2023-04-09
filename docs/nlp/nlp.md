@@ -1005,3 +1005,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [llama-node](https://github.com/hlhr202/llama-node) - Large Language Model LLaMA on node.js.
 - [LangChain as an AIPlugin](https://github.com/langchain-ai/langchain-aiplugin)
 - [Motörhead](https://github.com/getmetal/motorhead) - Memory and information retrieval server for LLMs.
+- [Flan-Eval: Reproducible Held-Out Evaluation for Instruction Tuning](https://github.com/declare-lab/flan-eval)
+- [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models (2023)](https://arxiv.org/abs/2304.01933) ([Code](https://github.com/AGI-Edgerunners/LLM-Adapters))
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [LLaMa-Pruning: Structural Pruning for LLaMa](https://github.com/horseee/LLaMa-Pruning)
