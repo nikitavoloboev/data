@@ -56,7 +56,7 @@ In future, perhaps synthesize new ideas based on all kinds of things.
 
 All of the above is kind of possible now in some way or form. But it's all so so messy. I want clean interfaces to creating, learning things.
 
-[Last month](2023-march.md) it felt like the boiling point was reached in how many 💩 things happened. Don't want to go over it again and won't do in future, at least hopefully it will be some new 💩 things than getting fired 8 times, having no money for health issues, food or tax.
+[Last month](2023-march.md) it felt like the boiling point was reached in how many 💩 things happened. Don't want to go over it again and won't do in future, at least hopefully it will be some new things than getting fired 8 times, having no money for health issues, food or tax.
 
 I feel a bit like this quote now:
 
@@ -73,3 +73,12 @@ Don't know why I even applied to be honest. Anyway, lots of things to build and 
 One other idea I want to build after KusKus/LA is an app to get a log of events across different networks (Twitter/Spotify/Letterboxd/Trakt/IG/..). That is go on user profile and see `Nikita liked this song`. `Nikita made this tweet`. In chronological view. Would need to write a scraper and put it on a cron job for this and offer it as a service, I totally want this. Especially I want to be able to full text search across my timeline of events too.
 
 But alas, need to be focused! That's my **biggest** issue in life. Being all over the place with things I want to do and often not finishing things because of this. So no more of that.
+
+Once I get my money situation under control, I'd love to read through [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html) & [Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html). I truly wish I understood how [Midjourney](https://www.midjourney.com/) & [ChatGPT](../../machine-learning/chatgpt.md) is made.
+
+My current understanding is that they both use neural nets. Neural nets have inputs and outputs and go through layers. Each layer somehow encodes 'features' I think. And learning happens through backpropagation or some other algorithm. Also transformer models are the best thing and everyone is trying to scale them now. 
+
+Need to read through [minGPT](https://github.com/karpathy/minGPT) code fully. Maybe this meme will make more sense.
+
+![](https://i.redd.it/n9fgba8b0qr01.png)
+
