@@ -48,3 +48,4 @@
 - [Hermes](https://github.com/hashicorp-forge/hermes) - Document management system. ([HN](https://news.ycombinator.com/item?id=34600126)) ([Intro](https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system))
 - [Keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB.
 - [The future of headless CMS (2023)](https://payloadcms.com/blog/launch-week-day-4-the-future-of-headless) ([Reddit](https://www.reddit.com/r/javascript/comments/12dmjwy/the_future_of_headless_cms/))
+- [SimpleCMS](https://github.com/Rar9/SimpleCMS) - Powerful Headless CMS with SvelteKit power.
