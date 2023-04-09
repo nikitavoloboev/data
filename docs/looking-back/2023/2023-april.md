@@ -30,7 +30,7 @@ Fuck everything else. Wrote out [routine](../../focusing/processes.md) for mysel
 
 1. Walk dogs + podcast/book.
 2. Give dogs food.
-3. [Skin care](../health/skin-care.md) face + [brush teeth](../health/teeth.md). Clean myself.
+3. [Skin care](../../health/skin-care.md) face + [brush teeth](../../health/teeth.md). Clean myself.
 4. Write / voice memo transcribe the day's progress & how I feel in look back.
 5. Go to sleep. Always clean bed sheets.
 

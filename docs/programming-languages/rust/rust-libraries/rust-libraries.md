@@ -332,6 +332,7 @@
 - [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo) - 3d transformation gizmo built on top of the egui library.
 - [VIZIA](https://github.com/geom3trik/VIZIA) - Declarative GUI library written in Rust.
 - [Panoramix](https://github.com/PoignardAzur/panoramix) - Prototype implementation of reactive UI in rust.
+- [Freya](https://github.com/marc2332/freya) - Native GUI library for Rust powered by Dioxus and Skia.
 
 ## DB
 
