@@ -447,6 +447,7 @@
 - [cacache](https://github.com/zkat/cacache-rs) - High-performance, concurrent, content-addressable disk cache, optimized for async APIs.
 - [rsonpath](https://github.com/V0ldek/rsonpath) - Fast Rust JSONPath query engine.
 - [adrodb](https://github.com/adrocodes/adrodb) - Super simple key-value store using SQLite.
+- [SQLite no_std](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible.
 
 ## Video
 
