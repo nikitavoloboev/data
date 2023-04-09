@@ -566,7 +566,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Hands-on Rust Book (2021)](https://pragprog.com/titles/hwrust/hands-on-rust/) - Effective Learning through 2D Game Development and Play. ([Code](https://github.com/thebracket/HandsOnRust)) ([HN](https://news.ycombinator.com/item?id=28861618))
 - [What Can Coerce, and Where, in Rust (2021)](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust)
 - [Compiling Rust is NP-hard (2021)](https://niedzejkob.p4.team/rust-np/) ([HN](https://news.ycombinator.com/item?id=27769718)) ([Lobsters](https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard))
-- [Inline In Rust (2021)](https://matklad.github.io//2021/07/09/inline-in-rust.html) ([Lobsters](https://lobste.rs/s/bd6rcd/inline_rust))
+- [Inline In Rust (2021)](https://matklad.github.io/2021/07/09/inline-in-rust.html) ([Lobsters](https://lobste.rs/s/bd6rcd/inline_rust))
 - [The problem of effects in Rust (2020)](https://boats.gitlab.io/blog/post/the-problem-of-effects/) ([Lobsters](https://lobste.rs/s/otrxxf/problem_effects_rust_2020))
 - [How we improved the performance of our Rust app (2021)](https://www.poor.dev/blog/performance/)
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
