@@ -16,7 +16,7 @@ Also had some truly interesting ideas, I think at least. I now have this as my [
 
 It lists all the repos I have as they exist in my `~/src` folder where I keep all the code. Expect clones, those go into `~/clones`.
 
-I also got an opportunity to work at [Inlang](https://inlang.com/), starting next month. Incredibly excited about it as it is actually my first ever job that is about writing an open source tool. And I love open source. And hate existing localization tools. So am exciting to solve the problem well. [Samuel](https://github.com/samuelstroschein) thought about the problem a lot and does have a very nice solution for it [using git](https://inlang.com/blog/notes-on-git-based-architecture) running in the browser.
+I also got an opportunity to work at [Inlang](https://inlang.com/), starting next month. Incredibly excited about it as it is actually my first ever job that is about writing an open source tool. And I love open source. And hate existing localization tools. So am excited to solve the problem well. [Samuel](https://github.com/samuelstroschein) thought about the problem a lot and does have a very nice solution for it [using git](https://inlang.com/blog/notes-on-git-based-architecture) running in the browser.
 
 Aside from that, talking with Artem is always inspiring. He is learning compilers now and building his own programming language. Talking to him about difference between stack and heap and the different stages of compilers was eye opening. Need to take time to do some OS course and actually make some compiler too. My understanding of how things are laid out in memory and how languages work is too high level now.
 

@@ -40,7 +40,7 @@ My main goal is to fully augment / remove the ability to do self destructive or 
 
 I think I've learned enough discipline to not fall into unfulfilling experiences but it's not easy, given how many distracting things exist. Nor how little control you have over many services that you use. Most services do a good job at surfacing interesting content but it's not trivial to act upon it with ease. Will solve this with KusKus!
 
-Also want KusKus to cover the above case of following daily habits. Need to build iOS KusKus app too which would let me to send notifications at certain times of the day + show the list of habits and let me checkmark each habit as I do it.
+Also want KusKus to cover the above case of following daily habits. Need to build iOS KusKus app too which would let me send notifications at certain times of the day + show the list of habits and let me checkmark each habit as I do it.
 
 Also I am still writing these look backs in Sublime Text / Obsidian. Hopefully maybe in June I will fully transfer it all to LA. Things like images for example are quite annoying to easily add, amongst other things.
 
@@ -62,6 +62,6 @@ All of the above is kind of possible now in some way or form. But it's all so so
 
 I own nothing. Have nothing. All I have are some bitter experiences and lessons I tried to encode as much as possible into [rules](../../focusing/rules.md) and [habits](../../focusing/habits.md). I don't know what else I can do better to have a happier life.
 
-Funny thing, I decided to apply [On Deck](https://www.beondeck.com/) this month. When I got this email I just smiled. Why am I even trying? 😸
+Funny thing, I decided to apply to [On Deck](https://www.beondeck.com/) this month. When I got this email I just smiled. Why am I even trying? 😸
 
 ![](https://images.nikiv.dev/on-deck-fail-23.png)
