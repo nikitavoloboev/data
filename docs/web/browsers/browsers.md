@@ -291,3 +291,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 - [SmolHTML](https://github.com/jbrennan/SmolHTML) - Web browser engine written from scratch in Swift.
 - [BrowserBox](https://github.com/dosyago/BrowserBox) - Remote isolated browser API for security, automation visibility and interactivity.
+- [Magic Copy](https://github.com/kevmo314/magic-copy) - Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
