@@ -272,3 +272,4 @@ title: Clojure
 - [Clojure in the Tyre Manufacturing Industry (2021)](https://blogit.michelin.io/clojure-programming/) ([HN](https://news.ycombinator.com/item?id=34801464))
 - [Symbolic Programming with Clojure](https://www.cs.utexas.edu/users/novak/cs378.pdf)
 - [Mindset shifts for Functional Programming (with Clojure) (2023)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
+- [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)

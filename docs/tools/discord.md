@@ -225,3 +225,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [How Discord Stores Trillions of Messages (2023)](https://discord.com/blog/how-discord-stores-trillions-of-messages) ([Lobsters](https://lobste.rs/s/sdttgb/how_discord_stores_trillions_messages)) ([HN](https://news.ycombinator.com/item?id=35048410))
 - [DiscordLookup](https://discordlookup.com/) - Snowflake Decoder, Guild List with Stats, Invite Info and more. ([Code](https://github.com/discordlookup/website))
 - [Keycard](https://github.com/astridlol/Keycard) - Open source Discord verification system.
+- [ArmCord](https://github.com/ArmCord/ArmCord) - Custom client designed to enhance your Discord experience while keeping everything lightweight.
