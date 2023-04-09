@@ -687,3 +687,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [pg_net](https://github.com/supabase/pg_net) - PostgreSQL extension providing an async networking interface accessible via SQL using a background worker and curl.
 - [Scaling serverless Postgres: How we implement autoscaling (2023)](https://neon.tech/blog/scaling-serverless-postgres)
 - [PostgreSQL Logical Replication Gotchas (2023)](https://pgdash.io/blog/postgres-replication-gotchas.html)
+- [Supavisor](https://github.com/supabase/supavisor) - Scalable, cloud-native Postgres connection pooler.

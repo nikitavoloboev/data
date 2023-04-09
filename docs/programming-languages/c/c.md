@@ -36,7 +36,7 @@
 - [Small C Compiler](https://github.com/rui314/8cc) - Intended to support all C11 language features while keeping the code as small and simple as possible.
 - [All Algorithms implemented in C](https://github.com/TheAlgorithms/C)
 - [CodeChecker](https://github.com/Ericsson/codechecker) - Analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy.
-- [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) ([HN](https://news.ycombinator.com/item?id=21794327))
+- [Writing a Simple Garbage Collector in C (2014)](http://maplant.com/gc.html) ([HN](https://news.ycombinator.com/item?id=21794327)) ([HN](https://news.ycombinator.com/item?id=35495886))
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C. ([HN](https://news.ycombinator.com/item?id=21841368))
 - [To become a good C programmer](http://fabiensanglard.net/c/) ([HN](https://news.ycombinator.com/item?id=22325088))
 - [Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html) ([Lobsters](https://lobste.rs/s/hba9nn/development_c_language_1993)) ([PDF](https://www.bell-labs.com/usr/dmr/www/chist.pdf))

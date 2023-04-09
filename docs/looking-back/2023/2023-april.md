@@ -56,12 +56,20 @@ In future, perhaps synthesize new ideas based on all kinds of things.
 
 All of the above is kind of possible now in some way or form. But it's all so so messy. I want clean interfaces to creating, learning things.
 
-[Last month](2023-march.md) it felt like the boiling point was reached in how tragic my life has become. The whole firing 8 times. No money for health issues I have, food or tax. I try to still have hope things get better even though they never do. This quote sums up my current state well:
+[Last month](2023-march.md) it felt like the boiling point was reached in how many 💩 things happened. Don't want to go over it again and won't do in future, at least hopefully it will be some new 💩 things than getting fired 8 times, having no money for health issues, food or tax.
+
+I feel a bit like this quote now:
 
 > [Only After We've Lost Everything Are We Free To Do Anything](https://www.youtube.com/watch?v=pzJOduVHxoQ)
 
-I own nothing. Have nothing. All I have are some bitter experiences and lessons I tried to encode as much as possible into [rules](../../focusing/rules.md) and [habits](../../focusing/habits.md). I don't know what else I can do better to have a happier life.
+It's freeing. I own nothing. Have nothing. All I have are some bitter experiences and lessons I tried to encode as much as possible into [rules](../../focusing/rules.md) and [habits](../../focusing/habits.md).
 
-Funny thing, I decided to apply to [On Deck](https://www.beondeck.com/) this month. When I got this email I just smiled. Why am I even trying? 😸
+Funny thing, I decided to apply to [On Deck](https://www.beondeck.com/) this month. When I got this email I just smiled. 😸
 
 ![](https://images.nikiv.dev/on-deck-fail-23.png)
+
+Don't know why I even applied to be honest. Anyway, lots of things to build and release.
+
+One other idea I want to build after KusKus/LA is an app to get a log of events across different networks (Twitter/Spotify/Letterboxd/Trakt/IG/..). That is go on user profile and see `Nikita liked this song`. `Nikita made this tweet`. In chronological view. Would need to write a scraper and put it on a cron job for this and offer it as a service, I totally want this. Especially I want to be able to full text search across my timeline of events too.
+
+But alas, need to be focused! That's my **biggest** issue in life. Being all over the place with things I want to do and often not finishing things because of this. So no more of that.
