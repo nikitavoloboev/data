@@ -21,3 +21,4 @@
 - [Numerical Analysis I Course](https://github.com/MikaelSlevinsky/MATH2160)
 - [What’s the appeal with complex analysis? (2022)](https://www.reddit.com/r/math/comments/ukmwq2/whats_the_appeal_with_complex_analysis/)
 - [The Brascamp-Lieb inequality and its influence on Fourier analysis (2022)](https://arxiv.org/abs/2203.11475) ([Tweet](https://twitter.com/sp_monte_carlo/status/1586818427624325120))
+- [Self-studying Real Analysis: how? (2023)](https://www.reddit.com/r/math/comments/12gf9zp/selfstudying_real_analysis_how/)

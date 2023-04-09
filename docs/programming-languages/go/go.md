@@ -1000,3 +1000,4 @@ if *boolArgPtr != false {
 - [The Smallest Go Binary (5KB) (2023)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb) ([Reddit](https://www.reddit.com/r/golang/comments/128mmd4/the_smallest_go_binary_5kb/))
 - [Type Specialization in Go (2023)](https://commaok.xyz/post/type_specialization/)
 - [Profiling Go Programs (2023)](https://benchkram.de/blog/dev/profiling-go-programs)
+- [Go in depth YouTube channels?](https://www.reddit.com/r/golang/comments/12g9mxy/go_in_depth_youtube_channels/)
