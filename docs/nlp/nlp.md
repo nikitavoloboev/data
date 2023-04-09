@@ -1010,3 +1010,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [LLaMa-Pruning: Structural Pruning for LLaMa](https://github.com/horseee/LLaMa-Pruning)
 - [Simple Hierarchical Transformer](https://github.com/lucidrains/simple-hierarchical-transformer)
+- [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT (2023)](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental) ([HN](https://news.ycombinator.com/item?id=35504428))
+- [Baby GPT](https://twitter.com/karpathy/status/1645115622517542913) ([HN](https://news.ycombinator.com/item?id=35506069))
+- [Large Language Models Are Human-Level Prompt Engineers (2023)](https://openreview.net/forum?id=92gvk82DE-) ([HN](https://news.ycombinator.com/item?id=35506472))
