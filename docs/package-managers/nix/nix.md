@@ -541,3 +541,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-health](https://github.com/srid/nix-health) - Check the health of your Nix install.
 - [System Manager using Nix](https://github.com/numtide/system-manager)
 - [namaka](https://github.com/nix-community/namaka) - Snapshot testing tool for Nix based on haumea.
+- [nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems.
