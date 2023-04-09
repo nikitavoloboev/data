@@ -1003,3 +1003,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [GPT4All.zig](https://github.com/renerocksai/gpt4all.zig) - Run a GPT4All model locally.
 - [LLaMA-Adapter: Efficient Fine-tuning of LLaMA](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 - [llama-node](https://github.com/hlhr202/llama-node) - Large Language Model LLaMA on node.js.
+- [LangChain as an AIPlugin](https://github.com/langchain-ai/langchain-aiplugin)
