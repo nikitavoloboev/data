@@ -451,3 +451,4 @@ title: WebAssembly
 - [Announcing WCGI: WebAsseAmbly and CGI (2023)](https://wasmer.io/posts/announcing-wcgi) ([HN](https://news.ycombinator.com/item?id=35469276))
 - [WebAssembly tail calls (2023)](https://v8.dev/blog/wasm-tail-call)
 - [How WebAssembly is accelerating new web functionality (2023)](https://blog.chromium.org/2023/04/how-webassembly-is-accelerating-new-web.html)
+- [chibiwasm](https://github.com/skanehira/chibiwasm) - Small wasm runtime for learning how wasm runtime works.

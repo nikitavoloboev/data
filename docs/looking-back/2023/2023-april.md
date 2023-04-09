@@ -76,9 +76,10 @@ But alas, need to be focused! That's my **biggest** issue in life. Being all ove
 
 Once I get my money situation under control, I'd love to read through [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html) & [Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html). I truly wish I understood how [Midjourney](https://www.midjourney.com/) & [ChatGPT](../../machine-learning/chatgpt.md) is made.
 
-My current understanding is that they both use neural nets. Neural nets have inputs and outputs and go through layers. Each layer somehow encodes 'features' I think. And learning happens through backpropagation or some other algorithm. Also transformer models are the best thing and everyone is trying to scale them now. 
+My current understanding is that they both use neural nets. Neural nets have inputs and outputs and go through layers. Each layer somehow encodes 'features' I think. And learning happens through backpropagation or some other algorithm. Also transformer models are the best thing and everyone is trying to scale them now.
 
 Need to read through [minGPT](https://github.com/karpathy/minGPT) code fully. Maybe this meme will make more sense.
 
 ![](https://i.redd.it/n9fgba8b0qr01.png)
 
+[Computer history by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613) is my fav [Midjourney edit](https://www.youtube.com/watch?v=TGD8zKvRxc4).
