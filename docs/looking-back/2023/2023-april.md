@@ -46,6 +46,8 @@ Anyway, this quote in Fight Club comes to mind of how I feel in life right now.
 
 My goal going forward is to fully augment / remove the ability to do self destructive or non meaningful things to myself with software.
 
+Discipline is not easy especially given just how many distracting things exist. I've gotten better at it now that I am 28. But still not good enough.
+
 As I do take walks often now and listen to podcasts/books. I've always dreamed of having a podcast/book app that when you open it, you would see the full transcription of what was said. So you can highlight it and save it to your wiki. Right now if I come across something interesting, I have to pause the podcast/book, go to telegram saved messages and note it down.
 
 [HappyScribe](https://www.happyscribe.com/public) is similar to this idea but it doesn't do it live like for example Spotify does with lyrics. I want that. With ideally tight integration with LA in future. So I can tag a note or make an action on it into KusKus.
