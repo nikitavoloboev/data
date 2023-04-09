@@ -6,7 +6,7 @@ title: PostgreSQL
 
 [Internals of PostgreSQL](https://www.interdb.jp/pg/), [The Art of PostgreSQL](https://theartofpostgresql.com/) & [Postgres Docs](https://www.postgresql.org/docs/) are great reads.
 
-Prefer using [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) for it.
+Prefer using [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) with it.
 
 Looking into [EdgeDB](edgedb.md) too as it builds on top of Postgres and has [many nice features](https://www.youtube.com/watch?v=6LqbBF0KAXE).
 
@@ -17,6 +17,8 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 [Inquery](https://github.com/inqueryio/inquery), [Pg_GraphQL](https://github.com/supabase/pg_graphql) & [IaSQL](https://github.com/iasql/iasql-engine) are useful.
 
 Interested in using [Malloy](https://github.com/malloydata/malloy) to query my Postgres db as it's [plenty fast](https://carlineng.com/?postid=malloy-tpcds#blog) and is more ergonomic than SQL to use. [It's query language](https://malloydata.github.io/documentation/malloy_by_example.html) reminds me of [EdgeQL](https://www.edgedb.com/tutorial) by [EdgeDB](edgedb.md).
+
+[PL/Rust](https://tcdi.github.io/plrust/plrust.html) & [Supavisor](https://github.com/supabase/supavisor) are interesting.
 
 ## Notes
 
@@ -572,7 +574,7 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground) ([HN](https://news.ycombinator.com/item?id=32498435)) ([Tweet](https://twitter.com/simonw/status/1559938364089937920))
 - [PostgreSQL 14 Internals book – Part II](https://postgrespro.com/blog/pgsql/5969682) ([HN](https://news.ycombinator.com/item?id=32593996))
 - [PostgreSQL 15: Stats Collector Gone? What’s New? (2022)](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/) ([HN](https://news.ycombinator.com/item?id=32632715))
-- [plrust](https://github.com/tcdi/plrust) - Rust procedural language handler for PostgreSQL. ([Reddit](https://www.reddit.com/r/rust/comments/12cldot/write_postgres_functions_in_rust/))
+- [PL/Rust](https://github.com/tcdi/plrust) - Rust procedural language handler for PostgreSQL. ([Reddit](https://www.reddit.com/r/rust/comments/12cldot/write_postgres_functions_in_rust/)) ([Docs](https://tcdi.github.io/plrust/plrust.html)) ([HN](https://news.ycombinator.com/item?id=35501065))
 - [PGTracer](https://github.com/aiven/pgtracer) - Tracing tools for PostgreSQL, using eBPF.
 - [pg_idkit](https://github.com/t3hmrman/pg_idkit) - Postgres extension for generating UUIDs.
 - [TiDB for PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL) - PgSQL compatible on distributed database TiDB.

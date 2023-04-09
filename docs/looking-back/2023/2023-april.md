@@ -83,3 +83,7 @@ Need to read through [minGPT](https://github.com/karpathy/minGPT) code fully. Ma
 ![](https://i.redd.it/n9fgba8b0qr01.png)
 
 [Computer history by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613) is my fav [Midjourney edit](https://www.youtube.com/watch?v=TGD8zKvRxc4).
+
+## Listened
+
+[Hotline Bling](https://open.spotify.com/track/3xJS0zIe58OsNAo5A0YpXX) is nice tune.
