@@ -303,3 +303,4 @@
 - [Stanford CS143 Intro to Compilers course notes (2023)](https://compiled.bearblog.dev/stanford-cs143-intro-to-compilers-course-notes/)
 - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169) ([HN](https://news.ycombinator.com/item?id=35285518))
 - [cwhy](https://github.com/plasma-umass/cwhy) - Explains and suggest fixes for C/C++/Rust compiler error messages.
+- [Can You Trust a Compiler to Optimize Your Code? (2023)](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
