@@ -155,3 +155,4 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 - [We stand to save $7m over five years from our cloud exit (2023)](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa) ([Lobsters](https://lobste.rs/s/aqoqsr/we_stand_save_7m_over_five_years_from_our))
 - [Ask HN: Can any Hetzner user please explain your workflow on Hetzner? (2023)](https://news.ycombinator.com/item?id=35260141)
 - [Awesome Billing](https://github.com/kdeldycke/awesome-billing) - Billing & Payments knowledge for cloud platforms.
+- [We Need To Talk About Vercel (2023)](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel) ([HN](https://news.ycombinator.com/item?id=35507814))

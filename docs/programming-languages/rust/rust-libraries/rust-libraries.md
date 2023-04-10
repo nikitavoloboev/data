@@ -3141,4 +3141,4 @@
 - [Can We Make Yew Even Faster? (2023)](https://www.youtube.com/watch?v=SIdTRs_AsGs)
 - [A definitive guide to sealed traits in Rust (2023)](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/12cj6as/a_definitive_guide_to_sealed_traits_in_rust/))
 - [Building your no-std Rust library for a no-std target in CI](https://github.com/KodrAus/rust-no-std)
-- [Modular Errors in Rust (2023)](https://sabrinajewson.org/blog/errors) ([Reddit](https://www.reddit.com/r/rust/comments/12fhhni/modular_errors_in_rust_sabrina_jewson/))
+- [Modular Errors in Rust (2023)](https://sabrinajewson.org/blog/errors) ([Reddit](https://www.reddit.com/r/rust/comments/12fhhni/modular_errors_in_rust_sabrina_jewson/)) ([HN](https://news.ycombinator.com/item?id=35502874))

@@ -44,7 +44,7 @@
 - [Fretastic](https://fretastic.com/) - Guitar fretboard visualizer – scales, intervals, backing tracks. ([HN](https://news.ycombinator.com/item?id=30250777)) ([Guitar](https://fretastic.com/guitar))
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Guitar distortion plugin with a customizable signal chain that allows users to create their own guitar distortion effects.
 - [Set List](http://setlist-app.surge.sh/) - Home to all your guitar chords, in your browser. ([Code](https://github.com/arogyakoirala/setlist))
-- [Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
+- [Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler) ([HN](https://news.ycombinator.com/item?id=35502389))
 - [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/) ([Scraper](https://github.com/jers0/ultimate-guitar-scraper))
 - [Design lessons from guitar pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b) ([HN](https://news.ycombinator.com/item?id=31948881))
 - [Online Tuner: Guitar, Bass Guitar & Ukulele Tuner](https://muted.io/tuner/)

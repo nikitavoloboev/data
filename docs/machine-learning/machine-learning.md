@@ -1105,3 +1105,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Convolutions for Sequence Modeling](https://github.com/HazyResearch/safari)
 - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes (2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf)
 - [TRAK: Attributing Model Behavior at Scale (2023)](https://arxiv.org/abs/2303.14186) ([Code](https://github.com/MadryLab/trak))
+- [Building Machine Learning Apps with Hugging Face: LLMs to Diffusion Modeling (2023)](https://www.youtube.com/watch?v=axkCZqngOSc)
