@@ -709,3 +709,4 @@ title: Linux
 - [Setting up a packaging environment for Alpine Linux (introducing alpkg) (2023)](https://blog.orhun.dev/alpine-packaging-setup/)
 - [Dumb bugs: the PCI device that wasn't (2023)](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 - [out-of-tree](https://github.com/out-of-tree/out-of-tree) - Automating some routine actions for creating development environments for debugging kernel modules and exploits.
+- [peckish](https://github.com/queer/peckish) - Tool for repackaging Linux software artifacts.

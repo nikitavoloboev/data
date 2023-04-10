@@ -37,6 +37,7 @@ title: Android
 - [CloudStream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [Dashlane Android app](https://github.com/Dashlane/android-apps)
 - [Claw](https://github.com/msfjarvis/compose-lobsters) - Read-only Android client for Lobsters.rs, built using Jetpack Compose.
+- [AnywhereGPT](https://github.com/Shashank02051997/AnywhereGPT-Android) - Mobile app with seamless AI assistance.
 
 ## Links
 

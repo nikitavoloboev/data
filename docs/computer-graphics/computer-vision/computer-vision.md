@@ -1209,3 +1209,4 @@
 - [Hachi](https://github.com/ramanlabs-in/hachi) - Natural Language search for Videos and Images.
 - [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation (2023)](https://sadtalker.github.io/) ([Code](https://github.com/Winfredy/SadTalker))
 - [EditAnything](https://github.com/sail-sg/EditAnything) - Segment Anything + ControlNet + BLIP2 + Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=35509429))
+- [Segment Anything EO tools](https://github.com/aliaksandr960/segment-anything-eo)
