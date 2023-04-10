@@ -407,6 +407,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Confused bit](https://confusedbit.dev/)
 - [Davis Silverman](https://thedav.is/post/)
 - [Owen Gage](https://owengage.com/)
+- [Jakob Kreuze](https://jakob.space/)
 
 ## Notes
 

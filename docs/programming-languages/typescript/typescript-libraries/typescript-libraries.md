@@ -855,6 +855,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Vercel Otel](https://github.com/vercel/otel) - Simple and easy-to-use package that sets up your trace provider and exporter.
 - [Nano Stores Persistent](https://github.com/nanostores/persistent) - Tiny persistent store for Nano Stores state manager.
 - [Eventual](https://github.com/functionless/eventual) - Build scalable and durable micro-services with APIs, Messaging and Workflows.
+- [moize](https://github.com/planttheidea/moize) - Consistently-fast, complete memoization solution for JS.
 
 ## Links
 

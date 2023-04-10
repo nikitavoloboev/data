@@ -45,3 +45,4 @@ There are also [few nootropics you can take that in some way boost your mental a
 - [I've given up on nootropics.. (2022)](https://www.reddit.com/r/Nootropics/comments/wlugd2/ive_given_up_on_nootropics/)
 - [Nootropics Depot](https://nootropicsdepot.com/) ([YouTube](https://www.youtube.com/@NootropicsDepot/videos))
 - [Supplements which have a benefit in developing brains](https://www.reddit.com/r/Nootropics/comments/yo3bae/supplements_which_have_a_benefit_in_developing/)
+- [What are some nootropics that felt like 'life hacks?' (2023)](https://www.reddit.com/r/Nootropics/comments/12gnfn9/what_are_some_nootropics_that_felt_like_life_hacks/)

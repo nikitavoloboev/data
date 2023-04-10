@@ -99,3 +99,5 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Autoanki](https://github.com/chenlijun99/autoanki) - Set of tools and libraries that streamline the learning experience with Anki.
 - [Pentive](https://github.com/AlexErrant/Pentive) - Free, open source, offline-first spaced repetition system that has first class support for collaboration, curation, and plugins. It's Reddit for flashcards.
 - [Anki-fy your life (2023)](https://abouttolearn.substack.com/p/anki-fy-your-life) ([HN](https://news.ycombinator.com/item?id=35209775))
+- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) ([HN](https://news.ycombinator.com/item?id=35511357))
+- [Modeling Git Internals in Alloy, Part 2: Commits and Tags (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
