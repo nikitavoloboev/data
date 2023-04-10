@@ -55,3 +55,4 @@
 - [Awesome Guitar](https://github.com/sfischer13/awesome-guitar)
 - [Guitar Effects Guidebook, Vol. 20](https://static.roland.com/assets/media/pdf/guitar_effects_guidebook_vol_20.pdf) ([HN](https://news.ycombinator.com/item?id=34288383))
 - [Guitar Effects Processor](https://github.com/Quinny/GuitarEffects) - Low latency guitar effects processor suitable for running on a raspberry pi.
+- [necrophagy](https://github.com/RiugaBachi/necrophagy) - Type-level, statically-verified Haskell embedded domain specific language (EDSL) for writing guitar tablature.

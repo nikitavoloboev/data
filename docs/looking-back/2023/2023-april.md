@@ -70,7 +70,7 @@ Don't know why I even applied to be honest. Anyway, lots of things to build and 
 
 One other idea I want to build after KusKus/LA is an app to get a log of events across different networks (Twitter/Spotify/Letterboxd/Trakt/IG/..). That is go on user profile and see `Nikita liked this song`. `Nikita made this tweet`. In chronological view. Would need to write a scraper and put it on a cron job for this and offer it as a service, I totally want this. Especially I want to be able to full text search across my timeline of events too.
 
-And of course I need to build my own version of [Pixave](http://pixave.softwar.io/). Then I will be happy. Software wise at least.
+And of course I need to build my own version of [Pixave](http://pixave.softwar.io/) together with [Alfred](../../macOS/apps/alfred/alfred.md)/[Raycast](../../tools/raycast.md) like launcher on iOS. Then I will be happy. Software wise at least.
 
 But alas, need to be focused! KusKus first.
 

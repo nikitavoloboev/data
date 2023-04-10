@@ -79,3 +79,4 @@
 - [SmallStrings](https://github.com/EmergeTools/SmallStrings) - Minification of localized strings.
 - [OOP in C](https://staff.washington.edu/gmobus/Academics/TCES202/Moodle/OO-ProgrammingInC.html) ([HN](https://news.ycombinator.com/item?id=34296789))
 - [Objective-C Internals: Class Architecture (2023)](https://alwaysprocessing.blog/2023/01/02/objc-class-arch)
+- [objr](https://github.com/drewcrawford/objr) - Fast objc rust bindings.

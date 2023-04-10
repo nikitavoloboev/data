@@ -655,6 +655,7 @@
 - [ShinySwiftUI](https://github.com/Flowductive/shiny-swift-ui) - SwiftUI extensions and components that just make sense.
 - [ViewStateController](https://github.com/mdb1/ViewStateController) - Framework for simplified management of view state, allowing easy implementation of complex views.
 - [Chat](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker.
+- [Media Picker](https://github.com/exyte/MediaPicker) - SwiftUI library for a customizable media picker.
 
 ## Test
 

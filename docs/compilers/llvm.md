@@ -162,3 +162,4 @@ title: LLVM
 - [Adding a new target/object backend to LLVM JITLink (2023)](https://blog.llvm.org/posts/2023-03-16-adding-new-llvm-jitlink-target-object-backend/)
 - [llvm-ir-analysis](https://github.com/cdisselkoen/llvm-ir-analysis) - Static analysis of LLVM IR.
 - [LLVM: The middle-end optimization pipeline (2023)](https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html)
+- [Swifty-LLVM](https://github.com/val-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.

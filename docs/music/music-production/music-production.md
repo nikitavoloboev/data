@@ -549,3 +549,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [NoiSQL](https://github.com/ClickHouse/NoiSQL) - Generating Music With SQL Queries. ([HN](https://news.ycombinator.com/item?id=35482636))
 - [List of demo websites for automatic music generation research](https://github.com/affige/genmusic_demo_list)
 - [What are your current favorite VSTs, and why?](https://www.reddit.com/r/WeAreTheMusicMakers/comments/12gk5k7/what_are_your_current_favorite_vsts_and_why/)
+- [Neural Amp Modeler Plug-in](https://github.com/sdatkinson/NeuralAmpModelerPlugin)
