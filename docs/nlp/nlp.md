@@ -1014,3 +1014,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Baby GPT](https://twitter.com/karpathy/status/1645115622517542913) ([HN](https://news.ycombinator.com/item?id=35506069))
 - [Large Language Models Are Human-Level Prompt Engineers (2023)](https://openreview.net/forum?id=92gvk82DE-) ([HN](https://news.ycombinator.com/item?id=35506472))
 - [LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
+- [Ask HN: Open source LLM for commercial use? (2023)](https://news.ycombinator.com/item?id=35512338)
+- [DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation (2022)](https://arxiv.org/abs/2210.07558)
+- [Why is GPT-3 15.77x more expensive for certain languages? (2023)](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
+- [Data processing pipeline for the Koala chatbot language model](https://github.com/young-geng/koala_data_pipeline)

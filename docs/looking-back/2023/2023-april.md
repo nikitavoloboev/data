@@ -88,4 +88,4 @@ Need to read through [minGPT](https://github.com/karpathy/minGPT) code fully tog
 
 ## Listened
 
-[Hotline Bling](https://open.spotify.com/track/3xJS0zIe58OsNAo5A0YpXX) is nice tune.
+Always shivers from [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR).

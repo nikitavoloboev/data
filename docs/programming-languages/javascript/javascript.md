@@ -503,3 +503,4 @@ if (
 - [Buildless JavaScript (2023)](https://blog.6nok.org/buildless-javascript/)
 - [Error.assert() proposal for ECMAScript](https://github.com/threepointone/proposal-error-assert)
 - [1000x FASTER JavaScript? (2023)](https://www.youtube.com/watch?v=B76gFi43HvM)
+- [Making JavaScript Ecosystem FAST | Prime Reacts](https://www.youtube.com/watch?v=43AsyeMKVwE)

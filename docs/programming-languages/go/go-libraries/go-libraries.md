@@ -717,6 +717,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [vector](https://github.com/quartercastle/vector) - Better way to write vector math in Go.
 - [go-fraction](https://github.com/nethruster/go-fraction) - Go library for working with fractions.
 - [MathGL](https://github.com/go-gl/mathgl) - Pure Go 3D math library.
+- [factorlib](https://github.com/randall77/factorlib) - Library for factoring big integers in Go.
 
 ## Biology
 
@@ -2137,6 +2138,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [arch](https://github.com/golang/arch) - Holds machine architecture information used by the Go toolchain.
 - [Tokenizer](https://github.com/tiktoken-go/tokenizer) - Pure Go implementation of OpenAI's tiktoken tokenizer.
 - [gortsplib](https://github.com/bluenviron/gortsplib) - RTSP 1.0 client and server library for Go.
+- [xslog](https://github.com/galecore/xslog) - Extension handlers for the slog library.
 
 ## Links
 

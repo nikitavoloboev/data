@@ -101,3 +101,4 @@ Find Tokyo [beautiful](https://twitter.com/teemusphoto/status/160469679917617561
 - [Ichiran](https://github.com/tshatrov/ichiran) - Collection of tools for working with text in Japanese language.
 - [KanjiVG (Kanji Vector Graphics)](https://kanjivg.tagaini.net/) - Vector graphics and other information about kanji used by the Japanese language.
 - [GitHub Sponsor-able Users in Japan](https://github.com/azu/github-sponsorable-in-japan)
+- [Vlog Transcription & Japanese Translation Tool](https://github.com/craftzdog/vlog-translator)

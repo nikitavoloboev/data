@@ -123,3 +123,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [LSF: Linux Subsystem for FreeBSD](https://github.com/AkihiroSuda/lsf)
 - [Nextcloud + OpenBSD = <3 (2023)](https://x61.sh/log/2023/02/20230217T112354-nextcloud_openbsd.html)
 - [Privilege drop, privilege separation, and restricted-service operating mode in OpenBSD (2023)](https://sha256.net/privsep.html)
+- [OpenBSD 7.3](https://www.openbsd.org/73.html) ([HN](https://news.ycombinator.com/item?id=35512401))

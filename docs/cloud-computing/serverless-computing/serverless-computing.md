@@ -197,3 +197,4 @@ I also deploy [Rust](../../programming-languages/rust/rust.md)/[Go](../../progra
 - [Vercel Edge Functions + Hono Router + Wasm + Rust](https://github.com/leerob/hono-vercel-edge-functions)
 - [Nice serverless offerings (2021)](https://twitter.com/algo_luca/status/1464275828519448580)
 - [OpenLambda](https://github.com/open-lambda/open-lambda) - Open source serverless computing platform.
+- [Edge Database Latency](https://edge-data-latency.vercel.app/) - Visualize the latency of databases at the Edge. ([Code](https://github.com/vercel-labs/edge-data-latency))

@@ -667,3 +667,4 @@ title: GitHub actions
 - [notify-discord](https://github.com/th0th/notify-discord) - GitHub action for notifying a Discord channel about the status of GitHub Actions Workflow.
 - [Use ChatGPT to summary a GitHub Pull Request](https://github.com/flows-network/github-pr-summary)
 - [Watchgha](https://github.com/nedbat/watchgha) - Watch the progress of GitHub Actions on the command line. ([Article](https://nedbatchelder.com/blog/202303/watchgha.html))
+- [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
