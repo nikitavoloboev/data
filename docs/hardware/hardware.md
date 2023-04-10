@@ -416,3 +416,4 @@
 - [The Future of the Transistor (2023)](https://www.semianalysis.com/p/the-future-of-the-transistor) ([HN](https://news.ycombinator.com/item?id=35436886))
 - [TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings (2023)](https://arxiv.org/abs/2304.01433) ([HN](https://news.ycombinator.com/item?id=35447914))
 - [Ending an Ugly Chapter in Chip Design (2023)](https://spectrum.ieee.org/chip-design-controversy) ([HN](https://news.ycombinator.com/item?id=35441759))
+- [The Hardware Lottery](https://hardwarelottery.github.io/)

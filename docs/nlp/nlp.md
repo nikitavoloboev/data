@@ -1007,7 +1007,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Motörhead](https://github.com/getmetal/motorhead) - Memory and information retrieval server for LLMs.
 - [Flan-Eval: Reproducible Held-Out Evaluation for Instruction Tuning](https://github.com/declare-lab/flan-eval)
 - [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models (2023)](https://arxiv.org/abs/2304.01933) ([Code](https://github.com/AGI-Edgerunners/LLM-Adapters))
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser. ([Web](https://agentgpt.reworkd.ai/))
 - [LLaMa-Pruning: Structural Pruning for LLaMa](https://github.com/horseee/LLaMa-Pruning)
 - [Simple Hierarchical Transformer](https://github.com/lucidrains/simple-hierarchical-transformer)
 - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT (2023)](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental) ([HN](https://news.ycombinator.com/item?id=35504428))
