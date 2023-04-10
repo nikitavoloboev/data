@@ -45,6 +45,7 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [grammY AutoQuote](https://github.com/roziscoding/grammy-autoquote) - Forces all sent messages to quote the last received one.
 - [grammY History](https://github.com/grammyjs/history) - Telegram does not store the chat history for your bot. This plugin does.
 - [Markup plugin for grammY](https://github.com/Loskir/grammy-markup) - Provides telegraf-like keyboard and inline keyboard builders.
+- [Go Telegram](https://github.com/meinside/telegram-bot-go)
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))

@@ -4,6 +4,8 @@ Consciousness is fascinating. [Joscha Bach](https://www.youtube.com/watch?v=ApHn
 
 I practice self reflection (via [journaling](../life/journaling.md)) & [meditation](../mindfulness/meditation.md) (walks in nature) to get a deeper awareness of myself and my surroundings.
 
+Curious how one would encode consciousness as code. [This paper is interesting](https://twitter.com/yacineMTB/status/1645267212838510593).
+
 ## Notes
 
 - [Neurons are transition systems which are exchanging and converting and optimizing abstract "resources", from which you can build homotopy types from neural codes representing stimuli spaces and then hopefully qualia.](https://twitter.com/drbeefsupreme/status/1518084355037536256)

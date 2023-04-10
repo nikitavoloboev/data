@@ -324,3 +324,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [SQLwrite](https://github.com/plasma-umass/sqlwrite) - Integrates AI into your database: automatically converts natural language queries into SQL, and then runs the SQL query.
 - [Quick SQLite](https://github.com/margelo/react-native-quick-sqlite) - Fast react-native SQLite library built using JSI.
 - [SQLite Ecosystem](https://github.com/asg017/sqlite-ecosystem) - Overview of all my SQLite extensions, and a roadmap for future extensions and tooling.
+- [sqlite-history](https://github.com/simonw/sqlite-history) - Track changes to SQLite tables using triggers.
