@@ -6,6 +6,7 @@
 
 ## Notes
 
+- [Authentication verifies identities, and Authorization grants access to resources based on those identities.](https://danschnau.com/blog/authentication-vs-authorization)
 - [Always download the recovery codes when you enable 2FA.](https://news.ycombinator.com/item?id=31273229)
 
 ## Links

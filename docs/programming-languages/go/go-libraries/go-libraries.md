@@ -642,6 +642,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using Wazero.
 - [migrator](https://github.com/lopezator/migrator) - Dead simple Go database migration library.
 - [go-tinylfu](https://github.com/dgryski/go-tinylfu) - TinyLFU cache admission policy.
+- [imcache](https://github.com/erni27/imcache) - Generic in-memory cache Go library.
 
 ## ML
 

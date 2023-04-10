@@ -188,3 +188,4 @@ title: Quantum computing
 - [OQuPy](https://github.com/tempoCollaboration/OQuPy) - Python 3 package to efficiently compute non-Markovian open quantum systems.
 - [Circuit Knitting Toolbox](https://github.com/Qiskit-Extensions/circuit-knitting-toolbox)
 - [funQ](https://github.com/NicklasBoto/funQ) - Functional Quantum Programming in Haskell.
+- [qutip-qtrl](https://github.com/qutip/qutip-qtrl) - QuTiP quantum optimal control package.

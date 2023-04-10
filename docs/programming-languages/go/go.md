@@ -1001,3 +1001,4 @@ if *boolArgPtr != false {
 - [Type Specialization in Go (2023)](https://commaok.xyz/post/type_specialization/)
 - [Profiling Go Programs (2023)](https://benchkram.de/blog/dev/profiling-go-programs)
 - [Go in depth YouTube channels?](https://www.reddit.com/r/golang/comments/12g9mxy/go_in_depth_youtube_channels/)
+- [Write integration tests with dockertest in Go (2023)](https://philidor.dev/blog/dockertest/)

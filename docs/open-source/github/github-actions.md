@@ -341,6 +341,7 @@ title: GitHub actions
 - [pyright-action](https://github.com/jakebailey/pyright-action) - GitHub action for pyright.
 - [actions-poetry](https://github.com/abatilo/actions-poetry) - GitHub Actions for Python projects using poetry.
 - [gh-action-sigstore-python](https://github.com/trailofbits/gh-action-sigstore-python) - GitHub Action that uses sigstore-python to sign Python packages.
+- [Ruff Action](https://github.com/ChartBoost/ruff-action)
 
 ## JS
 

@@ -1212,3 +1212,4 @@
 - [Segment Anything EO tools](https://github.com/aliaksandr960/segment-anything-eo)
 - [PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models (2023)](https://arxiv.org/abs/2303.17546) ([Code](https://github.com/Picsart-AI-Research/PAIR-Diffusion))
 - [Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, etc.
+- [Connect Segment-Anything with CLIP](https://github.com/PengtaoJiang/SAM-CLIP)

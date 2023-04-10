@@ -439,3 +439,4 @@ title: Reinforcement learning
 - [abcdRL](https://github.com/sdpkjc/abcdrl) - Modular Single-file Reinfocement Learning Algorithms Library.
 - [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904) ([HN](https://news.ycombinator.com/item?id=35016250))
 - [Pgx](https://github.com/sotetsuk/pgx) - Collection of highly-parallel RL game environments written in JAX.
+- [Safety-Gymnasium](https://github.com/OmniSafeAI/safety-gymnasium) - Highly scalable and customizable safe reinforcement learning environment library.
