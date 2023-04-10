@@ -20,3 +20,4 @@ title: Haxe
 - [ammer](https://github.com/Aurel300/ammer) - Unified FFI for Haxe native extensions.
 - [pecan](https://github.com/Aurel300/pecan) - Macro-based coroutines for Haxe.
 - [Plustd](https://github.com/Aurel300/plustd) - Haxe library for 2D gamedev and more.
+- [armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools. ([Web](https://armorpaint.org/))

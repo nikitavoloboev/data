@@ -304,3 +304,4 @@
 - [OAuth Support in Bluesky and AT Protocol (2023)](https://aaronparecki.com/2023/03/09/5/bluesky-and-oauth)
 - [Warrant](https://github.com/warrant-dev/warrant) - Open Source Access Control Service (inspired by Google Zanzibar).
 - [Securing Your Go Application (2023)](https://www.reddit.com/r/golang/comments/12bbahn/securing_your_golang_application_unleashing_the/)
+- [Feature flags and authorization abstract the same concept (2023)](https://ntietz.com/blog/feature-flags-and-authorization/)

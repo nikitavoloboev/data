@@ -153,3 +153,4 @@ title: Electrical engineering
 - [SVG PCB](https://github.com/leomcelroy/svg-pcb) - Design PCBs in the Browser.
 - [A Brief Hobbyist Primer on Clipping Diodes (2020)](https://www.guitarpedalx.com/news/news/a-brief-hobbyist-primer-on-clipping-diodes) ([HN](https://news.ycombinator.com/item?id=34943288))
 - [Comparing Hobby PCB Vendors (2023)](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors) ([HN](https://news.ycombinator.com/item?id=35285769))
+- [How To Get Started In Soldering for Beginners (2023)](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)

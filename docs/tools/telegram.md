@@ -96,6 +96,7 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 ## Bots
 
 - [Remove Join Group Messages](https://t.me/RemoveJoinGroupMsgBot) - Automatically delete join/left message in your groups.
+- [Telegram ChatGPT Concierge Bot (+ Voice)](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 - [Rose](https://t.me/MissRose_bot) - Powerful telegram bot to help you manage your groups.
 - [Remix](https://github.com/callsmusic/remix) - Operational and exprimental Telegram music bot.
 - [Telepathy](https://github.com/jordanwildon/Telepathy) - OSINT toolkit for investigating Telegram chats. ([Tweet](https://twitter.com/JordanWildon/status/1552715511888093184))

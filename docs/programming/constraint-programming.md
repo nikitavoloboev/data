@@ -16,3 +16,4 @@ title: Constraint programming
 - [Nutcracker](https://github.com/TomasMikula/nutcracker) - Problem solving à la carte.
 - [Ask HN: Do you use an optimization solver? Which one? Do you like it? (2022)](https://news.ycombinator.com/item?id=31099186)
 - [HN: Constraint Programming](https://news.ycombinator.com/item?id=32797543)
+- [Slothy](https://github.com/slothy-optimizer/slothy) - Assembly Optimization via Constraint Solving.

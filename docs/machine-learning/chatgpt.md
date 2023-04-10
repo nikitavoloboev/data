@@ -304,3 +304,4 @@ It's also great at giving examples.
 - [Awesome ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 - [When do you need Chain-of-Thought Prompting for ChatGPT? (2023)](https://arxiv.org/abs/2304.03262)
 - [ChatGPT Plugin TS](https://github.com/transitive-bullshit/chatgpt-plugin-ts) - Examples and resources for creating ChatGPT plugins in TypeScript.
+- [Iga](https://github.com/dennishansen/iga) - Minimalist AutoGPT capable of updating it's own source.

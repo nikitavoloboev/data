@@ -1077,6 +1077,7 @@
 - [struct-field-names-as-array](https://github.com/jofas/struct_field_names_as_array) - Rust crate providing a procedural macro that generates an array of the field names of a named struct.
 - [fromit](https://github.com/al8n/fromit) - Macro for generating new structs with getters, setters, and From or TryFrom implementation based on the given struct.
 - [enum-tags](https://github.com/DenverLacey/enum-tags) - Derive-Macro library that generates a companion tag-enum for any enum so that variants can be referred to without specifying fields.
+- [include_dir](https://github.com/Michael-F-Bryan/include_dir) - Evolution of the include_str macro for embedding a directory tree into your binary.
 
 ## Math
 
@@ -3142,3 +3143,4 @@
 - [A definitive guide to sealed traits in Rust (2023)](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/12cj6as/a_definitive_guide_to_sealed_traits_in_rust/))
 - [Building your no-std Rust library for a no-std target in CI](https://github.com/KodrAus/rust-no-std)
 - [Modular Errors in Rust (2023)](https://sabrinajewson.org/blog/errors) ([Reddit](https://www.reddit.com/r/rust/comments/12fhhni/modular_errors_in_rust_sabrina_jewson/)) ([HN](https://news.ycombinator.com/item?id=35502874))
+- [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365) ([Lobsters](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror))

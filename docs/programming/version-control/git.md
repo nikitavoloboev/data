@@ -683,3 +683,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 - [ghr](https://github.com/siketyan/ghr) - Repository management with auto-attaching profiles.
 - [Squash commits considered harmful](https://dev.to/wesen/squash-commits-considered-harmful-ob1) ([Comment](https://github.com/inlang/inlang/discussions/532))
+- [Modeling Git Internals in Alloy, Part 2: Commits and Tags (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
