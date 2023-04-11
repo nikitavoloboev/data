@@ -1021,4 +1021,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - Self-hosted copilot clone which uses the library behind llama.cpp to run the 6 Billion Parameter Salesforce Codegen model in 4GiB of RAM.
 - [Prompt Lang](https://github.com/generative-magic/promptlang) - Mini programming language for prompting LLMs.
 - [Python Bindings for llama.cpp](https://github.com/abetlen/llama-cpp-python)
-- [Maximizing the Potential of LLMs: A Guide to Prompt Engineering (2023)](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
+- [Maximizing the Potential of LLMs: A Guide to Prompt Engineering (2023)](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/) ([HN](https://news.ycombinator.com/item?id=35522080))

@@ -45,6 +45,7 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Sveshnikov Sicilian](https://chesspathways.com/chess-openings/sveshnikov-sicilian/) ([In action](https://youtu.be/37KQuu3P4pw?t=952))
 - [Trompowsky Attack](https://www.chess.com/openings/Trompowsky-Attack) ([In action](https://www.youtube.com/watch?v=VSK3XWFkZGk))
 - [Rousseau Gambit](https://www.youtube.com/watch?v=UsgaqyO6OZg)
+- [GM Daniil Dubov opening predictions on Nepo vs Ding](https://www.youtube.com/watch?v=TNcD0yPXyow)
 
 ## Notes
 
