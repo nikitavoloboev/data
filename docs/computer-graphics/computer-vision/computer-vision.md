@@ -1221,3 +1221,4 @@
 - [Detection Transformer with Stable Matching (2023)](https://arxiv.org/abs/2304.04742) ([Code](https://github.com/IDEA-Research/Stable-DINO))
 - [Caption Anything via Clicking](https://github.com/ttengwang/Caption-Anything)
 - [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition (2023)](https://arxiv.org/abs/2304.04704) ([Code](https://github.com/amazon-science/prompt-pretraining))
+- [Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything) - Implementation of zero-shot instance segmentation using Segment Anything.
