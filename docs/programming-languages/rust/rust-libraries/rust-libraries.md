@@ -2800,6 +2800,7 @@
 - [Valico](https://github.com/s-panferov/valico) - Rust JSON Schema validator and JSON coercer.
 - [pulp](https://github.com/sarah-ek/pulp) - Safe abstraction over SIMD instructions.
 - [memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types.
+- [ArrayFire Rust](https://github.com/arrayfire/arrayfire-rust) - High performance library for parallel computing with an easy-to-use API.
 
 ## Cargo Plugins
 

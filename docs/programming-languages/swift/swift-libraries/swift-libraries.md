@@ -656,6 +656,7 @@
 - [ViewStateController](https://github.com/mdb1/ViewStateController) - Framework for simplified management of view state, allowing easy implementation of complex views.
 - [Chat](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker.
 - [Media Picker](https://github.com/exyte/MediaPicker) - SwiftUI library for a customizable media picker.
+- [Stitch](https://github.com/entrhq/stitch) - Lightweight, SwiftUI inspired dependency injection (DI) library that is compile time safe without the need for codegen tooling.
 
 ## Test
 

@@ -380,3 +380,4 @@ title: Svelte
 - [Radix Svelte](https://github.com/TGlide/radix-svelte)
 - [Make your website editable](https://editable.website/) - SvelteKit template for building CMS-free editable websites. ([HN](https://news.ycombinator.com/item?id=35456083)) ([Code](https://github.com/michael/editable-website))
 - [Svelte Canvas](https://github.com/dnass/svelte-canvas) - Reactive canvas rendering with Svelte.
+- [SvelteLab](https://www.sveltelab.dev/) - Supercharged REPL for Svelte. ([Code](https://github.com/SvelteLab/SvelteLab))
