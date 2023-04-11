@@ -361,3 +361,4 @@ title: React Native
 - [React Modal Sheet](https://github.com/Temzasse/react-modal-sheet) - Flexible bottom sheet component for your React apps.
 - [react-native-webassembly](https://github.com/cawfree/react-native-webassembly) - Enables WebAssembly for React Native powered by C++ TurboModules and Wasm3.
 - [rn-mdx](https://github.com/danieldunderfelt/rn-mdx) - Show MDX content in React-Native. Expo compatible.
+- [React Native iAP](https://github.com/dooboolab-community/react-native-iap) - Module for In App Purchase.

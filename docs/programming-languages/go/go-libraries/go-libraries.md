@@ -2339,3 +2339,5 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [The power of single-method interfaces in Go (2023)](https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/)
 - [Comprehensive Guide to Structured Logging in Go (2023)](https://betterstack.com/community/guides/logging/logging-in-go/)
 - [Planning Go 1.21 Cryptography Work (2023)](https://words.filippo.io/dispatches/go-1-21-plan/)
+- [What's your recommended router? chi, mux, something else? (2023)](https://www.reddit.com/r/golang/comments/12hl7x7/whats_your_recommended_router_chi_mux_something/)
+- [Buster](https://github.com/TimothyStiles/buster) - Go CI/CD package for Go packages.

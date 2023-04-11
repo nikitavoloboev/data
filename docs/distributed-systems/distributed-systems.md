@@ -318,3 +318,4 @@
 - [Finding and fixing eventual consistency with Stripe events (2023)](https://blog.sequin.io/finding-and-fixing-eventual-consistency-with-stripe-events/)
 - [Ordering Events in Distributed Systems (2022)](https://www.exhypothesi.com/clocks-and-causality/) ([HN](https://news.ycombinator.com/item?id=35399603))
 - [Fly.io distributed systems challenges solved in Rust](https://github.com/jonhoo/rustengan)
+- [The end of a myth: Distributed transactions can scale (2023)](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html) ([HN](https://news.ycombinator.com/item?id=35520044))

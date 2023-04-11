@@ -214,6 +214,7 @@ Recently, I like how [CleanShot](https://twitter.com/cleanshot) iterates and sha
 - [How to market your product not only on Twitter (2023)](https://twitter.com/pie6k/status/1615275903218778112)
 - [How Duolingo reignited user growth (2023)](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth) ([HN](https://news.ycombinator.com/item?id=34977435))
 - [Developer marketing for early-stage startups (2023)](https://posthog.com/blog/dev-marketing-for-startups) ([HN](https://news.ycombinator.com/item?id=34998921))
+- [Developer Markepear](https://www.developermarkepear.com/) - Resources for developer marketers.
 
 ## Images
 

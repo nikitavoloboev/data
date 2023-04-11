@@ -264,3 +264,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Tramline](https://www.tramline.app/) - Release apps without drowning in process. ([Lobsters](https://lobste.rs/s/rgmlxm/tramline_release_coordination_platform))
 - [Universal Binary Installer](https://github.com/houseabsolute/ubi)
 - [CHOMP](https://github.com/guybedford/chomp) - 'JS Make' - parallel task runner for the frontend ecosystem with a JS extension system.
+- [The funniest performance regression you've seen (2023)](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)

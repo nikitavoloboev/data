@@ -14,7 +14,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 
 ## Other
 
-- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli)) ([Node](https://github.com/openai/openai-node)) ([Rust](https://github.com/deontologician/openai-api-rust)) ([Rust](https://github.com/dongri/openai-api-rs))
+- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node)) ([Python](https://github.com/peterdemin/openai-cli)) ([Node](https://github.com/openai/openai-node)) ([Rust](https://github.com/deontologician/openai-api-rust)) ([Rust](https://github.com/dongri/openai-api-rs)) ([Rust](https://github.com/valentinegb/openai))
 - [OpenAI Fetch](https://github.com/rileytomasek/openai-fetch) - Minimal and opinionated OpenAI client powered by fetch.
 - [OpenAI Elixir](https://github.com/hernanat/open_ai_ex)
 - [Google Drive](https://github.com/prasmussen/gdrive)

@@ -1018,3 +1018,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation (2022)](https://arxiv.org/abs/2210.07558)
 - [Why is GPT-3 15.77x more expensive for certain languages? (2023)](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
 - [Data processing pipeline for the Koala chatbot language model](https://github.com/young-geng/koala_data_pipeline)
+- [TurboPilot](https://github.com/ravenscroftj/turbopilot) - Self-hosted copilot clone which uses the library behind llama.cpp to run the 6 Billion Parameter Salesforce Codegen model in 4GiB of RAM.
+- [Prompt Lang](https://github.com/generative-magic/promptlang) - Mini programming language for prompting LLMs.
+- [Python Bindings for llama.cpp](https://github.com/abetlen/llama-cpp-python)
+- [Maximizing the Potential of LLMs: A Guide to Prompt Engineering (2023)](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)

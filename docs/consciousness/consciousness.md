@@ -4,7 +4,7 @@ Consciousness is fascinating. [Joscha Bach](https://www.youtube.com/watch?v=ApHn
 
 I practice self reflection (via [journaling](../life/journaling.md)) & [meditation](../mindfulness/meditation.md) (walks in nature) to get a deeper awareness of myself and my surroundings.
 
-Curious how one would encode consciousness as code. [This paper is interesting](https://twitter.com/yacineMTB/status/1645267212838510593).
+Curious how one would [encode consciousness](https://twitter.com/yacineMTB/status/1645267212838510593) in AI agents.
 
 ## Notes
 

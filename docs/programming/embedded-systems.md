@@ -259,3 +259,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [Rust on Espressif chips - 2023 Roadmap](https://mabez.dev/blog/posts/esp-rust-24-02-2023/) ([HN](https://news.ycombinator.com/item?id=34924654))
 - [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)
 - [Bare Metal Programming Series - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
+- [Gaggiuino](https://github.com/Zer0-bit/gaggiuino) - Gaggia Classic control project using microcontrollers.

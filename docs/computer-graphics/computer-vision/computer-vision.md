@@ -1213,3 +1213,11 @@
 - [PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models (2023)](https://arxiv.org/abs/2303.17546) ([Code](https://github.com/Picsart-AI-Research/PAIR-Diffusion))
 - [Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, etc.
 - [Connect Segment-Anything with CLIP](https://github.com/PengtaoJiang/SAM-CLIP)
+- [Semantic Segment Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset.
+- [Segment Anything Labelling Tool (SALT)](https://github.com/anuragxel/salt)
+- [CenterCLIP: Token Clustering for Efficient Text-Video Retrieval (2022)](https://arxiv.org/abs/2205.00823) ([Code](https://github.com/mzhaoshuai/CenterCLIP))
+- [FateZero: Fusing Attentions for Zero-shot Text-based Video Editing (2023)](https://arxiv.org/abs/2303.09535) ([Code](https://github.com/Doubiiu/CodeTalker))
+- [SVDiff: Compact Parameter Space for Diffusion Fine-Tuning (2023)](https://arxiv.org/abs/2303.11305) ([Code](https://github.com/mkshing/svdiff-pytorch))
+- [Detection Transformer with Stable Matching (2023)](https://arxiv.org/abs/2304.04742) ([Code](https://github.com/IDEA-Research/Stable-DINO))
+- [Caption Anything via Clicking](https://github.com/ttengwang/Caption-Anything)
+- [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition (2023)](https://arxiv.org/abs/2304.04704) ([Code](https://github.com/amazon-science/prompt-pretraining))

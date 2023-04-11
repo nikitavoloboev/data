@@ -269,3 +269,4 @@ title: Vue.js
 - [Nuxt I18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt.
 - [v-lazy-show](https://github.com/antfu/v-lazy-show) - Compile-time directive to lazy initialize v-show for Vue.
 - [Vue Test Utils](https://github.com/vuejs/test-utils)
+- [Nuxt Content Assets](https://github.com/davestewart/nuxt-content-assets) - Enable locally-located assets in Nuxt Content.

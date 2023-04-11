@@ -110,6 +110,7 @@ Below is a list of extensions I use.
 - [Real-Time Debugging](https://marketplace.visualstudio.com/items?itemName=hediet.realtime-debugging) ([Code](https://github.com/hediet/vscode-realtime-debugging))
 - [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) ([Code](https://github.com/microsoft/vscode-github-issue-notebooks))
 - [HexEditor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) - Allows Hex Editing inside VS Code. ([Code](https://github.com/microsoft/vscode-hexeditor))
+- [ERD Editor](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode) - Entity-Relationship Diagram Editor. ([Code](https://github.com/dineug/erd-editor))
 - [Tidier](https://github.com/mausworks/tidier) - Tools for keeping your projects tidier.
 - [Terminal Command Keys](https://marketplace.visualstudio.com/items?itemName=petekinnecom.terminal-command-keys) - Assign a terminal command to a keybinding. ([Code](https://github.com/petekinnecom/terminal-command-keys))
 - [reTypewriter](https://marketplace.visualstudio.com/items?itemName=antfu.retypewriter) - Replay the steps of your changes at ease. ([Code](https://github.com/antfu/retypewriter))

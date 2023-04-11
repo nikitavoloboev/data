@@ -360,3 +360,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Deep Learning Foundations to Stable Diffusion (2023)](https://course.fast.ai/Lessons/part2.html) ([HN](https://news.ycombinator.com/item?id=35449831))
 - [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) - Marrying DINO with Grounded Pre-Training for Open-Set Object Detection.
 - [Harry Potter By Balenciaga | Step by Step Tutorial](https://www.youtube.com/watch?v=TGD8zKvRxc4)
+- [HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - Universal Stable-Diffusion toolbox.

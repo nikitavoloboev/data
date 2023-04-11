@@ -100,3 +100,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Pentive](https://github.com/AlexErrant/Pentive) - Free, open source, offline-first spaced repetition system that has first class support for collaboration, curation, and plugins. It's Reddit for flashcards.
 - [Anki-fy your life (2023)](https://abouttolearn.substack.com/p/anki-fy-your-life) ([HN](https://news.ycombinator.com/item?id=35209775))
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) ([HN](https://news.ycombinator.com/item?id=35511357))
+- [Memory Hammer](https://github.com/abishekmuthian/memory-hammer) - Always-on Anki review system.

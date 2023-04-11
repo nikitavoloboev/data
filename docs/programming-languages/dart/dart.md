@@ -60,3 +60,4 @@ title: Dart
 - [Pub](https://github.com/dart-lang/pub) - Package manager for Dart. ([Solver](https://github.com/dart-lang/pub/blob/master/doc/solver.md))
 - [Dart Edge](https://github.com/invertase/dart_edge) - Run Dart on on the Edge - supporting Vercel & Cloudflare Workers.
 - [Jaspr](https://github.com/schultek/jaspr) - Modern web framework for building websites in Dart. Supports SPAs and SSR.
+- [hotreloader](https://github.com/vegardit/dart-hotreloader) - Automatic hot code reloader for Dart projects.

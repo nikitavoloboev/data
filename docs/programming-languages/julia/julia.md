@@ -161,3 +161,4 @@ title: Julia
 - [Data-parallel programming in Julia](https://juliafolds.github.io/data-parallelism/) ([Code](https://github.com/JuliaFolds/data-parallelism))
 - [Julia 1.9 precompilation will be a turning point (2023)](https://news.ycombinator.com/item?id=35106488)
 - [Julia's latency: Past, present and future (2023)](https://viralinstruction.com/posts/latency/) ([Reddit](https://www.reddit.com/r/Julia/comments/127wduf/julias_latency_past_present_and_future/))
+- [Machine learning from scratch in Julia](https://github.com/odsl-team/julia-ml-from-scratch)

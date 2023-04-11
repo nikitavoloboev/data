@@ -85,3 +85,4 @@ title: Search Engine Optimization
 - [SerpBear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App.
 - [How I Ruined My SEO (2023)](https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo) ([HN](https://news.ycombinator.com/item?id=34389421))
 - [Next.js SEO Playbook: Ranking higher with Next.js on Vercel (2023)](https://vercel.com/blog/nextjs-seo-playbook)
+- [SEO Position Tracker](https://github.com/dimitryzub/seo-position-tracker) - Python CLI and in-code SEO position tracking tool for Google and 6 other search engines.

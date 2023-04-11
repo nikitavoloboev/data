@@ -163,3 +163,4 @@ title: LLVM
 - [llvm-ir-analysis](https://github.com/cdisselkoen/llvm-ir-analysis) - Static analysis of LLVM IR.
 - [LLVM: The middle-end optimization pipeline (2023)](https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html)
 - [Swifty-LLVM](https://github.com/val-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.
+- [LLVM: Canonicalization and target-independence (2023)](https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html)

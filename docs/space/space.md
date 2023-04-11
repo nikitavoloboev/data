@@ -201,3 +201,4 @@
 - [Color of the Night Sky](https://clarkvision.com/articles/color.of.the.night.sky/)
 - [Simple orbital mechanics simulation](https://github.com/jBugman/planets)
 - [General Relativity and Solar System Stability](https://zyrxvo.github.io/gr/) ([HN](https://news.ycombinator.com/item?id=35151646))
+- [Satellite Structure from Motion](https://github.com/Kai-46/SatelliteSfM) - Library for solving the satellite structure from motion problem.

@@ -88,4 +88,6 @@ Need to read through [minGPT](https://github.com/karpathy/minGPT) code fully tog
 
 ## Listened
 
-Always shivers from [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR).
+Too happy with my [Special](https://open.spotify.com/playlist/0phxrDBmTURKDkRNmbpEgO) & [Repeat](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo) playlists to even venture out to new songs.
+
+[My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) & [Time](https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt) are so good still.

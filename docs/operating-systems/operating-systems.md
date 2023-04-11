@@ -442,3 +442,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler) ([HN](https://news.ycombinator.com/item?id=35275301))
 - [Boot-rs](https://github.com/MarcusGrass/boot-rs) - Collection of tools to create an ergonomic and secure encrypted boot-process.
 - [System76 Open Firmware](https://github.com/system76/firmware-open)
+- [Limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.

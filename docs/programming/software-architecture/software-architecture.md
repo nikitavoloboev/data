@@ -4,7 +4,7 @@ title: Software architecture
 
 # [Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
 
-My current preferred tech stack is outlined [here](../../sharing/my-workflow.md#tech). 
+My current preferred tech stack is outlined [here](../../sharing/my-workflow.md#tech).
 
 I love the idea of [building truly offline first software where backend failing isn't a big deal. All operations are done locally (fast), then sync deltas to server](https://twitter.com/_vojto/status/1466540419404247043). Like [DriftDB](https://driftdb.com/), [Replicache](https://replicache.dev/) or [TinyBase](https://tinybase.org/). Good example of such app is [Linear](https://linear.app/).
 
@@ -299,3 +299,4 @@ I love the idea of [building truly offline first software where backend failing 
 - [DiagramAsText.dev](https://diagramastext.dev/) - Generate diagram based on textual description. ([Code](https://github.com/kislerdm/diagramastext))
 - [Event-Driven Architectures vs. Event-Based Compute in Serverless Applications (2023)](https://www.alexdebrie.com/posts/event-driven-vs-event-based/)
 - [Systems design explains the world (2020)](https://apenwarr.ca/log/20201227) ([HN](https://news.ycombinator.com/item?id=35078590))
+- [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm) ([HN](https://news.ycombinator.com/item?id=35511106))
