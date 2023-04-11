@@ -2,7 +2,7 @@
 
 Currently prefer using [Grafbase](../networking/graphql/grafbase.md) or [PlanetScale](planetscale.md) as my data store for web apps. And [SQLite](sqlite.md) for when I need local DB. [Turso](https://chiselstrike.com/) is nice for deploying SQLite.
 
-In perfect world [EdgeDB](edgedb.md) gets replication for lower latency. It builds on top of [Postgres](postgresql.md) & has [amazing query language](https://www.edgedb.com/docs/edgeql/index) & [declarative schema modeling](https://www.edgedb.com/docs/datamodel/index). Maybe EdgeDB can combine work [Neon](https://neon.tech/), that would be nice.
+In perfect world [EdgeDB](edgedb.md) gets replication for lower latency. It builds on top of [Postgres](postgresql.md) & has [amazing query language](https://www.edgedb.com/docs/edgeql/index) & [declarative schema modeling](https://www.edgedb.com/docs/datamodel/index). Maybe EdgeDB can combine [Neon](https://neon.tech/)'s work on making multi-cloud, autoscaling Postgres.
 
 [Database Internals](https://www.databass.dev/) & [Designing Data-Intensive Applications](https://dataintensive.net/) are great books on databases.
 
