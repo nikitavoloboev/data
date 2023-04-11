@@ -109,3 +109,4 @@ I am confident that the advancements in computer vision can let you write your o
 - [Meta’s AR/VR hardware roadmap for the next four years (2023)](https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans) ([HN](https://news.ycombinator.com/item?id=34982919))
 - [Immersive Web Emulator](https://github.com/meta-quest/immersive-web-emulator) - Browser extension that emulates Meta Quest devices for WebXR development.
 - [ion 3D Engine](https://github.com/samrun0/ion-3D-Engine) - JS library for building 3D websites and virtual reality experiences.
+- [In your opinion, what are the top 8 must-buys on Quest 2? (2023)](https://www.reddit.com/r/OculusQuest/comments/12ieuys/in_your_opinion_what_are_the_top_8_mustbuys_on/)

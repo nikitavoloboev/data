@@ -292,4 +292,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [SmolHTML](https://github.com/jbrennan/SmolHTML) - Web browser engine written from scratch in Swift.
 - [BrowserBox](https://github.com/dosyago/BrowserBox) - Remote isolated browser API for security, automation visibility and interactivity.
 - [Magic Copy](https://github.com/kevmo314/magic-copy) - Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
-- [We're building a browser when it's supposed to be impossible (2023)](https://awesomekling.substack.com/p/how-were-building-a-browser-when) ([HN](https://news.ycombinator.com/item?id=35521704))
+- [We're building a browser when it's supposed to be impossible (2023)](https://awesomekling.substack.com/p/how-were-building-a-browser-when) ([HN](https://news.ycombinator.com/item?id=35521704)) ([Reddit](https://www.reddit.com/r/programming/comments/12ifkfl/how_were_building_a_browser_when_its_supposed_to/))
