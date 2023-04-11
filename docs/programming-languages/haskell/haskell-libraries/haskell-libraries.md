@@ -72,6 +72,7 @@
 - [cabal-doctest](https://github.com/haskellari/cabal-doctest) - Setup.hs helper for doctest running.
 - [Inspection Testing](https://github.com/nomeata/inspection-testing) - GHC plugin allows you to embed assertions about the intermediate code into your Haskell code, and have them checked by GHC.
 - [Doctest parallel](https://github.com/martijnbastiaan/doctest-parallel) - Test interactive Haskell examples.
+- [tasty-bench-fit](https://github.com/Bodigrim/tasty-bench-fit) - Benchmark a given function for variable input sizes and find out its time complexity.
 
 ## CLI
 
