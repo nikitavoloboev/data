@@ -120,3 +120,4 @@ title: Godot
 - [Godot 4 3D Pixelart Shader Demo](https://github.com/leopeltola/Godot-3d-pixelart-demo)
 - [Beehave](https://github.com/bitbrain/beehave) - Behavior tree AI for Godot Engine.
 - [SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - Godot bindings for Swift.
+- [BurstParticles2D](https://github.com/uzkbwza/BurstParticles2D) - Cool one-shot particle system for Godot.

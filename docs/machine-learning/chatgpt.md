@@ -308,3 +308,4 @@ It's also great at giving examples.
 - [AiShell](https://github.com/code-yeongyu/AiShell) - Natural Language Shell like Github Copilot X, Powered by ChatGPT.
 - [CodeReview BOT](https://github.com/anc95/ChatGPT-CodeReview) - Code review robot powered by ChatGPT.
 - [ChatGPT Plugin Starter](https://github.com/openai/plugins-quickstart)
+- [tenetlang](https://github.com/tenetlang/tenetlang) - GPT-Designed Language Built for Humans.

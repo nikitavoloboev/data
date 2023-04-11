@@ -850,3 +850,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Ask HN: What lesser-known accessories do you use with your computer? (2023)](https://news.ycombinator.com/item?id=35429801)
 - [Kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [Plane](https://plane.so/) - Open Source JIRA, Linear and Height Alternative. ([Code](https://github.com/makeplane/plane))
+- [Chalk.ist](https://chalk.ist/) - Create beautiful images of your source code. ([Code](https://github.com/Idered/chalk.ist))

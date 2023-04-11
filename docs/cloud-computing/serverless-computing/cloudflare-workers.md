@@ -35,6 +35,7 @@ Trying to build very fast web apps and sites with [Solid](../../programming-lang
 - [Example Hono API](https://github.com/sergiocarneiro/example-hono-api)
 - [Miniflare Example Project](https://github.com/cloudflare/miniflare-typescript-esbuild-jest)
 - [Pageview Worker](https://github.com/jiacai2050/pageview-worker) - Page View backend based on Cloudflare Workers and KV.
+- [Email Send Worker](https://github.com/edevil/email_sender_worker)
 
 ## Notes
 

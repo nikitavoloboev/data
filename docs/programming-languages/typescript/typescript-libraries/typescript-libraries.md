@@ -856,6 +856,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Nano Stores Persistent](https://github.com/nanostores/persistent) - Tiny persistent store for Nano Stores state manager.
 - [Eventual](https://github.com/functionless/eventual) - Build scalable and durable micro-services with APIs, Messaging and Workflows.
 - [moize](https://github.com/planttheidea/moize) - Consistently-fast, complete memoization solution for JS.
+- [Arancini](https://github.com/isaac-mason/arancini) - Object based Entity Component System.
 
 ## Links
 

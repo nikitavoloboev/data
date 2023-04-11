@@ -91,3 +91,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles.
 - [Dotstingray](https://github.com/AumyF/dotstingray) - Dotfiles management library which runs on Deno.
 - [Neutron Sync](https://github.com/neutron-sync/neutron-sync) - Sync your personal dotfiles to an encrypted GitHub.
+- [Fleek](https://github.com/ublue-os/fleek) - All-in-one management system for everything you need to be productive on your computer.

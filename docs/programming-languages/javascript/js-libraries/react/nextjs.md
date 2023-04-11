@@ -441,3 +441,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next Route Visualizer](https://github.com/DiiiaZoTe/next-route-visualizer) - Package for visualizing Next.js app directory routes.
 - [T3 Stack Tutorial (2023)](https://www.youtube.com/watch?v=YkOSUVzOAA4)
 - [Next Export Optimize Images](https://github.com/dc7290/next-export-optimize-images) - Optimize images at build time with Next.js.
+- [next-typed-connect](https://github.com/steelydylan/next-typed-connect) - Typed API Roots for Next.js using zod.
