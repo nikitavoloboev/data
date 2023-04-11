@@ -312,6 +312,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Games as emotional as The Last of Us (2023)](https://www.reddit.com/r/thelastofus/comments/12aan2o/other_games_to_play_with_a_similar_emotional/)
 - [Any games on PS Plus you feel deserve more recognition?](https://www.reddit.com/r/PlayStationPlus/comments/w1zhoz/any_games_on_ps_plus_you_feel_deserve_more/)
 - [Games where world doesn't revolve around you? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12fm7cu/games_where_world_doesnt_revolve_around_you/)
+- [Games you can keep coming back to over long periods of time?](https://www.reddit.com/r/gamingsuggestions/comments/12i837c/games_you_can_keep_coming_back_to_over_long/)
 
 ## Links
 

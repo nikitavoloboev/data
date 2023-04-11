@@ -8,7 +8,7 @@ Love using [ChatGPT](../machine-learning/chatgpt.md) and its open variants like 
 
 [spaCy](https://spacy.io/) (with their [NLP course](https://github.com/explosion/spacy-course)) & [Fairseq](https://github.com/facebookresearch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
-[DALL·E 2](https://openai.com/dall-e-2/) is fascinating too. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation.
+[DALL·E 2](https://openai.com/dall-e-2/) is fascinating too. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation. Although [Midjourney](https://www.midjourney.com/home/) is strictly superior technology now.
 
 [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) is a nice intro.
 
@@ -19,6 +19,8 @@ Love using [ChatGPT](../machine-learning/chatgpt.md) and its open variants like 
 [rust-bert](https://github.com/guillaume-be/rust-bert) is useful for making NLP pipelines.
 
 Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-flan-t5-deepspeed) together with examples from [OpenAI Cookbook](https://github.com/openai/openai-cookbook).
+
+[LLM-Chain](https://github.com/sobelio/llm-chain) is amazing tool.
 
 ## Notes
 
@@ -1022,3 +1024,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Prompt Lang](https://github.com/generative-magic/promptlang) - Mini programming language for prompting LLMs.
 - [Python Bindings for llama.cpp](https://github.com/abetlen/llama-cpp-python)
 - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering (2023)](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/) ([HN](https://news.ycombinator.com/item?id=35522080))
+- [LLM-Chain](https://github.com/sobelio/llm-chain) - Rust crate for building chains in large language models allowing you to summarise text and complete complex tasks.

@@ -92,3 +92,4 @@
 - [Home-Heat - YouTube](https://www.youtube.com/@home_heat/videos)
 - [TinyTuya](https://github.com/jasonacox/tinytuya) - Python module to interface with Tuya WiFi smart devices.
 - [Monitoring my weather at home (2023)](https://tylercipriani.com/blog/2023/02/19/weather-station/) ([HN](https://news.ycombinator.com/item?id=34903912))
+- [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth (2023)](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html) ([Lobsters](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s))
