@@ -1025,3 +1025,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Python Bindings for llama.cpp](https://github.com/abetlen/llama-cpp-python)
 - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering (2023)](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/) ([HN](https://news.ycombinator.com/item?id=35522080))
 - [LLM-Chain](https://github.com/sobelio/llm-chain) - Rust crate for building chains in large language models allowing you to summarise text and complete complex tasks.
+- [PhaseLLM](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI. ([HN](https://news.ycombinator.com/item?id=35527907))
+- [The Coming of Local LLMs (2023)](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/) ([HN](https://news.ycombinator.com/item?id=35526401))

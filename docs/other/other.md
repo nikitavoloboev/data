@@ -779,3 +779,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [ELI5: How is GPS free?](https://www.reddit.com/r/explainlikeimfive/comments/118aak0/eli5_how_is_gps_free/)
 - [Maze Generation](https://github.com/adrocodes/maze-generation) - Generating mazes with Rust.
 - [irdb](https://github.com/probonopd/irdb) - Crowd-sourced, manufacturer-independent databases of infrared remote control codes.
+- [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974) ([HN](https://news.ycombinator.com/item?id=35527873))

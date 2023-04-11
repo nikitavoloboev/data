@@ -690,3 +690,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Scaling serverless Postgres: How we implement autoscaling (2023)](https://neon.tech/blog/scaling-serverless-postgres)
 - [PostgreSQL Logical Replication Gotchas (2023)](https://pgdash.io/blog/postgres-replication-gotchas.html)
 - [Supavisor](https://github.com/supabase/supavisor) - Scalable, cloud-native Postgres connection pooler. ([HN](https://news.ycombinator.com/item?id=35501718))
+- [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue (2023)](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue) ([HN](https://news.ycombinator.com/item?id=35526846))
