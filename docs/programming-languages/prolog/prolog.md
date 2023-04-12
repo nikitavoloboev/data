@@ -83,3 +83,4 @@ title: Prolog
 - [Rethinking Prolog](https://www.academia.edu/15102439/Rethinking_Prolog) ([HN](https://news.ycombinator.com/item?id=34733551))
 - [swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm) - SWI-Prolog WebAssembly build as a NPM package.
 - [Awesome Prolog](https://github.com/klaudiosinani/awesome-prolog)
+- [VSC-Prolog](https://github.com/arthwang/vsc-prolog) - VS Code extension that provides language support for prolog.

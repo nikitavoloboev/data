@@ -293,3 +293,4 @@ title: Bioinformatics
 - [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
 - [List of molecular design using Generative AI and Deep Learning](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)
 - [Molfeat](https://github.com/datamol-io/molfeat) - Hub for all your molecular featurizers.
+- [ChemSpacE](https://github.com/yuanqidu/ChemSpacE) - Interpretable and Interactive Chemical Space Exploration.

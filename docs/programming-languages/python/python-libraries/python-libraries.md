@@ -369,6 +369,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
 - [pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - Pytest plugin for pretty printing the test summary.
 - [pytest-subtests](https://github.com/pytest-dev/pytest-subtests) - Unittest subTest() support and subtests fixture.
+- [pytypest](https://github.com/orsinium-labs/pytypest) - Testing framework that empowers pytest (with better fixtures and parametrization).
 
 ## Error
 

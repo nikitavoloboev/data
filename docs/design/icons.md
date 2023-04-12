@@ -15,6 +15,7 @@
 - [Slack icon](https://twitter.com/thatbenlifetho/status/1365390262386663424)
 - [Web Assembly Logo](https://github.com/carlosbaraza/web-assembly-logo)
 - [VSCode Icon](https://twitter.com/Gavmn/status/1438891591981170691)
+- [Apollo](https://twitter.com/AdamWhitcroft/status/1645826581468942336)
 
 ## Icon designers
 

@@ -125,3 +125,5 @@ title: Conflict-free replicated data type
 - [y-sync](https://github.com/y-crdt/y-sync) - Yjs/Yrs sync protocol implementation.
 - [Collabs](https://github.com/composablesys/collabs) - Collections library for collaborative data structures.
 - [Plain Tree: A Basic List CRDT (2022)](https://mattweidner.com/2022/10/21/basic-list-crdt.html) ([Code](https://github.com/mweidner037/uniquely-dense-total-order))
+- [replicatingtypes](https://github.com/appdecentral/replicatingtypes) - Conflict-Free Replicated Data Types (CRDTs) in Swift.
+- [CRDT Papers](https://crdt.tech/papers.html) ([HN](https://news.ycombinator.com/item?id=35530040))

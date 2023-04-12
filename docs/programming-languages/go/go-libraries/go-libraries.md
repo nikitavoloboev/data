@@ -2140,6 +2140,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Tokenizer](https://github.com/tiktoken-go/tokenizer) - Pure Go implementation of OpenAI's tiktoken tokenizer.
 - [gortsplib](https://github.com/bluenviron/gortsplib) - RTSP 1.0 client and server library for Go.
 - [xslog](https://github.com/galecore/xslog) - Extension handlers for the slog library.
+- [bpm](https://github.com/benjojo/bpm) - Library and tool for dealing with beats per second detection.
 
 ## Links
 

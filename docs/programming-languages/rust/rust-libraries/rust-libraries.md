@@ -335,6 +335,7 @@
 - [VIZIA](https://github.com/geom3trik/VIZIA) - Declarative GUI library written in Rust.
 - [Panoramix](https://github.com/PoignardAzur/panoramix) - Prototype implementation of reactive UI in rust.
 - [Freya](https://github.com/marc2332/freya) - Native GUI library for Rust powered by Dioxus and Skia.
+- [Dioxus-STD](https://github.com/DioxusLabs/dioxus-std) - Platform agnostic library for supercharging your productivity with Dioxus.
 
 ## DB
 
@@ -450,6 +451,7 @@
 - [rsonpath](https://github.com/V0ldek/rsonpath) - Fast Rust JSONPath query engine.
 - [adrodb](https://github.com/adrocodes/adrodb) - Super simple key-value store using SQLite.
 - [SQLite no_std](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible.
+- [Carbonado](https://github.com/diba-io/carbonado) - Apocalypse-resistant data storage format for the truly paranoid.
 
 ## Video
 
@@ -782,6 +784,7 @@
 - [Dilithium](https://github.com/Argyle-Software/dilithium) - Post-quantum cryptographic signature scheme.
 - [Kyber](https://github.com/Argyle-Software/kyber) - Rust implementation of the Kyber post-quantum KEM.
 - [Cryptocorrosion](https://github.com/cryptocorrosion/cryptocorrosion) - Performance crypto in pure Rust.
+- [blstrs](https://github.com/filecoin-project/blstrs) - Implementation of BLS12-381 pairing-friendly elliptic curve construction, using the blst library as backend.
 
 ## Linux
 

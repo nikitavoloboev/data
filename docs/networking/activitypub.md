@@ -87,3 +87,4 @@ title: ActivityPub
 - [Minidon](https://github.com/yusukebe/minidon) - Minimal implementation of ActivityPub using Cloudflare Workers and D1.
 - [Activity Pub vs. Web Frameworks (2023)](https://danpalmer.me/2023-01-08-activitypub-vs-web-frameworks/) ([HN](https://news.ycombinator.com/item?id=35032224))
 - [PassivityPub](https://github.com/blinry/passivity-pub) - ActivityPub implementation.
+- [Emissary](https://github.com/EmissarySocial/emissary) - Trustworthy Space on the Web (ActivityPub + IndieWeb).

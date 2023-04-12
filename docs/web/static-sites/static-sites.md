@@ -141,3 +141,4 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [oranda](https://github.com/axodotdev/oranda) - Generate beautiful landing pages for your developer tools.
 - [Island.js](https://github.com/sanyuan0704/island.js) - Vite & MDX powered static site generator. Base on islands architecture.
 - [Impala](https://github.com/ascorbic/impala) - Simple static React framework.
+- [bearclaw](https://github.com/donuts-are-good/bearclaw) - Tiny static site generator w/ rss.

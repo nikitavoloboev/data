@@ -86,6 +86,12 @@ Need to read through [minGPT](https://github.com/karpathy/minGPT) code fully tog
 
 [Computer history by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613) is my fav [Midjourney edit](https://www.youtube.com/watch?v=TGD8zKvRxc4).
 
+Found out about [LLM-Chain](https://github.com/sobelio/llm-chain), [Auto-GPT](https://github.com/Torantulino/Auto-GPT), [LangChain](https://github.com/hwchase17/langchain) & [AI Legion](https://github.com/eumemic/ai-legion). Incredible stuff.
+
+[This](https://twitter.com/radekosmulski/status/1645713315971354626) is nice summary of how LangChain works.
+
+Want to try build my own [AI agents](https://twitter.com/sjwhitmore/status/1645811222661718021) for some things.
+
 ## Listened
 
 Too happy with my [Special](https://open.spotify.com/playlist/0phxrDBmTURKDkRNmbpEgO) & [Repeat](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo) playlists to even venture out to new songs.

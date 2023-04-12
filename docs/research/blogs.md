@@ -408,6 +408,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Davis Silverman](https://thedav.is/post/)
 - [Owen Gage](https://owengage.com/)
 - [Jakob Kreuze](https://jakob.space/)
+- [Chris Coyier](https://chriscoyier.net/)
 
 ## Notes
 

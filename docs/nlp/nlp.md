@@ -1027,3 +1027,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LLM-Chain](https://github.com/sobelio/llm-chain) - Rust crate for building chains in large language models allowing you to summarise text and complete complex tasks.
 - [PhaseLLM](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI. ([HN](https://news.ycombinator.com/item?id=35527907))
 - [The Coming of Local LLMs (2023)](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/) ([HN](https://news.ycombinator.com/item?id=35526401))
+- [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society](https://github.com/lightaime/camel)

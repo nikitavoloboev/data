@@ -384,3 +384,4 @@ I am still exploring what the best way to do GraphQL queries from [Solid](../../
 - [Grats](https://github.com/captbaritone/grats) - True code-first GraphQL for TypeScript.
 - [GraphQL: From Excitement to Deception (2023)](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf) ([Lobsters](https://lobste.rs/s/uncy17/graphql_from_excitement_deception)) ([Reddit](https://www.reddit.com/r/programming/comments/12fgial/graphql_from_excitement_to_deception/))
 - [nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain.
+- [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix)
