@@ -75,3 +75,4 @@
 - [Non-Euclidean geometry and games (2019)](https://zenorogue.scribe.rip/non-euclidean-geometry-and-games-fb46989320d4)
 - [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
 - [Why Penrose Tiles Never Repeat](https://www.youtube.com/watch?v=-eqdj63nEr4)
+- [Scissors Congruence](http://dmsm.github.io/scissors-congruence/) - Interactive demonstration of the Wallace–Bolyai–Gerwien theorem. ([Code](https://github.com/dmsm/scissors-congruence))

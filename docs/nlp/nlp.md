@@ -1031,3 +1031,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [BabyAGI: an Autonomous and Self-Improving agent, or BASI](https://github.com/oliveirabruno01/babyagi-asi)
 - [I built my own AutoGPT that makes videos (2023)](https://www.youtube.com/watch?v=_rGXIXyNqpk)
 - [How does LangChain actually work? (2023)](https://twitter.com/radekosmulski/status/1645713315971354626)
+- [Awesome Decentralized LLM](https://github.com/imaurer/awesome-decentralized-llm)
