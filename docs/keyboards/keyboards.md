@@ -179,3 +179,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [Compare split keyboards](https://jhelvy.github.io/splitKbCompare/) ([Code](https://github.com/jhelvy/splitKbCompare))
 - [Initial V](https://github.com/tenderlove/initial-v) - BMW shifter converted to a Bluetooth Keyboard that you use with Vim. ([HN](https://news.ycombinator.com/item?id=35004828))
 - [Making a Bloom Filter Keyboard (2023)](https://mclare.blog/posts/making-a-bloom-filter-keyboard/)
+- [Klack](https://tryklack.com/) - Satisfying sound with every keystroke.

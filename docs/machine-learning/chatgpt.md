@@ -310,3 +310,4 @@ It's also great at giving examples.
 - [ChatGPT Plugin Starter](https://github.com/openai/plugins-quickstart)
 - [tenetlang](https://github.com/tenetlang/tenetlang) - GPT-Designed Language Built for Humans.
 - [GPT-Legion: An AI Agent System](https://github.com/eumemic/gpt-legion) - Framework for autonomous agents who can work together to accomplish tasks.
+- [wonderGPT](https://wondergpt.co/) - Simple and beautiful ChatGPT client for macOS.

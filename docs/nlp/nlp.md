@@ -1028,3 +1028,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [PhaseLLM](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI. ([HN](https://news.ycombinator.com/item?id=35527907))
 - [The Coming of Local LLMs (2023)](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/) ([HN](https://news.ycombinator.com/item?id=35526401))
 - [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society](https://github.com/lightaime/camel)
+- [BabyAGI: an Autonomous and Self-Improving agent, or BASI](https://github.com/oliveirabruno01/babyagi-asi)
+- [I built my own AutoGPT that makes videos (2023)](https://www.youtube.com/watch?v=_rGXIXyNqpk)
+- [How does LangChain actually work? (2023)](https://twitter.com/radekosmulski/status/1645713315971354626)
