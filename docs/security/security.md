@@ -369,3 +369,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Cloak](https://github.com/purton-tech/cloak) - Secrets automation for developers.
 - [envio](https://github.com/humblepenguinn/envio) - Command-line tool that simplifies the management of environment variables across multiple profiles.
 - [Passkey-rs](https://github.com/1Password/passkey-rs) - Framework for defining Webauthn Authenticators that support passkeys.
+- [vet](https://github.com/safedep/vet) - Automate Open Source Package Vetting in CI/CD.

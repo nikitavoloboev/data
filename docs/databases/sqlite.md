@@ -325,3 +325,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [Quick SQLite](https://github.com/margelo/react-native-quick-sqlite) - Fast react-native SQLite library built using JSI.
 - [SQLite Ecosystem](https://github.com/asg017/sqlite-ecosystem) - Overview of all my SQLite extensions, and a roadmap for future extensions and tooling.
 - [sqlite-history](https://github.com/simonw/sqlite-history) - Track changes to SQLite tables using triggers.
+- [sqlite2parquet](https://github.com/asayers/sqlite2parquet) - Generate parquet files from SQLite database.

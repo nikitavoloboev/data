@@ -1222,3 +1222,5 @@
 - [Caption Anything via Clicking](https://github.com/ttengwang/Caption-Anything)
 - [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition (2023)](https://arxiv.org/abs/2304.04704) ([Code](https://github.com/amazon-science/prompt-pretraining))
 - [Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything) - Implementation of zero-shot instance segmentation using Segment Anything.
+- [Segment Anything for Stable Diffusion Webui](https://github.com/continue-revolution/sd-webui-segment-anything)
+- [Semaphore](https://github.com/everythingishacked/Semaphore) - Full-body keyboard using gestures to type through computer vision. ([HN](https://news.ycombinator.com/item?id=35536550))

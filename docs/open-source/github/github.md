@@ -518,3 +518,4 @@ Awesome List
 - [GitHub Copilot X: The AI-powered developer experience (2023)](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) ([HN](https://news.ycombinator.com/item?id=35261065))
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Locally hosted version of GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=32327711)) ([HN](https://news.ycombinator.com/item?id=35264725))
 - [GitHub to Linear](https://github.com/delucis/github-to-linear) - Quickly create a Linear ticket from any GitHub PR or issue.
+- [clone-org](https://github.com/caarlos0/clone-org) - Clone all repos of a github organization.

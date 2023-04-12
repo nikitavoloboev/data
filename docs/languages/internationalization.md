@@ -60,3 +60,4 @@ Currently using [Inlang](https://github.com/inlang/inlang) for everything.
 - [Apple Localization Terms Glossary](https://applelocalization.com/)
 - [Docusaurus v2 i18n](https://github.com/facebook/docusaurus/issues/3317)
 - [ChatGPT-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate websites' locale JSON files with AI assistance. ([HN](https://news.ycombinator.com/item?id=35082770)) ([Web](https://chatgpt-i18n.vercel.app/))
+- [Geepeetto](https://github.com/snowzurfer/geepeetto) - Localize your iOS App strings automatically using ChatGPT.

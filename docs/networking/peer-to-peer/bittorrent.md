@@ -158,3 +158,4 @@ title: BitTorrent
 - [Web Torrent Search](https://github.com/icodelifee/TorrentWebSearch) - Simple, fast and reliable torrent search engine built with Flutter and Go to find and download torrents.
 - [btlink](https://github.com/anacrolix/btlink) - HTTP(s) addressing scheme for BitTorrent.
 - [torrent-stream](https://github.com/mafintosh/torrent-stream) - Low level streaming torrent engine that peerflix uses.
+- [Torrent / YouTube Leecher](https://github.com/SpEcHiDe/PublicLeech)
