@@ -1,6 +1,6 @@
 # 2023 April
 
-28 this month. Spending it Spain. Full focus on priority tasks/projects I need to complete in life.
+28 this month. Spending it in Spain. Full focus on priority tasks/projects I need to complete in life.
 
 Fuck everything else. Wrote out [routine](../../focusing/processes.md) for myself too:
 

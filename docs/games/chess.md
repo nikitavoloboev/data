@@ -277,3 +277,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [What is Chess? What to think and how long for (2023)](https://www.alexcrompton.com/blog/time-thoughts-chess) ([HN](https://news.ycombinator.com/item?id=34981737))
 - [I played chess against ChatGPT-4 and lost (2023)](https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca) ([HN](https://news.ycombinator.com/item?id=35215107))
 - [Fishtest](https://github.com/glinscott/fishtest) - Distributed task queue for testing chess engines.
+- [A Grandmaster Solves Chess Problems | Puzzle Rush Survival](https://www.youtube.com/watch?v=FelX-L-fvSk)

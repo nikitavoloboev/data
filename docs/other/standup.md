@@ -44,6 +44,7 @@ Quite like [Bill Burr](https://billburr.com/).
 - [Taylor Tomlinson Stand-Up: Anti-Depressants, Settling Down](https://www.youtube.com/watch?v=dW8jny6_724)
 - [Тимур Каргинов про документы](https://www.youtube.com/watch?v=LojCYKm7se0)
 - [Louis CK - Of course... but maybe?](https://www.youtube.com/watch?v=6FThWZjL_o4)
+- [Killin' Them Softly - Dave Chappelle (2000)](https://www.youtube.com/watch?v=FclScfPoKes)
 
 ## Links
 

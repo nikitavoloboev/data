@@ -6,6 +6,8 @@ title: Observability
 
 [Better Stack](https://betterstack.com/), [Highlight](https://github.com/highlight/highlight), [Axiom](https://www.axiom.co/), [ArcticDB](https://github.com/polarsignals/arcticdb) & [New Relic](https://newrelic.com) seem useful.
 
+[Vector](https://github.com/vectordotdev/vector) seems nice too.
+
 ## Notes
 
 - [I’m increasingly of the opinion that we should stop using “logging” libraries, and instead we should produce telemetry via events using something like OpenTelemetry’s trace API. These traces can be rendered as strings for people who like their logs in files.](https://news.ycombinator.com/item?id=32800598)
