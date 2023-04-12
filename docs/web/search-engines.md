@@ -337,7 +337,7 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [New approach to domain ranking (2023)](https://memex.marginalia.nu/log/73-new-approach-to-ranking.gmi)
 - [Creating a Search Engine For My Music Streaming Platform (2023)](https://nectarine.sh/posts/creating-a-search-engine-for-my-streaming-platform/) ([HN](https://news.ycombinator.com/item?id=34834641))
 - [Algolia CLI](https://github.com/algolia/cli) - Algolia’s official CLI dev tool.
-- [Phind](https://phind.com/) - AI search engine for developers. ([HN](https://news.ycombinator.com/item?id=34884338))
+- [Phind](https://phind.com/) - AI search engine for developers. ([HN](https://news.ycombinator.com/item?id=34884338)) ([HN](https://news.ycombinator.com/item?id=35543668))
 - [Search Engine in Rust (2023)](https://www.youtube.com/watch?v=hm5xOJiVEeg)
 - [milli-py](https://github.com/AlexAltea/milli-py) - Python bindings for Milli, the embeddable Rust-based search engine powering Meilisearch.
 - [Kamilata](https://github.com/Mubelotix/kamilata) - Peer-to-Peer Search Engine System.

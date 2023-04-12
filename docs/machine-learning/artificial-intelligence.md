@@ -217,3 +217,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [How to think about modern AI from first principles](https://twitter.com/dvdkll/status/1637159514897268736)
 - [Ask HN: What's your best resource for keeping up-to-date on AI developments? (2023)](https://news.ycombinator.com/item?id=35479853)
 - [Generative Agents: Interactive Simulacra of Human Behavior (2023)](https://arxiv.org/abs/2304.03442) ([HN](https://news.ycombinator.com/item?id=35517649))
+- [Ask HN: I am a full stack developer, where do I start learning for AI (2023)](https://news.ycombinator.com/item?id=35543774)
