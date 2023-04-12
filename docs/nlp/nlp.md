@@ -1033,3 +1033,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [How does LangChain actually work? (2023)](https://twitter.com/radekosmulski/status/1645713315971354626)
 - [Awesome Decentralized LLM](https://github.com/imaurer/awesome-decentralized-llm)
 - [OpenAGI: When LLM Meets Domain Experts (2023)](https://arxiv.org/abs/2304.04370) ([Code](https://github.com/agiresearch/OpenAGI))
+- [Teaching Large Language Models to Self-Debug (2023)](https://arxiv.org/abs/2304.05128)

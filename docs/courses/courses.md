@@ -71,3 +71,4 @@ I like the idea of doing [early release of a course on a discount](https://www.j
 - [Ask HN: What's the best free course in your area of expertise? (2022)](https://news.ycombinator.com/item?id=34190219)
 - [Ask HN: Which courses (online or not) have had the greatest impact on you? (2023)](https://news.ycombinator.com/item?id=34637678)
 - [Coursemate](https://www.coursem8.com/) - Connect with other self learners. ([HN](https://news.ycombinator.com/item?id=35398480))
+- [Ask HN: What are some of the best university courses available online for free? (2023)](https://news.ycombinator.com/item?id=35536042)

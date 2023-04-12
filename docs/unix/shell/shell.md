@@ -302,3 +302,4 @@ All active variables can be seen by running `env`.
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - CLI that converts natural language to shell commands.
 - [Getting the ^D (2023)](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
 - [Terminals and Shells 1: Fundamentals](https://owengage.com/writing/2023-01-28-terminals-and-shells-1-fundamentals/)
+- [Fig Discord](https://discord.com/invite/cg4UjshF2M)
