@@ -36,6 +36,7 @@ Below is a list of extensions I use.
 
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - Tightly integrate with the GraphQL Ecosystem. ([Code](https://github.com/prisma-labs/vscode-graphql))
+- [Pretty TypeScript Errors](https://github.com/yoavbls/pretty-ts-errors) - Make TypeScript errors prettier and human-readable in VSCode.
 
 ## Python
 

@@ -1082,6 +1082,7 @@
 - [fromit](https://github.com/al8n/fromit) - Macro for generating new structs with getters, setters, and From or TryFrom implementation based on the given struct.
 - [enum-tags](https://github.com/DenverLacey/enum-tags) - Derive-Macro library that generates a companion tag-enum for any enum so that variants can be referred to without specifying fields.
 - [include_dir](https://github.com/Michael-F-Bryan/include_dir) - Evolution of the include_str macro for embedding a directory tree into your binary.
+- [myn](https://github.com/parasyte/myn) - Minimalist Rust syntax parsing for procedural macros.
 
 ## Math
 

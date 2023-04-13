@@ -4,7 +4,7 @@ title: Rust
 
 # [Rust](https://www.rust-lang.org/en-US/)
 
-[Rust Book](https://doc.rust-lang.org/book/) ([interactive version](https://rust-book.cs.brown.edu/)), [Comprehensive Rust Guide](https://google.github.io/comprehensive-rust/) & [rustlings](https://github.com/rust-lang/rustlings) are best [intros into Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs). Together with [rust cheat sheet](https://cheats.rs/).
+[Learn Rust 101](https://github.com/plabayo/learn-rust-101), [Rust Book](https://doc.rust-lang.org/book/) ([interactive version](https://rust-book.cs.brown.edu/)), [Comprehensive Rust Guide](https://google.github.io/comprehensive-rust/) & [rustlings](https://github.com/rust-lang/rustlings) are best [intros into Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs). Together with [rust cheat sheet](https://cheats.rs/).
 
 [Rust in Action](https://www.manning.com/books/rust-in-action), [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) ([good notes](https://bitemyapp.com/blog/notes-on-zero2prod-rust/)) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
 

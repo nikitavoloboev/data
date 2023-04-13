@@ -230,6 +230,7 @@ Also use Obsidian as a way to work through active todos, until I build an app fo
 - [Obsidian GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) - Obsidian plugin to generate notes based on GP3 output.
 - [GPT3 Summarizer](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize text with GPT-3 in Obsidian.
 - [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin)
+- [Global Search and Replace for Obsidian](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace)
 
 ## Themes
 

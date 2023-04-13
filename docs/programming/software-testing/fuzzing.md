@@ -107,3 +107,4 @@ title: Fuzzing
 - [autofz: Automated Fuzzer Composition at Runtime (2023)](https://arxiv.org/abs/2302.12879)
 - [Random Fuzzy Thoughts (2023)](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
 - [ziggy](https://github.com/srlabs/ziggy) - Fuzzer manager for Rust projects.
+- [tree-crasher](https://github.com/langston-barrett/tree-crasher) - Easy-to-use grammar-based black-box fuzzer.
