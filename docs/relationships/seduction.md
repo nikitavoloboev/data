@@ -1,6 +1,6 @@
 # Seduction
 
-Have a [long term partner](relationships.md) I love now but at some point I was reading a bit about seduction and was interested in it. One of the books that really changed how I thought about meeting women and anyone else really is [Models](https://www.goodreads.com/book/show/12633800-models). The basic gist is that honesty is everything. Be honest with your intentions and where you want things to progress. Focus on yourself above all. Everything is an experience. Never focus on results but the process of it. That means not fearing having your ego hurt by losses. There is nothing that can impact how you feel but yourself.
+Have a [long term partner](relationships.md) I love now but at some point I was reading a bit about seduction and was interested in it. One of the books that really changed how I thought about meeting women and anyone else really is [Models](https://www.goodreads.com/book/show/12633800-models). The basic gist is that honesty is everything. Be honest with your intentions and where you want things to progress. Focus on yourself above all. Everything is an experience. Never focus on results but the process of it. That means not fearing having your ego hurt by [rejections](https://www.reddit.com/r/seduction/comments/12hv1p5/how_to_carry_self_around_someone_whos_rejected_you/jfr2yye/?context=3). There is nothing that can impact how you feel but yourself.
 
 It also taught me about importance of independence in all aspects. Your feelings and self worth should never be defined by anyone but you. It is hard/impossible to be your true self if you are trying to impress anyone for fear of losing them. If the relationship or first encounter doesn't work out, don't dwell on it and move on.
 
@@ -167,3 +167,4 @@ Having said all of above, I think the most effective approach is having a great 
 - [What’s the closest thing to a ‘cheat code’ that you’ve found?](https://www.reddit.com/r/seduction/comments/12gatev/whats_the_closest_thing_to_a_cheat_code_that/)
 - [Is dating for relationship any different from casual dating?](https://www.reddit.com/r/seduction/comments/12fkris/is_dating_for_relationship_any_different_from/)
 - [It took me a long time to realise this, but women actually like to be approached. They also respect guys more who do.](https://www.reddit.com/r/seduction/comments/12e29cv/it_took_me_a_long_time_to_realise_this_but_women/)
+- [How to Carry Self Around Someone Who's Rejected You](https://www.reddit.com/r/seduction/comments/12hv1p5/how_to_carry_self_around_someone_whos_rejected_you/)

@@ -382,3 +382,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [OpenAI API starter kit for Deno](https://github.com/andyjessop/deno-openai)
 - [Supabase Edge Runtime](https://github.com/supabase/edge-runtime) - Web server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services. ([Article](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)) ([HN](https://news.ycombinator.com/item?id=35525222))
 - [Deno SaaSKit](https://github.com/denoland/saaskit) - Modern SaaS template built on Fresh.
+- [Service](https://github.com/Hexagon/service) - Install a Deno application as a system service.

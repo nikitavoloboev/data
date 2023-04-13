@@ -88,3 +88,4 @@ title: ActivityPub
 - [Activity Pub vs. Web Frameworks (2023)](https://danpalmer.me/2023-01-08-activitypub-vs-web-frameworks/) ([HN](https://news.ycombinator.com/item?id=35032224))
 - [PassivityPub](https://github.com/blinry/passivity-pub) - ActivityPub implementation.
 - [Emissary](https://github.com/EmissarySocial/emissary) - Trustworthy Space on the Web (ActivityPub + IndieWeb).
+- [Kitsune](https://github.com/kitsune-soc/kitsune) - ActivityPub-federated microblogging. ([Web](https://joinkitsune.org/))

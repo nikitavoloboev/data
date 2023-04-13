@@ -1224,3 +1224,4 @@
 - [Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything) - Implementation of zero-shot instance segmentation using Segment Anything.
 - [Segment Anything for Stable Diffusion Webui](https://github.com/continue-revolution/sd-webui-segment-anything)
 - [Semaphore](https://github.com/everythingishacked/Semaphore) - Full-body keyboard using gestures to type through computer vision. ([HN](https://news.ycombinator.com/item?id=35536550))
+- [CleanVision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.

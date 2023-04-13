@@ -1034,3 +1034,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Awesome Decentralized LLM](https://github.com/imaurer/awesome-decentralized-llm)
 - [OpenAGI: When LLM Meets Domain Experts (2023)](https://arxiv.org/abs/2304.04370) ([Code](https://github.com/agiresearch/OpenAGI))
 - [Teaching Large Language Models to Self-Debug (2023)](https://arxiv.org/abs/2304.05128)
+- [Flowise - LangchainJS UI](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS.
+- [LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favorite LLaMA models, right on your Mac.
+- [BabyAGI JS](https://github.com/ericciarla/babyagijs)
+- [LLaMA.go](https://github.com/gotzmann/llama.go) - Like llama.cpp in pure Go.

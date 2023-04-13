@@ -543,3 +543,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [namaka](https://github.com/nix-community/namaka) - Snapshot testing tool for Nix based on haumea.
 - [nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems.
 - [TVL Kit](https://github.com/tvlfyi/kit) - Exported, Nix-based monorepo tooling from TVL.
+- [nix-dev-home](https://github.com/juspay/nix-dev-home) - home-manager template providing useful tools & settings for Nix-based development.

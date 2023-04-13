@@ -20,6 +20,7 @@ I try to get better at it and learning as I go. Noting funny moments that happen
 
 ## Notes
 
+- [Minecraft proves that abolishing child labour was a mistake. The children yearn for the mines.](https://twitter.com/Froggenthusias1/status/1490752695044554756)
 - [I’ll spend 3 hours reading Amazon reviews before purchasing a $10 item but spend 0 hours doing due diligence before purchasing $10k worth of stock.](https://twitter.com/RampCapitalLLC/status/1369291155142217736)
 - [On your first day rebase the entire repo to a single commit with a message “legacy code”.](https://twitter.com/QuinnyPig/status/1370824822264008709)
 - [I told my ex of 4 years he’d always have a piece of my heart & i can’t remember his last name rn](https://twitter.com/MichaelaOkla/status/1371708729519796227)

@@ -657,6 +657,7 @@
 - [Chat](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker.
 - [Media Picker](https://github.com/exyte/MediaPicker) - SwiftUI library for a customizable media picker.
 - [Stitch](https://github.com/entrhq/stitch) - Lightweight, SwiftUI inspired dependency injection (DI) library that is compile time safe without the need for codegen tooling.
+- [swiftui-GestureVelocity](https://github.com/FluidGroup/swiftui-GestureVelocity) - Property-wrapper provides velocity in pt/s from gesture.
 
 ## Test
 
