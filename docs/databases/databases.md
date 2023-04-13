@@ -798,3 +798,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [MVCC for Rust](https://github.com/penberg/mvcc-rs) - Rust implementation of the Hekaton optimistic multiversion concurrency control algorithm.
 - [High-Performance Concurrency Control Mechanisms for Main-Memory Databases (2012)](https://vldb.org/pvldb/vol5/p298_per-akelarson_vldb2012.pdf)
 - [Relational Operators in Apache Calcite (2021)](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite) ([HN](https://news.ycombinator.com/item?id=35520059))
+- [Do you need a vector database? (2023)](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/) ([HN](https://news.ycombinator.com/item?id=35550567))

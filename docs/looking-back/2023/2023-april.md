@@ -96,4 +96,4 @@ Want to try build my own [AI agents](https://twitter.com/sjwhitmore/status/16458
 
 Too happy with my [Special](https://open.spotify.com/playlist/0phxrDBmTURKDkRNmbpEgO) & [Repeat](https://open.spotify.com/playlist/5mPU9S2dTxIBJVy0Qifyxo) playlists to even venture out to new songs.
 
-[My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) & [Time](https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt) are so good still.
+[Langsette](https://open.spotify.com/track/29vPsCpO1i4DN2V5F9MSWi), [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) & [Time](https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt) are so good still.
