@@ -682,6 +682,7 @@
 - [Serum Errors](https://github.com/serum-errors/serum-spec) - Specification for human-readable, machine-managable, observable/serializable/cross-language errors and error handling.
 - [tracked](https://github.com/trevyn/tracked) - Stringly-typed Error that includes #[track_caller] information.
 - [fused_error](https://github.com/seancroach/fused_error) - Simple library for working with composable errors.
+- [onlyerror](https://github.com/parasyte/onlyerror) - Tiny error derive macro.
 
 ## IO
 

@@ -558,3 +558,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Can PL theory make you a better software engineer? (2023)](https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html)
 - [Designing a Programming Language to Speedrun Advent of Code (2023)](https://blog.vero.site/post/noulith)
 - [CrabLang](https://github.com/crablang/crablang)
+- [Zydeco](https://github.com/zydeco-lang/zydeco) - Programming language based on Call-by-push-value.
