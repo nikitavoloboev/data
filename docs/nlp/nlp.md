@@ -1038,3 +1038,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favorite LLaMA models, right on your Mac.
 - [BabyAGI JS](https://github.com/ericciarla/babyagijs)
 - [LLaMA.go](https://github.com/gotzmann/llama.go) - Like llama.cpp in pure Go.
+- [Free Dolly: Introducing the World's First Open and Commercially Viable Instruction-Tuned LLM (2023)](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/12jqbzp/n_dolly_20_an_open_source_instructionfollowing/))

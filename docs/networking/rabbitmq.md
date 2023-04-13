@@ -43,3 +43,4 @@ title: RabbitMQ
 - [Go, RabbitMQ and gRPC Clean Architecture microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice)
 - [Go RabbitMQ Client Library](https://github.com/rabbitmq/amqp091-go)
 - [Eventing over SNS-SQS and RabbitMQ (2022)](https://dinesh.wiki/posts/eventing-over-sns-sqs-rabbitmq/)
+- [amqprs](https://github.com/gftea/amqprs) - Async & Lock-free RabbitMQ Rust Client, Easy-to-use API.

@@ -1109,3 +1109,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [On Efficient Training of Large-Scale Deep Learning Models: A Literature Review (2023)](https://arxiv.org/abs/2304.03589)
 - [Example models using DeepSpeed](https://github.com/microsoft/DeepSpeedExamples)
 - [Transformer Deep Dive: Parameter Counting](https://orenleung.com/transformer-parameter-counting)
+- [Automatic Gradient Descent](https://github.com/jxbz/agd)

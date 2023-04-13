@@ -174,3 +174,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Dreamlook.ai](https://dreamlook.ai/) - Train models in minutes. Scale up to 1000s of runs per day.
 - [Flow Coder](https://waveworks.dk/flow-coder/) - Compile ML models into dependency-free source code for easy deployment.
 - [Window](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web.
+- [Motion](https://github.com/dm4ml/motion) - Framework for building ML pipelines in Python.

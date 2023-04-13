@@ -692,3 +692,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Supavisor](https://github.com/supabase/supavisor) - Scalable, cloud-native Postgres connection pooler. ([HN](https://news.ycombinator.com/item?id=35501718))
 - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue (2023)](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue) ([HN](https://news.ycombinator.com/item?id=35526846))
 - [Omnigres](https://github.com/omnigres/omnigres) - Makes PostgreSQL a complete application platform.
+- [Supabase Auth: SSO, Mobile, and Server-Side Support (2023)](https://supabase.com/blog/supabase-auth-sso-pkce) ([HN](https://news.ycombinator.com/item?id=35555263))

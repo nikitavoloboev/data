@@ -326,3 +326,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [SQLite Ecosystem](https://github.com/asg017/sqlite-ecosystem) - Overview of all my SQLite extensions, and a roadmap for future extensions and tooling.
 - [sqlite-history](https://github.com/simonw/sqlite-history) - Track changes to SQLite tables using triggers.
 - [sqlite2parquet](https://github.com/asayers/sqlite2parquet) - Generate parquet files from SQLite database.
+- [SQLiteGPT](https://github.com/Airsequel/SQLiteGPT) - SQL function for SQLite to directly query OpenAI's ChatGPT.

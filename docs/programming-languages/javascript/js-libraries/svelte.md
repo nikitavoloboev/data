@@ -382,3 +382,6 @@ title: Svelte
 - [Svelte Canvas](https://github.com/dnass/svelte-canvas) - Reactive canvas rendering with Svelte.
 - [SvelteLab](https://www.sveltelab.dev/) - Supercharged REPL for Svelte. ([Code](https://github.com/SvelteLab/SvelteLab))
 - [SvelteKit-OG](https://github.com/etherCorps/sveltekit-og) - Generate Open Graph Images dynamically from HTML/CSS without a browser in SvelteKit.
+- [Svelte Stepper](https://github.com/efstajas/svelte-stepper) - Library for building delightfully animated stepped flows with Svelte.
+- [Sveltris](https://github.com/Mokshit06/sveltris) - Piece together any framework with Svelte.
+- [Svelte Email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte.

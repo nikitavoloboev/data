@@ -38,6 +38,7 @@
 
 ## iOS
 
+- [SwipeActions](https://github.com/aheze/SwipeActions) - Add customizable swipe actions to any view.
 - [UIComponent](https://github.com/lkzhao/UIComponent) - Write UI in crazy speed, with great perf & no limitations.
 - [Permission](https://github.com/delba/Permission) - Exposes a unified API to request permissions on iOS.
 - [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
@@ -740,6 +741,7 @@
 - [Stores](https://github.com/omaralbeik/Stores) - Typed key-value storage solution to store Codable types in various persistence layers like User Defaults, File System, Core Data, Keychain, and more.
 - [CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Layer of abstraction on top of the CloudKit framework that provides error handling and queueing for offline-capable apps.
 - [pgvector-swift](https://github.com/pgvector/pgvector-swift) - pgvector examples for Swift.
+- [gotrue-swift](https://github.com/supabase-community/gotrue-swift) - Swift client for the GoTrue API.
 
 ## Graphics
 

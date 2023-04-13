@@ -264,6 +264,7 @@ I want to:
 - [Vegard Stikbakke's TILs](https://til.vegardstikbakke.com/) ([Code](https://github.com/vegarsti/til))
 - [Dev Notes](https://github.com/mebusy/notes)
 - [Rahul Rajeev](https://garden.rahulrajeev.net/)
+- [Jake Worth's TIL](https://github.com/jwworth/til)
 - [Rickard Dag's Log](https://devlog.willcodefor.beer/) ([Code](https://github.com/believer/devlog))
 - [Owen's Digigarden](https://publish.obsidian.md/geobo/Welcome+to+my+digital+garden+%F0%9F%8C%B1)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
