@@ -3151,3 +3151,4 @@
 - [Modular Errors in Rust (2023)](https://sabrinajewson.org/blog/errors) ([Reddit](https://www.reddit.com/r/rust/comments/12fhhni/modular_errors_in_rust_sabrina_jewson/)) ([HN](https://news.ycombinator.com/item?id=35502874))
 - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365) ([Lobsters](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror))
 - [Using anyhow while writing a library (2023)](https://www.reddit.com/r/rust/comments/12klmt0/using_anyhow_while_writing_a_library/)
+- [Improving build times for derive macros by 3x or more (2023)](https://www.reddit.com/r/rust/comments/12kaiw8/improving_build_times_for_derive_macros_by_3x_or/)

@@ -780,3 +780,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Maze Generation](https://github.com/adrocodes/maze-generation) - Generating mazes with Rust.
 - [irdb](https://github.com/probonopd/irdb) - Crowd-sourced, manufacturer-independent databases of infrared remote control codes.
 - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974) ([HN](https://news.ycombinator.com/item?id=35527873))
+- [Eric Weinstein Discord](https://discord.gg/GnV9yJ7qGj) ([Web](https://theportal.group/eric-weinstein-discord/))
