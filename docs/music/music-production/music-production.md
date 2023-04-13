@@ -552,3 +552,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Neural Amp Modeler Plug-in](https://github.com/sdatkinson/NeuralAmpModelerPlugin)
 - [Rust WASM Audio Worklet Example](https://github.com/PaulBatchelor/rust-wasm-audioworklet)
 - [Awesome Music](https://github.com/noteflakes/awesome-music)
+- [NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.

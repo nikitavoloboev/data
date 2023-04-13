@@ -192,3 +192,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [Zig is FASTER and SAFER than Rust | Prime Reacts (2023)](https://www.youtube.com/watch?v=CbQVR4v5PZw)
 - [Zig Quirks (2023)](https://www.openmymind.net/Zig-Quirks/) ([HN](https://news.ycombinator.com/item?id=35323645))
 - [Zig And Rust (2023)](https://matklad.github.io/2023/03/26/zig-and-rust.html) ([Lobsters](https://lobste.rs/s/ir5psh/zig_rust)) ([Reddit](https://www.reddit.com/r/Zig/comments/123jpia/blog_post_zig_and_rust/))
+- [Zig build system (2023)](https://en.liujiacai.net/2023/04/13/zig-build-system/) ([Lobsters](https://lobste.rs/s/cykija/zig_build_system))

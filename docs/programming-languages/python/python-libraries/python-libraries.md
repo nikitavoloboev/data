@@ -1175,6 +1175,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [pgvector-python](https://github.com/pgvector/pgvector-python)
 - [Evolutionary Forest](https://github.com/hengzhe-zhang/EvolutionaryForest) - Open source python library for automated feature engineering based on Genetic Programming.
 - [meiga](https://github.com/alice-biometrics/meiga) - Python µframework that provides a simple, fully typed, monad-based result type.
+- [Traitlets](https://github.com/ipython/traitlets) - Lightweight Traits like module.
 
 ## Notes
 

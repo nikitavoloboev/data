@@ -311,3 +311,4 @@ It's also great at giving examples.
 - [tenetlang](https://github.com/tenetlang/tenetlang) - GPT-Designed Language Built for Humans.
 - [GPT-Legion: An AI Agent System](https://github.com/eumemic/gpt-legion) - Framework for autonomous agents who can work together to accomplish tasks.
 - [wonderGPT](https://wondergpt.co/) - Simple and beautiful ChatGPT client for macOS.
+- [AI Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models.

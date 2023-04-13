@@ -1486,6 +1486,7 @@
 - [GeoJSON](https://github.com/kiliankoe/GeoJSON) - Swift types for working with GeoJSON data.
 - [Coquille](https://github.com/alexrozanski/Coquille) - Simple, modern Swift class for running shell commands.
 - [Reducer](https://github.com/wlsdms0122/Reducer) - Unidirectional state machine framework that inspired by ReactorKit & TCA.
+- [CocoaSprings](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for macOS/iOS.
 
 ## Other (not lib)
 

@@ -1226,3 +1226,4 @@
 - [Semaphore](https://github.com/everythingishacked/Semaphore) - Full-body keyboard using gestures to type through computer vision. ([HN](https://news.ycombinator.com/item?id=35536550))
 - [CleanVision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior (2023)](https://arxiv.org/abs/2212.07388) ([Code](https://github.com/ActiveVisionLab/nope-nerf))
+- [Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs (2023)](https://arxiv.org/abs/2212.00785) ([Code](https://github.com/kakaobrain/tcl))

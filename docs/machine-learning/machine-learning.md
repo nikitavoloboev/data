@@ -1111,3 +1111,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Transformer Deep Dive: Parameter Counting](https://orenleung.com/transformer-parameter-counting)
 - [Automatic Gradient Descent](https://github.com/jxbz/agd)
 - [Image Restoration with Mean-Reverting Stochastic Differential Equations (2023)](https://arxiv.org/abs/2301.11699) ([Code](https://github.com/Algolzw/image-restoration-sde))
+- [Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning](https://github.com/facebookresearch/contriever)
