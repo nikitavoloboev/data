@@ -148,3 +148,4 @@ Might give it a go sometime. Right now I love [VSCode](../vs-code/vs-code.md) an
 - [Emacs + ChatGPT with voice](https://github.com/jackdoe/emacs-chatgpt-jarvis)
 - [Master Emacs in one year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org) ([HN](https://news.ycombinator.com/item?id=35214608))
 - [Mastering Emacs Together (2023)](https://susam.net/maze/mastering-emacs-together.html)
+- [916 Days of Emacs (2023)](https://sqrtminusone.xyz/posts/2023-04-13-emacs/) ([HN](https://news.ycombinator.com/item?id=35555481))

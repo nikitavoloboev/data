@@ -214,3 +214,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [Happy movies (2023)](https://www.reddit.com/r/MovieSuggestions/comments/128nm6l/two_of_my_close_friends_died_2_days_back_in_a_car/)
 - [Best foreign language films ever made (2023)](https://www.reddit.com/r/MovieSuggestions/comments/12cottv/best_foreign_language_films_ever_made/)
 - [Movies you wish you could watch for the first time again (2023)](https://www.reddit.com/r/MovieSuggestions/comments/12k6anr/movies_you_wish_you_could_watch_for_the_first/)
+- [What movie lines, with exact intonation, are burned into your brain?](https://twitter.com/amykaycannon/status/1644887305721872388)

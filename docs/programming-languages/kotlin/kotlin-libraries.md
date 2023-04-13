@@ -132,3 +132,4 @@
 - [Kotlin Hexagonal HTTP API Skeleton Course](https://github.com/CodelyTV/kotlin-hexagonal_http_api-course)
 - [Cite](https://github.com/JakeWharton/cite) - Kotlin compiler plugin for embedding information about the file being compiled.
 - [Introducing Kotlin/Wasm (2023)](https://seb.deleuze.fr/introducing-kotlin-wasm/)
+- [Compose Multiplatform UI Framework](https://www.jetbrains.com/lp/compose-multiplatform/)

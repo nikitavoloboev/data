@@ -43,3 +43,4 @@ title: Tailscale
 - [Tailscale Funnel now available in beta (2023)](https://tailscale.com/blog/tailscale-funnel-beta/) ([HN](https://news.ycombinator.com/item?id=35374302))
 - [Using Tailscale without using Tailscale (2023)](https://tailscale.dev/blog/headscale-funnel)
 - [Tailscale sucks (2023)](https://tailscale.dev/blog/tailscale-sucks)
+- [Improving Tailscale via Apple’s open source (2023)](https://tailscale.dev/blog/darwin-spelunking) ([HN](https://news.ycombinator.com/item?id=35559124))
