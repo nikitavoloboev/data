@@ -44,3 +44,4 @@ title: Tailscale
 - [Using Tailscale without using Tailscale (2023)](https://tailscale.dev/blog/headscale-funnel)
 - [Tailscale sucks (2023)](https://tailscale.dev/blog/tailscale-sucks)
 - [Improving Tailscale via Apple’s open source (2023)](https://tailscale.dev/blog/darwin-spelunking) ([HN](https://news.ycombinator.com/item?id=35559124))
+- [Surpassing 10Gb/s over Tailscale (2023)](https://tailscale.com/blog/more-throughput/)

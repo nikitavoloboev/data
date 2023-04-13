@@ -115,6 +115,7 @@
 - [Parsus](https://github.com/alllex/parsus) - Parser-combinators with Kotlin Coroutines.
 - [Kalium](https://github.com/wireapp/kalium) - SDK used to create a Wire client on Android and JVM.
 - [Quiver](https://github.com/cashapp/quiver) - Library that builds upon Arrow to make functional programming in Kotlin even more accessible & delightful.
+- [Multiplatform Settings](https://github.com/russhwolf/multiplatform-settings) - Kotlin Multiplatform library for saving simple key-value data.
 
 ## Links
 

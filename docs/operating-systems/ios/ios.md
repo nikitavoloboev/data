@@ -585,3 +585,4 @@ I try build iOS apps either with [SwiftUI](../../programming-languages/swift/swi
 - [Collection of Mobile App Store Quirks](https://github.com/tramlinehq/store-quirks)
 - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 - [Size Matters: An Exploration of Virtual Memory on iOS (2022)](https://alwaysprocessing.blog/2022/02/20/size-matters)
+- [Built ChatGPT app in SwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI)

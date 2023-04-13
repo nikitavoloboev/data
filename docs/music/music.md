@@ -6,7 +6,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 
 [Riffusion](https://www.riffusion.com) is [exciting](https://news.ycombinator.com/item?id=33999162).
 
-[Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) is useful [Alfred](../macOS/apps/alfred/alfred.md) plugin. Use it to [get info on current song](https://i.imgur.com/WqobmyT.png), easily add song to some playlist and more.
+[Raycast Spotify](https://www.raycast.com/mattisssa/spotify-beta) is useful [Raycast](../tools/raycast.md) plugin. 
 
 [Music Theory](https://badd10de.dev/notes/music-theory.html) is great read.
 

@@ -858,6 +858,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [moize](https://github.com/planttheidea/moize) - Consistently-fast, complete memoization solution for JS.
 - [Arancini](https://github.com/isaac-mason/arancini) - Object based Entity Component System.
 - [eventmit](https://github.com/azu/eventmit) - Simple EventEmitter. A single event object per an event.
+- [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) - MP4 multiplexer in pure TypeScript with support for WebCodecs API, video & audio.
 
 ## Links
 
@@ -984,3 +985,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Are The Types Wrong?](https://arethetypeswrong.github.io/) - Tool for analyzing TypeScript types of npm packages. ([Code](https://github.com/arethetypeswrong/arethetypeswrong.github.io))
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation.
 - [Magicast](https://github.com/unjs/magicast) - Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
+- [Third Party Capital](https://github.com/GoogleChromeLabs/third-party-capital) - Library that provides best practices for loading popular third-parties.

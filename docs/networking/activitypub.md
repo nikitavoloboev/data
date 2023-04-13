@@ -89,3 +89,4 @@ title: ActivityPub
 - [PassivityPub](https://github.com/blinry/passivity-pub) - ActivityPub implementation.
 - [Emissary](https://github.com/EmissarySocial/emissary) - Trustworthy Space on the Web (ActivityPub + IndieWeb).
 - [Kitsune](https://github.com/kitsune-soc/kitsune) - ActivityPub-federated microblogging. ([Web](https://joinkitsune.org/))
+- [MastoFeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge.

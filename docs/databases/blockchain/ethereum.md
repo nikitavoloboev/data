@@ -782,3 +782,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Etherface](https://github.com/volsa/etherface) - Ethereum Signature Database. ([Web](https://www.etherface.io/hash))
 - [medusa](https://github.com/crytic/medusa) - Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum.
 - [Minimal Cairo 1.0 Template](https://github.com/auditless/cairo-template)
+- [ChiselGPT](https://github.com/max-taylor/Chisel-GPT) - AI-Boosted Solidity REPL.

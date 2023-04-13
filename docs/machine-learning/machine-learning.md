@@ -1110,3 +1110,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Example models using DeepSpeed](https://github.com/microsoft/DeepSpeedExamples)
 - [Transformer Deep Dive: Parameter Counting](https://orenleung.com/transformer-parameter-counting)
 - [Automatic Gradient Descent](https://github.com/jxbz/agd)
+- [Image Restoration with Mean-Reverting Stochastic Differential Equations (2023)](https://arxiv.org/abs/2301.11699) ([Code](https://github.com/Algolzw/image-restoration-sde))

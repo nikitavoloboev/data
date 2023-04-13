@@ -48,3 +48,4 @@ My DB of choice for all projects. Sits on top of [Postgres](postgresql.md) but h
 - [Typesafe database querying via code generation (2022)](https://www.edgedb.com/blog/typesafe-database-querying-via-code-generation)
 - [Grafana backend data source plugin to connect to EdgeDB](https://github.com/washed/edgedb-grafana-backend)
 - [PrismaEdgeQL](https://github.com/kuizto/prisma-edgeql) - Drop-in replacement to use Prisma Client on Edge environments with GraphQL queries.
+- [Grafana backend plugin for EdgeDB](https://github.com/edgedb/edgedb-grafana-backend)

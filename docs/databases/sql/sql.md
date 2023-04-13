@@ -264,3 +264,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [LeiSQL](https://github.com/leiysky/leisql) - SQL database.
 - [sqlfmt](https://github.com/lopezator/sqlfmt) - SQL Formatter.
 - [AskBend](https://github.com/datafuselabs/askbend) - SQL-based Knowledge Base Search and Completion using Databend.
+- [SQL Chat](https://www.sqlchat.ai/) - Chat-based SQL client. ([Code](https://github.com/sqlchat/sqlchat))

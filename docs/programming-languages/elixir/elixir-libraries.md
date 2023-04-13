@@ -322,3 +322,4 @@
 - [Building a Cache in Elixir (2022)](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
 - [Elixir Without Ecto - Dynamic Queries (2022)](https://www.openmymind.net/Elixir-Without-Ecto-Dynamic-Queries/)
 - [Doctor](https://github.com/akoutmos/doctor) - Ensure that your Elixir project documentation is healthy.
+- [Elixir and Rust is a good mix (2023)](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/) ([HN](https://news.ycombinator.com/item?id=35559925))

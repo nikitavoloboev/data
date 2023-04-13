@@ -175,3 +175,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Flow Coder](https://waveworks.dk/flow-coder/) - Compile ML models into dependency-free source code for easy deployment.
 - [Window](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web.
 - [Motion](https://github.com/dm4ml/motion) - Framework for building ML pipelines in Python.
+- [CI/CD for Machine Learning Models](https://github.com/khuyentran1401/cicd-mlops-demo)

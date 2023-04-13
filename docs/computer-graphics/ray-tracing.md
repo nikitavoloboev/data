@@ -141,3 +141,4 @@ title: Ray tracing
 - [WebGPU Ray Tracing eXtension](https://github.com/codedhead/webrtx)
 - [jank development update - Optimizing a ray tracer (2023)](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
 - [Coding Adventure: Ray Tracing (2023)](https://www.youtube.com/watch?v=Qz0KTGYJtUk) ([Tweet](https://twitter.com/SebastianLague/status/1642156718648881165))
+- [RTX-Remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Runtime engine for adding path-tracing to classic games.
