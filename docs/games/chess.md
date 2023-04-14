@@ -278,3 +278,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [I played chess against ChatGPT-4 and lost (2023)](https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca) ([HN](https://news.ycombinator.com/item?id=35215107))
 - [Fishtest](https://github.com/glinscott/fishtest) - Distributed task queue for testing chess engines.
 - [A Grandmaster Solves Chess Problems | Puzzle Rush Survival](https://www.youtube.com/watch?v=FelX-L-fvSk)
+- [How to Win at Chess: The Ultimate Guide for Beginners and Beyond by Levy Rozman](https://www.goodreads.com/book/show/125107160-how-to-win-at-chess)

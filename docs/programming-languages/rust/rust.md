@@ -1116,3 +1116,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim) ([HN](https://news.ycombinator.com/item?id=35522642))
 - [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 - [Understanding tracing's macros by rebuilding them from scratch (2023)](https://dietcode.io/p/tracing-macros/)
+- [Optional If Expressions (2023)](https://animaomnium.github.io/optional-if-expressions/)

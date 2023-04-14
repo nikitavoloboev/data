@@ -545,3 +545,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [TVL Kit](https://github.com/tvlfyi/kit) - Exported, Nix-based monorepo tooling from TVL.
 - [nix-dev-home](https://github.com/juspay/nix-dev-home) - home-manager template providing useful tools & settings for Nix-based development.
 - [Baking Images with Nix for Robust Private Networks at Bowtie (2023)](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
+- [Building 15-year-old software with Nix (2023)](https://blinry.org/nix-time-travel/)

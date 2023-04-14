@@ -51,3 +51,4 @@ title: Automatic differentiation
 - [Diffuzers](https://github.com/abhishekkrthakur/diffuzers) - Web UI for diffusers.
 - [PT-AD](https://github.com/PTsolvers/PT-AD) - Combine solvers using the Pseudo-Transient Method with Automatic Differentiation (AD) tools.
 - [horde-ad](https://github.com/Mikolaj/horde-ad) - Higher Order Reverse Derivatives Efficiently.
+- [Beyond automatic differentiation (2023)](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html) ([HN](https://news.ycombinator.com/item?id=35570742))

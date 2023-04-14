@@ -164,3 +164,4 @@
 - [Optimizing a parser/compiler with data-oriented design: a case study (2023)](https://tweedegolf.nl/en/blog/88/data-oriented-design) ([Lobsters](https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data))
 - [Parslet](https://github.com/kschiess/parslet) - Small PEG based parser library.
 - [code_tokenize](https://github.com/cedricrupb/code_tokenize) - Fast tokenization and structural analysis of any programming language.
+- [flap: A Deterministic Parser with Fused Lexing (2023)](https://arxiv.org/abs/2304.05276) ([Lobsters](https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused))
