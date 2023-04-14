@@ -302,6 +302,7 @@
 - [Haystack](https://github.com/elixir-haystack/haystack) - Simple, extendable full-text search engine written in Elixir.
 - [Hammer](https://github.com/ExHammer/hammer) - Elixir rate-limiter with pluggable backends.
 - [Exonerate](https://github.com/E-xyza/Exonerate) - JSONSchema -> Elixir compiler.
+- [Openai.ex](https://github.com/mgallo/openai.ex) - OpenAI API Wrapper written in Elixir.
 
 ## Links
 

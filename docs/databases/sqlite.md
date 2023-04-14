@@ -94,7 +94,7 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [SQLiter](https://github.com/touchlab/SQLiter) - Minimal multiplatform sqlite library.
 - [Litestream/s6 Example](https://github.com/benbjohnson/litestream-s6-example) - Example of running a Go application in the same container as Litestream by using s6-overlay. Allows developers to release their SQLite-based application and provide replication in a single container.
 - [Hosting SQLite databases on GitHub Pages or any static file hoster (2021)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) ([Code](https://github.com/phiresky/sql.js-httpvfs)) ([HN](https://news.ycombinator.com/item?id=27016630)) ([HN](https://news.ycombinator.com/item?id=28015980))
-- [SQLite performance tuning (2020)](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
+- [SQLite performance tuning (2020)](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/) ([HN](https://news.ycombinator.com/item?id=35547819))
 - [SQLite on the Jamstack (2021)](https://www.youtube.com/watch?v=912bOLolMIA)
 - [A Hitchiker's Guide to SQLite with Python (2021)](https://arctype.com/blog/hitchhikers-guide-sqlite-python/)
 - [wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions.

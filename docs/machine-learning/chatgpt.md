@@ -312,3 +312,5 @@ It's also great at giving examples.
 - [GPT-Legion: An AI Agent System](https://github.com/eumemic/gpt-legion) - Framework for autonomous agents who can work together to accomplish tasks.
 - [wonderGPT](https://wondergpt.co/) - Simple and beautiful ChatGPT client for macOS.
 - [AI Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models.
+- [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.
+- [Zod ChatGPT](https://github.com/olup/zod-chatgpt) - Using Zod to get structured and typed output from ChatGPT in TypeScript. ([HN](https://news.ycombinator.com/item?id=35562876))

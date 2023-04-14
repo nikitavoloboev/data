@@ -693,3 +693,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue (2023)](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue) ([HN](https://news.ycombinator.com/item?id=35526846))
 - [Omnigres](https://github.com/omnigres/omnigres) - Makes PostgreSQL a complete application platform.
 - [Supabase Auth: SSO, Mobile, and Server-Side Support (2023)](https://supabase.com/blog/supabase-auth-sso-pkce) ([HN](https://news.ycombinator.com/item?id=35555263))
+- [PostgreSQL 16: EXPLAIN (GENERIC_PLAN) (2023)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)

@@ -336,6 +336,7 @@
 - [Panoramix](https://github.com/PoignardAzur/panoramix) - Prototype implementation of reactive UI in rust.
 - [Freya](https://github.com/marc2332/freya) - Native GUI library for Rust powered by Dioxus and Skia.
 - [Dioxus-STD](https://github.com/DioxusLabs/dioxus-std) - Platform agnostic library for supercharging your productivity with Dioxus.
+- [Floem](https://github.com/lapce/floem) - Native Rust UI library with fine-grained reactivity.
 
 ## DB
 
@@ -3153,3 +3154,4 @@
 - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365) ([Lobsters](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror))
 - [Using anyhow while writing a library (2023)](https://www.reddit.com/r/rust/comments/12klmt0/using_anyhow_while_writing_a_library/)
 - [Improving build times for derive macros by 3x or more (2023)](https://www.reddit.com/r/rust/comments/12kaiw8/improving_build_times_for_derive_macros_by_3x_or/)
+- [Google's Rust Crate Audits](https://github.com/google/supply-chain)

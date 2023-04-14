@@ -383,3 +383,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [How tweets are ranked. Likes > Retweets](https://twitter.com/NFT_GOD/status/1641914923826462721)
 - [Awesome Twitter Algorithm Annotated](https://github.com/veekaybee/awesome-twitter-algo)
 - [Twitter UI clone - with Vanilla JS](https://github.com/altankurt/twitter-clone-js)
+- [Twitter API Client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API.

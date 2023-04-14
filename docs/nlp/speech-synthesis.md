@@ -121,3 +121,4 @@
 - [Conditioning and Sampling in Variational Diffusion Models for Speech Super-Resolution (2022)](https://yoyololicon.github.io/diffwave-sr/) ([Code](https://github.com/yoyololicon/diffwave-sr))
 - [Play.ht](https://play.ht/) - Generate and clone voices from 20 seconds of audio. ([HN](https://news.ycombinator.com/item?id=35328698))
 - [NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates](https://github.com/mindslab-ai/nuwave2)
+- [Bark](https://github.com/suno-ai/bark) - Text-prompted Generative Audio Model.

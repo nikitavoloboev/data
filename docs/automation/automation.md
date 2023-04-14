@@ -61,6 +61,7 @@
 - [Collective Knowledge concept (CK)](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, describe, connect and reuse any artifacts, scripts, tools and workflows on any platform.
 - [Trigger.dev](https://trigger.dev/) - Automate complex workflows with code. ([Code](https://github.com/triggerdotdev/trigger.dev)) ([HN](https://news.ycombinator.com/item?id=34610686))
 - [Ask HN: Small scripts, hacks and automations you're proud of? (2023)](https://news.ycombinator.com/item?id=35122780)
+- [uTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in YAML.
 
 ## Images
 

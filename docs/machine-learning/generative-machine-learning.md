@@ -361,3 +361,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) - Marrying DINO with Grounded Pre-Training for Open-Set Object Detection.
 - [Harry Potter By Balenciaga | Step by Step Tutorial](https://www.youtube.com/watch?v=TGD8zKvRxc4)
 - [HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - Universal Stable-Diffusion toolbox.
+- [Open-MUSE](https://github.com/huggingface/open-muse) - Open reproduction of MUSE for fast text2image generation.

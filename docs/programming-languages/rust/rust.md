@@ -1114,3 +1114,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Spotting and avoiding heap fragmentation in Rust applications (2023)](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/) ([HN](https://news.ycombinator.com/item?id=35469632))
 - [Learn Rust 101](https://github.com/plabayo/learn-rust-101) ([HN](https://news.ycombinator.com/item?id=35489029))
 - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim) ([HN](https://news.ycombinator.com/item?id=35522642))
+- [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
+- [Understanding tracing's macros by rebuilding them from scratch (2023)](https://dietcode.io/p/tracing-macros/)

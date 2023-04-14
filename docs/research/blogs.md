@@ -409,6 +409,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Owen Gage](https://owengage.com/)
 - [Jakob Kreuze](https://jakob.space/)
 - [Chris Coyier](https://chriscoyier.net/)
+- [kprotty](http://kprotty.me/)
+- [Siddhant](https://dietcode.io/posts/)
 
 ## Notes
 

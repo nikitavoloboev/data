@@ -265,4 +265,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [sqlfmt](https://github.com/lopezator/sqlfmt) - SQL Formatter.
 - [AskBend](https://github.com/datafuselabs/askbend) - SQL-based Knowledge Base Search and Completion using Databend.
 - [SQL Chat](https://www.sqlchat.ai/) - Chat-based SQL client. ([Code](https://github.com/sqlchat/sqlchat))
-- [SQL:2023 is finished: Here is what’s new (2023)](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
+- [SQL:2023 is finished: Here is what’s new (2023)](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new) ([HN](https://news.ycombinator.com/item?id=35562430))

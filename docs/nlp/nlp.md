@@ -20,7 +20,7 @@ Love using [ChatGPT](../machine-learning/chatgpt.md) and its open variants like 
 
 Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-flan-t5-deepspeed) together with examples from [OpenAI Cookbook](https://github.com/openai/openai-cookbook).
 
-[LLM-Chain](https://github.com/sobelio/llm-chain) is amazing tool.
+[LLM-Chain](https://github.com/sobelio/llm-chain) is amazing tool. [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html) is great read.
 
 ## Notes
 
@@ -1039,3 +1039,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [BabyAGI JS](https://github.com/ericciarla/babyagijs)
 - [LLaMA.go](https://github.com/gotzmann/llama.go) - Like llama.cpp in pure Go.
 - [Free Dolly: Introducing the World's First Open and Commercially Viable Instruction-Tuned LLM (2023)](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/12jqbzp/n_dolly_20_an_open_source_instructionfollowing/))
+- [How does a Large Language Model like ChatGPT actually work?](https://twitter.com/DanHollick/status/1646509271843225600)
+- [Building LLM applications for production (2023)](https://huyenchip.com/2023/04/11/llm-engineering.html) ([HN](https://news.ycombinator.com/item?id=35565212))
+- [Poking around OpenAI (2023)](https://lethain.com/openai-exploration/) ([Lobsters](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at))

@@ -859,6 +859,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Arancini](https://github.com/isaac-mason/arancini) - Object based Entity Component System.
 - [eventmit](https://github.com/azu/eventmit) - Simple EventEmitter. A single event object per an event.
 - [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) - MP4 multiplexer in pure TypeScript with support for WebCodecs API, video & audio.
+- [rich-domain](https://github.com/4lessandrodev/rich-domain) - Lib to help you create a robust project based on domain driven-design (ddd) principles with typescript and zero dependencies.
 
 ## Links
 

@@ -860,6 +860,7 @@
 - [ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl) - Readily pin Julia threads to CPU processors.
 - [Pajarito](https://github.com/jump-dev/Pajarito.jl) - Solver for mixed-integer convex optimization.
 - [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) - Physical quantities with arbitrary units.
+- [DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops.
 
 ## Links
 

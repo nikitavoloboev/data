@@ -643,6 +643,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [migrator](https://github.com/lopezator/migrator) - Dead simple Go database migration library.
 - [go-tinylfu](https://github.com/dgryski/go-tinylfu) - TinyLFU cache admission policy.
 - [imcache](https://github.com/erni27/imcache) - Generic in-memory cache Go library.
+- [Go SDK for libSQL](https://github.com/libsql/libsql-client-go)
 
 ## ML
 

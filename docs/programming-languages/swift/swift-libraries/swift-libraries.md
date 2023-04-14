@@ -659,6 +659,7 @@
 - [Media Picker](https://github.com/exyte/MediaPicker) - SwiftUI library for a customizable media picker.
 - [Stitch](https://github.com/entrhq/stitch) - Lightweight, SwiftUI inspired dependency injection (DI) library that is compile time safe without the need for codegen tooling.
 - [swiftui-GestureVelocity](https://github.com/FluidGroup/swiftui-GestureVelocity) - Property-wrapper provides velocity in pt/s from gesture.
+- [markdown-webview](https://github.com/tomdai/markdown-webview) - Performant SwiftUI view that renders Markdown content.
 
 ## Test
 
@@ -1487,6 +1488,8 @@
 - [Coquille](https://github.com/alexrozanski/Coquille) - Simple, modern Swift class for running shell commands.
 - [Reducer](https://github.com/wlsdms0122/Reducer) - Unidirectional state machine framework that inspired by ReactorKit & TCA.
 - [CocoaSprings](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for macOS/iOS.
+- [URLQueryItemCoder](https://github.com/kylehughes/URLQueryItemCoder) - Encoder & decoder for working with Codable types as URLQueryItems.
+- [swift-tca-loadable](https://github.com/m-housh/swift-tca-loadable) - Swift package for handling loadable items using The Composable Architecture.
 
 ## Other (not lib)
 

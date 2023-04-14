@@ -176,3 +176,5 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Window](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web.
 - [Motion](https://github.com/dm4ml/motion) - Framework for building ML pipelines in Python.
 - [CI/CD for Machine Learning Models](https://github.com/khuyentran1401/cicd-mlops-demo)
+- [ONNX Simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model.
+- [Temporal quality degradation in AI models (2023)](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time) ([HN](https://news.ycombinator.com/item?id=35566145))

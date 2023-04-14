@@ -1227,3 +1227,8 @@
 - [CleanVision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior (2023)](https://arxiv.org/abs/2212.07388) ([Code](https://github.com/ActiveVisionLab/nope-nerf))
 - [Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs (2023)](https://arxiv.org/abs/2212.00785) ([Code](https://github.com/kakaobrain/tcl))
+- [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) ([Code](https://github.com/facebookresearch/AnimatedDrawings)) ([HN](https://news.ycombinator.com/item?id=35561203))
+- [Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift the anything to 3D.
+- [3D-Box via Segment Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything)
+- [Rich-Text-to-Image Generation](https://github.com/SongweiGe/rich-text-to-image)
+- [SEEM: Segment Everything Everywhere All at Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
