@@ -103,3 +103,4 @@ title: Android
 - [Android SDKs for Swift](https://github.com/buttaface/swift-android-sdk)
 - [Flashlight](https://github.com/bamlab/flashlight) - Measure the performance of any Android app.
 - [The code that wasn't there: Reading memory on an Android device by accident (2023)](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/)
+- [Kotlin DSL is Now the Default for New Gradle Builds (2023)](https://blog.gradle.org/kotlin-dsl-is-now-the-default-for-new-gradle-builds)

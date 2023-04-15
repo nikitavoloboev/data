@@ -711,3 +711,4 @@ title: Linux
 - [out-of-tree](https://github.com/out-of-tree/out-of-tree) - Automating some routine actions for creating development environments for debugging kernel modules and exploits.
 - [peckish](https://github.com/queer/peckish) - Tool for repackaging Linux software artifacts.
 - [Using io_uring for network I/O (2023)](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io) ([HN](https://news.ycombinator.com/item?id=35547316))
+- [The early days of Linux (2023)](https://lwn.net/SubscriberLink/928581/841b747332791ac4/) ([HN](https://news.ycombinator.com/item?id=35557848))

@@ -200,3 +200,4 @@
 - [Lexical](https://github.com/lexical-lsp/lexical) - Next-generation elixir language server.
 - [Should I use GPT to autogenerate schema validations?](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 - [Distributed² Machine Learning Notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw) ([HN](https://news.ycombinator.com/item?id=35525661))
+- [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R (2023)](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI) ([HN](https://news.ycombinator.com/item?id=35570027))
