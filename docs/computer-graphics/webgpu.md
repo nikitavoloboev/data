@@ -89,3 +89,4 @@ title: WebGPU
 - [WebGPU is available in Chrome 113 (2023)](https://developer.chrome.com/blog/webgpu-release/) ([HN](https://news.ycombinator.com/item?id=35465729))
 - [Hello Triangle - WebGPU](https://github.com/toji/hello-triangle-webgpu)
 - [WebGPU-Memory](https://github.com/greggman/webgpu-memory) - Track your WebGPU memory usage.
+- [WebGPU Fundamentals](https://webgpufundamentals.org/) ([HN](https://news.ycombinator.com/item?id=35579334))

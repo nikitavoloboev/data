@@ -506,3 +506,4 @@
 - [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/) ([Code](https://github.com/WICG/first-party-sets))
 - [Defaulting on Single Page Applications (2023)](https://www.zachleat.com/web/single-page-applications/) ([HN](https://news.ycombinator.com/item?id=35332314))
 - [Rethinking the Modern Web (2023)](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
+- [Bringing the Bling w/ Tanner Linsley (2023)](https://www.youtube.com/watch?v=nY7k3ql5mss)
