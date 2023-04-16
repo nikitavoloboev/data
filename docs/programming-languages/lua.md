@@ -161,3 +161,4 @@ title: Lua
 - [LuaFileSystem](https://github.com/lunarmodules/luafilesystem) - File System Library for Lua.
 - [luzer](https://github.com/ligurio/luzer) - Coverage-guided, native Lua fuzzing engine.
 - [Wasynth](https://github.com/Rerumu/Wasynth) - WebAssembly to Lua translation library and tool.
+- [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)

@@ -411,6 +411,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Chris Coyier](https://chriscoyier.net/)
 - [kprotty](http://kprotty.me/)
 - [Siddhant](https://dietcode.io/posts/)
+- [memN0ps](https://memn0ps.github.io/)
 
 ## Notes
 

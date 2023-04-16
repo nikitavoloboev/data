@@ -1117,3 +1117,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 - [Understanding tracing's macros by rebuilding them from scratch (2023)](https://dietcode.io/p/tracing-macros/)
 - [Optional If Expressions (2023)](https://animaomnium.github.io/optional-if-expressions/)
+- [What are some stuff that Rust isn't good at? (2023)](https://www.reddit.com/r/rust/comments/12o3ztt/what_are_some_stuff_that_rust_isnt_good_at/)
+- [Hypervisor Development in Rust (2023)](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/) ([HN](https://news.ycombinator.com/item?id=35579876))

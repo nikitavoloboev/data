@@ -314,6 +314,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Games where world doesn't revolve around you? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12fm7cu/games_where_world_doesnt_revolve_around_you/)
 - [Games you can keep coming back to over long periods of time?](https://www.reddit.com/r/gamingsuggestions/comments/12i837c/games_you_can_keep_coming_back_to_over_long/)
 - [Games where you have a homebase of some sort (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12jwhk7/games_where_you_have_a_homebase_of_some_sort_and/)
+- [Games where decisions amount to more than a binary "good" or "bad" option](https://www.reddit.com/r/gamingsuggestions/comments/12ngmbr/games_where_decisions_amount_to_more_than_a/)
 
 ## Links
 

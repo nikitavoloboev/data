@@ -325,3 +325,4 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Firedancer](https://github.com/firedancer-io/firedancer) - Jump Crypto's Solana consensus node implementation.
 - [Tinydancer](https://github.com/tinydancer-io/half-baked-client) - Light Client for the Solana Blockchain.
 - [Solana Programming Resources](https://github.com/SolanaNatives/Solana-Programming-Resources)
+- [Solana Anchor Discord](https://discord.com/invite/NHHGSXAnXk)
