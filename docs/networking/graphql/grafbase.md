@@ -11,3 +11,4 @@ Using it in [LA](https://github.com/learn-anything/learn-anything/).
 - [Instant serverless GraphQL backends with Grafbase (2022)](https://www.youtube.com/watch?v=JMizhu3ut-M)
 - [Grafbase Examples](https://github.com/grafbase/examples) - Integrate your favorite framework with Grafbase.
 - [Chatbase](https://github.com/notrab/chatbase) - Real time chat using GraphQL Live Queries, Next.js and NextAuth.js.
+- [Edge Resolvers – Grafbase (2023)](https://grafbase.com/changelog/edge-resolvers)
