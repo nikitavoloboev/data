@@ -4,7 +4,7 @@
 
 > Another note is that I find talking about 'politics' especially global politics to be quite hard to do rationally. It's hard to make analysis without hard data and intuition for how things work will only get you so far to the truth. I try to operate any analysis on factual data as much as possible. What I think with regards to Russia is done through lens of never truly living in Russia, only being born there so should be read as such too.
 
-[Russian culture](https://en.wikipedia.org/wiki/Culture_of_Russia) and [history](https://en.wikipedia.org/wiki/History_of_Russia) is [eventful](https://www.youtube.com/watch?v=9Lx0dGvE4LI), [imperial](https://www.youtube.com/watch?v=y7dbL0ukbbk) and full of tragedies, unlearned lessons and [fascist oppression](https://twitter.com/mediazzzona/status/1647313295555084294).
+[Russian culture](https://en.wikipedia.org/wiki/Culture_of_Russia) and [history](https://en.wikipedia.org/wiki/History_of_Russia) is [eventful](https://www.youtube.com/watch?v=9Lx0dGvE4LI), [imperial](https://www.youtube.com/watch?v=y7dbL0ukbbk) and full of tragedies and unlearned lessons.
 
 From being [pillaged by Mongol Empire](https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27) in 13-14th century. To centralizing power and [expanding and protecting its borders](https://en.wikipedia.org/wiki/Territorial_evolution_of_Russia) through its history.
 
@@ -44,7 +44,7 @@ The only thing I personally can do to try make the situation better and perhaps 
 
 Having said the above, it's also undeniable that Russia has many beautiful places and friendly people. [Moscow](https://en.wikipedia.org/wiki/Moscow) and [Saint Petersburg](https://en.wikipedia.org/wiki/Saint_Petersburg) are top tier cities with great services, transportation and food. I would love to see Russia reach a state where all the country's focus will be on internal (local) politics instead of trying to project influence via military or otherwise on other countries. There is so much in Russia that is simply broken that it's a joke that a war is even happening given the state of how many Russians live.
 
-I also think that for all the warts that Navalny has, it seems to me that he would make a great president [if he lives](https://twitter.com/Kira_Yarmysh/status/1645845564628557824). He said already that Crimea belongs to Ukraine and the focus of new Russia should be solely to build the institutions that were broken over many years in Russia. Law, education. Students in Russia should know about [Bucha](https://en.wikipedia.org/wiki/Bucha_massacre) and what really happened in Ukraine.
+I also think that for all the warts that Navalny has, it seems to me that he would make a great president [if he lives](https://twitter.com/Kira_Yarmysh/status/1645845564628557824). He said already that Crimea belongs to Ukraine and the focus of new Russia should be solely to build the institutions that were broken over many years in Russia. Law, education. Students in Russia should know about [Bucha](https://en.wikipedia.org/wiki/Bucha_massacre) and what really happened in Ukraine. Instead of what happens currently where if a child draws a [friendly to Ukraine drawing sends their family to jail](https://twitter.com/mediazzzona/status/1647313295555084294).
 
 I like reading [CredibleDefense](https://www.reddit.com/r/CredibleDefense/) daily to get a glimpse of what's happening in the world. Their daily discussions are great.
 

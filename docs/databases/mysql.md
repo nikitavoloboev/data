@@ -27,3 +27,4 @@ Use it with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm).
 - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) ([HN](https://news.ycombinator.com/item?id=35247242))
 - [How to read MySQL EXPLAINs (2023)](https://planetscale.com/blog/how-read-mysql-explains) ([HN](https://news.ycombinator.com/item?id=35370972))
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python.
+- [Ask HN: Is PostgreSQL better than MySQL? (2023)](https://news.ycombinator.com/item?id=35599118)
