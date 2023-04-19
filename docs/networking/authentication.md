@@ -307,3 +307,4 @@
 - [Securing Your Go Application (2023)](https://www.reddit.com/r/golang/comments/12bbahn/securing_your_golang_application_unleashing_the/)
 - [Feature flags and authorization abstract the same concept (2023)](https://ntietz.com/blog/feature-flags-and-authorization/)
 - [How Clerk uses JWTs (2023)](https://twitter.com/tweetsbycolin/status/1644137146503286786)
+- [Troubleshooting JWT validation](https://cloud.google.com/endpoints/docs/frameworks/java/troubleshoot-jwt)

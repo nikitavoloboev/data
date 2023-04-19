@@ -1043,3 +1043,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Building LLM applications for production (2023)](https://huyenchip.com/2023/04/11/llm-engineering.html) ([HN](https://news.ycombinator.com/item?id=35565212))
 - [Poking around OpenAI (2023)](https://lethain.com/openai-exploration/) ([Lobsters](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at))
 - [Web LLM](https://github.com/mlc-ai/web-llm) - WebGPU Powered Inference of Large Language Models. ([HN](https://news.ycombinator.com/item?id=35583349))
+- [Databerry](https://github.com/gmpetrov/databerry) - Connect your data to large language models.
+- [StableLM](https://github.com/Stability-AI/StableLM) - Stability AI Language Models. ([Article](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) ([HN](https://news.ycombinator.com/item?id=35629127))

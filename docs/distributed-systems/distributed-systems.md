@@ -319,4 +319,4 @@
 - [Ordering Events in Distributed Systems (2022)](https://www.exhypothesi.com/clocks-and-causality/) ([HN](https://news.ycombinator.com/item?id=35399603))
 - [Fly.io distributed systems challenges solved in Rust](https://github.com/jonhoo/rustengan)
 - [The end of a myth: Distributed transactions can scale (2023)](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html) ([HN](https://news.ycombinator.com/item?id=35520044))
-- [Load Balancing (2023)](https://samwho.dev/load-balancing/) ([HN](https://news.ycombinator.com/item?id=35588797))
+- [Load Balancing (2023)](https://samwho.dev/load-balancing/) ([HN](https://news.ycombinator.com/item?id=35588797)) ([Lobsters](https://lobste.rs/s/kydugs/load_balancing))

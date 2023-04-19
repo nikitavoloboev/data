@@ -148,3 +148,4 @@
 - [Ark](https://github.com/chakra-ui/ark) - Headless component library.
 - [Guild Component Library](https://github.com/the-guild-org/docs)
 - [Front-End Development Resources](https://frontresources.dev/introduction.html) ([Code](https://github.com/emr3rden/Front-End-Development-Resources))
+- [Rich Harris: Frameworks, the web, and the edge (2023)](https://www.youtube.com/watch?v=uXCipjbcQfM)

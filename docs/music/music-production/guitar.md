@@ -1,5 +1,7 @@
 # Guitar
 
+Want to learn to play some Nils Frahm songs.
+
 ## Cover Tutorials
 
 - [Big Thief - Parallels - Guitar Lesson With Chords](https://www.youtube.com/watch?v=aidxwUYb91Q)
@@ -7,7 +9,9 @@
 
 ## Nice covers
 
+- [Nils Frahm - Me](https://www.youtube.com/watch?v=aUa-wzqw_e4)
 - [Nils Frahm - Me](https://www.youtube.com/watch?v=3hHB4YhnATQ)
+- [Nils Frahm - Said and done](https://www.youtube.com/watch?v=vz8QyQpv0fc)
 - [Johnny Cash - Hurt Cover (NIN) Fingerstyle](https://www.youtube.com/watch?v=8LU-kq19V3Y)
 - [STAYIN’ ALIVE (Bee Gees) - Luca Stricagnoli](https://www.youtube.com/watch?v=buH9qCgK_Qk)
 

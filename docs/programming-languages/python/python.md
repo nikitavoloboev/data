@@ -612,3 +612,4 @@ for i, _ in enumerate(nums):
 - [Learn Python Context Managers (2023)](https://genyrosk.github.io/posts/2023-03-05-learn-python-context-managers/)
 - [The different uses of Python type hints (2023)](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/) ([Lobsters](https://lobste.rs/s/2beggz/different_uses_python_type_hints))
 - [Aura](https://github.com/SourceCode-AI/aura) - Python source code auditing and static analysis on a large scale. ([HN](https://news.ycombinator.com/item?id=35511817))
+- [Astral](https://astral.sh/) - Next-gen Python tooling. ([HN](https://news.ycombinator.com/item?id=35617198))
