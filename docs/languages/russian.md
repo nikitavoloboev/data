@@ -38,3 +38,4 @@
 - [Russian Reddit](https://www.reddit.com/r/russian/)
 - [pymorphy2](https://github.com/pymorphy2/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages.
 - [OpenCorpora](http://opencorpora.org/) - Открытый корпус русского языка. ([Code](https://github.com/OpenCorpora/opencorpora))
+- [rulm](https://github.com/IlyaGusev/rulm) - Language modeling for Russian.

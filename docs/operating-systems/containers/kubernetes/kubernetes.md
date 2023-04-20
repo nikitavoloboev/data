@@ -957,3 +957,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Otterize network mapper](https://github.com/otterize/network-mapper) - Zero-config tool that aims to be lightweight and doesn't require you to adapt anything in your cluster.
 - [Comparing k3s with Kubernetes (2023)](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)
 - [VelaD](https://github.com/kubevela/velad) - Lightweight KubeVela that runs as Daemon in single node with high availability.
+- [Bifrost](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures.

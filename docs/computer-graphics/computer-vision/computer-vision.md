@@ -1232,4 +1232,6 @@
 - [3D-Box via Segment Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything)
 - [Rich-Text-to-Image Generation](https://github.com/SongweiGe/rich-text-to-image)
 - [SEEM: Segment Everything Everywhere All at Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
-- [DinoV2: Meta’s Open Source State-of-the-art computer vision models (2023)](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) ([HN](https://news.ycombinator.com/item?id=35634419))
+- [DinoV2: Meta’s Open Source State-of-the-art computer vision models (2023)](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) ([HN](https://news.ycombinator.com/item?id=35634419)) ([Code](https://github.com/facebookresearch/dinov2))
+- [Dynablox](https://github.com/ethz-asl/dynablox) - Real-time detection of diverse dynamic objects in complex environments.
+- [Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (2023)](https://github.com/kaiwenzha/contrastive-poisoning)

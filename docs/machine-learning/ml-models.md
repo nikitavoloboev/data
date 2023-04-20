@@ -178,3 +178,5 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [CI/CD for Machine Learning Models](https://github.com/khuyentran1401/cicd-mlops-demo)
 - [ONNX Simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model.
 - [Temporal quality degradation in AI models (2023)](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time) ([HN](https://news.ycombinator.com/item?id=35566145))
+- [AzureML and Azure OpenAI](https://github.com/danielsc/openai) - Sample project that demonstrates how to use Azure Machine Learning to fine-tune and deploy a model using Azure OpenAI.
+- [Banana Node/TypeScript SDK](https://github.com/bananaml/banana-node-sdk)

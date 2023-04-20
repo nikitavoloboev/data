@@ -165,3 +165,4 @@
 - [Parslet](https://github.com/kschiess/parslet) - Small PEG based parser library.
 - [code_tokenize](https://github.com/cedricrupb/code_tokenize) - Fast tokenization and structural analysis of any programming language.
 - [flap: A Deterministic Parser with Fused Lexing (2023)](https://arxiv.org/abs/2304.05276) ([Lobsters](https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused))
+- [flap](https://github.com/yallop/ocaml-flap) - Deterministic parser with fused lexing.

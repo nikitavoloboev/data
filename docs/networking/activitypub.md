@@ -90,3 +90,4 @@ title: ActivityPub
 - [Emissary](https://github.com/EmissarySocial/emissary) - Trustworthy Space on the Web (ActivityPub + IndieWeb).
 - [Kitsune](https://github.com/kitsune-soc/kitsune) - ActivityPub-federated microblogging. ([Web](https://joinkitsune.org/))
 - [MastoFeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge.
+- [Activity.next](https://github.com/llun/activities.next) - Next.JS ActivityPub server.

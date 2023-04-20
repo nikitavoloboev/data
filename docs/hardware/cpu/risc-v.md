@@ -225,3 +225,4 @@ title: RISC-V
 - [Commercially available RISC-V silicon (2023)](https://muxup.com/2023q1/commercially-available-risc-v-silicon) ([Lobsters](https://lobste.rs/s/l1tg27/commercially_available_risc_v_silicon))
 - [What's new for RISC-V in LLVM 16 (2023)](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader (2023)](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
+- [Nelo](https://github.com/Xe/nelo) - Xe's RISCV kernel/OS for learning RISCV.

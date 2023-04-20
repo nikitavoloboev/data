@@ -160,3 +160,4 @@ title: Minecraft
 - [Minecraft Interactive World Builder](https://github.com/gilesknap/mciwb) - Learn Python with Minecraft. ([HN](https://news.ycombinator.com/item?id=35166874))
 - [mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address.
 - [Anvil](https://owengage.com/anvil/) - Completely in-browser Minecraft world renderer.
+- [Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks](https://github.com/PKU-RL/Plan4MC)

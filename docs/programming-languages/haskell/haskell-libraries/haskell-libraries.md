@@ -449,6 +449,7 @@
 - [base-orphans](https://github.com/haskell-compat/base-orphans) - Backwards-compatible orphan instances for base.
 - [boring](https://github.com/phadej/boring) - Boring and Absurd types.
 - [troupe](https://github.com/NicolasT/troupe) - Haskell Actors.
+- [crem](https://github.com/marcosh/crem) - Compositional Representable Executable Machines.
 
 ## Notes
 

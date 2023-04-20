@@ -1052,3 +1052,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [How to train your own large language models (2023)](https://blog.replit.com/llm-training) ([HN](https://news.ycombinator.com/item?id=35635209))
 - [Question Extractor](https://github.com/nestordemeure/question_extractor) - Generate question/answer training pairs out of raw text.
 - [An example of LLM prompting for programming (2023)](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html) ([HN](https://news.ycombinator.com/item?id=35612494))
+- [Awesome Adapter Resources](https://github.com/calpt/awesome-adapter-resources) - Collection of Tools and Papers related to Adapters (aka Parameter-Efficient Transfer Learning/ Fine-Tuning).
+- [Keeping Track of Affordable Language Models, 🦙 Cult and More](https://github.com/shm007g/LLaMA-Cult-and-More)
+- [Reasoning with Language Model Prompting Papers](https://github.com/zjunlp/Prompt4ReasoningPapers)
+- [InsightFlow](https://github.com/plchld/InsightFlow) - LLM-based tool for parsing information and chatting with it.

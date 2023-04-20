@@ -322,3 +322,4 @@ title: Spatial analysis
 - [A stupidly simple spatial data structure (2022)](https://lisyarus.github.io/blog/programming/2022/08/16/expanding-nd-array.html)
 - [check-geojson](https://github.com/placemark/check-geojson) - Checker for the geojson format. goes beyond a schema, checking semantics and producing character-level warnings.
 - [CartoSVG](https://cartosvg.com/) - Design gorgeous interactive maps.
+- [maplab](https://github.com/ethz-asl/maplab) - Modular and Multi-Modal Mapping Framework.

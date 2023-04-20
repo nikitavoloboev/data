@@ -354,3 +354,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [Apple passwords deserve an app (2023)](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/) ([HN](https://news.ycombinator.com/item?id=35329950))
 - [Encrust](https://github.com/glyph/Encrust) - Automate all the steps to add the flavorful, savory crust that macOS applications written in Python require to launch.
 - [Building a Classic Mac OS App in Rust (2023)](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
+- [PermissionsKit](https://github.com/MacPaw/PermissionsKit) - Convenience wrapper on macOS permissions API, including Mojave Full Disk Access.

@@ -6,6 +6,7 @@ title: Ebiten
 
 ## OSS games
 
+- [Roboden](https://github.com/quasilyte/roboden-game) - Indirect control real-time strategy game about robot colonies. ([Web](https://quasilyte.itch.io/roboden)) ([Reddit](https://www.reddit.com/r/golang/comments/12syf8r/roboden_an_opensource_realtime_strategy_game/))
 - [Airplanes](https://github.com/m110/airplanes) - 2D shoot 'em up game made with Go, Ebitengine, and donburi. Featuring ECS (Entity Component System).
 - [Bindless](https://github.com/tinne26/bindless) - Magnetic world for Ebitengine's first game jam.
 - [Ezcort Mission](https://sinisterstuf.itch.io/escort-mission) - Follow a dog through a post-apocalytpic wasteland full of zombies. ([Code](https://github.com/sinisterstuf/escort-mission))

@@ -130,3 +130,4 @@ title: Web Components
 - [WCC](https://github.com/ProjectEvergreen/wcc) - Web Components Compiler.
 - [UIMix](https://github.com/seanchas116/uimix) - Open-source web site & component editor.
 - [Custom Elements Manifest](https://github.com/open-wc/custom-elements-manifest) - File format that describes custom elements.
+- [bay.js](https://github.com/Dunks1980/bay.js) - Easy to use, lightweight library for web-components.

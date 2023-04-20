@@ -121,3 +121,4 @@ title: Godot
 - [Beehave](https://github.com/bitbrain/beehave) - Behavior tree AI for Godot Engine.
 - [SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - Godot bindings for Swift.
 - [BurstParticles2D](https://github.com/uzkbwza/BurstParticles2D) - Cool one-shot particle system for Godot.
+- [godot-ply](https://github.com/jarneson/godot-ply) - Godot plugin for in-editor box modelling for gray boxing or prototyping 3d levels.

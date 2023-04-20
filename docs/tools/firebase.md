@@ -98,3 +98,4 @@ I like the real time aspect of Firebase but not sure how well it can scale for m
 - [Firebase xcframework integration with SPM](https://github.com/akaffenberger/firebase-ios-sdk-xcframeworks)
 - [Y-Analytics Firebase iOS](https://github.com/yml-org/yanalytics-firebase-ios) - Firebase implementation of Y—Analytics' AnalyticsEngine protocol.
 - [EasyFirebase](https://github.com/Flowductive/easy-firebase) - Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
+- [Firebase Node.js Snippets](https://github.com/firebase/snippets-node)

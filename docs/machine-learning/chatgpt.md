@@ -315,3 +315,4 @@ It's also great at giving examples.
 - [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.
 - [Zod ChatGPT](https://github.com/olup/zod-chatgpt) - Using Zod to get structured and typed output from ChatGPT in TypeScript. ([HN](https://news.ycombinator.com/item?id=35562876))
 - [MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (2023)](https://minigpt-4.github.io/) ([Code](https://github.com/Vision-CAIR/MiniGPT-4)) ([HN](https://news.ycombinator.com/item?id=35598281))
+- [Terminal GPT](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys.

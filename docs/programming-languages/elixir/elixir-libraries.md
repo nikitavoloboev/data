@@ -303,6 +303,7 @@
 - [Hammer](https://github.com/ExHammer/hammer) - Elixir rate-limiter with pluggable backends.
 - [Exonerate](https://github.com/E-xyza/Exonerate) - JSONSchema -> Elixir compiler.
 - [Openai.ex](https://github.com/mgallo/openai.ex) - OpenAI API Wrapper written in Elixir.
+- [Membrane Multimedia Framework](https://github.com/membraneframework/membrane_core)
 
 ## Links
 

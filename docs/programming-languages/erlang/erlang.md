@@ -188,3 +188,4 @@ title: Erlang
 - [LZ4 NIF](https://github.com/rabbitmq/lz4-erlang) - LZ4 compression library for Erlang implemented as a NIF.
 - [Erlang/OTP: Garbage Collector (2023)](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87) ([HN](https://news.ycombinator.com/item?id=35385952))
 - [More Optimizations in the Compiler and JIT - Erlang/OTP (2023)](https://www.erlang.org/blog/more-optimizations/) ([HN](https://news.ycombinator.com/item?id=35625656))
+- [pooler](https://github.com/epgsql/pooler) - OTP Process Pool Application.

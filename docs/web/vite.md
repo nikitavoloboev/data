@@ -142,3 +142,4 @@ title: Vite
 - [vite-plugin-warmup](https://github.com/bluwy/vite-plugin-warmup) - Warm up Vite's transform cache.
 - [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - Custom files/globs to restart Vite server.
 - [venatu](https://github.com/lxsmnsyc/venatu) - Dead-simple Vite SSR library.
+- [vite-benchmark](https://github.com/vitejs/vite-benchmark) - Benchmarking for Vite.

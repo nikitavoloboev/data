@@ -315,6 +315,8 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Games you can keep coming back to over long periods of time?](https://www.reddit.com/r/gamingsuggestions/comments/12i837c/games_you_can_keep_coming_back_to_over_long/)
 - [Games where you have a homebase of some sort (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12jwhk7/games_where_you_have_a_homebase_of_some_sort_and/)
 - [Games where decisions amount to more than a binary "good" or "bad" option](https://www.reddit.com/r/gamingsuggestions/comments/12ngmbr/games_where_decisions_amount_to_more_than_a/)
+- [An open world RPG like game that revolves around / Includes building and upgrading a town / home base system (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12sb9c7/an_open_world_rpg_like_game_that_revolves_around/)
+- [Memorable games you can beat in a day without too much challenge. (Not a walking sim) (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12svae3/memorable_games_you_can_beat_in_a_day_without_too/)
 
 ## Links
 

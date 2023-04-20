@@ -783,3 +783,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [medusa](https://github.com/crytic/medusa) - Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum.
 - [Minimal Cairo 1.0 Template](https://github.com/auditless/cairo-template)
 - [ChiselGPT](https://github.com/max-taylor/Chisel-GPT) - AI-Boosted Solidity REPL.
+- [Magi](https://github.com/a16z/magi) - OP Stack rollup client written in Rust, designed to perform the same functionality as op-node.

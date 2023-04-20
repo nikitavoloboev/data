@@ -75,6 +75,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [GPT Discord Bot](https://github.com/openai/gpt-discord-bot)
 - [Motorchik](https://github.com/JohnTheCoolingFan/rusted-motorchik) - Delete a number of messages, ban or kick someone and more.
 - [Liquid](https://github.com/MayorMonty/liquid) - Discord bot template, including auto reloading, slash commands, and a reasonable structure.
+- [llamacord](https://github.com/rustformers/llamacord) - Discord bot, written in Rust, that generates responses using the LLaMA language model.
 
 ## Libraries
 

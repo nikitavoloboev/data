@@ -108,3 +108,5 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [4000x Speedup in Reinforcement Learning with Jax (2023)](https://chrislu.page/blog/meta-disco/) ([HN](https://news.ycombinator.com/item?id=35474968))
 - [Creative Machine Learning](https://github.com/acids-ircam/creative_ml) - Creative Machine Learning course and notebooks in JAX, PyTorch and Numpy.
 - [LAST](https://github.com/google-research/last) - JAX library for building lattice-based speech transducer models.
+- [MaxText](https://github.com/google/maxtext) - Simple, performant and scalable Jax LLM.
+- [Stable Diffusion JAX](https://github.com/patil-suraj/stable-diffusion-jax)
