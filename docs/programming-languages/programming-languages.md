@@ -559,3 +559,5 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Designing a Programming Language to Speedrun Advent of Code (2023)](https://blog.vero.site/post/noulith)
 - [CrabLang](https://github.com/crablang/crablang)
 - [Zydeco](https://github.com/zydeco-lang/zydeco) - Programming language based on Call-by-push-value.
+- [Destroy All Values: Designing Deinitialization in Programming Languages (2023)](https://faultlore.com/blah/deinitialize-me-maybe/)
+- [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456) ([Lobsters](https://lobste.rs/s/eelvhl/stack_exchange_programming_language))

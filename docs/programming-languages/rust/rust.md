@@ -1119,3 +1119,6 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Optional If Expressions (2023)](https://animaomnium.github.io/optional-if-expressions/)
 - [What are some stuff that Rust isn't good at? (2023)](https://www.reddit.com/r/rust/comments/12o3ztt/what_are_some_stuff_that_rust_isnt_good_at/)
 - [Hypervisor Development in Rust (2023)](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/) ([HN](https://news.ycombinator.com/item?id=35579876))
+- [What backwards-incompatible changes would you make in a hypothetical Rust 2.0? (2023)](https://www.reddit.com/r/rust/comments/12s5qeq/what_backwardsincompatible_changes_would_you_make/)
+- [Building a GStreamer plugin in Rust with meson instead of cargo (2023)](https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/)
+- [DOOM maps to SVG to laser cutter (2023)](https://theor.xyz/doom-maps-laser-cut/)

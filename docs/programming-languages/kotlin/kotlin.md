@@ -62,3 +62,4 @@ title: Kotlin
 - [KEEP - Kotlin Evolution and Enhancement Process](https://github.com/Kotlin/KEEP)
 - [The huge potential of Kotlin/WASM (2023)](https://seb.deleuze.fr/the-huge-potential-of-kotlin-wasm/) ([HN](https://news.ycombinator.com/item?id=34779746))
 - [Compose Multiplatform mobile application](https://github.com/JetBrains/compose-multiplatform-ios-android-template)
+- [Kotlin 2 – static extensions, collection literals, name-based destructuring (2023)](https://blog.jetbrains.com/kotlin/2023/04/kotlinconf-2023-opening-keynote/)

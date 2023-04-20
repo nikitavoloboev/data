@@ -290,3 +290,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [texturize](https://github.com/texturedesign/texturize) - Generate photo-realistic textures based on source images or (soon) PBR materials.
 - [A Generalized Ray Formulation For Wave-Optics Rendering (2023)](https://ssteinberg.xyz/2023/03/27/rtplt/)
 - [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - Real-Time Rendering Framework.
+- [Simplifying Bézier paths (2023)](https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html)

@@ -4,7 +4,7 @@
 
 > Another note is that I find talking about 'politics' especially global politics to be quite hard to do rationally. It's hard to make analysis without hard data and intuition for how things work will only get you so far to the truth. I try to operate any analysis on factual data as much as possible. What I think with regards to Russia is done through lens of never truly living in Russia, only being born there so should be read as such too.
 
-[Russian culture](https://en.wikipedia.org/wiki/Culture_of_Russia) and [history](https://en.wikipedia.org/wiki/History_of_Russia) is [eventful](https://www.youtube.com/watch?v=9Lx0dGvE4LI), [imperial](https://www.youtube.com/watch?v=y7dbL0ukbbk) and full of tragedies and unlearned lessons.
+[Russian culture](https://en.wikipedia.org/wiki/Culture_of_Russia) and [history](https://en.wikipedia.org/wiki/History_of_Russia) is [eventful](https://www.youtube.com/watch?v=9Lx0dGvE4LI), [imperial](https://www.youtube.com/watch?v=y7dbL0ukbbk), full of tragedies and unlearned lessons.
 
 From being [pillaged by Mongol Empire](https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27) in 13-14th century. To centralizing power and [expanding and protecting its borders](https://en.wikipedia.org/wiki/Territorial_evolution_of_Russia) through its history.
 

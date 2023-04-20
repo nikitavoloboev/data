@@ -173,3 +173,4 @@ title: OCaml
 - [Nix-Powered Development with OCaml (2023)](https://dimitrije.website/posts/2023-03-04-nix-ocaml.html)
 - [Inside OCaml](https://github.com/NickBarnes/inside-ocaml) - Documentation of the OCaml implementation.
 - [Lowcaml](https://github.com/copy/lowcaml) - Experimental OCaml-to-C compiler for type-safe access to SIMD.
+- [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)

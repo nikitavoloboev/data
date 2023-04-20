@@ -1045,3 +1045,10 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Web LLM](https://github.com/mlc-ai/web-llm) - WebGPU Powered Inference of Large Language Models. ([HN](https://news.ycombinator.com/item?id=35583349))
 - [Databerry](https://github.com/gmpetrov/databerry) - Connect your data to large language models.
 - [StableLM](https://github.com/Stability-AI/StableLM) - Stability AI Language Models. ([Article](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) ([HN](https://news.ycombinator.com/item?id=35629127))
+- [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive (2023)](https://simonwillison.net/2023/Apr/16/web-llm/) ([Lobsters](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language))
+- [How does GPT-3 spend its 175B parameters? (2023)](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
+- [Peak LLM? (2023)](https://ihavemanythoughts.substack.com/p/peak-llm) ([HN](https://news.ycombinator.com/item?id=35591337))
+- [Autonomous Agents and Agent Simulations (2023)](https://blog.langchain.dev/agents-round/) ([HN](https://news.ycombinator.com/item?id=35635225))
+- [How to train your own large language models (2023)](https://blog.replit.com/llm-training) ([HN](https://news.ycombinator.com/item?id=35635209))
+- [Question Extractor](https://github.com/nestordemeure/question_extractor) - Generate question/answer training pairs out of raw text.
+- [An example of LLM prompting for programming (2023)](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html) ([HN](https://news.ycombinator.com/item?id=35612494))

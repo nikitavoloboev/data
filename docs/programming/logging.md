@@ -86,3 +86,4 @@
 - [Shipping Logs · Fly (2023)](https://fly.io/blog/shipping-logs/)
 - [Logtail](https://betterstack.com/logtail) - Modern ClickHouse-based Log Management. ([JS Client](https://github.com/logtail/logtail-js))
 - [Supabase Logs: open-source logging server (2023)](https://supabase.com/blog/supabase-logs-self-hosted) ([HN](https://news.ycombinator.com/item?id=35518786))
+- [Tell HN: ChatGPT is absolutely fantastic for finding and solving issues in logs (2023)](https://news.ycombinator.com/item?id=35638552)

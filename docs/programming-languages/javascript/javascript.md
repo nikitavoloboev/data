@@ -504,3 +504,4 @@ if (
 - [Error.assert() proposal for ECMAScript](https://github.com/threepointone/proposal-error-assert)
 - [1000x FASTER JavaScript? (2023)](https://www.youtube.com/watch?v=B76gFi43HvM)
 - [Making JavaScript Ecosystem FAST | Prime Reacts](https://www.youtube.com/watch?v=43AsyeMKVwE)
+- [Sandboxing JavaScript Code (2023)](https://healeycodes.com/sandboxing-javascript-code) ([HN](https://news.ycombinator.com/item?id=35633934))

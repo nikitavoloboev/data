@@ -195,3 +195,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [Zig Build System (2023)](https://en.liujiacai.net/2023/04/13/zig-build-system/) ([Lobsters](https://lobste.rs/s/cykija/zig_build_system)) ([HN](https://news.ycombinator.com/item?id=35566791))
 - [libuv, but multi-threaded, but not really (2023)](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
 - [Ziggifying Kilo (2023)](https://bingcicle.github.io/posts/ziggifying-kilo.html) ([Lobsters](https://lobste.rs/s/0mvels/ziggifying_kilo))
+- [Mastering project management in Zig (2023)](https://blog.orhun.dev/zig-bits-03/)

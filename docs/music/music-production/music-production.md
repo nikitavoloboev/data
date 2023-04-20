@@ -553,3 +553,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Rust WASM Audio Worklet Example](https://github.com/PaulBatchelor/rust-wasm-audioworklet)
 - [Awesome Music](https://github.com/noteflakes/awesome-music)
 - [NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
+- [Learning (visual) programming in the context of music (2023)](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/) ([Lobsters](https://lobste.rs/s/gfsrlk/learning_visual_programming_context))

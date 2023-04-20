@@ -59,3 +59,4 @@ title: Fourier transform
 - [How I over-engineered a Fast Fourier Transform for Arduino (2022)](https://klafyvel.me/blog/articles/fft-arduino/) ([HN](https://news.ycombinator.com/item?id=33717847))
 - [fftconvolve](https://github.com/rhysnewell/fftconvolve) - Rust implementations of Fast Fourier Transform convolution and correlation for n-dimensional arrays.
 - [Notes on FFTs: for implementers (2023)](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/)
+- [Fourier Transform existed, but I never had intuitive understanding until now (2023)](https://sayingless.substack.com/p/fourier-transform-without-fetishizing) ([HN](https://news.ycombinator.com/item?id=35610935))

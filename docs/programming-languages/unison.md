@@ -28,3 +28,4 @@ title: Unison
 - [HN: Unison (2022)](https://news.ycombinator.com/item?id=33638045)
 - [A look at Unison: a revolutionary programming language (2023)](https://renato.athaydes.com/posts/unison-revolution.html) ([HN](https://news.ycombinator.com/item?id=34307552))
 - [Unison Cloud Platform](https://www.unison.cloud/)
+- [Reimagining the microservice: an early preview (2023)](https://www.unison-lang.org/whats-new/unison-services-preview/) ([Lobsters](https://lobste.rs/s/j695nq/reimagining_microservice_early_preview))

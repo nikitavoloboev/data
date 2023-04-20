@@ -265,3 +265,5 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Universal Binary Installer](https://github.com/houseabsolute/ubi)
 - [CHOMP](https://github.com/guybedford/chomp) - 'JS Make' - parallel task runner for the frontend ecosystem with a JS extension system.
 - [The funniest performance regression you've seen (2023)](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)
+- [Dagger, a ❤️ story (2023)](https://www.flipt.io/blog/dagger-a-love-story)
+- [A love letter to make](https://kmaasrud.com/blog/make) ([Lobsters](https://lobste.rs/s/mavub8/love_letter_make)) ([HN](https://news.ycombinator.com/item?id=35624805))

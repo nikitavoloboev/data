@@ -16,4 +16,5 @@ title: Janet
 - [Joy](https://joy.swlkr.com/) - Full stack web framework written in janet. ([Code](https://github.com/joy-framework/joy)) ([HN](https://news.ycombinator.com/item?id=23046568))
 - [jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib.
 - [HN: Janet (2023)](https://news.ycombinator.com/item?id=34843306)
-- [Janet for Mortals](https://janet.guide/) ([Lobsters](https://lobste.rs/s/duwkz7/janet_for_mortals))
+- [Janet for Mortals](https://janet.guide/) ([Lobsters](https://lobste.rs/s/duwkz7/janet_for_mortals)) ([Article](https://ianthehenry.com/posts/janet-for-mortals/))
+- [Why Janet? (2023)](https://ianthehenry.com/posts/why-janet/)

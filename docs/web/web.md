@@ -507,3 +507,4 @@
 - [Defaulting on Single Page Applications (2023)](https://www.zachleat.com/web/single-page-applications/) ([HN](https://news.ycombinator.com/item?id=35332314))
 - [Rethinking the Modern Web (2023)](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 - [Bringing the Bling w/ Tanner Linsley (2023)](https://www.youtube.com/watch?v=nY7k3ql5mss)
+- [Offline Is Just Online With Extreme Latency (2023)](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/) ([Lobsters](https://lobste.rs/s/adeuhl/offline_is_just_online_with_extreme)) ([HN](https://news.ycombinator.com/item?id=35626015))

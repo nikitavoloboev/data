@@ -103,3 +103,4 @@
 - [Kubernetes Operators in WebAssembly](https://github.com/IBCNServices/wasm-operator)
 - [Kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers.
 - [Writing a Kubernetes Operator (2023)](https://metalbear.co/blog/writing-a-kubernetes-operator/) ([HN](https://news.ycombinator.com/item?id=35081033))
+- [Annotations in Kubernetes Operator Design (2023)](https://sklar.rocks/kubernetes-operators-annotations/)

@@ -273,3 +273,4 @@ title: Clojure
 - [Symbolic Programming with Clojure](https://www.cs.utexas.edu/users/novak/cs378.pdf)
 - [Mindset shifts for Functional Programming (with Clojure) (2023)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
 - [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)
+- [Why I like Clojure as a solo developer (2023)](https://biffweb.com/docs/essays/why-i-like-clojure/)

@@ -104,3 +104,4 @@ ReasonML is now [ReScript](https://rescript-lang.org/). [Vite ReScript Starter](
 - [ReasonML Discord](https://discord.com/invite/reasonml)
 - [Vite React ReScript Starter](https://github.com/jihchi/vitejs-template-react-rescript)
 - [Rewatch](https://github.com/rolandpeelen/rewatch) - Alternative build system for the Rescript Compiler.
+- [Better Rescript JS/TS interop with customizable variants (2023)](https://rescript-lang.org/blog/improving-interop)

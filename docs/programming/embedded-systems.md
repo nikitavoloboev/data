@@ -260,3 +260,4 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)
 - [Bare Metal Programming Series - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
 - [Gaggiuino](https://github.com/Zer0-bit/gaggiuino) - Gaggia Classic control project using microcontrollers.
+- [Worlds Simplest Bootloader: Bare Metal Programming Series (2023)](https://www.youtube.com/watch?v=cfNJ85cX-ms)
