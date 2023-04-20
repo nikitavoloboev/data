@@ -1235,3 +1235,4 @@
 - [DinoV2: Meta’s Open Source State-of-the-art computer vision models (2023)](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) ([HN](https://news.ycombinator.com/item?id=35634419)) ([Code](https://github.com/facebookresearch/dinov2))
 - [Dynablox](https://github.com/ethz-asl/dynablox) - Real-time detection of diverse dynamic objects in complex environments.
 - [Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (2023)](https://github.com/kaiwenzha/contrastive-poisoning)
+- [Inpaint Anything: Segment Anything Meets Image Inpainting](https://github.com/geekyutao/Inpaint-Anything)

@@ -330,3 +330,4 @@
 - [Ask HN: If Unix is written in C, how did they run C before Unix? (2023)](https://news.ycombinator.com/item?id=35441886)
 - [Using mmap to make LLaMA load faster (2023)](https://justine.lol/mmap/) ([Lobsters](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster)) ([HN](https://news.ycombinator.com/item?id=35455930))
 - [C Strings and my slow descent to madness (2023)](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to) ([HN](https://news.ycombinator.com/item?id=35467367))
+- [Hero C Compiler](https://github.com/heroseh/hcc) - C Compiler to SPIR-V.

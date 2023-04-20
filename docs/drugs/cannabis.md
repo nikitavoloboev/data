@@ -91,6 +91,7 @@ Mostly now I don't get much psychedelic effect (things moving) but do get enjoya
 - [How Deep to Plant Cannabis Seed?](https://groweriq.ca/2022/09/21/how-deep-to-plant-cannabis-seed/)
 - [Cannabis Seed Germination: Direct in Soil Method](https://www.youtube.com/watch?v=Q5bIb5R9ot0)
 - [How To Build A Super Soil To Grow Weed Easy, Just Add Water](https://www.youtube.com/watch?v=HxD67n0X6-c)
+- [Cannabis Scientist Answers Questions From Twitter (2023)](https://www.youtube.com/watch?v=4dFvHicFoRI)
 
 ## Images
 

@@ -47,3 +47,4 @@ title: OpenGL
 - [OpenGL-like renderer written from scratch in Rust](https://github.com/alordash/renderust)
 - [GL4ES](https://github.com/ptitSeb/gl4es) - OpenGL for GLES Hardware.
 - [Learn OpenGL using Zig](https://github.com/craftlinks/zig_learn_opengl)
+- [The Nix, OpenGL and Ubuntu Integration Nightmare (2023)](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/) ([Lobsters](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare))
