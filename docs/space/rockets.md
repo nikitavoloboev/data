@@ -30,3 +30,4 @@
 - [Tim Dodd: SpaceX, Starship, Rocket Engines, and Future of Space Travel (2023)](https://www.youtube.com/watch?v=5eK5A_43pkE)
 - [Lander](https://ehmorris.com/lander/) - Lunar lander style web game. ([HN](https://news.ycombinator.com/item?id=35032506))
 - [How To Start A Rocket Engine (2023)](https://everydayastronaut.com/how-to-start-a-rocket-engine/) ([HN](https://news.ycombinator.com/item?id=35092521))
+- [HN: SpaceX Starship rocket explodes minutes after launch from Texas (2023)](https://news.ycombinator.com/item?id=35640002)

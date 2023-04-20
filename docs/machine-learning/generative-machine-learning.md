@@ -363,3 +363,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - Universal Stable-Diffusion toolbox.
 - [Open-MUSE](https://github.com/huggingface/open-muse) - Open reproduction of MUSE for fast text2image generation.
 - [TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - Extension for Automatic1111 to add temporal consistency to your renders.
+- [How I Used Stable Diffusion and Dreambooth to Create A Painted Portrait of My Dog (2023)](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)

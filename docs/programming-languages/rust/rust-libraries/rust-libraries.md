@@ -2808,6 +2808,7 @@
 - [memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types.
 - [ArrayFire Rust](https://github.com/arrayfire/arrayfire-rust) - High performance library for parallel computing with an easy-to-use API.
 - [rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust.
+- [condtype](https://github.com/nvzqz/condtype) - Choose Rust types via boolean conditions.
 
 ## Cargo Plugins
 

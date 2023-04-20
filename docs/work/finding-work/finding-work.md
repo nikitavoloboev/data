@@ -189,3 +189,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Ask HN: Laid off folks, are you getting hired? (2023)](https://news.ycombinator.com/item?id=34725047)
 - [Ask HN: Has anyone started over outside of tech? (2023)](https://news.ycombinator.com/item?id=35008392)
 - [Hunter2](https://search.flockingbird.social/) - Job hunt bot that indexes jobs and candidates from the fediverse. ([Code](https://github.com/Flockingbird/hunter2))
+- [A forty-year career (2023)](https://lethain.com/forty-year-career/)

@@ -1056,3 +1056,11 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Keeping Track of Affordable Language Models, 🦙 Cult and More](https://github.com/shm007g/LLaMA-Cult-and-More)
 - [Reasoning with Language Model Prompting Papers](https://github.com/zjunlp/Prompt4ReasoningPapers)
 - [InsightFlow](https://github.com/plchld/InsightFlow) - LLM-based tool for parsing information and chatting with it.
+- [Megabots](https://github.com/momegas/megabots) - State-of-the-art, production ready LLM apps made mega-easy.
+- [openpm-langchain](https://github.com/team-openpm/openpm-langchain) - Openpm is a package manager for OpenAPI files.
+- [supercharger](https://github.com/catid/supercharger) - Leverage locally-hosted Large Language Models to write software + unit tests for you.
+- [LLaVA: Large Language and Vision Assistant](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities. ([Web](https://llava-vl.github.io/))
+- [GPT4All Chat](https://gpt4all.io/index.html) - Locally-running AI chat application powered by the GPT4All-J.
+- [AI Playground by Vercel Labs](https://play.vercel.ai/)
+- [Understanding Large Language Models (2023)](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+- [RedPajama](https://www.together.xyz/blog/redpajama) - Create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens.

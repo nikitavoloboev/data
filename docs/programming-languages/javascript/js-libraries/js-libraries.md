@@ -198,6 +198,7 @@
 - [Databricks SQL Driver for NodeJS](https://github.com/databricks/databricks-sql-nodejs)
 - [doubledb](https://github.com/markwylde/doubledb) - On disk database that indexes everything for fast querying.
 - [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.
+- [KV.js](https://github.com/HeyPuter/kv.js) - Fast, in-memory data store written in pure JavaScript, heavily inspired by Redis and Memcached.
 
 ## React
 

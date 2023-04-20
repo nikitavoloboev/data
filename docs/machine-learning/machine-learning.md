@@ -1115,3 +1115,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Transformer Math 101 (2023)](https://blog.eleuther.ai/transformer-math/)
 - [Exploratory Analysis of TRLX RLHF Transformers with TransformerLens (2023)](https://blog.eleuther.ai/trlx-exploratory-analysis/)
 - [EleutherAI Second Retrospective: The long version (2023)](https://blog.eleuther.ai/year-two-full/)
+- [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)

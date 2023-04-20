@@ -12,6 +12,10 @@ Using [this guide](https://www.shroomery.org/forums/showflat.php/Number/24420178
 
 [Mushroom Growers](https://www.reddit.com/r/MushroomGrowers/) & [90 Second Mycology](https://www.youtube.com/@90SecondMycology) are great to study.
 
+[Wholecelium](https://www.wholecelium.com/) is nice shop to buy [psilocybin truffles](https://www.wholecelium.com/product-category/magic-truffles/). [Druid](https://www.wholecelium.com/shop/magic-truffles/psilocybe-druid/) are my favorites.
+
+I like to eat truffles/mushrooms mixed with Greek Yogurt & blueberries. I also dislike eating on empty stomach and prefer to eat a light breakfast beforehand, usually my daily omelette and salad with tomatoes/avocado and feta cheese.
+
 ## Interesting
 
 - [Master Blend Mushroom Extracts](https://vibemushrooms.ca/products/master-blend)
@@ -39,6 +43,7 @@ If no grow kit, method is similar but you need to create your own substrate for 
 
 - [We think of mushrooms as being "the fungus" but really a mushroom is just a temporary structure that the fungus, which a network of hyphae buried in the substrate, builds to disperse its spores. They're like a protrusion from an unseen world into ours.](https://twitter.com/NotBrunoAgain/status/1520055622997270534)
 - Well worth getting a pressure cooker and getting into making own substrate/grain for mushrooms. Check out ['Easy As Fuk tek'](https://www.shroomery.org/13986/Simplified-Cultivation-Methods-Easy-As-Fuck-link-list-Trusted-Culvator-links-and-methods-and-other-cultivation-info) for an easy starter.
+- [Major reported side effect of psilocybin mushrooms is “loss of fear of death”, a feeling of universal love and comfort with the cycle of life. Mushroom is telling you this. The thing that eats you when you die. You’re being gaslit.](https://twitter.com/0xalaric/status/1648682286659796992)
 
 ## Links
 

@@ -220,3 +220,4 @@
 - [Wire CoreCrypto](https://github.com/wireapp/core-crypto) - MLS/Proteus multiplexer abstraction with encrypted persistent storage in Rust.
 - [Asymmetric Cryptographic Commitments (2023)](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
 - [A Cryptographic Near Miss (2023)](https://words.filippo.io/dispatches/near-miss/)
+- [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)

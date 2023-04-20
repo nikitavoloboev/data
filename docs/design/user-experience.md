@@ -237,3 +237,4 @@ Great onboarding is essential. Loved [Arc Browser](https://arc.net/) onboarding.
 - [Ask HN: Why are toggle switches replacing checkboxes? Isn't on/off less obvious? (2023)](https://news.ycombinator.com/item?id=34436606)
 - [When you hear "software made with care," what products come to mind? (2023)](https://twitter.com/Gavmn/status/1626734312984043520)
 - [Web Interface Guidelines](https://rauno.me/interfaces) ([Tweet](https://twitter.com/raunofreiberg/status/1629124238589235201))
+- [Usability Heuristics for User Interface Design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)

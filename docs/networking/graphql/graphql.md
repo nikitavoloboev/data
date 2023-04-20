@@ -386,3 +386,4 @@ I am still exploring what the best way to do GraphQL queries from [Solid](../../
 - [nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain.
 - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix)
 - [nx-mesh](https://github.com/domjtalbot/nx-mesh) - GraphQL Mesh support for Nx.
+- [Typescript DSL for GraphQL](https://github.com/babyfish-ct/graphql-ts-client)

@@ -11,3 +11,4 @@
 - [Solar DIY Reddit](https://www.reddit.com/r/SolarDIY/)
 - [which is the best solar panel brand? (2022)](https://www.reddit.com/r/SolarDIY/comments/w4e0g5/which_is_the_best_solar_panel_brand/)
 - [Solar Kiln to dry wood. Overview, design and build (2019)](https://www.adrianpreda.com/blog/solar-kiln) ([HN](https://news.ycombinator.com/item?id=34656183))
+- [I made my blog solar-powered, then things escalated (2023)](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)

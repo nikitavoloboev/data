@@ -666,3 +666,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [Practical Optimizations (2023)](https://www.youtube.com/watch?v=NAVbI1HIzCE)
 - [Ask HN: Book recommendations that made you a better engineer overall? (2023)](https://news.ycombinator.com/item?id=35451676)
 - [How to Design Programs, Second Edition](https://htdp.org/2023-3-6/Book/index.html) ([HN](https://news.ycombinator.com/item?id=35478871))
+- [A list of programming playgrounds (2023)](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)

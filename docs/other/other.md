@@ -782,3 +782,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974) ([HN](https://news.ycombinator.com/item?id=35527873))
 - [Eric Weinstein Discord](https://discord.gg/GnV9yJ7qGj) ([Web](https://theportal.group/eric-weinstein-discord/))
 - [fdtdz](https://github.com/spinsphotonics/fdtdz) - Fast, scalable, accessible photonic simulation.
+- [Fictional Brands Archive](https://fictionalbrandsarchive.com/)

@@ -533,3 +533,4 @@
 - [Libnyquist](https://github.com/ddiakopoulos/libnyquist) - Small C++11 library for reading sampled audio data from disk or memory.
 - [Nano RPC](https://github.com/tdv/nanorpc) - Lightweight RPC in pure C++ 17.
 - [C++ Coroutines (2023)](https://nigeltao.github.io/blog/2023/cpp-coro-part-1-yield-return-prime-sieve.html) ([HN](https://news.ycombinator.com/item?id=34898130))
+- [Defining interfaces in C++: concepts versus inheritance (2023)](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/) ([HN](https://news.ycombinator.com/item?id=35644635))

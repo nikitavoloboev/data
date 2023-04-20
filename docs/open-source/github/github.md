@@ -519,3 +519,4 @@ Awesome List
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Locally hosted version of GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=32327711)) ([HN](https://news.ycombinator.com/item?id=35264725))
 - [GitHub to Linear](https://github.com/delucis/github-to-linear) - Quickly create a Linear ticket from any GitHub PR or issue.
 - [clone-org](https://github.com/caarlos0/clone-org) - Clone all repos of a github organization.
+- [GitHub webhook notifications](https://github.com/KunoiSayami/github-webhook-notification.rs) - Simple webhook server that helps you forward GitHub webhook messages to Telegram.

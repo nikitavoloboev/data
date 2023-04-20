@@ -48,3 +48,4 @@ It's nice when used with [Drizzle ORM](https://github.com/drizzle-team/drizzle-o
 - [DynamoDB vs PlanetScale (MySQL) (2023)](https://www.youtube.com/watch?v=sqLP4P_Lcc4)
 - [PlanetScale GitHub Actions (2023)](https://planetscale.com/blog/announcing-the-planetscale-github-actions)
 - [How does database sharding work? (2023)](https://planetscale.com/blog/how-does-database-sharding-work) ([HN](https://news.ycombinator.com/item?id=35476518))
+- [PlanetScale AI](https://github.com/sgammon/planetscale-ai) - AI assistant for your PlanetScale database.

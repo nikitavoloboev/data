@@ -146,6 +146,7 @@
 - [NonlinearSolve.jl](https://github.com/SciML/NonlinearSolve.jl) - Fast implementations of root finding algorithms in Julia that satisfy the SciML common interface.
 - [DiffEqProblemLibrary.jl](https://github.com/SciML/DiffEqProblemLibrary.jl) - Library of premade problems for examples and testing differential equation solvers and other SciML scientific machine learning tools.
 - [QuasiMonteCarlo.jl](https://github.com/SciML/QuasiMonteCarlo.jl) - Lightweight package for generating Quasi-Monte Carlo (QMC) samples using various different methods.
+- [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) - Multi-dimensional, high performance deconvolution framework written in Julia Lang for CPUs and GPUs.
 
 ## Math
 

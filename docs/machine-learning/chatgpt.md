@@ -316,3 +316,4 @@ It's also great at giving examples.
 - [Zod ChatGPT](https://github.com/olup/zod-chatgpt) - Using Zod to get structured and typed output from ChatGPT in TypeScript. ([HN](https://news.ycombinator.com/item?id=35562876))
 - [MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (2023)](https://minigpt-4.github.io/) ([Code](https://github.com/Vision-CAIR/MiniGPT-4)) ([HN](https://news.ycombinator.com/item?id=35598281))
 - [Terminal GPT](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys.
+- [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages (2023)](https://txt.cohere.com/embedding-archives-wikipedia/) ([HN](https://news.ycombinator.com/item?id=35643959))
