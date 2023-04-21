@@ -149,3 +149,4 @@
 - [copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, zeroconf, media indexer, thumbnails++ all in one file, no deps.
 - [rustus](https://github.com/s3rius/rustus) - Production-ready TUS protocol implementation written in Rust.
 - [Gose](https://github.com/stv0g/gose) - Tera-scale file uploader.
+- [tus-node-server](https://github.com/tus/tus-node-server)

@@ -518,3 +518,5 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [Reisen](https://github.com/zergon321/reisen) - Simple library to extract video and audio frames from media containers (based on libav).
 - [A Journey through Color Space with FFmpeg (2023)](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
 - [Play: Save Videos Watch Later](https://apps.apple.com/us/app/id1596506190)
+- [sazztv](https://github.com/Sazzo/sazztv) - Video streaming platform inspired by Twitch. Built with Svelte & Go.
+- [OpenTogetherTube](https://opentogethertube.com/) - Watch videos with your friends. ([Code](https://github.com/dyc3/opentogethertube))

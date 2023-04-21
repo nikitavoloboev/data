@@ -784,3 +784,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Minimal Cairo 1.0 Template](https://github.com/auditless/cairo-template)
 - [ChiselGPT](https://github.com/max-taylor/Chisel-GPT) - AI-Boosted Solidity REPL.
 - [Magi](https://github.com/a16z/magi) - OP Stack rollup client written in Rust, designed to perform the same functionality as op-node.
+- [ZeroSeeker](https://github.com/darkforestry/zero-seeker) - Rust-based command-line utility that generates Ethereum contract addresses with a specified number of leading or total zero bytes.

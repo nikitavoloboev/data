@@ -800,3 +800,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Relational Operators in Apache Calcite (2021)](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite) ([HN](https://news.ycombinator.com/item?id=35520059))
 - [Do you need a vector database? (2023)](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/) ([HN](https://news.ycombinator.com/item?id=35550567))
 - [LanceDB](https://github.com/lancedb/lancedb) - Serverless, low-latency vector database for AI applications.
+- [Production grade databases in Rust (2023)](https://www.reddit.com/r/rust/comments/12uevu0/production_grade_databases_in_rust/)

@@ -2143,6 +2143,8 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [gortsplib](https://github.com/bluenviron/gortsplib) - RTSP 1.0 client and server library for Go.
 - [xslog](https://github.com/galecore/xslog) - Extension handlers for the slog library.
 - [bpm](https://github.com/benjojo/bpm) - Library and tool for dealing with beats per second detection.
+- [Marshmallow](https://github.com/PerimeterX/marshmallow) - Flexible and performant JSON unmarshalling in Go.
+- [just](https://github.com/kazhuravlev/just) - Collection of useful functions. Complete simple tasks faster.
 
 ## Links
 

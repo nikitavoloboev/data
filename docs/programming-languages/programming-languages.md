@@ -421,7 +421,7 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [ICFP Contest 2022](https://icfpcontest2022.github.io/) ([Twitter](https://twitter.com/icfpcontest2022))
 - [Language garden](https://github.com/brendanzab/language-garden) - Some toy programming language implementations, mostly implemented in OCaml.
 - [Prettify](https://liquify.dev/playground/prettify) - Code beautification tool for formatting HTML, Liquid, JavaScript, TypeScript, CSS/SCSS and more. ([Code](https://github.com/panoply/prettify))
-- [Odin](https://github.com/odin-lang/Odin) - General-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types. ([Review](https://graphitemaster.github.io/odin_review/))
+- [Odin](https://github.com/odin-lang/Odin) - General-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types. ([Review](https://graphitemaster.github.io/odin_review/)) ([Interview](https://www.youtube.com/watch?v=4ekHXMfei9M))
 - [What would be your “perfect” programming language? (2022)](https://news.ycombinator.com/item?id=32807730)
 - [Ask HN: What is the coding exercise you use to explore a new language? (2022)](https://news.ycombinator.com/item?id=32836113)
 - [The Golden Age of PL Research (2022)](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)

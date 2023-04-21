@@ -73,3 +73,4 @@ title: Metal
 - [Optimizing Parallel Reduction in Metal for Apple M1 (2021)](https://kieber-emmons.medium.com/optimizing-parallel-reduction-in-metal-for-apple-m1-8e8677b49b01)
 - [SwiftyCreatives](https://github.com/yukiny0811/swifty-creatives) - Creative coding framework for Swift. Built on Apple's Metal. Inspired by Processing.
 - [Mesh Shaders and Meshlet Culling in Metal 3 (2023)](https://metalbyexample.com/mesh-shaders/) ([HN](https://news.ycombinator.com/item?id=35437151))
+- [Tools for examining Apple's Metal shaders](https://github.com/zhuowei/MetalShaderTools)

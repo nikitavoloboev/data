@@ -219,6 +219,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Indie Turn Based Strategy in Isometric Voxel Art. ([Web](https://tof.p1x.in/))
 - [Command & Construct](https://github.com/AshleyScirra/CommandAndConstruct) - Open-development multiplayer real-time strategy (RTS) game project made in Construct.
 - [Pop-Shoot](https://github.com/kiwphi/pop-shoot) - Synthwave styled space shooter, inspired by the 80s arcades.
+- [Floppy Bird JS](https://github.com/nebez/floppybird)
 
 ## Awesome games (other)
 

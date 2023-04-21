@@ -133,6 +133,7 @@ Below is a list of extensions I use.
 - [Control Snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [Tauri](https://github.com/tauri-apps/tauri-vscode) - Tauri apps development.
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
+- [HVM-Lang](https://github.com/Danfs64/HVM-Lang) - Extension for the HVM language syntax highlighting.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Phi](https://github.com/GuillaumeSalles/phi-vscode) - Design components for web in VSCode. Generate code.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.

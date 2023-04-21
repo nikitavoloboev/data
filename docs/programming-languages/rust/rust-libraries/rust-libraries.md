@@ -567,6 +567,7 @@
 - [scene-graph](https://github.com/sanbox-irl/scene-graph) - Scene-graph implementation in Rust.
 - [etagere](https://github.com/nical/etagere) - Dynamic texture atlas allocator using the shelf packing algorithm.
 - [piet-hardware](https://github.com/notgull/piet-hardware) - Rust's 2D vector graphics library, using GPU primitives.
+- [Lox](https://github.com/LukasKalbertodt/lox) - Fast polygon mesh library with different data structures and traits to abstract over those.
 
 ## Games
 
@@ -2811,6 +2812,7 @@
 - [rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust.
 - [condtype](https://github.com/nvzqz/condtype) - Choose Rust types via boolean conditions.
 - [static_slicing](https://github.com/ktkaufman03/static-slicing) - Utilities for enhanced slicing and indexing.
+- [Myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust.
 
 ## Cargo Plugins
 

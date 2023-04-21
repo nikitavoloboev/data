@@ -1065,3 +1065,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Understanding Large Language Models (2023)](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [RedPajama](https://www.together.xyz/blog/redpajama) - Create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens.
 - [How to run your own LLM (GPT) (2023)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
+- [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) - Framework and no-code GUI for fine-tuning LLMs.

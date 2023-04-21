@@ -1,6 +1,6 @@
 # Social networks
 
-[How to run a small social network site for your friends](https://runyourown.social/) is a neat guide. I like [Nostr protocol](https://github.com/nostr-protocol/nostr) and hope it succeeds.
+[How to run a small social network site for your friends](https://runyourown.social/) is a neat guide. I like [AT Protocol](https://github.com/bluesky-social/atproto) & [Nostr](https://github.com/nostr-protocol/nostr) and hope they succeed.
 
 It's hard to appreciate just how bad it is to centralize the common people's town square where anyone can voice their opinion is. Right now, the most popular options for such a place are all governed by a set of rules that can be changed on a whim by few people only, sometimes only one. More often, what's written in the rules is not being followed too and there is no way to argument against your account being deleted or shadow banned by the network.
 

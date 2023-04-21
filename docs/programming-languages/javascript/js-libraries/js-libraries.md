@@ -1153,7 +1153,7 @@
 - [Scarf](https://about.scarf.sh/) - Installation analytics for your npm package. ([Code](https://github.com/scarf-sh/scarf-js))
 - [npmrank](https://github.com/anvaka/npmrank) - Computes various graph metrics for npm dependencies.
 - [UNPKG](https://unpkg.com/) - Fast, global content delivery network for everything on npm. ([Code](https://github.com/mjackson/unpkg))
-- [JSPM](https://jspm.org/) - ES Module Package Manager and CDN. ([GitHub](https://github.com/jspm))
+- [JSPM](https://jspm.org/) - ES Module Package Manager and CDN. ([GitHub](https://github.com/jspm)) ([CLI](https://github.com/jspm/jspm-cli))
 - [JSPM Generator](https://github.com/jspm/generator) - JSPM Import Map Generator.
 - [UNPKG Search](https://www.unpkgsearch.com/) - Search Engine for Unpkg Packages.
 - [bundlejs](https://bundlejs.com) - Quick npm package size checker. ([Code](https://github.com/okikio/bundle))

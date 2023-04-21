@@ -478,3 +478,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Supaglue](https://github.com/supaglue-labs/supaglue) - Open source unified API for CRMs.
 - [What are your favorite pieces of API design? (2023)](https://twitter.com/dan_abramov/status/1644461104121237505)
 - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy) - Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain. ([HN](https://news.ycombinator.com/item?id=35634120))
+- [openpm](https://github.com/team-openpm/openpm) - Package manager for OpenAPI files.

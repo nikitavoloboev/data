@@ -1116,3 +1116,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Exploratory Analysis of TRLX RLHF Transformers with TransformerLens (2023)](https://blog.eleuther.ai/trlx-exploratory-analysis/)
 - [EleutherAI Second Retrospective: The long version (2023)](https://blog.eleuther.ai/year-two-full/)
 - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
+- [Learning to Substitute Ingredients in Recipes (2023)](https://arxiv.org/abs/2302.07960) ([Code](https://github.com/facebookresearch/gismo))

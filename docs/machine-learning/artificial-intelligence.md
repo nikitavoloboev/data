@@ -219,3 +219,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [Generative Agents: Interactive Simulacra of Human Behavior (2023)](https://arxiv.org/abs/2304.03442) ([HN](https://news.ycombinator.com/item?id=35517649))
 - [Ask HN: I am a full stack developer, where do I start learning for AI (2023)](https://news.ycombinator.com/item?id=35543774)
 - [AutoResearcher](https://github.com/eimenhmdt/autoresearcher) - Automating scientific workflows with AI.
+- [AI Safety FAQ](https://aisafety.info/) ([Code](https://github.com/StampyAI/stampy-ui))

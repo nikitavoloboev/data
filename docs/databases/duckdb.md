@@ -36,3 +36,4 @@ title: DuckDB
 - [Template for DuckDB extensions](https://github.com/duckdb/extension-template)
 - [DuckGPT](https://github.com/cube2222/DuckGPT) - Ask questions, let GPT do the SQL.
 - [Vite + DuckDB via Observable's Standard Library](https://github.com/hrbrmstr/vite-duckdb)
+- [DuckDB Swift](https://github.com/duckdb/duckdb-swift) - Native Swift API for DuckDB.

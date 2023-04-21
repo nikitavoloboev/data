@@ -198,3 +198,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [RemixKit](https://github.com/jrestall/remix-kit) - Remix development, streamlined with Vite.
 - [Remix Supertokens](https://github.com/ITenthusiasm/remix-supertokens) - Exemplifying/testing Remix usage with SuperTokens.
 - [Remix Island](https://github.com/Xiphe/remix-island) - Utils to render remix into a dom-node instead of the whole document.
+- [Where to host your Remix app in 2023](https://www.jacobparis.com/guides/where-to-host-remix)

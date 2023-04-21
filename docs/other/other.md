@@ -783,3 +783,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Eric Weinstein Discord](https://discord.gg/GnV9yJ7qGj) ([Web](https://theportal.group/eric-weinstein-discord/))
 - [fdtdz](https://github.com/spinsphotonics/fdtdz) - Fast, scalable, accessible photonic simulation.
 - [Fictional Brands Archive](https://fictionalbrandsarchive.com/) ([HN](https://news.ycombinator.com/item?id=35633999))
+- [Scrying](https://github.com/nccgroup/scrying) - Tool for collecting RDP, web and VNC screenshots all in one place.

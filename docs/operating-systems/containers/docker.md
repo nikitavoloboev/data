@@ -303,3 +303,5 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [How we deploy faster with warm Docker containers (2023)](https://dagster.io/blog/fast-deploys-with-pex-and-docker) ([HN](https://news.ycombinator.com/item?id=35064079))
 - [Working out which Docker namespaces and images you most depend on (2023)](https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/)
 - [Using compose files as a universal infrastructure interface (2023)](https://ergomake.dev/blog/docker-compose-as-a-universal-interface/)
+- [Zero-Downtime Deployments with Docker Compose (2023)](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
+- [aquamarine](https://github.com/maxcountryman/aquamarine) - Demo of zero-downtime deploys with Docker Compose and Traefik.

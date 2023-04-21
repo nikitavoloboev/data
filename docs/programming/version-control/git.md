@@ -685,3 +685,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Squash commits considered harmful](https://dev.to/wesen/squash-commits-considered-harmful-ob1) ([Comment](https://github.com/inlang/inlang/discussions/532))
 - [Modeling Git Internals in Alloy, Part 2: Commits and Tags (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 - [zbg](https://github.com/chshersh/zbg) - CLI tool for using git efficiently.
+- [Git Tools](https://github.com/kazhuravlev/git-tools) - Useful set of tools which helps to manage git tags.

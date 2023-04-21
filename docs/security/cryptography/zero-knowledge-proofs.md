@@ -164,3 +164,4 @@ title: Zero knowledge proofs
 - [Fusion zkRollup](https://github.com/leonardoalt/fusion) - Progressive and fast zkRollup written in Rust, focused on performance, modularity, and applying cutting-edge Verifiable Computation proof systems.
 - [Awesome PLONK](https://github.com/fluidex/awesome-plonk)
 - [Sovereign SDK](https://github.com/Sovereign-Labs/sovereign) - Toolkit for building zk-rollups.
+- [Halo2 Scaffolding](https://github.com/axiom-crypto/halo2-scaffold) - Basic scaffolding for setting up and writing a Halo2 ZK circuit.

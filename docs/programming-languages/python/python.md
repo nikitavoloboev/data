@@ -614,3 +614,4 @@ for i, _ in enumerate(nums):
 - [Aura](https://github.com/SourceCode-AI/aura) - Python source code auditing and static analysis on a large scale. ([HN](https://news.ycombinator.com/item?id=35511817))
 - [Astral](https://astral.sh/) - Next-gen Python tooling. ([HN](https://news.ycombinator.com/item?id=35617198))
 - [Improving messages and types in GDB’s Python API (2023)](https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/)
+- [Pythoneers here, what are some of the best python tricks you guys use when programming with python (2023)](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python/)

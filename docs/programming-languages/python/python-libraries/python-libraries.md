@@ -1177,6 +1177,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [meiga](https://github.com/alice-biometrics/meiga) - Python µframework that provides a simple, fully typed, monad-based result type.
 - [Traitlets](https://github.com/ipython/traitlets) - Lightweight Traits like module.
 - [fastbloom](https://github.com/yankun1992/fastbloom) - Fast bloom filter implemented by Rust for Python! 10x faster than pybloom.
+- [deepmerge](https://github.com/toumorokoshi/deepmerge) - Tools to handle merging of nested data structures in python.
 
 ## Notes
 

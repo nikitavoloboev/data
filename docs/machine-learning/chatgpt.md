@@ -317,3 +317,4 @@ It's also great at giving examples.
 - [MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (2023)](https://minigpt-4.github.io/) ([Code](https://github.com/Vision-CAIR/MiniGPT-4)) ([HN](https://news.ycombinator.com/item?id=35598281))
 - [Terminal GPT](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys.
 - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages (2023)](https://txt.cohere.com/embedding-archives-wikipedia/) ([HN](https://news.ycombinator.com/item?id=35643959))
+- [Superpower ChatGPT](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension.

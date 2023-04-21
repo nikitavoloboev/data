@@ -156,3 +156,4 @@ Also looking into [Railway](https://railway.app/) & [Cloudflare](https://www.clo
 - [Deploy App Engine](https://github.com/google-github-actions/deploy-appengine) - GitHub Action that deploys source code to Google App Engine.
 - [SpeedStore](https://github.com/joshsny/SpeedStore) - Blazingly fast Properties storage for Google Apps Script.
 - [Cloud Data Quality Engine](https://github.com/GoogleCloudPlatform/cloud-data-quality)
+- [Software Delivery Workshop](https://github.com/GoogleCloudPlatform/software-delivery-workshop)
