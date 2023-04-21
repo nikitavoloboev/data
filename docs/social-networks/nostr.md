@@ -56,3 +56,4 @@ title: Nostr
 - [rsslay](https://github.com/piraces/rsslay) - Nostr relay that creates profiles from RSS or Atom feeds and emits items as Nostr events.
 - [Nosli](https://github.com/akiomik/nosli) - Helps you create a curated list of posts on nostr.
 - [NostrGit](https://github.com/NostrGit/NostrGit) - Truly censorship-resistant alternative to GitHub.
+- [Nostr-tool](https://github.com/0xtrr/nostr-tool) - Simple CLI to send nostr events.

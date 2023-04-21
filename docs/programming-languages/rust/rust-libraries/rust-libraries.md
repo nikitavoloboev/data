@@ -787,6 +787,7 @@
 - [Kyber](https://github.com/Argyle-Software/kyber) - Rust implementation of the Kyber post-quantum KEM.
 - [Cryptocorrosion](https://github.com/cryptocorrosion/cryptocorrosion) - Performance crypto in pure Rust.
 - [blstrs](https://github.com/filecoin-project/blstrs) - Implementation of BLS12-381 pairing-friendly elliptic curve construction, using the blst library as backend.
+- [bls](https://github.com/w3f/bls) - Aggregatable BLS sigantures.
 
 ## Linux
 
@@ -2809,6 +2810,7 @@
 - [ArrayFire Rust](https://github.com/arrayfire/arrayfire-rust) - High performance library for parallel computing with an easy-to-use API.
 - [rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust.
 - [condtype](https://github.com/nvzqz/condtype) - Choose Rust types via boolean conditions.
+- [static_slicing](https://github.com/ktkaufman03/static-slicing) - Utilities for enhanced slicing and indexing.
 
 ## Cargo Plugins
 

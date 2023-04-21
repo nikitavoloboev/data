@@ -743,6 +743,7 @@
 - [CloudSyncSession](https://github.com/ryanashcraft/CloudSyncSession) - Layer of abstraction on top of the CloudKit framework that provides error handling and queueing for offline-capable apps.
 - [pgvector-swift](https://github.com/pgvector/pgvector-swift) - pgvector examples for Swift.
 - [gotrue-swift](https://github.com/supabase-community/gotrue-swift) - Swift client for the GoTrue API.
+- [Canopy](https://github.com/tact/Canopy) - Library that helps you isolate CloudKit dependency and write testable code using CloudKit.
 
 ## Graphics
 

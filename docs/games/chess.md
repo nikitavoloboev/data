@@ -279,3 +279,5 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [Fishtest](https://github.com/glinscott/fishtest) - Distributed task queue for testing chess engines.
 - [A Grandmaster Solves Chess Problems | Puzzle Rush Survival](https://www.youtube.com/watch?v=FelX-L-fvSk)
 - [How to Win at Chess: The Ultimate Guide for Beginners and Beyond by Levy Rozman](https://www.goodreads.com/book/show/125107160-how-to-win-at-chess)
+- [Chess analysis by Stockfish](https://analysis.sesse.net/)
+- [Antikythera](https://github.com/0hq/antikythera) - Parrallelized Chess engine written in Go.

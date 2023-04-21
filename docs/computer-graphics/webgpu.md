@@ -90,3 +90,5 @@ title: WebGPU
 - [Hello Triangle - WebGPU](https://github.com/toji/hello-triangle-webgpu)
 - [WebGPU-Memory](https://github.com/greggman/webgpu-memory) - Track your WebGPU memory usage.
 - [WebGPU Fundamentals](https://webgpufundamentals.org/) ([HN](https://news.ycombinator.com/item?id=35579334))
+- [WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla JavaScript. ([Demo](https://www.kmeans.org/)) ([HN](https://news.ycombinator.com/item?id=35648544))
+- [WebGPU-Utils](https://github.com/greggman/webgpu-utils) - Random useful things for WebGPU.

@@ -1064,3 +1064,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [AI Playground by Vercel Labs](https://play.vercel.ai/)
 - [Understanding Large Language Models (2023)](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [RedPajama](https://www.together.xyz/blog/redpajama) - Create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens.
+- [How to run your own LLM (GPT) (2023)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)

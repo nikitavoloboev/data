@@ -449,6 +449,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [otp](https://github.com/creachadair/otp) - Go implementation of the HOTP and TOTP algorithms.
 - [oauth2dev](https://github.com/int128/oauth2dev) - Go package of OAuth 2.0 Device Authorization Grant.
 - [WebAuthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in Go.
+- [simplejwt](https://github.com/xyproto/simplejwt) - Simple JWT package.
 
 ## DB
 

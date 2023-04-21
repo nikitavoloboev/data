@@ -250,6 +250,7 @@
 - [neotype](https://github.com/kitlangton/neotype) - Friendly newtype library for Scala 3.
 - [parboiled2](https://github.com/sirthias/parboiled2) - Macro-based PEG parser generator for Scala.
 - [Extras](https://github.com/Kevin-Lee/extras)
+- [Twiddles](https://github.com/typelevel/twiddles) - Micro-library for building effectful protocols.
 
 ## Links
 
