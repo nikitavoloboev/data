@@ -4,6 +4,8 @@ title: Neo4j
 
 # [Neo4j](https://neo4j.com/)
 
+[Neo4j GraphQL Library](https://neo4j.com/docs/graphql-manual/current/getting-started/) is nice.
+
 ## Links
 
 - [Neo4j Browser](https://github.com/neo4j/neo4j-browser) - General purpose user interface for working with Neo4j. Query, visualize, administrate and monitor the database.

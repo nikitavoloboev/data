@@ -2,7 +2,7 @@
 
 I share all ideas of things I want to build or building now [in Height](../focusing/goals.md). And I share ideas I published [here](https://nikiv.dev/projects).
 
-I am focusing my time on building [Learn Anything](learn-anything.md) as it will also be the main place I track and share all kinds of ideas with everyone. Height is nice but sadly can't share contents of it publicly.
+I am focusing my time on building [Learn Anything](learn-anything.md) & [KusKus](kuskus.md). KusKus will hold all public ideas I will have once it's built.
 
 I try to give my full attention to any ideas I am working on. As well as [trying many things](https://twitter.com/levelsio/status/1457315274466594817). Everything I try build benefits me in some way.
 

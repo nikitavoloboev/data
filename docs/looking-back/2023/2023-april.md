@@ -38,7 +38,7 @@ Full transparency and no bullshit going forward.
 
 My main goal is to fully augment / remove the ability to do self destructive or non meaningful things to myself with software.
 
-I think I've learned enough discipline to not fall into unfulfilling experiences but it's not easy, given how many distracting things exist. Nor how little control you have over many services that you use. Most services do a good job at surfacing interesting content but it's not trivial to act upon it with ease. Will solve this with KusKus!
+I think I've learned enough discipline to not fall into unfulfilling experiences but it's not easy, given how many distracting things exist. Nor how little control you have over many services that you use. Most services do a good job at surfacing interesting content but it's not trivial to act upon it with ease. Will solve this with [KusKus](../../ideas/kuskus.md)!
 
 Also want KusKus to cover the above case of following daily habits. Need to build iOS KusKus app too which would let me send notifications at certain times of the day + show the list of habits and let me checkmark each habit as I do it.
 

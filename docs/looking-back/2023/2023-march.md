@@ -58,7 +58,7 @@ I don't want to get another job and get fired again. It's not good for anyone. I
 
 ## KusKus
 
-For next month, the goal is to build a todo app I always wanted to build. There's many todo apps. But this one will be different. It even has a name, KusKus.
+For next month, the goal is to build a todo app I always wanted to build. There's many todo apps. But this one will be different. It even has a name, [KusKus](../../ideas/kuskus.md).
 
 How it looks now:
 
