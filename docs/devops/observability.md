@@ -89,7 +89,7 @@ title: Observability
 - [Instana Go Collector](https://github.com/instana/go-sensor) - Go Distributed Tracing & Metrics Sensor for Instana.
 - [Dynolog](https://github.com/facebookincubator/dynolog) - Performance monitoring daemon for heterogeneous CPU-GPU systems.
 - [Zinc Observe](https://github.com/zinclabs/zinc-observe) - Cheap petabyte scale observability platform.
-- [highlight.io](https://www.highlight.io/) - Open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. ([Code](https://github.com/highlight/highlight))
+- [highlight.io](https://www.highlight.io/) - Open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. ([Code](https://github.com/highlight/highlight)) ([HN](https://news.ycombinator.com/item?id=35643255))
 - [Digma](https://github.com/digma-ai/digma) - Continuous Feedback pipeline, comprised of an analysis backend and an IDE plugin.
 - [Kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool.
 - [Rezolus](https://github.com/iopsystems/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
