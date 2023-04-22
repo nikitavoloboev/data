@@ -39,3 +39,4 @@
 - [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet) ([HN](https://news.ycombinator.com/item?id=32615110))
 - [Brooklyn Bar Menu Generator](https://www.brooklynbarmenus.com/) ([HN](https://news.ycombinator.com/item?id=34153648))
 - [blinq](https://blinqme.com/) - Restaurant POS.
+- [Parse and format menu for local restaurant](https://github.com/fl2o/menu_3b)

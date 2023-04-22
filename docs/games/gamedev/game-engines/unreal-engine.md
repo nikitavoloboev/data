@@ -54,3 +54,4 @@ title: Unreal Engine
 - [Audio Analysis Tools](https://github.com/gtreshchev/AudioAnalysisTools) - Plugin for Unreal Engine.
 - [Unreal Engine 4/5 Scripting System in Lua](https://github.com/UE4SS-RE/RE-UE4SS)
 - [Unreal Engine 5 Llama LoRA](https://github.com/bublint/ue5-llama-lora)
+- [NimForUE](https://github.com/jmgomez/NimForUE) - Nim plugin for UE5 with native performance, hot reloading and full interop.

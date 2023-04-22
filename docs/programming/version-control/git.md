@@ -12,6 +12,8 @@ I use [Sublime Merge](https://www.sublimemerge.com/) as my git client app. And f
 
 Want to integrate [gwipt](https://github.com/benwr/gwipt) into my workflow with feature branches.
 
+[Inlang](../../languages/inlang.md) is interesting tool to [build git based apps](https://www.youtube.com/watch?v=CZr6A5gwmFs).
+
 [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) & [WASM Git](https://github.com/petersalomonsen/wasm-git) are nice if you want to run git in the browser.
 
 [Dolt](https://github.com/dolthub/dolt) seems interesting for version controlling data.
