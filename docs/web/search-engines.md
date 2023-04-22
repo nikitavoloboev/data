@@ -1,5 +1,7 @@
 # Search engines
 
+Use [Fuse](https://github.com/krisk/Fuse) on web clients for fuzzy searching.
+
 [Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat together with their [tokenizer lib](https://github.com/meilisearch/charabia) they use. More practically [DocSearch](https://docsearch.algolia.com/) or [Liqe](https://github.com/gajus/liqe) are great for plug and use solution.
 
 [Tantivy](https://github.com/quickwit-oss/tantivy), [Quickwit](https://quickwit.io/), [Edgesearch](https://github.com/wilsonzlin/edgesearch) & [bloop](https://github.com/BloopAI/bloop) are interesting too.

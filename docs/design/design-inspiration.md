@@ -6,6 +6,8 @@ Below are sites/apps whose design I liked. [Linear](https://linear.app/homepage)
 
 [Arc](https://thebrowser.company/) has a [pretty onboard experience](https://twitter.com/darylginn/status/1549720866316902402).
 
+Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for landing pages. With features/changelog on right side and action buttons like `download` on left side.
+
 ## Websites
 
 - [Astro](https://astro.build/)
