@@ -32,3 +32,4 @@ Once I get enough money for piano, I want to learn to play like them. Will pract
 - [The Piano vs The Guitar (2023)](https://mattpo.pe/posts/piano-vs-guitar/)
 - [Piano Day](https://www.pianoday.org/)
 - [RoboPianist](https://kevinzakka.github.io/robopianist-demo/) - Piano playing robot simulation in the browser. ([HN](https://news.ycombinator.com/item?id=35376138)) ([Code](https://github.com/google-research/robopianist))
+- [PianoFingering.jl](https://github.com/JuliaMusic/PianoFingering.jl) - Automatic fingering generator for piano scores, written in Julia.

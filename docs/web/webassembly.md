@@ -454,3 +454,4 @@ title: WebAssembly
 - [chibiwasm](https://github.com/skanehira/chibiwasm) - Small wasm runtime for learning how wasm runtime works.
 - [Handling strings in WASM without burning yourself](https://github.com/naver/lispe/wiki/6.18-Handling-strings-in-WASM-without-burning-yourself)
 - [wit-deps](https://github.com/bytecodealliance/wit-deps) - WIT dependency manager binary and Rust library, which manages your wit/deps.
+- [WebAssembly Components](https://wasm-components.netlify.app/) - High-level explanation of the low-level details of WebAssembly components. ([Code](https://github.com/rylev/component-book))

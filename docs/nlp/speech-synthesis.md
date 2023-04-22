@@ -123,3 +123,5 @@
 - [NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates](https://github.com/mindslab-ai/nuwave2)
 - [Bark](https://github.com/suno-ai/bark) - Text-prompted Generative Audio Model. ([HN](https://news.ycombinator.com/item?id=35643219))
 - [piper](https://github.com/rhasspy/piper) - Fast, local neural text to speech system.
+- [SoftVC VITS Singing Voice Conversion Fork](https://github.com/voicepaw/so-vits-svc-fork)
+- [Kesha](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.

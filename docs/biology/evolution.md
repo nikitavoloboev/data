@@ -30,3 +30,4 @@
 - [Life Ascending: The Ten Great Inventions of Evolution by Nick Lane](https://www.goodreads.com/book/show/6429264-life-ascending)
 - [The Selfish Gene by Richard Dawkins](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [ESTool](https://github.com/hardmaru/estool) - Evolution Strategies Tool.
+- [Flappy Bird AI](https://github.com/bones-ai/rust-flappy-bird-ai) - Neuro-evolution simulation of flappy birds implemented in rust using macroquad.

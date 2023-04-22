@@ -232,6 +232,7 @@ Also use Obsidian as a way to work through active todos, until I build an app fo
 - [GPT3 Summarizer](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize text with GPT-3 in Obsidian.
 - [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin)
 - [Global Search and Replace for Obsidian](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace)
+- [Obsidian Copilot](https://github.com/logancyang/obsidian-copilot) - ChatGPT interface right inside Obsidian.
 
 ## Themes
 

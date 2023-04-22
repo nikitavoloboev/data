@@ -67,3 +67,4 @@ title: Webpack
 - [parcel-css-loader](https://github.com/fz6m/parcel-css-loader) - Speed up your Webpack build with parcel CSS.
 - [Migrate From Webpacker to Esbuild (2022)](https://www.fastruby.io/blog/esbuild/webpacker/javascript/migrate-from-webpacker-to-esbuild.html)
 - [GradeJS](https://github.com/gradejs/gradejs) - Analyzes production Webpack bundles without having access to the source code of a website.
+- [forgetti-loader](https://github.com/SukkaW/forgetti-loader) - Webpack loader that solves your hook spaghetti. Powered by forgetti which is inspired by React Forget.

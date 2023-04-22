@@ -142,3 +142,4 @@ title: Field-programmable gate array
 - [SpyDrNet](https://github.com/byuccl/spydrnet) - Flexible framework for analyzing and transforming FPGA netlists.
 - [Pentimento: Data Remanence in Cloud FPGAs (2023)](https://arxiv.org/abs/2303.17881)
 - [Awesome FPGA Programming](https://github.com/emanueledelsozzo/awesome-fpga-programming)
+- [GCVideo](https://github.com/ikorb/gcvideo) - GameCube Digital AV converter.

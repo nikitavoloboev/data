@@ -58,3 +58,4 @@ title: Nostr
 - [NostrGit](https://github.com/NostrGit/NostrGit) - Truly censorship-resistant alternative to GitHub.
 - [Nostr-tool](https://github.com/0xtrr/nostr-tool) - Simple CLI to send nostr events.
 - [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - Nostr relay, written in Rust.
+- [nostr-cnp-girl](https://github.com/erechorse/nostr-cpn-girl) - Bot that runs on Nostr and distributes login bonuses.

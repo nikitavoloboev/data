@@ -43,3 +43,4 @@ title: p5.js
 - [OSC for p5.js with examples](https://github.com/genekogan/p5js-osc)
 - [p5.buildGeometry](https://github.com/davepagurek/p5.buildGeometry) - Create a reusable p5.Geometry using the 3D primitives you're familiar with from p5.
 - [p5.Framebuffer](https://github.com/davepagurek/p5.Framebuffer) - Library for efficiently drawing to a texture in p5 WebGL mode.
+- [P5LIVE](https://teddavis.org/p5live/) - Collaborative live-coding vj environment. ([Code](https://github.com/ffd8/P5LIVE))

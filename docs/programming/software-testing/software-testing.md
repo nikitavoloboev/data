@@ -191,3 +191,4 @@ I personally [don't start with tests](https://www.youtube.com/watch?v=VB3Vh9Vf72
 - [Wirepig](https://github.com/griffinmyers/wirepig) - Test software that relies on something over a network.
 - [lading](https://github.com/DataDog/lading) - Tool for measuring the performance of long-running programs.
 - [ABQ](https://github.com/rwx-research/abq) - Universal test runner that runs test suites in parallel. It’s the best tool for splitting test suites into parallel jobs locally or on CI.
+- [Scooby](https://github.com/AnimaApp/scooby) - Open-source regression and fidelity testing framework.

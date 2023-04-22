@@ -191,3 +191,4 @@ title: Speech recognition
 - [fan_transcribe](https://github.com/kousun12/fan_transcribe) - Fan out audio transcription tasks via OpenAI Whisper and Modal Labs.
 - [Whisper JAX](https://github.com/sanchit-gandhi/whisper-jax) - Optimized JAX code for OpenAI's Whisper Model.
 - [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers (2023)](https://arxiv.org/abs/2304.09116) ([Code](https://github.com/lucidrains/naturalspeech2-pytorch))
+- [Bark Web UI](https://github.com/makawy7/bark-webui) - Web UI for the Bark Text-to-Speech.

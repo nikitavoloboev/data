@@ -1003,3 +1003,4 @@ if *boolArgPtr != false {
 - [Go in depth YouTube channels?](https://www.reddit.com/r/golang/comments/12g9mxy/go_in_depth_youtube_channels/)
 - [Write integration tests with dockertest in Go (2023)](https://philidor.dev/blog/dockertest/)
 - [What are some backend-related stuff that Go isn't good at? (2023)](https://www.reddit.com/r/golang/comments/12nqs5f/what_are_some_backendrelated_stuff_that_go_isnt/)
+- [revgen](https://github.com/inigolabs/revgen) - Speed up go:generate by auto detecting code changes.

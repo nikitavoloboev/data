@@ -162,3 +162,4 @@
 - [Common Lisp implementations in 2023](https://www.n16f.net/blog/common-lisp-implementations-in-2023/) ([HN](https://news.ycombinator.com/item?id=34909113))
 - [Transducers: Ergonomic, efficient data processing](https://github.com/fosskers/cl-transducers)
 - [Common Lisp Quick Reference](http://clqr.boundp.org/)
+- [binary-structures](https://github.com/Shinmera/binary-structures) - Library for reading, writing, and representing structures from binary storage.

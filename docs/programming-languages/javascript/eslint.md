@@ -79,3 +79,4 @@ title: ESLint
 - [ESLint plugin for UnoCSS](https://github.com/devunt/eslint-plugin-unocss)
 - [eslint-etc](https://github.com/cartant/eslint-etc) - Utils for ESLint TypeScript rules.
 - [TypeScript language service plugin for ESLint](https://github.com/Quramy/typescript-eslint-language-service)
+- [dword-design/eslint-plugin-import-alias](https://github.com/dword-design/eslint-plugin-import-alias) - ESLint plugin that enforces the use of import aliases. Also supports autofixing.

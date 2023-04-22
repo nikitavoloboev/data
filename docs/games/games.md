@@ -319,6 +319,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Games where decisions amount to more than a binary "good" or "bad" option](https://www.reddit.com/r/gamingsuggestions/comments/12ngmbr/games_where_decisions_amount_to_more_than_a/)
 - [An open world RPG like game that revolves around / Includes building and upgrading a town / home base system (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12sb9c7/an_open_world_rpg_like_game_that_revolves_around/)
 - [Memorable games you can beat in a day without too much challenge. (Not a walking sim) (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12svae3/memorable_games_you_can_beat_in_a_day_without_too/)
+- [What's a game that'll damage me emotionally (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12uk6en/whats_a_game_thatll_damage_me_emotionally/)
 
 ## Links
 

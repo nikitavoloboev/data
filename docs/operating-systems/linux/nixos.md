@@ -102,6 +102,7 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [Yusuf Ertan](https://github.com/yusdacra/ark)
 - [Wil Taylor](https://github.com/wiltaylor/dotfiles)
 - [Luc Perkins](https://github.com/the-nix-way/nome)
+- [Jakub](https://github.com/KubqoA/dotfiles)
 
 ## Nix configs (macOS)
 

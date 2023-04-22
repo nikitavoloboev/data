@@ -50,3 +50,4 @@ title: Logseq
 - [Catppuccin for Logseq](https://github.com/catppuccin/logseq)
 - [Logseq Copliot](https://github.com/EINDEX/logseq-copilot) - Chrome extension that allows you to access your Logseq via your browser.
 - [Logseq ChatGPT](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - Tightly integrated ChatGPT plugin for Logseq.
+- [GitHub action and CLI to publish Logseq graphs as a SPA app](https://github.com/logseq/publish-spa)

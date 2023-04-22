@@ -957,7 +957,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs.
 - [Five years of GPT progress (2023)](https://finbarr.ca/five-years-of-gpt-progress/)
 - [Actually, Othello-GPT Has A Linear Emergent World Representation (2023)](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
-- [PromptPerfect](https://promptperfect.jina.ai/) - Elevate your prompts to perfection.
+- [PromptPerfect](https://promptperfect.jina.ai/) - Elevate your prompts to perfection. ([HN](https://news.ycombinator.com/item?id=35660751))
 - [gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp)
 - [Wove](https://github.com/zckly/wove) - Tool for building long-running workflows with LLMs.
 - [Eight Things to Know about Large Language Models (2023)](https://cims.nyu.edu/~sbowman/eightthings.pdf) ([HN](https://news.ycombinator.com/item?id=35434679))
@@ -1066,3 +1066,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [RedPajama](https://www.together.xyz/blog/redpajama) - Create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens.
 - [How to run your own LLM (GPT) (2023)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 - [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) - Framework and no-code GUI for fine-tuning LLMs.
+- [Finetuning Large Language Models (2023)](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) ([HN](https://news.ycombinator.com/item?id=35666201))
+- [LLaMA-8bit-LoRA](https://github.com/serp-ai/LLaMA-8bit-LoRA) - Training a LoRA for the LLaMA model on HuggingFace with 8-bit quantization.
+- [Alpaca Electron](https://github.com/ItsPi3141/alpaca-electron) - Simpler way to run Alpaca.

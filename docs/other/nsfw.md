@@ -68,3 +68,4 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [A good erotic movie](https://www.reddit.com/r/MovieSuggestions/comments/11r283k/a_good_erotic_movie/)
 - [X-rated movies (2023)](https://www.reddit.com/r/MovieSuggestions/comments/12osrfe/xrated_movies/)
 - [Keras model of NSFW detector](https://github.com/GantMan/nsfw_model)
+- [Reddit NSFW scraper since Imgur is going away (2023)](https://www.reddit.com/r/DataHoarder/comments/12ugubr/reddit_nsfw_scraper_since_imgur_is_going_away/)

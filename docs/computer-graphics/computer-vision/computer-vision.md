@@ -1236,3 +1236,10 @@
 - [Dynablox](https://github.com/ethz-asl/dynablox) - Real-time detection of diverse dynamic objects in complex environments.
 - [Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (2023)](https://github.com/kaiwenzha/contrastive-poisoning)
 - [Inpaint Anything: Segment Anything Meets Image Inpainting](https://github.com/geekyutao/Inpaint-Anything)
+- [Transformer-Based Visual Segmentation: A Survey (2023)](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)
+- [AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation (2023)](https://arxiv.org/abs/2304.09790) ([Code](https://github.com/MCG-NKU/AMT))
+- [segment-geospatial](https://github.com/opengeos/segment-geospatial) - Python package for segmenting geospatial data with the Segment Anything Model (SAM).
+- [I Hear Your True Colors: Image Guided Audio Generation](https://github.com/RoySheffer/im2wav)
+- [Contrastive Audio-Visual Masked Autoencoder (2023)](https://github.com/YuanGongND/cav-mae)
+- [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories (2023)](https://arxiv.org/abs/2303.15951) ([Code](https://github.com/Totoro97/f2-nerf))
+- [Angler: Helping Machine Translation Practitioners Prioritize Model Improvements (2023)](https://machinelearning.apple.com/research/helping-machine-translation) ([Code](https://github.com/apple/ml-translate-vis))

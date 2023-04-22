@@ -1143,6 +1143,7 @@
 - [Textbox](https://github.com/borgar/textbox) - Library to layout text for display on SVG or Canvas.
 - [highlightjs-copy](https://github.com/arronhunt/highlightjs-copy) - Simple, accessible highlightjs plugin to add a copy button to your code blocks.
 - [Licia](https://github.com/liriliri/licia) - Useful utility collection with zero dependencies.
+- [algovivo](https://github.com/juniorrojas/algovivo) - JavaScript + WASM implementation of an energy-based formulation for soft-bodied virtual creatures.
 
 ## Links
 

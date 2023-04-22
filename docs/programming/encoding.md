@@ -91,3 +91,4 @@
 - [A Safer High Performance AV1 Decoder (2023)](https://www.memorysafety.org/blog/safer-av1-decoder/) ([Lobsters](https://lobste.rs/s/gvloxf/safer_high_performance_av1_decoder))
 - [Image Codec Comparison (JXL vs. AVIF vs. WebP vs. JPG) (2023)](https://giannirosato.com/blog/post/image-comparison/)
 - [ZebraPack](https://github.com/glycerine/zebrapack) - Data description language and serialization format.
+- [capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript.

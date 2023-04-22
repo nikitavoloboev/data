@@ -355,3 +355,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [Encrust](https://github.com/glyph/Encrust) - Automate all the steps to add the flavorful, savory crust that macOS applications written in Python require to launch.
 - [Building a Classic Mac OS App in Rust (2023)](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
 - [PermissionsKit](https://github.com/MacPaw/PermissionsKit) - Convenience wrapper on macOS permissions API, including Mojave Full Disk Access.
+- [Which mac apps are worth every penny and you can't live without? (2023)](https://www.reddit.com/r/macapps/comments/12tm7f7/which_apps_are_worth_every_penny_and_you_cant/)

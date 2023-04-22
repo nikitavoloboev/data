@@ -789,6 +789,7 @@
 - [Cryptocorrosion](https://github.com/cryptocorrosion/cryptocorrosion) - Performance crypto in pure Rust.
 - [blstrs](https://github.com/filecoin-project/blstrs) - Implementation of BLS12-381 pairing-friendly elliptic curve construction, using the blst library as backend.
 - [bls](https://github.com/w3f/bls) - Aggregatable BLS sigantures.
+- [Rustls FFI bindings](https://github.com/rustls/rustls-ffi) - FFI bindings for the rustls TLS library.
 
 ## Linux
 
@@ -2813,6 +2814,9 @@
 - [condtype](https://github.com/nvzqz/condtype) - Choose Rust types via boolean conditions.
 - [static_slicing](https://github.com/ktkaufman03/static-slicing) - Utilities for enhanced slicing and indexing.
 - [Myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust.
+- [webpki](https://github.com/rustls/webpki) - WebPKI X.509 Certificate Validation in Rust.
+- [Sucre](https://github.com/zicklag/sucre) - Experimental Symmetric Interaction Combinator Runtime.
+- [Struson](https://github.com/Marcono1234/struson) - Streaming JSON reader and writer written in Rust.
 
 ## Cargo Plugins
 

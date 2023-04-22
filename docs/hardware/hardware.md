@@ -418,3 +418,4 @@
 - [Ending an Ugly Chapter in Chip Design (2023)](https://spectrum.ieee.org/chip-design-controversy) ([HN](https://news.ycombinator.com/item?id=35441759))
 - [The Hardware Lottery](https://hardwarelottery.github.io/)
 - [Ask HN: What is a good book about how computers work? (2023)](https://news.ycombinator.com/item?id=35609657)
+- [Ask HN: Why is TSMC so competitive in semiconductor fabrication? (2023)](https://news.ycombinator.com/item?id=35665076)
