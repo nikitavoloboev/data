@@ -37,3 +37,4 @@ title: DuckDB
 - [DuckGPT](https://github.com/cube2222/DuckGPT) - Ask questions, let GPT do the SQL.
 - [Vite + DuckDB via Observable's Standard Library](https://github.com/hrbrmstr/vite-duckdb)
 - [DuckDB Swift](https://github.com/duckdb/duckdb-swift) - Native Swift API for DuckDB.
+- [fasql](https://github.com/wheretrue/fasql) - DuckDB Extension for Reading FASTA and FASTQ Files.

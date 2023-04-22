@@ -8,7 +8,7 @@ I ♥️️ GitHub. It is one of the best communities out there that exists with
 
 I publish most of my work and make it open source for other people to use and reuse.
 
-[Here](../../sharing/my-github.md) you can find all the repositories I shared.
+[Here](https://github.com/nikitavoloboev#src) you can find all the repositories I shared.
 
 [GitHub CLI](https://github.com/cli/cli) is useful. One thing I want to do is meet top GitHub contributors from different countries and talk with them. [Git Stars](https://git-stars.com/users) provides a neat tool for that. I use [Go GitHub](https://github.com/google/go-github) lib to access GitHub data.
 

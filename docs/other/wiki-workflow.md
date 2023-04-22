@@ -53,7 +53,7 @@ Nearly every page in the wiki has a `## Links` section. Those are essentially my
 
 I wrote an Alfred workflow that as the name suggests, acts as my second brain that I use to quickly access anything I have [indexed for myself](../knowledge/knowledge.md). I share it because I wish other people took this idea and made their own _Alfred My Mind_ or a _Knowledge wiki_ but for their own use. Sharing knowledge and tools like that is very powerful and makes a big difference. As I use and reuse other people's work and knowledge many times a day. It never hurts to add to the mix.
 
-I want to visualize knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](../sharing/my-articles.md), the [YouTube videos I make](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos) and of course finally through the [code I write](../sharing/my-github.md) to make useful tools, apps and interactive visualizations that all can use and enjoy.
+I want to visualize knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](../sharing/my-articles.md), the [YouTube videos I make](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos) and of course finally through the [code I write](https://github.com/nikitavoloboev#src) to make useful tools, apps and interactive visualizations that all can use and enjoy.
 
 ## Future improvements
 

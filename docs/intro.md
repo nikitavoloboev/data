@@ -58,7 +58,7 @@ Most often I share my life on [Twitter](https://twitter.com/nikitavoloboev) (mos
 
 I also want to learn to write well written [articles](sharing/my-articles.md) and make high quality [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
 
-And of course I love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev). I also love [Reddit](https://reddit.com/user/nikivi), [HN](https://news.ycombinator.com/user?id=nikivi) & [Lobsters](https://lobste.rs/u/nikivi) as far as communities go.
+And of course I love [writing code](https://github.com/nikitavoloboev#src) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev). I also love [Reddit](https://reddit.com/user/nikivi), [HN](https://news.ycombinator.com/user?id=nikivi) & [Lobsters](https://lobste.rs/u/nikivi) as far as communities go.
 
 [Here](sharing/sharing.md) you can find all the things I made and shared thus far.
 
