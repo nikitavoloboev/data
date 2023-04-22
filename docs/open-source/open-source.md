@@ -6,11 +6,17 @@ title: Open Source
 
 The key to success in open source lies in understanding that it's not just about software, it's about the people (great and clear communication with proper documentation).
 
+I try to make my working on open source [sustainable](https://news.ycombinator.com/item?id=34780859) with building actual paid products and having [nice GitHub sponsors rewards](https://github.com/sponsors/nikitavoloboev).
+
+I do think the future is everything being open core. As it makes sense. If there are 2 nearly identical products but one has open code and another doesn't, it makes sense that one that's with open code wins as the contribution/ideas flow is unbounded on open source project. If managed well.
+
+My goal is to make every tool/app I use be open core with fastest and most intuitive interfaces available.
+
 Dan has great tips on what it means to be [high quality software maintainers](https://twitter.com/dan_abramov/status/1463718359262973953). [Anthony Fu's contribution guide](https://github.com/antfu/contribute) is great.
 
-Whilst I try to release everything I work on in the open, I make sure not to ever rely solely on OSS funding for my projects as it's just [not sustainable](https://news.ycombinator.com/item?id=34780859). You need to build actual products and sell them be it via free to pro conversion or just paid product outright. I think though more products should be open source and still make a business like what [cal.com](https://github.com/calcom/cal.com) is doing amongst many more. Opening up contribution to the product is valuable and has little if any drawbacks in my opinion.
+[Inlang](https://inlang.com/) & [Cal.com](https://github.com/calcom/cal.com) are nice open source companies. [Cal.com Handbook](https://handbook.cal.com/) is nice read.
 
-Like seeing overviews of OSS releases of a person in a [page like this](https://github.com/fabiospampinato/monorepo).
+Like seeing overviews of OSS releases of a person in a [page like this](https://github.com/fabiospampinato/monorepo). I [use GitHub bio](https://github.com/nikitavoloboev) for this.
 
 ## Nice contributing pages
 
