@@ -103,3 +103,4 @@ Find Tokyo [beautiful](https://twitter.com/teemusphoto/status/160469679917617561
 - [GitHub Sponsor-able Users in Japan](https://github.com/azu/github-sponsorable-in-japan)
 - [Vlog Transcription & Japanese Translation Tool](https://github.com/craftzdog/vlog-translator)
 - [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator.
+- [Tsurukame](https://github.com/davidsansome/tsurukame) - WaniKani app for iOS. It helps you learn Japanese Kanji.

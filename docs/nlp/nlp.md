@@ -1070,3 +1070,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LLaMA-8bit-LoRA](https://github.com/serp-ai/LLaMA-8bit-LoRA) - Training a LoRA for the LLaMA model on HuggingFace with 8-bit quantization.
 - [Alpaca Electron](https://github.com/ItsPi3141/alpaca-electron) - Simpler way to run Alpaca.
 - [Large Language Models: Scaling Laws and Emergent Properties (2023)](https://cthiriet.com/articles/scaling-laws)
+- [Prompt engineering vs. blind prompting (2023)](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting) ([HN](https://news.ycombinator.com/item?id=35668387))

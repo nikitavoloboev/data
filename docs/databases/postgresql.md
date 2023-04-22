@@ -694,3 +694,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Omnigres](https://github.com/omnigres/omnigres) - Makes PostgreSQL a complete application platform.
 - [Supabase Auth: SSO, Mobile, and Server-Side Support (2023)](https://supabase.com/blog/supabase-auth-sso-pkce) ([HN](https://news.ycombinator.com/item?id=35555263))
 - [PostgreSQL 16: EXPLAIN (GENERIC_PLAN) (2023)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)
+- [Understand Postgres wire protocol by writing a simple program (2023)](https://viggy28.dev/article/introduction-to-postgres-wire-protocol-in-go/)

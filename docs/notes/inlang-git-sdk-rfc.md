@@ -85,7 +85,7 @@ As we can't run all logic in a web worker as the file system must be exposed to 
 
 You can instead run git-sdk [in a browser](https://github.com/petersalomonsen/wasm-git#use-in-browser-without-a-webworker). The package will be making async requests to `lg2.wasm` by passing the required commands.
 
-The difficulty is with bundling the `.wasm` file with the package. This is currently being explored [here](https://github.com/nikitavoloboev/git-sdk) using rollup to bundle everything.
+The difficulty is with bundling the `.wasm` file with the package. Can use rollup for this.
 
 ##### Running GitSDK WASM in Node
 
@@ -840,10 +840,6 @@ If we can implement rebase and sparse-checkout, adding other commands shouldn't 
 Performance should be of no concern. You are not doing anything heavy as far as operations go.
 
 ### Implementation details for WASM Git
-
-Exploring using WASM Git to replace isomorphic git in Inlang [here](https://github.com/nikitavoloboev/git-sdk).
-
-Still some issues to resolve.
 
 > Currently exploring this approach to rebuild current Inlang editor with libgit2
 
