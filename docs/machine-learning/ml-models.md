@@ -181,3 +181,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [AzureML and Azure OpenAI](https://github.com/danielsc/openai) - Sample project that demonstrates how to use Azure Machine Learning to fine-tune and deploy a model using Azure OpenAI.
 - [Banana Node/TypeScript SDK](https://github.com/bananaml/banana-node-sdk)
 - [Meerkat](https://github.com/HazyResearch/meerkat) - Interactive data structures for evaluating foundation models.
+- [AutoGluon-Cloud](https://github.com/autogluon/autogluon-cloud) - User tools to train, fine-tune and deploy AutoGluon backed models on the cloud.
