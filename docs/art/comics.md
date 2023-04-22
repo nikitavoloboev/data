@@ -28,3 +28,4 @@
 - [Black Cats sad comic](https://twitter.com/JennyJinya/status/1603462510107332609)
 - [eReader Mangas](https://ereader-mangas.vercel.app/) - Read Mangas on eReaders. ([Code](https://github.com/samuba/ereader-mangas))
 - [o_l_bom](https://www.instagram.com/o_l_bom/) ([Twitter](https://twitter.com/o_l_bom))
+- [ComicsMaker.ai](https://www.comicsmaker.ai/) - Create Comics Using Stable Diffusion. ([HN](https://news.ycombinator.com/item?id=35637085))

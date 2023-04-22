@@ -214,7 +214,7 @@
 - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - Curated knowledge sharing platform for data scientists and other technical professions.
 - [Book: The Science of Science — Dashun Wang (2021)](https://www.dashunwang.com/book/the-science-of-science)
 - [An introduction to Monzo’s data stack (2021)](https://medium.com/data-monzo/an-introduction-to-monzos-data-stack-827ae531bc99)
-- [Evidence](https://www.evidence.dev/) - Enables analysts to deliver a polished business intelligence system using SQL and markdown. ([Code](https://github.com/evidence-dev/evidence))
+- [Evidence](https://www.evidence.dev/) - Enables analysts to deliver a polished business intelligence system using SQL and markdown. ([Code](https://github.com/evidence-dev/evidence)) ([HN](https://news.ycombinator.com/item?id=35645464))
 - [Future of Data Work: Collaboration and No Limits (2021)](https://observablehq.com/@observablehq/future-of-data-work-collaboration-and-no-limits)
 - [Rows](https://rows.com/) - Spreadsheet where teams work faster. ([Twitter](https://twitter.com/RowsHQ)) ([HN](https://news.ycombinator.com/item?id=35002720))
 - [RDMkit](https://rdmkit.elixir-europe.org/) - Online guide containing good data management practices applicable to research projects from the beginning to the end. ([Code](https://github.com/elixir-europe/rdmkit))

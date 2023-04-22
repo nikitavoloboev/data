@@ -645,6 +645,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-tinylfu](https://github.com/dgryski/go-tinylfu) - TinyLFU cache admission policy.
 - [imcache](https://github.com/erni27/imcache) - Generic in-memory cache Go library.
 - [Go SDK for libSQL](https://github.com/libsql/libsql-client-go)
+- [FreeLRU](https://github.com/elastic/go-freelru) - GC-less, fast and generic LRU hashmap library for Go.
 
 ## ML
 

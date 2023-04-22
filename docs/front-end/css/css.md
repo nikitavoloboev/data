@@ -644,3 +644,4 @@ all: unset
 - [You don't need JavaScript to support theming (2022)](https://www.standel.io/blog/you-dont-need-javascript-to-support-theming)
 - [XISS](https://github.com/localvoid/xiss) - Experimental compiler for modular CSS written in Rust.
 - [What's a Basic Use Case for Cascade Layers in CSS? (2023)](https://chriscoyier.net/2023/04/10/whats-a-basic-use-case-for-cascade-layers-in-css/)
+- [Spinning Diagrams with CSS (2023)](https://x.st/spinning-diagrams-with-css/) ([HN](https://news.ycombinator.com/item?id=35646199))

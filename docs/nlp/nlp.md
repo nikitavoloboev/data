@@ -1069,3 +1069,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Finetuning Large Language Models (2023)](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) ([HN](https://news.ycombinator.com/item?id=35666201))
 - [LLaMA-8bit-LoRA](https://github.com/serp-ai/LLaMA-8bit-LoRA) - Training a LoRA for the LLaMA model on HuggingFace with 8-bit quantization.
 - [Alpaca Electron](https://github.com/ItsPi3141/alpaca-electron) - Simpler way to run Alpaca.
+- [Large Language Models: Scaling Laws and Emergent Properties (2023)](https://cthiriet.com/articles/scaling-laws)

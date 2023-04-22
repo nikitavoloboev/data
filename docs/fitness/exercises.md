@@ -45,3 +45,4 @@ I mention exercises I do [here](fitness.md).
 - [How To Start Calisthenics at Home for Beginners (No Equipment)](https://www.youtube.com/watch?v=hEXjX6nwDoY)
 - [Ask HN: What's a good program for calisthenics for beginners that YOU have tried (2023)](https://news.ycombinator.com/item?id=34208729)
 - [Ask HN: How do you exercise? (2023)](https://news.ycombinator.com/item?id=34542172)
+- [Stretch 15](https://stretch15.com/) - 15 min daily stretch routine for desk workers. ([HN](https://news.ycombinator.com/item?id=35639810))

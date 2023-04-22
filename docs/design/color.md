@@ -228,3 +228,5 @@
 - [Why some GitHub labels illegible (2023)](https://firsching.ch/github_labels.html) ([HN](https://news.ycombinator.com/item?id=35134678))
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes.
 - [Spectral.js](https://github.com/rvanwijnen/spectral.js) - Powerful and versatile JavaScript library that allows you to achieve realistic color mixing in your web-based projects.
+- [CSS HD Gradients](https://gradient.style/)
+- [It's time to learn oklch color (2023)](https://keithjgrant.com/posts/2023/04/its-time-to-learn-oklch-color/)

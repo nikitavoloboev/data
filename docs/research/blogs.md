@@ -414,6 +414,8 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [memN0ps](https://memn0ps.github.io/)
 - [Sebastian Raschka](https://magazine.sebastianraschka.com/)
 - [Shruggingface](https://www.shruggingface.com/)
+- [Harold Cooper](https://x.st/)
+- [Keith Grant](https://keithjgrant.com/articles/)
 
 ## Notes
 
