@@ -171,6 +171,7 @@ Love [Alain Chedotal](https://twitter.com/AlainChedotal)'s research.
 - [RatInABox](https://github.com/TomGeorge1234/RatInABox) - Python package for modelling locomotion in complex environments and spatially/velocity selective cell activity.
 - [Introduction to Neuroscience (2023)](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)
 - [improv](https://github.com/project-improv/improv) - Adaptive Platform for Neuroscience Experiments.
+- [Why the brain’s connections to the body are crisscrossed (2023)](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/) ([HN](https://news.ycombinator.com/item?id=35667429))
 
 ## Images
 
