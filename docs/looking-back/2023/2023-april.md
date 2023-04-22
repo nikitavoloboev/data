@@ -99,3 +99,7 @@ Too happy with my [Special](https://open.spotify.com/playlist/0phxrDBmTURKDkRNmb
 [Leaving](https://open.spotify.com/track/0wp2uTU203q0pwxYmdsUfa), [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) & [Time](https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt) are so good still.
 
 I did find out about [Slow Up](https://www.youtube.com/watch?v=LsgNG-L6aw4) this month though.
+
+## Watched
+
+Season 4 of [Succession](https://trakt.tv/shows/succession) is superb.
