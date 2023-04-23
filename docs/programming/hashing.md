@@ -81,3 +81,4 @@
 - [The Smallest Hash Table (2023)](https://orlp.net/blog/worlds-smallest-hash-table/) ([HN](https://news.ycombinator.com/item?id=35037690))
 - [Hash Tables FTW (2023)](http://www.os2museum.com/wp/hash-tables-ftw/)
 - [Optimizing Open Addressing (2023)](https://thenumb.at/Hashtables/) ([Lobsters](https://lobste.rs/s/vnpupo/optimizing_open_addressing))
+- [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)

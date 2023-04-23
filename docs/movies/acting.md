@@ -2,7 +2,7 @@
 
 I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) & [actresses](https://www.imdb.com/list/ls098138063/).
 
-Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJes) as he describes [his approach and experience with acting](https://youtu.be/65HymY-KJes?t=1377). The approach of focusing on [emotional core/reasoning for character](https://youtu.be/Chn-IfSPEo8?t=139) is great approach too.
+Loved an [interview of Ben Mendelsohn](https://www.youtube.com/watch?v=65HymY-KJes) as he describes [his approach and experience with acting](https://youtu.be/65HymY-KJes?t=1377). I like his approach of focusing on [emotional core/reasoning for character](https://youtu.be/Chn-IfSPEo8?t=139).
 
 ## Notes
 

@@ -128,4 +128,4 @@ title: Assembly
 - [ASM.](https://github.com/71/asmdot) - Extensible Python framework for building a fast, zero-copy assembler.
 - [scare](https://github.com/netspooky/scare) - Multi-arch assembly REPL and emulator for your command line.
 - [Even if you can't write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html) ([HN](https://news.ycombinator.com/item?id=35435811))
-- [Writing portable ARM64 assembly (2023)](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
+- [Writing portable ARM64 assembly (2023)](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/) ([HN](https://news.ycombinator.com/item?id=35664745))

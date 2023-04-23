@@ -2348,3 +2348,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [What's your recommended router? chi, mux, something else? (2023)](https://www.reddit.com/r/golang/comments/12hl7x7/whats_your_recommended_router_chi_mux_something/)
 - [Buster](https://github.com/TimothyStiles/buster) - Go CI/CD package for Go packages.
 - [Go integration testing with courage and coverage (2023)](https://evilmartians.com/chronicles/go-integration-testing-with-courage-and-coverage)
+- [PG advisory locks in Go with built-in hashes (2023)](https://brandur.org/fragments/pg-advisory-locks-with-go-hash)

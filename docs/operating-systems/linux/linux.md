@@ -714,3 +714,4 @@ title: Linux
 - [The early days of Linux (2023)](https://lwn.net/SubscriberLink/928581/841b747332791ac4/) ([HN](https://news.ycombinator.com/item?id=35557848))
 - [Making a Linux home server sleep on idle and wake on demand — the simple way (2023)](https://dgross.ca/blog/linux-home-server-auto-sleep/) ([HN](https://news.ycombinator.com/item?id=35627107))
 - [Linux kernel syscall tables](https://syscalls.mebeim.net/) - High-quality browsable tables of system calls implemented by the Linux kernel on various architectures and ABIs. ([Code](https://github.com/mebeim/linux-syscalls))
+- [Measuring the Impact of False Sharing (2023)](https://alic.dev/blog/false-sharing.html)

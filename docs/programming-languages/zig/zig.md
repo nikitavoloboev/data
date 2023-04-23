@@ -196,3 +196,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [libuv, but multi-threaded, but not really (2023)](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
 - [Ziggifying Kilo (2023)](https://bingcicle.github.io/posts/ziggifying-kilo.html) ([Lobsters](https://lobste.rs/s/0mvels/ziggifying_kilo))
 - [Mastering project management in Zig (2023)](https://blog.orhun.dev/zig-bits-03/)
+- [Regular Expressions in Zig (2023)](https://www.openmymind.net/Regular-Expressions-in-Zig/)

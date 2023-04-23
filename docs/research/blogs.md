@@ -416,6 +416,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Shruggingface](https://www.shruggingface.com/)
 - [Harold Cooper](https://x.st/)
 - [Keith Grant](https://keithjgrant.com/articles/)
+- [Adrian Alic](https://alic.dev/)
 
 ## Notes
 

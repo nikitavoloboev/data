@@ -112,3 +112,4 @@
 - [OpenAI Translator](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [Duolingo Max, a learning experience powered by GPT-4 (2023)](https://blog.duolingo.com/duolingo-max/) ([HN](https://news.ycombinator.com/item?id=35154870))
 - [DeepL Box](https://github.com/susumuota/deeplbox) - Google Chrome extension to manage DeepL translation history.
+- [How much can Duolingo teach us? (2023)](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us) ([HN](https://news.ycombinator.com/item?id=35662260))
