@@ -319,3 +319,4 @@ It's also great at giving examples.
 - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages (2023)](https://txt.cohere.com/embedding-archives-wikipedia/) ([HN](https://news.ycombinator.com/item?id=35643959))
 - [Superpower ChatGPT](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension.
 - [Cheshire-Cat](https://github.com/pieroit/cheshire-cat) - Customizable AI architecture.
+- [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) - GPT-4. Fast. No daily limits. Special chat modes.
