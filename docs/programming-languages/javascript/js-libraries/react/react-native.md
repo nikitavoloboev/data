@@ -362,3 +362,4 @@ title: React Native
 - [react-native-webassembly](https://github.com/cawfree/react-native-webassembly) - Enables WebAssembly for React Native powered by C++ TurboModules and Wasm3.
 - [rn-mdx](https://github.com/danieldunderfelt/rn-mdx) - Show MDX content in React-Native. Expo compatible.
 - [React Native iAP](https://github.com/dooboolab-community/react-native-iap) - Module for In App Purchase.
+- [Structure and Interpretation of React Native (2023)](https://wingolog.org/archives/2023/04/21/structure-and-interpretation-of-react-native)

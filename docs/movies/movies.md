@@ -217,3 +217,4 @@ I try to review/rank a movie/series/game first thing after consuming the content
 - [What movie lines, with exact intonation, are burned into your brain?](https://twitter.com/amykaycannon/status/1644887305721872388)
 - [Awesome Movies](https://awesome-movies.life/) ([Tweet](https://twitter.com/karpathy/status/1647372603907280896?s=20))
 - [A gem from the 90’s that doesn’t get mentioned enough? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/12o61h8/a_gem_from_the_90s_that_doesnt_get_mentioned/)
+- [What's the saddest movie you've ever seen? (2023)](https://www.reddit.com/r/MovieSuggestions/comments/12vqf82/whats_the_saddest_movie_youve_ever_seen/)

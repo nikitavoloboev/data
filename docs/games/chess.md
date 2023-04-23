@@ -281,3 +281,4 @@ Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.
 - [How to Win at Chess: The Ultimate Guide for Beginners and Beyond by Levy Rozman](https://www.goodreads.com/book/show/125107160-how-to-win-at-chess)
 - [Chess analysis by Stockfish](https://analysis.sesse.net/)
 - [Antikythera](https://github.com/0hq/antikythera) - Parrallelized Chess engine written in Go.
+- [Irina Krush - YouTube](https://www.youtube.com/@irina_krush/videos)
