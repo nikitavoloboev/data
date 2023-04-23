@@ -14,6 +14,8 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 
 [Evolution of the Ethereum proof-of-stake consensus protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md) is nice read.
 
+[Optimism](https://github.com/refcell/optimism-rs) has nice code to read to better understand Ethereum.
+
 ## Notes
 
 - [The problem is that money (paper money/currency) is not the only thing that has value which human beings transfer among each other. We share music, art, poetry, equity in companies, ideas, code, etc. What Ethereum does is take the idea of "Digital trustless money transfer" and expands it to "Digital trustless value transfer"](https://news.ycombinator.com/item?id=25264694)
@@ -785,3 +787,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [ChiselGPT](https://github.com/max-taylor/Chisel-GPT) - AI-Boosted Solidity REPL.
 - [Magi](https://github.com/a16z/magi) - OP Stack rollup client written in Rust, designed to perform the same functionality as op-node.
 - [ZeroSeeker](https://github.com/darkforestry/zero-seeker) - Rust-based command-line utility that generates Ethereum contract addresses with a specified number of leading or total zero bytes.
+- [Optimism](https://github.com/refcell/optimism-rs) - Low-cost and lightning-fast Ethereum L2 blockchain.

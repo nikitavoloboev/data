@@ -104,3 +104,4 @@ Find Tokyo [beautiful](https://twitter.com/teemusphoto/status/160469679917617561
 - [Vlog Transcription & Japanese Translation Tool](https://github.com/craftzdog/vlog-translator)
 - [N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator.
 - [Tsurukame](https://github.com/davidsansome/tsurukame) - WaniKani app for iOS. It helps you learn Japanese Kanji.
+- [Japanese Defence Strategy & Rearmament - Japan's ambitious plans & lessons from Ukraine (2023)](https://www.youtube.com/watch?v=2BHnijL9xYc)

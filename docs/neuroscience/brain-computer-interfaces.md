@@ -70,3 +70,4 @@ title: Brain Computer Interfaces
 - [The future of brain–machine interfaces is optical (2023)](https://www.nature.com/articles/s41928-023-00926-y)
 - [High-resolution image reconstruction with latent diffusion models from human brain activity (2023)](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2) ([Code](https://github.com/yu-takagi/StableDiffusionReconstruction)) ([Tweet](https://twitter.com/blader/status/1631543565305405443)) ([HN](https://news.ycombinator.com/item?id=35012981))
 - [DIY Neurotech: Making BCI open-source thrusts brain-signal into a maker’s world (2023)](https://spectrum.ieee.org/neurotechnology-diy) ([HN](https://news.ycombinator.com/item?id=35629114))
+- [A controller-peripheral architecture and costly energy principle for learning (2023)](https://www.biorxiv.org/content/10.1101/2023.01.16.524194v1) ([Code](https://github.com/don-tpanic/brain_data))

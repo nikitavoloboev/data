@@ -1405,4 +1405,4 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [Setuptools plugin for Rust extensions](https://github.com/PyO3/setuptools-rust)
 - [Why not tell people to “simply” use pyenv, poetry or anaconda (2023)](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use) ([HN](https://news.ycombinator.com/item?id=35379008))
 - [pydoctor](https://github.com/twisted/pydoctor) - API documentation generator that works by static analysis.
-- [Rye](https://github.com/mitsuhiko/rye) - Installs and manages Python installations, manages pyproject.toml files, installs and uninstalls dependencies, manages virtualenvs behind the scenes.
+- [Rye](https://github.com/mitsuhiko/rye) - Installs and manages Python installations, manages pyproject.toml files, installs and uninstalls dependencies, manages virtualenvs behind the scenes. ([Should Rye Exist?](https://github.com/mitsuhiko/rye/discussions/6))

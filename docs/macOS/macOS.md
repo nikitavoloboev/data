@@ -323,4 +323,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [XNU Kernel Code](https://github.com/apple-oss-distributions/xnu) - Kernel that is part of the Darwin operating system for use in macOS and iOS operating systems.
 - [Remove animation on unhiding macOS dock](https://twitter.com/Gavmn/status/1633953059071234048)
 - [macOS Cursors](https://mac-cursors.netlify.app/) ([Code](https://github.com/daviddarnes/mac-cursors)) ([HN](https://news.ycombinator.com/item?id=35238906))
-- [Keyboard tricks from a macOS app dev (2023)](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
+- [Keyboard tricks from a macOS app dev (2023)](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev) ([HN](https://news.ycombinator.com/item?id=35678269))

@@ -4,6 +4,10 @@ title: Processing
 
 # [Processing](https://processing.org/)
 
+[Processing animations source code list](https://github.com/Bleuje/processing-animations-code) is a nice showcase to get started with processing.
+
+[Etienne Jacob](https://github.com/Bleuje) does amazing art.
+
 ## Links
 
 - [L-system renderer Processing](https://github.com/MaximSchoemaker/l_system_renderer_processing)
@@ -32,3 +36,4 @@ title: Processing
 - [Creative coding, making loops with Processing](https://bleuje.com/) ([HN](https://news.ycombinator.com/item?id=34556309))
 - [Making a first gif with Processing (2020)](https://bleuje.com/tutorial1/)
 - [Processing GPT](https://processing-gpt.vercel.app/) ([Code](https://github.com/msfeldstein/processing-gpt))
+- [Processing animations source code list](https://github.com/Bleuje/processing-animations-code)

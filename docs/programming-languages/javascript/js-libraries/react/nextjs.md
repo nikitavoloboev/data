@@ -445,3 +445,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Next Export Optimize Images](https://github.com/dc7290/next-export-optimize-images) - Optimize images at build time with Next.js.
 - [next-typed-connect](https://github.com/steelydylan/next-typed-connect) - Typed API Roots for Next.js using zod.
 - [next-safe-mutation](https://github.com/TheEdoRan/next-safe-mutation) - Typesafe mutation implementation for Next.js with RSC.
+- [Securing your Next.js 13 application (2023)](https://www.yagiz.co/securing-your-nextjs-13-application)

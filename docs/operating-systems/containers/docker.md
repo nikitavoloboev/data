@@ -4,6 +4,10 @@ title: Docker
 
 # [Docker](https://www.docker.com/)
 
+[Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles) is great read. Can also use [devenv](https://devenv.sh/containers/).
+
+The nice thing about using Nix to build Docker images is that [image contains literally only the dependencies of the app](https://twitter.com/mitchellh/status/1649502503745261568).
+
 [DockerSlim](https://github.com/docker-slim/docker-slim) is useful. Seems everyone is moving to [containerd](https://github.com/containerd/containerd) or [Colima](https://github.com/abiosoft/colima) now.
 
 Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432) for [Nix](../../package-managers/nix/nix.md) which can even [build Docker images](https://lobste.rs/s/ilgax7/use_flake_nix_not_dockerfile) if you need them.
@@ -305,3 +309,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Using compose files as a universal infrastructure interface (2023)](https://ergomake.dev/blog/docker-compose-as-a-universal-interface/)
 - [Zero-Downtime Deployments with Docker Compose (2023)](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose) ([HN](https://news.ycombinator.com/item?id=35658414))
 - [aquamarine](https://github.com/maxcountryman/aquamarine) - Demo of zero-downtime deploys with Docker Compose and Traefik.
+- [Using Nix with Dockerfiles (2023)](https://mitchellh.com/writing/nix-with-dockerfiles)

@@ -295,3 +295,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [We're building a browser when it's supposed to be impossible (2023)](https://awesomekling.substack.com/p/how-were-building-a-browser-when) ([HN](https://news.ycombinator.com/item?id=35521704)) ([Reddit](https://www.reddit.com/r/programming/comments/12ifkfl/how_were_building_a_browser_when_its_supposed_to/))
 - [Querying browser compat data with a LLM (2023)](https://paul.kinlan.me/querying-browser-compat-data-with-a-llm/)
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey) - Userscripts support for browsers. It works on browsers with WebExtensions support.
+- [go-webext](https://github.com/AdguardTeam/go-webext) - Automation for working with extension stores.
