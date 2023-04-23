@@ -92,3 +92,4 @@
 - [Image Codec Comparison (JXL vs. AVIF vs. WebP vs. JPG) (2023)](https://giannirosato.com/blog/post/image-comparison/)
 - [ZebraPack](https://github.com/glycerine/zebrapack) - Data description language and serialization format.
 - [capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript.
+- [Ron](https://github.com/ron-rs/ron) - Rusty Object Notation. ([HN](https://news.ycombinator.com/item?id=35674063))

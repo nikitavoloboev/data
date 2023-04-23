@@ -100,4 +100,4 @@ Still exploring different kinds of clothing styles. I currently mostly use [Bjö
 - [Lyst](https://www.lyst.com/)
 - [Express](https://www.express.com/) - Men's & Women's Clothing.
 - [Tezenis](https://www.tezenis.com/) - Collections of men and women's clothing and underwear.
-- [Befree](https://befree.ru/zhenskaya)
+- [Befree](https://befree.ru/)
