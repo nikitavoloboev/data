@@ -204,3 +204,4 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [goeland](https://github.com/slurdge/goeland) - RSS to email in Go.
 - [Deno RSS](https://github.com/MikaelPorttila/rss) - Deno module for deserializing RSS or ATOM XML feeds into typed objects.
 - [What's the right content-type for an atom feed http response?](https://play.vercel.ai/r/crOi1Gu)
+- [Feedbin](https://feedbin.com/) - Simple, fast and nice looking RSS reader. ([Code](https://github.com/feedbin/feedbin))

@@ -126,3 +126,4 @@
 - [SoftVC VITS Singing Voice Conversion Fork](https://github.com/voicepaw/so-vits-svc-fork)
 - [Kesha](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.
 - [Bark...but with the ability to use voice cloning on custom audio/text pairs](https://github.com/serp-ai/bark-with-voice-clone)
+- [SNAC: Speaker-normalized Affine Coupling Layer in Flow-based Architecture for Zero-Shot Multi-Speaker Text-to-Speech](https://github.com/hcy71o/SNAC)
