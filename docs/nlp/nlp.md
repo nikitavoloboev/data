@@ -1073,3 +1073,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Prompt engineering vs. blind prompting (2023)](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting) ([HN](https://news.ycombinator.com/item?id=35668387))
 - [CameLLM](https://github.com/CameLLM/CameLLM) - Run your favorite LLMs locally on macOS from Swift.
 - [Pretraining Language Models with Human Preferences (2023)](https://arxiv.org/abs/2302.08582) ([Code](https://github.com/tomekkorbak/pretraining-with-human-feedback))
+- [LocalAI](https://github.com/go-skynet/LocalAI) - OpenAI compatible API to run LLM models locally on consumer grade hardware. ([Reddit](https://www.reddit.com/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/))
+- [Reverse engineering of Google's Bard API](https://github.com/acheong08/Bard)

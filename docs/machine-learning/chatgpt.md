@@ -47,6 +47,10 @@ Many more be seen [here](https://github.com/f/awesome-chatgpt-prompts).
 
 It's also great at giving examples.
 
+## Notes
+
+- [Discovered a new way to learn ML. Just ask GPT-4 about the concept, and then have it code it in JS, which I can actually read](https://twitter.com/yacinemtb/status/1650178342547607552)
+
 ## Links
 
 - [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - Wrapper library around the ChatGPT and OpenAI HTTP API.
@@ -320,3 +324,4 @@ It's also great at giving examples.
 - [Superpower ChatGPT](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension.
 - [Cheshire-Cat](https://github.com/pieroit/cheshire-cat) - Customizable AI architecture.
 - [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) - GPT-4. Fast. No daily limits. Special chat modes.
+- [Awesome GPT](https://github.com/formulahendry/awesome-gpt)

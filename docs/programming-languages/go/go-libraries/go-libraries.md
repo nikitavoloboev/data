@@ -2147,6 +2147,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [bpm](https://github.com/benjojo/bpm) - Library and tool for dealing with beats per second detection.
 - [Marshmallow](https://github.com/PerimeterX/marshmallow) - Flexible and performant JSON unmarshalling in Go.
 - [just](https://github.com/kazhuravlev/just) - Collection of useful functions. Complete simple tasks faster.
+- [Outboxer](https://github.com/italolelis/outboxer) - Library that implements the outboxer pattern in go.
 
 ## Links
 
