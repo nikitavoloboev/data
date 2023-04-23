@@ -263,6 +263,7 @@ title: OCaml libraries
 - [Bitstring](https://github.com/xguerin/bitstring) - Bitstring matching for OCaml.
 - [Gen](https://github.com/c-cube/gen) - Simple, efficient iterators for OCaml.
 - [Format-doc](https://github.com/Octachron/format-doc) - Alternative interpreter for OCaml format strings.
+- [Distrproc](https://github.com/darrenldl/distrproc) - Erlang style process/actor model library in OCaml.
 
 ## Links
 
