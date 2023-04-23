@@ -143,3 +143,4 @@ title: Field-programmable gate array
 - [Pentimento: Data Remanence in Cloud FPGAs (2023)](https://arxiv.org/abs/2303.17881)
 - [Awesome FPGA Programming](https://github.com/emanueledelsozzo/awesome-fpga-programming)
 - [GCVideo](https://github.com/ikorb/gcvideo) - GameCube Digital AV converter.
+- [Demo projects for various Kintex FPGA boards](https://github.com/openXC7/demo-projects)

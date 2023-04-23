@@ -1123,3 +1123,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Building a GStreamer plugin in Rust with meson instead of cargo (2023)](https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/)
 - [DOOM maps to SVG to laser cutter (2023)](https://theor.xyz/doom-maps-laser-cut/)
 - [Data Oriented Parallel Value Interner (2023)](https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html) ([Lobsters](https://lobste.rs/s/z2psxx/data_oriented_parallel_value_interner))
+- [How Pydantic V2 leverages Rust's Superpowers (2023)](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)

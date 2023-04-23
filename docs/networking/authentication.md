@@ -310,3 +310,4 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [Feature flags and authorization abstract the same concept (2023)](https://ntietz.com/blog/feature-flags-and-authorization/)
 - [How Clerk uses JWTs (2023)](https://twitter.com/tweetsbycolin/status/1644137146503286786)
 - [Troubleshooting JWT validation](https://cloud.google.com/endpoints/docs/frameworks/java/troubleshoot-jwt)
+- [Ask HN: Why is WebAuthn so slow to take off? (2023)](https://news.ycombinator.com/item?id=35675567)

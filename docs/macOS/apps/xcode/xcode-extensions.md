@@ -11,3 +11,4 @@
 
 - [Awesome Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions)
 - [Developing Xcode Extensions. Tips and tricks (2021)](https://blog.artemnovichkov.com/developing-xcode-extensions-tips-and-tricks)
+- [Pineapple for Xcode](https://github.com/Dhamova/Pineapple-Xcode) - Open-source extension for Xcode that enhances development on Apple platforms with OpenAI's ChatGPT functionalities.
