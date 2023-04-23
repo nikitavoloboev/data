@@ -455,3 +455,5 @@ title: WebAssembly
 - [Handling strings in WASM without burning yourself](https://github.com/naver/lispe/wiki/6.18-Handling-strings-in-WASM-without-burning-yourself)
 - [wit-deps](https://github.com/bytecodealliance/wit-deps) - WIT dependency manager binary and Rust library, which manages your wit/deps.
 - [WebAssembly Components](https://wasm-components.netlify.app/) - High-level explanation of the low-level details of WebAssembly components. ([Code](https://github.com/rylev/component-book))
+- [WebAssembly WAT samples](https://github.com/eliben/wasm-wat-samples) - Sample WebAssembly Text programs. ([Article](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)) ([HN](https://news.ycombinator.com/item?id=35667650))
+- [WASI HTTP](https://github.com/WebAssembly/wasi-http) - Proposed WebAssembly System Interface API.

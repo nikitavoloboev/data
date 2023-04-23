@@ -546,3 +546,8 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-dev-home](https://github.com/juspay/nix-dev-home) - home-manager template providing useful tools & settings for Nix-based development.
 - [Baking Images with Nix for Robust Private Networks at Bowtie (2023)](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
 - [Building 15-year-old software with Nix (2023)](https://blinry.org/nix-time-travel/)
+- [Garnix: simple and fast CI (2023)](https://rubek.dev/posts/2023-01-24-garnix/)
+- [nix-flake-tests](https://github.com/antifuchs/nix-flake-tests) - Use lib.runTests in a nix flake.
+- [nixities](https://github.com/ereslibre/nixities) - Nix flakes for many purposes.
+- [nix-modulate](https://github.com/rvolosatovs/nix-modulate) - Share nix modules across NixOS, nix-darwin and home-manager.
+- [nix-log](https://github.com/rvolosatovs/nix-log) - Logging for nix.

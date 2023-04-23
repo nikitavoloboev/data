@@ -34,3 +34,4 @@
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Custom Resolutions, XDR/HDR Extra Brightness, Dummy Displays, Brightness Adjustment, Picture in Picture, Display and EDID overrides + more.
 - [Why I stopped using an external monitor (2023)](https://bt.ht/monitor/) ([HN](https://news.ycombinator.com/item?id=35015277))
 - [Ask Wirecutter: Can you recommend a not-smart TV for me? (2023)](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/) ([HN](https://news.ycombinator.com/item?id=35484594))
+- [Samsung Frame Art Mode](https://github.com/ow/samsung-frame-art) - Makes it easy to fling a folder of images onto the Samsung Frame TV.

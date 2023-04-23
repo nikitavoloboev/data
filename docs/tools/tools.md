@@ -853,3 +853,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Chalk.ist](https://chalk.ist/) - Create beautiful images of your source code. ([Code](https://github.com/Idered/chalk.ist))
 - [The Magic Highlighter (2023)](https://themagichighlighter.com/blog/introducing-the-magic-highlighter/)
 - [SSDiff](https://github.com/BuilderIO/SSDiff) - Open-source tool for pixel-perfect website migrations.
+- [PyASTrX](https://github.com/pyastrx/pyastrx) - Simple, easy-to-use, and extensible framework for code quality analysis, refactoring and codebase analysis.

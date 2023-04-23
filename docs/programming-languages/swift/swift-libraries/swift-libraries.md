@@ -1492,6 +1492,7 @@
 - [URLQueryItemCoder](https://github.com/kylehughes/URLQueryItemCoder) - Encoder & decoder for working with Codable types as URLQueryItems.
 - [swift-tca-loadable](https://github.com/m-housh/swift-tca-loadable) - Swift package for handling loadable items using The Composable Architecture.
 - [Swift CLFormat](https://github.com/objecthub/swift-clformat) - Implementation of Common Lisp's `format` procedure from scratch in Swift.
+- [JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC.
 
 ## Other (not lib)
 

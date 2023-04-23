@@ -309,4 +309,4 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Using compose files as a universal infrastructure interface (2023)](https://ergomake.dev/blog/docker-compose-as-a-universal-interface/)
 - [Zero-Downtime Deployments with Docker Compose (2023)](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose) ([HN](https://news.ycombinator.com/item?id=35658414))
 - [aquamarine](https://github.com/maxcountryman/aquamarine) - Demo of zero-downtime deploys with Docker Compose and Traefik.
-- [Using Nix with Dockerfiles (2023)](https://mitchellh.com/writing/nix-with-dockerfiles)
+- [Using Nix with Dockerfiles (2023)](https://mitchellh.com/writing/nix-with-dockerfiles) ([Lobsters](https://lobste.rs/s/w0hukh/using_nix_with_dockerfiles))

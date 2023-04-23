@@ -604,7 +604,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [How does Jax allocate memory on a TPU? An interactive C++ walkthrough](https://gist.github.com/shawwn/0e524d4a7a5d8fb152a86616559cc02a) ([HN](https://news.ycombinator.com/item?id=29128998))
 - [Skyformer: Remodel Self-Attention with Gaussian Kernel and Nyström Method (2021)](https://arxiv.org/abs/2111.00035) ([Code](https://github.com/pkuzengqi/Skyformer))
 - [Introduction to Deep Learning (2021)](https://sebastianraschka.com/blog/2021/dl-course.html) - 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers.
-- [Gradients are Not All You Need (2021)](https://arxiv.org/abs/2111.05803) ([Tweet](https://twitter.com/Luke_Metz/status/1458661090326286336))
+- [Gradients are Not All You Need (2021)](https://arxiv.org/abs/2111.05803) ([Tweet](https://twitter.com/Luke_Metz/status/1458661090326286336)) ([HN](https://news.ycombinator.com/item?id=35677776))
 - [FC2T2: The Fast Continuous Convolutional Taylor Transform with Applications in Vision and Graphics (2021)](https://arxiv.org/abs/2111.00110) ([Summary](https://www.youtube.com/watch?v=e6gXoMA5te4))
 - [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modelingvon (2018)](https://arxiv.org/abs/1803.01271) ([Code](https://github.com/locuslab/TCN))
 - [Model compression via distillation and quantization (2019)](https://arxiv.org/abs/1802.05668) ([Code](https://github.com/antspy/quantized_distillation))

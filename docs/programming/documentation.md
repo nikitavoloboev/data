@@ -228,3 +228,4 @@ Love the approach of writing RFCs before any big architectural decisions are mad
 - [Pyro](https://github.com/lino-levan/pyro) - Static documentation site generator for Deno.
 - [Next.js OpenAI Doc Search Template](https://github.com/supabase-community/nextjs-openai-doc-search)
 - [Release Notes Generator](https://github.com/typefully/auto-release-notes) - Uses the Linear API and the OpenAI GPT language model to create a nicely formatted Markdown file.
+- [EnhanceDocs](https://github.com/enhancedocs/enhancedocs) - AI-powered search engine for your project documentation.

@@ -323,3 +323,4 @@ title: Spatial analysis
 - [check-geojson](https://github.com/placemark/check-geojson) - Checker for the geojson format. goes beyond a schema, checking semantics and producing character-level warnings.
 - [CartoSVG](https://cartosvg.com/) - Design gorgeous interactive maps.
 - [maplab](https://github.com/ethz-asl/maplab) - Modular and Multi-Modal Mapping Framework.
+- [Vector Remap Language (VRL)](https://github.com/vectordotdev/vrl) - VRL is a language for transforming, routing, and filtering observability data (logs and metrics).

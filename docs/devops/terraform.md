@@ -227,3 +227,5 @@ title: Terraform
 - [Terrars](https://github.com/andrewbaxter/terrars) - Tool for building Terraform stacks in Rust.
 - [OpenAPI Terraform Provider](https://github.com/dikhan/terraform-provider-openapi) - Minimize as much as possible the efforts needed from service providers to create and maintain custom terraform providers.
 - [Digger](https://github.com/diggerhq/digger) - Run Terraform plan / apply in your CI.
+- [OTF](https://github.com/leg100/otf) - Open source alternative to Terraform enterprise.
+- [Thoenix](https://github.com/justinrubek/thoenix) - Manage terraform configurations using terranix.

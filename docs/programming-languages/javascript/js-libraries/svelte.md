@@ -385,3 +385,4 @@ title: Svelte
 - [Svelte Stepper](https://github.com/efstajas/svelte-stepper) - Library for building delightfully animated stepped flows with Svelte.
 - [Sveltris](https://github.com/Mokshit06/sveltris) - Piece together any framework with Svelte.
 - [Svelte Email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte.
+- [Svelte Scoped UnoCSS](https://github.com/jacob-8/svelte-scoped-uno) - Use UnoCSS utility styles in a modular fashion in Svelte, with styles being stored only where needed.

@@ -122,3 +122,4 @@ title: Godot
 - [SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - Godot bindings for Swift.
 - [BurstParticles2D](https://github.com/uzkbwza/BurstParticles2D) - Cool one-shot particle system for Godot.
 - [godot-ply](https://github.com/jarneson/godot-ply) - Godot plugin for in-editor box modelling for gray boxing or prototyping 3d levels.
+- [Godot-Dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation. ([HN](https://news.ycombinator.com/item?id=35681357))
