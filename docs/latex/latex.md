@@ -180,3 +180,4 @@ I don't write LaTeX as much now. [Typst](https://github.com/typst/typst) or [SIL
 - [Typst LSP + VSCode extension](https://github.com/nvarner/typst-lsp)
 - [Awesome Typst](https://github.com/qjcg/awesome-typst)
 - [Typst Templates](https://github.com/typst/templates)
+- [TreeSitter parser for the Typst File Format](https://github.com/SeniorMars/tree-sitter-typst)

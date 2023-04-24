@@ -2817,6 +2817,7 @@
 - [webpki](https://github.com/rustls/webpki) - WebPKI X.509 Certificate Validation in Rust.
 - [Sucre](https://github.com/zicklag/sucre) - Experimental Symmetric Interaction Combinator Runtime.
 - [Struson](https://github.com/Marcono1234/struson) - Streaming JSON reader and writer written in Rust.
+- [atomic-file](https://github.com/DavidVorick/atomic-file) - Rust crate for working with ACID-safe one-shot files.
 
 ## Cargo Plugins
 
