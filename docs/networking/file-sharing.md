@@ -144,7 +144,7 @@
 - [sendme](https://github.com/n0-computer/sendme) - Send data over the internet.
 - [LocalSend](https://github.com/localsend/localsend) - Open source cross-platform alternative to AirDrop.
 - [sharrr](https://www.sharrr.com/) - End-to-end encrypted file transfer. ([Code](https://github.com/stophecom/sharrr-svelte))
-- [Enkra Send](https://github.com/enkra/enkra-send) - Secure File Transfer with End-to-End Encryption.
+- [Enkra Send](https://send.enkra.io/#/) - Secure File Transfer with End-to-End Encryption. ([Code](https://github.com/enkra/enkra-send))
 - [static](https://github.com/antfu/static) - Host for static files.
 - [copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, zeroconf, media indexer, thumbnails++ all in one file, no deps.
 - [rustus](https://github.com/s3rius/rustus) - Production-ready TUS protocol implementation written in Rust.

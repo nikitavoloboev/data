@@ -346,3 +346,4 @@
 - [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) - Tools for understanding how transformer predictions are built layer-by-layer.
 - [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html) ([HN](https://news.ycombinator.com/item?id=35459031))
 - [Understanding LSTM Networks (2015)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Neural Network library from scratch in Rust](https://github.com/AnicetNgrt/neural_networks_rust) ([Reddit](https://www.reddit.com/r/rust/comments/12wpx84/i_made_a_neural_network_library_from_scratch_in/))
