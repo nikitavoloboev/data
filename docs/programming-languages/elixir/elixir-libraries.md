@@ -305,6 +305,8 @@
 - [Openai.ex](https://github.com/mgallo/openai.ex) - OpenAI API Wrapper written in Elixir.
 - [Membrane Multimedia Framework](https://github.com/membraneframework/membrane_core)
 - [schematic](https://github.com/mhanberg/schematic) - Library for data specification, validation, and transformation.
+- [Enumancer](https://github.com/sabiwara/enumancer) - Elixir macros to effortlessly define highly optimized Enum pipelines.
+- [Iter](https://github.com/sabiwara/iter) - Fast compile-time optimized alternative to the Enum and Stream modules.
 
 ## Links
 

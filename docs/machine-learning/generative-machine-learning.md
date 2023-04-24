@@ -366,3 +366,5 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [How I Used Stable Diffusion and Dreambooth to Create A Painted Portrait of My Dog (2023)](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 - [Stable Diffusion - Automatic](https://github.com/vladmandic/automatic) - Opinionated fork/implementation of Stable Diffusion.
 - [Stable Diffusion RPC](https://github.com/GayPizzaSpecifications/stable-diffusion-rpc) - gRPC server for a Stable Diffusion worker on Apple Platforms.
+- [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation (2023)](https://arxiv.org/abs/2304.05977) ([Code](https://github.com/THUDM/ImageReward))
+- [Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model](https://github.com/declare-lab/tango)

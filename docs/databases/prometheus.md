@@ -113,3 +113,4 @@ title: Prometheus
 - [AlertManager Prometheus GitHub Receiver](https://github.com/m-lab/alertmanager-github-receiver) - Prometheus Alertmanager webhook receiver that creates GitHub issues from alerts.
 - [How to use Prometheus for web application monitoring (2023)](https://jorzel.github.io/how-to-use-prometheus-for-web-application-monitoring/)
 - [An adventure with SLOs, generic Prometheus alerting rules, and complex PromQL queries (2023)](https://fiberplane.com/blog/an-adventure-with-slos-generic-prometheus-alerting-rules-and-complex-promql-queries)
+- [PromQLsmith](https://github.com/cortexproject/promqlsmith) - Random query generator for PromQL.

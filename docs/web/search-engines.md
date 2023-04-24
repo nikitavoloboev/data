@@ -352,3 +352,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [Voy](https://github.com/tantaraio/voy) - WASM vector similarity search written in Rust.
 - [Qdrant Rust](https://github.com/qdrant/rust-client) - Rust client for Qdrant vector search engine.
 - [OpenGrok](https://github.com/oracle/opengrok) - Fast and usable source code search and cross reference engine, written in Java.
+- [Semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search.

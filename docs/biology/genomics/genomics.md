@@ -262,3 +262,4 @@ title: Genomics
 - [The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics (2023)](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v2) ([Code](https://github.com/instadeepai/nucleotide-transformer))
 - [Plotsr](https://github.com/schneebergerlab/plotsr) - Tool to plot synteny and structural rearrangements between genomes.
 - [GraphBin](https://github.com/metagentools/GraphBin) - Refined binning of metagenomic contigs using assembly graphs.
+- [Grass](https://github.com/38/grass) - Genomics data manipulation and analysis system.

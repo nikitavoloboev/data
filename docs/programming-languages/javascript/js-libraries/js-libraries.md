@@ -1144,6 +1144,7 @@
 - [highlightjs-copy](https://github.com/arronhunt/highlightjs-copy) - Simple, accessible highlightjs plugin to add a copy button to your code blocks.
 - [Licia](https://github.com/liriliri/licia) - Useful utility collection with zero dependencies.
 - [algovivo](https://github.com/juniorrojas/algovivo) - JavaScript + WASM implementation of an energy-based formulation for soft-bodied virtual creatures.
+- [PlaceKit Autocomplete JS Library](https://github.com/placekit/autocomplete-js)
 
 ## Links
 

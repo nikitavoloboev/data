@@ -257,3 +257,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [Curated list of command-line utilities written in Rust](https://github.com/sts10/rust-command-line-utilities)
 - [gat](https://github.com/koki-develop/gat) - cat alternative written in Go.
 - [sttr](https://github.com/abhimanyu003/sttr) - Cross-platform, cli app to perform various operations on string.
+- [demo](https://github.com/saschagrunert/demo) - Framework for performing live pre-recorded command line demos.

@@ -169,3 +169,4 @@ title: Three.js
 - [Three.js Realism Effects](https://github.com/0beqz/realism-effects) - SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism.
 - [IFC Loader for Three.js](https://github.com/IFCjs/web-ifc-three)
 - [react-three-offscreen](https://github.com/pmndrs/react-three-offscreen) - Offscreen worker canvas for react-three-fiber.
+- [ThreeJS Sketches | Isaac Mason](https://sketches.isaacmason.com/) ([Code](https://github.com/isaac-mason/sketches))

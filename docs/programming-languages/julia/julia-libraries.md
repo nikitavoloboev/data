@@ -255,6 +255,7 @@
 - [QRupdate](https://github.com/mpf/QRupdate.jl) - Column and row updates to "Q-less" QR decomposition, including stable least-squares solves.
 - [SummationByPartsOperators.jl](https://github.com/ranocha/SummationByPartsOperators.jl) - Provably stable discretization techniques with mimetic properties.
 - [TransformVariables.jl](https://github.com/tpapp/TransformVariables.jl) - Transformations to contrained variables from ℝⁿ.
+- [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) - Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.
 
 ## NLP
 

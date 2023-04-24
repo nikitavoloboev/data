@@ -104,3 +104,4 @@
 - [PDF 2.0 specification](https://www.pdfa.org/sponsored-standards/) ([Reddit](https://www.reddit.com/r/programming/comments/12cxm4r/pdf_20_specification_now_freely_available/))
 - [Maroto](https://github.com/johnfercher/maroto) - Maroto way to create PDFs.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Chat with the contents of your PDF file by using GPT capabilities.

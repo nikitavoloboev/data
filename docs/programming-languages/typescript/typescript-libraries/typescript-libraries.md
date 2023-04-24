@@ -62,6 +62,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 - [cheetah](https://github.com/azurystudio/cheetah) - Blazing fast framework for the modern web.
 - [Zod Fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod.
+- [openapi-fetch](https://github.com/drwpow/openapi-fetch) - Ultra-fast fetching for TypeScript generated automatically from your OpenAPI schema.
 - [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs. ([Web](https://trpc.io/)) ([Tutorial](https://www.youtube.com/watch?v=Lam0cYOEst8)) ([HN](https://news.ycombinator.com/item?id=31285827))
 - [pretty-cache-header](https://github.com/jjenzz/pretty-cache-header) - Cache-control header utility that parses human readable time strings into seconds.
 - [Fastly/HTTP-Compute-JS](https://github.com/fastly/http-compute-js) - Library aiming to provide Node.js-compatible request and response objects.
