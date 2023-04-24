@@ -476,3 +476,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Stop Using Custom Web Fonts (2023)](https://bt.ht/webfonts/) ([Lobsters](https://lobste.rs/s/vktlcr/stop_using_custom_web_fonts))
 - [Modern Font Stacks](https://modernfontstacks.com/) - System font stack CSS organized by typeface classification for every modern OS. ([Code](https://github.com/system-fonts/modern-font-stacks)) ([HN](https://news.ycombinator.com/item?id=35150345)) ([Lobsters](https://lobste.rs/s/tdiloe/modern_font_stacks))
 - [Free Fonts For Interface Designers (2023)](https://www.smashingmagazine.com/2023/03/free-fonts-interface-designers/)
+- [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)

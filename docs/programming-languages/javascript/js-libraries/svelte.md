@@ -377,7 +377,7 @@ title: Svelte
 - [Svelte-Asyncable](https://github.com/sveltetools/svelte-asyncable) - Tiny, declarative, optimistic, async store.
 - [What's new in Svelte: April 2023](https://svelte.substack.com/p/whats-new-in-svelte-april-2023)
 - [Svelte JS Newsletter](https://svelte.substack.com/)
-- [Radix Svelte](https://github.com/TGlide/radix-svelte)
+- [Radix Svelte](https://github.com/TGlide/radix-svelte) ([Web](https://www.radix-svelte.com/)) ([Reddit](https://www.reddit.com/r/sveltejs/comments/12xq6zc/im_building_radix_svelte_an_unstyled_ui_component/))
 - [Make your website editable](https://editable.website/) - SvelteKit template for building CMS-free editable websites. ([HN](https://news.ycombinator.com/item?id=35456083)) ([Code](https://github.com/michael/editable-website))
 - [Svelte Canvas](https://github.com/dnass/svelte-canvas) - Reactive canvas rendering with Svelte.
 - [SvelteLab](https://www.sveltelab.dev/) - Supercharged REPL for Svelte. ([Code](https://github.com/SvelteLab/SvelteLab))

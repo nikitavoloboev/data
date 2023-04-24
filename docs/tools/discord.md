@@ -227,3 +227,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [DiscordLookup](https://discordlookup.com/) - Snowflake Decoder, Guild List with Stats, Invite Info and more. ([Code](https://github.com/discordlookup/website))
 - [Keycard](https://github.com/astridlol/Keycard) - Open source Discord verification system.
 - [ArmCord](https://github.com/ArmCord/ArmCord) - Custom client designed to enhance your Discord experience while keeping everything lightweight.
+- [KCD Community on Discord](https://kentcdodds.com/discord)

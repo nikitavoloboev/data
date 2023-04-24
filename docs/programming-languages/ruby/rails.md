@@ -145,7 +145,7 @@ title: Rails
 - [Rails-docker-box, or developing Rails within a dockerized environment (2022)](https://dev.to/palkan_tula/rails-docker-box-or-developing-rails-within-a-dockerized-environment-4min)
 - [Intro to Thread-Safety in Ruby on Rails (2022)](https://pawelurbanek.com/rails-thread-safety)
 - [User notifications with Rails, Noticed, and Hotwire (2022)](https://www.colby.so/posts/user-notifications-with-rails-noticed-and-hotwire)
-- [Bullet Train Rails Template](https://bullettrain.co/) ([Code](https://github.com/bullet-train-co/bullet_train)) ([Twitter](https://twitter.com/bullettrainco))
+- [Bullet Train Rails Template](https://bullettrain.co/) ([Code](https://github.com/bullet-train-co/bullet_train)) ([Twitter](https://twitter.com/bullettrainco)) ([HN](https://news.ycombinator.com/item?id=35687157))
 - [Advanced topics in Rails (2022)](https://www.reddit.com/r/rails/comments/tok7of/what_would_you_consider_advanced_topics_in_rails/)
 - [Semantic Logger](https://github.com/reidmorrison/semantic_logger) - Feature rich logging framework, and replacement for existing Ruby & Rails loggers.
 - [Responders](https://github.com/heartcombo/responders) - Set of Rails responders to dry up your application.

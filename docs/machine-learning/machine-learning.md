@@ -1117,3 +1117,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [EleutherAI Second Retrospective: The long version (2023)](https://blog.eleuther.ai/year-two-full/)
 - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
 - [Learning to Substitute Ingredients in Recipes (2023)](https://arxiv.org/abs/2302.07960) ([Code](https://github.com/facebookresearch/gismo))
+- [Mass Editing Memory in a Transformer (2022)](https://memit.baulab.info/)

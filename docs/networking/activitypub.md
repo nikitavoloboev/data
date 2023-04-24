@@ -91,3 +91,4 @@ title: ActivityPub
 - [Kitsune](https://github.com/kitsune-soc/kitsune) - ActivityPub-federated microblogging. ([Web](https://joinkitsune.org/))
 - [MastoFeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge.
 - [Activity.next](https://github.com/llun/activities.next) - Next.JS ActivityPub server.
+- [I Wrote an ActivityPub Server in OCaml: Lessons Learnt, Weekends Lost (2023)](https://gopiandcode.uk/logs/log-writing-activitypub.html) ([HN](https://news.ycombinator.com/item?id=35675159))

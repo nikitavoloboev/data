@@ -688,3 +688,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Modeling Git Internals in Alloy, Part 2: Commits and Tags (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 - [zbg](https://github.com/chshersh/zbg) - CLI tool for using git efficiently.
 - [Git Tools](https://github.com/kazhuravlev/git-tools) - Useful set of tools which helps to manage git tags.
+- [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)

@@ -191,3 +191,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Hunter2](https://search.flockingbird.social/) - Job hunt bot that indexes jobs and candidates from the fediverse. ([Code](https://github.com/Flockingbird/hunter2))
 - [A forty-year career (2023)](https://lethain.com/forty-year-career/)
 - [Effective Immediately: A central hub for people who've been recently laid off (2020)](https://github.com/Effective-Immediately/effective-immediately) ([HN](https://news.ycombinator.com/item?id=35670646))
+- [Layoff Runbook](https://github.com/derwiki/layoff-runbook) ([HN](https://news.ycombinator.com/item?id=35693471))

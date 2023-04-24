@@ -50,3 +50,4 @@ title: Chrome DevTools
 - [basic-devtools](https://github.com/WebReflection/basic-devtools) - Exports `$`, `$$`, and `$x` utilities as described in Chrome Console Utilities API reference.
 - [Chii](https://github.com/liriliri/chii) - Remote debugging tool like weinre, replacing web inspector with the latest chrome devtools front end.
 - [devtools-perf-features](https://github.com/iamakulov/devtools-perf-features) - Chrome DevTools’ little known features for perf debugging.
+- [Chrome DevTools > Lighthouse visualizes what's in the JavaScript you ship with a Treemap](https://twitter.com/addyosmani/status/1650232506682331136)
