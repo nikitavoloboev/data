@@ -14,6 +14,8 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 
 [FFmpeg - Ultimate Guide](https://img.ly/blog/ultimate-guide-to-ffmpeg/) is nice read.
 
+[Lite YouTube Embed](https://github.com/paulirish/lite-youtube-embed) is nice for embedding YouTube videos on websites.
+
 ## Inspiring editing
 
 - [Smooth iPhone transition](https://twitter.com/juanbuis/status/16310076948983193720)

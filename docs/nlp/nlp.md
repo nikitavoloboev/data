@@ -1076,3 +1076,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LocalAI](https://github.com/go-skynet/LocalAI) - OpenAI compatible API to run LLM models locally on consumer grade hardware. ([Reddit](https://www.reddit.com/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/))
 - [Reverse engineering of Google's Bard API](https://github.com/acheong08/Bard)
 - [How many decisions and pre-processing steps you need to train large language models (LLMs) such as LLaMA (2023)](https://twitter.com/tarantulae/status/1650170087708454913?s=52&t=Jy0j2KsCc64ttWDdWkAdvw)
+- [gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - Llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
+- [Micro Agent](https://github.com/pHaeusler/micro-agent) - Tiny implementation of an autonomous agent powered by LLMs (OpenAI GPT-4).
+- [spacy-huggingface-pipelines](https://github.com/explosion/spacy-huggingface-pipelines) - Use pretrained transformer models for text and token classification.
+- [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - Collection of papers and resources related to Large Language Models.

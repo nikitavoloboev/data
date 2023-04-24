@@ -601,3 +601,4 @@
 - [Extracting the Essential Simplicity of the Internet (2023)](https://cacm.acm.org/magazines/2023/2/268956-extracting-the-essential-simplicity-of-the-internet/fulltext)
 - [Holo](https://github.com/rwestphal/holo) - Suite of routing protocols designed to support high-scale and automation-driven networks.
 - [Burrow](https://github.com/hackclub/burrow) - Tool for burrowing through firewalls.
+- [freno](https://github.com/github/freno) - Cooperative, highly available throttler service.

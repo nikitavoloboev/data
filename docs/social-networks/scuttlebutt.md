@@ -31,3 +31,4 @@ title: Scuttlebutt
 - [ssb-archive feature proposal](https://github.com/gpicron/ssb-archive)
 - [HN: Secure Scuttlebutt (2023)](https://news.ycombinator.com/item?id=34480864)
 - [Secure Scuttlebutt Implementation Protocols (SIPs)](https://github.com/ssbc/sips)
+- [Publications related to Secure-Scuttlebutt and similar technologies](https://github.com/cn-uofbasel/ssb-publications)

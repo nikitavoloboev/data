@@ -164,6 +164,7 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [HTML5 Text Editor](https://github.com/GoogleChromeLabs/text-editor) - Text editor build on the Native File System APIs.
 - [Wideboard](https://github.com/aappleby/Wideboard) - Text editor experiment.
 - [monaco-editor/loader](https://github.com/suren-atoyan/monaco-loader) - Utility to easy setup monaco-editor into your browser.
+- [canvas-editor](https://github.com/Hufe921/canvas-editor) - Rich text editor by canvas/svg.
 
 ## Notes
 
