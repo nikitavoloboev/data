@@ -4,7 +4,7 @@
 
 [Transformer Neural Networks](https://www.youtube.com/watch?v=XSSTuhyAmnI) are useful to understand. [RASPy](https://github.com/srush/raspy) is a nice tool.
 
-[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) is great read.
+[Transformers from Scratch](https://e2eml.school/transformers.html) & [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) are great reads.
 
 ## Notes
 
@@ -347,3 +347,4 @@
 - [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html) ([HN](https://news.ycombinator.com/item?id=35459031))
 - [Understanding LSTM Networks (2015)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Neural Network library from scratch in Rust](https://github.com/AnicetNgrt/neural_networks_rust) ([Reddit](https://www.reddit.com/r/rust/comments/12wpx84/i_made_a_neural_network_library_from_scratch_in/))
+- [Scaling Transformer to 1M tokens and beyond with RMT (2023)](https://arxiv.org/abs/2304.11062) ([HN](https://news.ycombinator.com/item?id=35682424))

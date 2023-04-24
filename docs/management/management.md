@@ -256,3 +256,4 @@ I go over how I personally approach solving individual tasks [here](../research/
 - [Ask HN: Strategies for working with engineers that are too smart? (2023)](https://news.ycombinator.com/item?id=34350446)
 - [Ask HN: What companies have publicly available handbooks? (2023)](https://news.ycombinator.com/item?id=34959242)
 - [Cal.com Handbook](https://handbook.cal.com/)
+- [Some mistakes I made as a new manager (2023)](https://www.benkuhn.net/newmgr/) ([HN](https://news.ycombinator.com/item?id=35681322))

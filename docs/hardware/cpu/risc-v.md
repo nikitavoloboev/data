@@ -226,3 +226,4 @@ title: RISC-V
 - [What's new for RISC-V in LLVM 16 (2023)](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader (2023)](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
 - [Nelo](https://github.com/Xe/nelo) - Xe's RISCV kernel/OS for learning RISCV.
+- [RISC on a Chip: David Patterson and Berkeley RISC-I (2023)](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and) ([HN](https://news.ycombinator.com/item?id=35682331))
