@@ -4,7 +4,7 @@ title: Grafbase
 
 # [Grafbase](https://grafbase.com/)
 
-Using it in [LA](https://github.com/learn-anything/learn-anything/).
+Using it in [KusKus](../../ideas/kuskus.md) and love it.
 
 ## Links
 
@@ -12,3 +12,4 @@ Using it in [LA](https://github.com/learn-anything/learn-anything/).
 - [Grafbase Examples](https://github.com/grafbase/examples) - Integrate your favorite framework with Grafbase.
 - [Chatbase](https://github.com/notrab/chatbase) - Real time chat using GraphQL Live Queries, Next.js and NextAuth.js.
 - [Edge Resolvers – Grafbase (2023)](https://grafbase.com/changelog/edge-resolvers)
+- [Generate TypeScript types for your GraphQL operations](https://grafbase.com/guides/generate-typescript-types-for-your-graphql-operations)

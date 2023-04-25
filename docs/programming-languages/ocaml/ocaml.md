@@ -174,3 +174,4 @@ title: OCaml
 - [Inside OCaml](https://github.com/NickBarnes/inside-ocaml) - Documentation of the OCaml implementation.
 - [Lowcaml](https://github.com/copy/lowcaml) - Experimental OCaml-to-C compiler for type-safe access to SIMD.
 - [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)
+- [My thoughts on OCaml (2023)](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html) ([HN](https://news.ycombinator.com/item?id=35699697))

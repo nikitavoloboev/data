@@ -187,7 +187,7 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Women in Generative Art Twitter List](https://twitter.com/i/lists/1458840272046071825)
 - [Generative Art Using Neural Visual Grammars and Dual Encoders](https://github.com/deepmind/arnheim)
 - [GenArt](https://github.com/gengeomergence/GenArt) - Various Sketches written in Python Language for Processing.
-- [thi.ng](https://thi.ng/) - Polyglot computational design tools (TypeScript, Clojure, ClojureScript, C). ([GitHub](https://github.com/thi-ng))
+- [thi.ng](https://thi.ng/) - Polyglot computational design tools (TypeScript, Clojure, ClojureScript, C). ([GitHub](https://github.com/thi-ng)) ([Discord](https://discord.com/invite/JhYcmBw))
 - [Generative Deep Learning Book (2019)](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)
 - [Nannou/Rust tutorial based on Schotter by Georg Nees](https://github.com/sidwellr/schotter)
 - [Escher-like Spiral Tilings (2019)](https://isohedral.ca/escher-like-spiral-tilings/)
