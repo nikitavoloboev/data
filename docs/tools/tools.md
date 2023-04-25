@@ -854,3 +854,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [The Magic Highlighter (2023)](https://themagichighlighter.com/blog/introducing-the-magic-highlighter/)
 - [SSDiff](https://github.com/BuilderIO/SSDiff) - Open-source tool for pixel-perfect website migrations.
 - [PyASTrX](https://github.com/pyastrx/pyastrx) - Simple, easy-to-use, and extensible framework for code quality analysis, refactoring and codebase analysis.
+- [Opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git.

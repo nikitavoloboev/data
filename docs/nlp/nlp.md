@@ -1084,3 +1084,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Anthropic TypeScript SDK](https://github.com/anthropics/anthropic-sdk-typescript)
 - [Recurrent Memory Transformer (2022)](https://arxiv.org/abs/2207.06881) ([Code](https://github.com/lucidrains/recurrent-memory-transformer-pytorch))
 - [Dataless Knowledge Fusion by Merging Weights of Language Models (2023)](https://openreview.net/forum?id=FCnohuR6AnM) ([Code](https://github.com/bloomberg/dataless-model-merging))
+- [PotatoGPT](https://github.com/newhouseb/potatogpt) - Pure Typescript, dependency free, ridiculously slow implementation of GPT2 for educational purposes.
+- [Aria](https://github.com/lifan0127/ai-research-assistant) - AI Research Assistant Powered by Large Language Models.
+- [igoGPT](https://github.com/igolaizola/igogpt) - Tool inspired by AutoGPT implemented in Go.

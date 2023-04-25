@@ -369,3 +369,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation (2023)](https://arxiv.org/abs/2304.05977) ([Code](https://github.com/THUDM/ImageReward))
 - [Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model](https://github.com/declare-lab/tango)
 - [What I learned about fine-tuning stable diffusion](https://github.com/harrywang/finetune-sd)
+- [bulkai](https://github.com/igolaizola/bulkai) - Tool to generate AI images in bulk.

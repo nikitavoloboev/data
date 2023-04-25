@@ -445,3 +445,4 @@ Want to study [Dexterity](https://github.com/solana-labs/dexterity) code for how
 - [Grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [ink! Playground](https://github.com/paritytech/ink-playground) - Browser Based Playground for editing, sharing & compiling ink! Smart Contracts.
 - [thirdweb SDK for Browser, Node and Mobile apps](https://github.com/thirdweb-dev/js)
+- [indexed.xyz](https://www.indexed.xyz/#) - Crypto assets. Open and decoded. ([Docs](https://github.com/indexed-xyz/docs))

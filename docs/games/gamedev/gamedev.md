@@ -343,3 +343,4 @@
 - [theseus](https://github.com/modrinth/theseus) - Game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
 - [How to make good small games (2023)](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html) ([HN](https://news.ycombinator.com/item?id=35625543))
 - [Simple Pathtracing (2012)](https://iquilezles.org/articles/simplepathtracing/) ([HN](https://news.ycombinator.com/item?id=35660556))
+- [Where do you start with your blank canvas? (2023)](https://www.reddit.com/r/gamedev/comments/12xh3ny/where_do_you_start_with_your_blank_canvas/)

@@ -1246,3 +1246,4 @@
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields (2023)](https://arxiv.org/abs/2304.06706) ([Code](https://github.com/SuLvXiangXin/zipnerf-pytorch))
 - [Mask-Free Video Instance Segmentation (2023)](https://arxiv.org/abs/2303.15904) ([Code](https://github.com/SysCV/MaskFreeVIS))
 - [Fine-tuned CLIP models are efficient video learners (2023)](https://github.com/muzairkhattak/ViFi-CLIP)
+- [Track-Anything](https://github.com/gaomingqi/Track-Anything) - Flexible and interactive tool for video object tracking and segmentation, based on Segment Anything and XMem.

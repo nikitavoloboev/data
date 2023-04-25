@@ -602,3 +602,4 @@
 - [Holo](https://github.com/rwestphal/holo) - Suite of routing protocols designed to support high-scale and automation-driven networks.
 - [Burrow](https://github.com/hackclub/burrow) - Tool for burrowing through firewalls.
 - [freno](https://github.com/github/freno) - Cooperative, highly available throttler service.
+- [Cloudflare Speedtest](https://github.com/cloudflare/speedtest) - JavaScript module to measure the quality of a client’s Internet connection.

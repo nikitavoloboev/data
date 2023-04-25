@@ -2148,6 +2148,9 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Marshmallow](https://github.com/PerimeterX/marshmallow) - Flexible and performant JSON unmarshalling in Go.
 - [just](https://github.com/kazhuravlev/just) - Collection of useful functions. Complete simple tasks faster.
 - [Outboxer](https://github.com/italolelis/outboxer) - Library that implements the outboxer pattern in go.
+- [go-mask](https://github.com/showa-93/go-mask) - Simple, customizable Go library for masking sensitive information.
+- [queue](https://github.com/adrianbrad/queue) - Go package providing multiple queue implementations. Developed in a thread-safe generic way.
+- [uDiff](https://github.com/aymanbagabas/go-udiff) - Micro Go diff library.
 
 ## Links
 

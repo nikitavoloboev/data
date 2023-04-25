@@ -14,7 +14,7 @@ Like the advice of: [try everything, figure out what you do best, make money fro
 
 [Blueprint](https://blueprint.bryanjohnson.co/) has [interesting ideas](https://www.youtube.com/watch?v=aXdEPiFlqH8). I love that it's [vegan](../environment/veganism.md) based too. Trying to adapt [some ideas](https://www.youtube.com/watch?v=7rs_JK-pTTQ) from it as my goals with respect to [health](health.md) and longevity are to maximize [happiness](../life/happiness.md) too and Bryan's method while it can work, does so at the expense of some life satisfaction.
 
-I quite like my [morning](../focusing/processes.md#mroning)/[day](../focusing/processes.md#day)/[evening](../focusing/processes.md#evening) routines. That plus following some basic [rules](../focusing/rules.md) regarding [health](health.md) and [exercise](../fitness/exercises.md) is enough to hopefully give me a rather happy prolonged life. 
+I quite like my [morning](../focusing/processes.md#mroning)/[day](../focusing/processes.md#day)/[evening](../focusing/processes.md#evening) routines. That plus following some basic [rules](../focusing/rules.md) regarding [health](health.md) and [exercise](../fitness/exercises.md) is enough to hopefully give me a rather happy prolonged life.
 
 ## Notes
 
@@ -144,3 +144,4 @@ I quite like my [morning](../focusing/processes.md#mroning)/[day](../focusing/pr
 - [Can ‘Blueprint’ make you biologically younger? (2023)](https://www.youtube.com/watch?v=7rs_JK-pTTQ)
 - [Peter Attia — The Science and Art of Longevity (2023)](https://tim.blog/2023/03/14/peter-attia-outlive/)
 - [Outlive: The Science & Art of Longevity - Peter Attia (2023)](https://peterattiamd.com/outlive/)
+- [Which longevity treatment will be the first to go mainstream? (2023)](https://www.reddit.com/r/longevity/comments/12xpbb1/which_longevity_treatment_will_be_the_first_to_go/)

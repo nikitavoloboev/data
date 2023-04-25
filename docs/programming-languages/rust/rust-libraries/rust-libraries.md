@@ -2820,6 +2820,7 @@
 - [atomic-file](https://github.com/DavidVorick/atomic-file) - Rust crate for working with ACID-safe one-shot files.
 - [TinyAudio](https://github.com/mrDIMAS/tinyaudio) - Cross-platform audio output library.
 - [lyd](https://github.com/chaosprint/lyd) - Music DSP library written in Rust with a focus on performance and flexibility.
+- [triple_accel](https://github.com/Daniel-Liu-c0deb0t/triple_accel) - Rust edit distance routines accelerated using SIMD.
 
 ## Cargo Plugins
 
