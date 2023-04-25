@@ -268,3 +268,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Dagger, a ❤️ story (2023)](https://www.flipt.io/blog/dagger-a-love-story)
 - [A love letter to make](https://kmaasrud.com/blog/make) ([Lobsters](https://lobste.rs/s/mavub8/love_letter_make)) ([HN](https://news.ycombinator.com/item?id=35624805))
 - [hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
+- [CloudKnit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments.

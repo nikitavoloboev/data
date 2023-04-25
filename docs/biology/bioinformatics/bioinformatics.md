@@ -294,3 +294,5 @@ title: Bioinformatics
 - [List of molecular design using Generative AI and Deep Learning](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)
 - [Molfeat](https://github.com/datamol-io/molfeat) - Hub for all your molecular featurizers.
 - [ChemSpacE](https://github.com/yuanqidu/ChemSpacE) - Interpretable and Interactive Chemical Space Exploration.
+- [biobear](https://github.com/wheretrue/biobear) - Work with bioinformatic files using Polars.
+- [WHERE TRUE Technologies](https://www.wheretrue.com/) - Bioinformatics toolkits.

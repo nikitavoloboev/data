@@ -2819,6 +2819,7 @@
 - [Struson](https://github.com/Marcono1234/struson) - Streaming JSON reader and writer written in Rust.
 - [atomic-file](https://github.com/DavidVorick/atomic-file) - Rust crate for working with ACID-safe one-shot files.
 - [TinyAudio](https://github.com/mrDIMAS/tinyaudio) - Cross-platform audio output library.
+- [lyd](https://github.com/chaosprint/lyd) - Music DSP library written in Rust with a focus on performance and flexibility.
 
 ## Cargo Plugins
 

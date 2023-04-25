@@ -444,3 +444,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [System76 Open Firmware](https://github.com/system76/firmware-open)
 - [Limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
 - [Inferno](https://github.com/inferno-os/inferno-os) - Distributed operating system where everything is a file. ([HN](https://news.ycombinator.com/item?id=35682918))
+- [Firepilot](https://github.com/rik-org/firepilot) - Rust library to manage and create firecracker microVMs.

@@ -270,3 +270,4 @@ title: Vue.js
 - [v-lazy-show](https://github.com/antfu/v-lazy-show) - Compile-time directive to lazy initialize v-show for Vue.
 - [Vue Test Utils](https://github.com/vuejs/test-utils)
 - [Nuxt Content Assets](https://github.com/davestewart/nuxt-content-assets) - Enable locally-located assets in Nuxt Content.
+- [Nuxt Icon](https://github.com/nuxt-modules/icon) - Icon component, supporting Iconify, Emojis and custom components.

@@ -1243,3 +1243,6 @@
 - [Contrastive Audio-Visual Masked Autoencoder (2023)](https://github.com/YuanGongND/cav-mae)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories (2023)](https://arxiv.org/abs/2303.15951) ([Code](https://github.com/Totoro97/f2-nerf))
 - [Angler: Helping Machine Translation Practitioners Prioritize Model Improvements (2023)](https://machinelearning.apple.com/research/helping-machine-translation) ([Code](https://github.com/apple/ml-translate-vis))
+- [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields (2023)](https://arxiv.org/abs/2304.06706) ([Code](https://github.com/SuLvXiangXin/zipnerf-pytorch))
+- [Mask-Free Video Instance Segmentation (2023)](https://arxiv.org/abs/2303.15904) ([Code](https://github.com/SysCV/MaskFreeVIS))
+- [Fine-tuned CLIP models are efficient video learners (2023)](https://github.com/muzairkhattak/ViFi-CLIP)

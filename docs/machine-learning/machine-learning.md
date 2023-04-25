@@ -1118,3 +1118,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
 - [Learning to Substitute Ingredients in Recipes (2023)](https://arxiv.org/abs/2302.07960) ([Code](https://github.com/facebookresearch/gismo))
 - [Mass Editing Memory in a Transformer (2022)](https://memit.baulab.info/)
+- [Bridging Discrete and Backpropagation: Straight-Through and Beyond (2023)](https://arxiv.org/abs/2304.08612) ([Code](https://github.com/microsoft/ReinMax))

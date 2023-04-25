@@ -1080,3 +1080,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Micro Agent](https://github.com/pHaeusler/micro-agent) - Tiny implementation of an autonomous agent powered by LLMs (OpenAI GPT-4).
 - [spacy-huggingface-pipelines](https://github.com/explosion/spacy-huggingface-pipelines) - Use pretrained transformer models for text and token classification.
 - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - Collection of papers and resources related to Large Language Models.
+- [Sapiens](https://github.com/ssoudan/sapiens) - Fun with chatGPT API, llm-chain and huelib.
+- [Anthropic TypeScript SDK](https://github.com/anthropics/anthropic-sdk-typescript)
+- [Recurrent Memory Transformer (2022)](https://arxiv.org/abs/2207.06881) ([Code](https://github.com/lucidrains/recurrent-memory-transformer-pytorch))
+- [Dataless Knowledge Fusion by Merging Weights of Language Models (2023)](https://openreview.net/forum?id=FCnohuR6AnM) ([Code](https://github.com/bloomberg/dataless-model-merging))

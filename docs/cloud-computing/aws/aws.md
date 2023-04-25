@@ -454,3 +454,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [AWS icons](https://aws-icons.com/) - As SVG and PNG.
 - [AWS SDK v3 Client mock](https://github.com/m-radzikowski/aws-sdk-client-mock)
 - [Amazon EKS User Guide](https://github.com/awsdocs/amazon-eks-user-guide)
+- [deCDK](https://github.com/cdklabs/decdk) - Define AWS CDK applications declaratively.

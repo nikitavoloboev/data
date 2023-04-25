@@ -229,3 +229,7 @@ title: Terraform
 - [Digger](https://github.com/diggerhq/digger) - Run Terraform plan / apply in your CI.
 - [OTF](https://github.com/leg100/otf) - Open source alternative to Terraform enterprise.
 - [Thoenix](https://github.com/justinrubek/thoenix) - Manage terraform configurations using terranix.
+- [terracove](https://github.com/jatalocks/terracove) - Recursively test a directory tree for Terraform diffs and coverage.
+- [Hatchet](https://github.com/hatchet-dev/hatchet) - An all-in-one Terraform management tool.
+- [tftarget](https://github.com/future-architect/tftarget) - CLI tool for Terraform ( plan | apply | destroy ) with target option.
+- [Terraform GPT Helper](https://github.com/flavius-dinu/tfgpt)

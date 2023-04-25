@@ -142,3 +142,5 @@ Use it for projects as a wiki of docs & notes for teams. I [share most boards in
 - [Astro Notion Blog](https://github.com/otoyo/astro-notion-blog)
 - [Tiny Notion API](https://github.com/benborgers/tiny-notion-api)
 - [ChatBot for Your Notion Knowledge Base](https://github.com/mayooear/notion-chat-langchain)
+- [Notion TS SDK Starter](https://github.com/makenotion/notion-sdk-typescript-starter)
+- [Push To-Do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion.

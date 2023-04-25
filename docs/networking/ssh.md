@@ -153,3 +153,4 @@
 - [Forwarding ssh-agent through WebSockets](https://tristancacqueray.github.io/blog/forwarding-ssh-agent-through-websockets)
 - [SSH authorization keys experiments (2023)](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
 - [Closing a stale SSH connection (2023)](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
+- [xdg-open-svc](https://github.com/caarlos0/xdg-open-svc) - Service that you can run in your host, forward the socket over SSH, and use it to open URLs and etc from your target host.
