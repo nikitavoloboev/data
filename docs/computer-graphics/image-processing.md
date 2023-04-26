@@ -247,3 +247,4 @@
 - [Image Stylization Threading](https://github.com/piellardj/image-stylization-threading) - Tool to turn any image into string art.
 - [ThumbHash](https://evanw.github.io/thumbhash/) - Very compact representation of an image placeholder. ([HN](https://news.ycombinator.com/item?id=35265752)) ([Code](https://github.com/evanw/thumbhash))
 - [RethinkRAW](https://github.com/ncruces/RethinkRAW) - Unpretentious, free RAW photo editor.
+- [Simple Image Compare](https://github.com/Sirosky/Simple-Image-Compare) - Easy image comparisons.

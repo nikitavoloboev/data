@@ -59,3 +59,4 @@ title: Nostr
 - [Nostr-tool](https://github.com/0xtrr/nostr-tool) - Simple CLI to send nostr events.
 - [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - Nostr relay, written in Rust.
 - [nostr-cnp-girl](https://github.com/erechorse/nostr-cpn-girl) - Bot that runs on Nostr and distributes login bonuses.
+- [coinstr](https://github.com/coinstr/coinstr) - Using nostr to coordinate transaction signing for tapscript/miniscript spending policies.

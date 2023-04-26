@@ -696,4 +696,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [PostgreSQL 16: EXPLAIN (GENERIC_PLAN) (2023)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)
 - [Understand Postgres wire protocol by writing a simple program (2023)](https://viggy28.dev/article/introduction-to-postgres-wire-protocol-in-go/)
 - [How Postgres Triggers Can Simplify Your Back End Development (2023)](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html) ([HN](https://news.ycombinator.com/item?id=35676572))
-- [Nine ways to shoot yourself in the foot with Postgres (2023)](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql) ([HN](https://news.ycombinator.com/item?id=35684220))
+- [Nine ways to shoot yourself in the foot with Postgres (2023)](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql) ([HN](https://news.ycombinator.com/item?id=35684220)) ([Reddit](https://www.reddit.com/r/programming/comments/12ye352/nine_ways_to_shoot_yourself_in_the_foot_with/))

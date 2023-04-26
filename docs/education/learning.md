@@ -283,3 +283,4 @@ It's important to [get out of tutorial hell](https://www.youtube.com/watch?v=EkU
 - [Wait But Why GPT](https://wait-but-why-gpt.vercel.app/) - AI search & chat for all Wait But Why posts. ([Code](https://github.com/mckaywrigley/wait-but-why-gpt))
 - [Teach Anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI).
 - [Keeping up with the overwhelming pace of AI innovation (2023)](https://ryanshannon.substack.com/p/keeping-up-with-the-overwhelming) ([HN](https://news.ycombinator.com/item?id=35344825))
+- [Build Your Own X From Scratch Books](https://build-your-own.org/)

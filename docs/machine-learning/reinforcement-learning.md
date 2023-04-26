@@ -10,6 +10,8 @@ title: Reinforcement learning
 
 [Reinforcement Learning with Neural Radiance Fields](https://dannydriess.github.io/nerf-rl/) is fascinating.
 
+[Reinforcement Learning for Language Models](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) is nice read.
+
 ## Links
 
 - [Where to start learning Reinforcement Learning in 2018?](https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/)
@@ -440,3 +442,5 @@ title: Reinforcement learning
 - [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904) ([HN](https://news.ycombinator.com/item?id=35016250))
 - [Pgx](https://github.com/sotetsuk/pgx) - Collection of highly-parallel RL game environments written in JAX.
 - [Safety-Gymnasium](https://github.com/OmniSafeAI/safety-gymnasium) - Highly scalable and customizable safe reinforcement learning environment library.
+- [MACTA: Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection (2023)](https://github.com/facebookresearch/macta)
+- [Reinforcement Learning for Language Models (2023)](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)

@@ -385,3 +385,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [Twitter UI clone - with Vanilla JS](https://github.com/altankurt/twitter-clone-js)
 - [Twitter API Client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API.
 - [Legacy Verified](https://github.com/roberrrt-s/legacy-verified-extension) - Browser extension to bring back legacy verified accounts on Twitter.
+- [Twitter Backend API implemented in Go](https://github.com/leoantony72/twitter-backend)

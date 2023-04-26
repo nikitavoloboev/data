@@ -70,6 +70,7 @@
 - [scalaprops](https://github.com/scalaprops/scalaprops) - Property based testing library for Scala.
 - [Americium](https://github.com/sageserpent-open/americium) - Generation of test case data for Scala and Java, in the spirit of QuickCheck.
 - [coulomb](https://github.com/erikerlandson/coulomb) - Unit analysis for Scala.
+- [MUnit](https://github.com/scalameta/munit) - Scala testing library with actionable errors and extensible APIs.
 
 ## GraphQL
 

@@ -370,3 +370,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model](https://github.com/declare-lab/tango)
 - [What I learned about fine-tuning stable diffusion](https://github.com/harrywang/finetune-sd)
 - [bulkai](https://github.com/igolaizola/bulkai) - Tool to generate AI images in bulk.
+- [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - Generative AI extension for JupyterLab.

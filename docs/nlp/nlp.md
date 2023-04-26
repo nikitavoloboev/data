@@ -1091,3 +1091,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [HuggingChat](https://huggingface.co/chat/) ([HN](https://news.ycombinator.com/item?id=35701846))
 - [PromptWatch](https://www.promptwatch.io/) - LangChain tracing on steroids.
 - [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs. ([HN](https://news.ycombinator.com/item?id=35701534))
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [LLMComposer](https://github.com/deluan/llmcomposer) - Go framework for language model-powered applications with composability and chaining. Inspired by LangChain.
+- [MicroGPT](https://github.com/muellerberndt/micro-gpt) - Minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4.

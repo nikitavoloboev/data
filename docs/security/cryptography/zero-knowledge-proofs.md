@@ -165,3 +165,4 @@ title: Zero knowledge proofs
 - [Awesome PLONK](https://github.com/fluidex/awesome-plonk)
 - [Sovereign SDK](https://github.com/Sovereign-Labs/sovereign) - Toolkit for building zk-rollups.
 - [Halo2 Scaffolding](https://github.com/axiom-crypto/halo2-scaffold) - Basic scaffolding for setting up and writing a Halo2 ZK circuit.
+- [Valida](https://github.com/delendum-xyz/valida) - zkVM with an LLVM frontend.

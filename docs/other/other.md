@@ -786,3 +786,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Scrying](https://github.com/nccgroup/scrying) - Tool for collecting RDP, web and VNC screenshots all in one place.
 - [Space Elevator](https://neal.fun/space-elevator/) ([HN](https://news.ycombinator.com/item?id=35629972))
 - [Jacques Marie Mage](https://www.jacquesmariemage.com/) - Limited Edition Eyewear | Handcrafted in Japan.
+- [Emoji Kitchen](https://emojikitchen.dev/) ([Code](https://github.com/xsalazar/emoji-kitchen))
+- [AUGMENTAL](https://www.augmental.tech/) - Pressure-sensitive touchpad sits at the roof of your mouth.
