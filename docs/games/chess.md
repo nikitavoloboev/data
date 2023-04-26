@@ -10,6 +10,8 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 
 Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.com games to Lichess for deeper analysis as neither Lichess nor Chess.com use latest Stockfish.
 
+Want to build a [tool where a grid of chess boards is shown where each row shows a top engine continuation from both sides](https://twitter.com/nikitavoloboev/status/1651191388640296962).
+
 ## Nice players
 
 - [Ding Liren](https://www.chess.com/players/ding-liren) ([Video](https://www.youtube.com/watch?v=P9OHO9yRaeE))
