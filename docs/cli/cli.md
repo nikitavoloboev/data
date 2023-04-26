@@ -258,3 +258,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [gat](https://github.com/koki-develop/gat) - cat alternative written in Go.
 - [sttr](https://github.com/abhimanyu003/sttr) - Cross-platform, cli app to perform various operations on string.
 - [demo](https://github.com/saschagrunert/demo) - Framework for performing live pre-recorded command line demos.
+- [killport](https://github.com/jkfran/killport) - Command-line tool to easily kill processes running on a specified port. ([HN](https://news.ycombinator.com/item?id=35698282))

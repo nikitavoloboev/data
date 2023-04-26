@@ -1124,3 +1124,6 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [DOOM maps to SVG to laser cutter (2023)](https://theor.xyz/doom-maps-laser-cut/)
 - [Data Oriented Parallel Value Interner (2023)](https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html) ([Lobsters](https://lobste.rs/s/z2psxx/data_oriented_parallel_value_interner))
 - [How Pydantic V2 leverages Rust's Superpowers (2023)](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/) ([HN](https://news.ycombinator.com/item?id=35677126))
+- [makerust](https://github.com/badboy/makerust) - Rust, but in a Makefile.
+- [Rust allows redeclaring local variables to great benefit (2023)](https://ntietz.com/blog/rust-shadowing-idiomatic/) ([Lobsters](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables))
+- [GCC 13 and the State of Gccrs (2023)](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html) ([HN](https://news.ycombinator.com/item?id=35695383))

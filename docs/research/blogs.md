@@ -417,6 +417,9 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Harold Cooper](https://x.st/)
 - [Keith Grant](https://keithjgrant.com/articles/)
 - [Adrian Alic](https://alic.dev/)
+- [Monad Monkey](https://monadmonkey.com/)
+- [Sam Zeloof](http://sam.zeloof.xyz/)
+- [Signal](https://signal.nucleate.xyz/)
 
 ## Notes
 

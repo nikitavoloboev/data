@@ -45,3 +45,4 @@ title: Standard ML
 - [Standard ML AST, based on recursion schemes](https://github.com/ProjectSavanna/envelope-ast)
 - [Millet](https://github.com/azdavis/millet) - Language server for Standard ML.
 - [Memories: Edinburgh ML to Standard ML (2022)](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html) ([Lobsters](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml))
+- [Alice](https://www.ps.uni-saarland.de/alice/) - Functional programming language based on Standard ML. ([Lobsters](https://lobste.rs/s/y9t7pe/alice_ml))

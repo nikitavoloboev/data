@@ -296,3 +296,4 @@ title: Bioinformatics
 - [ChemSpacE](https://github.com/yuanqidu/ChemSpacE) - Interpretable and Interactive Chemical Space Exploration.
 - [biobear](https://github.com/wheretrue/biobear) - Work with bioinformatic files using Polars.
 - [WHERE TRUE Technologies](https://www.wheretrue.com/) - Bioinformatics toolkits.
+- [Signal](https://signal.nucleate.xyz/) - Voice of Next Generation Biotech. ([Intro](https://signal.nucleate.xyz/welcome/))

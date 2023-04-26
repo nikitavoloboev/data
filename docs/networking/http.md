@@ -337,3 +337,4 @@ title: HTTP
 - [Avoiding HTTP/3 (for a while) as a pragmatic default (2023)](https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow) ([HN](https://news.ycombinator.com/item?id=35407420))
 - [trurl](https://github.com/curl/trurl) - Command line tool for URL parsing and manipulation. ([HN](https://news.ycombinator.com/item?id=35442116))
 - [hprox](https://github.com/bjin/hprox) - Lightweight HTTP/HTTPS proxy server in Haskell.
+- [Introduction to HTTP Multipart (2023)](https://blog.adamchalmers.com/multipart/) ([HN](https://news.ycombinator.com/item?id=35704101))

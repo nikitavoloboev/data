@@ -325,3 +325,5 @@ It's also great at giving examples.
 - [Cheshire-Cat](https://github.com/pieroit/cheshire-cat) - Customizable AI architecture.
 - [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) - GPT-4. Fast. No daily limits. Special chat modes.
 - [Awesome GPT](https://github.com/formulahendry/awesome-gpt)
+- [chatgpt-shell updates (2023)](https://xenodium.com/chatgpt-shell-available-on-melpa/)
+- [GPT4 should be part of your toolkit (2023)](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/) ([Lobsters](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit))

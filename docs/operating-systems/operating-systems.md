@@ -445,3 +445,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
 - [Inferno](https://github.com/inferno-os/inferno-os) - Distributed operating system where everything is a file. ([HN](https://news.ycombinator.com/item?id=35682918))
 - [Firepilot](https://github.com/rik-org/firepilot) - Rust library to manage and create firecracker microVMs.
+- [QEMU 8.0 (2023)](https://www.qemu.org/2023/04/20/qemu-8-0-0/) ([HN](https://news.ycombinator.com/item?id=35688320))

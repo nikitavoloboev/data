@@ -1087,3 +1087,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [PotatoGPT](https://github.com/newhouseb/potatogpt) - Pure Typescript, dependency free, ridiculously slow implementation of GPT2 for educational purposes.
 - [Aria](https://github.com/lifan0127/ai-research-assistant) - AI Research Assistant Powered by Large Language Models.
 - [igoGPT](https://github.com/igolaizola/igogpt) - Tool inspired by AutoGPT implemented in Go.
+- [The Dual LLM pattern for building AI assistants that can resist prompt injection (2023)](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/) ([Lobsters](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai))
+- [HuggingChat](https://huggingface.co/chat/) ([HN](https://news.ycombinator.com/item?id=35701846))
+- [PromptWatch](https://www.promptwatch.io/) - LangChain tracing on steroids.
+- [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs. ([HN](https://news.ycombinator.com/item?id=35701534))

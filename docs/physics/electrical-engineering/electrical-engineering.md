@@ -156,3 +156,4 @@ title: Electrical engineering
 - [How To Get Started In Soldering for Beginners (2023)](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/) ([HN](https://news.ycombinator.com/item?id=35511717))
 - [PySpice](https://github.com/PySpice-org/PySpice) - Simulate electronic circuit using Python and the Ngspice / Xyce simulators.
 - [The basics of decoupling capacitors (2023)](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
+- [Second IC :) (2023)](http://sam.zeloof.xyz/second-ic/) ([Lobsters](https://lobste.rs/s/bzzkta/second_ic))

@@ -121,3 +121,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [bevy_console](https://github.com/RichoDemus/bevy-console) - Simple Half-Life inspired console with support for argument parsing powered by clap.
 - [Mouse Picking for Bevy](https://github.com/aevyrie/bevy_mod_picking) - Bevy plugin for picking, making it easy to interact with meshes in Bevy.
 - [Bevy + Lyon](https://github.com/Nilirad/bevy_prototype_lyon) - Draw 2D shapes in Bevy.
+- [Bevy dfdx and the Classic Cart Pole (2022)](https://monadmonkey.com/bevy-dfdx-and-the-classic-cart-pole)

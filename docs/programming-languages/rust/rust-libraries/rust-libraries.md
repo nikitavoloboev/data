@@ -3169,3 +3169,4 @@
 - [Using anyhow while writing a library (2023)](https://www.reddit.com/r/rust/comments/12klmt0/using_anyhow_while_writing_a_library/)
 - [Improving build times for derive macros by 3x or more (2023)](https://www.reddit.com/r/rust/comments/12kaiw8/improving_build_times_for_derive_macros_by_3x_or/)
 - [Google's Rust Crate Audits](https://github.com/google/supply-chain)
+- [Rust's powerful macros explained](https://twitter.com/w_hgm/status/1650913814693527553)

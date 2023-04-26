@@ -269,3 +269,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [A love letter to make](https://kmaasrud.com/blog/make) ([Lobsters](https://lobste.rs/s/mavub8/love_letter_make)) ([HN](https://news.ycombinator.com/item?id=35624805))
 - [hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
 - [CloudKnit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments.
+- [MRSK: hot deployment tool to watch—or a total game changer? (2023)](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)

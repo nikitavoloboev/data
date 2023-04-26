@@ -176,7 +176,7 @@
 - [Making reliable distributed systems in presence of software errors by Joe Armstrong (2003)](https://erlang.org/download/armstrong_thesis_2003.pdf)
 - [unitalk](https://github.com/hoorayman/unitalk) - Distributed chat system which can be used as chat rooms or state synchronization.
 - [Maelstrom](https://github.com/jepsen-io/maelstrom) - Workbench for learning distributed systems by writing your own.
-- [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/) ([HN](https://news.ycombinator.com/item?id=26346033))
+- [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/) ([HN](https://news.ycombinator.com/item?id=26346033)) ([HN](https://news.ycombinator.com/item?id=35684232))
 - [Clio](https://clio-lang.org/) - Functional, distributed programming language that compiles to JavaScript. ([Code](https://github.com/clio-lang/clio))
 - [Distributed Systems Course](http://www.distributedsystemscourse.com/) ([HN](https://news.ycombinator.com/item?id=26534819))
 - [Sundial: Fault-tolerant Clock Synchronization for Data Centers (2021)](http://muratbuffalo.blogspot.com/2021/03/sundial-fault-tolerant-clock.html)

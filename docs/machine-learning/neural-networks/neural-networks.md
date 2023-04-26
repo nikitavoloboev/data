@@ -348,3 +348,5 @@
 - [Understanding LSTM Networks (2015)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Neural Network library from scratch in Rust](https://github.com/AnicetNgrt/neural_networks_rust) ([Reddit](https://www.reddit.com/r/rust/comments/12wpx84/i_made_a_neural_network_library_from_scratch_in/))
 - [Scaling Transformer to 1M tokens and beyond with RMT (2023)](https://arxiv.org/abs/2304.11062) ([HN](https://news.ycombinator.com/item?id=35682424))
+- [Chaos Networks (2023)](https://monadmonkey.com/chaos-networks-part-1)
+- [Architectures of Topological Deep Learning: A Survey on Topological Neural Networks (2023)](https://arxiv.org/abs/2304.10031) ([HN](https://news.ycombinator.com/item?id=35681466))

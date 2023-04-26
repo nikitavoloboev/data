@@ -31,7 +31,7 @@ title: Nostr
 - [nostreq](https://github.com/blakejakopovic/nostreq) - Nostr relay event request generator.
 - [Lobsters: Nostr](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by)
 - [HN: Nostr](https://news.ycombinator.com/item?id=29749061)
-- [Nostr Intro](https://wiki.wellorder.net/post/nostr-intro/)
+- [Nostr Intro](https://wiki.wellorder.net/post/nostr-intro/) ([HN](https://news.ycombinator.com/item?id=35690659))
 - [Lobsters: Nostr](https://lobste.rs/s/mv74ka/nostr_introduction)
 - [Awesome Nostr](https://github.com/aljazceru/awesome-nostr) ([HN](https://news.ycombinator.com/item?id=34526562))
 - [HN: Nostr](https://news.ycombinator.com/item?id=33746360)

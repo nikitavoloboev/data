@@ -4,6 +4,8 @@ Love [Italic](https://italic.com/), [Zalando](https://www.zalando.com/) & [Beaut
 
 [Medusa](https://github.com/medusajs/medusa) seems like a nice alternative to [Shopify](https://www.shopify.com/).
 
+[Svelte Commerce](https://github.com/itswadesh/svelte-commerce) looks like a nice commerce front end.
+
 ## Nice shops
 
 - [Vacation](https://www.vacation.inc/collections/all)
