@@ -207,3 +207,4 @@ One silver lining in all this is that due to Russia fully [losing out on its obj
 - [Interactive Map: Russia's Invasion of Ukraine](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375)
 - [UkraineWarVideoReport Reddit](https://www.reddit.com/r/UkraineWarVideoReport/)
 - [Battle for Hostomel Airport - Animated Analysis (2023)](https://www.youtube.com/watch?v=r0Ji7KqqEqg)
+- [Как Путин возненавидел Украину (2023)](https://verstka.media/kak-putin-pridumal-voynu)

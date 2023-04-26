@@ -386,3 +386,4 @@ title: Svelte
 - [Sveltris](https://github.com/Mokshit06/sveltris) - Piece together any framework with Svelte.
 - [Svelte Email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte.
 - [Svelte Scoped UnoCSS](https://github.com/jacob-8/svelte-scoped-uno) - Use UnoCSS utility styles in a modular fashion in Svelte, with styles being stored only where needed.
+- [Reflections on Migrating My SaaS to SvelteKit (2023)](http://sveltekitsaas.com/articles/migrate-saas-to-sveltekit/) ([HN](https://news.ycombinator.com/item?id=35708070))

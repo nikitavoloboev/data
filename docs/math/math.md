@@ -310,7 +310,7 @@
 - [Looking through Objects - How Tomography Works! (2021)](https://www.youtube.com/watch?v=f0sxjhGHRPo) ([Tweet](https://twitter.com/sigfpe/status/1441455463439110148))
 - [Conterintuitive facts in mathematics, CS, and physics (2021)](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in) ([HN](https://news.ycombinator.com/item?id=28764416))
 - [Math for Programmers: 3D graphics, machine learning, and simulations with Python Book (2020)](https://www.manning.com/books/math-for-programmers) ([Code](https://github.com/orlandpm/Math-for-Programmers))
-- [3Blue1Brown](https://www.3blue1brown.com/) - Animated math videos. ([YouTube](https://www.youtube.com/c/3blue1brown/featured)) ([Web Code](https://github.com/3b1b/3Blue1Brown.com)) ([Videos Code](https://github.com/3b1b/videos))
+- [3Blue1Brown](https://www.3blue1brown.com/) - Animated math videos. ([YouTube](https://www.youtube.com/c/3blue1brown/featured)) ([Web Code](https://github.com/3b1b/3Blue1Brown.com)) ([Videos Code](https://github.com/3b1b/videos)) ([HN](https://news.ycombinator.com/item?id=35714228))
 - [Riding upon the fields on the horse of mathematics (2021)](https://www.brunogavranovic.com/posts/2021-08-15-horse_of_mathematics.html)
 - [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html) ([HN](https://news.ycombinator.com/item?id=28922989))
 - [AsciiMath](http://asciimath.org/) - Easy-to-write markup language for mathematics. ([Code](https://github.com/asciimath/asciimathml))

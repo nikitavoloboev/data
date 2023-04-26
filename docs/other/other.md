@@ -206,7 +206,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [GNU poke](http://www.jemarch.net/poke) - Interactive, extensible editor for binary data.
 - [Jeremy Kun's short essays](https://github.com/j2kun/essays)
 - [Healthchecks](https://healthchecks.io/) - Simple and Effective Cron Job Monitoring. ([Code](https://github.com/healthchecks/healthchecks))
-- [Neutralino](https://github.com/neutralinojs/neutralinojs) - Lightweight and portable application development framework. It lets you develop cross-platform applications using JavaScript/TypeScript, HTML and CSS.
+- [Neutralino](https://github.com/neutralinojs/neutralinojs) - Lightweight and portable application development framework. It lets you develop cross-platform applications using JavaScript/TypeScript, HTML and CSS. ([Docs](https://neutralino.js.org/docs/)) ([HN](https://news.ycombinator.com/item?id=35711013))
 - [Capiche](https://capiche.com/) - Community of people who care about software to do that together.
 - [Ask HN: What are you favorite developer-efficiency protips (2020)](https://news.ycombinator.com/item?id=23118940)
 - [Maker.js](https://maker.js.org/) - JavaScript library for creating and sharing modular line drawings for CNC and laser cutters. ([Code](https://github.com/microsoft/maker.js))

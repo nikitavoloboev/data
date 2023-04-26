@@ -856,3 +856,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [PyASTrX](https://github.com/pyastrx/pyastrx) - Simple, easy-to-use, and extensible framework for code quality analysis, refactoring and codebase analysis.
 - [Opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git.
 - [Supertools](https://supertools.therundown.ai/) - Best AI Tools Guide.
+- [Jellylade](https://app.jellylade.com/) - Turn your screenshots into posts. ([HN](https://news.ycombinator.com/item?id=35709453))

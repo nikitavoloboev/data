@@ -2,6 +2,8 @@
 
 [pdfcpu](https://github.com/pdfcpu/pdfcpu) is great Go lib to parse PDFs. [React PDF REPL](https://react-pdf-repl.vercel.app/) is interesting.
 
+[ChatGPT](https://www.chatpdf.com/) is [great](https://twitter.com/madiator/status/1650693609392603141).
+
 ## Notes
 
 - [If you can't copy text in PDF, it's locked. Can open it in Chrome > Print > Save. Can then copy text freely.](https://superuser.com/questions/47462/cant-copy-text-from-a-pdf-file)

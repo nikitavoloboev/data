@@ -13,3 +13,4 @@ Using it in [KusKus](../../ideas/kuskus.md) and love it.
 - [Chatbase](https://github.com/notrab/chatbase) - Real time chat using GraphQL Live Queries, Next.js and NextAuth.js.
 - [Edge Resolvers – Grafbase (2023)](https://grafbase.com/changelog/edge-resolvers)
 - [Generate TypeScript types for your GraphQL operations](https://grafbase.com/guides/generate-typescript-types-for-your-graphql-operations)
+- [Roadmap – Grafbase](https://grafbase.com/roadmap)

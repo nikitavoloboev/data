@@ -387,3 +387,4 @@ I am still exploring what the best way to do GraphQL queries from [Solid](../../
 - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix)
 - [nx-mesh](https://github.com/domjtalbot/nx-mesh) - GraphQL Mesh support for Nx.
 - [Typescript DSL for GraphQL](https://github.com/babyfish-ct/graphql-ts-client)
+- [How to provide typed access to GraphQL (2023)](https://twitter.com/matteocollina/status/1650893429088370690)

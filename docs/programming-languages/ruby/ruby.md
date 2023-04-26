@@ -169,3 +169,4 @@
 - [Fibers and Ruby (2023)](https://tuwukee.github.io/ruby/fibers/2023/01/29/fibers-and-ruby.html)
 - [Fiber based async background job processor (2023)](https://tuwukee.github.io/ruby/fibers/2023/01/30/fiber-based-async-background-job-processor.html)
 - [Stop ignoring pattern matching! It’s really good! (2022)](https://brightonruby.com/2022/stop-ignoring-pattern-matching-tom-stuart/)
+- [Ruby's Switch Statement Is More Flexible Than You Thought (2023)](https://www.akshaykhot.com/ruby-switch-statement/) ([HN](https://news.ycombinator.com/item?id=35712099))

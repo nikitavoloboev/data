@@ -321,3 +321,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Mercury Vault](https://mercury.com/vault) - Simple way to manage bank risk and protect every dollar they deposit. ([How it works](https://twitter.com/immad/status/1635302598831112192))
 - [Minimum Viable Finance: The Guide for Seed/Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies) ([HN](https://news.ycombinator.com/item?id=35203260))
 - [BloombergGPT: A Large Language Model for Finance (2023)](https://arxiv.org/abs/2303.17564) ([HN](https://news.ycombinator.com/item?id=35381036))
+- [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer) ([HN](https://news.ycombinator.com/item?id=35714145))

@@ -261,7 +261,7 @@
 - [Scientists built deep neural networks that can map between infinite dimensional spaces (2021)](https://www.quantamagazine.org/latest-neural-nets-solve-worlds-hardest-equations-faster-than-ever-before-20210419)
 - [CNN Explainer - Interpreting Convolutional Neural Networks (2021)](https://gsurma.medium.com/cnn-explainer-interpreting-convolutional-neural-networks-1-n-e81c62cbb660)
 - [Transformers from Scratch (2019)](http://peterbloem.nl/blog/transformers)
-- [Transformers from Scratch (2021)](https://e2eml.school/transformers.html) ([HN](https://news.ycombinator.com/item?id=29315107))
+- [Transformers from Scratch (2021)](https://e2eml.school/transformers.html) ([HN](https://news.ycombinator.com/item?id=29315107)) ([HN](https://news.ycombinator.com/item?id=35697627))
 - [General and Scalable Parallelization for Neural Networks (2021)](https://ai.googleblog.com/2021/12/general-and-scalable-parallelization.html)
 - [8 Types of Activation Functions in Neural Networks (2021)](https://thehackweekly.com/8-most-popular-types-of-activation-functions-in-neural-networks/)
 - [Building a Neural Network in Go (2021)](https://ataylor.io/blog/go-mlp/)

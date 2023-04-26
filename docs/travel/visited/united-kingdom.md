@@ -70,3 +70,4 @@ Still find it strange that UK left [EU](europe.md) but maybe they will [change t
 - [Reversing UK mobile rail tickets (2023)](https://eta.st/2023/01/31/rail-tickets.html) ([HN](https://news.ycombinator.com/item?id=34640433))
 - [Active Travel Intervention Platform](https://acteng.github.io/atip/) ([Code](https://github.com/acteng/atip))
 - [What is the minimal possible UK address? (2023)](https://microblog.vladh.net/posts/most-minimal-uk-address/) ([HN](https://news.ycombinator.com/item?id=34995370))
+- [GB Renewables Map](https://renewables-map.robinhawkes.com/) - Interactive map showing live wind farm generation in Great Britain. ([HN](https://news.ycombinator.com/item?id=35712238))

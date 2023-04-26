@@ -1094,3 +1094,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [LLMComposer](https://github.com/deluan/llmcomposer) - Go framework for language model-powered applications with composability and chaining. Inspired by LangChain.
 - [MicroGPT](https://github.com/muellerberndt/micro-gpt) - Minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4.
+- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (2023)](https://arxiv.org/abs/2304.12995) ([HN](https://news.ycombinator.com/item?id=35709975))
+- [A guide to prompting AI, for what it is worth (2023)](https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what) ([HN](https://news.ycombinator.com/item?id=35712375))
