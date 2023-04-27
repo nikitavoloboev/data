@@ -8,7 +8,7 @@ The key to success in open source lies in understanding that it's not just about
 
 I try to make my working on open source [sustainable](https://news.ycombinator.com/item?id=34780859) with building actual paid products and having [nice GitHub sponsors rewards](https://github.com/sponsors/nikitavoloboev).
 
-I do think the future is everything being open core. As it makes sense. If there are 2 nearly identical products but one has open code and another doesn't, it makes sense that one that's with open code wins as the contribution/ideas flow is unbounded on open source project. If managed well.
+I do think the future is everything being [open core](https://twitter.com/nikitavoloboev/status/1650997096839798787). As it makes sense. If there are 2 nearly identical products but one has open code and another doesn't, it makes sense that one that's with open code wins as the contribution/ideas flow is unbounded on open source project. If managed well.
 
 My goal is to make every tool/app I use be open core with fastest and most intuitive interfaces available.
 

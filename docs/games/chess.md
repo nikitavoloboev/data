@@ -284,3 +284,4 @@ Want to build a [tool where a grid of chess boards is shown where each row shows
 - [Chess analysis by Stockfish](https://analysis.sesse.net/)
 - [Antikythera](https://github.com/0hq/antikythera) - Parrallelized Chess engine written in Go.
 - [Irina Krush - YouTube](https://www.youtube.com/@irina_krush/videos)
+- [Great chess books advice](https://www.reddit.com/r/chess/comments/130iwb7/just_now_on_the_wc_commentary_speaking_of_chess/)

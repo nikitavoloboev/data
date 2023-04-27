@@ -587,3 +587,4 @@ I try build iOS apps either with [SwiftUI](../../programming-languages/swift/swi
 - [Size Matters: An Exploration of Virtual Memory on iOS (2022)](https://alwaysprocessing.blog/2022/02/20/size-matters)
 - [Built ChatGPT app in SwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI)
 - [ETTrace](https://github.com/EmergeTools/ETTrace) - Easily and accurately profile iOS apps.
+- [How to optimize iOS apps to maximize conversion of in-app purchases](https://twitter.com/KrauseFx/status/1651646245344092160)

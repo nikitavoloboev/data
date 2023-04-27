@@ -25,3 +25,4 @@ Currently use [Burberry London for Men cologne](https://www.fragrantica.com/perf
 - [Lovely men fragrances (2023)](https://www.reddit.com/r/fragrance/comments/115rq2z/current_weapons_of_choice_26m/)
 - [Fragrances that you've smelled and instantly said "I must have this" (2023)](https://www.reddit.com/r/fragrance/comments/116wh3c/fragrances_that_youve_smelled_and_instantly_said/)
 - [Nice colognes](https://www.reddit.com/r/seduction/comments/12fb62o/colognes_that_get_you_laid/)
+- [Sasha's Perfumes](https://airtable.com/shrmlkXEHooxFCB8i/tbl5ApD8OSHKQ4NSF/viwXnP1evcjaOWwAq?blocks=hide)

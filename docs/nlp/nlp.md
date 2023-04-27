@@ -1100,3 +1100,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LangForge](https://github.com/mme/langforge) - Toolkit for Creating and Deploying LangChain Apps.
 - [Self-INSTRUCT](https://github.com/Stevenic/self-instruct) - Similar to Auto-GPT but with better reasoning and planning.
 - [Semantic Tokenizer for Enhanced Natural Language Processing (2023)](https://arxiv.org/abs/2304.12404) ([HN](https://news.ycombinator.com/item?id=35729586))
+- [Knowledge Retrieval Architecture for LLM’s (2023)](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
