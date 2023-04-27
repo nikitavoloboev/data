@@ -264,6 +264,7 @@ title: OCaml libraries
 - [Gen](https://github.com/c-cube/gen) - Simple, efficient iterators for OCaml.
 - [Format-doc](https://github.com/Octachron/format-doc) - Alternative interpreter for OCaml format strings.
 - [Distrproc](https://github.com/darrenldl/distrproc) - Erlang style process/actor model library in OCaml.
+- [pyre-ast](https://github.com/grievejia/pyre-ast) - OCaml library to parse Python files.
 
 ## Links
 

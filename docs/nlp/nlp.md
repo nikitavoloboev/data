@@ -1097,3 +1097,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (2023)](https://arxiv.org/abs/2304.12995) ([HN](https://news.ycombinator.com/item?id=35709975))
 - [A guide to prompting AI, for what it is worth (2023)](https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what) ([HN](https://news.ycombinator.com/item?id=35712375))
 - [deepdoctection](https://github.com/deepdoctection/deepdoctection) - Document extraction and analysis using deep learning models. ([HN](https://news.ycombinator.com/item?id=35719937))
+- [LangForge](https://github.com/mme/langforge) - Toolkit for Creating and Deploying LangChain Apps.
+- [Self-INSTRUCT](https://github.com/Stevenic/self-instruct) - Similar to Auto-GPT but with better reasoning and planning.

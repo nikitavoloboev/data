@@ -175,3 +175,4 @@
 - [remark-lint-no-dead-urls](https://github.com/remarkjs/remark-lint-no-dead-urls) - Ensure that external links in your Markdown are alive.
 - [cmarkit](https://github.com/dbuenzli/cmarkit) - CommonMark parser and renderer for OCaml.
 - [Fleck](https://github.com/xNaCly/fleck) - Minimal and highly optimized markdown2html converter, supports macros, watch mode and live preview.
+- [casual-markdown](https://github.com/casualwriter/casual-markdown) - Lightweight regexp-based markdown parser, with TOC and scrollspy support.

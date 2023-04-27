@@ -1179,6 +1179,7 @@ I use [pip-tools](https://github.com/jazzband/pip-tools) as way to manage depend
 - [fastbloom](https://github.com/yankun1992/fastbloom) - Fast bloom filter implemented by Rust for Python! 10x faster than pybloom.
 - [deepmerge](https://github.com/toumorokoshi/deepmerge) - Tools to handle merging of nested data structures in python.
 - [tinytag](https://github.com/devsnd/tinytag) - Library for reading music meta data of most common audio files in pure python.
+- [Optimized Einsum](https://github.com/dgasmith/opt_einsum) - Optimizing einsum functions in NumPy, Tensorflow, Dask, and more with contraction order optimization.
 
 ## Notes
 

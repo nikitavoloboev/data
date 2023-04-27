@@ -396,3 +396,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Going "Fully React" w/ Nikhil Saraf (2023)](https://www.youtube.com/watch?v=jwppKc4avIk)
 - [Vite RSC Experiments](https://github.com/nksaraf/fully-react)
 - [Simple RSC, Deno Edition](https://github.com/itsMapleLeaf/simple-rsc-deno)
+- [zact](https://github.com/pingdotgg/zact) - Helper for react server actions.

@@ -556,3 +556,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Learning (visual) programming in the context of music (2023)](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/) ([Lobsters](https://lobste.rs/s/gfsrlk/learning_visual_programming_context))
 - [median/max-sys](https://github.com/Cycling74/median) - Rust bindings for Max/MSP/Jitter.
 - [Rust JACK](https://github.com/RustAudio/rust-jack) - Rust bindings for the JACK Audio Connection Kit.
+- [Philip Meyer - YouTube](https://www.youtube.com/@p__meyer/videos) ([Tutorials Code](https://github.com/pdmeyer/max-tutorials))

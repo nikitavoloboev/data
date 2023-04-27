@@ -441,3 +441,4 @@
 - [What We Talk About When We Talk About Mathematics (2022)](http://philsci-archive.pitt.edu/20979/7/talk_archive.pdf) ([HN](https://news.ycombinator.com/item?id=35000338))
 - [Approximating pi using a cake (2023)](https://ntietz.com/blog/happy-pi-day-2023/)
 - [Yale Applied Empirical Methods PHD Course](https://github.com/paulgp/applied-methods-phd)
+- [Mathberet](https://github.com/yonatanmgr/mathberet) - Self-hosted digital mathematics notebook, written in React and built with Electron.

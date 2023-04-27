@@ -14,3 +14,4 @@ title: Bluesky
 - [lexrpc](https://github.com/snarfed/lexrpc) - Python implementation of AT Protocol's XRPC + Lexicon.
 - [Bluesky Social](https://bsky.app/)
 - [Bluesky Overhaul](https://github.com/xenohunter/bluesky-overhaul) - UX improvements for Bluesky web app.
+- [Skyline](https://github.com/louislva/skyline) - Bring your own algorithm for Bluesky. ([Web](https://skyline.gay/))

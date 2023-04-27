@@ -324,3 +324,4 @@ title: Spatial analysis
 - [CartoSVG](https://cartosvg.com/) - Design gorgeous interactive maps.
 - [maplab](https://github.com/ethz-asl/maplab) - Modular and Multi-Modal Mapping Framework.
 - [Vector Remap Language (VRL)](https://github.com/vectordotdev/vrl) - VRL is a language for transforming, routing, and filtering observability data (logs and metrics).
+- [supercluster](https://github.com/mapbox/supercluster) - Fast geospatial point clustering library for browsers and Node.

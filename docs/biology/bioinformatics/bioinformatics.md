@@ -297,3 +297,4 @@ title: Bioinformatics
 - [biobear](https://github.com/wheretrue/biobear) - Work with bioinformatic files using Polars.
 - [WHERE TRUE Technologies](https://www.wheretrue.com/) - Bioinformatics toolkits.
 - [Signal](https://signal.nucleate.xyz/) - Voice of Next Generation Biotech. ([Intro](https://signal.nucleate.xyz/welcome/))
+- [DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models (2023)](https://arxiv.org/abs/2304.03889) ([Code](https://github.com/ketatam/DiffDock-PP))

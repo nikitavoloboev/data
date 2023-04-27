@@ -1247,3 +1247,5 @@
 - [Mask-Free Video Instance Segmentation (2023)](https://arxiv.org/abs/2303.15904) ([Code](https://github.com/SysCV/MaskFreeVIS))
 - [Fine-tuned CLIP models are efficient video learners (2023)](https://github.com/muzairkhattak/ViFi-CLIP)
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - Flexible and interactive tool for video object tracking and segmentation, based on Segment Anything and XMem.
+- [Supervision](https://github.com/roboflow/supervision) - Easy-to-use utils that will come in handy in any Computer Vision project.
+- [Roboflow Notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques.

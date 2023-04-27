@@ -864,6 +864,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [rich-domain](https://github.com/4lessandrodev/rich-domain) - Lib to help you create a robust project based on domain driven-design (ddd) principles with typescript and zero dependencies.
 - [unlazy](https://github.com/johannschopplich/unlazy) - Universal lazy loading library for placeholder images leveraging native browser APIs.
 - [Performance Interval](https://github.com/fabiospampinato/performance-interval) - Precise implementation of setInterval that supports sub-millisecond intervals.
+- [Zodios Openapi](https://github.com/ecyrbe/zodios-openapi) - OpenAPI generator for Zodios API description format.
+- [t3-env](https://github.com/t3-oss/t3-env) - Typesafe Envs made Simple.
 
 ## Links
 

@@ -492,3 +492,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [BanditPAM](https://github.com/motiwari/BanditPAM) - C++ implementation and Python package. ([HN](https://news.ycombinator.com/item?id=35445312))
 - [pandas_dq](https://github.com/AutoViML/pandas_dq) - Find data quality issues and clean your data in a single line of code with a Scikit-Learn compatible Transformer.
 - [FLAML](https://github.com/microsoft/FLAML) - Fast library for AutoML and tuning.
+- [ms2ml](https://github.com/jspaezp/ms2ml) - Helps you convert raw mass spec data into tensors.
