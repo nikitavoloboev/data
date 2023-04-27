@@ -6,6 +6,8 @@ title: DNA
 
 [ASML of DNA Sequencing](https://www.youtube.com/watch?v=pEwkpQV691A) is nice watch.
 
+Assembly of proteins is like a programming language. However we barely understand how it works. [DNA to amino acids](https://twitter.com/FelixDelong/status/1650935251550576640) is just a dictionary lookup.
+
 ## Notes
 
 - [Is DNA compressed?](https://www.reddit.com/r/askscience/comments/637gyu/is_dna_compressed/)

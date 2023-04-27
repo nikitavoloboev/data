@@ -376,3 +376,4 @@ Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
 - [DeepFloyd IF by DeepFloyd, StabilityAI](https://github.com/deep-floyd/IF) ([HN](https://news.ycombinator.com/item?id=35717871))
 - [Scaling up GANs for Text-to-Image Synthesis (2023)](https://arxiv.org/abs/2303.05511) ([Code](https://github.com/lucidrains/gigagan-pytorch))
 - [FaceLit: Neural 3D Relightable Faces (2023)](https://machinelearning.apple.com/research/neural-3d-relightable) ([Code](https://github.com/apple/ml-facelit))
+- [Training Stable Diffusion from Scratch for <$50k with MosaicML (2023)](https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-part-2)

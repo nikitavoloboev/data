@@ -1138,3 +1138,4 @@ Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for lan
 - [Ultra](https://www.studioultra.co/) - Websites that give growing startups an unfair advantage. ([Twitter](https://twitter.com/StudioUltraCo))
 - [Landings](https://landings.dev/) - Landing Page Examples.
 - [Minimal Gallery – Website inspiration](https://minimal.gallery/)
+- [Apps built using shadcn UI](https://twitter.com/shadcn/status/1650945977237352453)

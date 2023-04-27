@@ -314,3 +314,4 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [btn.social](https://btn.social/) - Implement social authentication in seconds.
 - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard) ([HN](https://news.ycombinator.com/item?id=35713518))
 - [OAuth 2.0 for First-Party Native Applications](https://github.com/aaronpk/oauth-first-party-native-apps)
+- [Issues with hand rolling auth (2023)](https://twitter.com/thdxr/status/1651434348174778370)

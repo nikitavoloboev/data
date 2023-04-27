@@ -15,3 +15,4 @@ title: Bluesky
 - [Bluesky Social](https://bsky.app/)
 - [Bluesky Overhaul](https://github.com/xenohunter/bluesky-overhaul) - UX improvements for Bluesky web app.
 - [Skyline](https://github.com/louislva/skyline) - Bring your own algorithm for Bluesky. ([Web](https://skyline.gay/))
+- [swiftsky](https://github.com/rmcan/swiftsky) - Unofficial Bluesky/ATProto client in SwiftUI.
