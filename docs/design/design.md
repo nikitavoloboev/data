@@ -278,3 +278,4 @@ More people should [do design in the open](https://twitter.com/CharlesPattson/st
 - [Purrity Creative illustrations for websites and applications](https://www.getillustrations.com/illustration-pack/purrity-illustrations)
 - [DesignHeaven](https://github.com/dimitrisraptis96/design-heaven) - Stunning free design resources for designers and developers.
 - [Startup CEO records entire meeting with designer Live Footage (2023)](https://www.youtube.com/watch?v=qixx7ESrJQg)
+- [Deadobe](https://github.com/scholablade/Deadobe) - Huge list of alternatives to Adobe products.

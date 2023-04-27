@@ -1120,3 +1120,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Mass Editing Memory in a Transformer (2022)](https://memit.baulab.info/)
 - [Bridging Discrete and Backpropagation: Straight-Through and Beyond (2023)](https://arxiv.org/abs/2304.08612) ([Code](https://github.com/microsoft/ReinMax))
 - [A Cookbook of Self-Supervised Learning (2023)](https://arxiv.org/abs/2304.12210) ([HN](https://news.ycombinator.com/item?id=35702490))
+- [Table Transformer: Deep learning model for extracting tables from unstructured documents](https://github.com/microsoft/table-transformer) ([HN](https://news.ycombinator.com/item?id=35720157))

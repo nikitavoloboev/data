@@ -664,7 +664,7 @@
 - [Video Polyp Segmentation: A Deep Learning Perspective (2022)](https://arxiv.org/abs/2203.14291) ([Code](https://github.com/GewelsJI/VPS))
 - [Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images (2022)](https://arxiv.org/abs/2203.13664) ([Code](https://github.com/MathLee/ACCoNet))
 - [HybridNets: End-to-End Perception Network (2022)](https://arxiv.org/abs/2203.09035) ([Code](https://github.com/datvuthanh/HybridNets))
-- [HDR-NeRF: High Dynamic Range Neural Radiance Fields (2022)](https://shsf0817.github.io/hdr-nerf/) ([Code](https://github.com/shsf0817/hdr-nerf))
+- [HDR-NeRF: High Dynamic Range Neural Radiance Fields (2022)](https://xhuangcv.github.io/hdr-nerf/) ([Code](https://github.com/shsf0817/hdr-nerf)) ([HN](https://news.ycombinator.com/item?id=35717106))
 - [AdaMixer: A Fast-Converging Query-Based Object Detector (2022)](https://arxiv.org/abs/2203.16507) ([Code](https://github.com/MCG-NJU/AdaMixer))
 - [MixFormer: End-to-End Tracking with Iterative Mixed Attention (2022)](https://arxiv.org/abs/2203.11082) ([Code](https://github.com/MCG-NJU/MixFormer))
 - [Bringing Old Films Back to Life (2022)](http://raywzy.com/Old_Film/) ([Code](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life))

@@ -327,3 +327,4 @@ It's also great at giving examples.
 - [Awesome GPT](https://github.com/formulahendry/awesome-gpt)
 - [chatgpt-shell updates (2023)](https://xenodium.com/chatgpt-shell-available-on-melpa/)
 - [GPT4 should be part of your toolkit (2023)](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/) ([Lobsters](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit))
+- [Training ChatGPT with Custom Libraries Using Extensions (2023)](https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions) ([HN](https://news.ycombinator.com/item?id=35717692))

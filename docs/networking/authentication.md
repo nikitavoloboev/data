@@ -312,3 +312,4 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [Troubleshooting JWT validation](https://cloud.google.com/endpoints/docs/frameworks/java/troubleshoot-jwt)
 - [Ask HN: Why is WebAuthn so slow to take off? (2023)](https://news.ycombinator.com/item?id=35675567)
 - [btn.social](https://btn.social/) - Implement social authentication in seconds.
+- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard) ([HN](https://news.ycombinator.com/item?id=35713518))

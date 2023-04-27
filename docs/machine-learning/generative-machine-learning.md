@@ -12,6 +12,8 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 
 [ChatGPT Resources](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) & [Why does ChatGPT work so well](https://twitter.com/DrJimFan/status/1600884299435167745) are nice reads to understand how ChatGPT works.
 
+Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
+
 ## Notes
 
 - [The net effect of the last 18 mo has been to slightly lubricate human imagination, making it easier for individuals to visualize possible worlds/scenes/moods. It’s only a medium-big deal—unless this is a foretaste of similar acceleration in music, code, and text.](https://twitter.com/Ted_Underwood/status/1566787680872157185)
@@ -371,3 +373,4 @@ Trying to use more of these technologies in my day to life. Specifically [ChatGP
 - [What I learned about fine-tuning stable diffusion](https://github.com/harrywang/finetune-sd)
 - [bulkai](https://github.com/igolaizola/bulkai) - Tool to generate AI images in bulk.
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - Generative AI extension for JupyterLab.
+- [DeepFloyd IF by DeepFloyd, StabilityAI](https://github.com/deep-floyd/IF) ([HN](https://news.ycombinator.com/item?id=35717871))

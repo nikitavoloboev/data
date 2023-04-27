@@ -68,3 +68,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Peru](https://github.com/buildinspace/peru) - Generic package manager, for including other people's code in your projects.
 - [Ask HN: Why does every package+module system become a Rube Goldberg machine? (2023)](https://news.ycombinator.com/item?id=34577844)
 - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
+- [The Full-Source Bootstrap: Building from source all the way down (2023)](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/) ([Lobsters](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from))

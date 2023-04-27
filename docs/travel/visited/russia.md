@@ -36,7 +36,7 @@ During 2014, first ever sanctions on Russia were implemented too. Many say that 
 
 [In Putin's mind, it seemed that, first Russian army was strong](https://www.reddit.com/r/CredibleDefense/comments/zc9a2b/comment/iyvi5wi/) and due to [his time in isolation](https://verstka.media/kak-putin-pridumal-voynu) during Covid, he came to think that a military solution to the problem of Ukraine's claim on Crimea amongst other issues like Crimean cut water situation and more is possible. And thus started preparing for war. Russian government started paying money to some Ukranian politicians for spying services and potential joining to Russia's side in case of active invasion. He also thought Europe was too heavily dependent on Russian energy to really do anything in form of sanctions. And the massive investments into modernizing the Russian army were thought to actually have worked and not be wasted to corruption.
 
-The war is still ongoing and it's clear that the effects of it are [tragic](https://www.youtube.com/watch?v=EhssmUtN874) for both sides. All preparations made for Russia were on that it would be a [3 day war](https://www.reddit.com/r/CredibleDefense/comments/11cgjkz/comment/ja4w809/) which [failed completely](https://www.youtube.com/watch?v=r0Ji7KqqEqg) after it was clear that [Kyiv is not to be taken](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>).
+The war is still ongoing and it's clear that the effects of it are [tragic](https://www.youtube.com/watch?v=EhssmUtN874) for both sides. All preparations made by Russia were on that it would be a [3 day war](https://www.reddit.com/r/CredibleDefense/comments/11cgjkz/comment/ja4w809/) which [failed completely](https://www.youtube.com/watch?v=r0Ji7KqqEqg) after it was clear that [Kyiv is not to be taken](<https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)>).
 
 So many wasted soldier and civilian lives for nothing. It's hard to rollback a decision like this as too many lives were hurt. Too many atrocities happened in [Bucha](https://en.wikipedia.org/wiki/Bucha_massacre) and all across Ukraine which Russia still denies. It's unclear how this gets resolved in a way that minimizes further suffering.
 
@@ -710,4 +710,3 @@ I also have a [mostly Russian Twitter List](https://twitter.com/i/lists/13511205
 - [Либеров – как творить в несвободной стране (2023)](https://www.youtube.com/watch?v=tKWAnpECKgU)
 - [Россия без империализма (2023)](https://www.youtube.com/watch?v=y7dbL0ukbbk)
 - [Григорий Юдин: лекция о фашизме и можно ли говорить, что в России фашизм?](https://www.youtube.com/watch?v=RiM-gnaV4BM)
-- [Каспаров – что происходит с Россией / вДудь (2023)](https://www.youtube.com/watch?v=q9c3k9C648M)

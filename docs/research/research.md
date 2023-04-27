@@ -157,3 +157,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [The rise and fall of peer review (2022)](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review) ([HN](https://news.ycombinator.com/item?id=33997953))
 - [Open Editors](https://github.com/andreaspacher/openeditors) - Web scraping data about editors of scientific journals.
 - [Royal Astronomical Society: all journals to publish as open access from 2024](https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024) ([HN](https://news.ycombinator.com/item?id=34992891))
+- [Why did Google Brain exist? (2023)](https://www.moderndescartes.com/essays/why_brain/) ([HN](https://news.ycombinator.com/item?id=35716216))

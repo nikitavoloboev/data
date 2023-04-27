@@ -804,3 +804,5 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Production grade databases in Rust (2023)](https://www.reddit.com/r/rust/comments/12uevu0/production_grade_databases_in_rust/)
 - [Scaling Databases at Activision (2023)](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf) ([HN](https://news.ycombinator.com/item?id=35655910))
 - [Build Your Own Database From Scratch](https://build-your-own.org/database/) ([HN](https://news.ycombinator.com/item?id=35666598))
+- [Database branching: three-way merge for schema changes (2023)](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes) ([HN](https://news.ycombinator.com/item?id=35716824))
+- [OtterTune](https://ottertune.com/) - AI Powered Automatic PostgreSQL & MySQL Tuning.

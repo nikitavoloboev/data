@@ -109,3 +109,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [gh-slack](https://github.com/rneatherway/gh-slack) - Utility for archiving a slack conversation as markdown.
 - [PrBuddy](https://github.com/MitchWijt/prBuddy) - CLI that automatically generates a PR link and posts it to a slack channel with 1 command.
 - [Slack ChatGPT](https://github.com/shapehq/slack-chatgpt) - Integrate ChatGPT into Slack using Cloudflare Workers.
+- [Linen.dev: A 500 kb Slack alternative (2023)](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative) ([HN](https://news.ycombinator.com/item?id=35718417))

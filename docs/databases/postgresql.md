@@ -697,3 +697,5 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Understand Postgres wire protocol by writing a simple program (2023)](https://viggy28.dev/article/introduction-to-postgres-wire-protocol-in-go/)
 - [How Postgres Triggers Can Simplify Your Back End Development (2023)](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html) ([HN](https://news.ycombinator.com/item?id=35676572))
 - [Nine ways to shoot yourself in the foot with Postgres (2023)](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql) ([HN](https://news.ycombinator.com/item?id=35684220)) ([Reddit](https://www.reddit.com/r/programming/comments/12ye352/nine_ways_to_shoot_yourself_in_the_foot_with/))
+- [The Part of PostgreSQL We Hate the Most (2023)](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/) ([HN](https://news.ycombinator.com/item?id=35716963))
+- [In PostgreSQL, powerful Full Text Search is available out of the box (2023)](https://admcpr.com/postgres-full-text-search-is-better-than-part1/) ([HN](https://news.ycombinator.com/item?id=35697528))

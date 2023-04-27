@@ -156,3 +156,4 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 - [Ask HN: Can any Hetzner user please explain your workflow on Hetzner? (2023)](https://news.ycombinator.com/item?id=35260141)
 - [Awesome Billing](https://github.com/kdeldycke/awesome-billing) - Billing & Payments knowledge for cloud platforms.
 - [We Need To Talk About Vercel (2023)](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel) ([HN](https://news.ycombinator.com/item?id=35507814))
+- [hcloud for Rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API.

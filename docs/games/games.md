@@ -323,6 +323,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Most beautiful game that has special place in your heart (2023)](https://www.reddit.com/r/PS4/comments/12vg2mh/most_beautiful_game_that_has_special_place_in/)
 - [Game like Minecraft where the world "interacts" with me (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12w9yfn/this_is_gonna_sound_weird_but_is_there_a_game/)
 - [Best game that you've played on Playstation 5 story & game play wise? (2023)](https://www.reddit.com/r/PS5/comments/12xxmy9/best_game_that_youve_played_on_playstation_5/)
+- ["Death is not defeat" games but not roguelikes. Think of Outward, State of Decay, Shadow of War, Heat Signature (2023)](https://www.reddit.com/r/gamingsuggestions/comments/12zemir/death_is_not_defeat_games_but_not_roguelikes/)
 
 ## Links
 

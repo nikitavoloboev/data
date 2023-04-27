@@ -1493,6 +1493,7 @@
 - [swift-tca-loadable](https://github.com/m-housh/swift-tca-loadable) - Swift package for handling loadable items using The Composable Architecture.
 - [Swift CLFormat](https://github.com/objecthub/swift-clformat) - Implementation of Common Lisp's `format` procedure from scratch in Swift.
 - [JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC.
+- [Foundation](https://github.com/apple/swift-foundation) - Fundamental types for numbers, data, collections, and dates, as well as functions for task management, file system access, and more.
 
 ## Other (not lib)
 
