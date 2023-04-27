@@ -312,6 +312,6 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [Troubleshooting JWT validation](https://cloud.google.com/endpoints/docs/frameworks/java/troubleshoot-jwt)
 - [Ask HN: Why is WebAuthn so slow to take off? (2023)](https://news.ycombinator.com/item?id=35675567)
 - [btn.social](https://btn.social/) - Implement social authentication in seconds.
-- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard) ([HN](https://news.ycombinator.com/item?id=35713518))
+- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard) ([HN](https://news.ycombinator.com/item?id=35713518)) ([Lobsters](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023))
 - [OAuth 2.0 for First-Party Native Applications](https://github.com/aaronpk/oauth-first-party-native-apps)
 - [Issues with hand rolling auth (2023)](https://twitter.com/thdxr/status/1651434348174778370)

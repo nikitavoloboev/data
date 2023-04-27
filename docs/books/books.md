@@ -656,3 +656,5 @@ Love how some started making GPT programs tuned to specific books like [this](ht
 - [BookGPT](https://book-gpt.vercel.app/) - Drop a book, start asking question. ([Code](https://github.com/fraserxu/book-gpt))
 - [BookFinder](https://www.bookfinder.com/) - Find books with just one search.
 - [What is your favorite book, that is at least 100 years old? (2023)](https://www.reddit.com/r/books/comments/12kw5x2/what_is_your_favourite_book_that_is_at_least_100/)
+- [A visual book recommender (2023)](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/) ([HN](https://news.ycombinator.com/item?id=35726559))
+- [Ask HN: How do you synthesize books that you read? (2023)](https://news.ycombinator.com/item?id=35728268)

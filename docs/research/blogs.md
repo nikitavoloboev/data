@@ -420,6 +420,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Monad Monkey](https://monadmonkey.com/)
 - [Sam Zeloof](http://sam.zeloof.xyz/)
 - [Signal](https://signal.nucleate.xyz/)
+- [Nathan Rooy](https://nathanrooy.github.io/)
 
 ## Notes
 

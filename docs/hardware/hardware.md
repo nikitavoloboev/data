@@ -419,3 +419,4 @@
 - [The Hardware Lottery](https://hardwarelottery.github.io/)
 - [Ask HN: What is a good book about how computers work? (2023)](https://news.ycombinator.com/item?id=35609657)
 - [Ask HN: Why is TSMC so competitive in semiconductor fabrication? (2023)](https://news.ycombinator.com/item?id=35665076)
+- [TSMC Outlines 2nm Plans: N2P Brings Backside Power Delivery in 2026, N2X Added (2023)](https://www.anandtech.com/show/18832/tsmc-outlines-2nm-plans-n2p-brings-backside-power-delivery-in-2026-n2x-added-to-roadmap) ([HN](https://news.ycombinator.com/item?id=35726836))

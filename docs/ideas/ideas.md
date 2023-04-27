@@ -167,3 +167,4 @@ I note all my ideas in [LA](learn-anything.md). For ideas I am exceptionally exc
 - [How to get new ideas (2023)](http://paulgraham.com/getideas.html) ([HN](https://news.ycombinator.com/item?id=34502724))
 - [Hacker News Startup Ideas](https://hn-ideas.tjcx.me/) ([HN](https://news.ycombinator.com/item?id=35467917))
 - [Ask HN: Side project of more that $2k monthly revenue what's your project? (2023)](https://news.ycombinator.com/item?id=35567822)
+- [Ask HN: Most interesting tech you built for just yourself? (2023)](https://news.ycombinator.com/item?id=35729232)

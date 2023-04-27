@@ -1006,3 +1006,4 @@ if *boolArgPtr != false {
 - [revgen](https://github.com/inigolabs/revgen) - Speed up go:generate by auto detecting code changes.
 - [Quines in Go](https://github.com/eliben/go-quines)
 - [go-tool-cache](https://github.com/bradfitz/go-tool-cache) - Share your cache over the network.
+- [Go Channels explained](https://github.com/mwiater/golangchannels)

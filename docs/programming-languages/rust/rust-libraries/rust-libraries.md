@@ -3171,3 +3171,4 @@
 - [Improving build times for derive macros by 3x or more (2023)](https://www.reddit.com/r/rust/comments/12kaiw8/improving_build_times_for_derive_macros_by_3x_or/)
 - [Google's Rust Crate Audits](https://github.com/google/supply-chain)
 - [Rust's powerful macros explained](https://twitter.com/w_hgm/status/1650913814693527553)
+- [Emerging Rust GUI libraries in a WASM world (2023)](https://monadical.com/posts/shades-of-rust-gui-library-list.html) ([HN](https://news.ycombinator.com/item?id=35722681))

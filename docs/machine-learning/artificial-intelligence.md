@@ -221,3 +221,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [AutoResearcher](https://github.com/eimenhmdt/autoresearcher) - Automating scientific workflows with AI.
 - [AI Safety FAQ](https://aisafety.info/) ([Code](https://github.com/StampyAI/stampy-ui))
 - [GPTRPG](https://github.com/dzoba/gptrpg) - Demo of an GPT-based agent existing in an RPG-like environment.
+- [Fireside Chat: With Ilya Sutskever and Jensen Huang: AI Today and Vision of the Future (2023)](https://www.youtube.com/watch?v=XjSUJUL9ADw)
