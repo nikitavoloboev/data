@@ -37,7 +37,7 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 
 ## Notes
 
-- [Server Components lets you split each component in two. a Server part which depends on data, and a Client part which depends on state.](https://twitter.com/dan_abramov/status/1651699851120242689)
+- [Server Components lets you split each component in two. Server part which depends on data, and a Client part which depends on state.](https://twitter.com/dan_abramov/status/1651699851120242689)
 - Immediate mode simply means you specify what to redraw on every frame, there is no caching unless you specify it. And you basically redraw whenever some state changes (in a game this is going to be at frame rate).
   - In React, when some state changes, you respecify the DOM for components whose state has changed, but asynchronously the library determines how to make the DOM update more efficient on the next frame redraw.
 - Retained-mode means you modify the scene graph (aka DOM) using imperative statements, it is difficult to keep your UI in sync with your models. With immediate-mode, you simply create a function f(m) over your model m to render it on each frame rate (which also often involves imperative instructions affecting the frame buffer, but the buffer can be cleared on each frame so who cares).

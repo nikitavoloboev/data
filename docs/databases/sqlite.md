@@ -329,3 +329,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [SQLiteGPT](https://github.com/Airsequel/SQLiteGPT) - SQL function for SQLite to directly query OpenAI's ChatGPT.
 - [sqlite-history: tracking changes to SQLite tables using triggers (2023)](https://simonwillison.net/2023/Apr/15/sqlite-history/)
 - [SQLite Wasm](https://github.com/tomayac/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
+- [Exciting SQLite Improvements Since 2020 (2023)](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/) ([HN](https://news.ycombinator.com/item?id=35740683))

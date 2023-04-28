@@ -857,3 +857,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git.
 - [Supertools](https://supertools.therundown.ai/) - Best AI Tools Guide.
 - [Jellylade](https://app.jellylade.com/) - Turn your screenshots into posts. ([HN](https://news.ycombinator.com/item?id=35709453))
+- [Go UML](https://github.com/MrIceman/go-uml) - Tool written in Go to build Sequence Diagrams and more UML. ([HN](https://news.ycombinator.com/item?id=35727111))

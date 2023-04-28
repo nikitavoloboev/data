@@ -298,3 +298,4 @@ title: Bioinformatics
 - [WHERE TRUE Technologies](https://www.wheretrue.com/) - Bioinformatics toolkits.
 - [Signal](https://signal.nucleate.xyz/) - Voice of Next Generation Biotech. ([Intro](https://signal.nucleate.xyz/welcome/))
 - [DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models (2023)](https://arxiv.org/abs/2304.03889) ([Code](https://github.com/ketatam/DiffDock-PP))
+- [Nice starters into bioinformatics (2023)](https://www.reddit.com/r/bioinformatics/comments/1321z33/any_recommendations_or_tips_for_a_biology_student/)

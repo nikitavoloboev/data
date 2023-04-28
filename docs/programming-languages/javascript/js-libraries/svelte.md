@@ -387,3 +387,4 @@ title: Svelte
 - [Svelte Email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte.
 - [Svelte Scoped UnoCSS](https://github.com/jacob-8/svelte-scoped-uno) - Use UnoCSS utility styles in a modular fashion in Svelte, with styles being stored only where needed.
 - [Reflections on Migrating My SaaS to SvelteKit (2023)](http://sveltekitsaas.com/articles/migrate-saas-to-sveltekit/) ([HN](https://news.ycombinator.com/item?id=35708070))
+- [What backend should i use for SvelteKit projects? (2023)](https://www.reddit.com/r/sveltejs/comments/1317he9/what_backend_should_i_use_for_sveltekit_projects/)

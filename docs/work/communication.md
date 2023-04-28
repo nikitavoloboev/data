@@ -76,6 +76,7 @@ I try to communicate transparently and in detail about things I tried and things
 - [Communication can be a sign of dysfunction in teams. Means people aren't working together in a close, organic way.](https://twitter.com/FoundersPodcast/status/1574043271495438337)
 - [Don’t say maybe when you want to say no.](https://twitter.com/mds/status/1586396254916866049)
 - [Meetings are a usually a bug. If you properly root cause them, you will find a trust issue, a clarity issue, or a missing API. Meetings can paper over these, but it’s much better to fix root cause.](https://twitter.com/tobi/status/1610313464454561795)
+- [Often surprised by how hard it is for adults to just ask for what they want. I suspect this is aggressively trained out of us in childhood, and many never undo the training. You can ask for a lot as long as you’re ok with being told “no”.](https://twitter.com/nabeelqu/status/1651634277963145216)
 
 ## Links
 

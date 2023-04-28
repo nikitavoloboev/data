@@ -563,3 +563,5 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456) ([Lobsters](https://lobste.rs/s/eelvhl/stack_exchange_programming_language))
 - [Wipple](https://wipple.dev/) - Programming language that’s natural to read, write and learn. ([Code](https://github.com/wipplelang/wipple))
 - [comelang](https://github.com/ab25cq/comelang) - Modern compiler using reference count GC.
+- [ScrapScript](https://scrapscript.org/) - Tiny functional language for sharable software. ([HN](https://news.ycombinator.com/item?id=35712163))
+- [Native Implementation of Mutable Value Semantics (2021)](https://arxiv.org/abs/2106.12678)

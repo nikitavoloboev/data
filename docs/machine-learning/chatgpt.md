@@ -331,3 +331,4 @@ It's also great at giving examples.
 - [Supercharged experience for ChatGPT, DALL-E and Stable Diffusion](https://github.com/anse-app/anse)
 - [Experiment in forking ChatGPT conversations](https://github.com/jdan/deepdive)
 - [GPT4free](https://github.com/xtekky/gpt4free) - Use ChatGPT, for free.
+- [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)

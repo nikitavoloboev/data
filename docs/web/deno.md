@@ -384,3 +384,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno SaaSKit](https://github.com/denoland/saaskit) - Modern SaaS template built on Fresh.
 - [Service](https://github.com/Hexagon/service) - Install a Deno application as a system service.
 - ["What's next for Deno?" by Ryan Dahl (2023)](https://www.youtube.com/watch?v=LVEGRj3RZSA)
+- [Deno KV](https://deno.com/kv) - Global database for global apps.

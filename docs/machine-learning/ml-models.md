@@ -182,3 +182,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Banana Node/TypeScript SDK](https://github.com/bananaml/banana-node-sdk)
 - [Meerkat](https://github.com/HazyResearch/meerkat) - Interactive data structures for evaluating foundation models.
 - [AutoGluon-Cloud](https://github.com/autogluon/autogluon-cloud) - User tools to train, fine-tune and deploy AutoGluon backed models on the cloud.
+- [Hidet: A Deep Learning Compiler for Efficient Model Serving (2023)](https://pytorch.org/blog/introducing-hidet/) ([HN](https://news.ycombinator.com/item?id=35737284))
