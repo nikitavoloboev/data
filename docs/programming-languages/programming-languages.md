@@ -565,3 +565,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [comelang](https://github.com/ab25cq/comelang) - Modern compiler using reference count GC.
 - [ScrapScript](https://scrapscript.org/) - Tiny functional language for sharable software. ([HN](https://news.ycombinator.com/item?id=35712163))
 - [Native Implementation of Mutable Value Semantics (2021)](https://arxiv.org/abs/2106.12678)
+- [PL Grad Schools](https://github.com/LeifAndersen/PLGradSchools)

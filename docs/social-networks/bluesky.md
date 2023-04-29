@@ -16,3 +16,6 @@ title: Bluesky
 - [Bluesky Overhaul](https://github.com/xenohunter/bluesky-overhaul) - UX improvements for Bluesky web app.
 - [Skyline](https://github.com/louislva/skyline) - Bring your own algorithm for Bluesky. ([Web](https://skyline.gay/))
 - [swiftsky](https://github.com/rmcan/swiftsky) - Unofficial Bluesky/ATProto client in SwiftUI.
+- [Bluesky Photo Test](https://github.com/robpc/bluesky-photo-test) - Test project for posting to Bluesky with a photo embed.
+- [Bluesky API Go client](https://github.com/karalabe/go-bluesky)
+- [How to set your domain as your handle (2023)](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial) ([HN](https://news.ycombinator.com/item?id=35749737))

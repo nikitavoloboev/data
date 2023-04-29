@@ -12,7 +12,7 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 
 Like the advice of: [try everything, figure out what you do best, make money from it. Stop caring what people think about you early](https://www.tiktok.com/@_notesformen/video/7167063418308971781). I try define these kind of [rules and more for myself](../focusing/rules.md).
 
-[Blueprint](https://blueprint.bryanjohnson.co/) has [interesting ideas](https://www.youtube.com/watch?v=aXdEPiFlqH8). I love that it's [vegan](../environment/veganism.md) based too. Trying to adapt [some ideas](https://www.youtube.com/watch?v=7rs_JK-pTTQ) from it as my goals with respect to [health](health.md) and longevity are to maximize [happiness](../life/happiness.md) too and Bryan's method while it can work, does so at the expense of some life satisfaction.
+[Blueprint](https://blueprint.bryanjohnson.co/) has [interesting ideas](https://www.youtube.com/watch?v=aXdEPiFlqH8). I love that it's [vegan](../environment/veganism.md) based too. Trying to adapt [some ideas](https://www.youtube.com/watch?v=7rs_JK-pTTQ) from it as my goals with respect to [health](health.md) and longevity are to maximize [happiness](../life/happiness.md) too and Bryan's method while it [can work](https://www.reddit.com/r/longevity/comments/132627i/bryan_johnson_blocks_andrew_steele_for_suggesting/), does so at the expense of some life satisfaction.
 
 I quite like my [morning](../focusing/processes.md#mroning)/[day](../focusing/processes.md#day)/[evening](../focusing/processes.md#evening) routines. That plus following some basic [rules](../focusing/rules.md) regarding [health](health.md) and [exercise](../fitness/exercises.md) is enough to hopefully give me a rather happy prolonged life.
 

@@ -716,3 +716,4 @@ title: Linux
 - [Linux kernel syscall tables](https://syscalls.mebeim.net/) - High-quality browsable tables of system calls implemented by the Linux kernel on various architectures and ABIs. ([Code](https://github.com/mebeim/linux-syscalls))
 - [Measuring the Impact of False Sharing (2023)](https://alic.dev/blog/false-sharing.html)
 - [Buzzer](https://github.com/google/buzzer) - eBPF Fuzzer toolchain.
+- [BTFHub](https://github.com/aquasecurity/btfhub) - Provides BTF files for existing published kernels that don't support embedded BTF.

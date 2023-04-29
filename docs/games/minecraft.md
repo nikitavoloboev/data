@@ -161,3 +161,4 @@ title: Minecraft
 - [mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address.
 - [Anvil](https://owengage.com/anvil/) - Completely in-browser Minecraft world renderer.
 - [Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks](https://github.com/PKU-RL/Plan4MC)
+- [Mineflake](https://github.com/nix-community/mineflake) - NixOS flake for easy declarative creation of minecraft server containers.

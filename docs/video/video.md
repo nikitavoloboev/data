@@ -523,3 +523,4 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [sazztv](https://github.com/Sazzo/sazztv) - Video streaming platform inspired by Twitch. Built with Svelte & Go.
 - [OpenTogetherTube](https://opentogethertube.com/) - Watch videos with your friends. ([Code](https://github.com/dyc3/opentogethertube))
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - Tool for chatting with video.
+- [Yuebing](https://github.com/cobbzilla/yuebing) - Open-source software for running video hosting sites.

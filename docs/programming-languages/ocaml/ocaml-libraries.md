@@ -265,6 +265,7 @@ title: OCaml libraries
 - [Format-doc](https://github.com/Octachron/format-doc) - Alternative interpreter for OCaml format strings.
 - [Distrproc](https://github.com/darrenldl/distrproc) - Erlang style process/actor model library in OCaml.
 - [pyre-ast](https://github.com/grievejia/pyre-ast) - OCaml library to parse Python files.
+- [deque](https://github.com/art-w/deque) - Purely Functional, Real-Time Deques with Catenation (Kaplan & Tarjan).
 
 ## Links
 

@@ -1128,3 +1128,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust allows redeclaring local variables to great benefit (2023)](https://ntietz.com/blog/rust-shadowing-idiomatic/) ([Lobsters](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables))
 - [GCC 13 and the State of Gccrs (2023)](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html) ([HN](https://news.ycombinator.com/item?id=35695383))
 - [How does async Rust work (2023)](https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html) ([HN](https://www.reddit.com/r/rust/comments/130hcbc/how_does_async_rust_work/))
+- [Bringing runtime checks to compile time in Rust (2023)](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)

@@ -2822,6 +2822,7 @@
 - [lyd](https://github.com/chaosprint/lyd) - Music DSP library written in Rust with a focus on performance and flexibility.
 - [triple_accel](https://github.com/Daniel-Liu-c0deb0t/triple_accel) - Rust edit distance routines accelerated using SIMD.
 - [dotenvy](https://github.com/allan2/dotenvy) - Well-maintained fork of the dotenv crate.
+- [Railroad](https://github.com/lukaslueg/railroad) - Library to produce syntax diagrams as Scalable Vector Graphics.
 
 ## Cargo Plugins
 

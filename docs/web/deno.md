@@ -385,3 +385,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Service](https://github.com/Hexagon/service) - Install a Deno application as a system service.
 - ["What's next for Deno?" by Ryan Dahl (2023)](https://www.youtube.com/watch?v=LVEGRj3RZSA)
 - [Deno KV](https://deno.com/kv) - Global database for global apps.
+- [Deno 1.33: Deno 2 is coming (2023)](https://deno.com/blog/v1.33) ([HN](https://news.ycombinator.com/item?id=35750369))

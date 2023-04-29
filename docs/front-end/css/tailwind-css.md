@@ -205,3 +205,4 @@ I always value readability and extendability over being able to write/edit thing
 - [Find the nearest Tailwind Color](https://find-nearest-tailwind-colour.netlify.app/)
 - [Tailwind CSS Color Generator](https://uicolors.app/create) - UI Examples & WCAG Contrast Ratios.
 - [tailwindcss-shadow-fill](https://github.com/phuctm97/tailwindcss-shadow-fill) - TailwindCSS utility to override background fill color using shadow.
+- [tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind color themes made easy.

@@ -107,3 +107,4 @@ title: Reddit
 - [shreddit](https://github.com/andrewbanchich/shreddit) - Tool to delete Reddit comments and posts.
 - [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/) - Creates an aggregate of a users activity.
 - [Zats Reddit](https://github.com/TGlide/zats-reddit) - Reddit clone built with Zod, Appwrite, Tailwind, and SvelteKit.
+- [My Best of Reddit](https://github.com/rounakdatta/my-best-of-reddit) - Get your upvoted posts and comments from Reddit delivered over Telegram.

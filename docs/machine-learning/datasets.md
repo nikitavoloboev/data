@@ -254,3 +254,4 @@
 - [What’s in the RedPajama-Data-1T LLM training set (2023)](https://simonwillison.net/2023/Apr/17/redpajama-data/)
 - [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - Open Source Recipe to Reproduce LLaMA training dataset.
 - [Instruction Tuning Datasets](https://github.com/raunak-agarwal/instruction-datasets) - All available datasets for Instruction Tuning of Large Language Models.
+- [DataComp](https://github.com/mlfoundations/datacomp) - Competition about designing datasets for pre-training CLIP models.

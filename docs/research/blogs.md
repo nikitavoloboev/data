@@ -421,6 +421,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Sam Zeloof](http://sam.zeloof.xyz/)
 - [Signal](https://signal.nucleate.xyz/)
 - [Nathan Rooy](https://nathanrooy.github.io/)
+- [Kai Kaufman](https://ktkaufman03.github.io/)
 
 ## Notes
 

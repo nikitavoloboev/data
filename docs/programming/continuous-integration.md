@@ -112,3 +112,4 @@
 - [An Ideal CI/CD System (2022)](https://matt-rickard.com/an-ideal-ci-cd-system)
 - [Go CI](https://github.com/sagikazarmark/goci) - High-level CI config DSL written in Go based on Dagger.
 - [Macige](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development.
+- [Cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines in TypeScript, test them locally.

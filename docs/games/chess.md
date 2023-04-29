@@ -285,3 +285,4 @@ Want to build a [tool where a grid of chess boards is shown where each row shows
 - [Antikythera](https://github.com/0hq/antikythera) - Parrallelized Chess engine written in Go.
 - [Irina Krush - YouTube](https://www.youtube.com/@irina_krush/videos)
 - [Great chess books advice](https://www.reddit.com/r/chess/comments/130iwb7/just_now_on_the_wc_commentary_speaking_of_chess/)
+- [Secrets of Pawnless Endings by John Nunn](https://www.goodreads.com/book/show/2722152-secrets-of-pawnless-endings)

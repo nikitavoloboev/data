@@ -1180,6 +1180,7 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 - [deepmerge](https://github.com/toumorokoshi/deepmerge) - Tools to handle merging of nested data structures in python.
 - [tinytag](https://github.com/devsnd/tinytag) - Library for reading music meta data of most common audio files in pure python.
 - [Optimized Einsum](https://github.com/dgasmith/opt_einsum) - Optimizing einsum functions in NumPy, Tensorflow, Dask, and more with contraction order optimization.
+- [fast_hdbscan](https://github.com/TutteInstitute/fast_hdbscan) - Fast multi-core implementation of HDBSCAN for low dimensional Euclidean spaces.
 
 ## Notes
 

@@ -201,3 +201,4 @@ I try to avoid pointless politics news as much as possible but do like [John Mea
 - [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) - Do Your Taxes for Free. ([HN](https://news.ycombinator.com/item?id=34462122))
 - [How can I optimize more on taxes in US (2023)](https://www.reddit.com/r/fatFIRE/comments/10u5kyl/how_can_i_optimize_more_on_taxes_pure_w2_income/)
 - [U.S. Cities Database](https://github.com/kelvins/US-Cities-Database) - SQL dump of U.S. cities data containing latitude and longitude.
+- [EB-5 Visa Investment and the 7 Milestones to Success (2022)](https://www.youtube.com/watch?v=H3D7Xv5iHDg)
