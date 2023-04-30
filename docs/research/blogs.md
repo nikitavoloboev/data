@@ -422,6 +422,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Signal](https://signal.nucleate.xyz/)
 - [Nathan Rooy](https://nathanrooy.github.io/)
 - [Kai Kaufman](https://ktkaufman03.github.io/)
+- [Brad Woods](https://garden.bradwoods.io/)
 
 ## Notes
 

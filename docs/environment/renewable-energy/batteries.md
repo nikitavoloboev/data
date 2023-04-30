@@ -40,3 +40,4 @@
 - [PyBaMM](https://github.com/pybamm-team/PyBaMM) - Fast and flexible physics-based battery models in Python.
 - [Solid-State Battery Has 2x the Energy–and No Anode (2023)](https://spectrum.ieee.org/solid-state-battery-no-anode) ([HN](https://news.ycombinator.com/item?id=35384608))
 - [CATL has announced a new “condensed” battery with 500 Wh/kg (2023)](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/) ([HN](https://news.ycombinator.com/item?id=35649935))
+- [Why Are Lithium Prices Collapsing? (2023)](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/) ([HN](https://news.ycombinator.com/item?id=35760087))

@@ -1106,3 +1106,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Stability AI releases StableVicuna, a RLHF LLM Chatbot (2023)](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot) ([HN](https://news.ycombinator.com/item?id=35745682))
 - [A brief history of LLaMA models (2023)](https://agi-sphere.com/llama-models/) ([HN](https://news.ycombinator.com/item?id=35736872))
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://github.com/AIGC-Audio/AudioGPT)
+- [Introducing Lamini, the LLM Engine for Rapid Customization (2023)](https://lamini.ai/blog/introducing-lamini)
+- [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) - Curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers). ([Paper](https://arxiv.org/abs/2304.13712v2))

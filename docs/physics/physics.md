@@ -375,3 +375,4 @@ Love [Sean Carroll](https://twitter.com/seanmcarroll)'s [book](https://www.prepo
 - [Evidence for Dirac flat band superconductivity enabled by quantum geometry (2023)](https://www.nature.com/articles/s41586-022-05576-2) ([HN](https://news.ycombinator.com/item?id=34891407))
 - [Double-slit time diffraction at optical frequencies (2023)](https://www.nature.com/articles/s41567-023-01993-w) ([HN](https://news.ycombinator.com/item?id=35433982))
 - [Why gravity is not like the other forces (2023)](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/) ([HN](https://news.ycombinator.com/item?id=35722206))
+- [What exactly is the Planck length?](https://twitter.com/WKCosmo/status/1651986002490138626)

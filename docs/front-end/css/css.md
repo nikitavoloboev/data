@@ -647,3 +647,5 @@ all: unset
 - [Spinning Diagrams with CSS (2023)](https://x.st/spinning-diagrams-with-css/) ([HN](https://news.ycombinator.com/item?id=35646199))
 - [CSS Textmate grammar for syntax highlighting](https://github.com/microsoft/vscode-css)
 - [css-color-converter](https://github.com/andyjansson/css-color-converter) - Converts CSS colors from one representation to another.
+- [CSS Tip: Learn CSS the easy one](https://css-tip.com/)
+- [CSS Blend Modes (2023)](https://garden.bradwoods.io/notes/css/blend-modes)

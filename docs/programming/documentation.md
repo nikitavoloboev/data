@@ -229,3 +229,4 @@ Love the approach of writing RFCs before any big architectural decisions are mad
 - [Next.js OpenAI Doc Search Template](https://github.com/supabase-community/nextjs-openai-doc-search)
 - [Release Notes Generator](https://github.com/typefully/auto-release-notes) - Uses the Linear API and the OpenAI GPT language model to create a nicely formatted Markdown file.
 - [EnhanceDocs](https://github.com/enhancedocs/enhancedocs) - AI-powered search engine for your project documentation.
+- [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/) ([HN](https://news.ycombinator.com/item?id=35759449))
