@@ -119,6 +119,9 @@ Having said all of above, I think the most effective approach is having a great 
 - [Don't believe what women say. They care about how they feel more than what they say.](https://www.reddit.com/r/seduction/comments/12fkris/is_dating_for_relationship_any_different_from/)
 - [I believe that dating with the intent of a relationship always backfires. When you date causally without seeking out a relationship, you’ll actually wind up in a relationship when you least expect it, because the pressure isn’t on and you can be yourself more easily.](https://www.reddit.com/r/seduction/comments/12fkris/is_dating_for_relationship_any_different_from/)
 - [A woman's initial interest has a window of time to it, and it will wane if you're not progressing things in a sexual direction](https://www.reddit.com/r/seduction/comments/1317div/a_womans_initial_interest_has_a_window_of_time_to/)
+- [I remember when it clicked for me. Talk to them like a regular fucking person. Like if you were chatting up the guy sitting at the bar next to you. After establishing that comfort and showing you don’t give a fuck, start escalating sexually cause otherwise it really will just be a friendship.](https://www.reddit.com/r/seduction/comments/12xt6gq/how_long_did_it_take_you_to_find_out_that_talking/)
+- [When you talk to people, and you’re curious about them, it makes them like you. This is a basic rule of socialization that many people pick up on as they mature.](https://www.reddit.com/r/seduction/comments/12xt6gq/how_long_did_it_take_you_to_find_out_that_talking/)
+- [Escalating sexually is all non verbal, that way it happens naturally and not forced through words. Playfully flirt verbally, but sexually escalate with your body language and start touching very lightly in socially acceptable ways like the reassuring shoulder touch. Gauge her comfort level, scale up to heavy petting along with her comfort level.](https://www.reddit.com/r/seduction/comments/12zh3qr/how_to_go_from_flirting_to_sexual/)
 
 ## Links
 
@@ -169,3 +172,4 @@ Having said all of above, I think the most effective approach is having a great 
 - [Is dating for relationship any different from casual dating?](https://www.reddit.com/r/seduction/comments/12fkris/is_dating_for_relationship_any_different_from/)
 - [It took me a long time to realise this, but women actually like to be approached. They also respect guys more who do.](https://www.reddit.com/r/seduction/comments/12e29cv/it_took_me_a_long_time_to_realise_this_but_women/)
 - [How to Carry Self Around Someone Who's Rejected You](https://www.reddit.com/r/seduction/comments/12hv1p5/how_to_carry_self_around_someone_whos_rejected_you/)
+- [How to go from Flirting to Sexual](https://www.reddit.com/r/seduction/comments/12zh3qr/how_to_go_from_flirting_to_sexual/)

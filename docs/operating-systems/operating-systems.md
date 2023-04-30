@@ -182,6 +182,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [HellOS](https://github.com/andrewrk/HellOS) - Bare bones "hello world" i386 kernel written in Zig.
 - [ArceOS](https://github.com/rcore-os/arceos) - Experimental modular OS written in Rust.
 - [Felix OS](https://github.com/mrgian/felix) - x86 operating system. ([Reddit](https://www.reddit.com/r/rust/comments/12gxh8b/felix_an_x86_hobby_os_written_in_rust/))
+- [aerugo](https://github.com/n7space/aerugo) - Safety-critical applications oriented Real-Time Operating System written in Rust.
 
 ## Notes
 

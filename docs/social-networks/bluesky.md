@@ -19,3 +19,6 @@ title: Bluesky
 - [Bluesky Photo Test](https://github.com/robpc/bluesky-photo-test) - Test project for posting to Bluesky with a photo embed.
 - [Bluesky API Go client](https://github.com/karalabe/go-bluesky)
 - [How to set your domain as your handle (2023)](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial) ([HN](https://news.ycombinator.com/item?id=35749737))
+- [Bluesky TS Bot SDK](https://github.com/tautologer/easy-bsky-bot-sdk)
+- [Simple Go firehose for Bluesky](https://github.com/CharlesDardaman/blueskyfirehose)
+- [Authenticated Transfer Protocol](https://github.com/nrempel/atp) - Command line tool for the Authenticated Transfer Protocol.

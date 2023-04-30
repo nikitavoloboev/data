@@ -660,6 +660,8 @@
 - [Stitch](https://github.com/entrhq/stitch) - Lightweight, SwiftUI inspired dependency injection (DI) library that is compile time safe without the need for codegen tooling.
 - [swiftui-GestureVelocity](https://github.com/FluidGroup/swiftui-GestureVelocity) - Property-wrapper provides velocity in pt/s from gesture.
 - [markdown-webview](https://github.com/tomdai/markdown-webview) - Performant SwiftUI view that renders Markdown content.
+- [Queryable](https://github.com/SwiftedMind/Queryable) - Asynchronous view presentations in SwiftUI.
+- [Puddles](https://github.com/SwiftedMind/Puddles) - Native SwiftUI app architecture.
 
 ## Test
 
@@ -1496,6 +1498,7 @@
 - [JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC.
 - [Foundation](https://github.com/apple/swift-foundation) - Fundamental types for numbers, data, collections, and dates, as well as functions for task management, file system access, and more.
 - [TaskManager](https://github.com/0xOpenBytes/TaskManager) - Cache for asynchronous tasks in Swift.
+- [VersionedCodable](https://github.com/jrothwell/VersionedCodable) - Wrapper around Swift's Codable that allows versioning of Codable types.
 
 ## Other (not lib)
 

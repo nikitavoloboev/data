@@ -1108,3 +1108,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://github.com/AIGC-Audio/AudioGPT)
 - [Introducing Lamini, the LLM Engine for Rapid Customization (2023)](https://lamini.ai/blog/introducing-lamini)
 - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) - Curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers). ([Paper](https://arxiv.org/abs/2304.13712v2))
+- [Instruction Tuning Papers](https://github.com/SinclairCoder/Instruction-Tuning-Papers)
+- [WangChanGLM](https://github.com/PyThaiNLP/WangChanGLM) - Multilingual Instruction-Following Model.
+- [Otter](https://github.com/Luodian/Otter) - Instruction-tuned model built upon OpenFlamingo that has been customized for a context.

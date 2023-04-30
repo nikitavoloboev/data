@@ -2153,6 +2153,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [queue](https://github.com/adrianbrad/queue) - Go package providing multiple queue implementations. Developed in a thread-safe generic way.
 - [uDiff](https://github.com/aymanbagabas/go-udiff) - Micro Go diff library.
 - [ecs](https://github.com/unitoftime/ecs) - Simple and generic ECS implementation in Go.
+- [nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.
 
 ## Links
 

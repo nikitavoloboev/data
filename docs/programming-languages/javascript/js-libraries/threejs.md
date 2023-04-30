@@ -170,3 +170,5 @@ title: Three.js
 - [IFC Loader for Three.js](https://github.com/IFCjs/web-ifc-three)
 - [react-three-offscreen](https://github.com/pmndrs/react-three-offscreen) - Offscreen worker canvas for react-three-fiber.
 - [ThreeJS Sketches | Isaac Mason](https://sketches.isaacmason.com/) ([Code](https://github.com/isaac-mason/sketches))
+- [Browser-based robot simulator with three.js & rapier.js (2023)](https://grgv.xyz/blog/simulator/)
+- [Three.quarks](https://github.com/Alchemist0823/three.quarks) - Fast, powerful and general purpose particle engine for three.js.

@@ -1249,3 +1249,4 @@
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - Flexible and interactive tool for video object tracking and segmentation, based on Segment Anything and XMem.
 - [Supervision](https://github.com/roboflow/supervision) - Easy-to-use utils that will come in handy in any Computer Vision project.
 - [Roboflow Notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques.
+- [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations (2023)](https://arxiv.org/abs/2304.11267)

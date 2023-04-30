@@ -1112,6 +1112,7 @@
 - [num-complex](https://github.com/rust-num/num-complex) - Complex numbers for Rust.
 - [RustQuant](https://github.com/avhz/RustQuant) - Rust library for quantitative finance.
 - [primal](https://github.com/huonw/primal) - Puts raw power into prime numbers.
+- [scilib](https://github.com/At0micBee/scilib) - Rust crate for mathematics and science.
 
 ## CSS
 
@@ -2824,6 +2825,7 @@
 - [dotenvy](https://github.com/allan2/dotenvy) - Well-maintained fork of the dotenv crate.
 - [Railroad](https://github.com/lukaslueg/railroad) - Library to produce syntax diagrams as Scalable Vector Graphics.
 - [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
+- [Inexor Reactive Graph Flow](https://github.com/inexorgame/inexor-rgf-application) - Reactive Graph and Flow Control.
 
 ## Cargo Plugins
 

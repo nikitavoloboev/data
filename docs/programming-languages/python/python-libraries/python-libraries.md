@@ -1181,6 +1181,7 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 - [tinytag](https://github.com/devsnd/tinytag) - Library for reading music meta data of most common audio files in pure python.
 - [Optimized Einsum](https://github.com/dgasmith/opt_einsum) - Optimizing einsum functions in NumPy, Tensorflow, Dask, and more with contraction order optimization.
 - [fast_hdbscan](https://github.com/TutteInstitute/fast_hdbscan) - Fast multi-core implementation of HDBSCAN for low dimensional Euclidean spaces.
+- [PandasAI](https://github.com/gventuri/pandas-ai) - Python library that adds generative artificial intelligence capabilities to Pandas.
 
 ## Notes
 

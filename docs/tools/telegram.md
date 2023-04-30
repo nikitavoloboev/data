@@ -305,3 +305,4 @@ Also use Telegram's Saved Messages for quick todos/notes. Tweets I want to act o
 - [Telegram Bot on Cloudflare Workers](https://github.com/cvzi/telegram-bot-cloudflare)
 - [insights-bot](https://github.com/nekomeowww/insights-bot) - Bot works with OpenAI GPT models to provide insights for your Telegram info flows.
 - [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps) ([HN](https://news.ycombinator.com/item?id=35662176))
+- [Telegram Antispam API](https://github.com/TheHamkerCat/telegram-antispam-rs) - Fast spam classification API built using Rocket Web Framework.

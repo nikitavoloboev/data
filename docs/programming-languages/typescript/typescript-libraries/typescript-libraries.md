@@ -867,6 +867,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Zodios Openapi](https://github.com/ecyrbe/zodios-openapi) - OpenAPI generator for Zodios API description format.
 - [t3-env](https://github.com/t3-oss/t3-env) - Typesafe Envs made Simple.
 - [Restate](https://github.com/fabianlindfors/restate) - Build reliable, understandable and debuggable backends with state machines.
+- [createAPIClient](https://github.com/sergiodxa/api-client) - Strongly typed API client using Zod.
+- [chronark/access](https://github.com/chronark/access) - E2E Typed Access Control.
 
 ## Links
 

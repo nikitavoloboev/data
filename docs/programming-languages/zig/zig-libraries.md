@@ -178,6 +178,7 @@
 - [okra](https://github.com/canvasxyz/okra) - Pseudo-random deterministic merkle tree built on LMDB.
 - [fastfilter](https://github.com/hexops/fastfilter) - Binary fuse & xor filters for Zig.
 - [zig-bench](https://github.com/Hejsil/zig-bench) - Simple benchmarking lib in Zig.
+- [mach/ecs](https://github.com/hexops/mach-ecs) - Entity Component System from first-principles designed for Zig.
 
 ## Links
 

@@ -271,3 +271,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Performant 2D strange attractors plotter](https://github.com/piellardj/strange-attractors-webgl)
 - [Tristan's Digital Art](https://github.com/TristanCacqueray/demo-render)
 - [SandTable](https://github.com/dubnom/sandtable) - Create beautiful dynamic art in sand.
+- [Sketching Racket Art Library Examples](https://soegaard.github.io/sketching/Examples.html)

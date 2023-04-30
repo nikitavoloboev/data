@@ -807,3 +807,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Database branching: three-way merge for schema changes (2023)](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes) ([HN](https://news.ycombinator.com/item?id=35716824))
 - [OtterTune](https://ottertune.com/) - AI Powered Automatic PostgreSQL & MySQL Tuning.
 - [Datomic is Free (2023)](https://news.ycombinator.com/item?id=35727967)
+- [HyperDB](https://github.com/jdagdelen/hyperDB) - Hyper-fast local vector database for use with LLM Agents.

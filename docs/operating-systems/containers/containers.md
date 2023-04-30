@@ -258,3 +258,4 @@
 - [Ground Control](https://github.com/malyn/groundcontrol) - Process manager for micro-VMs and containers.
 - [We achieved a 6-fold increase in Podman startup speed (2023)](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi) ([HN](https://news.ycombinator.com/item?id=35551830))
 - [RIK](https://github.com/rik-org/rik) - Workload orchestrator that allows you to deploy your cloud applications, written in Rust.
+- [Kuasar](https://github.com/kuasar-io/kuasar) - Efficient container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
