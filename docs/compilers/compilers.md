@@ -306,3 +306,4 @@
 - [cwhy](https://github.com/plasma-umass/cwhy) - Explains and suggest fixes for C/C++/Rust compiler error messages.
 - [Can You Trust a Compiler to Optimize Your Code? (2023)](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html) ([Reddit](https://www.reddit.com/r/rust/comments/12gksrk/blog_post_can_you_trust_a_compiler_to_optimize/))
 - [Kalyn: a self-hosting compiler for x86-64 (2023)](https://intuitiveexplanations.com/tech/kalyn)
+- [Translation Validation of Tensor Compilers (2023)](https://theses.hal.science/tel-03903895/)

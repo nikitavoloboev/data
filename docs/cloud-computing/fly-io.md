@@ -20,3 +20,4 @@ title: Fly.io
 - [From Go on EC2 to Fly.io (2023)](https://benhoyt.com/writings/flyio/) ([HN](https://news.ycombinator.com/item?id=34953242))
 - [Fly.io Reliability: It’s Not Great (2023)](https://community.fly.io/t/reliability-its-not-great/11253) ([HN](https://news.ycombinator.com/item?id=35044516))
 - [MRSK vs. Fly.io (2023)](https://fly.io/ruby-dispatch/mrsk-vs-flyio/) ([HN](https://news.ycombinator.com/item?id=35263886))
+- [Save money by autoscaling your Fly apps to zero when inactive (2023)](https://www.jacobparis.com/guides/fly-autoscale-to-zero)

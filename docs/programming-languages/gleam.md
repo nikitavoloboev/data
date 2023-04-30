@@ -61,3 +61,4 @@
 - [Gleam v0.27 - Hello panic, goodbye try (2023)](https://gleam.run/news/v0.27-hello-panic-goodbye-try/)
 - [Gleam OTP](https://github.com/gleam-lang/otp) - Fault tolerant multicore programs with actors.
 - [Monorepos, fast maps, and more – Gleam (2023)](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
+- [Introducing the Gleam package index (2023)](https://gleam.run/news/introducing-the-gleam-package-index/)

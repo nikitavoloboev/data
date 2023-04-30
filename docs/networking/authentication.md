@@ -316,3 +316,4 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [OAuth 2.0 for First-Party Native Applications](https://github.com/aaronpk/oauth-first-party-native-apps)
 - [Issues with hand rolling auth (2023)](https://twitter.com/thdxr/status/1651434348174778370)
 - [Passkeys.directory](https://passkeys.directory/)
+- [Why Clerk auth is nice (2023)](https://twitter.com/t3dotgg/status/1652218871590567937)
