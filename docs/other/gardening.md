@@ -43,3 +43,4 @@ Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md).
 - [Is Float Tech the Easiest Way to Germinating Seeds?](https://www.youtube.com/watch?v=6rd26cKjbqo)
 - [Why Seeds Not Germinating or Sprouting?](https://www.youtube.com/watch?v=eLACnABG2LM)
 - [How to germinate seeds directly in soil (2022)](https://www.youtube.com/watch?v=Tyl1q7Su2oM)
+- [Illustrations of the Natural Orders of Plants](https://www.c82.net/work/?id=373)

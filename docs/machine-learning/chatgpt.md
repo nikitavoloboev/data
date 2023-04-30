@@ -333,3 +333,4 @@ It's also great at giving examples.
 - [GPT4free](https://github.com/xtekky/gpt4free) - Use ChatGPT, for free.
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
 - [gpterm](https://github.com/collinvandyck/gpterm) - Terminal-based integration with the OpenAI chat API.
+- [GPT-3 token encoder and decoder](https://observablehq.com/@simonw/gpt-3-token-encoder-decoder)

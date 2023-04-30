@@ -478,3 +478,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Modern Font Stacks](https://modernfontstacks.com/) - System font stack CSS organized by typeface classification for every modern OS. ([Code](https://github.com/system-fonts/modern-font-stacks)) ([HN](https://news.ycombinator.com/item?id=35150345)) ([Lobsters](https://lobste.rs/s/tdiloe/modern_font_stacks))
 - [Free Fonts For Interface Designers (2023)](https://www.smashingmagazine.com/2023/03/free-fonts-interface-designers/)
 - [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
+- [Typography Manual by Mike Mai](https://mikemai.net/typography-manual/)
+- [After Apple, Jony Ive’s LoveFrom is doubling down on craft in typeface (2023)](https://www.fastcompany.com/90888571/jony-ive-spent-the-last-4-years-perfecting-his-typeface-heres-why-hell-never-be-done)
