@@ -302,7 +302,7 @@ I use [GitHub container registry](https://docs.github.com/en/packages/working-wi
 - [Docker Will Edit Host-Based Firewall Rules For You (2023)](https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/) ([HN](https://news.ycombinator.com/item?id=34858775))
 - [docker-bakery](https://github.com/smartrecruiters/docker-bakery) - Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes.
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples) ([HN](https://news.ycombinator.com/item?id=34940181))
-- [MRSK](https://github.com/mrsked/mrsk) - Deploys web apps anywhere from bare metal to cloud VMs using Docker with zero downtime.
+- [MRSK](https://github.com/mrsked/mrsk) - Deploys web apps anywhere from bare metal to cloud VMs using Docker with zero downtime. ([HN](https://news.ycombinator.com/item?id=35753106))
 - [ADH](https://github.com/jcaromiq/adh-rust) - Docker 'Useful Commands' Helper.
 - [How we deploy faster with warm Docker containers (2023)](https://dagster.io/blog/fast-deploys-with-pex-and-docker) ([HN](https://news.ycombinator.com/item?id=35064079))
 - [Working out which Docker namespaces and images you most depend on (2023)](https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/)

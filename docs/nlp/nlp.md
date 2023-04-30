@@ -1104,3 +1104,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [You probably don't know how to do Prompt Engineering (2023)](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf) ([HN](https://news.ycombinator.com/item?id=35746249))
 - [Lamini](https://github.com/lamini-ai/lamini) - LLM engine for rapidly customizing models.
 - [Stability AI releases StableVicuna, a RLHF LLM Chatbot (2023)](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot) ([HN](https://news.ycombinator.com/item?id=35745682))
+- [A brief history of LLaMA models (2023)](https://agi-sphere.com/llama-models/) ([HN](https://news.ycombinator.com/item?id=35736872))

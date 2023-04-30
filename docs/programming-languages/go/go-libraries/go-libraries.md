@@ -647,6 +647,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Go SDK for libSQL](https://github.com/libsql/libsql-client-go)
 - [FreeLRU](https://github.com/elastic/go-freelru) - GC-less, fast and generic LRU hashmap library for Go.
 - [XQL](https://github.com/flier/xql) - Type-safe query statements in Go.
+- [sqlds](https://github.com/grafana/sqlds) - Package that assists writing SQL-driven datasources.
 
 ## ML
 

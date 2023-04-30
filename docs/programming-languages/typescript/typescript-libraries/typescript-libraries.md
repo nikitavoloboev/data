@@ -866,6 +866,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Performance Interval](https://github.com/fabiospampinato/performance-interval) - Precise implementation of setInterval that supports sub-millisecond intervals.
 - [Zodios Openapi](https://github.com/ecyrbe/zodios-openapi) - OpenAPI generator for Zodios API description format.
 - [t3-env](https://github.com/t3-oss/t3-env) - Typesafe Envs made Simple.
+- [Restate](https://github.com/fabianlindfors/restate) - Build reliable, understandable and debuggable backends with state machines.
 
 ## Links
 

@@ -151,3 +151,4 @@ title: GPU
 - [GPU-Initiated On-Demand High-Throughput Storage Access in the BaM System Architecture](https://github.com/ZaidQureshi/bam)
 - [Branching on a GPU (2021)](https://medium.com/@jasonbooth_86226/branching-on-a-gpu-18bfc83694f2)
 - [Fuser](https://github.com/NVIDIA/Fuser) - Fusion Code Generator for NVIDIA GPUs.
+- [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market) ([HN](https://news.ycombinator.com/item?id=35738072))

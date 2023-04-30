@@ -524,3 +524,4 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [OpenTogetherTube](https://opentogethertube.com/) - Watch videos with your friends. ([Code](https://github.com/dyc3/opentogethertube))
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - Tool for chatting with video.
 - [Yuebing](https://github.com/cobbzilla/yuebing) - Open-source software for running video hosting sites.
+- [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/) ([HN](https://news.ycombinator.com/item?id=35754793))

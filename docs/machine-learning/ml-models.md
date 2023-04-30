@@ -183,3 +183,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [Meerkat](https://github.com/HazyResearch/meerkat) - Interactive data structures for evaluating foundation models.
 - [AutoGluon-Cloud](https://github.com/autogluon/autogluon-cloud) - User tools to train, fine-tune and deploy AutoGluon backed models on the cloud.
 - [Hidet: A Deep Learning Compiler for Efficient Model Serving (2023)](https://pytorch.org/blog/introducing-hidet/) ([HN](https://news.ycombinator.com/item?id=35737284))
+- [MLC LLM](https://github.com/mlc-ai/mlc-llm) - Universal solution that allows any language models to be deployed natively on a diverse set of hardware backends and native applications.

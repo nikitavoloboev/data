@@ -6,7 +6,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 
 [Riffusion](https://www.riffusion.com) is [exciting](https://news.ycombinator.com/item?id=33999162).
 
-[Raycast Spotify](https://www.raycast.com/mattisssa/spotify-beta) is useful [Raycast](../tools/raycast.md) plugin. 
+[Raycast Spotify](https://www.raycast.com/mattisssa/spotify-beta) is useful [Raycast](../tools/raycast.md) plugin.
 
 [Music Theory](https://badd10de.dev/notes/music-theory.html) is great read.
 
@@ -196,7 +196,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Platune](https://github.com/aschey/Platune) - Cross-platform music player that uses a client-server architecture over gRPC.
 - [Openwhyd](https://openwhyd.org/) - Like Pinterest, for Music. ([Code](https://github.com/openwhyd/openwhyd))
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.
-- [Study Music](https://github.com/vpavlenko/study-music) - Books, resources and courses to study everything about music and sound in the broadest sense.
+- [Study Music](https://github.com/vpavlenko/study-music) - Books, resources and courses to study everything about music and sound in the broadest sense. ([HN](https://news.ycombinator.com/item?id=35757150))
 - [Museeks](https://museeks.io/) - Simple, clean and cross-platform music player. ([Code](https://github.com/martpie/museeks))
 - [Catalog](https://beta.catalog.works/)
 - [Canon, Collectibles, and Copies: A Music NFT Experiment (2022)](https://chaim.mirror.xyz/0SRGluR6sYweDWV0qmgF6V1wsN0BvEKsvCVOZCFX7yU)

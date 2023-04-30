@@ -767,6 +767,7 @@
 ## WebSocket
 
 - [Sync WebSocket Vapor](https://github.com/nerdsupremacist/SyncWebSocketVapor) - Web Socket Server Support for Sync.
+- [Hummingbird Websocket](https://github.com/hummingbird-project/hummingbird-websocket) - Websocket upgrade support for Hummingbird.
 
 ## Math
 

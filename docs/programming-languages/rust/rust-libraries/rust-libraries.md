@@ -2823,6 +2823,7 @@
 - [triple_accel](https://github.com/Daniel-Liu-c0deb0t/triple_accel) - Rust edit distance routines accelerated using SIMD.
 - [dotenvy](https://github.com/allan2/dotenvy) - Well-maintained fork of the dotenv crate.
 - [Railroad](https://github.com/lukaslueg/railroad) - Library to produce syntax diagrams as Scalable Vector Graphics.
+- [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
 
 ## Cargo Plugins
 

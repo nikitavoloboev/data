@@ -256,6 +256,7 @@
 - [SummationByPartsOperators.jl](https://github.com/ranocha/SummationByPartsOperators.jl) - Provably stable discretization techniques with mimetic properties.
 - [TransformVariables.jl](https://github.com/tpapp/TransformVariables.jl) - Transformations to contrained variables from ℝⁿ.
 - [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) - Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.
+- [ProjectEuler.jl](https://github.com/udohjeremiah/ProjectEuler.jl) - Package that allows offline access to challenging mathematical problems from Project Euler through Julia's REPL.
 
 ## NLP
 
@@ -863,6 +864,8 @@
 - [Pajarito](https://github.com/jump-dev/Pajarito.jl) - Solver for mixed-integer convex optimization.
 - [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) - Physical quantities with arbitrary units.
 - [DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops.
+- [GraphsOptim](https://github.com/gdalle/GraphsOptim.jl) - Graph-related optimization algorithms that rely on Linear Programming.
+- [Muon](https://github.com/scverse/Muon.jl) - Multimodal framework.
 
 ## Links
 
