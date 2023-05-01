@@ -1139,3 +1139,4 @@ Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for lan
 - [Landings](https://landings.dev/) - Landing Page Examples.
 - [Minimal Gallery – Website inspiration](https://minimal.gallery/)
 - [Apps built using shadcn UI](https://twitter.com/shadcn/status/1650945977237352453)
+- [How Reflect's new design was made (2023)](https://twitter.com/oguzyagizkara/status/1652997371104727040)

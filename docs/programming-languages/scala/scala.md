@@ -204,3 +204,4 @@ title: Scala
 - [Tutorials for FP in Scala (2023)](https://www.reddit.com/r/scala/comments/10xzbje/which_tutorial_to_learn_functional_programming/)
 - [Scala Toolkit](https://github.com/scala/toolkit) - Batteries-included Scala.
 - [Skan](https://github.com/ckipp01/skan) - Simple terminal kanban board built with Scala.
+- [Scala 3 migration issues (2023)](https://twitter.com/jdegoes/status/1652940041524486145)

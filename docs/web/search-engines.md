@@ -354,3 +354,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [OpenGrok](https://github.com/oracle/opengrok) - Fast and usable source code search and cross reference engine, written in Java.
 - [Semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search.
 - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/) ([HN](https://news.ycombinator.com/item?id=35737862))
+- [Say Goodbye to Irrelevant Search Results: Cohere Rerank Is Here (2023)](https://txt.cohere.com/rerank/)
