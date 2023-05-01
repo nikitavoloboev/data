@@ -557,3 +557,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [median/max-sys](https://github.com/Cycling74/median) - Rust bindings for Max/MSP/Jitter.
 - [Rust JACK](https://github.com/RustAudio/rust-jack) - Rust bindings for the JACK Audio Connection Kit.
 - [Philip Meyer - YouTube](https://www.youtube.com/@p__meyer/videos) ([Tutorials Code](https://github.com/pdmeyer/max-tutorials))
+- [What DAW do you use and why? (2023)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/133osc1/what_daw_do_you_use_and_why/)

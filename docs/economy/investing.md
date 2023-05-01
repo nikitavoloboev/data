@@ -319,3 +319,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [How to best invest 60k (2023)](https://www.reddit.com/r/eupersonalfinance/comments/112ne9o/feedback_on_how_to_invest_60k/)
 - [How much do you make? – Justin Barnett (2023)](https://how-much-do-you-make.beehiiv.com/p/much-make-justin-barnett-fb8b)
 - [What’s your favorite stock and why? (2023)](https://www.reddit.com/r/stocks/comments/12hzbq7/whats_your_favorite_stock_and_why/)
+- [How you invest in Europe? (2023)](https://twitter.com/thekitze/status/1652682243180036096)
