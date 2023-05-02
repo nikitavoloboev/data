@@ -464,3 +464,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) - package.json linter for Node projects.
 - [lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
 - [High Performance with Node.js (2023)](https://www.nearform.com/blog/the-secrets-behind-high-performance-with-node-js/)
+- [Exposing a Rust Library to Node with Napi-rs (2023)](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)

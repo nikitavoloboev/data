@@ -221,3 +221,4 @@
 - [Asymmetric Cryptographic Commitments (2023)](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
 - [A Cryptographic Near Miss (2023)](https://words.filippo.io/dispatches/near-miss/)
 - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
+- [LLuffman: LLM-based steganography (2023)](https://botnoise.org/~pokes/lluffman/) ([Lobsters](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography))

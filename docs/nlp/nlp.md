@@ -1111,3 +1111,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Instruction Tuning Papers](https://github.com/SinclairCoder/Instruction-Tuning-Papers)
 - [WangChanGLM](https://github.com/PyThaiNLP/WangChanGLM) - Multilingual Instruction-Following Model.
 - [Otter](https://github.com/Luodian/Otter) - Instruction-tuned model built upon OpenFlamingo that has been customized for a context.
+- [Jsonformer: A Bulletproof Way to Generate Structured JSON from Language Models](https://github.com/1rgs/jsonformer) ([HN](https://news.ycombinator.com/item?id=35790092))

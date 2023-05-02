@@ -198,3 +198,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [Mastering project management in Zig (2023)](https://blog.orhun.dev/zig-bits-03/)
 - [Regular Expressions in Zig (2023)](https://www.openmymind.net/Regular-Expressions-in-Zig/)
 - [Deep Neural Networks from Scratch in Zig (2023)](https://monadmonkey.com/dnns-from-scratch-in-zig) ([Lobsters](https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig))
+- [SIMD with Zig (2023)](https://www.openmymind.net/SIMD-With-Zig/) ([HN](https://news.ycombinator.com/item?id=35782825))

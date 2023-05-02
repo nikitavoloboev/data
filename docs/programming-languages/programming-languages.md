@@ -567,3 +567,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Native Implementation of Mutable Value Semantics (2021)](https://arxiv.org/abs/2106.12678)
 - [PL Grad Schools](https://github.com/LeifAndersen/PLGradSchools)
 - [loxcraft](https://github.com/ajeetdsouza/loxcraft) - Language server, and online playground for the Lox programming language. ([Lobsters](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server))
+- [Mojo](https://www.modular.com/mojo) - Programming language for all of AI. ([Lobsters](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai)) ([HN](https://news.ycombinator.com/item?id=35790367)) ([HN](https://news.ycombinator.com/item?id=35790367))

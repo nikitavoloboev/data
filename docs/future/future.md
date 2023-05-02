@@ -123,3 +123,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Optimistic 2023 predictions](https://twitter.com/immad/status/1609664234664886272)
 - [2022 letter | Zhengdong](https://zhengdongwang.com/2022/12/28/2022-letter.html)
 - [Ask HN: What are those strategic skills to master for the next 5, 10 years? (2023)](https://news.ycombinator.com/item?id=34564382)
+- [Ask HN: What tech is under the radar with all attention on ChatGPT etc.? (2023)](https://news.ycombinator.com/item?id=35792898)

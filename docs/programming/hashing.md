@@ -82,3 +82,4 @@
 - [Hash Tables FTW (2023)](http://www.os2museum.com/wp/hash-tables-ftw/)
 - [Optimizing Open Addressing (2023)](https://thenumb.at/Hashtables/) ([Lobsters](https://lobste.rs/s/vnpupo/optimizing_open_addressing))
 - [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
+- [Modern perfect hashing for strings (2023)](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)

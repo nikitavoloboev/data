@@ -18,7 +18,7 @@ Run TS with [Bun](../javascript/bun.md) and deploy [HTTP](../../networking/http.
 - You really shouldn’t use arrow function as class members. Arrow functions are duplicated in memory for each class instance, while proper method members are written once in your class’s prototype and shared between all instances.
 - [Unlike classes, an interface is a virtual structure that only exists within the context of TypeScript. The TypeScript compiler uses interfaces solely for type-checking purposes.](https://toddmotto.com/classes-vs-interfaces-in-typescript)
 - `any` means “ignore the type”, `unknown` means “we don’t know the type”, which aren’t the same thing, and for better code you’d rather not know the type than ignore it.
-- You can’t use `unknown` as a simple replacement for `any`, that wouldn’t make sense. `unkwnown` carries the implication that you should not use this variable other than passing it around. Or testing its type to get rid of the “unknown” state.
+- You can’t use `unknown` as a simple replacement for `any`, that wouldn’t make sense. `unknown` carries the implication that you should not use this variable other than passing it around. Or testing its type to get rid of the “unknown” state.
 - Tuples are very useful for simulating multiple returns like React hooks, and other combined values that don't need string object keys
 - [TS generics are basically functions that you invoke with <\> instead of ()... but without optional _named_ param support... and a lot of other things that I would expect from a "function"](https://twitter.com/tannerlinsley/status/1387806690364465152)
 - [If it’s hard to type via TypeScript, I should probably rethink my design.](https://twitter.com/housecor/status/1422195449277059072)

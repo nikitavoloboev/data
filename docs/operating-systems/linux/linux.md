@@ -369,7 +369,7 @@ title: Linux
 - [buztd](https://github.com/vrmiguel/buztd) - Zig version of the original bustd project.
 - [oomd](https://github.com/facebookincubator/oomd) - Userspace Out-Of-Memory (OOM) killer for linux systems.
 - [Back to Linux (2021)](https://metaredux.com/posts/2021/07/31/back-to-linux.html) ([HN](https://news.ycombinator.com/item?id=28035940)) ([Lobsters](https://lobste.rs/s/a5gkkw/back_linux))
-- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) ([Code](https://github.com/sysprog21/lkmpg)) ([HN](https://news.ycombinator.com/item?id=28283030))
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) ([Code](https://github.com/sysprog21/lkmpg)) ([HN](https://news.ycombinator.com/item?id=28283030)) ([HN](https://news.ycombinator.com/item?id=35782630))
 - [InitWare](https://github.com/InitWare/InitWare) - Fork of systemd. Allows you to manage services and system resources as logical entities called units. ([Lobsters](https://lobste.rs/s/jx3cr6/initware_systemd_fork_runs_on_openbsd_for))
 - [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux.
 - [docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism.

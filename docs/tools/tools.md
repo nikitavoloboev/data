@@ -224,7 +224,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [InvenTree](https://github.com/inventree/InvenTree) - Open-source Inventory Management System which provides powerful low-level stock control and part tracking.
 - [Cerca](https://github.com/cblgh/cerca) - Lean forum software in Go.
 - [image-duplicate-remover](https://github.com/paazmaya/image-duplicate-remover) - Remove duplicate images.
-- [Ntfy.sh](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop via PUT/POST. ([Docs](https://ntfy.sh/)) ([HN](https://news.ycombinator.com/item?id=29715464)) ([HN](https://news.ycombinator.com/item?id=33517944))
+- [Ntfy.sh](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop via PUT/POST. ([Docs](https://ntfy.sh/)) ([HN](https://news.ycombinator.com/item?id=29715464)) ([HN](https://news.ycombinator.com/item?id=33517944)) ([Lobsters](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications))
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) - Password-protect links. ([Code](https://github.com/jstrieb/link-lock))
 - [Canny](https://canny.io) - Track feedback to build better products.
 - [LocateJS](https://locatejs.com/) - Check if your location is actually hidden. ([Code](https://github.com/z0ccc/LocateJS))
@@ -858,3 +858,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Supertools](https://supertools.therundown.ai/) - Best AI Tools Guide.
 - [Jellylade](https://app.jellylade.com/) - Turn your screenshots into posts. ([HN](https://news.ycombinator.com/item?id=35709453))
 - [Go UML](https://github.com/MrIceman/go-uml) - Tool written in Go to build Sequence Diagrams and more UML. ([HN](https://news.ycombinator.com/item?id=35727111))
+- [Clarity](https://clarity.rahul.gs/) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics. ([Code](https://github.com/1rgs/clarity-reader))

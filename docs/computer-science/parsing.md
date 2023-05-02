@@ -167,3 +167,4 @@
 - [flap: A Deterministic Parser with Fused Lexing (2023)](https://arxiv.org/abs/2304.05276) ([Lobsters](https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused))
 - [flap](https://github.com/yallop/ocaml-flap) - Deterministic parser with fused lexing.
 - [tree-splicer](https://github.com/langston-barrett/tree-splicer) - Simple grammar-based test case generator.
+- [Why Split Lexing and Parsing Into Two Separate Phases? (2023)](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html) ([Lobsters](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two))

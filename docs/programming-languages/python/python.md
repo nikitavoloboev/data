@@ -616,3 +616,4 @@ for i, _ in enumerate(nums):
 - [Improving messages and types in GDB’s Python API (2023)](https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/)
 - [Pythoneers here, what are some of the best python tricks you guys use when programming with python (2023)](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python/)
 - [Debugging a Mixed Python and C Language Stack (2023)](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/) ([HN](https://news.ycombinator.com/item?id=35706687))
+- [Goodbye to Flake8 and PyLint: faster linting with Ruff (2023)](https://pythonspeed.com/articles/pylint-flake8-ruff/) ([Lobsters](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting))

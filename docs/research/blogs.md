@@ -425,6 +425,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Brad Woods](https://garden.bradwoods.io/)
 - [Arseny Kapoulkine](https://zeux.io/)
 - [Sergii Kharagorgiiev](https://grgv.xyz/blog/)
+- [Adrian Sampson](https://www.cs.cornell.edu/~asampson/blog/)
 
 ## Notes
 
