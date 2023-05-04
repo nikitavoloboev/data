@@ -1,6 +1,6 @@
 # Politics
 
-Love reading through [Credible Defense](https://www.reddit.com/r/CredibleDefense/) daily discussions.
+Love reading through [Credible Defense](https://www.reddit.com/r/CredibleDefense/) daily discussions. I also try to [limit politics in my life and focus on building](https://twitter.com/simonsarris/status/1654134910804807685).
 
 ## Notes
 

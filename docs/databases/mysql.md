@@ -28,3 +28,4 @@ Use it with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm).
 - [How to read MySQL EXPLAINs (2023)](https://planetscale.com/blog/how-read-mysql-explains) ([HN](https://news.ycombinator.com/item?id=35370972))
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python.
 - [Ask HN: Is PostgreSQL better than MySQL? (2023)](https://news.ycombinator.com/item?id=35599118)
+- [Why isn’t MySQL using my index? (2023)](https://planetscale.com/blog/why-isnt-mysql-using-my-index) ([Tweet](https://twitter.com/aarondfrancis/status/1654152752627343361))

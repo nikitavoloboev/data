@@ -1118,3 +1118,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LangChain Supabase template](https://github.com/langchain-ai/langchain-template-supabase)
 - [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://github.com/mbzuai-nlp/LaMini-LM)
 - [llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
+- [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes (2023)](https://arxiv.org/abs/2305.02301) ([HN](https://news.ycombinator.com/item?id=35810663))

@@ -327,6 +327,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Games that require you to have the Wiki open on another screen (2023)](https://www.reddit.com/r/gamingsuggestions/comments/130e8wz/games_that_require_you_to_have_the_wiki_open_on/)
 - [Single player games that don't feel lonely (2023)](https://www.reddit.com/r/gamingsuggestions/comments/132koh6/single_player_games_that_dont_feel_lonely/)
 - [What game is “the Lord of the rings” of video games? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/1367vmt/what_game_is_the_lord_of_the_rings_of_video_games/)
+- [What is your guilty pleasure video game? (2023)](https://www.reddit.com/r/PS5/comments/137ir44/what_is_your_guilty_pleasure_video_game/)
 
 ## Links
 

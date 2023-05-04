@@ -57,6 +57,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [supabase-query](https://github.com/HermanNygaard/supabase-query) - Supercharge your development speed with Supabase and react-query, combined.
 - [BlinkDB](https://github.com/blinkdb-js/blinkdb) - In-memory JS database optimized for large scale storage on the frontend.
 - [kysely-neon](https://github.com/seveibar/kysely-neon) - Kysely adapter for Neon serverless postgres.
+- [ts-postgres](https://github.com/malthe/ts-postgres) - Non-blocking PostgreSQL client for Node.js written in TypeScript.
 
 ## Web
 

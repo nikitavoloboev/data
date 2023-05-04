@@ -345,3 +345,4 @@ zz
 - [A Neovim Task Runner in 30 lines of Lua (2023)](https://www.hillelwayne.com/post/task-runner-neovim/)
 - [Using Vim 2023](https://www.youtube.com/watch?v=FrMRyXtiJkc)
 - [HN: Neovim 0.9 (2023)](https://news.ycombinator.com/item?id=35480629)
+- [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) ([HN](https://news.ycombinator.com/item?id=35816361))
