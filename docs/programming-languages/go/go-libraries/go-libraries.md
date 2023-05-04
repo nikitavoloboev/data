@@ -2154,6 +2154,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [uDiff](https://github.com/aymanbagabas/go-udiff) - Micro Go diff library.
 - [ecs](https://github.com/unitoftime/ecs) - Simple and generic ECS implementation in Go.
 - [nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.
+- [typesetting](https://github.com/go-text/typesetting) - High quality text shaping in pure Go.
 
 ## Links
 

@@ -120,3 +120,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [$500-$600 synth range (2023)](https://www.reddit.com/r/synthesizers/comments/10rj1l5/500600_synth_range/)
 - [What's your synth music comfort blanket?](https://www.reddit.com/r/synthesizers/comments/112z9a5/whats_your_synth_music_comfort_blanket/)
 - [P3synth](https://github.com/vlcoo/P3synth) - MIDI synthesizer and player running on Processing 4. ([HN](https://news.ycombinator.com/item?id=34831423))
+- [Analog Synthesizer](https://github.com/Windfisch/analog-synth) - Low-cost analog synthesizer based on well-available components like LM324 or TL084 op-amps, which is easy to understand and learn.

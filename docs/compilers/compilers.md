@@ -309,3 +309,4 @@
 - [Translation Validation of Tensor Compilers (2023)](https://theses.hal.science/tel-03903895/)
 - [Flattening ASTs (and Other Compiler Data Structures) (2023)](https://www.cs.cornell.edu/~asampson/blog/flattening.html) ([Lobsters](https://lobste.rs/s/xw1fdb/flattening_asts_other_compiler_data))
 - [Driving Compilers (2023)](https://fabiensanglard.net/dc/) ([Lobsters](https://lobste.rs/s/upmvxg/driving_compilers))
+- [fixpls](https://github.com/remorses/fixpls) - Fix your compiler errors automatically with GPT.

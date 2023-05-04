@@ -788,3 +788,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Jacques Marie Mage](https://www.jacquesmariemage.com/) - Limited Edition Eyewear | Handcrafted in Japan.
 - [Emoji Kitchen](https://emojikitchen.dev/) ([Code](https://github.com/xsalazar/emoji-kitchen))
 - [AUGMENTAL](https://www.augmental.tech/) - Pressure-sensitive touchpad sits at the roof of your mouth.
+- [Currl](https://currl.io/) - Social bookmarking website. ([HN](https://news.ycombinator.com/item?id=35786242))

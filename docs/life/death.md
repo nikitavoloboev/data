@@ -107,3 +107,4 @@ Having said the above, [anesthesia](https://en.wikipedia.org/wiki/Anesthesia) ha
 - [Movies to process grief from death (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10i0asb/my_father_passed_away_2_weeks_ago_i_still_havent/)
 - [Do you use a dead man's switch? (2023)](https://lobste.rs/s/sidr8v/do_you_use_dead_man_s_switch)
 - [End-of-Life Dreams](https://www.commonwealmagazine.org/end-life-dreams) ([HN](https://news.ycombinator.com/item?id=35561824))
+- [Brain activity of dying people shows signs of near-death experiences (2023)](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/) ([HN](https://news.ycombinator.com/item?id=35785650))

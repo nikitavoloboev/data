@@ -2945,6 +2945,8 @@
 - [wasm-server-runner](https://github.com/jakobhellermann/wasm-server-runner) - Allows you to run programs in the browser using web assembly using a simple cargo run.
 - [cargo-dist](https://github.com/axodotdev/cargo-dist) - cargo build but For Building Final Distributable Artifacts and uploading them to an archive. ([Article](https://blog.axo.dev/2023/02/cargo-dist))
 - [Duvet](https://github.com/awslabs/duvet) - Code quality tool to help bound correctness.
+- [cargo-px](https://github.com/LukeMathWalker/cargo-px) - Cargo subcommand that extends cargo's capabilities when it comes to code generation.
+- [cargo which-nightly](https://github.com/cdown/cargo-which-nightly) - Tells you which nightly contains a particular set of features.
 
 ## Notes
 

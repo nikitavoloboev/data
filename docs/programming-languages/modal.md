@@ -7,3 +7,4 @@ title: Modal
 ## Links
 
 - [Product Launch 2023 Keynote](https://www.youtube.com/watch?v=-3Kf2ZZU-dg)
+- [Mojo language](https://github.com/modularml/mojo)

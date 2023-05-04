@@ -1499,6 +1499,8 @@
 - [Foundation](https://github.com/apple/swift-foundation) - Fundamental types for numbers, data, collections, and dates, as well as functions for task management, file system access, and more.
 - [TaskManager](https://github.com/0xOpenBytes/TaskManager) - Cache for asynchronous tasks in Swift.
 - [VersionedCodable](https://github.com/jrothwell/VersionedCodable) - Wrapper around Swift's Codable that allows versioning of Codable types.
+- [yswift](https://github.com/ObuchiYuki/yswift) - Swift version of yjs.
+- [AlpacaChat](https://github.com/niw/AlpacaChat) - Swift library that runs Alpaca-LoRA prediction locally to implement ChatGPT like app on Apple platform devices.
 
 ## Other (not lib)
 

@@ -23,3 +23,4 @@ title: Bluesky
 - [Simple Go firehose for Bluesky](https://github.com/CharlesDardaman/blueskyfirehose)
 - [Authenticated Transfer Protocol](https://github.com/nrempel/atp) - Command line tool for the Authenticated Transfer Protocol.
 - [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview) ([Lobsters](https://lobste.rs/s/2lne9h/at_protocol_aka_bluesky_overview))
+- [Firesky](https://firesky.tv/) - Bluesky Firehose. ([HN](https://news.ycombinator.com/item?id=35810901))
