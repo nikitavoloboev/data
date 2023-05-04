@@ -1114,3 +1114,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Jsonformer: A Bulletproof Way to Generate Structured JSON from Language Models](https://github.com/1rgs/jsonformer) ([HN](https://news.ycombinator.com/item?id=35790092))
 - [OpenLLaMA](https://github.com/openlm-research/open_llama) - Open Reproduction of LLaMA. ([HN](https://news.ycombinator.com/item?id=35798888))
 - [Avoiding hallucinations in LLM-powered applications (2023)](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/) ([HN](https://news.ycombinator.com/item?id=35794010))
+- [Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week (2023)](https://www.latent.space/p/reza-shabani#details) ([HN](https://news.ycombinator.com/item?id=35803435))

@@ -276,3 +276,4 @@ title: Clojure
 - [Why I like Clojure as a solo developer (2023)](https://biffweb.com/docs/essays/why-i-like-clojure/)
 - [Morse](https://github.com/nubank/morse) - Graphical, interactive tool for browsing Clojure data.
 - [Humble Chronicles: State Management (2023)](https://tonsky.me/blog/humble-state/)
+- [Clojure/conj 2023 - YouTube](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)

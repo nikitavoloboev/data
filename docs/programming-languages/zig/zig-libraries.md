@@ -195,3 +195,4 @@
 - [What's the 'ziggy' way to pass a readable stream to a function? (2022)](https://www.reddit.com/r/Zig/comments/vk4o4a/whats_the_ziggy_way_to_pass_a_readable_stream_to/)
 - [mach/wasmserve](https://github.com/machlibs/wasmserve) - Small web server specifically for serving Zig WASM applications in development.
 - [zig-fetch](https://github.com/bootradev/zig-fetch) - Dependency management solution for zig projects.
+- [Zig Pkg](https://kassane.github.io/2023/05/03/zig-pkg/) - Zig package manager - brief tutorial.

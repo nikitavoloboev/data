@@ -145,3 +145,4 @@
 - [Firebuild](https://github.com/firebuild/firebuild) - Automatic build accelerator.
 - [Knit: making a better Make (2023)](https://zyedidia.github.io/blog/posts/3-knit-better-make/) ([Lobsters](https://lobste.rs/s/eshcdk/knit_making_better_make))
 - [Gradle still sucks (2023)](https://silverhammermba.github.io/blog/2023/01/06/gradle) ([HN](https://news.ycombinator.com/item?id=35709521))
+- [Buck2 Build System Team AMA (2023)](https://www.reddit.com/r/rust/comments/136qs44/hello_rrust_we_are_meta_engineers_who_created_the/)

@@ -1130,3 +1130,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [How does async Rust work (2023)](https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html) ([HN](https://www.reddit.com/r/rust/comments/130hcbc/how_does_async_rust_work/))
 - [Bringing runtime checks to compile time in Rust (2023)](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)
 - [What Is Type-Level Programming? (2023)](https://blog.sulami.xyz/posts/type-level-programming/) ([HN](https://news.ycombinator.com/item?id=35784705))
+- [Stabilizing async fn in traits in 2023](https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html) ([Reddit](https://www.reddit.com/r/rust/comments/136o73k/stabilizing_async_fn_in_traits_in_2023_inside/))

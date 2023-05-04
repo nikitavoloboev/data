@@ -120,3 +120,4 @@ And here are Chrome extensions I use:
 - [Vimium](https://vimium.github.io/) - Browser extension that provides Vim-style keyboard controls. ([Code](https://github.com/philc/vimium)) ([HN](https://news.ycombinator.com/item?id=34964572))
 - [SPA view transitions land in Chrome 111 (2023)](https://developer.chrome.com/blog/spa-view-transitions-land/) ([HN](https://news.ycombinator.com/item?id=35091423))
 - [Lessons learned building headless chrome as a service (2023)](https://www.mux.com/blog/lessons-learned-building-headless-chrome-as-a-service)
+- [New in Chrome 113 (2023)](https://developer.chrome.com/blog/new-in-chrome-113/) ([HN](https://news.ycombinator.com/item?id=35806796))

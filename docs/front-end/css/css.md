@@ -649,3 +649,4 @@ all: unset
 - [css-color-converter](https://github.com/andyjansson/css-color-converter) - Converts CSS colors from one representation to another.
 - [CSS Tip: Learn CSS the easy one](https://css-tip.com/)
 - [CSS Blend Modes (2023)](https://garden.bradwoods.io/notes/css/blend-modes)
+- [How to make a CSS-only hamburger menu (2023)](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399) ([Lobsters](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu))

@@ -308,3 +308,4 @@
 - [Kalyn: a self-hosting compiler for x86-64 (2023)](https://intuitiveexplanations.com/tech/kalyn)
 - [Translation Validation of Tensor Compilers (2023)](https://theses.hal.science/tel-03903895/)
 - [Flattening ASTs (and Other Compiler Data Structures) (2023)](https://www.cs.cornell.edu/~asampson/blog/flattening.html) ([Lobsters](https://lobste.rs/s/xw1fdb/flattening_asts_other_compiler_data))
+- [Driving Compilers (2023)](https://fabiensanglard.net/dc/) ([Lobsters](https://lobste.rs/s/upmvxg/driving_compilers))

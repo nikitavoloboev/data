@@ -63,3 +63,4 @@ title: Kotlin
 - [The huge potential of Kotlin/WASM (2023)](https://seb.deleuze.fr/the-huge-potential-of-kotlin-wasm/) ([HN](https://news.ycombinator.com/item?id=34779746))
 - [Compose Multiplatform mobile application](https://github.com/JetBrains/compose-multiplatform-ios-android-template)
 - [Kotlin 2 – static extensions, collection literals, name-based destructuring (2023)](https://blog.jetbrains.com/kotlin/2023/04/kotlinconf-2023-opening-keynote/)
+- [Typed Error Handling in Kotlin (2023)](https://betterprogramming.pub/typed-error-handling-in-kotlin-11ff25882880)

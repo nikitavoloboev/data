@@ -22,3 +22,4 @@ title: Bluesky
 - [Bluesky TS Bot SDK](https://github.com/tautologer/easy-bsky-bot-sdk)
 - [Simple Go firehose for Bluesky](https://github.com/CharlesDardaman/blueskyfirehose)
 - [Authenticated Transfer Protocol](https://github.com/nrempel/atp) - Command line tool for the Authenticated Transfer Protocol.
+- [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview) ([Lobsters](https://lobste.rs/s/2lne9h/at_protocol_aka_bluesky_overview))

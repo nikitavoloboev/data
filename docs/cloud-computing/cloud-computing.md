@@ -157,3 +157,4 @@ Like using [Cloud Run](https://cloud.google.com/run) or [fly.io](https://fly.io/
 - [Awesome Billing](https://github.com/kdeldycke/awesome-billing) - Billing & Payments knowledge for cloud platforms.
 - [We Need To Talk About Vercel (2023)](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel) ([HN](https://news.ycombinator.com/item?id=35507814))
 - [hcloud for Rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API.
+- [Cloud exit pays off in performance too (2023)](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697) ([Lobsters](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too))

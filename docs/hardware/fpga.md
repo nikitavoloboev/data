@@ -144,3 +144,4 @@ title: Field-programmable gate array
 - [Awesome FPGA Programming](https://github.com/emanueledelsozzo/awesome-fpga-programming)
 - [GCVideo](https://github.com/ikorb/gcvideo) - GameCube Digital AV converter.
 - [Demo projects for various Kintex FPGA boards](https://github.com/openXC7/demo-projects)
+- [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all) ([HN](https://news.ycombinator.com/item?id=35804935))

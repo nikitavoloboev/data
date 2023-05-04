@@ -669,3 +669,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [A list of programming playgrounds (2023)](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
 - [Compare binary sizes of canonical Hello World in different languages](https://github.com/MichalStrehovsky/sizegame)
 - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html) ([HN](https://news.ycombinator.com/item?id=35784167))
+- [Error Handling Patterns (2023)](https://andreabergia.com/blog/2023/05/error-handling-patterns/) ([HN](https://news.ycombinator.com/item?id=35784898))

@@ -335,3 +335,4 @@ It's also great at giving examples.
 - [gpterm](https://github.com/collinvandyck/gpterm) - Terminal-based integration with the OpenAI chat API.
 - [GPT-3 token encoder and decoder](https://observablehq.com/@simonw/gpt-3-token-encoder-decoder)
 - [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua (2023)](https://til.simonwillison.net/llms/code-interpreter-expansions)
+- [Does GPT-4 think better in JavaScript? (2023)](https://vgel.me/posts/gpt4-javascript/) ([Lobsters](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript))
