@@ -1112,3 +1112,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [WangChanGLM](https://github.com/PyThaiNLP/WangChanGLM) - Multilingual Instruction-Following Model.
 - [Otter](https://github.com/Luodian/Otter) - Instruction-tuned model built upon OpenFlamingo that has been customized for a context.
 - [Jsonformer: A Bulletproof Way to Generate Structured JSON from Language Models](https://github.com/1rgs/jsonformer) ([HN](https://news.ycombinator.com/item?id=35790092))
+- [OpenLLaMA](https://github.com/openlm-research/open_llama) - Open Reproduction of LLaMA. ([HN](https://news.ycombinator.com/item?id=35798888))
+- [Avoiding hallucinations in LLM-powered applications (2023)](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/) ([HN](https://news.ycombinator.com/item?id=35794010))

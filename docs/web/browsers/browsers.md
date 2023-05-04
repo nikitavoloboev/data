@@ -296,3 +296,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [Querying browser compat data with a LLM (2023)](https://paul.kinlan.me/querying-browser-compat-data-with-a-llm/)
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey) - Userscripts support for browsers. It works on browsers with WebExtensions support.
 - [go-webext](https://github.com/AdguardTeam/go-webext) - Automation for working with extension stores.
+- [Arc Will Change the Way You Work on the Web (2023)](https://tidbits.com/2023/05/01/arc-will-change-the-way-you-work-on-the-web/) ([HN](https://news.ycombinator.com/item?id=35800072))

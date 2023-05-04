@@ -46,3 +46,4 @@ title: Qwik
 - [Qwik nice form example](https://twitter.com/manucorporat/status/1619746669452750848)
 - [Qwik Katas](https://github.com/survivejs/qwik-katas) - Series of katas to learn Qwik quickly.
 - [Qwik Icons](https://github.com/qwikest/icons) - Include popular icons easily in your Qwik projects.
+- [Qwik Reaches v1.0 (2023)](https://www.builder.io/blog/qwik-v1) ([HN](https://news.ycombinator.com/item?id=35788792))

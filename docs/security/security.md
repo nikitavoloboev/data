@@ -372,3 +372,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [vet](https://github.com/safedep/vet) - Automate Open Source Package Vetting in CI/CD.
 - [Deploying key transparency at WhatsApp (2023)](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 - [Re-write of MalwareDB from Go to Rust](https://github.com/malwaredb/malwaredb-rs)
+- [Passkeys: The Beginning of the End of the Password (2023)](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/) ([HN](https://news.ycombinator.com/item?id=35801392))

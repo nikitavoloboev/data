@@ -540,3 +540,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [One does not simply use GHCup on macOS M1 (2023)](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
 - [Algebraic Path Finding (2023)](https://iagoleal.com/posts/algebraic-path/)
 - [static-ls](https://github.com/josephsumabat/static-ls) - High-speed, low-memory solution for large projects for which haskell-language-server tends to take up too much memory on recompilation.
+- [Haskell in Production: Standard Chartered (2023)](https://serokell.io/blog/haskell-in-production-standard-chartered) ([HN](https://news.ycombinator.com/item?id=35801293))

@@ -505,3 +505,4 @@ if (
 - [1000x FASTER JavaScript? (2023)](https://www.youtube.com/watch?v=B76gFi43HvM)
 - [Making JavaScript Ecosystem FAST | Prime Reacts](https://www.youtube.com/watch?v=43AsyeMKVwE)
 - [Sandboxing JavaScript Code (2023)](https://healeycodes.com/sandboxing-javascript-code) ([HN](https://news.ycombinator.com/item?id=35633934))
+- [JavaScript import maps are now supported cross-browser (2023)](https://web.dev/import-maps-in-all-modern-browsers/) ([HN](https://news.ycombinator.com/item?id=35800711))
