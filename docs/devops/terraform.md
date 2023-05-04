@@ -234,3 +234,4 @@ title: Terraform
 - [tftarget](https://github.com/future-architect/tftarget) - CLI tool for Terraform ( plan | apply | destroy ) with target option.
 - [Terraform GPT Helper](https://github.com/flavius-dinu/tfgpt)
 - [Terraform Provider for cosign](https://github.com/chainguard-dev/terraform-provider-cosign)
+- [Stacks for Terraform](https://github.com/cisco-open/stacks)

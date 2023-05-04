@@ -289,6 +289,7 @@ title: GitHub actions
 - [Code Sign Action](https://github.com/lando/code-sign-action) - Code sign files.
 - [cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions.
 - [send-datadog-action](https://github.com/int128/send-datadog-action) - General-purpose action to send custom metric or event to Datadog.
+- [release-comment-action](https://github.com/remix-run/release-comment-action) - GitHub Action to automatically comment on Pull Requests and related issues about a release.
 
 ## Go
 

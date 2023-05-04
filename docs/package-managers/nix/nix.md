@@ -555,3 +555,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-melt](https://github.com/nix-community/nix-melt) - Ranger-like flake.lock viewer.
 - [Nix Start](https://gitlab.com/engmark/nix-start)
 - [runix](https://github.com/flox/runix) - Type-safe Rust interface to the Nix CLI.
+- [NixFS](https://github.com/illustris/nixfs) - Access any Nix derivation through filesystem paths with NixFS.

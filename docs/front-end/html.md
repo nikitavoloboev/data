@@ -333,3 +333,4 @@ Hi<div>oh no break</div>
 - [How draggable object events work (2023)](https://simblob.blogspot.com/2023/02/making-of-draggable-objects.html)
 - [I just learned about HTML redirects (2020)](https://apitman.com/18/) ([HN](https://news.ycombinator.com/item?id=35670325))
 - [Building a dialog component (2022)](https://web.dev/building-a-dialog-component/)
+- [HTML grammar for Tree-sitter](https://github.com/tree-sitter/tree-sitter-html)

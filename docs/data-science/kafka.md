@@ -144,3 +144,4 @@ title: Apache Kafka
 - [NATS to Kafka Bridging](https://github.com/nats-io/nats-kafka)
 - [Optimizing Apache Kafka® for High Throughput (2023)](https://datacater.io/blog/2023-02-21/kafka-consumer-producer-high-throughput.html)
 - [FastKafka](https://github.com/airtai/fastkafka) - Powerful and easy-to-use Python library for building asynchronous web services that interact with Kafka topics. ([HN](https://news.ycombinator.com/item?id=35086594))
+- [Kafka exporter for Prometheus](https://github.com/danielqsj/kafka_exporter)

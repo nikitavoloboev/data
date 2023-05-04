@@ -1252,3 +1252,4 @@
 - [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations (2023)](https://arxiv.org/abs/2304.11267)
 - [Awesome Segment Anything](https://github.com/Hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything.
 - [SuperGradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library.
+- [VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking (2023)](https://github.com/OpenGVLab/VideoMAEv2)

@@ -527,3 +527,4 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/) ([HN](https://news.ycombinator.com/item?id=35754793))
 - [Scaling up the Prime Video audio/video monitoring service and reducing costs (2023)](https://news.ycombinator.com/item?id=35811741) ([HN](https://news.ycombinator.com/item?id=35811741))
 - [Quickly resize a video with FFmpeg/Vaapi for Mastodon (2023)](https://www.paulox.net/2023/05/03/quickly_resize-a-video-with-ffmpeg-for-mastodon/)
+- [srt-parser-2](https://github.com/1c7/srt-parser-2) - SRT parser for JavaScript.

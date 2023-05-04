@@ -24,6 +24,7 @@ title: OCaml libraries
 - [ocaml-dispatch](https://github.com/inhabitedtype/ocaml-dispatch) - Path-based dispatching for client- and server-side applications.
 - [eehs](https://github.com/bikallem/eehs) - Effects Epoll HTTP Server.
 - [Spring](https://github.com/bikallem/spring) - Delightful OCaml web programming library.
+- [gluten](https://github.com/anmonteiro/gluten) - Reusable runtime library for network protocols.
 
 ## Test
 
@@ -266,6 +267,7 @@ title: OCaml libraries
 - [Distrproc](https://github.com/darrenldl/distrproc) - Erlang style process/actor model library in OCaml.
 - [pyre-ast](https://github.com/grievejia/pyre-ast) - OCaml library to parse Python files.
 - [deque](https://github.com/art-w/deque) - Purely Functional, Real-Time Deques with Catenation (Kaplan & Tarjan).
+- [Lwt_eio](https://github.com/ocaml-multicore/lwt_eio) - Use Lwt libraries from within Eio.
 
 ## Links
 

@@ -43,3 +43,4 @@ title: Program synthesis
 - [DeepSynth](https://github.com/nathanael-fijalkow/DeepSynth) - General-purpose program synthesiser.
 - [DreamCoder](https://github.com/ellisk42/ec) - Wake-sleep algorithm that finds programs to solve a given set of tasks in a particular domain.
 - [Relational program synthesis with numerical reasoning (2023)](https://arxiv.org/abs/2210.00764) ([Code](https://github.com/celinehocquette/numsynth-aaai23))
+- [CodeGen2](https://github.com/salesforce/CodeGen2) - CodeGen2 models for program synthesis.

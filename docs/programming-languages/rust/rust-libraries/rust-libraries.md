@@ -299,6 +299,7 @@
 - [Stylers](https://github.com/abishekatp/stylers) - Scoped CSS for Rust web frameworks like Leptos.
 - [Ribir](https://github.com/RibirX/Ribir) - Framework for building modern native/wasm cross-platform user interface application.
 - [silly-alloc](https://github.com/surma/silly-alloc) - Collection of very basic allocators. Written with WebAssembly in mind.
+- [wasmprof](https://github.com/Shopify/wasmprof) - Library that allows to profile code running inside of wasmtime.
 
 ## GUI
 
@@ -790,6 +791,7 @@
 - [blstrs](https://github.com/filecoin-project/blstrs) - Implementation of BLS12-381 pairing-friendly elliptic curve construction, using the blst library as backend.
 - [bls](https://github.com/w3f/bls) - Aggregatable BLS sigantures.
 - [Rustls FFI bindings](https://github.com/rustls/rustls-ffi) - FFI bindings for the rustls TLS library.
+- [crypto](https://github.com/docknetwork/crypto) - Rust crypto library for data privacy tools.
 
 ## Linux
 
@@ -2826,6 +2828,7 @@
 - [Railroad](https://github.com/lukaslueg/railroad) - Library to produce syntax diagrams as Scalable Vector Graphics.
 - [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
 - [Inexor Reactive Graph Flow](https://github.com/inexorgame/inexor-rgf-application) - Reactive Graph and Flow Control.
+- [ZFlow](https://github.com/darmie/zflow) - Rust implementation of Flow Based Programming Graph specification.
 
 ## Cargo Plugins
 

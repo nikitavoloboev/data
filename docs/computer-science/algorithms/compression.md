@@ -181,3 +181,4 @@ Use [Squoosh](https://squoosh.app/) to compress images without losing quality. [
 - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs (2023)](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html) ([HN](https://news.ycombinator.com/item?id=35420553))
 - [sevenzip](https://github.com/bodgit/sevenzip) - Go library for dealing with 7-zip archives.
 - [Faster LZ is not the answer to 150-250 GB video game downloads (2023)](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html) ([HN](https://news.ycombinator.com/item?id=35659092))
+- [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard.

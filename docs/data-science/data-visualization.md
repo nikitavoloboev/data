@@ -225,3 +225,4 @@
 - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 - [SentenTree](https://github.com/twitter/SentenTree) - Novel text visualization technique.
 - [ChartGPT](https://chart-gpt-blush.vercel.app/) - Tool to build charts based on text input. ([Code](https://github.com/whoiskatrin/chart-gpt))
+- [Cube](https://github.com/cube-js/cube) - Semantic Layer for Building Data Applications. ([Web](https://cube.dev/))

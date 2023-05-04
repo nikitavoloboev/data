@@ -788,3 +788,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Magi](https://github.com/a16z/magi) - OP Stack rollup client written in Rust, designed to perform the same functionality as op-node.
 - [ZeroSeeker](https://github.com/darkforestry/zero-seeker) - Rust-based command-line utility that generates Ethereum contract addresses with a specified number of leading or total zero bytes.
 - [Optimism](https://github.com/refcell/optimism-rs) - Low-cost and lightning-fast Ethereum L2 blockchain.
+- [Artemis](https://github.com/paradigmxyz/artemis) - Simple, modular, and fast framework for writing MEV bots in Rust.

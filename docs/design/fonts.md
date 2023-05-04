@@ -149,6 +149,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Briem Hand](https://github.com/SorkinType/Briem-Hand) - Font family that reproduces the handwriting style of Gunnlaugur SE Briem.
 - [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Essence of Garamond in an open-source sans-serif typeface.
 - [PromptFont](https://github.com/Shinmera/promptfont) - Font with extra characters for button prompts in games.
+- [Womprat](http://womprat.xyz/)
+- [Fixel Font](https://fixel.macpaw.com/)
 
 ## Notes
 

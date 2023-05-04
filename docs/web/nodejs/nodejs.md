@@ -465,3 +465,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
 - [High Performance with Node.js (2023)](https://www.nearform.com/blog/the-secrets-behind-high-performance-with-node-js/)
 - [Exposing a Rust Library to Node with Napi-rs (2023)](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
+- [Rock-req](https://github.com/carboneio/rock-req) - Ensure your HTTP requests always reach their destination as efficiently as possible.

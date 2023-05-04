@@ -281,3 +281,4 @@ More people should [do design in the open](https://twitter.com/CharlesPattson/st
 - [Deadobe](https://github.com/scholablade/Deadobe) - Huge list of alternatives to Adobe products.
 - [Reflect's design page](https://share.cleanshot.com/D8xF7kC2)
 - [How Airbnb organizes the designs (2023)](https://twitter.com/bchesky/status/1654137863007612930)
+- [Brutalist Web Design](https://brutalist-web.design/)

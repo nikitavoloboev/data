@@ -126,3 +126,4 @@ Liked [Lost in Translation](https://www.youtube.com/watch?v=W4SN8G0q3Vk) talk.
 - [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
 - [A11yWatch](https://a11ywatch.com/) - Web accessibility automation tool. ([GitHub](https://github.com/a11ywatch))
 - [Accessible Target Sizes Cheatsheet (2023)](https://www.smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/)
+- [Web Accessibility: A Reference to Creating Inclusive Websites (2023)](https://stackdiary.com/web-accessibility/)

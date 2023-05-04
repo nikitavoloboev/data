@@ -110,3 +110,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [LAST](https://github.com/google-research/last) - JAX library for building lattice-based speech transducer models.
 - [MaxText](https://github.com/google/maxtext) - Simple, performant and scalable Jax LLM.
 - [Stable Diffusion JAX](https://github.com/patil-suraj/stable-diffusion-jax)
+- [JAX-AM](https://github.com/tianjuxue/jax-am) - Additive manufacturing simulation with JAX.
