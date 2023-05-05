@@ -670,3 +670,4 @@ I have repo [test](https://github.com/nikitavoloboev/test), I use for code I wan
 - [Compare binary sizes of canonical Hello World in different languages](https://github.com/MichalStrehovsky/sizegame)
 - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html) ([HN](https://news.ycombinator.com/item?id=35784167))
 - [Error Handling Patterns (2023)](https://andreabergia.com/blog/2023/05/error-handling-patterns/) ([HN](https://news.ycombinator.com/item?id=35784898))
+- [How to Survive Your Project's First 100k Lines (2023)](https://verdagon.dev/blog/first-100k-lines) ([HN](https://news.ycombinator.com/item?id=35801302))

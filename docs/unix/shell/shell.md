@@ -304,3 +304,4 @@ All active variables can be seen by running `env`.
 - [Terminals and Shells 1: Fundamentals](https://owengage.com/writing/2023-01-28-terminals-and-shells-1-fundamentals/)
 - [Fig Discord](https://discord.com/invite/cg4UjshF2M)
 - [Termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
+- [The data structure behind terminals (2023)](https://www.warp.dev/blog/the-data-structure-behind-terminals)

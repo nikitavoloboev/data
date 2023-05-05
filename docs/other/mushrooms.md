@@ -118,3 +118,4 @@ If no grow kit, method is similar but you need to create your own substrate for 
 - [Uncle Bens Reddit](https://www.reddit.com/r/unclebens/) - Technique, a simple and beginner-friendly method for cultivating mushrooms without a pressure cooker.
 - [Cylocybe](https://cylocybe.co.uk/) - UK Mushroom Growing Kits and Magic Spores for Research.
 - [How to Grow Mushrooms from Start to Finish with a Magic Grow Kit](https://www.youtube.com/watch?v=CczWloHO__Y)
+- [How do you dry shrooms?](https://www.reddit.com/r/shrooms/comments/14wjd0/how_do_you_dry_shrooms/)

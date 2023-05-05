@@ -506,4 +506,4 @@ if (
 - [Making JavaScript Ecosystem FAST | Prime Reacts](https://www.youtube.com/watch?v=43AsyeMKVwE)
 - [Sandboxing JavaScript Code (2023)](https://healeycodes.com/sandboxing-javascript-code) ([HN](https://news.ycombinator.com/item?id=35633934))
 - [JavaScript import maps are now supported cross-browser (2023)](https://web.dev/import-maps-in-all-modern-browsers/) ([HN](https://news.ycombinator.com/item?id=35800711))
-- [Roll your own JavaScript runtime, pt. 3 (2023)](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
+- [Roll your own JavaScript runtime, pt. 3 (2023)](https://deno.com/blog/roll-your-own-javascript-runtime-pt3) ([HN](https://news.ycombinator.com/item?id=35819990))

@@ -322,3 +322,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [DSMTP](https://github.com/hironichu/dsmtp) - Deno SMTP Server.
 - [Converting incoming emails on the fly with OpenSMTPD filters (2023)](https://palant.info/2023/03/08/converting-incoming-emails-on-the-fly-with-opensmtpd-filters/)
 - [mail-auth](https://github.com/stalwartlabs/mail-auth) - DKIM, ARC, SPF and DMARC library for Rust.
+- [Resend Node SDK](https://github.com/resendlabs/resend-node)

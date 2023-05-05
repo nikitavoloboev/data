@@ -64,3 +64,4 @@
 - [Wine 8.0 (2023)](https://www.winehq.org/announce/8.0) ([HN](https://news.ycombinator.com/item?id=34505239)) ([Lobsters](https://lobste.rs/s/oybbrm/what_s_new_wine_8_0))
 - [AutoHotkey 2 (2023)](https://www.autohotkey.com/boards/viewtopic.php?t=112989) ([HN](https://news.ycombinator.com/item?id=34562103))
 - [Easy ways to activate Windows 11 for free without a product key (2022)](https://msguides.com/windows-11)
+- [Somehow AutoHotKey is kinda good now (2023)](https://www.hillelwayne.com/post/ahk-v2/) ([Lobsters](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now))

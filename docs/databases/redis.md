@@ -191,3 +191,5 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 - [coredis](https://github.com/alisaifee/coredis) - Async redis client for python with support for redis cluster & sentinel.
 - [reddish](https://github.com/stereobutter/reddish) - Async redis client for python with minimal API.
 - [Go Typed Redis Streams](https://github.com/dranikpg/gtrs)
+- [Redis Interval Sets](https://github.com/danitseitlin/redis-interval-sets) - Redis module for creating interval sets, handling them and filtering out relevant sets by number in range.
+- [Redis Data Source for Grafana](https://github.com/RedisGrafana/grafana-redis-datasource)

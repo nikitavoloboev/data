@@ -398,3 +398,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Vite RSC Experiments](https://github.com/nksaraf/fully-react)
 - [Simple RSC, Deno Edition](https://github.com/itsMapleLeaf/simple-rsc-deno)
 - [zact](https://github.com/pingdotgg/zact) - Helper for react server actions.
+- [Vercel Data Cache: Optimized caching for React Server Components (2023)](https://vercel.com/changelog/introducing-vercel-data-cache)

@@ -808,3 +808,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [OtterTune](https://ottertune.com/) - AI Powered Automatic PostgreSQL & MySQL Tuning.
 - [Datomic is Free (2023)](https://news.ycombinator.com/item?id=35727967)
 - [HyperDB](https://github.com/jdagdelen/hyperDB) - Hyper-fast local vector database for use with LLM Agents.
+- [What is a Vector Database? (2023)](https://www.pinecone.io/learn/vector-database/)

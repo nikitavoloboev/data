@@ -35,6 +35,7 @@ title: Tauri
 - [Tauri + Vue + Vite Template](https://github.com/Uninen/tauri-vue-template)
 - [Reddit mobile client built with Tauri/Vue](https://github.com/Leoglme/tauri-reddit-mobile-app)
 - [Tauri macOS Spotlight Example](https://github.com/ahkohd/tauri-macos-spotlight-example)
+- [Tauri + Astro + Svelte](https://github.com/JonasKruckenberg/tauri-astro-template)
 
 ## Notes
 

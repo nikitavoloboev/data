@@ -14,3 +14,4 @@ Using it in [KusKus](../../ideas/kuskus.md) and love it.
 - [Edge Resolvers – Grafbase (2023)](https://grafbase.com/changelog/edge-resolvers)
 - [Generate TypeScript types for your GraphQL operations](https://grafbase.com/guides/generate-typescript-types-for-your-graphql-operations)
 - [Roadmap – Grafbase](https://grafbase.com/roadmap)
+- [Working with mutation resolvers and Stripe Checkout](https://grafbase.com/guides/working-with-mutation-resolvers-and-stripe-checkout)

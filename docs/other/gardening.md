@@ -44,3 +44,4 @@ Have a greenhouse in which I grow some vegetables and [mushrooms](mushrooms.md).
 - [Why Seeds Not Germinating or Sprouting?](https://www.youtube.com/watch?v=eLACnABG2LM)
 - [How to germinate seeds directly in soil (2022)](https://www.youtube.com/watch?v=Tyl1q7Su2oM)
 - [Illustrations of the Natural Orders of Plants](https://www.c82.net/work/?id=373)
+- [Торфяные таблетки: выращивание рассады](https://www.supersadovnik.ru/text/torfyanye-tabletki-1004132)

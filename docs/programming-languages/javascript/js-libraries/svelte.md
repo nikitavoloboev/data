@@ -389,3 +389,4 @@ title: Svelte
 - [Reflections on Migrating My SaaS to SvelteKit (2023)](http://sveltekitsaas.com/articles/migrate-saas-to-sveltekit/) ([HN](https://news.ycombinator.com/item?id=35708070))
 - [What backend should i use for SvelteKit projects? (2023)](https://www.reddit.com/r/sveltejs/comments/1317he9/what_backend_should_i_use_for_sveltekit_projects/)
 - [Sveltepress](https://github.com/SveltePress/sveltepress) - Content centered site build tool, built on top of SvelteKit.
+- [Zero-config PWA Plugin for SvelteKit](https://github.com/vite-pwa/sveltekit)

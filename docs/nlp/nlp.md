@@ -1119,3 +1119,10 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://github.com/mbzuai-nlp/LaMini-LM)
 - [llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
 - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes (2023)](https://arxiv.org/abs/2305.02301) ([HN](https://news.ycombinator.com/item?id=35810663))
+- [Augmenting LLMs Beyond Basic Text Completion and Transformation (2023)](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/) ([HN](https://news.ycombinator.com/item?id=35819613))
+- [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/) ([HN](https://news.ycombinator.com/item?id=35821695))
+- [Re-implementing LangChain in 100 lines of code (2023)](https://blog.scottlogic.com/2023/05/04/langchain-mini.html) ([HN](https://news.ycombinator.com/item?id=35820931))
+- [gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python. ([HN](https://news.ycombinator.com/item?id=35821748))
+- [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins.
+- [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - Easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+- [StarCoder](https://github.com/bigcode-project/starcoder) - Language model (LM) trained on source code and natural language text.

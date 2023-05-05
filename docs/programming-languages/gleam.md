@@ -62,3 +62,4 @@
 - [Gleam OTP](https://github.com/gleam-lang/otp) - Fault tolerant multicore programs with actors.
 - [Monorepos, fast maps, and more – Gleam (2023)](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 - [Introducing the Gleam package index (2023)](https://gleam.run/news/introducing-the-gleam-package-index/)
+- [gleam_qs](https://github.com/sporto/gleam_qs) - Query string parser for Gleam.

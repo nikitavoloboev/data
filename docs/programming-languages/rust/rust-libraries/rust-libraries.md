@@ -454,6 +454,7 @@
 - [adrodb](https://github.com/adrocodes/adrodb) - Super simple key-value store using SQLite.
 - [SQLite no_std](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible.
 - [Carbonado](https://github.com/diba-io/carbonado) - Apocalypse-resistant data storage format for the truly paranoid.
+- [Storage](https://github.com/matthieu-m/storage) - Exploration of Storages.
 
 ## Video
 

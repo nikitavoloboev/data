@@ -83,7 +83,7 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 - [HStream](https://github.com/conradbez/hstream) - Quick Python web apps. Streamlit alternative using htmx. ([HN](https://news.ycombinator.com/item?id=33547813))
 - [pyxl4](https://github.com/pyxl4/pyxl4) - Extend Python syntax with HTML.
 - [terminado](https://github.com/jupyter/terminado) - Tornado websocket backend for the Xterm.js JavaScript terminal emulator library.
-- [Pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. ([HN](https://news.ycombinator.com/item?id=33922754)) ([Web](https://pynecone.io/)) ([HN](https://news.ycombinator.com/item?id=35136827))
+- [Pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. ([HN](https://news.ycombinator.com/item?id=33922754)) ([Web](https://pynecone.io/)) ([HN](https://news.ycombinator.com/item?id=35136827)) ([HN](https://news.ycombinator.com/item?id=35820289))
 - [Falcon](https://github.com/falconry/falcon) - Minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale.
 - [hface](https://github.com/akamai/hface) - Hackable HTTP/{1,2,3} {client,server,proxy}.
 - [rush](https://github.com/sigmavirus24/rush) - Library for throttles.

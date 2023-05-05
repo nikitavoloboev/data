@@ -268,3 +268,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [SQL:2023 is finished: Here is what’s new (2023)](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new) ([HN](https://news.ycombinator.com/item?id=35562430))
 - [Lost at SQL - SQL learning game](https://lost-at-sql.therobinlord.com/) ([HN](https://news.ycombinator.com/item?id=35665142))
 - [Sleek](https://github.com/nrempel/sleek) - CLI tool for formatting SQL.
+- [SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/)

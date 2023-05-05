@@ -76,6 +76,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [b](https://github.com/knvi/b) - Multiplayer Voxel Engine written in C.
 - [Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers) ([HN](https://news.ycombinator.com/item?id=34628386))
 - [Palia](https://palia.com/)
+- [CoWordle](https://wordlenew.com/cowordle/) - Play Wordle with friends.
 
 ## Awesome OSS games
 

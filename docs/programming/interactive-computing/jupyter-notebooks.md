@@ -257,3 +257,4 @@ title: Jupyter Notebooks
 - [JupyterLab extension for widgets based on Yjs](https://github.com/davidbrochart/yjs-widgets)
 - [pyobsplot](https://github.com/juba/pyobsplot) - Observable Plot in Jupyter notebooks and Quarto documents.
 - [Jupyter interface for Glue](https://github.com/glue-viz/glue-jupyter)
+- [JupySQL](https://github.com/ploomber/jupysql) - Better SQL in Jupyter.

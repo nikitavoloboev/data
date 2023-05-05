@@ -336,3 +336,6 @@ It's also great at giving examples.
 - [GPT-3 token encoder and decoder](https://observablehq.com/@simonw/gpt-3-token-encoder-decoder)
 - [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua (2023)](https://til.simonwillison.net/llms/code-interpreter-expansions)
 - [Does GPT-4 think better in JavaScript? (2023)](https://vgel.me/posts/gpt4-javascript/) ([Lobsters](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript))
+- [Writing Code with ChatGPT? Improve it with Kani (2023)](https://model-checking.github.io/kani-verifier-blog/2023/05/01/writing-code-with-chatgpt-improve-it-with-kani.html)
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
+- [GPT-4 AI Tutor Prompt for customizable personalized learning experiences](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)

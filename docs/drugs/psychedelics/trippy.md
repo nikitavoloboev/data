@@ -28,3 +28,4 @@
 - [WoahDude Discord](https://discord.com/invite/woahdude)
 - [104 Mesmerizing Mosque Ceilings That Highlight The Wonders Of Islamic Architecture](https://www.boredpanda.com/mosque-ceilings/)
 - [Interactive Mathematics Miscellany and Puzzles](http://cut-the-knot.org/)
+- [Deep MDMA](https://github.com/thoppe/DeepMDMA) - Hallucinations of a neural network set to music.
