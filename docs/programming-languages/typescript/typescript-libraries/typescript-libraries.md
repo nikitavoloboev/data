@@ -871,6 +871,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [createAPIClient](https://github.com/sergiodxa/api-client) - Strongly typed API client using Zod.
 - [chronark/access](https://github.com/chronark/access) - E2E Typed Access Control.
 - [dekun](https://github.com/ajfAfg/dekun) - Library in TypeScript that provides functions to return an AST string of a specified variable definition or function definition from a specified file.
+- [streaming-tar](https://github.com/zebp/streaming-tar) - Pure-TypeScript streaming Tar parser for Web-compatible JavaScript runtimes.
 
 ## Links
 

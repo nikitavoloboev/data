@@ -2832,6 +2832,7 @@
 - [Inexor Reactive Graph Flow](https://github.com/inexorgame/inexor-rgf-application) - Reactive Graph and Flow Control.
 - [ZFlow](https://github.com/darmie/zflow) - Rust implementation of Flow Based Programming Graph specification.
 - [tracy_full](https://github.com/SparkyPotato/tracy_full) - Safe, fully-featured bindings to the Tracy profiler.
+- [Musli](https://github.com/udoprog/musli) - Flexible and generic binary serialization framework.
 
 ## Cargo Plugins
 

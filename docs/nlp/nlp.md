@@ -1138,3 +1138,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [VardaGPT](https://github.com/ixaxaar/VardaGPT) - Associative memory-enhanced GPT-2 model.
 - [LLM Foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models.
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits.
+- [Indexify](https://github.com/diptanu/indexify) - Document Indexing Service with SOTA embedding models and Pluggable Vector Stores.
