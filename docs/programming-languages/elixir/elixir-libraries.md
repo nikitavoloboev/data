@@ -308,6 +308,7 @@
 - [Enumancer](https://github.com/sabiwara/enumancer) - Elixir macros to effortlessly define highly optimized Enum pipelines.
 - [Iter](https://github.com/sabiwara/iter) - Fast compile-time optimized alternative to the Enum and Stream modules.
 - [Styler](https://github.com/adobe/elixir-styler) - Elixir code-style enforcer that will just FIFY instead of complaining.
+- [Spandex](https://github.com/spandex-project/spandex) - Platform agnostic tracing library.
 
 ## Links
 

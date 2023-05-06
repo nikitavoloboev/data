@@ -386,3 +386,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [Twitter API Client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API.
 - [Legacy Verified](https://github.com/roberrrt-s/legacy-verified-extension) - Browser extension to bring back legacy verified accounts on Twitter.
 - [Twitter Backend API implemented in Go](https://github.com/leoantony72/twitter-backend)
+- [Blue Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com.

@@ -331,6 +331,7 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [What is your guilty pleasure video game? (2023)](https://www.reddit.com/r/PS5/comments/137ir44/what_is_your_guilty_pleasure_video_game/)
 - [What in your opinion is the best looking game on PS5? (2023)](https://www.reddit.com/r/PS5/comments/138usvs/what_in_your_opinion_is_the_best_looking_game_on/)
 - [Regular games that aren't afraid of showing some nudity (2023)](https://www.reddit.com/r/gamingsuggestions/comments/138lqla/regular_games_that_arent_afraid_of_showing_some/)
+- [What is your most anticipated upcoming release for the PS5? (2023)](https://www.reddit.com/r/PS5/comments/139ml2s/what_is_your_most_anticipated_upcoming_release/)
 
 ## Links
 

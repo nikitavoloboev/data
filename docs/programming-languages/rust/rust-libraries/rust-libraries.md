@@ -455,6 +455,7 @@
 - [SQLite no_std](https://github.com/vlcn-io/sqlite-rs-embedded) - Rust bindings for SQLite that are no_std and wasm compatible.
 - [Carbonado](https://github.com/diba-io/carbonado) - Apocalypse-resistant data storage format for the truly paranoid.
 - [Storage](https://github.com/matthieu-m/storage) - Exploration of Storages.
+- [kvm-sample-rust](https://github.com/keiichiw/kvm-sample-rust) - Minimal KVM API sample in Rust.
 
 ## Video
 
@@ -2952,6 +2953,7 @@
 - [Duvet](https://github.com/awslabs/duvet) - Code quality tool to help bound correctness.
 - [cargo-px](https://github.com/LukeMathWalker/cargo-px) - Cargo subcommand that extends cargo's capabilities when it comes to code generation.
 - [cargo which-nightly](https://github.com/cdown/cargo-which-nightly) - Tells you which nightly contains a particular set of features.
+- [cargo public-api-crates](https://github.com/davidpdrsn/cargo-public-api-crates) - Cargo subcommand to find crates in your public API.
 
 ## Notes
 
@@ -3183,3 +3185,4 @@
 - [Google's Rust Crate Audits](https://github.com/google/supply-chain)
 - [Rust's powerful macros explained](https://twitter.com/w_hgm/status/1650913814693527553)
 - [Emerging Rust GUI libraries in a WASM world (2023)](https://monadical.com/posts/shades-of-rust-gui-library-list.html) ([HN](https://news.ycombinator.com/item?id=35722681))
+- [Let's try every rust gui library and see how they fare](https://github.com/d86leader/every-rust-gui-library)

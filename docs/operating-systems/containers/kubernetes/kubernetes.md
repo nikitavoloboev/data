@@ -959,3 +959,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [VelaD](https://github.com/kubevela/velad) - Lightweight KubeVela that runs as Daemon in single node with high availability.
 - [Bifrost](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures.
 - [Regatta](https://github.com/jamf/regatta) - Distributed, eventually consistent key-value store built for Kubernetes.
+- [KubeMarine](https://github.com/Netcracker/KubeMarine) - Management tool for Kubernetes cluster deployment and maintenance.

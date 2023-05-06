@@ -82,3 +82,4 @@ title: Fastify
 - [Create Fastify](https://github.com/fastify/create-fastify) - Rapidly generate a Fastify project.
 - [Fastify OpenAI Docs](https://github.com/ShogunPanda/fastify-openapi-docs) - Simple plugin for Fastify that generates OpenAPI spec automatically.
 - [Universal Route Module API Specification](https://github.com/fastify/fastify-dx/blob/main/URMA.md)
+- [Node Fastify Service Template](https://github.com/lokalise/node-service-template)

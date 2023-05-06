@@ -122,3 +122,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Mouse Picking for Bevy](https://github.com/aevyrie/bevy_mod_picking) - Bevy plugin for picking, making it easy to interact with meshes in Bevy.
 - [Bevy + Lyon](https://github.com/Nilirad/bevy_prototype_lyon) - Draw 2D shapes in Bevy.
 - [Bevy dfdx and the Classic Cart Pole (2022)](https://monadmonkey.com/bevy-dfdx-and-the-classic-cart-pole)
+- [Bevy Vector Shapes](https://github.com/james-j-obrien/bevy_vector_shapes) - Library for rendering vector shapes using the Bevy game engine.

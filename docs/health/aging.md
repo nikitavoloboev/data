@@ -145,3 +145,5 @@ I quite like my [morning](../focusing/processes.md#mroning)/[day](../focusing/pr
 - [Peter Attia — The Science and Art of Longevity (2023)](https://tim.blog/2023/03/14/peter-attia-outlive/)
 - [Outlive: The Science & Art of Longevity - Peter Attia (2023)](https://peterattiamd.com/outlive/)
 - [Which longevity treatment will be the first to go mainstream? (2023)](https://www.reddit.com/r/longevity/comments/12xpbb1/which_longevity_treatment_will_be_the_first_to_go/)
+- [Loyal](https://loyalfordogs.com/) - Helping dogs live longer, healthier lives.
+- [Cellular Longevity](https://www.cellularlongevityinc.com/)
