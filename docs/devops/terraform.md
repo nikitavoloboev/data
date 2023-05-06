@@ -235,3 +235,4 @@ title: Terraform
 - [Terraform GPT Helper](https://github.com/flavius-dinu/tfgpt)
 - [Terraform Provider for cosign](https://github.com/chainguard-dev/terraform-provider-cosign)
 - [Stacks for Terraform](https://github.com/cisco-open/stacks)
+- [Terrap](https://github.com/sirrend/terrap-cli) - CLI utility used to notify about Terraform deprecations in your code.

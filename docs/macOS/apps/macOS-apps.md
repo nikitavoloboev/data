@@ -357,3 +357,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [PermissionsKit](https://github.com/MacPaw/PermissionsKit) - Convenience wrapper on macOS permissions API, including Mojave Full Disk Access.
 - [Which mac apps are worth every penny and you can't live without? (2023)](https://www.reddit.com/r/macapps/comments/12tm7f7/which_apps_are_worth_every_penny_and_you_cant/)
 - [What is The Error Code](https://github.com/AvdLee/WhatTheErrorCode) - Convert unreadable errors into understandable descriptions.
+- [Superman](https://github.com/Macjutsu/super) - Optimizes the macOS software update experience.

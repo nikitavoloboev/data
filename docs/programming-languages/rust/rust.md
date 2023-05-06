@@ -1133,3 +1133,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Stabilizing async fn in traits in 2023](https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html) ([Reddit](https://www.reddit.com/r/rust/comments/136o73k/stabilizing_async_fn_in_traits_in_2023_inside/))
 - [Building x86 Rust containers from Mac Silicon (2023)](https://loige.co/building_x86_rust-containers-from-mac-silicon/)
 - [Pursuit of Performance on Building a JavaScript Compiler (2023)](https://rustmagazine.org/issue-3/javascript-compiler/)
+- [Entering the Garden of Ferris (2023)](https://d0nut.hashnode.dev/entering-the-garden-of-ferris)

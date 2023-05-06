@@ -299,3 +299,4 @@ And these Discord servers:
 - [Quality News](https://github.com/social-protocols/news) - Towards a fairer ranking formula for Hacker News. ([HN](https://news.ycombinator.com/item?id=35183317))
 - [TrendBowl](https://www.trendbowl.app/#/overview) - New Web trends on a daily basis.
 - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”? (2023)](https://news.ycombinator.com/item?id=35726999)
+- [Curate news from many websites into one feed](https://hn.cho.sh/) ([Code](https://github.com/anaclumos/hn.cho.sh))

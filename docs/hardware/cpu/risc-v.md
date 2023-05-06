@@ -229,3 +229,4 @@ title: RISC-V
 - [RISC on a Chip: David Patterson and Berkeley RISC-I (2023)](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and) ([HN](https://news.ycombinator.com/item?id=35682331))
 - [Return oriented programming on RISC-V (2023)](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
 - [Vector](https://github.com/sequencer/vector) - RISC-V Vector RTL generator, supporting Zvl1024b, Zve32x extension.
+- [R2](https://github.com/bokuweb/r2) - RISC-V emulator written in Rust.

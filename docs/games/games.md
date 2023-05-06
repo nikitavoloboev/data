@@ -329,6 +329,8 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Single player games that don't feel lonely (2023)](https://www.reddit.com/r/gamingsuggestions/comments/132koh6/single_player_games_that_dont_feel_lonely/)
 - [What game is “the Lord of the rings” of video games? (2023)](https://www.reddit.com/r/gamingsuggestions/comments/1367vmt/what_game_is_the_lord_of_the_rings_of_video_games/)
 - [What is your guilty pleasure video game? (2023)](https://www.reddit.com/r/PS5/comments/137ir44/what_is_your_guilty_pleasure_video_game/)
+- [What in your opinion is the best looking game on PS5? (2023)](https://www.reddit.com/r/PS5/comments/138usvs/what_in_your_opinion_is_the_best_looking_game_on/)
+- [Regular games that aren't afraid of showing some nudity (2023)](https://www.reddit.com/r/gamingsuggestions/comments/138lqla/regular_games_that_arent_afraid_of_showing_some/)
 
 ## Links
 

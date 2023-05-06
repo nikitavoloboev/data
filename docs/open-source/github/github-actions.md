@@ -450,6 +450,7 @@ title: GitHub actions
 - [Automate Haskell releases](https://github.com/cachix/haskell-release-action)
 - [get-tested](https://github.com/Kleidukos/get-tested) - CLI tool that retrieves the tested-with stanza of a cabal file and formats it in such a way that GitHub Actions can use it.
 - [Stack Cache Action](https://github.com/freckle/stack-cache-action) - One-line caching action for Stack-based Haskell projects.
+- [Setup Haskell](https://github.com/hspec/setup-haskell)
 
 ## LLVM
 

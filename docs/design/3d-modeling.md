@@ -109,3 +109,4 @@
 - [Forged Thoughts](https://github.com/markusmoenig/ForgedThoughts) - 3D modeling and rendering programming language utilizing SDFs.
 - [Make 3D Models using ChatGPT (2022)](https://www.youtube.com/watch?v=nVIMVBmAi_8)
 - [viser](https://github.com/brentyi/viser) - Library for interactive 3D visualization + Python.
+- [Hedron](https://github.com/josfeenstra/hedron) - All-in-one 3D modelling library, written in Rust.

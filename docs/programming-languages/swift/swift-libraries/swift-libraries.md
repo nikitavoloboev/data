@@ -1502,6 +1502,7 @@
 - [VersionedCodable](https://github.com/jrothwell/VersionedCodable) - Wrapper around Swift's Codable that allows versioning of Codable types.
 - [yswift](https://github.com/ObuchiYuki/yswift) - Swift version of yjs.
 - [AlpacaChat](https://github.com/niw/AlpacaChat) - Swift library that runs Alpaca-LoRA prediction locally to implement ChatGPT like app on Apple platform devices.
+- [Cabbage](https://github.com/VideoFlint/Cabbage) - Video composition framework build on top of AVFoundation. It's simple to use and easy to extend.
 
 ## Other (not lib)
 

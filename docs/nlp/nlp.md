@@ -1135,3 +1135,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Uses Auto-GPT with Llama.cpp](https://github.com/rhohndorf/Auto-Llama-cpp)
 - [Open LLMs](https://github.com/eugeneyan/open-llms)
 - [Awesome Instruction Dataset](https://github.com/yaodongC/awesome-instruction-dataset)
+- [VardaGPT](https://github.com/ixaxaar/VardaGPT) - Associative memory-enhanced GPT-2 model.
+- [LLM Foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models.
+- [ThinkGPT](https://github.com/jina-ai/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits.

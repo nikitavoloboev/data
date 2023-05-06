@@ -342,3 +342,4 @@ It's also great at giving examples.
 - [Aski](https://github.com/kznrluk/aski) - Feature-rich and easy-to-use ChatGPT client for your teminal.
 - [Cuttlefish](https://github.com/cube2222/cuttlefish) - Desktop chat app for ChatGPT.
 - [Awesome ChatGPT Plugins](https://github.com/ai-list/awesome-chatgpt-plugins)
+- [OP Vault](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.

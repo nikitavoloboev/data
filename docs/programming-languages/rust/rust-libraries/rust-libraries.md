@@ -2140,7 +2140,7 @@
 - [Lightning](https://github.com/ShisoftResearch/Lightning) - Set of lock-free data structures.
 - [Moniker](https://github.com/brendanzab/moniker) - Makes it simple to track variables across nested scopes in programming language implementations.
 - [Hydroflow](https://github.com/hydro-project/hydroflow) - Hydro's low-level dataflow runtime.
-- [zip-rs](https://github.com/zip-rs/zip) - Zip library for rust which supports reading and writing of simple ZIP files.
+- [zip-rs](https://github.com/zip-rs/zip) - Zip library for rust which supports reading and writing of simple ZIP files. ([Fork](https://github.com/Pr0methean/zip-next))
 - [gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX).
 - [art-rs](https://github.com/Lagrang/art-rs) - Adaptive Radix Tree.
 - [Zestors](https://github.com/Zestors/zestors) - Simple, fast and flexible actor framework for building robust distributed applications, heavily inspired by Erlang.
@@ -2830,6 +2830,7 @@
 - [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
 - [Inexor Reactive Graph Flow](https://github.com/inexorgame/inexor-rgf-application) - Reactive Graph and Flow Control.
 - [ZFlow](https://github.com/darmie/zflow) - Rust implementation of Flow Based Programming Graph specification.
+- [tracy_full](https://github.com/SparkyPotato/tracy_full) - Safe, fully-featured bindings to the Tracy profiler.
 
 ## Cargo Plugins
 

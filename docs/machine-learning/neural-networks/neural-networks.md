@@ -350,3 +350,4 @@
 - [Scaling Transformer to 1M tokens and beyond with RMT (2023)](https://arxiv.org/abs/2304.11062) ([HN](https://news.ycombinator.com/item?id=35682424))
 - [Chaos Networks (2023)](https://monadmonkey.com/chaos-networks-part-1)
 - [Architectures of Topological Deep Learning: A Survey on Topological Neural Networks (2023)](https://arxiv.org/abs/2304.10031) ([HN](https://news.ycombinator.com/item?id=35681466))
+- [Training Full Spike Neural Networks via Auxiliary Accumulation Pathway (2023)](https://arxiv.org/abs/2301.11929) ([Code](https://github.com/iCGY96/AAP))

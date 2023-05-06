@@ -101,3 +101,4 @@ Liked [this talk](https://www.youtube.com/watch?v=5jUQZFnmiPo) as an intro.
 - [Timestamp](https://github.com/aperturerobotics/timestamp) - Protobuf cross-language timestamp encoding.
 - [protoCURL](https://github.com/qaware/protocurl) - cURL for Protobuf. ([HN](https://news.ycombinator.com/item?id=34866155))
 - [Proto Gen MD Diagrams](https://github.com/GoogleCloudPlatform/proto-gen-md-diagrams) - Utility for generating Markdown documentation for Protocol Buffers that include Mermaid UML Diagrams.
+- [Protobuf Decoder](https://github.com/pawitp/protobuf-decoder) - Web application based on React to decode and visualize Protobuf data (hex) into prettified table layout.

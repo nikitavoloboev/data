@@ -132,7 +132,7 @@ All active variables can be seen by running `env`.
 - [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells) ([Lobsters](https://lobste.rs/s/bhqflt/alternative_shells))
 - [Run Python Code in a Shell Script (2021)](https://trstringer.com/python-in-shell-script/)
 - [murex](https://github.com/lmorg/murex) - Alternative shell with native support for JSON, YAML, TOML, CSV, etc. ([Web](https://murex.rocks/)) ([HN](https://news.ycombinator.com/item?id=26284294))
-- [Atuin](https://github.com/ellie/atuin) - Manages and synchronizes your shell history.
+- [Atuin](https://github.com/ellie/atuin) - Manages and synchronizes your shell history. ([HN](https://news.ycombinator.com/item?id=35839470))
 - [pimp](https://github.com/aymericbeaumet/pimp) - Give your shell commands superpowers.
 - [Fig](https://github.com/withfig/autocomplete) - Autocomplete for terminals on MacOS. ([Web](https://fig.io/)) ([HN](https://news.ycombinator.com/item?id=27277819)) ([Issues](https://github.com/withfig/fig/issues))
 - [Elvish Shell](https://elv.sh/) - Expressive programming language and a versatile interactive shell, combined into one seamless package. ([Tour](https://elv.sh/learn/tour.html))

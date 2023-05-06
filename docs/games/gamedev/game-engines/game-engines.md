@@ -181,3 +181,4 @@
 - [Awesome Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev)
 - [The Coming Game Engine Inflection Point (2022)](https://members.newdesigncongress.org/the-coming-game-engine-inflection-point/) ([HN](https://news.ycombinator.com/item?id=34008635))
 - [I built a multiplayer voxel browser game engine (2023)](https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/) ([HN](https://news.ycombinator.com/item?id=35705063)) ([Code](https://github.com/kevzettler/multiplayer-voxel-browser-game-engine))
+- [Ambient 0.2: Multiplayer UI (2023)](https://www.ambient.run/post/ambient-0-2)

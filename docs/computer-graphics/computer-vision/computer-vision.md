@@ -1255,3 +1255,4 @@
 - [VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking (2023)](https://github.com/OpenGVLab/VideoMAEv2)
 - [DiffusionDepth: Diffusion Denoising Approach for Monocular Depth Estimation (2023)](https://arxiv.org/abs/2303.05021) ([Code](https://github.com/duanyiqun/DiffusionDepth))
 - [Shap-E: Generating Conditional 3D Implicit Functions (2023)](https://arxiv.org/abs/2305.02463) ([Code](https://github.com/openai/shap-e)) ([HN](https://news.ycombinator.com/item?id=35836976))
+- [Personalize Segment Anything Model with One Shot (2023)](https://arxiv.org/abs/2305.03048) ([Code](https://github.com/ZrrSkywalker/Personalize-SAM))
