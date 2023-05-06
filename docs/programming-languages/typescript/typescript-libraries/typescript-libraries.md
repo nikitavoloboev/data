@@ -870,6 +870,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Restate](https://github.com/fabianlindfors/restate) - Build reliable, understandable and debuggable backends with state machines.
 - [createAPIClient](https://github.com/sergiodxa/api-client) - Strongly typed API client using Zod.
 - [chronark/access](https://github.com/chronark/access) - E2E Typed Access Control.
+- [dekun](https://github.com/ajfAfg/dekun) - Library in TypeScript that provides functions to return an AST string of a specified variable definition or function definition from a specified file.
 
 ## Links
 

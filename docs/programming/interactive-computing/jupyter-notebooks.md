@@ -258,3 +258,4 @@ title: Jupyter Notebooks
 - [pyobsplot](https://github.com/juba/pyobsplot) - Observable Plot in Jupyter notebooks and Quarto documents.
 - [Jupyter interface for Glue](https://github.com/glue-viz/glue-jupyter)
 - [JupySQL](https://github.com/ploomber/jupysql) - Better SQL in Jupyter.
+- [UnionX](https://www.unionx.io/) - GPT4-powered Copilot for Work with Jupyter-style notebooks. ([HN](https://news.ycombinator.com/item?id=35836679))

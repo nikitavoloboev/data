@@ -53,3 +53,4 @@ title: Relay
 - [Relay Live Resolvers Example](https://github.com/alunyov/relay-resolvers-example)
 - [Injecting a store in Relay](https://twitter.com/alunyov/status/1602097114154237955)
 - [Who's using Relay? (2023)](https://twitter.com/dan_abramov/status/1634975201493680128)
+- [Create Relay App](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite.

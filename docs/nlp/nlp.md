@@ -1126,3 +1126,12 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins.
 - [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - Easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 - [StarCoder](https://github.com/bigcode-project/starcoder) - Language model (LM) trained on source code and natural language text.
+- [ReLLM: Exact Structure for Large Language Model Completions (2023)](https://matt-rickard.com/rellm) ([HN](https://news.ycombinator.com/item?id=35829399))
+- [Releasing 3B and 7B RedPajama (2023)](https://www.together.xyz/blog/redpajama-models-v1) ([HN](https://news.ycombinator.com/item?id=35836411))
+- [Unlimiformer: Long-Range Transformers with Unlimited Length Input (2023)](https://arxiv.org/abs/2305.01625) ([HN](https://news.ycombinator.com/item?id=35832802))
+- [MosaicML MPT-7B: A Commercially-Usable LLaMa-Quality Model (2023)](https://www.mosaicml.com/blog/mpt-7b) ([HN](https://news.ycombinator.com/item?id=35829800))
+- [WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) - LLM that combines the principles of wizardLM and vicunaLM.
+- [Dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs.
+- [Uses Auto-GPT with Llama.cpp](https://github.com/rhohndorf/Auto-Llama-cpp)
+- [Open LLMs](https://github.com/eugeneyan/open-llms)
+- [Awesome Instruction Dataset](https://github.com/yaodongC/awesome-instruction-dataset)

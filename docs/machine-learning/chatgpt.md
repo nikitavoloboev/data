@@ -339,3 +339,6 @@ It's also great at giving examples.
 - [Writing Code with ChatGPT? Improve it with Kani (2023)](https://model-checking.github.io/kani-verifier-blog/2023/05/01/writing-code-with-chatgpt-improve-it-with-kani.html)
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 - [GPT-4 AI Tutor Prompt for customizable personalized learning experiences](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+- [Aski](https://github.com/kznrluk/aski) - Feature-rich and easy-to-use ChatGPT client for your teminal.
+- [Cuttlefish](https://github.com/cube2222/cuttlefish) - Desktop chat app for ChatGPT.
+- [Awesome ChatGPT Plugins](https://github.com/ai-list/awesome-chatgpt-plugins)

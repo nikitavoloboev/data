@@ -310,3 +310,6 @@
 - [Flattening ASTs (and Other Compiler Data Structures) (2023)](https://www.cs.cornell.edu/~asampson/blog/flattening.html) ([Lobsters](https://lobste.rs/s/xw1fdb/flattening_asts_other_compiler_data))
 - [Driving Compilers (2023)](https://fabiensanglard.net/dc/) ([Lobsters](https://lobste.rs/s/upmvxg/driving_compilers))
 - [fixpls](https://github.com/remorses/fixpls) - Fix your compiler errors automatically with GPT.
+- [JIT Compilers 102 (2023)](https://redvice.org/2023/template-jits/)
+- [Ask HN: Why are there no traditional language compilers that target the JVM? (2023)](https://news.ycombinator.com/item?id=35828100)
+- [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you) ([HN](https://news.ycombinator.com/item?id=35830684))

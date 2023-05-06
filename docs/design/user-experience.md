@@ -239,3 +239,4 @@ Great onboarding is essential. Loved [Arc Browser](https://arc.net/) onboarding.
 - [Web Interface Guidelines](https://rauno.me/interfaces) ([Tweet](https://twitter.com/raunofreiberg/status/1629124238589235201))
 - [Usability Heuristics for User Interface Design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)
 - [UI Goodies](https://uigoodies.com/) - Directory of Design Resources & Tools.
+- [Stop Using Hamburger Menus (2023)](https://bt.ht/hamburgers/) ([HN](https://news.ycombinator.com/item?id=35833163))

@@ -25,3 +25,4 @@ title: Crystal
 - [Crest](https://github.com/mamantoha/crest) - HTTP and REST client for Crystal.
 - [Incremental compilation for Crystal (2023)](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
 - [Pluto](https://github.com/phenopolis/pluto) - Fast and convenient image processing library.
+- [A look at Crystal, a programming language for humans (2023)](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming) ([HN](https://news.ycombinator.com/item?id=35811879))

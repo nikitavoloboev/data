@@ -556,3 +556,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix Start](https://gitlab.com/engmark/nix-start)
 - [runix](https://github.com/flox/runix) - Type-safe Rust interface to the Nix CLI.
 - [NixFS](https://github.com/illustris/nixfs) - Access any Nix derivation through filesystem paths with NixFS.
+- [Frictionless developer environments: Simplify and add lightness (2023)](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)

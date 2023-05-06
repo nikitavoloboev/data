@@ -746,6 +746,7 @@
 - [pgvector-swift](https://github.com/pgvector/pgvector-swift) - pgvector examples for Swift.
 - [gotrue-swift](https://github.com/supabase-community/gotrue-swift) - Swift client for the GoTrue API.
 - [Canopy](https://github.com/tact/Canopy) - Library that helps you isolate CloudKit dependency and write testable code using CloudKit.
+- [Atoms](https://github.com/bangerang/swift-atoms) - Powerful and flexible atomic state management library for Swift, designed to create compact, independent global state components with seamless adaptability and composition.
 
 ## Graphics
 

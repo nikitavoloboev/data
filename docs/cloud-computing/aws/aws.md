@@ -455,3 +455,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [AWS SDK v3 Client mock](https://github.com/m-radzikowski/aws-sdk-client-mock)
 - [Amazon EKS User Guide](https://github.com/awsdocs/amazon-eks-user-guide)
 - [deCDK](https://github.com/cdklabs/decdk) - Define AWS CDK applications declaratively.
+- [Farewell to the Era of Cheap EC2 Spot Instances (2023)](https://pauley.me/post/2023/spot-price-trends/) ([Lobsters](https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances)) ([HN](https://news.ycombinator.com/item?id=35802157))

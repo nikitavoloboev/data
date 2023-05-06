@@ -190,6 +190,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [ooze](https://github.com/gtramontina/ooze) - Go Mutation Testing.
 - [apitest](https://github.com/steinfletcher/apitest) - Simple and extensible behavioral testing library.
 - [Fake](https://github.com/icrowley/fake) - Fake data generator for Go.
+- [gobench](https://github.com/kevwan/gobench) - Write and plot your benchmark just in Go.
 
 ## Web
 
@@ -648,6 +649,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [FreeLRU](https://github.com/elastic/go-freelru) - GC-less, fast and generic LRU hashmap library for Go.
 - [XQL](https://github.com/flier/xql) - Type-safe query statements in Go.
 - [sqlds](https://github.com/grafana/sqlds) - Package that assists writing SQL-driven datasources.
+- [Geche](https://github.com/C-Pro/geche) - Generic cache implementations in Go focused on simplicity.
 
 ## ML
 
@@ -2155,6 +2157,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [ecs](https://github.com/unitoftime/ecs) - Simple and generic ECS implementation in Go.
 - [nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.
 - [typesetting](https://github.com/go-text/typesetting) - High quality text shaping in pure Go.
+- [x](https://github.com/charmbracelet/x) - Charm experimental packages.
 
 ## Links
 

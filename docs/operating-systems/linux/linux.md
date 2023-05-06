@@ -717,3 +717,4 @@ title: Linux
 - [Measuring the Impact of False Sharing (2023)](https://alic.dev/blog/false-sharing.html)
 - [Buzzer](https://github.com/google/buzzer) - eBPF Fuzzer toolchain.
 - [BTFHub](https://github.com/aquasecurity/btfhub) - Provides BTF files for existing published kernels that don't support embedded BTF.
+- [A Linux kernel without struct buffer_head (2023)](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/) ([HN](https://news.ycombinator.com/item?id=35813950))

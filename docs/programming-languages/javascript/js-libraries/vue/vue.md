@@ -271,3 +271,5 @@ title: Vue.js
 - [Vue Test Utils](https://github.com/vuejs/test-utils)
 - [Nuxt Content Assets](https://github.com/davestewart/nuxt-content-assets) - Enable locally-located assets in Nuxt Content.
 - [Nuxt Icon](https://github.com/nuxt-modules/icon) - Icon component, supporting Iconify, Emojis and custom components.
+- [NuxtLego](https://github.com/zernonia/nuxt-lego) - Unstyled components for building your Nuxt content quick & beautiful.
+- [Nuxt + Vercel ISR](https://github.com/danielroe/nuxt-vercel-isr) - Tiny demo to show off Nuxt's route rules integration with Vercel.

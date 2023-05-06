@@ -293,3 +293,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Simplifying Bézier paths (2023)](https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html)
 - [The Next Generation in Graphics, Part 1: Three Dimensions in Software (2023)](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/) ([HN](https://news.ycombinator.com/item?id=35722376))
 - [Fine-grained backface culling (2023)](https://zeux.io/2023/04/28/triangle-backface-culling/)
+- [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy) ([HN](https://news.ycombinator.com/item?id=35836115))

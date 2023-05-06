@@ -377,3 +377,4 @@ Once in a relationship, it's important to have some kind of [date nights once a 
 - [Всё про личные границы](https://www.youtube.com/watch?v=9zV_hTGmiJ8)
 - [How did you meet your other half?](https://twitter.com/inaribriana/status/1645495351917289475)
 - [Songs about breakups (2023)](https://twitter.com/ne_tank/status/1651982864999755783)
+- [Ask HN: What are ways to combat loneliness and build meaningful connections?](https://news.ycombinator.com/item?id=35832296)

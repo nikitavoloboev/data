@@ -789,3 +789,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Emoji Kitchen](https://emojikitchen.dev/) ([Code](https://github.com/xsalazar/emoji-kitchen))
 - [AUGMENTAL](https://www.augmental.tech/) - Pressure-sensitive touchpad sits at the roof of your mouth.
 - [Currl](https://currl.io/) - Social bookmarking website. ([HN](https://news.ycombinator.com/item?id=35786242))
+- [Awesome Url Shortener](https://github.com/738/awesome-url-shortener)
+- [An Internet Canvas](https://notes.mmm.page/paper) ([HN](https://news.ycombinator.com/item?id=35806306))

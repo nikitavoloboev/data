@@ -93,3 +93,4 @@ title: WebGPU
 - [WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla JavaScript. ([Demo](https://www.kmeans.org/)) ([HN](https://news.ycombinator.com/item?id=35648544))
 - [WebGPU-Utils](https://github.com/greggman/webgpu-utils) - Random useful things for WebGPU.
 - I want to talk about WebGPU (2023)](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) ([HN](https://news.ycombinator.com/item?id=35800988)) ([Reddit](https://www.reddit.com/r/rust/comments/136k95m/i_want_to_talk_about_webgpu/))
+- [WebGPU CRDT](https://github.com/siliconjungle/webgpu-crdt) - Simple CRDT implementation for merging of fixed-arrays with WebGPU.
