@@ -31,3 +31,5 @@ At some point, I used MindNode as a way to [break down problems into smaller par
 - [Learn about Concept Maps](https://cmap.ihmc.us/docs/learn.php) ([HN](https://news.ycombinator.com/item?id=30903140))
 - [Hackers Mind Map](https://github.com/nadrad/h-m-m) ([HN](https://news.ycombinator.com/item?id=32838475))
 - [React Flow Mind Map App](https://github.com/wbkd/react-flow-mindmap-app)
+- [jsMind](https://github.com/hizzgdev/jsmind) - Mind mapping library built by JS.
+- [Space.js](https://github.com/alienkitty/space.js)

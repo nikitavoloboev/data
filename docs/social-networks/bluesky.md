@@ -27,3 +27,4 @@ title: Bluesky
 - [Skylight](https://github.com/penpenpng/skylight) - Minimal bsky.social web client implementation.
 - [Bluesky's AT Protocol - Federation Architecture Overview (2023)](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture) ([HN](https://news.ycombinator.com/item?id=35834106))
 - [Everything happening on Bluesky (2023)](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store) ([HN](https://news.ycombinator.com/item?id=35830612))
+- [At Protocol Python SDK](https://github.com/MarshalX/atproto)
