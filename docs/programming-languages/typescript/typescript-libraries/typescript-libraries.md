@@ -58,6 +58,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [BlinkDB](https://github.com/blinkdb-js/blinkdb) - In-memory JS database optimized for large scale storage on the frontend.
 - [kysely-neon](https://github.com/seveibar/kysely-neon) - Kysely adapter for Neon serverless postgres.
 - [ts-postgres](https://github.com/malthe/ts-postgres) - Non-blocking PostgreSQL client for Node.js written in TypeScript.
+- [Kysely Data Api](https://github.com/serverless-stack/kysely-data-api) - Adds AWS RDS Data Api support for kysely. It has support for both MySQL and Postgres.
 
 ## Web
 
@@ -872,6 +873,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [chronark/access](https://github.com/chronark/access) - E2E Typed Access Control.
 - [dekun](https://github.com/ajfAfg/dekun) - Library in TypeScript that provides functions to return an AST string of a specified variable definition or function definition from a specified file.
 - [streaming-tar](https://github.com/zebp/streaming-tar) - Pure-TypeScript streaming Tar parser for Web-compatible JavaScript runtimes.
+- [unthunk](https://github.com/JLarky/unthunk) - Utility to create lazy evaluated fields on an object.
 
 ## Links
 

@@ -110,3 +110,4 @@ Like using [Rive](rive.md) for making animations.
 - [Computational Design of Mechanical Characters](https://la.disneyresearch.com/wp-content/uploads/CDMC1.pdf)
 - [Did We Just Change Animation Forever? (2023)](https://www.youtube.com/watch?v=_9LX9HSQkWo)
 - [GSAP vs. Webflow for Website Animations](https://www.webbae.net/post/gsap-vs-webflow-for-website-animations)
+- [Scene.js Render](https://github.com/daybrush/scenejs-render) - Make a movie of CSS animation through Scene.js.

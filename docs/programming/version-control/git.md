@@ -690,3 +690,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Tools](https://github.com/kazhuravlev/git-tools) - Useful set of tools which helps to manage git tags.
 - [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees (2023)](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)
 - [Viewing a pull request's changes since your last review, even in the face of a rebase (2023)](https://daisy.wtf/writing/github-changes-since-last-review/)
+- [GitHoot](https://git.ht/) - Git Hooting. ([HN](https://news.ycombinator.com/item?id=35846667))

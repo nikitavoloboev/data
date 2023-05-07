@@ -193,3 +193,4 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 - [Go Typed Redis Streams](https://github.com/dranikpg/gtrs)
 - [Redis Interval Sets](https://github.com/danitseitlin/redis-interval-sets) - Redis module for creating interval sets, handling them and filtering out relevant sets by number in range.
 - [Redis Data Source for Grafana](https://github.com/RedisGrafana/grafana-redis-datasource)
+- [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md) ([HN](https://news.ycombinator.com/item?id=35847269))

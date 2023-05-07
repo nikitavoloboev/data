@@ -47,3 +47,4 @@ title: Datalog
 - [Introduction to Datalog (2022)](https://blogit.michelin.io/an-introduction-to-datalog/) ([HN](https://news.ycombinator.com/item?id=34801457))
 - [Deconstructing Datalog (2021)](http://www.rntz.net/files/thesis.pdf) ([HN](https://news.ycombinator.com/item?id=34991276))
 - [Better Together: Unifying Datalog and Equality Saturation (2023)](https://arxiv.org/abs/2304.04332) ([Lobsters](https://lobste.rs/s/2rxagg/better_together_unifying_datalog))
+- [Eqlog](https://github.com/eqlog/eqlog) - Extension of datalog with function symbols and equality.

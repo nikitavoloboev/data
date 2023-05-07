@@ -153,3 +153,4 @@ title: Phoenix framework
 - [Introducing Live Elements · Fly (2023)](https://fly.io/ruby-dispatch/introducing-live-elements/)
 - [Swift Phoenix Client](https://github.com/davidstump/SwiftPhoenixClient) - Connect your Phoenix and iOS applications through WebSockets.
 - [LiveSvelte](https://github.com/woutdp/live_svelte) - Render Svelte directly into Phoenix LiveView with E2E reactivity.
+- [LiveViewNative](https://github.com/liveview-native/live_view_native) - Platform for building native applications with Phoenix LiveView.

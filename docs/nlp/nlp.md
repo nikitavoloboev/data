@@ -1140,3 +1140,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits.
 - [Indexify](https://github.com/diptanu/indexify) - Document Indexing Service with SOTA embedding models and Pluggable Vector Stores.
 - [ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family.
+- [ReLLM](https://github.com/r2d4/rellm) - Regular Expressions for Language Model Completions.

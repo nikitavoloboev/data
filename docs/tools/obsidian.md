@@ -303,3 +303,4 @@ Also use Obsidian as a way to work through active todos, until I build an app fo
 - [Digital Gardening in Obsidian (2022)](https://bytes.zone/posts/digital-gardening-in-obsidian/) ([HN](https://news.ycombinator.com/item?id=34137703))
 - [Flowershow](https://flowershow.app/) - Publish your Obsidian notes, beautifully. For free, no coding. ([Code](https://github.com/flowershow/flowershow))
 - [Obsidian CLI](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian using the terminal. Open, search, create, update and move notes.
+- [Obsidian Telegram Sync Plugin](https://github.com/soberhacker/obsidian-telegram-sync) - Transfer messages and files from Telegram bot to Obsidian.
