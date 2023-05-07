@@ -33,3 +33,4 @@ title: Ebiten
 - [Kage's desk](https://github.com/tinne26/kage-desk) - Make Kage shaders more accessible to Ebitengine.
 - [Ebitengine Kage support for Visual Studio Code](https://github.com/sedyh/ebitengine-kage-vscode)
 - [Ebiten UI](https://github.com/ebitenui/ebitenui) - User interface engine and widget library for Ebiten.
+- [ebiten-camera](https://github.com/MelonFunction/ebiten-camera) - Simple camera for ebiten.

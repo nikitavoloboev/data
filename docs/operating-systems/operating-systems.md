@@ -448,3 +448,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Firepilot](https://github.com/rik-org/firepilot) - Rust library to manage and create firecracker microVMs.
 - [QEMU 8.0 (2023)](https://www.qemu.org/2023/04/20/qemu-8-0-0/) ([HN](https://news.ycombinator.com/item?id=35688320))
 - [Writing an OS in Go: The Bootloader (2023)](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader) ([Reddit](https://www.reddit.com/r/golang/comments/132wzc6/writing_an_os_in_go_the_bootloader/))
+- [OS Template](https://github.com/INeddHelp/os-template) - Basic OS template made with Rust and Assembly.

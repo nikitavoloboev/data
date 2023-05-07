@@ -363,3 +363,4 @@ title: React Native
 - [rn-mdx](https://github.com/danieldunderfelt/rn-mdx) - Show MDX content in React-Native. Expo compatible.
 - [React Native iAP](https://github.com/dooboolab-community/react-native-iap) - Module for In App Purchase.
 - [Structure and Interpretation of React Native (2023)](https://wingolog.org/archives/2023/04/21/structure-and-interpretation-of-react-native)
+- [React Native Template Obytes](https://github.com/obytes/react-native-template-obytes)

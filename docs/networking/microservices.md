@@ -2,6 +2,10 @@
 
 [Temporal](https://temporal.io), [Kratos](https://github.com/go-kratos/kratos), [Go Kit](https://github.com/go-kit/kit) & [Istio](https://github.com/istio/istio) seem interesting.
 
+> [Monoliths have local CPU L1-Cache speeds, distributed microservices have JSON deserialization, serialization, network round trips](https://twitter.com/malcolmsparks/status/1655123354771136512).
+
+Is good thing to keep in mind.
+
 ## Notes
 
 - [Microservices; the act of replacing every SQL query with a gRPC call.](https://twitter.com/davecheney/status/1296033304756404225)

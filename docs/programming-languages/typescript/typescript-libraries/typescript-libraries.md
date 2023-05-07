@@ -184,6 +184,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Zors](https://github.com/sidwebworks/zors) - Next-gen framework for building modern, type-safe command-line applications.
 - [Xterm.js Readline](https://github.com/strtok/xterm-readline) - Library for building command-line interfaces with XtermJS.
 - [zcli](https://github.com/jaredLunde/zcli) - Framework for building type-safe command line tools powered by Zod.
+- [Ink UI](https://github.com/vadimdemedes/ink-ui) - Collection of customizable UI components for CLIs made with Ink.
 
 ## Crypto
 

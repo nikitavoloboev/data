@@ -235,3 +235,4 @@ I'm also exploring [Voby](https://github.com/vobyjs/voby) as [alternative to Sol
 - [Strict Mode in SolidJS?! (2023)](https://www.youtube.com/watch?v=2bkuEIa3Nwk)
 - [Solid-Presence-Signal](https://github.com/EthanStandel/solid-presence-signal) - Animate the presence of an element. ([Reddit](https://www.reddit.com/r/solidjs/comments/12ft18u/i_made_a_lightweight_presence_animation_library/))
 - [Solid Transition Group](https://github.com/solidjs-community/solid-transition-group) - SolidJS components for applying animations when children elements enter or leave the DOM.
+- [Solid Next Docs](https://github.com/solidjs/solid-docs-next-next)

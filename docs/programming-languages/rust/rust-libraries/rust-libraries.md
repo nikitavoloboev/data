@@ -2834,6 +2834,7 @@
 - [tracy_full](https://github.com/SparkyPotato/tracy_full) - Safe, fully-featured bindings to the Tracy profiler.
 - [Musli](https://github.com/udoprog/musli) - Flexible and generic binary serialization framework.
 - [Maths](https://github.com/polymonster/maths-rs) - Linear algebra library for graphics and gamedev.
+- [Backie](https://github.com/rafaelcaricio/backie) - Background task processing for Rust applications with Tokio, Diesel, and PostgreSQL.
 
 ## Cargo Plugins
 

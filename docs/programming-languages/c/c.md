@@ -332,3 +332,4 @@
 - [C Strings and my slow descent to madness (2023)](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to) ([HN](https://news.ycombinator.com/item?id=35467367))
 - [Hero C Compiler](https://github.com/heroseh/hcc) - C Compiler to SPIR-V.
 - [My favorite C compiler flags during development (2023)](https://nullprogram.com/blog/2023/04/29/) ([HN](https://news.ycombinator.com/item?id=35758898))
+- [How to make smaller C and C++ binaries (2013)](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html) ([HN](https://news.ycombinator.com/item?id=35853625))

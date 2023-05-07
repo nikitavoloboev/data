@@ -861,3 +861,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [Clarity](https://clarity.rahul.gs/) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics. ([Code](https://github.com/1rgs/clarity-reader))
 - [fixgpt](https://github.com/Kelin2025/fixgpt) - AI-based CLI tool for code generation and mass refactoring.
 - [Anthony Fu's Tools](https://github.com/antfu/use)
+- [Ask HN: What productivity tools do you use? (2023)](https://news.ycombinator.com/item?id=35853576)

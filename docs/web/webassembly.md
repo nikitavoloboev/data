@@ -459,3 +459,4 @@ title: WebAssembly
 - [WASI HTTP](https://github.com/WebAssembly/wasi-http) - Proposed WebAssembly System Interface API.
 - [FAAS in Go with WASM, WASI and Rust (2023)](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/) ([HN](https://news.ycombinator.com/item?id=35846443))
 - [Hora WASM](https://github.com/hora-search/hora-wasm) - WASM binding for Hora Approximate Nearest Neighbor Search Library.
+- [wasm-nm](https://github.com/fitzgen/wasm-nm) - List the symbols within a wasm file.
