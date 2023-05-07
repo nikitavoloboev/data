@@ -262,3 +262,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [ScrapeGPT](https://github.com/davidhershey/ScrapeGPT) - Web scraper builder that uses GPT-4 to automatically generate Python scripts for scraping websites based on user input.
 - [Website Scraper and Vectorizer](https://github.com/Sstobo/Site-Sn33k) ([Reddit](https://www.reddit.com/r/Python/comments/12wqzbk/i_have_made_some_easy_tools_to_rip_webpages_clean/))
 - [metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - JavaScript library for scraping/parsing metadata from a web page.
+- [Gumroad Scraper and Website Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator)

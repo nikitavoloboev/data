@@ -391,3 +391,4 @@ title: Svelte
 - [Sveltepress](https://github.com/SveltePress/sveltepress) - Content centered site build tool, built on top of SvelteKit.
 - [Zero-config PWA Plugin for SvelteKit](https://github.com/vite-pwa/sveltekit)
 - [Svelte Summit Spring 2023](https://www.youtube.com/watch?v=0bog8-Ay7CU)
+- [Svelte TipTap](https://github.com/sibiraj-s/svelte-tiptap) - Svelte components for TipTap.

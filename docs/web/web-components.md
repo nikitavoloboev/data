@@ -133,3 +133,4 @@ title: Web Components
 - [bay.js](https://github.com/Dunks1980/bay.js) - Easy to use, lightweight library for web-components.
 - [Example Components (Built with Tonic)](https://github.com/socketsupply/components)
 - [Custom Elements Language Server](https://github.com/Matsuuu/custom-elements-language-server)
+- [Joist](https://github.com/joist-framework/joist) - Small library to help with the creation of web components and web component based applications.

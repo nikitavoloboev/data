@@ -367,6 +367,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [suspense](https://github.com/bvaughn/suspense) - APIs to simplify data loading and caching. Primarily intended for use with React Suspense.
 - [MorpherX](https://github.com/Kelin2025/morphling) - Morphing animations with ease.
 - [React Image Crop](https://github.com/DominicTobias/react-image-crop) - Image cropping tool for React with no dependencies.
+- [use-context-menu](https://github.com/bvaughn/use-context-menu) - React components for displaying configurable context menus.
 
 ## Links
 

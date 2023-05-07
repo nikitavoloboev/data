@@ -662,6 +662,7 @@
 - [markdown-webview](https://github.com/tomdai/markdown-webview) - Performant SwiftUI view that renders Markdown content.
 - [Queryable](https://github.com/SwiftedMind/Queryable) - Asynchronous view presentations in SwiftUI.
 - [Puddles](https://github.com/SwiftedMind/Puddles) - Native SwiftUI app architecture.
+- [SwiftUI Plus](https://github.com/shaps80/SwiftUIPlus) - SwiftUI additions and helpers that are missing from the official implementation.
 
 ## Test
 

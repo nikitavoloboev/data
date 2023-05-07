@@ -1145,6 +1145,7 @@
 - [Licia](https://github.com/liriliri/licia) - Useful utility collection with zero dependencies.
 - [algovivo](https://github.com/juniorrojas/algovivo) - JavaScript + WASM implementation of an energy-based formulation for soft-bodied virtual creatures.
 - [PlaceKit Autocomplete JS Library](https://github.com/placekit/autocomplete-js)
+- [open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 
 ## Links
 

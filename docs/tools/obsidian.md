@@ -233,6 +233,7 @@ Also use Obsidian as a way to work through active todos, until I build an app fo
 - [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin)
 - [Global Search and Replace for Obsidian](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace)
 - [Obsidian Copilot](https://github.com/logancyang/obsidian-copilot) - ChatGPT interface right inside Obsidian.
+- [Folder Index](https://github.com/turulix/obsidian-folder-index)
 
 ## Themes
 

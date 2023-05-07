@@ -270,3 +270,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
 - [CloudKnit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments.
 - [MRSK: hot deployment tool to watch—or a total game changer? (2023)](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
+- [Opslib](https://github.com/mgax/opslib) - Pythonic toolkit to manage infrastructure.
