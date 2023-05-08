@@ -444,3 +444,4 @@ title: Reinforcement learning
 - [Safety-Gymnasium](https://github.com/OmniSafeAI/safety-gymnasium) - Highly scalable and customizable safe reinforcement learning environment library.
 - [MACTA: Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection (2023)](https://github.com/facebookresearch/macta)
 - [Reinforcement Learning for Language Models (2023)](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)
+- [Transformers are Sample-Efficient World Models (2023)](https://github.com/eloialonso/iris)

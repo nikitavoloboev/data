@@ -88,3 +88,4 @@
 - [Supabase Logs: open-source logging server (2023)](https://supabase.com/blog/supabase-logs-self-hosted) ([HN](https://news.ycombinator.com/item?id=35518786))
 - [Tell HN: ChatGPT is absolutely fantastic for finding and solving issues in logs (2023)](https://news.ycombinator.com/item?id=35638552)
 - [Highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring. ([Web](https://highstorm.app/))
+- [logss](https://github.com/todoesverso/logss) - Simple cli for logs splitting.

@@ -466,3 +466,4 @@ Currently prefer using [Bun](../../programming-languages/javascript/bun.md) inst
 - [High Performance with Node.js (2023)](https://www.nearform.com/blog/the-secrets-behind-high-performance-with-node-js/)
 - [Exposing a Rust Library to Node with Napi-rs (2023)](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
 - [Rock-req](https://github.com/carboneio/rock-req) - Ensure your HTTP requests always reach their destination as efficiently as possible.
+- [Madrun](https://github.com/coderaiser/madrun) - CLI tool to run multiple npm-scripts in a madly comfortable way.

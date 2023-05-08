@@ -442,3 +442,4 @@
 - [Approximating pi using a cake (2023)](https://ntietz.com/blog/happy-pi-day-2023/)
 - [Yale Applied Empirical Methods PHD Course](https://github.com/paulgp/applied-methods-phd)
 - [Mathberet](https://github.com/yonatanmgr/mathberet) - Self-hosted digital mathematics notebook, written in React and built with Electron.
+- [Ask HN: Books or courses to understand college level mathematics? (2023)](https://news.ycombinator.com/item?id=35854717)

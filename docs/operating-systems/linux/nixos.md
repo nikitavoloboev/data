@@ -316,3 +316,4 @@ I currently don't deploy things on bare metal from some provider like [Hetzner](
 - [NixOS Flake](https://github.com/srid/nixos-flake) - Flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.
 - [Getting NixOS to keep a secret (2022)](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/) ([Lobsters](https://lobste.rs/s/ymhmun/getting_nixos_keep_secret))
 - [Extending NixOS Configurations (2023)](https://determinate.systems/posts/extending-nixos-configurations)
+- [NixOS: A Personal Post-Mortem (2023)](https://nathan-kim.org/writing/nixos-post-mortem) ([HN](https://news.ycombinator.com/item?id=35854077))

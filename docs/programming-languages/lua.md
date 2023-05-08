@@ -162,3 +162,4 @@ title: Lua
 - [luzer](https://github.com/ligurio/luzer) - Coverage-guided, native Lua fuzzing engine.
 - [Wasynth](https://github.com/Rerumu/Wasynth) - WebAssembly to Lua translation library and tool.
 - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
+- [Ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API.

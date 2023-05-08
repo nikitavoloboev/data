@@ -319,3 +319,4 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [Why Clerk auth is nice (2023)](https://twitter.com/t3dotgg/status/1652218871590567937)
 - [Does OAuth2 have a usability problem? (yes!) (2023)](https://evertpot.com/oauth2-usability/)
 - [Purpose of OAuth 2](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
+- [gotrue-js](https://github.com/supabase/gotrue-js) - Isomorphic JavaScript library for GoTrue.

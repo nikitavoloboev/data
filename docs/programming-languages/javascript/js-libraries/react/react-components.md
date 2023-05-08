@@ -425,3 +425,4 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [EnhanceAI for React](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI, a library for enhancing web app text input with AI autocomplete.
 - [preact-reconciler](https://github.com/CodyJasonBennett/preact-reconciler) - Custom renderers for Preact in <1KB.
 - [Reactist](https://github.com/Doist/reactist) - Open source React components by Doist.
+- [React Aria Components](https://react-spectrum.adobe.com/react-aria/react-aria-components.html) ([HN](https://news.ycombinator.com/item?id=35848421))

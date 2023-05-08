@@ -472,7 +472,7 @@ title: Linux
 - [WebVM](https://webvm.io/) - Server-less virtual Linux environment running fully client-side in HTML5/WebAssembly. ([Code](https://github.com/leaningtech/webvm)) ([Article](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)) ([HN](https://news.ycombinator.com/item?id=30167403))
 - [archupd](https://github.com/c4rlo/archupd) - Arch Linux updater.
 - [bpfcov](https://github.com/elastic/bpfcov) - Source-code based coverage for eBPF programs actually running in the Linux kernel.
-- [The Beginner's Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+- [The Beginner's Guide to eBPF](https://github.com/lizrice/ebpf-beginners) ([HN](https://news.ycombinator.com/item?id=35855929))
 - [Missing Manuals - io_uring worker pool (2022)](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 - [On Building 30K Debian Packages (2022)](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html) ([HN](https://news.ycombinator.com/item?id=30237483))
 - [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) ([Code](https://github.com/gto76/linux-cheatsheet))

@@ -106,3 +106,4 @@ Is logical theory of computable functions.
 - [Lambda Calculus With Coroutines and Heapless, Directly-Called Closures (2023)](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures)
 - [Eole](https://github.com/HerrmannM/eole) - Levy-optimal lambda calculus evaluator without oracle.
 - [John's Lambda Calculus and Combinatory Logic Playground](https://tromp.github.io/cl/cl.html) ([HN](https://news.ycombinator.com/item?id=35125828))
+- [lambdaSC](https://github.com/thwfhk/lambdaSC) - Calculus for Scoped Effects and Handlers.

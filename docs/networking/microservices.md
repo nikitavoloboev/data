@@ -129,3 +129,4 @@ Is good thing to keep in mind.
 - [Go Microservices Example](https://github.com/harlow/go-micro-services) - Expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication.
 - [You Want Modules, Not Microservices (2023)](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) ([HN](https://news.ycombinator.com/item?id=34230641))
 - [Spawn](https://github.com/eigr/spawn) - Actor Mesh Serverless Platform.
+- [The Prime Video microservices to monolith story (2023)](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4) ([HN](https://news.ycombinator.com/item?id=35853148))

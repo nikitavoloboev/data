@@ -665,6 +665,7 @@
 - [lain](https://github.com/landaire/lain) - Structured fuzzing framework built in Rust.
 - [serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 - [Necessist](https://github.com/trailofbits/necessist) - Run tests with statements and method calls removed to help identify broken tests.
+- [rust-skeptic](https://github.com/budziq/rust-skeptic) - Test your Rust Markdown documentation via Cargo.
 
 ## Error
 

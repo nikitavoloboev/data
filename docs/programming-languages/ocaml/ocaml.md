@@ -177,3 +177,4 @@ title: OCaml
 - [My thoughts on OCaml (2023)](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html) ([HN](https://news.ycombinator.com/item?id=35699697)) ([Lobsters](https://lobste.rs/s/jvxb8s/my_thoughts_on_ocaml))
 - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml) ([HN](https://lobste.rs/s/c1qatd/two_years_ocaml))
 - [Ahrefs is now built with Melange. OCaml, all the way down (2023)](https://tech.ahrefs.com/ahrefs-is-now-built-with-melange-b14f5ec56df4)
+- [Implementing value speculation in OCaml (2023)](https://www.lortex.org/articles/value-speculation-ocaml/) ([HN](https://news.ycombinator.com/item?id=35844078))

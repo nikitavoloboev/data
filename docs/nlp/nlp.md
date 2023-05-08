@@ -1141,3 +1141,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Indexify](https://github.com/diptanu/indexify) - Document Indexing Service with SOTA embedding models and Pluggable Vector Stores.
 - [ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family.
 - [ReLLM](https://github.com/r2d4/rellm) - Regular Expressions for Language Model Completions.
+- [Pre-Training to Learn in Context (2023)](https://github.com/t1101675/PICL)
+- [PandaLM: Reproducible and Automated Language Model Assessment](https://github.com/WeOpenML/PandaLM)
+- [RasaGPT](https://github.com/paulpierre/RasaGPT) - Headless LLM chatbot platform built on top of Rasa and Langchain. ([HN](https://news.ycombinator.com/item?id=35859344))

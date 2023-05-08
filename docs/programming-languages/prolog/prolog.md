@@ -85,3 +85,4 @@ title: Prolog
 - [Awesome Prolog](https://github.com/klaudiosinani/awesome-prolog)
 - [VSC-Prolog](https://github.com/arthwang/vsc-prolog) - VS Code extension that provides language support for prolog.
 - [Prolog Engine in Haskell](https://github.com/nikelin/prolog-engine)
+- [Prolog for data science (2023)](https://emiruz.com/post/2023-04-30-prolog-for-data-science/) ([HN](https://news.ycombinator.com/item?id=35855398))

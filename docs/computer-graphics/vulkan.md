@@ -120,3 +120,4 @@ title: Vulkan API
 - [Go-VK](https://github.com/bbredesen/go-vk) - Go binding around the Vulkan graphics and compute API. ([Samples](https://github.com/bbredesen/go-vk-samples))
 - [Paving the Road to Vulkan on Asahi Linux (2023)](https://asahilinux.org/2023/03/road-to-vulkan/)
 - [Daxa](https://github.com/Ipotrick/Daxa) - GPU API built on Vulkan.
+- [Vulkan Video Decoding (2023)](https://wickedengine.net/2023/05/07/vulkan-video-decoding/) ([HN](https://news.ycombinator.com/item?id=35852774))

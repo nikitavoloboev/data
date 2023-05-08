@@ -245,3 +245,4 @@
 - [Modern Macros (2023)](https://www.youtube.com/watch?v=YMUCpx6vhZM) ([Lobsters](https://lobste.rs/s/c8nqjz/padl_23_modern_macros))
 - [Generalized Macros (2023)](https://ianthehenry.com/posts/generalized-macros/) ([Lobsters](https://lobste.rs/s/u0kfqp/generalized_macros)) ([HN](https://news.ycombinator.com/item?id=35614023))
 - [Build Your Own Lisp](https://buildyourownlisp.com/contents) ([HN](https://news.ycombinator.com/item?id=35726033))
+- [Why Lisp? (2023)](https://nyxt.atlas.engineer/article/why-lisp.org) ([HN](https://news.ycombinator.com/item?id=35852321))

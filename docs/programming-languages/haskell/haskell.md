@@ -541,3 +541,4 @@ It'd be interesting to have a [functional language](../../programming/functional
 - [Algebraic Path Finding (2023)](https://iagoleal.com/posts/algebraic-path/)
 - [static-ls](https://github.com/josephsumabat/static-ls) - High-speed, low-memory solution for large projects for which haskell-language-server tends to take up too much memory on recompilation.
 - [Haskell in Production: Standard Chartered (2023)](https://serokell.io/blog/haskell-in-production-standard-chartered) ([HN](https://news.ycombinator.com/item?id=35801293))
+- [The Haskell Unfolder - YouTube](https://www.youtube.com/playlist?list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7) ([Code](https://github.com/well-typed/unfolder))
