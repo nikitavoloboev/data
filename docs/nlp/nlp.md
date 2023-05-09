@@ -1144,3 +1144,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Pre-Training to Learn in Context (2023)](https://github.com/t1101675/PICL)
 - [PandaLM: Reproducible and Automated Language Model Assessment](https://github.com/WeOpenML/PandaLM)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT) - Headless LLM chatbot platform built on top of Rasa and Langchain. ([HN](https://news.ycombinator.com/item?id=35859344))
+- [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.

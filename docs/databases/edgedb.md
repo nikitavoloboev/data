@@ -50,3 +50,4 @@ My DB of choice for all projects. Sits on top of [Postgres](postgresql.md) but h
 - [PrismaEdgeQL](https://github.com/kuizto/prisma-edgeql) - Drop-in replacement to use Prisma Client on Edge environments with GraphQL queries.
 - [Grafana backend plugin for EdgeDB](https://github.com/edgedb/edgedb-grafana-backend)
 - [HN: EdgeDB (2023)](https://news.ycombinator.com/item?id=35809195)
+- [EdgeDB v3](https://www.edgedb.com/docs/changelog/3_x)

@@ -30,4 +30,4 @@ title: Bluesky
 - [At Protocol Python SDK](https://github.com/MarshalX/atproto)
 - [I downloaded all 1.6M posts on Bluesky (2023)](https://worthdoingbadly.com/bsky/) ([HN](https://news.ycombinator.com/item?id=35845504))
 - [Kite](https://github.com/callmearta/kite) - BlueSky web client.
-- [Bluesky is a scam (2023)](https://fiatjaf.com/ab1127fb.html)
+- [Bluesky is a scam (2023)](https://fiatjaf.com/ab1127fb.html) ([HN](https://news.ycombinator.com/item?id=35858111))

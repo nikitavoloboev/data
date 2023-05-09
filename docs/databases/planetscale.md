@@ -50,3 +50,4 @@ It's nice when used with [Drizzle ORM](https://github.com/drizzle-team/drizzle-o
 - [How does database sharding work? (2023)](https://planetscale.com/blog/how-does-database-sharding-work) ([HN](https://news.ycombinator.com/item?id=35476518))
 - [PlanetScale AI](https://github.com/sgammon/planetscale-ai) - AI assistant for your PlanetScale database.
 - [Query performance analysis with Insights (2023)](https://planetscale.com/blog/query-performance-analysis-with-insights)
+- [Safely making database schema changes (2023)](https://planetscale.com/blog/safely-making-database-schema-changes)

@@ -275,3 +275,4 @@ title: DNS
 - [Bizarre and Unusual Uses of DNS (2023)](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/) ([HN](https://news.ycombinator.com/item?id=34939809))
 - [How Rust and Wasm power Cloudflare's 1.1.1.1 (2023)](https://blog.cloudflare.com/big-pineapple-intro/)
 - [sniproxy](https://github.com/ameshkov/sniproxy) - SNI proxy with embedded DNS server that supports blocking and forwarding rules.
+- [Learning DNS in 10 Years (2023)](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/) ([HN](https://news.ycombinator.com/item?id=35870654))

@@ -300,3 +300,4 @@ And these Discord servers:
 - [TrendBowl](https://www.trendbowl.app/#/overview) - New Web trends on a daily basis.
 - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”? (2023)](https://news.ycombinator.com/item?id=35726999)
 - [Curate news from many websites into one feed](https://hn.cho.sh/) ([Code](https://github.com/anaclumos/hn.cho.sh))
+- [News Minimalist](https://www.newsminimalist.com/) - Only significant news.
