@@ -1145,3 +1145,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [PandaLM: Reproducible and Automated Language Model Assessment](https://github.com/WeOpenML/PandaLM)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT) - Headless LLM chatbot platform built on top of Rasa and Langchain. ([HN](https://news.ycombinator.com/item?id=35859344))
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
+- [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models (2023)](https://arxiv.org/abs/2305.04091) ([Code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting))
+- [AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser.
+- [Lit-Parrot](https://github.com/Lightning-AI/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training.
+- [HugNLP](https://github.com/HugAILab/HugNLP) - Unified and comprehensive NLP library based on HuggingFace Transformer.
+- [Automated interpretability](https://github.com/openai/automated-interpretability)

@@ -338,3 +338,4 @@ title: HTTP
 - [trurl](https://github.com/curl/trurl) - Command line tool for URL parsing and manipulation. ([HN](https://news.ycombinator.com/item?id=35442116))
 - [hprox](https://github.com/bjin/hprox) - Lightweight HTTP/HTTPS proxy server in Haskell.
 - [Introduction to HTTP Multipart (2023)](https://blog.adamchalmers.com/multipart/) ([HN](https://news.ycombinator.com/item?id=35704101))
+- [TReq](https://github.com/talis-fb/TReq) - Client to make HTTP requests for Hacker Users.

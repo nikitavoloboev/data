@@ -2836,6 +2836,7 @@
 - [Musli](https://github.com/udoprog/musli) - Flexible and generic binary serialization framework.
 - [Maths](https://github.com/polymonster/maths-rs) - Linear algebra library for graphics and gamedev.
 - [Backie](https://github.com/rafaelcaricio/backie) - Background task processing for Rust applications with Tokio, Diesel, and PostgreSQL.
+- [Zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS or Python applications.
 
 ## Cargo Plugins
 

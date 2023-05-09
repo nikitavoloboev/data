@@ -281,3 +281,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [Where to store extra photos beyond iCloud](https://twitter.com/ibuildthecloud/status/1628127753781522433)
 - [ICM Photography Magazine](https://www.icmphotomag.com/)
 - [vkdt](https://vkdt.org/) - Graph-based photography workflow tool. ([Code](https://github.com/hanatos/vkdt))
+- [How to edit photos like Olesya Shatskova](https://www.youtube.com/watch?v=P3ToE7bZVLY)

@@ -1124,3 +1124,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [What Is ML Compilation](https://mlc.ai/chapter_introduction/index.html#what-is-ml-compilation)
 - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) ([HN](https://news.ycombinator.com/item?id=35767789))
 - [Fun and Hackable Tensors in Rust, From Scratch (2023)](https://getcode.substack.com/p/fun-and-hackable-tensors-in-rust) ([Reddit](https://www.reddit.com/r/rust/comments/134r80q/fun_and_hackable_tensors_in_rust_from_scratch/))
+- [Efficient encoder-decoder architecture with top-down attention for speech separation](https://github.com/JusperLee/TDANet)
+- [ImageBind](https://github.com/facebookresearch/ImageBind) - One Embedding Space To Bind Them All.

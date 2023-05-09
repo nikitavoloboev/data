@@ -301,3 +301,4 @@ title: Bioinformatics
 - [Nice starters into bioinformatics (2023)](https://www.reddit.com/r/bioinformatics/comments/1321z33/any_recommendations_or_tips_for_a_biology_student/)
 - [lightmotif](https://github.com/althonos/lightmotif) - Lightweight platform-accelerated library for biological motif scanning using position weight matrices.
 - [Rust Pseudoaligner](https://github.com/10XGenomics/rust-pseudoaligner) - Single-Cell RNA-seq pseudo-aligner.
+- [Single-cell best practices](https://github.com/theislab/single-cell-best-practices)

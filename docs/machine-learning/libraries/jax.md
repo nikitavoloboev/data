@@ -111,3 +111,4 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [MaxText](https://github.com/google/maxtext) - Simple, performant and scalable Jax LLM.
 - [Stable Diffusion JAX](https://github.com/patil-suraj/stable-diffusion-jax)
 - [JAX-AM](https://github.com/tianjuxue/jax-am) - Additive manufacturing simulation with JAX.
+- [AutoBound](https://github.com/google/autobound) - Automatically computes upper and lower bounds on functions.

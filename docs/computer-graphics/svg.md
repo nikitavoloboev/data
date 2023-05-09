@@ -191,3 +191,4 @@
 - [SVG Backgrounds](https://www.svgbackgrounds.com/) ([HN](https://news.ycombinator.com/item?id=35235952))
 - [When SVG almost got network support for raw sockets (2023)](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/) ([HN](https://news.ycombinator.com/item?id=35381755))
 - [Inlining SVGs for Dark Mode (2023)](https://ahelwer.ca/post/2023-04-06-dark-mode/) ([Lobsters](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode))
+- [Minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon generator. No dependencies.

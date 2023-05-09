@@ -237,3 +237,4 @@ title: Type Theory
 - [Type Systems - Luca Cardelli (2004)](http://lucacardelli.name/papers/typesystems.pdf)
 - [OpenTau: Using OpenAI Codex for Gradual Type Inference](https://github.com/GammaTauAI/opentau) - Using Code Language Models for Gradual Type Inference.
 - [Every type is defined by its intro and elim forms (2023)](https://blog.jez.io/intro-elim/) ([Lobsters](https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim))
+- [Minimal TypeScript implementation of Hindley-Milner type inference](https://github.com/domdomegg/hindley-milner-typescript-minimal)
