@@ -361,3 +361,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [eBay’s Fast Billion-Scale Vector Similarity Engine (2023)](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
 - [Design a Basic Search Engine (Google or Bing)](https://www.youtube.com/watch?v=0LTXCcVRQi0)
 - [Cloudflare Vector Search](https://github.com/team-openpm/cloudflare-vector-search) - Allows you to perform a semantic search over a set of documents.
+- [Fitting millions of documents in 128 TB of virtual memory (2023)](https://blog.meilisearch.com/dynamic-virtual-address-management/) ([Lobsters](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb))

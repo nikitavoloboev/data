@@ -605,3 +605,4 @@
 - [Cloudflare Speedtest](https://github.com/cloudflare/speedtest) - JavaScript module to measure the quality of a client’s Internet connection.
 - [TURN-RS](https://github.com/mycrl/turn-rs) - Pure rust-implemented turn server.
 - [fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports.
+- [How we built Network Analytics v2 (2023)](https://blog.cloudflare.com/building-network-analytics-v2/)

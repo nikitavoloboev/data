@@ -68,3 +68,4 @@ title: TLA+
 - [TLA+ questions, answers, and experiments](https://github.com/Isaac-DeFrain/TLAplusFun)
 - [endive](https://github.com/will62794/endive) - Tool for inferring inductive invariants of protocols specified in TLA+.
 - [The Capability-Tractability Tradeoff (2023)](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)
+- [An Introduction to TLA+ and Its Use in Parties (2023)](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)

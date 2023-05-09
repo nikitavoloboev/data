@@ -92,3 +92,4 @@ title: ActivityPub
 - [MastoFeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge.
 - [Activity.next](https://github.com/llun/activities.next) - Next.JS ActivityPub server.
 - [I Wrote an ActivityPub Server in OCaml: Lessons Learnt, Weekends Lost (2023)](https://gopiandcode.uk/logs/log-writing-activitypub.html) ([HN](https://news.ycombinator.com/item?id=35675159))
+- [Understanding ActivityPub (2023)](https://seb.jambor.dev/posts/understanding-activitypub/)
