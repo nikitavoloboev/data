@@ -112,3 +112,5 @@ Learning to use [BlackJAX](https://github.com/blackjax-devs/blackjax) to do Baye
 - [Stable Diffusion JAX](https://github.com/patil-suraj/stable-diffusion-jax)
 - [JAX-AM](https://github.com/tianjuxue/jax-am) - Additive manufacturing simulation with JAX.
 - [AutoBound](https://github.com/google/autobound) - Automatically computes upper and lower bounds on functions.
+- [WAX-ML](https://github.com/eserie/wax-ml) - Python library for machine-learning and feedback loops on streaming data.
+- [Oryx](https://github.com/jax-ml/oryx) - Library for probabilistic programming and deep learning built on top of Jax.

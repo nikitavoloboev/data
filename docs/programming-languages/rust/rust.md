@@ -1136,3 +1136,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Entering the Garden of Ferris (2023)](https://d0nut.hashnode.dev/entering-the-garden-of-ferris)
 - [Iterator, Generator (2023)](https://without.boats/blog/iterator-generator/) ([Reddit](https://www.reddit.com/r/rust/comments/139jtx3/iterator_generator/))
 - [Rust 101 Crash Course (2022)](https://www.youtube.com/watch?v=lzKeecy4OmQ)
+- [Dioxus + TailwindCSS](https://github.com/LyonSyonII/dioxus-tailwindcss) - Template for the Rust Web/Desktop framework Dioxus + TailwindCSS.

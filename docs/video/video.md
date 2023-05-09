@@ -529,3 +529,4 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [Quickly resize a video with FFmpeg/Vaapi for Mastodon (2023)](https://www.paulox.net/2023/05/03/quickly_resize-a-video-with-ffmpeg-for-mastodon/)
 - [srt-parser-2](https://github.com/1c7/srt-parser-2) - SRT parser for JavaScript.
 - [Markut](https://github.com/tsoding/markut) - Given the VOD of the stream and the timestamps file, generate a video using ffmpeg that cuts out part of the VOD according to the provided markers.
+- [Plex.tv and Plex Media Server Go client](https://github.com/jrudio/go-plex-client)

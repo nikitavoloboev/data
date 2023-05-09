@@ -1150,3 +1150,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Lit-Parrot](https://github.com/Lightning-AI/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training.
 - [HugNLP](https://github.com/HugAILab/HugNLP) - Unified and comprehensive NLP library based on HuggingFace Transformer.
 - [Automated interpretability](https://github.com/openai/automated-interpretability)
+- [OpenLM](https://github.com/r2d4/openlm) - OpenAI-compatible Python client that can call any LLM.
+- [Dromedary](https://github.com/IBM/Dromedary) - Towards helpful, ethical and reliable LLMs.

@@ -126,6 +126,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Cample.js](https://github.com/Camplejs/Cample.js) - Typed JS web framework for creating site UI without VDOM. ([HN](https://news.ycombinator.com/item?id=34738792))
 - [kaito-http](https://github.com/kaito-http/kaito) - Functional HTTP Framework for TypeScript.
 - [ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library.
+- [Stalier](https://github.com/ecyrbe/stalier) - Stale-while-revalidate middleware for your backend.
 
 ## GraphQL
 

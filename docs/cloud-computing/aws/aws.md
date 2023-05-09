@@ -457,3 +457,4 @@ Haven't used AWS much but did use [GCP](../gcp/gcp.md) which is similar. One thi
 - [deCDK](https://github.com/cdklabs/decdk) - Define AWS CDK applications declaratively.
 - [Farewell to the Era of Cheap EC2 Spot Instances (2023)](https://pauley.me/post/2023/spot-price-trends/) ([Lobsters](https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances)) ([HN](https://news.ycombinator.com/item?id=35802157))
 - [tracing-cloudwatch](https://github.com/ymgyt/tracing-cloudwatch) - Custom tracing-subscriber layer that sends your application's tracing events(logs) to AWS CloudWatch Logs.
+- [eksdemo](https://github.com/awslabs/eksdemo) - kubectl-like CLI for Amazon EKS.
