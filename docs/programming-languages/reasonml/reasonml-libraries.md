@@ -41,6 +41,7 @@
 - [Future](https://github.com/bloodyowl/rescript-future) - Cancellable futures for ReScript.
 - [ReScript Core](https://github.com/rescript-association/rescript-core) - Drop-in standard library for ReScript.
 - [ReScript JSON Schema](https://github.com/DZakh/rescript-json-schema) - Typesafe JSON schema for ReScript.
+- [ReScript Tinybench](https://github.com/cometkim/rescript-tinybench)
 
 ## Links
 

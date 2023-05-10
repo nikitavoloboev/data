@@ -146,3 +146,4 @@
 - [DeepKE](https://github.com/zjunlp/DeepKE) - Open Toolkit for Knowledge Graph Extraction and Construction.
 - [CSKG](https://github.com/usc-isi-i2/cskg) - CommonSense Knowledge Graph.
 - [From Books to Knowledge Graphs (2023)](https://arxiv.org/abs/2204.10766) ([HN](https://news.ycombinator.com/item?id=35135900))
+- [Knowledge graph from GPT-3](https://github.com/tomhartke/knowledge-graph-from-GPT-3)

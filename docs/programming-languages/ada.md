@@ -45,3 +45,4 @@ title: Ada
 - [Introduction to Embedded Systems Programming (Ada)](https://learn.adacore.com/courses/intro-to-embedded-sys-prog/index.html) ([HN](https://news.ycombinator.com/item?id=33691635))
 - [Ada Training Material](https://github.com/AdaCore/training_material)
 - [Clearing the Air about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
+- [Rust bindings for Ada](https://github.com/ada-url/rust)

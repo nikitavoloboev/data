@@ -47,3 +47,4 @@ title: Differential equations
 - [PINO: Physics-informed Neural Operator for Learning Partial Differential Equation](https://github.com/devzhk/PINO)
 - [Numerical Simulation of Ordinary Differential Equations: Integrating ODEs (2022)](https://www.youtube.com/watch?v=QBeNXHrAYns&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=40)
 - [Towards Multi-spatiotemporal-scale Generalized PDE Modeling (2022)](https://arxiv.org/abs/2209.15616) ([Code](https://github.com/microsoft/pdearena))
+- [HOODESolver.jl](https://github.com/pnavaro/HOODESolver.jl) - High Oscillatory Ordinary Differential Equation Solver in Julia.

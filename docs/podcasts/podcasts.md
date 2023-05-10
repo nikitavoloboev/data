@@ -281,3 +281,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [SyntaxAI Transcripts](https://github.com/wesbos/Syntax-AI-Transcripts) - Using OpenAI to generate Syntax Transcripts, show notes and categories.
 - [Ask HN: Which tech podcasts would you recommend to a friend? (2023)](https://news.ycombinator.com/item?id=35221488)
 - [Trys](https://github.com/jh-modjeski/trys) - Transcription program for podcast-style recordings.
+- [PodFind](https://www.podfind.xyz/) - Find what podcasters think of new things. ([Code](https://github.com/mazzzystar/PodFind))

@@ -501,6 +501,7 @@
 - [Corto](https://github.com/cnr-isti-vclab/corto) - Library for compression and decompression meshes and point clouds (C++ and JavaScript).
 - [mem++](https://github.com/m4drat/memplusplus) - C++ memory allocator with smart GC.
 - [BVH](https://github.com/madmann91/bvh) - Modern C++ BVH construction and traversal library.
+- [lockfree](https://github.com/DNedic/lockfree) - Collection of lock-free data structures written in standard C++11.
 
 ## Links
 

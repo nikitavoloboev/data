@@ -1152,3 +1152,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Automated interpretability](https://github.com/openai/automated-interpretability)
 - [OpenLM](https://github.com/r2d4/openlm) - OpenAI-compatible Python client that can call any LLM.
 - [Dromedary](https://github.com/IBM/Dromedary) - Towards helpful, ethical and reliable LLMs.
+- [PaLM](https://github.com/conceptofmind/PaLM) - Open-source implementation of Google's PaLM models.
+- [Pretraining Without Attention (2022)](https://arxiv.org/abs/2212.10544) ([Code](https://github.com/jxiw/BiGS))
+- [Transformers Agent by HuggingFace](https://huggingface.co/docs/transformers/transformers_agents)
+- [WizardLM: An Instruction-following LLM Using Evol-Instruct](https://github.com/nlpxucan/WizardLM)
+- [The Leverage of LLMs for Individuals (2023)](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/) ([HN](https://news.ycombinator.com/item?id=35885797))

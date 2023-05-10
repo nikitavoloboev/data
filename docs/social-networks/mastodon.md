@@ -178,3 +178,4 @@ Use [Elk](https://elk.zone/) as my Mastodon client mostly to read [Merveilles lo
 - [Mastoposter](https://github.com/hatkidchan/mastoposter) - Easy-to-use mastodon-to-[everything] reposter.
 - [Mastodon, but strongly inspired by Twitter](https://github.com/ronilaukkarinen/mastodon-bird-ui)
 - [Blue skies over Mastodon (2023)](https://erinkissane.com/blue-skies-over-mastodon)
+- [MOP3](https://github.com/nkizz/mop3) - Mastodon to email client Gateway.

@@ -73,3 +73,4 @@ title: Bazel
 - [Bazel package building](https://github.com/bazelbuild/rules_pkg) - Bazel rules for building tar, zip, deb, and rpm for packages.
 - [Cloud archive](https://github.com/1e100/cloud_archive) - Bazel rule to securely download private dependencies from cloud storage.
 - [Skyscope](https://github.com/tweag/skyscope) - Tool for visualising and exploring Bazel Skyframe graphs.
+- [Bazel rules for OCI containers](https://github.com/bazel-contrib/rules_oci)

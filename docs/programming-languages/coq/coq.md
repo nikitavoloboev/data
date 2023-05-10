@@ -195,3 +195,5 @@ title: Coq
 - [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and CI.
 - [VCFloat](https://github.com/VeriNum/vcfloat) - Unified Coq Framework for Verifying C Programs with Floating-Point Computations.
 - [Buchberger](https://github.com/coq-community/buchberger) - Verified implementation in Coq of Buchberger's algorithm for computing Gröbner bases.
+- [Commutative Diagrams Interface](https://github.com/dwarfmaster/commutative-diagrams)
+- [Program Extraction for Mutable Arrays](https://github.com/pi8027/efficient-finfun)

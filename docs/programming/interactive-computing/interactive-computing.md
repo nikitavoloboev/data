@@ -76,3 +76,4 @@
 - [NodeScript](https://github.com/NodeScriptLang/core) - Visual programming language for the modern Web.
 - [Luna Park](https://luna-park.app/) - Advanced visual scripting editor for the web.
 - [Flyde](https://github.com/FlydeHQ/flyde) - Visual functional reactive flow-based programming tool that can be used to build anything from CLI tools to bots and web apps built.
+- [CodePod](https://github.com/codepod-io/codepod) - Interactive coding experience popularized by Jupyter, but with scalability and production-readiness.

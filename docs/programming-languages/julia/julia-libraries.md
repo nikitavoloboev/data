@@ -866,6 +866,7 @@
 - [DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops.
 - [GraphsOptim](https://github.com/gdalle/GraphsOptim.jl) - Graph-related optimization algorithms that rely on Linear Programming.
 - [Muon](https://github.com/scverse/Muon.jl) - Multimodal framework.
+- [PropertyFunctions.jl](https://github.com/oschulz/PropertyFunctions.jl) - Julia package for easy access to and efficient broadcasting over properties.
 
 ## Links
 

@@ -14,3 +14,4 @@ title: Midjourney
 - [Midjourney generating modern outfits inspired by Van Gogh/ Basquiat](https://twitter.com/emollick/status/1653827161223213056)
 - [How I used Midjourney to design a brand identity (2023)](https://uxdesign.cc/how-i-used-midjourney-to-design-a-brand-identity-394cf9ddaeed)
 - [Midjourney Reborn](https://github.com/oelin/midjourney-reborn) - Discord bot for all your Midjourney needs.
+- [midjourney-api](https://github.com/erictik/midjourney-api) - Node.js client for the unofficial MidJourney API.

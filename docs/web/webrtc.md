@@ -132,3 +132,4 @@ title: WebRTC
 - [RSFU](https://github.com/harlanc/rsfu) - WebRTC SFU (Selective Forwarding Unit) in Rust.
 - [Cyberdeck](https://github.com/richardanaya/cyberdeck) - Library for easily creating WebRTC data channel connections in Rust.
 - [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame)
+- [Plug-N-Meet](https://github.com/mynaparrot/plugNmeet-server) - WebRTC based Scalable, High Performance, Open source web conferencing system using Livekit.
