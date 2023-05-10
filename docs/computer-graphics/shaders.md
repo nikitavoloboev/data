@@ -127,3 +127,4 @@ title: Shaders
 - [Three.js Shaders (GLSL) Crash Course For Absolute Beginners (2023)](https://www.youtube.com/watch?v=oKbCaj1J6EI)
 - [guc](https://github.com/pablode/guc) - glTF to Universal Scene Description (USD) converter.
 - [Cross-platform compute shader engine](https://github.com/compute-toys/wgpu-compute-toy)
+- [Compute Toys](https://compute.toys/) - Experimental editor for WebGPU compute shaders. ([HN](https://news.ycombinator.com/item?id=35883891))

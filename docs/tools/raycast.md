@@ -44,3 +44,4 @@ Evaluating using Raycast as my main plugin interface. Currently use [Alfred](../
 - [Raycast's evolution in 2022](https://twitter.com/raycastapp/status/1605981287868534784)
 - [Raycast AI: The magic of AI, right on your Mac (2023)](https://www.youtube.com/watch?v=nKYeAhsWF70)
 - [Blast](https://github.com/BlastLauncher/blast) - Runtime for Raycast launcher compatible extensions.
+- [Raycast AI Beta](https://raycastapp.notion.site/Raycast-AI-Beta-d63fb0b1c203434aab9549ae0cf0a28d)

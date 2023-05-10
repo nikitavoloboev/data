@@ -163,3 +163,4 @@ title: Julia
 - [Julia's latency: Past, present and future (2023)](https://viralinstruction.com/posts/latency/) ([Reddit](https://www.reddit.com/r/Julia/comments/127wduf/julias_latency_past_present_and_future/))
 - [Machine learning from scratch in Julia](https://github.com/odsl-team/julia-ml-from-scratch)
 - [GPU vendor-agnostic fluid dynamics solver in Julia (2023)](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html) ([HN](https://news.ycombinator.com/item?id=35861435))
+- [Julia 1.9](https://julialang.org/blog/2023/04/julia-1.9-highlights/) ([HN](https://news.ycombinator.com/item?id=35884176))

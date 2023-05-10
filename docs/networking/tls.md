@@ -121,3 +121,4 @@ title: TLS
 - [Signal TLS Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
 - [Transport Layer Security (TLS) - Computerphile (2020)](https://www.youtube.com/watch?v=0TLDTodL7Lc)
 - [TLS Handshake Explained - Computerphile (2020)](https://www.youtube.com/watch?v=86cQJ0MMses)
+- [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/) ([HN](https://news.ycombinator.com/item?id=35884437))
