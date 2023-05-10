@@ -571,3 +571,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Value Oriented Programming Needs Implicits? (2023)](https://matklad.github.io/2023/05/02/implicits-for-mvs.html) ([Lobsters](https://lobste.rs/s/uptebu/value_oriented_programming_needs))
 - [The seven programming ur-languages (2023)](https://madhadron.com/programming/seven_ur_languages.html) ([Lobsters](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages))
 - [Classification of the principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigms.html)
+- [lenar](https://github.com/marc2332/lenar) - Programming language written in Rust.

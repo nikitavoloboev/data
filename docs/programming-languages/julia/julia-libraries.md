@@ -867,6 +867,7 @@
 - [GraphsOptim](https://github.com/gdalle/GraphsOptim.jl) - Graph-related optimization algorithms that rely on Linear Programming.
 - [Muon](https://github.com/scverse/Muon.jl) - Multimodal framework.
 - [PropertyFunctions.jl](https://github.com/oschulz/PropertyFunctions.jl) - Julia package for easy access to and efficient broadcasting over properties.
+- [VimBindings.jl](https://github.com/caleb-allen/VimBindings.jl) - Vim bindings for the Julia REPL.
 
 ## Links
 

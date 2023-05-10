@@ -301,3 +301,4 @@ I love the idea of [building truly offline first software where backend failing 
 - [Systems design explains the world (2020)](https://apenwarr.ca/log/20201227) ([HN](https://news.ycombinator.com/item?id=35078590))
 - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm) ([HN](https://news.ycombinator.com/item?id=35511106))
 - [Monoliths are not dinosaurs (2023)](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html) ([HN](https://news.ycombinator.com/item?id=35834037))
+- [Awesome Legacy Systems](https://github.com/feststelltaste/awesome-legacy-systems)

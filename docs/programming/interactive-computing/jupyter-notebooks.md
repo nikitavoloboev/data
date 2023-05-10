@@ -260,3 +260,4 @@ title: Jupyter Notebooks
 - [JupySQL](https://github.com/ploomber/jupysql) - Better SQL in Jupyter.
 - [UnionX](https://www.unionx.io/) - GPT4-powered Copilot for Work with Jupyter-style notebooks. ([HN](https://news.ycombinator.com/item?id=35836679))
 - [IPyflow](https://github.com/ipyflow/ipyflow) - Reactive Python Notebooks in Jupyter(Lab). ([HN](https://news.ycombinator.com/item?id=35885066))
+- [Comparative Embedding Visualization with cev](https://github.com/OzetteTech/comparative-embedding-visualization)

@@ -2159,6 +2159,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [typesetting](https://github.com/go-text/typesetting) - High quality text shaping in pure Go.
 - [x](https://github.com/charmbracelet/x) - Charm experimental packages.
 - [Relax](https://github.com/sergerad/relax) - Start and finish your Go apps gracefully, even in the case of panics.
+- [clam](https://github.com/miku/clam) - Templated shell helper library.
 
 ## Links
 

@@ -152,3 +152,4 @@
 - [tus-node-server](https://github.com/tus/tus-node-server)
 - [Pingvin Share](https://github.com/stonith404/pingvin-share) - Self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [PairDrop](https://pairdrop.net/) - Local file sharing in your browser. Inspired by Apple's AirDrop. ([Code](https://github.com/schlagmichdoch/PairDrop))
+- [NearDrop](https://github.com/grishka/NearDrop) - Implementation of Google's Nearby Share for macOS.

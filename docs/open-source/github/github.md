@@ -522,3 +522,4 @@ Awesome List
 - [GitHub webhook notifications](https://github.com/KunoiSayami/github-webhook-notification.rs) - Simple webhook server that helps you forward GitHub webhook messages to Telegram.
 - [installer](https://github.com/jpillora/installer) - Quickly install pre-compiled binaries from Github releases.
 - [octokit-create-new-file](https://github.com/JasonEtco/octokit-create-new-file) - Creates a new file on a new branch and opens a new pull request.
+- [Chat with Github Repo](https://github.com/peterw/Chat-with-Github-Repo)

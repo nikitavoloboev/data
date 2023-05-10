@@ -378,3 +378,4 @@ Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
 - [FaceLit: Neural 3D Relightable Faces (2023)](https://machinelearning.apple.com/research/neural-3d-relightable) ([Code](https://github.com/apple/ml-facelit))
 - [Training Stable Diffusion from Scratch for <$50k with MosaicML (2023)](https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-part-2)
 - [Reflected Diffusion Models (2023)](https://aaronlou.com/blog/2023/reflected-diffusion/) ([HN](https://news.ycombinator.com/item?id=35863309))
+- [StableSR](https://github.com/IceClear/StableSR) - Exploiting Diffusion Prior for Real-World Image Super-Resolution.

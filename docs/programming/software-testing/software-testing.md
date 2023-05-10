@@ -193,3 +193,4 @@ I personally [don't start with tests](https://www.youtube.com/watch?v=VB3Vh9Vf72
 - [ABQ](https://github.com/rwx-research/abq) - Universal test runner that runs test suites in parallel. It’s the best tool for splitting test suites into parallel jobs locally or on CI.
 - [Scooby](https://github.com/AnimaApp/scooby) - Open-source regression and fidelity testing framework.
 - [Captain](https://github.com/rwx-research/captain) - Open source CLI that supercharges testing capabilities across 15 different testing frameworks.
+- [Marathon](https://github.com/MarathonLabs/marathon) - Cross-platform test runner written for Android and iOS projects.

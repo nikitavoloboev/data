@@ -269,3 +269,4 @@ I like [Notion](../tools/notion.md) style block editing. [BlockNote](https://git
 - [What's your editor setup? (2023)](https://lobste.rs/s/nbr9bl/what_s_your_editor_setup)
 - [text.management](https://github.com/mindofmatthew/text.management) - Experimental Live Code Editor.
 - [tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for tui-rs and ratatui.
+- [Wordcraft](https://github.com/PAIR-code/wordcraft) - LLM-powered text editor with an emphasis on short story writing.

@@ -268,6 +268,7 @@ title: OCaml libraries
 - [pyre-ast](https://github.com/grievejia/pyre-ast) - OCaml library to parse Python files.
 - [deque](https://github.com/art-w/deque) - Purely Functional, Real-Time Deques with Catenation (Kaplan & Tarjan).
 - [Lwt_eio](https://github.com/ocaml-multicore/lwt_eio) - Use Lwt libraries from within Eio.
+- [Kqueue](https://github.com/anuragsoni/kqueue-ml) - OCaml bindings to kqueue.
 
 ## Links
 

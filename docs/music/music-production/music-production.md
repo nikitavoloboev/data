@@ -560,3 +560,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [What DAW do you use and why? (2023)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/133osc1/what_daw_do_you_use_and_why/)
 - [BeatNet](https://github.com/mjhydri/BeatNet) - State-of-the-art (Real-Time) and Offline joint music beat, downbeat, tempo, and meter tracking system using CRNN and particle filtering.
 - [Jambox](https://github.com/arslanastral/jambox) - Collaborative real-time P2P virtual music instrument.
+- [Building a Multiplayer Piano](https://github.com/jenseng/abuse-the-platform)

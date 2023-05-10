@@ -1157,3 +1157,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Transformers Agent by HuggingFace](https://huggingface.co/docs/transformers/transformers_agents)
 - [WizardLM: An Instruction-following LLM Using Evol-Instruct](https://github.com/nlpxucan/WizardLM)
 - [The Leverage of LLMs for Individuals (2023)](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/) ([HN](https://news.ycombinator.com/item?id=35885797))
+- [PaLM 2 Technical Report (2023)](https://ai.google/static/documents/palm2techreport.pdf) ([HN](https://news.ycombinator.com/item?id=35891444))
+- [Tips and tricks for working with Large Language Models like OpenAI's GPT-4](https://github.com/brexhq/prompt-engineering)

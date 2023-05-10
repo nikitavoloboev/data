@@ -592,6 +592,7 @@
 - [Bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees.
 - [Micro Jam Engine](https://github.com/AngelOnFira/micro-jam-engine)
 - [Rust for Playdate](https://github.com/pd-rs/crankstart)
+- [Foundry](https://github.com/VirgileHenry/Foundry) - Entity-component-system (ecs) library written in rust.
 
 ## GraphQL
 
@@ -2838,6 +2839,7 @@
 - [Backie](https://github.com/rafaelcaricio/backie) - Background task processing for Rust applications with Tokio, Diesel, and PostgreSQL.
 - [Zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS or Python applications.
 - [rust-cid](https://github.com/multiformats/rust-cid)
+- [cfg-expr](https://github.com/EmbarkStudios/cfg-expr) - Parser and evaluator for Rust cfg() expressions.
 
 ## Cargo Plugins
 

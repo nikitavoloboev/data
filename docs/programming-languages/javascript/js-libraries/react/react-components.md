@@ -368,6 +368,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [MorpherX](https://github.com/Kelin2025/morphling) - Morphing animations with ease.
 - [React Image Crop](https://github.com/DominicTobias/react-image-crop) - Image cropping tool for React with no dependencies.
 - [use-context-menu](https://github.com/bvaughn/use-context-menu) - React components for displaying configurable context menus.
+- [conditional-wrap](https://github.com/sizzyapp/conditional-wrap) - Component for wrapping children based on a condition.
 
 ## Links
 

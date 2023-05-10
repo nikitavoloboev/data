@@ -127,6 +127,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [kaito-http](https://github.com/kaito-http/kaito) - Functional HTTP Framework for TypeScript.
 - [ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library.
 - [Stalier](https://github.com/ecyrbe/stalier) - Stale-while-revalidate middleware for your backend.
+- [feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience.
 
 ## GraphQL
 
