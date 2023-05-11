@@ -104,7 +104,7 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [SSSD](https://github.com/SSSD/sssd) - Daemon to manage identity, authentication and authorization for centrally-managed systems. ([Docs](https://sssd.io/))
 - [OAuth is Not User Authorization (2020)](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
 - [otplib](https://github.com/yeojz/otplib) - Time-based (TOTP) and HMAC-based (HOTP) One-Time Password library. ([Web](https://otplib.yeojz.dev/))
-- [SuperTokens](https://supertokens.com/) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. ([Code](https://github.com/supertokens/supertokens-core)) ([HN](https://news.ycombinator.com/item?id=33450860))
+- [SuperTokens](https://supertokens.com/) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. ([Code](https://github.com/supertokens/supertokens-core)) ([HN](https://news.ycombinator.com/item?id=33450860)) ([HN](https://news.ycombinator.com/item?id=35895840))
 - [FastAuth](https://github.com/flatfeestack/fastauth) - Simple authentication server that can also be used for local development with reasonable defaults to kickstart the local development.
 - [Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
 - [About authentication methods (2020)](https://marlam.de/msmtp/news/about-authentication/) ([HN](https://news.ycombinator.com/item?id=25594693))

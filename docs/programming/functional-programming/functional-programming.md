@@ -228,6 +228,7 @@
 - [HOP](https://github.com/zicklag/hop) - High-Order Virtual Machine Plus. Simple syntax layer on top of raw HVM, written in HVM.
 - [HVM](https://github.com/HigherOrderCO/HVM) - Higher-Order Virtual Machine. ([HN](https://news.ycombinator.com/item?id=35336113))
 - [Interaction Nets, Combinators, and Calculus – HVM (2023)](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
+- [Snapchange](https://github.com/awslabs/snapchange) - Lightweight fuzzing of a memory snapshot using KVM.
 
 ## Images
 

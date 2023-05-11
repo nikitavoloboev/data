@@ -170,3 +170,4 @@
 - [Native File System adapter](https://github.com/jimmywarting/native-file-system-adapter)
 - [go-kvfile](https://github.com/paralin/go-kvfile) - File format for storing a compressed key/value store to a file as an archive.
 - [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
+- [Bcachefs – A New COW Filesystem (2023)](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44) ([HN](https://news.ycombinator.com/item?id=35899527))

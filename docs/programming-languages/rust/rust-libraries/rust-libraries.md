@@ -667,6 +667,7 @@
 - [serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 - [Necessist](https://github.com/trailofbits/necessist) - Run tests with statements and method calls removed to help identify broken tests.
 - [rust-skeptic](https://github.com/budziq/rust-skeptic) - Test your Rust Markdown documentation via Cargo.
+- [pytest-rs](https://github.com/epage/pytest-rs) - Experiment with pytest-like harness for Rust.
 
 ## Error
 
@@ -2840,6 +2841,7 @@
 - [Zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS or Python applications.
 - [rust-cid](https://github.com/multiformats/rust-cid)
 - [cfg-expr](https://github.com/EmbarkStudios/cfg-expr) - Parser and evaluator for Rust cfg() expressions.
+- [flatty](https://github.com/agerasev/flatty) - Flat message buffers with direct mapping to Rust types without packing/unpacking.
 
 ## Cargo Plugins
 

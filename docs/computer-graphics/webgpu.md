@@ -94,3 +94,4 @@ title: WebGPU
 - [WebGPU-Utils](https://github.com/greggman/webgpu-utils) - Random useful things for WebGPU.
 - I want to talk about WebGPU (2023)](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) ([HN](https://news.ycombinator.com/item?id=35800988)) ([Reddit](https://www.reddit.com/r/rust/comments/136k95m/i_want_to_talk_about_webgpu/))
 - [WebGPU CRDT](https://github.com/siliconjungle/webgpu-crdt) - Simple CRDT implementation for merging of fixed-arrays with WebGPU.
+- [Orillusion](https://github.com/Orillusion/orillusiovn) - Pure Web3D rendering engine which is fully developed based on the WebGPU standard.

@@ -14,12 +14,12 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 
 ```js
 // rename keys
-  const keys = await redis.keys("*")
-  for (const key of keys) {
-    if (key.includes("cache:")) {
-      await redis.rename(key, key.replace("cache:", ""))
-    }
+const keys = await redis.keys("*");
+for (const key of keys) {
+  if (key.includes("cache:")) {
+    await redis.rename(key, key.replace("cache:", ""));
   }
+}
 ```
 
 ## Notes
@@ -206,4 +206,4 @@ I use [Upstash](https://upstash.com/) as a [serverless Redis](https://www.youtub
 - [Redis Interval Sets](https://github.com/danitseitlin/redis-interval-sets) - Redis module for creating interval sets, handling them and filtering out relevant sets by number in range.
 - [Redis Data Source for Grafana](https://github.com/RedisGrafana/grafana-redis-datasource)
 - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md) ([HN](https://news.ycombinator.com/item?id=35847269))
-- [Story: Redis and its creator antirez (2023)](https://blog.brachiosoft.com/redis-en)
+- [Story: Redis and its creator antirez (2023)](https://blog.brachiosoft.com/redis-en) ([HN](https://news.ycombinator.com/item?id=35871462))

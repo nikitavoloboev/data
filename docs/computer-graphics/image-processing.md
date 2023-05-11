@@ -248,3 +248,4 @@
 - [ThumbHash](https://evanw.github.io/thumbhash/) - Very compact representation of an image placeholder. ([HN](https://news.ycombinator.com/item?id=35265752)) ([Code](https://github.com/evanw/thumbhash))
 - [RethinkRAW](https://github.com/ncruces/RethinkRAW) - Unpretentious, free RAW photo editor.
 - [Simple Image Compare](https://github.com/Sirosky/Simple-Image-Compare) - Easy image comparisons.
+- [pixelmatch-py](https://github.com/whtsky/pixelmatch-py) - Fast pixel-level image comparison library, originally created to compare screenshots in tests.

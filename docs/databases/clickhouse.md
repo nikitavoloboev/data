@@ -56,3 +56,4 @@ title: ClickHouse
 - [Snuba](https://github.com/getsentry/snuba) - Service that provides a rich data model on top of Clickhouse together with a fast ingestion consumer and a query optimizer.
 - [PostHog ClickHouse Manual](https://posthog.com/handbook/engineering/clickhouse)
 - [Building ClickHouse Cloud from scratch in a year (2023)](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year) ([HN](https://news.ycombinator.com/item?id=35238822))
+- [chdb-rust](https://github.com/chdb-io/chdb-rust) - Rust FFI example binding for chDB, an embedded SQL Engine powered by ClickHouse.
