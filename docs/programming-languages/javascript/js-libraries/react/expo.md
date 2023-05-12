@@ -69,3 +69,4 @@ Like how you can [embed Swift code into Expo](https://twitter.com/Baconbrix/stat
 - [Expo Examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools.
 - [with-expo-fonts](https://github.com/andresribeiro/with-expo-fonts) - Make your expo apps start faster by loading fonts at build time.
 - [Expo SQLite Storage](https://github.com/jwallet/expo-sqlite-storage) - React Native Expo SQLite module updated to support JSON extension.
+- [Expo v49 (2023)](https://twitter.com/Baconbrix/status/1656634363847507968)

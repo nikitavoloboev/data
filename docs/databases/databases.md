@@ -811,3 +811,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [What is a Vector Database? (2023)](https://www.pinecone.io/learn/vector-database/) ([HN](https://news.ycombinator.com/item?id=35826929))
 - [ReefDB](https://github.com/sachaarbonel/reefdb) - Minimalistic, in-memory and on-disk database management system written in Rust, implementing basic SQL query capabilities and full-text search. ([Reddit](https://www.reddit.com/r/rust/comments/139p5ig/toydb_a_rust_learning_adventure_fun_opensource/))
 - [Merklizing the key/value store for fun and profit (2023)](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
+- [Ask HN: It's 2023, how do you choose between MySQL and Postgres? (2023)](https://news.ycombinator.com/item?id=35906604)

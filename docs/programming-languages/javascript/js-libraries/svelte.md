@@ -43,6 +43,7 @@ title: Svelte
 - [Tablog](https://github.com/lemmon/tablog-svelte) - Minimalistic blog theme built with SvelteKit.
 - [Quiz app](https://github.com/acmcsufoss/qg) - Using Svelte/Go.
 - [SvelteKit View Transitions](https://github.com/geoffrich/sveltekit-view-transitions)
+- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte) ([HN](https://news.ycombinator.com/item?id=35896505))
 
 ## Notes
 

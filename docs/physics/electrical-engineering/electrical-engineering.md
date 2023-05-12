@@ -157,3 +157,4 @@ title: Electrical engineering
 - [PySpice](https://github.com/PySpice-org/PySpice) - Simulate electronic circuit using Python and the Ngspice / Xyce simulators.
 - [The basics of decoupling capacitors (2023)](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 - [Second IC :) (2023)](http://sam.zeloof.xyz/second-ic/) ([Lobsters](https://lobste.rs/s/bzzkta/second_ic))
+- [Electronics Lab Bench Setup Guide (2023)](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/) ([HN](https://news.ycombinator.com/item?id=35903294))

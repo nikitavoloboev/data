@@ -147,3 +147,4 @@ I quite like my [morning](../focusing/processes.md#mroning)/[day](../focusing/pr
 - [Which longevity treatment will be the first to go mainstream? (2023)](https://www.reddit.com/r/longevity/comments/12xpbb1/which_longevity_treatment_will_be_the_first_to_go/)
 - [Loyal](https://loyalfordogs.com/) - Helping dogs live longer, healthier lives.
 - [Cellular Longevity](https://www.cellularlongevityinc.com/)
+- [Ask HN: Resources for older developers? (2023)](https://news.ycombinator.com/item?id=35902086)

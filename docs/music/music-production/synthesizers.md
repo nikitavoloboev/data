@@ -122,3 +122,4 @@ Love [Nils Frahm](https://www.nilsfrahm.com/)'s [synthesizers setup](https://equ
 - [P3synth](https://github.com/vlcoo/P3synth) - MIDI synthesizer and player running on Processing 4. ([HN](https://news.ycombinator.com/item?id=34831423))
 - [Analog Synthesizer](https://github.com/Windfisch/analog-synth) - Low-cost analog synthesizer based on well-available components like LM324 or TL084 op-amps, which is easy to understand and learn.
 - [Waveform](https://github.com/qvantor/waveform) - Experimental wavetable synth written on TS and Web Audio.
+- [Deluge – sequencer, synthesizer and sampler – goes open source](https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/) ([HN](https://news.ycombinator.com/item?id=35902820))

@@ -878,6 +878,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [dekun](https://github.com/ajfAfg/dekun) - Library in TypeScript that provides functions to return an AST string of a specified variable definition or function definition from a specified file.
 - [streaming-tar](https://github.com/zebp/streaming-tar) - Pure-TypeScript streaming Tar parser for Web-compatible JavaScript runtimes.
 - [unthunk](https://github.com/JLarky/unthunk) - Utility to create lazy evaluated fields on an object.
+- [ShoSho](https://github.com/fabiospampinato/shosho) - Modern and powerful shortcuts management library.
 
 ## Links
 

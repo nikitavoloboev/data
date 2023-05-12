@@ -325,3 +325,4 @@ I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQl
 - [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit) ([HN](https://news.ycombinator.com/item?id=34576085))
 - [Jotte](https://jotte.ai/) - Graph-based AI for longform writing. ([HN](https://news.ycombinator.com/item?id=34901481))
 - [Punctuation Matters: How to use the en dash, em dash and hyphen](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/) ([HN](https://news.ycombinator.com/item?id=35118338))
+- [How Jesse Armstrong and Succession Writers write](https://www.reddit.com/r/SuccessionTV/comments/13eak2k/how_jesse_armstrong_and_succession_writers_write/)

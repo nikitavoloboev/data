@@ -1088,7 +1088,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Aria](https://github.com/lifan0127/ai-research-assistant) - AI Research Assistant Powered by Large Language Models.
 - [igoGPT](https://github.com/igolaizola/igogpt) - Tool inspired by AutoGPT implemented in Go.
 - [The Dual LLM pattern for building AI assistants that can resist prompt injection (2023)](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/) ([Lobsters](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai))
-- [HuggingChat](https://huggingface.co/chat/) ([HN](https://news.ycombinator.com/item?id=35701846))
+- [HuggingChat](https://huggingface.co/chat/) ([HN](https://news.ycombinator.com/item?id=35701846)) ([Code](https://github.com/huggingface/chat-ui)) ([HN](https://news.ycombinator.com/item?id=35907564))
 - [PromptWatch](https://www.promptwatch.io/) - LangChain tracing on steroids.
 - [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs. ([HN](https://news.ycombinator.com/item?id=35701534))
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Toolkit for easily adding programmable guardrails to LLM-based conversational systems.
@@ -1160,3 +1160,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [PaLM 2 Technical Report (2023)](https://ai.google/static/documents/palm2techreport.pdf) ([HN](https://news.ycombinator.com/item?id=35891444))
 - [Tips and tricks for working with Large Language Models like OpenAI's GPT-4](https://github.com/brexhq/prompt-engineering)
 - [Open-Llama](https://github.com/s-JoL/Open-Llama) - Complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF.
+- [LangChain Go](https://github.com/tmc/langchaingo)
+- [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words (2023)](https://www.anthropic.com/index/100k-context-windows) ([HN](https://news.ycombinator.com/item?id=35904773))
