@@ -668,6 +668,7 @@
 - [Necessist](https://github.com/trailofbits/necessist) - Run tests with statements and method calls removed to help identify broken tests.
 - [rust-skeptic](https://github.com/budziq/rust-skeptic) - Test your Rust Markdown documentation via Cargo.
 - [pytest-rs](https://github.com/epage/pytest-rs) - Experiment with pytest-like harness for Rust.
+- [datadriven](https://github.com/justinj/datadriven) - Tool for writing table-driven tests in Rust, with rewrite support.
 
 ## Error
 

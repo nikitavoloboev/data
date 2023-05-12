@@ -102,6 +102,7 @@ Below is a list of extensions I use.
 - [CodeSwing](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing) - Interactive coding environment for building web applications (aka swings). ([Code](https://github.com/codespaces-contrib/codeswing))
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Autocomplete AI. ([Code](https://github.com/codota/tabnine-vscode))
 - [Inline fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold) - Custom decorator that "fold" matching content in single line. ([Code](https://github.com/moalamri/vscode-inline-fold))
+- [Deopt Explorer](https://github.com/microsoft/deoptexplorer-vscode) - VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8.
 - [Adobe XD](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) - Design systems in VS Code.
 - [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view) - Display documentation in the sidebar or panel. ([Code](https://github.com/mattbierner/vscode-docs-view))
 - [MetaGo](https://github.com/metaseed/metaGo) - Provides fast cursor movement/selection for keyboard focused users in vscode.

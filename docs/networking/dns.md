@@ -277,3 +277,5 @@ title: DNS
 - [sniproxy](https://github.com/ameshkov/sniproxy) - SNI proxy with embedded DNS server that supports blocking and forwarding rules.
 - [Learning DNS in 10 Years (2023)](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/) ([HN](https://news.ycombinator.com/item?id=35870654))
 - [State of DNS Rebinding in 2023](https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/)
+- [Implement DNS in a Weekend (2023)](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/) ([HN](https://news.ycombinator.com/item?id=35916064))
+- [Meta's DNS Go libraries](https://github.com/facebookincubator/dns)

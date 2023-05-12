@@ -1162,3 +1162,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Open-Llama](https://github.com/s-JoL/Open-Llama) - Complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF.
 - [LangChain Go](https://github.com/tmc/langchaingo)
 - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words (2023)](https://www.anthropic.com/index/100k-context-windows) ([HN](https://news.ycombinator.com/item?id=35904773))
+- [SmartGPT](https://github.com/Cormanz/smartgpt) - Program that provides LLMs with the ability to complete complex tasks using plugins.

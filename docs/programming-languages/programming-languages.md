@@ -572,3 +572,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [The seven programming ur-languages (2023)](https://madhadron.com/programming/seven_ur_languages.html) ([Lobsters](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages))
 - [Classification of the principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigms.html)
 - [lenar](https://github.com/marc2332/lenar) - Programming language written in Rust.
+- [The N Calculus (2022)](https://arxiv.org/abs/2011.14989)

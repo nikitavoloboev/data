@@ -172,3 +172,4 @@ title: Three.js
 - [ThreeJS Sketches | Isaac Mason](https://sketches.isaacmason.com/) ([Code](https://github.com/isaac-mason/sketches))
 - [Browser-based robot simulator with three.js & rapier.js (2023)](https://grgv.xyz/blog/simulator/)
 - [Three.quarks](https://github.com/Alchemist0823/three.quarks) - Fast, powerful and general purpose particle engine for three.js.
+- [TresJS](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components.

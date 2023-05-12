@@ -509,3 +509,4 @@
 - [Bringing the Bling w/ Tanner Linsley (2023)](https://www.youtube.com/watch?v=nY7k3ql5mss)
 - [Offline Is Just Online With Extreme Latency (2023)](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/) ([Lobsters](https://lobste.rs/s/adeuhl/offline_is_just_online_with_extreme)) ([HN](https://news.ycombinator.com/item?id=35626015))
 - [What's new in web UI (2023)](https://www.youtube.com/watch?v=buChHSdsF9A)
+- [The Epic Stack](https://www.epicweb.dev/epic-stack) ([HN](https://news.ycombinator.com/item?id=35903878))

@@ -421,3 +421,4 @@
 - [Ask HN: Why is TSMC so competitive in semiconductor fabrication? (2023)](https://news.ycombinator.com/item?id=35665076)
 - [TSMC Outlines 2nm Plans: N2P Brings Backside Power Delivery in 2026, N2X Added (2023)](https://www.anandtech.com/show/18832/tsmc-outlines-2nm-plans-n2p-brings-backside-power-delivery-in-2026-n2x-added-to-roadmap) ([HN](https://news.ycombinator.com/item?id=35726836))
 - [Why Europe Lost Semiconductors (2023)](https://www.youtube.com/watch?v=5ZdmS-EAbHo)
+- [Teenage Engineering TP–7 field recorder](https://teenage.engineering/products/tp-7) ([HN](https://news.ycombinator.com/item?id=35899498))

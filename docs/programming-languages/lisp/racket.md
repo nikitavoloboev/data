@@ -173,3 +173,4 @@ title: Racket
 - [Racket dbg](https://github.com/Bogdanp/racket-dbg) - Server, client and UI for remotely debugging Racket applications.
 - [Racket Protocol Buffers](https://github.com/Bogdanp/racket-protocol-buffers) - Protocol Buffers implementation for Racket.
 - [data-frame](https://github.com/alex-hhh/data-frame) - Data frame implementation for Racket.
+- [dispatch](https://github.com/a11ce/dispatch) - Julia-style multiple dispatch in Racket.

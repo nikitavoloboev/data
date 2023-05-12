@@ -461,3 +461,4 @@ title: WebAssembly
 - [Hora WASM](https://github.com/hora-search/hora-wasm) - WASM binding for Hora Approximate Nearest Neighbor Search Library.
 - [wasm-nm](https://github.com/fitzgen/wasm-nm) - List the symbols within a wasm file.
 - [componentize-py](https://github.com/dicej/componentize-py) - Convert a Python application to a WebAssembly component.
+- [Understanding Wasm, Part 1: Virtualization (2023)](https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/)
