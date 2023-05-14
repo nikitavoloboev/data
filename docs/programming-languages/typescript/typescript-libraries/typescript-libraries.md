@@ -1006,3 +1006,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation.
 - [Magicast](https://github.com/unjs/magicast) - Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [Third Party Capital](https://github.com/GoogleChromeLabs/third-party-capital) - Library that provides best practices for loading popular third-parties.
+- [Acme Corp (Library Edition)](https://github.com/juliusmarminge/acme-corp-lib) - Starter template for your next TypeScript library monorepo.

@@ -169,7 +169,7 @@
 - [John Carmack on Quake, Internet Play and Latency](https://fabiensanglard.net/quakeSource/johnc-log.aug.htm)
 - [OpenGameArt.org](https://opengameart.org/) - Open content assets for games.
 - [Thoughts on making small games (2021)](https://a327ex.github.io/blog/small-games)
-- [Gamedev from scratch 1: Scaffolding (2021)](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/)
+- [Gamedev from scratch 1: Scaffolding (2021)](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/) ([HN](https://news.ycombinator.com/item?id=35908617))
 - [Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)
 - [GameNetworkingSockets Build Status](https://github.com/ValveSoftware/GameNetworkingSockets) - Basic transport layer for games. Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.
 - [How EVE Online is built (2021)](https://www.youtube.com/watch?v=ORkE8yeSsV4)

@@ -263,3 +263,4 @@ title: Genomics
 - [Plotsr](https://github.com/schneebergerlab/plotsr) - Tool to plot synteny and structural rearrangements between genomes.
 - [GraphBin](https://github.com/metagentools/GraphBin) - Refined binning of metagenomic contigs using assembly graphs.
 - [Grass](https://github.com/38/grass) - Genomics data manipulation and analysis system.
+- [Hidden RNA repair mechanism discovered in humans (2023)](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html) ([HN](https://news.ycombinator.com/item?id=35924495))

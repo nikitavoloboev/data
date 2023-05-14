@@ -163,3 +163,5 @@
 - [Transducers: Ergonomic, efficient data processing](https://github.com/fosskers/cl-transducers)
 - [Common Lisp Quick Reference](http://clqr.boundp.org/)
 - [binary-structures](https://github.com/Shinmera/binary-structures) - Library for reading, writing, and representing structures from binary storage.
+- [Successful Lisp: How to Understand and Use Common Lisp (2005)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html) ([HN](https://news.ycombinator.com/item?id=35936463))
+- [MGL Manual](https://github.com/melisgl/mgl) - Common Lisp machine learning library. ([HN](https://news.ycombinator.com/item?id=35927790))

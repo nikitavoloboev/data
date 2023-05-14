@@ -111,3 +111,4 @@ I love the fact that I can set up any new mac or phone to use my exact and perfe
 - [Backup Google Takeout archives](https://github.com/nelsonjchen/gargantuan-takeout-rocket)
 - [rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [AppIndex](https://github.com/SerenaKit/AppIndex) - Analyze & Backup applications on your device.
+- [Rsync Time Machine](https://github.com/basnijholt/rsync-time-machine.py) ([HN](https://news.ycombinator.com/item?id=35933238))

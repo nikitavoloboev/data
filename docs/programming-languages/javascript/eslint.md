@@ -80,3 +80,4 @@ title: ESLint
 - [eslint-etc](https://github.com/cartant/eslint-etc) - Utils for ESLint TypeScript rules.
 - [TypeScript language service plugin for ESLint](https://github.com/Quramy/typescript-eslint-language-service)
 - [dword-design/eslint-plugin-import-alias](https://github.com/dword-design/eslint-plugin-import-alias) - ESLint plugin that enforces the use of import aliases. Also supports autofixing.
+- [eslint-plugin-safe-jsx](https://github.com/GSTJ/safe-jsx) - ESLint plugin that enforces explicit boolean conversion before using the && operator with JSX in React and React Native applications.

@@ -1163,3 +1163,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LangChain Go](https://github.com/tmc/langchaingo)
 - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words (2023)](https://www.anthropic.com/index/100k-context-windows) ([HN](https://news.ycombinator.com/item?id=35904773))
 - [SmartGPT](https://github.com/Cormanz/smartgpt) - Program that provides LLMs with the ability to complete complex tasks using plugins.
+- [LangChainTS Starter](https://github.com/domeccleston/langchain-ts-starter)
+- [How to run Llama 13B with a 6GB graphics card (2023)](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc) ([HN](https://news.ycombinator.com/item?id=35937505))

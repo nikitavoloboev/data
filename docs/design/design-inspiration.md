@@ -289,6 +289,7 @@ Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for lan
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Code](https://github.com/brandur/sorg))
 - [Chris Welch](https://chriswelch.co/)
 - [Sean Halpin](https://www.seanhalpin.design/)
+- [Andreas Thomas](https://chronark.com/) ([Code](https://github.com/chronark/chronark.com))
 - [Phil Pluckthun](https://kitten.sh/) ([Code](https://github.com/kitten/kitten.sh))
 - [James Clements](https://jm.sv/)
 - [Xetera](https://xetera.dev/) ([Code](https://github.com/xetera/xetera.dev))

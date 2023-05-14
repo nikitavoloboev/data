@@ -325,3 +325,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS Cursors](https://mac-cursors.netlify.app/) ([Code](https://github.com/daviddarnes/mac-cursors)) ([HN](https://news.ycombinator.com/item?id=35238906))
 - [Keyboard tricks from a macOS app dev (2023)](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev) ([HN](https://news.ycombinator.com/item?id=35678269))
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f) ([HN](https://news.ycombinator.com/item?id=35847715))
+- [Diving into a secret macOS tool - networkQuality (2023)](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/) ([HN](https://news.ycombinator.com/item?id=35936999))

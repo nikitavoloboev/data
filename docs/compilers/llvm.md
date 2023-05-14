@@ -165,3 +165,4 @@ title: LLVM
 - [Swifty-LLVM](https://github.com/val-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.
 - [LLVM: Canonicalization and target-independence (2023)](https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html)
 - [LLVM Haskell Codegen](https://github.com/luc-tielen/llvm-codegen)
+- [A whirlwind tour of the LLVM optimizer (2023)](https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf) ([HN](https://news.ycombinator.com/item?id=35893006))

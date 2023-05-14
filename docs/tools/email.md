@@ -323,3 +323,5 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Converting incoming emails on the fly with OpenSMTPD filters (2023)](https://palant.info/2023/03/08/converting-incoming-emails-on-the-fly-with-opensmtpd-filters/)
 - [mail-auth](https://github.com/stalwartlabs/mail-auth) - DKIM, ARC, SPF and DMARC library for Rust.
 - [Resend Node SDK](https://github.com/resendlabs/resend-node)
+- [edgemail](https://github.com/psarna/edgemail) - Professional, production-grade SMTP server.
+- [What do you use as your current email provider? Why is it better than your previous? (2023)](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)

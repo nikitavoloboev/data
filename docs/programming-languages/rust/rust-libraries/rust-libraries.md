@@ -96,7 +96,7 @@
 - [tonic-rpc](https://github.com/adamrk/tonic-rpc) - Build RPCs on top of the tonic gRPC library by defining your types in Rust instead of proto.
 - [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
 - [Viz](https://github.com/viz-rs/viz) - Fast, flexible, lightweight web framework for Rust. ([Docs](https://docs.rs/viz/latest/viz/))
-- [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
+- [Hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision)) ([HN](https://news.ycombinator.com/item?id=35920773))
 - [pavex](https://github.com/LukeMathWalker/pavex) - Source code generator for building APIs and web applications with Rust. ([Tweet](https://twitter.com/algo_luca/status/1565653013380882433)) ([Article](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
@@ -943,7 +943,7 @@
 ## macOS
 
 - [mach](https://github.com/fitzgen/mach) - Rust interface to the Mach 3.0 kernel that underlies macOS.
-- [Cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS).
+- [Cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). ([HN](https://news.ycombinator.com/item?id=35934799))
 - [Fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries.
 - [core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS.
 - [Plist](https://github.com/ebarnard/rust-plist) - Rusty plist parser.
@@ -2843,6 +2843,7 @@
 - [rust-cid](https://github.com/multiformats/rust-cid)
 - [cfg-expr](https://github.com/EmbarkStudios/cfg-expr) - Parser and evaluator for Rust cfg() expressions.
 - [flatty](https://github.com/agerasev/flatty) - Flat message buffers with direct mapping to Rust types without packing/unpacking.
+- [lasso](https://github.com/Kixiron/lasso) - Fast, concurrent string interner.
 
 ## Cargo Plugins
 

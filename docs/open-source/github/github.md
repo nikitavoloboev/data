@@ -523,3 +523,5 @@ Awesome List
 - [installer](https://github.com/jpillora/installer) - Quickly install pre-compiled binaries from Github releases.
 - [octokit-create-new-file](https://github.com/JasonEtco/octokit-create-new-file) - Creates a new file on a new branch and opens a new pull request.
 - [Chat with Github Repo](https://github.com/peterw/Chat-with-Github-Repo)
+- [GitHub Copilot Chat Leaked Prompt (2023)](https://twitter.com/marvinvonhagen/status/1657060506371346432) ([HN](https://news.ycombinator.com/item?id=35921375))
+- [Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0) ([Tweet](https://twitter.com/anvaka/status/1657416666358374401))

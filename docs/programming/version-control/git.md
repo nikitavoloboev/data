@@ -312,7 +312,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Ignoring mass reformatting commits with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 - [cgit](https://git.zx2c4.com/cgit/about/) - Hyperfast web frontend for git repositories written in C.
 - [Fork and Pull Request Workflow](https://github.com/susam/gitpr)
-- [Ugit - DIY Git in Python](https://www.leshenko.net/p/ugit/) ([HN](https://news.ycombinator.com/item?id=28735425))
+- [Ugit - DIY Git in Python](https://www.leshenko.net/p/ugit/) ([HN](https://news.ycombinator.com/item?id=28735425)) ([HN](https://news.ycombinator.com/item?id=35932074))
 - [Stacked pull requests: Make code reviews faster, easier, and more effective](https://www.michaelagreiler.com/stacked-pull-requests/)
 - [Create a global gitignore (2020)](https://mike.place/2020/global-gitignore/)
 - [Fortunately, I don't squash my commits (2020)](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/) ([HN](https://news.ycombinator.com/item?id=24686527)) ([Reddit](https://www.reddit.com/r/coding/comments/j5l9wb/fortunately_i_dont_squash_my_commits/))

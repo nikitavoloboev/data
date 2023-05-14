@@ -101,3 +101,4 @@ Still exploring different kinds of clothing styles. I currently mostly use [Bjö
 - [Express](https://www.express.com/) - Men's & Women's Clothing.
 - [Tezenis](https://www.tezenis.com/) - Collections of men and women's clothing and underwear.
 - [Befree](https://befree.ru/)
+- [Adoore](https://adoore.se/)
