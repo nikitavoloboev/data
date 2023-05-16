@@ -152,3 +152,4 @@ title: GPU
 - [Branching on a GPU (2021)](https://medium.com/@jasonbooth_86226/branching-on-a-gpu-18bfc83694f2)
 - [Fuser](https://github.com/NVIDIA/Fuser) - Fusion Code Generator for NVIDIA GPUs.
 - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market) ([HN](https://news.ycombinator.com/item?id=35738072))
+- [Oblivus](https://oblivus.com/) - Affordable and scalable GPU servers from $0.29/hr. ([HN](https://news.ycombinator.com/item?id=35958715))

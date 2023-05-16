@@ -223,3 +223,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [GPTRPG](https://github.com/dzoba/gptrpg) - Demo of an GPT-based agent existing in an RPG-like environment.
 - [Fireside Chat: With Ilya Sutskever and Jensen Huang: AI Today and Vision of the Future (2023)](https://www.youtube.com/watch?v=XjSUJUL9ADw)
 - [Google “We Have No Moat, and Neither Does OpenAI” (2023)](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) ([HN](https://news.ycombinator.com/item?id=35813322))
+- [A Generalist Agent (2022](https://arxiv.org/abs/2205.06175) ([Code](https://github.com/OrigamiDream/gato))

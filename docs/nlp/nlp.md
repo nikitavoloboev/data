@@ -1170,3 +1170,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Google Bard API](https://github.com/dsdanielpark/Bard-API)
 - [StarCoder: may the source be with you! (2023)](https://arxiv.org/abs/2305.06161) ([HN](https://news.ycombinator.com/item?id=35954481))
 - [React LLM](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU.
+- [Guidance](https://github.com/microsoft/guidance) - Guidance language for controlling large language models. ([HN](https://news.ycombinator.com/item?id=35963936))
+- [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
+- [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4 (2023)](https://arxiv.org/abs/2305.00118) ([Code](https://github.com/bamman-group/gpt4-books))
+- [BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.

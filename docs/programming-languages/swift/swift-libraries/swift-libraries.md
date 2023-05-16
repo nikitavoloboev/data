@@ -664,6 +664,7 @@
 - [Puddles](https://github.com/SwiftedMind/Puddles) - Native SwiftUI app architecture.
 - [SwiftUI Plus](https://github.com/shaps80/SwiftUIPlus) - SwiftUI additions and helpers that are missing from the official implementation.
 - [CocoaUI](https://github.com/p-x9/CocoaUI) - Obtain and customize UIKit/Cocoa objects from SwiftUI components.
+- [Custom Stack Navigation for SwiftUI](https://github.com/FluidGroup/swiftui-stack)
 
 ## Test
 
@@ -1507,6 +1508,7 @@
 - [Cabbage](https://github.com/VideoFlint/Cabbage) - Video composition framework build on top of AVFoundation. It's simple to use and easy to extend.
 - [Machismo](https://github.com/g-Off/Machismo) - Mach-O Parser.
 - [SwiftSubtitles](https://github.com/dagronf/SwiftSubtitles) - Swift package for reading/writing subtitle formats (srt, svb, vtt).
+- [Google Generative AI SDK for Swift](https://github.com/google/generative-ai-swift)
 
 ## Other (not lib)
 

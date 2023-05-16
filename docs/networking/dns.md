@@ -279,3 +279,4 @@ title: DNS
 - [State of DNS Rebinding in 2023](https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/)
 - [Implement DNS in a Weekend (2023)](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/) ([HN](https://news.ycombinator.com/item?id=35916064))
 - [Meta's DNS Go libraries](https://github.com/facebookincubator/dns)
+- [Globalping](https://github.com/jsdelivr/globalping) - Global network of probes to run network tests like ping, traceroute and DNS resolve.

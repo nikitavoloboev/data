@@ -62,3 +62,4 @@ Wish someone ported [dax](https://github.com/dsherret/dax) to Bun.
 - [Bun v0.5.7 (2023)](https://bun.sh/blog/bun-v0.5.7) ([HN](https://news.ycombinator.com/item?id=34931412))
 - [Action Setup Bun](https://github.com/antongolub/action-setup-bun) - Setup GitHub Actions workflow with a specific version of Bun.
 - [Bun & Node.js comparison](https://github.com/privatenumber/compare-bun-node)
+- [Bun v0.6.0 (2023)](https://bun.sh/blog/bun-v0.6.0) ([HN](https://news.ycombinator.com/item?id=35965483))

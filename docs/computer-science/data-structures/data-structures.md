@@ -133,3 +133,4 @@
 - [hg64: a 64-bit histogram data structure (2022)](https://dotat.at/@/2022-07-15-histogram.html)
 - [This Data Structure could be used for Autocomplete (2021)](https://www.youtube.com/watch?v=2fosrL7I7oc)
 - [Ask HN: What is new in Algorithms / Data Structures these days? (2023)](https://news.ycombinator.com/item?id=35886900)
+- [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/) ([HN](https://news.ycombinator.com/item?id=35957811))

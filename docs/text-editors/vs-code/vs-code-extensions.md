@@ -84,6 +84,7 @@ Below is a list of extensions I use.
 - [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad) - Play interactive coding tutorials in your editor. ([Code](https://github.com/coderoad/coderoad-vscode)) ([Docs](https://coderoad.github.io/docs/overview))
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard. ([Code](https://github.com/ryu1kn/vscode-partial-diff))
 - [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))
+- [VSCode ast-grep language server](https://github.com/ast-grep/ast-grep-vscode)
 - [Simple REST Client](https://github.com/HoangNguyen17193/vscode-simple-rest-client) - Easy to examine your API’s responses directly within Visual Studio Code. Send requests to verify your API.
 - [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - API client to test and create HTTP/s requests. ([Code](https://github.com/rohinivsenthil/postcode))
 - [VSC Codio](https://github.com/codegps/vsc-codio) - Record VS Code events with an audio commentary and subtitles to play back at a later time.

@@ -960,3 +960,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Bifrost](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures.
 - [Regatta](https://github.com/jamf/regatta) - Distributed, eventually consistent key-value store built for Kubernetes.
 - [KubeMarine](https://github.com/Netcracker/KubeMarine) - Management tool for Kubernetes cluster deployment and maintenance.
+- [cnspec](https://github.com/mondoohq/cnspec) - Open source, cloud-native security and policy project.

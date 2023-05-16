@@ -1127,3 +1127,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Efficient encoder-decoder architecture with top-down attention for speech separation](https://github.com/JusperLee/TDANet)
 - [ImageBind](https://github.com/facebookresearch/ImageBind) - One Embedding Space To Bind Them All.
 - [COLA: Contextualized Commonsense Causal Reasoning from the Causal Inference Perspective (2023)](https://github.com/HKUST-KnowComp/COLA)
+- [Caikit](https://github.com/caikit/caikit) - AI toolkit that enables users to manage models through a set of developer friendly APIs.

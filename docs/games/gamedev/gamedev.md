@@ -345,3 +345,4 @@
 - [Simple Pathtracing (2012)](https://iquilezles.org/articles/simplepathtracing/) ([HN](https://news.ycombinator.com/item?id=35660556))
 - [Where do you start with your blank canvas? (2023)](https://www.reddit.com/r/gamedev/comments/12xh3ny/where_do_you_start_with_your_blank_canvas/)
 - [Game development in Go: Ebitengine shaders (2023)](https://quasilyte.dev/blog/post/ebitengine-shaders/)
+- [Notes on rarely-seen game mechanics (2023)](https://blog.plover.com/notes/game-mechanics.html) ([HN](https://news.ycombinator.com/item?id=35941369))
