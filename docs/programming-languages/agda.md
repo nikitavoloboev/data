@@ -125,3 +125,4 @@ title: Agda
 - [Risotto: Architecture Mapping Proofs in Agda](https://github.com/binary-translation/risotto-proofs)
 - [Interpreter and compiler for a procedural language (fragment of C) in Agda](https://github.com/andreasabel/plt-agda)
 - [Weak 1-Categories in Agda](https://gist.github.com/FrozenWinters/614478c3d919f96691f8dad80e0d2f49)
+- [stdlib-meta](https://github.com/omelkonian/stdlib-meta) - Meta-programming utilities for Agda.

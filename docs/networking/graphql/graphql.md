@@ -389,3 +389,4 @@ I am still exploring what the best way to do GraphQL queries from [Solid](../../
 - [Typescript DSL for GraphQL](https://github.com/babyfish-ct/graphql-ts-client)
 - [How to provide typed access to GraphQL (2023)](https://twitter.com/matteocollina/status/1650893429088370690)
 - [proto-graphql](https://github.com/wantedly/proto-graphql-rust) - Generate GraphQL schema and gateway from Proto definitions.
+- [The simplicity of tRPC with the power of GraphQL (2022)](https://wundergraph.com/blog/trpc_vs_graphql)

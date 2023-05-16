@@ -2844,6 +2844,7 @@
 - [cfg-expr](https://github.com/EmbarkStudios/cfg-expr) - Parser and evaluator for Rust cfg() expressions.
 - [flatty](https://github.com/agerasev/flatty) - Flat message buffers with direct mapping to Rust types without packing/unpacking.
 - [lasso](https://github.com/Kixiron/lasso) - Fast, concurrent string interner.
+- [Self-Replace](https://github.com/mitsuhiko/self-replace) - Utility library that helps to implement processes that replace themselves.
 
 ## Cargo Plugins
 

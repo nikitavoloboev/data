@@ -1158,10 +1158,15 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [WizardLM: An Instruction-following LLM Using Evol-Instruct](https://github.com/nlpxucan/WizardLM)
 - [The Leverage of LLMs for Individuals (2023)](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/) ([HN](https://news.ycombinator.com/item?id=35885797))
 - [PaLM 2 Technical Report (2023)](https://ai.google/static/documents/palm2techreport.pdf) ([HN](https://news.ycombinator.com/item?id=35891444))
-- [Tips and tricks for working with Large Language Models like OpenAI's GPT-4](https://github.com/brexhq/prompt-engineering)
+- [Tips and tricks for working with Large Language Models like OpenAI's GPT-4](https://github.com/brexhq/prompt-engineering) ([HN](https://news.ycombinator.com/item?id=35942583))
 - [Open-Llama](https://github.com/s-JoL/Open-Llama) - Complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF.
 - [LangChain Go](https://github.com/tmc/langchaingo)
 - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words (2023)](https://www.anthropic.com/index/100k-context-windows) ([HN](https://news.ycombinator.com/item?id=35904773))
 - [SmartGPT](https://github.com/Cormanz/smartgpt) - Program that provides LLMs with the ability to complete complex tasks using plugins.
 - [LangChainTS Starter](https://github.com/domeccleston/langchain-ts-starter)
 - [How to run Llama 13B with a 6GB graphics card (2023)](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc) ([HN](https://news.ycombinator.com/item?id=35937505))
+- [Context-Free Grammar Parsing with LLMs (2023)](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
+- [smol developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer.
+- [Google Bard API](https://github.com/dsdanielpark/Bard-API)
+- [StarCoder: may the source be with you! (2023)](https://arxiv.org/abs/2305.06161) ([HN](https://news.ycombinator.com/item?id=35954481))
+- [React LLM](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU.

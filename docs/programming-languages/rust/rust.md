@@ -1137,3 +1137,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Iterator, Generator (2023)](https://without.boats/blog/iterator-generator/) ([Reddit](https://www.reddit.com/r/rust/comments/139jtx3/iterator_generator/))
 - [Rust 101 Crash Course (2022)](https://www.youtube.com/watch?v=lzKeecy4OmQ)
 - [Dioxus + TailwindCSS](https://github.com/LyonSyonII/dioxus-tailwindcss) - Template for the Rust Web/Desktop framework Dioxus + TailwindCSS.
+- [A guide to test parametrization in Rust (2023)](https://unterwaditzer.net/2023/rust-test-parametrization.html) ([HN](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust))

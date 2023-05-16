@@ -207,3 +207,5 @@ for (const key of keys) {
 - [Redis Data Source for Grafana](https://github.com/RedisGrafana/grafana-redis-datasource)
 - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md) ([HN](https://news.ycombinator.com/item?id=35847269))
 - [Story: Redis and its creator antirez (2023)](https://blog.brachiosoft.com/redis-en) ([HN](https://news.ycombinator.com/item?id=35871462))
+- [Redis Dump](https://github.com/upstash/upstash-redis-dump) - Dumps Redis keys & values to a file.
+- [Rudis](https://github.com/lorenzoc25/rudis) - Sharded, concurrent mini redis that support http interface implemented in rust.

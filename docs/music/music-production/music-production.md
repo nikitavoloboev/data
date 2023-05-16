@@ -163,7 +163,7 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 
 ## Links
 
-- [Get started making music](https://learningmusic.ableton.com/) ([HN](https://news.ycombinator.com/item?id=29055433))
+- [Get started making music](https://learningmusic.ableton.com/) ([HN](https://news.ycombinator.com/item?id=29055433)) ([HN](https://news.ycombinator.com/item?id=35935796))
 - [The Bare Maximum | Steve Lacy | TED](https://www.youtube.com/watch?v=SUnmrQfdYpg)
 - [NSynth Super](https://nsynthsuper.withgoogle.com/)
 - [Music concepts explained](https://www.youtube.com/playlist?list=PL-NzMNM2cyt-RYr-8YmF0yFVDwhdklaiT)

@@ -274,3 +274,4 @@ title: Vue.js
 - [NuxtLego](https://github.com/zernonia/nuxt-lego) - Unstyled components for building your Nuxt content quick & beautiful.
 - [Nuxt + Vercel ISR](https://github.com/danielroe/nuxt-vercel-isr) - Tiny demo to show off Nuxt's route rules integration with Vercel.
 - [Vue DevTools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX.
+- [nuxthq/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
