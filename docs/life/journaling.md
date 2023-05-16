@@ -52,3 +52,4 @@ I love reading these journals:
 - [Ведение дневника на ежедневной основе](https://twitter.com/etosamoe3/status/1570785865328390146)
 - [Ask HN: How do you maintain your daily log? (2022)](https://news.ycombinator.com/item?id=33359329)
 - [GPT-3 Is the Best Journal I’ve Ever Used (2023)](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used) ([HN](https://news.ycombinator.com/item?id=34402648))
+- [Ask HN: Has journaling improved your life? (2023)](https://news.ycombinator.com/item?id=35960139)

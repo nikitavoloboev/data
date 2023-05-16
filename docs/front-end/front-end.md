@@ -152,3 +152,4 @@
 - [Luna UI Library](https://github.com/liriliri/luna)
 - [Oku Primitives](https://github.com/oku-ui/primitives) - UI component library.
 - [ExtendedUI](https://extendedui.com/)
+- [Fancy Input Box](https://craft.mxkaske.dev/post/fancy-box)

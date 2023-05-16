@@ -333,3 +333,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/) ([HN](https://news.ycombinator.com/item?id=35800109))
 - [LiQuery](https://github.com/haxtra/liquery) - Powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases.
 - [super-sqlite3](https://github.com/haxtra/super-sqlite3) - SQLite library with optional full db encryption, simple query builder, and a host of utility features, all in one neat package.
+- [SQLite Release 3.42.0 (2023)](https://sqlite.org/releaselog/3_42_0.html) ([HN](https://news.ycombinator.com/item?id=35962213))
