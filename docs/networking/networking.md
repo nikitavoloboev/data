@@ -4,7 +4,7 @@
 
 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) is great for in depth study. [Protohackers](https://protohackers.com/) has nice coding challenges.
 
-[Sniffnet](https://github.com/GyulyVGC/sniffnet) is great way to glance into your network traffic.
+[Trippy](https://github.com/fujiapple852/trippy) or [Sniffnet](https://github.com/GyulyVGC/sniffnet) are great ways to glance into your network traffic.
 
 ## Notes
 

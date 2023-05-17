@@ -273,3 +273,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [SandTable](https://github.com/dubnom/sandtable) - Create beautiful dynamic art in sand.
 - [Sketching Racket Art Library Examples](https://soegaard.github.io/sketching/Examples.html)
 - [Alma](https://www.alma.sh/) - Interactive playground for generative graphics. ([Code](https://github.com/emilwidlund/alma))
+- [Workshop on color science for generative art and creative coding](https://github.com/mattdesl/workshop-generative-color)

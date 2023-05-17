@@ -309,6 +309,7 @@
 - [Iter](https://github.com/sabiwara/iter) - Fast compile-time optimized alternative to the Enum and Stream modules.
 - [Styler](https://github.com/adobe/elixir-styler) - Elixir code-style enforcer that will just FIFY instead of complaining.
 - [Spandex](https://github.com/spandex-project/spandex) - Platform agnostic tracing library.
+- [Cocktail](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ## Links
 

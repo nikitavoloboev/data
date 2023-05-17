@@ -2,7 +2,7 @@
 
 [Compiler Explorer](https://godbolt.org) is great tool.
 
-[Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/), [Crafting Interpreters](https://craftinginterpreters.com/introduction.html), [Writing A Compiler In Go](https://compilerbook.com/), [Compiler Writing Journey](https://github.com/DoctorWkt/acwj) & [Stanford compiler course](https://web.stanford.edu/class/cs143/) are great intros.
+[Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/), [Crafting Interpreters](https://craftinginterpreters.com/introduction.html), [Writing A Compiler In Go](https://compilerbook.com/), [Compiler Writing Journey](https://github.com/DoctorWkt/acwj), [Stanford compiler course](https://web.stanford.edu/class/cs143/) & [Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2020fa/) are great reads.
 
 [Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) & [SSA-based Compiler Design](https://link.springer.com/book/10.1007/978-3-030-80515-9) seem nice for more in depth study.
 
@@ -314,3 +314,4 @@
 - [Ask HN: Why are there no traditional language compilers that target the JVM? (2023)](https://news.ycombinator.com/item?id=35828100)
 - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you) ([HN](https://news.ycombinator.com/item?id=35830684))
 - [Concrete — Zama's Fully Homomorphic Encryption Compiler (2023)](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
+- [Bril Playground](https://agentcooper.github.io/bril-playground/) - Web playground for Bril with vizualization for CFG (Control Flow Graph) and SSA (Static Single Assignment) transformations. ([Code](https://github.com/agentcooper/bril-playground))

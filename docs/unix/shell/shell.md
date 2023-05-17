@@ -308,3 +308,4 @@ All active variables can be seen by running `env`.
 - [ChatGPT autocompletion with atuin](https://github.com/TIAcode/LLMShellAutoComplete) - Use GPT to complete shell command line using atuin shell history database and terminal screen content as prompt.
 - [Mods](https://github.com/charmbracelet/mods) - AI on the command line.
 - [Yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
+- [aider](https://github.com/paul-gauthier/aider) - GPT-4 powered coding in your terminal.

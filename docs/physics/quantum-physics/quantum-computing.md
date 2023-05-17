@@ -191,3 +191,4 @@ title: Quantum computing
 - [qutip-qtrl](https://github.com/qutip/qutip-qtrl) - QuTiP quantum optimal control package.
 - [Real-time quantum error correction beyond break-even (2023)](https://www.nature.com/articles/s41586-023-05782-6) ([HN](https://news.ycombinator.com/item?id=35521598))
 - [Stim](https://github.com/quantumlib/Stim) - Fast stabilizer circuit library.
+- [q](https://github.com/itsubaki/q) - Quantum Computation Simulator for Go.

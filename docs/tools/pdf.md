@@ -109,3 +109,4 @@
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Chat with the contents of your PDF file by using GPT capabilities.
 - [vortex](https://github.com/omkar-mohanty/vortex) - Tool to extract images from PDF files.
 - [PDF Annotation Fixer](https://github.com/julihoh/pdf_annotation_fix) - Fixes macOS Preview garbled annotations.
+- [PDFEasy](https://github.com/betterwrite/pdfeasy) - JavaScript Client/Server Side PDF-Generator based in PDFKit.

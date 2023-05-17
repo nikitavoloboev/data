@@ -700,3 +700,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [The Part of PostgreSQL We Hate the Most (2023)](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/) ([HN](https://news.ycombinator.com/item?id=35716963))
 - [In PostgreSQL, powerful Full Text Search is available out of the box (2023)](https://admcpr.com/postgres-full-text-search-is-better-than-part1/) ([HN](https://news.ycombinator.com/item?id=35697528))
 - [Understanding database Indexes in PostgreSQL (2023)](https://blog.mastermind.dev/indexes-in-postgresql)
+- [Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)

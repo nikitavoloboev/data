@@ -128,3 +128,4 @@ I do like the distinction of distributing content over distributing links. Each 
 - [go-libipfs](https://github.com/ipfs/go-libipfs) - Library for building IPFS implementations.
 - [S5](https://github.com/s5-dev/S5) - Decentralized content-addressed storage network.
 - [helia](https://github.com/ipfs/helia) - Implementation of IPFS in JavaScript.
+- [dagula](https://github.com/web3-storage/dagula) - Suck a DAG out of a peer in the IPFS network.

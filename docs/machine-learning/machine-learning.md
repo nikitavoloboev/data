@@ -1129,3 +1129,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [COLA: Contextualized Commonsense Causal Reasoning from the Causal Inference Perspective (2023)](https://github.com/HKUST-KnowComp/COLA)
 - [Caikit](https://github.com/caikit/caikit) - AI toolkit that enables users to manage models through a set of developer friendly APIs.
 - [SAITS: Self-attention-based imputation for time series (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0957417423001203?via%3Dihub) ([Code](https://github.com/WenjieDu/SAITS))
+- [SoundStorm: Efficient Parallel Audio Generation (2023)](https://arxiv.org/abs/2305.09636) ([Code](https://github.com/lucidrains/soundstorm-pytorch))

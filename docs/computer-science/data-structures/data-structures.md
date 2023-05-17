@@ -134,3 +134,4 @@
 - [This Data Structure could be used for Autocomplete (2021)](https://www.youtube.com/watch?v=2fosrL7I7oc)
 - [Ask HN: What is new in Algorithms / Data Structures these days? (2023)](https://news.ycombinator.com/item?id=35886900)
 - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/) ([HN](https://news.ycombinator.com/item?id=35957811))
+- [An Introduction to Bε-trees and Write-Optimization (2015)](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
