@@ -84,6 +84,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Create Next Stack](https://github.com/akd-io/create-next-stack) - Opinionated interactive CLI tool to easily set up the boilerplate of a new Next.js app.
 - [Liveblocks × Next.js](https://github.com/liveblocks/next-js-examples) - Shows how to use Liveblocks with Next.js.
 - [NextJS Starter Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+- [Next.js Enterprise](https://github.com/blazity/next-enterprise) - Build enterprise apps with Tailwind CSS, RadixUI and cva.style
 - [Supabase NextJS Auth](https://github.com/dabit3/supabase-nextjs-auth) - Magic Link Authentication and Route Controls with Supabase and Next.js.
 - [next-bucket](https://github.com/application-research/next-bucket) - Template to start a project easily with NextJS and Textile Buckets.
 - [graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind.
