@@ -1,5 +1,7 @@
 # 3D Printing
 
+Would love to get a 3D printer at some point and do some [hardware](../hardware/hardware.md) projects.
+
 ## Links
 
 - [ShapeWays](https://www.shapeways.com/) - Upload 3D model, choose materials and get the thing.
@@ -62,3 +64,4 @@
 - [LivePrinter](https://github.com/pixelpusher/liveprinter) - Live coding for 3D printers.
 - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/) ([HN](https://news.ycombinator.com/item?id=35380775))
 - [3D printing a full-size kayak (2023)](https://nathanrooy.github.io/posts/2023-03-12/3d-printed-kayak/)
+- [3D Printing Purchase Advice (2023)](https://www.reddit.com/r/3Dprinting/comments/100ca9n/purchase_advice_megathread_january_2023/)

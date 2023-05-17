@@ -1175,3 +1175,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4 (2023)](https://arxiv.org/abs/2305.00118) ([Code](https://github.com/bamman-group/gpt4-books))
 - [BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 - [StructGPT: A General Framework for Large Language Model to Reason over Structured Data (2023)](https://arxiv.org/abs/2305.09645) ([Code](https://github.com/JBoRu/StructGPT))
+- [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
+- [Rebuff](https://github.com/woop/rebuff) - Prompt Injection Detector.
+- [API Bot tutorial](https://github.com/poe-platform/api-bot-tutorial)

@@ -379,3 +379,5 @@ Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
 - [Training Stable Diffusion from Scratch for <$50k with MosaicML (2023)](https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-part-2)
 - [Reflected Diffusion Models (2023)](https://aaronlou.com/blog/2023/reflected-diffusion/) ([HN](https://news.ycombinator.com/item?id=35863309))
 - [StableSR](https://github.com/IceClear/StableSR) - Exploiting Diffusion Prior for Real-World Image Super-Resolution.
+- [StableStudio by Stability AI](https://github.com/Stability-AI/StableStudio) ([HN](https://news.ycombinator.com/item?id=35975578))
+- [Quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it.

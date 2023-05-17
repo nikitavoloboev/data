@@ -197,3 +197,4 @@ title: Coq
 - [Buchberger](https://github.com/coq-community/buchberger) - Verified implementation in Coq of Buchberger's algorithm for computing Gröbner bases.
 - [Commutative Diagrams Interface](https://github.com/dwarfmaster/commutative-diagrams)
 - [Program Extraction for Mutable Arrays](https://github.com/pi8027/efficient-finfun)
+- [Linear Temporal Logic in Coq](https://github.com/coq-contribs/ltl)

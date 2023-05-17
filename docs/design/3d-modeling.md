@@ -1,6 +1,6 @@
 # 3D modeling
 
-[Spline](https://spline.design/) is amazing.
+[Spline](spline.md) is amazing.
 
 ## Links
 

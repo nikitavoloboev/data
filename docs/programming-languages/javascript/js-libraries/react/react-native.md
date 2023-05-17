@@ -4,9 +4,13 @@ title: React Native
 
 # [React Native](https://facebook.github.io/react-native/)
 
-[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat. [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too. [Stacks](https://mobily.github.io/stacks/) is useful for layouts. [React Native Url Router](https://github.com/software-mansion-labs/react-native-url-router) is neat router. [React Native Developer Tools](https://github.com/microsoft/rnx-kit/) is useful.
+Currently looking into using [Capacitor](../../../../web/capacitor.md) for mobile apps so I can reuse my [Solid](../solid.md) code for apps I am building.
 
-[Ignite](https://github.com/infinitered/ignite), [zART-Stack](https://github.com/KATT/zart) & [React Native template with goodies](https://github.com/gabrielmoncea/react-native-template) seem like nice starters.
+React Native is neat though. [Expo](expo.md) has great features.
+
+[React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too. [Stacks](https://mobily.github.io/stacks/) is useful for layouts. [React Native Url Router](https://github.com/software-mansion-labs/react-native-url-router) is neat router. [React Native Developer Tools](https://github.com/microsoft/rnx-kit/) is useful.
+
+[Ignite](https://github.com/infinitered/ignite), [Solito](https://github.com/nandorojo/solito), [zART-Stack](https://github.com/KATT/zart) & [React Native template with goodies](https://github.com/gabrielmoncea/react-native-template) seem like nice starters.
 
 [Tamagui](https://github.com/tamagui/tamagui) is interesting for styling.
 

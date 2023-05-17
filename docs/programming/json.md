@@ -184,3 +184,4 @@ title: JSON
 - [JSON Schema Markdown Tools](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation.
 - [Analyzing multi-gigabyte JSON files locally (2023)](https://thenybble.de/posts/json-analysis/)
 - [JSON vs. XML with Douglas Crockford (2023)](https://corecursive.com/json-vs-xml-douglas-crockford/) ([HN](https://news.ycombinator.com/item?id=35669817))
+- [lossless-json](https://github.com/josdejong/lossless-json) - Parse JSON without risk of losing numeric information.

@@ -4,6 +4,8 @@ title: ClickHouse
 
 # [ClickHouse](https://clickhouse.com/)
 
+[ClickHouse Knowledge Base](https://www.tinybird.co/clickhouse/knowledge-base) is great.
+
 ## Links
 
 - [Awesome ClickHouse](https://github.com/korchasa/awesome-clickhouse)
@@ -57,3 +59,4 @@ title: ClickHouse
 - [PostHog ClickHouse Manual](https://posthog.com/handbook/engineering/clickhouse)
 - [Building ClickHouse Cloud from scratch in a year (2023)](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year) ([HN](https://news.ycombinator.com/item?id=35238822))
 - [chdb-rust](https://github.com/chdb-io/chdb-rust) - Rust FFI example binding for chDB, an embedded SQL Engine powered by ClickHouse.
+- [ClickHouse Knowledge Base](https://www.tinybird.co/clickhouse/knowledge-base) ([Code](https://github.com/tinybirdco/clickhouse_knowledge_base))

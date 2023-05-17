@@ -326,3 +326,4 @@ title: Spatial analysis
 - [Vector Remap Language (VRL)](https://github.com/vectordotdev/vrl) - VRL is a language for transforming, routing, and filtering observability data (logs and metrics).
 - [supercluster](https://github.com/mapbox/supercluster) - Fast geospatial point clustering library for browsers and Node.
 - [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2.
+- [xarray-leaflet](https://github.com/xarray-contrib/xarray_leaflet) - xarray extension for tiled map plotting.

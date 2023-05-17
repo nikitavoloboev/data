@@ -1,12 +1,16 @@
 # Analytics
 
-Analytics if implemented should be actionable and in no way impact the performance of the app. i.e [Plausible](https://plausible.io/), [Netlify](https://www.netlify.com/products/analytics/) or even [Google Analytics](https://developers.google.com/tag-platform/tag-manager/server-side/intro) but done on server side and not on the client.
+Analytics if implemented should be actionable and in no way impact the performance of the app.
 
-On side of checking analytics I try to only observe things that are directly actionable to things I am working on. Thus I block insights traffic pane on GitHub repos and many more useless pages that simply track vanity stats.
+I personally deploy all web services on [Cloudflare](https://www.cloudflare.com/en-gb/) and thus use their [Web Analytics](https://www.cloudflare.com/en-gb/web-analytics/).
 
-I try to setup proper [observability](../devops/observability.md) together with actionable insights for metrics that make a difference for better product on all projects I work on.
+I use [Tinybird](tinybird.md) for logging events and doing analysis in real time.
+
+I setup proper [observability](../devops/observability.md) on all projects I work on. To both keep track of errors that happen and also to help log possible improvements for things I build using data, not just intuition.
 
 [GoatCounter](https://www.goatcounter.com/), [PostHog](https://github.com/PostHog/posthog) & [umami](https://umami.is/) seem great for self hosting analytics for cheap/free.
+
+[Plausible](https://plausible.io/), [Netlify](https://www.netlify.com/products/analytics/), [Google Analytics](https://developers.google.com/tag-platform/tag-manager/server-side/intro) are popular options too.
 
 [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
 

@@ -511,3 +511,4 @@
 - [What's new in web UI (2023)](https://www.youtube.com/watch?v=buChHSdsF9A)
 - [The Epic Stack](https://www.epicweb.dev/epic-stack) ([HN](https://news.ycombinator.com/item?id=35903878))
 - [Reflect](https://reflect.net/) - High-performance sync for multiplayer web apps. ([Tweet](https://twitter.com/aboodman/status/1658251815929126913))
+- [feature-set](https://github.com/web-platform-dx/feature-set) - Shared catalog of features of the web platform.

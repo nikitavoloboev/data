@@ -574,3 +574,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [lenar](https://github.com/marc2332/lenar) - Programming language written in Rust.
 - [The N Calculus (2022)](https://arxiv.org/abs/2011.14989)
 - [Noether programming language](https://github.com/noether-lang/noether)
+- [RowScript](https://github.com/rowscript/rowscript) - Robustly-typed functional language that compiles to efficient and reliable JavaScript.

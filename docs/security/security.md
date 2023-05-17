@@ -374,3 +374,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Re-write of MalwareDB from Go to Rust](https://github.com/malwaredb/malwaredb-rs)
 - [Passkeys: The Beginning of the End of the Password (2023)](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/) ([HN](https://news.ycombinator.com/item?id=35801392))
 - [Motus](https://github.com/oleiade/motus) - Dead simple password generator.
+- [Collection of slides from Singular Security Lab](https://github.com/singularseclab/Slides)

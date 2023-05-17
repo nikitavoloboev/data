@@ -352,3 +352,4 @@
 - [Architectures of Topological Deep Learning: A Survey on Topological Neural Networks (2023)](https://arxiv.org/abs/2304.10031) ([HN](https://news.ycombinator.com/item?id=35681466))
 - [Training Full Spike Neural Networks via Auxiliary Accumulation Pathway (2023)](https://arxiv.org/abs/2301.11929) ([Code](https://github.com/iCGY96/AAP))
 - [Language models can explain neurons in language models (2023)](https://openai.com/research/language-models-can-explain-neurons-in-language-models) ([HN](https://news.ycombinator.com/item?id=35877402))
+- [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper (2023)](https://news.ycombinator.com/item?id=35977891)

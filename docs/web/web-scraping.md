@@ -263,3 +263,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Website Scraper and Vectorizer](https://github.com/Sstobo/Site-Sn33k) ([Reddit](https://www.reddit.com/r/Python/comments/12wqzbk/i_have_made_some_easy_tools_to_rip_webpages_clean/))
 - [metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - JavaScript library for scraping/parsing metadata from a web page.
 - [Gumroad Scraper and Website Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator)
+- [HackerNews Alert](https://github.com/alabulei1/hacker-news-alert) - A Hacker News post contains the keyword you are interested in, you will receive a Slack message.
