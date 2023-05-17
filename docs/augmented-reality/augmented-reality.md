@@ -64,3 +64,4 @@
 - [Spatial Commerce Projects](https://shopify.github.io/spatial-commerce-projects/)
 - [Manitas](https://github.com/nacmartin/manitas) - Move your fingers in the air to interact with a computer.
 - [Monaco-powered WebR "REPL"](https://github.com/hrbrmstr/webr-monaco-repl)
+- [Awesome WebXR Development](https://github.com/Pico-Developer/awesome-webxr-development)

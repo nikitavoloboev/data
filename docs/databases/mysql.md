@@ -29,3 +29,4 @@ Use it with [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm).
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python.
 - [Ask HN: Is PostgreSQL better than MySQL? (2023)](https://news.ycombinator.com/item?id=35599118)
 - [Why isn’t MySQL using my index? (2023)](https://planetscale.com/blog/why-isnt-mysql-using-my-index) ([Tweet](https://twitter.com/aarondfrancis/status/1654152752627343361))
+- [Building and deploying MySQL Raft at Meta (2023)](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)

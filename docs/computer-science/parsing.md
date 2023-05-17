@@ -170,3 +170,4 @@
 - [Why Split Lexing and Parsing Into Two Separate Phases? (2023)](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html) ([Lobsters](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two))
 - [Parsing with Zippers](https://github.com/Ucombinator/parsing-with-zippers)
 - [Constructing human-grade parsers (2018)](https://duriansoftware.com/joe/constructing-human-grade-parsers)
+- [My Interview with Eelco Visser on Parsing (2023)](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)

@@ -1166,7 +1166,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LangChainTS Starter](https://github.com/domeccleston/langchain-ts-starter)
 - [How to run Llama 13B with a 6GB graphics card (2023)](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc) ([HN](https://news.ycombinator.com/item?id=35937505))
 - [Context-Free Grammar Parsing with LLMs (2023)](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
-- [smol developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer.
+- [Smol Developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer. ([HN](https://news.ycombinator.com/item?id=35945467))
 - [Google Bard API](https://github.com/dsdanielpark/Bard-API)
 - [StarCoder: may the source be with you! (2023)](https://arxiv.org/abs/2305.06161) ([HN](https://news.ycombinator.com/item?id=35954481))
 - [React LLM](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU.
@@ -1174,3 +1174,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4 (2023)](https://arxiv.org/abs/2305.00118) ([Code](https://github.com/bamman-group/gpt4-books))
 - [BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
+- [StructGPT: A General Framework for Large Language Model to Reason over Structured Data (2023)](https://arxiv.org/abs/2305.09645) ([Code](https://github.com/JBoRu/StructGPT))

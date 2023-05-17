@@ -619,3 +619,4 @@ for i, _ in enumerate(nums):
 - [Goodbye to Flake8 and PyLint: faster linting with Ruff (2023)](https://pythonspeed.com/articles/pylint-flake8-ruff/) ([Lobsters](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting))
 - [Faster CPython at PyCon, part one (2023)](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/) ([HN](https://news.ycombinator.com/item?id=35902506))
 - [Microsoft Python Discord](https://discord.com/invite/b8YJQPx)
+- [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages) ([Lobsters](https://lobste.rs/s/2vj6kz/python_family_languages))

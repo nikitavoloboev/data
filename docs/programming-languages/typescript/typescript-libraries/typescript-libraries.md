@@ -879,6 +879,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [streaming-tar](https://github.com/zebp/streaming-tar) - Pure-TypeScript streaming Tar parser for Web-compatible JavaScript runtimes.
 - [unthunk](https://github.com/JLarky/unthunk) - Utility to create lazy evaluated fields on an object.
 - [ShoSho](https://github.com/fabiospampinato/shosho) - Modern and powerful shortcuts management library.
+- [toZod](https://github.com/colinhacks/tozod) - Utility for defining Zod schemas that agree with a TypeScript type.
 
 ## Links
 

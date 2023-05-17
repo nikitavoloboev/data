@@ -1008,3 +1008,4 @@ if *boolArgPtr != false {
 - [go-tool-cache](https://github.com/bradfitz/go-tool-cache) - Share your cache over the network.
 - [Go Channels explained](https://github.com/mwiater/golangchannels)
 - [Gokiburi](https://github.com/michenriksen/gokiburi) - Automatic Test Runs for Go Projects.
+- [Go proposal: less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
