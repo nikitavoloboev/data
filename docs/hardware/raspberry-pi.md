@@ -151,3 +151,4 @@ title: Raspberry Pi
 - [Infinity Mirror Conversion](https://github.com/ncw/mirror) - Code to run the LEDs in an infinity mirror while running on a Raspberry Pi Pico-W.
 - [Testing Raspberry Pi's new Debug Probe (2023)](https://www.jeffgeerling.com/blog/2023/testing-raspberry-pis-new-debug-probe) ([HN](https://news.ycombinator.com/item?id=34906925))
 - [How to build a super-slim smart mirror - Raspberry Pi](https://www.raspberrypi.com/tutorials/how-to-build-a-super-slim-smart-mirror/)
+- [instant-pi](https://github.com/IronOxidizer/instant-pi) - Achieving the fastest possible boot times with various Raspberry Pi devices.

@@ -1184,3 +1184,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [SuperAgent](https://github.com/homanp/superagent) - Deploy LLM Agents to production.
 - [TokenHawk](https://github.com/kayvr/token-hawk) - WebGPU LLM inference tuned by hand.
 - [LMDB](https://github.com/gbasin/LMDB) - Database powered by language models.
+- [ChatALL](https://github.com/sunner/ChatALL) - Chat with ALL AI Bots Concurrently, Discover the Best.

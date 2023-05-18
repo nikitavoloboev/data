@@ -477,7 +477,7 @@ Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for lan
 - [Louie Mantia](http://louiemantia.com/)
 - [Vadim Makeev](https://pepelsbey.dev/) ([Code](https://github.com/pepelsbey/pepelsbey.dev))
 - [Alasdair Monk](https://www.alasdairmonk.com/)
-- [Unai Mengual](https://owln.ai/)
+- [Unai Mengual](https://owln.ai/) ([Code](https://github.com/owlnai/owln.ai))
 - [Koos Looijesteijn](https://www.kooslooijesteijn.net/)
 - [Siddharth Arun](https://sdrn.co/)
 - [Patrick Brosset](https://patrickbrosset.com/)

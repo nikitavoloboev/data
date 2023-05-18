@@ -345,3 +345,4 @@ It's also great at giving examples.
 - [OP Vault](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [Awesome ChatGPT Dataset](https://github.com/voidful/awesome-chatgpt-dataset)
 - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb) ([HN](https://news.ycombinator.com/item?id=35991791))
+- [ChatGPT Plugins on Cloudflare](https://github.com/cloudflare/chatgpt-plugin)
