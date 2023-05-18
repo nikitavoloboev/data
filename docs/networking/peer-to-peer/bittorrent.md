@@ -161,3 +161,4 @@ title: BitTorrent
 - [Torrent / YouTube Leecher](https://github.com/SpEcHiDe/PublicLeech)
 - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/) ([HN](https://news.ycombinator.com/item?id=35639370))
 - [vortex](https://github.com/Nehliin/vortex) - io_uring torrent client.
+- [trident](https://github.com/rosalogia/trident) - Simple torrent client written in Rust.

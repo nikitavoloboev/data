@@ -202,3 +202,4 @@ title: Rails
 - [Building GitHub with Ruby on Rails (2023)](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/) ([HN](https://news.ycombinator.com/item?id=35478884))
 - [GoodJob](https://github.com/bensheldon/good_job) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 - [Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
+- [Organize Business Logic in Your Ruby on Rails Application (2023)](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)

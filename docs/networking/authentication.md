@@ -321,3 +321,4 @@ Use [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web 
 - [Purpose of OAuth 2](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
 - [gotrue-js](https://github.com/supabase/gotrue-js) - Isomorphic JavaScript library for GoTrue.
 - [Cedar](https://github.com/cedar-policy/cedar) - Language for writing and enforcing authorization policies in your applications.
+- [oauth Go library](https://github.com/cli/oauth) - Library for performing OAuth Device flow and Web application flow in Go client apps.

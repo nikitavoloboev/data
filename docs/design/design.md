@@ -282,3 +282,4 @@ More people should [do design in the open](https://twitter.com/CharlesPattson/st
 - [Reflect's design page](https://share.cleanshot.com/D8xF7kC2)
 - [How Airbnb organizes the designs (2023)](https://twitter.com/bchesky/status/1654137863007612930)
 - [Brutalist Web Design](https://brutalist-web.design/)
+- [Ten Principles for Good Design](https://tenprinciples.design/) ([Code](https://github.com/joe-bell/tenprinciples.design))

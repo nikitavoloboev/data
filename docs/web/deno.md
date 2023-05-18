@@ -388,3 +388,4 @@ I deploy all Deno code using [Deno Deploy](https://deno.com/). [Deploying Deno o
 - [Deno 1.33: Deno 2 is coming (2023)](https://deno.com/blog/v1.33) ([HN](https://news.ycombinator.com/item?id=35750369))
 - [Running JavaScript in Rust with Deno: Experimenting with Deno's Rust Crates (2023)](https://austinpoor.com/blog/js-in-rs) ([HN](https://news.ycombinator.com/item?id=35816224))
 - [Open Graph Image Generation](https://github.com/ascorbic/og-edge) - Generate Open Graph images with Deno and Netlify Edge Functions, no framework needed.
+- [deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno.

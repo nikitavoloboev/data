@@ -65,3 +65,4 @@
 - [Manitas](https://github.com/nacmartin/manitas) - Move your fingers in the air to interact with a computer.
 - [Monaco-powered WebR "REPL"](https://github.com/hrbrmstr/webr-monaco-repl)
 - [Awesome WebXR Development](https://github.com/Pico-Developer/awesome-webxr-development)
+- [Virtual Occlusions Through Implicit Depth (2023)](https://nianticlabs.github.io/implicit-depth/) ([Code](https://github.com/nianticlabs/implicit-depth))

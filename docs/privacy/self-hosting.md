@@ -1,5 +1,7 @@
 # Self hosting
 
+[Cozy Cloud](https://github.com/cozy/cozy-stack) is interesting.
+
 ## Links
 
 - [Lobsters: What are you self hosting? (2021)](https://lobste.rs/s/p4edt5/what_are_you_self_hosting_2021) ([2019 version](https://lobste.rs/s/xreuus/what_are_you_self_hosting)) ([2020 version](https://lobste.rs/s/c54fev/what_are_you_self_hosting_2020))

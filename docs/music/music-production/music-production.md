@@ -565,3 +565,4 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [Building a Multiplayer Piano](https://github.com/jenseng/abuse-the-platform)
 - [AlgaLib](https://github.com/vitreo12/AlgaLib) - SuperCollider implementation of Alga, an interpolating live coding environment.
 - [Omni](https://github.com/vitreo12/omni) - DSL for low-level audio programming.
+- [IMSLP](https://imslp.org/) - Free Sheet Music PDF Download. ([HN](https://news.ycombinator.com/item?id=35979977))

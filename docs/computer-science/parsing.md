@@ -171,3 +171,4 @@
 - [Parsing with Zippers](https://github.com/Ucombinator/parsing-with-zippers)
 - [Constructing human-grade parsers (2018)](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 - [My Interview with Eelco Visser on Parsing (2023)](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
+- [astmaker](https://github.com/linkdd/astmaker) - Build Abstract Syntax Trees and tree-walking models quickly in Rust. ([Article](https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831)) ([HN](https://news.ycombinator.com/item?id=35978575))

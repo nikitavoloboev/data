@@ -516,3 +516,4 @@ title: PyTorch
 - [dreamfields-torch](https://github.com/ashawkey/dreamfields-torch) - PyTorch implementation of dreamfields with modifications.
 - [MMFashion](https://github.com/open-mmlab/mmfashion) - Open-source toolbox for visual fashion analysis based on PyTorch.
 - [PyTorch Tools](https://github.com/pabloppp/pytorch-tools)
+- [Sample Python extension using Rust/PyO3/tch to interact with PyTorch](https://github.com/LaurentMazare/tch-ext)

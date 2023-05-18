@@ -296,3 +296,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy) ([HN](https://news.ycombinator.com/item?id=35836115))
 - [Computer Graphics Papers](https://github.com/AlexanderVeselov/MyLibrary)
 - [ThreeStudio](https://github.com/threestudio-project/threestudio) - Unified framework for 3D content generation.
+- [Pixar technical library](https://graphics.pixar.com/library/)

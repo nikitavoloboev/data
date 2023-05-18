@@ -112,3 +112,4 @@ Like using [Rive](rive.md) for making animations.
 - [GSAP vs. Webflow for Website Animations](https://www.webbae.net/post/gsap-vs-webflow-for-website-animations)
 - [Scene.js Render](https://github.com/daybrush/scenejs-render) - Make a movie of CSS animation through Scene.js.
 - [What's new in web animations (2023)](https://www.youtube.com/watch?v=oDcb3fvtETs)
+- [Teaching ChatGPT the Art of Lottie Animations (2023)](https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227)

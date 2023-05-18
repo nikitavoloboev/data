@@ -339,3 +339,4 @@ title: HTTP
 - [hprox](https://github.com/bjin/hprox) - Lightweight HTTP/HTTPS proxy server in Haskell.
 - [Introduction to HTTP Multipart (2023)](https://blog.adamchalmers.com/multipart/) ([HN](https://news.ycombinator.com/item?id=35704101))
 - [TReq](https://github.com/talis-fb/TReq) - Client to make HTTP requests for Hacker Users.
+- [Improving Performance with HTTP Streaming (2023)](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408) ([HN](https://news.ycombinator.com/item?id=35982732))

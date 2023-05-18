@@ -39,3 +39,4 @@ title: DuckDB
 - [DuckDB Swift](https://github.com/duckdb/duckdb-swift) - Native Swift API for DuckDB.
 - [fasql](https://github.com/wheretrue/fasql) - DuckDB Extension for Reading FASTA and FASTQ Files.
 - [ZuckDB.zig](https://github.com/karlseguin/zuckdb.zig) - DuckDB driver for Zig.
+- [DuckDB 0.8 (2023)](https://duckdb.org/2023/05/17/announcing-duckdb-080.html) ([HN](https://news.ycombinator.com/item?id=35983517))

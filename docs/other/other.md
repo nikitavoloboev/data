@@ -792,3 +792,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Url Shortener](https://github.com/738/awesome-url-shortener)
 - [An Internet Canvas](https://notes.mmm.page/paper) ([HN](https://news.ycombinator.com/item?id=35806306))
 - [PID Controller Simualation](https://github.com/sparshg/pid-balancer)
+- [The Bookmarking Data Model Is Wrong For Highlighting (2023)](https://lgug2z.com/articles/the-bookmarking-data-model-is-wrong-for-highlighting/)

@@ -298,3 +298,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [go-webext](https://github.com/AdguardTeam/go-webext) - Automation for working with extension stores.
 - [Arc Will Change the Way You Work on the Web (2023)](https://tidbits.com/2023/05/01/arc-will-change-the-way-you-work-on-the-web/) ([HN](https://news.ycombinator.com/item?id=35800072))
 - [I checked if browsers could cache all bookmarked pages locally (2023)](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf) ([Lobsters](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all))
+- [Pinbot](https://getpinbot.com/) - Privately search your browser history using AI.

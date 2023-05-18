@@ -97,3 +97,4 @@ title: Observability
 - [Getting started with monitoring (2023)](https://fiberplane.com/blog/getting-started-with-monitoring-part-1)
 - [otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts & similar environments.
 - [Teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform.
+- [Read Every Single Error (2023)](https://www.pulumi.com/blog/reducing-our-error-rate/)
