@@ -253,3 +253,4 @@ Trying to build very fast web apps and sites with [Solid](../../programming-lang
 - [multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings.
 - [Using LangChainJS and Cloudflare Workers together (2023)](https://blog.cloudflare.com/langchain-and-cloudflare/) ([HN](https://news.ycombinator.com/item?id=35987413))
 - [How Cloudflare is powering the next generation of platforms with Workers (2023)](https://blog.cloudflare.com/powering-platforms-on-workers/)
+- [Bringing a unified developer experience to Cloudflare Workers and Pages (2023)](https://blog.cloudflare.com/pages-and-workers-are-converging-into-one-experience/)

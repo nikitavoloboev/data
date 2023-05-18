@@ -1185,3 +1185,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [TokenHawk](https://github.com/kayvr/token-hawk) - WebGPU LLM inference tuned by hand.
 - [LMDB](https://github.com/gbasin/LMDB) - Database powered by language models.
 - [ChatALL](https://github.com/sunner/ChatALL) - Chat with ALL AI Bots Concurrently, Discover the Best.
+- [Zeno Build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps.

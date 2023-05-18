@@ -248,3 +248,4 @@ I try to communicate transparently and in detail about things I tried and things
 - [How I give formal written feedback](https://quad.writeas.com/how-i-give-formal-written-feedback)
 - [Common Ground](https://www.commonground.cg/) - Social chat app for communities. Publish news, discuss topics and vote on what matters.
 - [On a technicality (2016)](https://eev.ee/blog/2016/07/22/on-a-technicality/)
+- [Report bugs effectively](https://developer.apple.com/bug-reporting/)

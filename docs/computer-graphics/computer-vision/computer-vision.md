@@ -1258,3 +1258,4 @@
 - [Personalize Segment Anything Model with One Shot (2023)](https://arxiv.org/abs/2305.03048) ([Code](https://github.com/ZrrSkywalker/Personalize-SAM))
 - [Segment Anything 3D](https://github.com/Pointcept/SegmentAnything3D)
 - [FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention](https://github.com/mit-han-lab/fastcomposer)
+- [ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision (2023)](https://gerwang.github.io/shadowneus/) ([Code](https://github.com/gerwang/ShadowNeuS))

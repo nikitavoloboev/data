@@ -382,3 +382,4 @@ Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
 - [StableStudio by Stability AI](https://github.com/Stability-AI/StableStudio) ([HN](https://news.ycombinator.com/item?id=35975578))
 - [Quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it.
 - [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
+- [Google Generative AI Python Client](https://github.com/google/generative-ai-python)
