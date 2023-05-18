@@ -12,6 +12,7 @@ title: Tauri
 
 ## OSS Tauri apps
 
+- [Tauri + Solid + Tailwind CSS + TypeScript + Vite Starter](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite)
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Twidge](https://github.com/twidgeapp/twidge) - Productivity app which is an extension to your mind.
 - [Stable Diffussion Buddy](https://github.com/breadthe/sd-buddy) - Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion.

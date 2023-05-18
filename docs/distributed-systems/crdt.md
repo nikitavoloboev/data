@@ -127,3 +127,4 @@ title: Conflict-free replicated data type
 - [Plain Tree: A Basic List CRDT (2022)](https://mattweidner.com/2022/10/21/basic-list-crdt.html) ([Code](https://github.com/mweidner037/uniquely-dense-total-order))
 - [replicatingtypes](https://github.com/appdecentral/replicatingtypes) - Conflict-Free Replicated Data Types (CRDTs) in Swift.
 - [CRDT Papers](https://crdt.tech/papers.html) ([HN](https://news.ycombinator.com/item?id=35530040))
+- [CRDT-richtext: Rust implementation of Peritext and Fugue (2023)](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0) ([HN](https://news.ycombinator.com/item?id=35988046))

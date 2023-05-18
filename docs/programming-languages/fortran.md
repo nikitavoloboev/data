@@ -32,3 +32,5 @@ title: Fortran
 - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 - [Why Fortran is a scientific powerhouse (2023)](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/) ([Lobsters](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse)) ([HN](https://news.ycombinator.com/item?id=34329913))
 - [FastGPT: Faster than PyTorch in 300 lines of Fortran (2023)](https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/) ([HN](https://news.ycombinator.com/item?id=35159961))
+- [fastGPT](https://github.com/certik/fastGPT) - Fast GPT-2 inference written in Fortran.
+- [PRIMA](https://github.com/libprima/prima) - Package for solving general nonlinear optimization problems without using derivatives.

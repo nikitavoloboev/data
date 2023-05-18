@@ -340,3 +340,4 @@ title: HTTP
 - [Introduction to HTTP Multipart (2023)](https://blog.adamchalmers.com/multipart/) ([HN](https://news.ycombinator.com/item?id=35704101))
 - [TReq](https://github.com/talis-fb/TReq) - Client to make HTTP requests for Hacker Users.
 - [Improving Performance with HTTP Streaming (2023)](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408) ([HN](https://news.ycombinator.com/item?id=35982732))
+- [Security implications of HTTP response headers (2023)](https://snyk.io/blog/security-implications-of-http-response-headers/)

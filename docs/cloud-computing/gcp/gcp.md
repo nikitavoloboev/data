@@ -157,3 +157,4 @@ Also looking into [Railway](https://railway.app/) & [Cloudflare](https://www.clo
 - [SpeedStore](https://github.com/joshsny/SpeedStore) - Blazingly fast Properties storage for Google Apps Script.
 - [Cloud Data Quality Engine](https://github.com/GoogleCloudPlatform/cloud-data-quality)
 - [Software Delivery Workshop](https://github.com/GoogleCloudPlatform/software-delivery-workshop)
+- [Generated code for Google Cloud client libraries](https://github.com/googleapis/go-genproto)

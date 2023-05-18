@@ -114,3 +114,4 @@
 - [DeepL Box](https://github.com/susumuota/deeplbox) - Google Chrome extension to manage DeepL translation history.
 - [How much can Duolingo teach us? (2023)](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us) ([HN](https://news.ycombinator.com/item?id=35662260))
 - [Linguist](https://github.com/translate-tools/linguist) - Powerful browser extension that is ready to replace your favorite translation service. ([Tweet](https://twitter.com/vas3k/status/1652357277293182976))
+- [lancaster-stemmer](https://github.com/words/lancaster-stemmer) - Lancaster stemming algorithm.

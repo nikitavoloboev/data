@@ -799,6 +799,7 @@
 - [bls](https://github.com/w3f/bls) - Aggregatable BLS sigantures.
 - [Rustls FFI bindings](https://github.com/rustls/rustls-ffi) - FFI bindings for the rustls TLS library.
 - [crypto](https://github.com/docknetwork/crypto) - Rust crypto library for data privacy tools.
+- [Plonky3](https://github.com/Plonky3/Plonky3) - Collection of libraries related to polynomial IOPs (PIOPs).
 
 ## Linux
 

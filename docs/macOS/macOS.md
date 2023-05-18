@@ -326,3 +326,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Keyboard tricks from a macOS app dev (2023)](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev) ([HN](https://news.ycombinator.com/item?id=35678269))
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f) ([HN](https://news.ycombinator.com/item?id=35847715))
 - [Diving into a secret macOS tool - networkQuality (2023)](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/) ([HN](https://news.ycombinator.com/item?id=35936999))
+- [Eighty Shades of Option Key](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)

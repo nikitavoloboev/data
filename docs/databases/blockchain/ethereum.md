@@ -789,3 +789,4 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [ZeroSeeker](https://github.com/darkforestry/zero-seeker) - Rust-based command-line utility that generates Ethereum contract addresses with a specified number of leading or total zero bytes.
 - [Optimism](https://github.com/refcell/optimism-rs) - Low-cost and lightning-fast Ethereum L2 blockchain.
 - [Artemis](https://github.com/paradigmxyz/artemis) - Simple, modular, and fast framework for writing MEV bots in Rust.
+- [Octane](https://github.com/SorellaLabs/ethers-reth) - ether-rs middleware to access reth's db directly, bypassing JSON-RPC.

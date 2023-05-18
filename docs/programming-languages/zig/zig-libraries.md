@@ -196,3 +196,4 @@
 - [mach/wasmserve](https://github.com/machlibs/wasmserve) - Small web server specifically for serving Zig WASM applications in development.
 - [zig-fetch](https://github.com/bootradev/zig-fetch) - Dependency management solution for zig projects.
 - [Zig Pkg](https://kassane.github.io/2023/05/03/zig-pkg/) - Zig package manager - brief tutorial.
+- [Zig now has built-in HTTP server and client in std](https://news.ycombinator.com/item?id=35991684)

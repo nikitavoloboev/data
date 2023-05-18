@@ -363,3 +363,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [Cloudflare Vector Search](https://github.com/team-openpm/cloudflare-vector-search) - Allows you to perform a semantic search over a set of documents.
 - [Fitting millions of documents in 128 TB of virtual memory (2023)](https://blog.meilisearch.com/dynamic-virtual-address-management/) ([Lobsters](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb))
 - [USearch](https://github.com/unum-cloud/usearch) - Smaller & Faster Single-File Vector Search Engine.
+- [txi](https://github.com/anywhichway/txi) - Small, focused full-text indexing and search library for any JavaScript application.

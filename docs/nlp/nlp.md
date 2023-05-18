@@ -1179,3 +1179,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Rebuff](https://github.com/woop/rebuff) - Prompt Injection Detector.
 - [API Bot tutorial](https://github.com/poe-platform/api-bot-tutorial)
 - [openai-ext](https://github.com/justinmahar/openai-ext) - Extension to OpenAI's API to support streaming chat completions.
+- [Langdock](https://www.langdock.com/) - Open Source LLM Plugin Platform..
+- [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain)
+- [SuperAgent](https://github.com/homanp/superagent) - Deploy LLM Agents to production.
+- [TokenHawk](https://github.com/kayvr/token-hawk) - WebGPU LLM inference tuned by hand.
+- [LMDB](https://github.com/gbasin/LMDB) - Database powered by language models.

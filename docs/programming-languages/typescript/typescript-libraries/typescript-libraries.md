@@ -13,6 +13,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## DB
 
 - [cachified](https://github.com/Xiphe/cachified) - Wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support.
+- [LibSQL TS Client](https://github.com/libsql/libsql-client-ts)
 - [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL.
 - [better-sql.ts](https://github.com/beenotung/better-sql) - Generate SQL query from a concise query syntax inspired from EdgeDB and GraphQL.
 - [DatX](https://github.com/infinum/datx) - Opinionated JS/TS data store.

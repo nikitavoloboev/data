@@ -178,3 +178,4 @@
 - [casual-markdown](https://github.com/casualwriter/casual-markdown) - Lightweight regexp-based markdown parser, with TOC and scrollspy support.
 - [Markdown Exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) - Utility to get the plain text content of an mdast node.
+- [strip-markdown](https://github.com/remarkjs/strip-markdown) - Plugin remove Markdown formatting.

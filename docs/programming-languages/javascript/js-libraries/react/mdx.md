@@ -51,3 +51,4 @@ title: MDX
 - [MDX-Rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust.
 - [Expo MDX](https://github.com/EvanBacon/expo-mdx) - MDX support for React Native projects.
 - [semantic-search](https://github.com/beerose/semantic-search) - OpenAI-powered CLI to build a semantic search index from your MDX files.
+- [mdast-util-mdx-jsx](https://github.com/syntax-tree/mdast-util-mdx-jsx) - mdast extension to parse and serialize MDX JSX.
