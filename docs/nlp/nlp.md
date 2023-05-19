@@ -1186,3 +1186,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [LMDB](https://github.com/gbasin/LMDB) - Database powered by language models.
 - [ChatALL](https://github.com/sunner/ChatALL) - Chat with ALL AI Bots Concurrently, Discover the Best.
 - [Zeno Build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps.
+- [TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)](https://arxiv.org/abs/2305.07759)

@@ -64,3 +64,4 @@ Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reacti
 - [Signals For Solid, Qwik And React (2023)](https://www.youtube.com/watch?v=ZLMjJL70glE)
 - [Signia](https://github.com/tldraw/signia) - Reactive signals that scale, by tldraw.
 - [This Week in J̶a̶v̶a̶S̶c̶r̶i̶p̶t̶ Signals (2023)](https://www.youtube.com/watch?v=g584AIL1HtI)
+- [Managing State with Signals (2023)](https://tonsky.me/blog/humble-signals/) ([HN](https://news.ycombinator.com/item?id=35973151))

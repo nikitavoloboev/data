@@ -334,3 +334,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [LiQuery](https://github.com/haxtra/liquery) - Powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases.
 - [super-sqlite3](https://github.com/haxtra/super-sqlite3) - SQLite library with optional full db encryption, simple query builder, and a host of utility features, all in one neat package.
 - [SQLite Release 3.42.0 (2023)](https://sqlite.org/releaselog/3_42_0.html) ([HN](https://news.ycombinator.com/item?id=35962213))
+- [CG/SQL](https://cgsql.dev/) - Code Generator for SQLite. ([HN](https://news.ycombinator.com/item?id=35981828))

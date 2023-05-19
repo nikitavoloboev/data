@@ -15,3 +15,4 @@ title: Midjourney
 - [How I used Midjourney to design a brand identity (2023)](https://uxdesign.cc/how-i-used-midjourney-to-design-a-brand-identity-394cf9ddaeed)
 - [Midjourney Reborn](https://github.com/oelin/midjourney-reborn) - Discord bot for all your Midjourney needs.
 - [midjourney-api](https://github.com/erictik/midjourney-api) - Node.js client for the unofficial MidJourney API.
+- [Design and Prototype Apps with Midjourney - Design+Code](https://designcode.io/midjourney)

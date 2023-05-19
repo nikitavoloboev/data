@@ -173,3 +173,5 @@ Having said all of above, I think the most effective approach is having a great 
 - [It took me a long time to realise this, but women actually like to be approached. They also respect guys more who do.](https://www.reddit.com/r/seduction/comments/12e29cv/it_took_me_a_long_time_to_realise_this_but_women/)
 - [How to Carry Self Around Someone Who's Rejected You](https://www.reddit.com/r/seduction/comments/12hv1p5/how_to_carry_self_around_someone_whos_rejected_you/)
 - [How to go from Flirting to Sexual](https://www.reddit.com/r/seduction/comments/12zh3qr/how_to_go_from_flirting_to_sexual/)
+- [How to be a f\*ckboy in 2023, a quick guide](https://www.reddit.com/r/seduction/comments/13l2hi8/how_to_be_a_fckboy_in_2023_a_quick_guide/)
+- [How to create/build sexual tension?](https://www.reddit.com/r/seduction/comments/13k5qg0/how_to_createbuild_sexual_tension/)

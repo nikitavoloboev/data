@@ -186,3 +186,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm) - Universal solution that allows any language models to be deployed natively on a diverse set of hardware backends and native applications. ([HN](https://news.ycombinator.com/item?id=35763483))
 - [Ask HN: What do you use for ML Hosting? (2023)](https://news.ycombinator.com/item?id=35792481)
 - [SageMaker Inference Toolkit](https://github.com/aws/sagemaker-inference-toolkit) - Serve machine learning models within a Docker container using Amazon SageMaker.
+- [MTIA v1: Meta's first-generation AI inference accelerator (2023)](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)

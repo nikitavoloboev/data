@@ -125,3 +125,4 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 - [Bevy Vector Shapes](https://github.com/james-j-obrien/bevy_vector_shapes) - Library for rendering vector shapes using the Bevy game engine.
 - [seldom_pixel](https://github.com/Seldom-SE/seldom_pixel) - Bevy plugin for limited color palette pixel art games.
 - [Bevy Image Export](https://github.com/paulkre/bevy_image_export) - Bevy plugin for rendering image sequences.
+- [Bevy and WebGPU (2023)](https://bevyengine.org/news/bevy-webgpu/) ([HN](https://news.ycombinator.com/item?id=35994106))

@@ -358,3 +358,4 @@ I used [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../res
 - [Which mac apps are worth every penny and you can't live without? (2023)](https://www.reddit.com/r/macapps/comments/12tm7f7/which_apps_are_worth_every_penny_and_you_cant/)
 - [What is The Error Code](https://github.com/AvdLee/WhatTheErrorCode) - Convert unreadable errors into understandable descriptions.
 - [Superman](https://github.com/Macjutsu/super) - Optimizes the macOS software update experience.
+- [Software Developer Mac Apps (2023)](https://www.reddit.com/r/macapps/comments/13klofi/software_developer_mac_apps/)

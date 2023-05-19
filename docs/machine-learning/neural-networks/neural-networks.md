@@ -354,3 +354,4 @@
 - [Language models can explain neurons in language models (2023)](https://openai.com/research/language-models-can-explain-neurons-in-language-models) ([HN](https://news.ycombinator.com/item?id=35877402))
 - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper (2023)](https://news.ycombinator.com/item?id=35977891)
 - [Structural Probes](https://github.com/john-hewitt/structural-probes) - Codebase for testing whether hidden states of neural networks encode discrete structures.
+- [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes (2022)](https://huggingface.co/blog/hf-bitsandbytes-integration)

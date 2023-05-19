@@ -22,6 +22,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 
 ## CLI
 
+- [clap](https://github.com/fred1268/go-clap) - Lightweight, non intrusive Command Line Argument Parser.
 - [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E)) ([HN](https://news.ycombinator.com/item?id=31328205)) ([Template](https://github.com/caarlos0/bubbletea-app-template)) ([Intro to Bubble Tea in Go](https://dev.to/andyhaskell/intro-to-bubble-tea-in-go-21lg))
 - [Bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea. ([Non Official](https://github.com/mritd/bubbles))
