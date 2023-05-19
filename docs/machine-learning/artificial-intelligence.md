@@ -225,3 +225,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [Google “We Have No Moat, and Neither Does OpenAI” (2023)](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) ([HN](https://news.ycombinator.com/item?id=35813322))
 - [A Generalist Agent (2022](https://arxiv.org/abs/2205.06175) ([Code](https://github.com/OrigamiDream/gato))
 - [Interactive AI training simuation](https://github.com/sparshg/asteroids-genetic)
+- [Ask HN: Will AI result in mass silo-ing of new knowledge? (2023)](https://news.ycombinator.com/item?id=36003507)

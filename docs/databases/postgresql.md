@@ -702,3 +702,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my P
 - [Understanding database Indexes in PostgreSQL (2023)](https://blog.mastermind.dev/indexes-in-postgresql)
 - [Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer) ([HN](https://news.ycombinator.com/item?id=35981238))
 - [Postgres AI Playground](https://postgres-ai-playground.vercel.app/) ([Code](https://github.com/neondatabase/postgres-ai-playground))
+- [Migrating from Supabase (2023)](https://blog.val.town/blog/migrating-from-supabase) ([HN](https://news.ycombinator.com/item?id=36004925))
