@@ -665,6 +665,7 @@
 - [SwiftUI Plus](https://github.com/shaps80/SwiftUIPlus) - SwiftUI additions and helpers that are missing from the official implementation.
 - [CocoaUI](https://github.com/p-x9/CocoaUI) - Obtain and customize UIKit/Cocoa objects from SwiftUI components.
 - [Custom Stack Navigation for SwiftUI](https://github.com/FluidGroup/swiftui-stack)
+- [SwiftFields](https://github.com/schwa/SwiftFields) - Collection of SwiftUI widgets for editing data.
 
 ## Test
 

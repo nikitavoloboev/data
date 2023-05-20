@@ -480,3 +480,4 @@ I wish someone built a nice UI/UX gaming track site like [Letterboxd](https://le
 - [Something like zombies but not typical zombies (2023)](https://www.reddit.com/r/MovieSuggestions/comments/10jfocw/something_like_zombies_but_not_typical_zombies/)
 - [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Epic Games Store Weekly Free Games](https://github.com/claabs/epicgames-freegames-node)
+- [FUE5](https://github.com/FUE5BASE/FUE5) - Fan-made project with the goal to see what would Factorio look like and behave in 3D.

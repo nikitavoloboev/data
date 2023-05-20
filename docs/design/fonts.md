@@ -151,6 +151,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [PromptFont](https://github.com/Shinmera/promptfont) - Font with extra characters for button prompts in games.
 - [Womprat](http://womprat.xyz/)
 - [Fixel Font](https://fixel.macpaw.com/)
+- [Metropolis](https://github.com/dw5/Metropolis) - Modern, geometric typeface.
 
 ## Notes
 

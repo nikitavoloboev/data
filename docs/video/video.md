@@ -530,3 +530,4 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [srt-parser-2](https://github.com/1c7/srt-parser-2) - SRT parser for JavaScript.
 - [Markut](https://github.com/tsoding/markut) - Given the VOD of the stream and the timestamps file, generate a video using ffmpeg that cuts out part of the VOD according to the provided markers.
 - [Plex.tv and Plex Media Server Go client](https://github.com/jrudio/go-plex-client)
+- [YouTube Full Text Search](https://github.com/NotJoeMartinez/yt-fts) - Search all of a channel from the command line. ([HN](https://news.ycombinator.com/item?id=36009774))

@@ -427,6 +427,7 @@ My personal site is currently written with [Solid](../programming-languages/java
 - [Sergii Kharagorgiiev](https://grgv.xyz/blog/)
 - [Adrian Sampson](https://www.cs.cornell.edu/~asampson/blog/)
 - [Bernat Font](https://b-fg.github.io/)
+- [Stephen Haberman](https://www.draconianoverlord.com/posts/)
 
 ## Notes
 

@@ -813,3 +813,5 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Merklizing the key/value store for fun and profit (2023)](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 - [Ask HN: It's 2023, how do you choose between MySQL and Postgres? (2023)](https://news.ycombinator.com/item?id=35906604)
 - [Product Quantization for Vector Search (2023)](https://zilliz.com/blog/scalar-quantization-and-product-quantization) ([HN](https://news.ycombinator.com/item?id=36004401))
+- [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM.
+- [Kayvee](https://github.com/asim/kayvee) - Distributed in-memory key-value store built using hashicorp/memberlist with HTTP API.

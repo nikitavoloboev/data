@@ -33,3 +33,5 @@ title: Bluesky
 - [Bluesky is a scam (2023)](https://fiatjaf.com/ab1127fb.html) ([HN](https://news.ycombinator.com/item?id=35858111))
 - [The AT protocol is the most obtuse crock of shit (2023)](https://urbanists.social/@sam/110339902538138997) ([HN](https://news.ycombinator.com/item?id=35881170))
 - [Bluesky Social App Code](https://github.com/bluesky-social/social-app)
+- [atprototools](https://github.com/ianklatzco/atprototools) - Easy-to-use and ergonomic library for interacting with bluesky.
+- [Flat](https://github.com/sabigara/flat) - Clean, minimal web client for Bluesky.

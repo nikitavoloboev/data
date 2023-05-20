@@ -261,3 +261,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [killport](https://github.com/jkfran/killport) - Command-line tool to easily kill processes running on a specified port. ([HN](https://news.ycombinator.com/item?id=35698282))
 - [sudo-rs](https://github.com/memorysafety/sudo-rs) - Memory safe implementation of sudo and su. ([Article](https://www.memorysafety.org/blog/sudo-and-su/)) ([HN](https://news.ycombinator.com/item?id=35714347))
 - [hunt](https://github.com/LyonSyonII/hunt-rs) - Simplified Find command made with Rust.
+- [script-runner](https://github.com/OLoKo64/script-runner) - Simple threaded CLI script runner.

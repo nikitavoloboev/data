@@ -140,3 +140,4 @@
 - [Reverse engineering an e-ink display (2023)](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/) ([HN](https://news.ycombinator.com/item?id=34738649))
 - [BinSync](https://github.com/binsync/binsync) - Collaborative reversing plugin for cross-decompiler collaboration, built on git.
 - [Scripts for Binary Ninja](https://github.com/trailofbits/binjascripts)
+- [ImHex Database](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor.

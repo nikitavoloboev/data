@@ -23,3 +23,4 @@
 - [CoreML Benchmark for the iPhone 14 Pro (2022)](https://www.photoroom.com/tech/core-ml-performance-2022/) ([HN](https://news.ycombinator.com/item?id=32871856))
 - [CoreML Player](https://github.com/npna/CoreMLPlayer) - Try your CoreML Models on multiple videos and images easily and quickly.
 - [Convert a transformers model to Core ML](https://huggingface.co/spaces/huggingface-projects/transformers-to-coreml)
+- [NSFWDetector](https://github.com/lovoo/NSFWDetector) - Small (17 kB) CoreML Model to scan images for nudity.

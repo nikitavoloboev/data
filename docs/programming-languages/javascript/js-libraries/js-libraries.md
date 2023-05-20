@@ -1148,6 +1148,7 @@
 - [open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get, set, or delete a property from a nested object using a dot path.
 - [headless-qr](https://github.com/Rich-Harris/headless-qr) - Simple, modern QR code library.
+- [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL.
 
 ## Links
 

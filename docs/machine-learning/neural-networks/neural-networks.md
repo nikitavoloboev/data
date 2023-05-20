@@ -355,3 +355,4 @@
 - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper (2023)](https://news.ycombinator.com/item?id=35977891)
 - [Structural Probes](https://github.com/john-hewitt/structural-probes) - Codebase for testing whether hidden states of neural networks encode discrete structures.
 - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes (2022)](https://huggingface.co/blog/hf-bitsandbytes-integration)
+- [Stanford Seminar - Transformers United: Introduction to Transformers (2023)](https://www.youtube.com/watch?v=XfpMkf4rD6E)

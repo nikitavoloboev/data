@@ -450,6 +450,7 @@
 - [boring](https://github.com/phadej/boring) - Boring and Absurd types.
 - [troupe](https://github.com/NicolasT/troupe) - Haskell Actors.
 - [crem](https://github.com/marcosh/crem) - Compositional Representable Executable Machines.
+- [Hagato](https://github.com/typedbyte/hagato) - Haskell Gamedev Toolkit, a library for developing games from scratch.
 
 ## Notes
 

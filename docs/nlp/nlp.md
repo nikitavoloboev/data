@@ -1188,3 +1188,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Zeno Build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps.
 - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)](https://arxiv.org/abs/2305.07759)
 - [LangChain: The Missing Manual (2023)](https://www.pinecone.io/learn/langchain/) ([HN](https://news.ycombinator.com/item?id=36001465))
+- [LLM VM](https://github.com/anarchy-ai/LLM-VM) - LLM infrastructure for developers.
+- [LLM-Pruner](https://github.com/horseee/LLM-Pruner) - On the Structural Pruning of Large Language Models.
+- [Poe API Node](https://github.com/AHGGG/poe-node-api)
+- [Danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise Question-Answering.
+- [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://github.com/OpenGVLab/Instruct2Act)

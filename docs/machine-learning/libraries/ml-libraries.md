@@ -494,3 +494,5 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [FLAML](https://github.com/microsoft/FLAML) - Fast library for AutoML and tuning.
 - [ms2ml](https://github.com/jspaezp/ms2ml) - Helps you convert raw mass spec data into tensors.
 - [eindex](https://github.com/arogozhnikov/eindex) - Multidimensional indexing for tensors.
+- [Unmanic](https://github.com/Unmanic/unmanic) - Library Optimiser.
+- [scikit-matter](https://github.com/lab-cosmo/scikit-matter) - Collection of scikit-learn compatible utilities that implement methods born out of the materials science and chemistry communities.

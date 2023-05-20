@@ -620,3 +620,4 @@ for i, _ in enumerate(nums):
 - [Faster CPython at PyCon, part one (2023)](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/) ([HN](https://news.ycombinator.com/item?id=35902506))
 - [Microsoft Python Discord](https://discord.com/invite/b8YJQPx)
 - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages) ([Lobsters](https://lobste.rs/s/2vj6kz/python_family_languages))
+- [PyStack](https://github.com/bloomberg/pystack) - Print the stack trace of a running Python process, or of a Python core dump.

@@ -146,3 +146,4 @@ title: Apache Kafka
 - [FastKafka](https://github.com/airtai/fastkafka) - Powerful and easy-to-use Python library for building asynchronous web services that interact with Kafka topics. ([HN](https://news.ycombinator.com/item?id=35086594))
 - [Kafka exporter for Prometheus](https://github.com/danielqsj/kafka_exporter)
 - [Kafka vs Redpanda Performance - Do the claims add up? (2023)](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up) ([HN](https://news.ycombinator.com/item?id=35949771))
+- [Datagen CLI](https://github.com/MaterializeInc/datagen) - Generate authentic looking mock data based on a SQL, JSON or Avro schema and produce to Kafka in JSON or Avro format.

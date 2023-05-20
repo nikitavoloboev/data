@@ -200,3 +200,4 @@ This [talk](https://youtu.be/BH2jvJ74npM?t=1962) was great for tips on writing p
 - [Deep Neural Networks from Scratch in Zig (2023)](https://monadmonkey.com/dnns-from-scratch-in-zig) ([Lobsters](https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig))
 - [SIMD with Zig (2023)](https://www.openmymind.net/SIMD-With-Zig/) ([HN](https://news.ycombinator.com/item?id=35782825))
 - [Bootstrapping Uber’s Infrastructure on arm64 with Zig (2023)](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/) ([Lobsters](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on))
+- [My Zig Experience | Prime Reacts (2023)](https://www.youtube.com/watch?v=SBe8DgBCjTc)

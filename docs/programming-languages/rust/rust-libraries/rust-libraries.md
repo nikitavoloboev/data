@@ -800,6 +800,7 @@
 - [Rustls FFI bindings](https://github.com/rustls/rustls-ffi) - FFI bindings for the rustls TLS library.
 - [crypto](https://github.com/docknetwork/crypto) - Rust crypto library for data privacy tools.
 - [Plonky3](https://github.com/Plonky3/Plonky3) - Collection of libraries related to polynomial IOPs (PIOPs).
+- [bcrypt](https://github.com/Keats/rust-bcrypt) - Easily hash and verify passwords using Bcrypt.
 
 ## Linux
 
@@ -1123,6 +1124,7 @@
 - [RustQuant](https://github.com/avhz/RustQuant) - Rust library for quantitative finance.
 - [primal](https://github.com/huonw/primal) - Puts raw power into prime numbers.
 - [scilib](https://github.com/At0micBee/scilib) - Rust crate for mathematics and science.
+- [baby_shark](https://github.com/dima634/baby_shark) - Geometry processing library in pure rust.
 
 ## CSS
 
@@ -2847,6 +2849,10 @@
 - [flatty](https://github.com/agerasev/flatty) - Flat message buffers with direct mapping to Rust types without packing/unpacking.
 - [lasso](https://github.com/Kixiron/lasso) - Fast, concurrent string interner.
 - [Self-Replace](https://github.com/mitsuhiko/self-replace) - Utility library that helps to implement processes that replace themselves.
+- [bsuccinct-rs](https://github.com/beling/bsuccinct-rs) - Succinct data structures and other libraries for Rust.
+- [tracing-panic](https://github.com/LukeMathWalker/tracing-panic) - Make panics visible in your telemetry pipeline.
+- [textdistance.rs](https://github.com/life4/textdistance.rs) - Rust library to compare strings (or any sequences). 25+ algorithms, pure Rust, common interface, Unicode support.
+- [feattle](https://github.com/sitegui/feattle-rs) - Feature toggles for Rust, extensible and with background synchronization and administration UI.
 
 ## Cargo Plugins
 

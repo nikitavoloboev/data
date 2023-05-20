@@ -393,3 +393,4 @@ title: Svelte
 - [Zero-config PWA Plugin for SvelteKit](https://github.com/vite-pwa/sveltekit)
 - [Svelte Summit Spring 2023](https://www.youtube.com/watch?v=0bog8-Ay7CU)
 - [Svelte TipTap](https://github.com/sibiraj-s/svelte-tiptap) - Svelte components for TipTap.
+- [Carta](https://github.com/BearToCode/carta-md) - Lightweight, fast and extensible Svelte Markdown editor and viewer.
