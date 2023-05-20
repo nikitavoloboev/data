@@ -576,3 +576,4 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Noether programming language](https://github.com/noether-lang/noether)
 - [RowScript](https://github.com/rowscript/rowscript) - Robustly-typed functional language that compiles to efficient and reliable JavaScript.
 - [Way to Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai) - Gradual guide to discover and learn the Jai programming language.
+- [What is the last programming language you learned and why? (2023)](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)

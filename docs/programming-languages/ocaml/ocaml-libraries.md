@@ -295,3 +295,4 @@ title: OCaml libraries
 - [OCaml PPX Template](https://github.com/johnyob/ppx-template)
 - [Solver Service](https://github.com/ocurrent/solver-service) - OCurrent service for solving opam dependencies.
 - [Yoshi](https://github.com/tmattio/yoshi) - Convert Markdown and YAML Data to OCaml Modules.
+- [Petrol: embedding a type-safe SQL API in OCaml using GADTs (2023)](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)

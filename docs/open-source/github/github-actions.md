@@ -362,6 +362,7 @@ title: GitHub actions
 ## Zig
 
 - [Setup Zig](https://github.com/korandoru/setup-zig) - Set up your GitHub Actions workflow with a specific version of Zig.
+- [Zig Cache](https://github.com/Hanaasagi/zig-action-cache)
 
 ## Lua
 

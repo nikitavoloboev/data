@@ -10,6 +10,7 @@ Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for lan
 
 ## Websites
 
+- [Evervault](https://evervault.com/)
 - [Astro](https://astro.build/)
 - [OpenAI](https://openai.com/)
 - [Campsite](https://www.campsite.design/)
@@ -298,6 +299,7 @@ Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for lan
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
 - [George Kedenburg III](https://gk3.website/)
 - [Alistair Shepherd](https://alistairshepherd.uk/)
+- [Igor Bedesqui](https://www.igorbedesqui.com/) ([Code](https://github.com/bdsqqq/igorbedesqui.com))
 - [Surma](https://surma.dev/) ([Code](https://github.com/surma/surma.dev))
 - [Alain](https://alain.xyz/)
 - [SJ Zhang](https://www.sj.land/) ([Tweet](https://twitter.com/sjzhang_/status/1526189236084408324))

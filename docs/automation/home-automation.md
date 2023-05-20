@@ -95,3 +95,4 @@
 - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth (2023)](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html) ([Lobsters](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s))
 - [Plugins Verified by Homebridge](https://github.com/homebridge/verified)
 - [Home Assistant Discord](https://discord.com/invite/home-assistant)
+- [Using ChatGPT for Home Automation (2023)](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html) ([HN](https://news.ycombinator.com/item?id=36013571))

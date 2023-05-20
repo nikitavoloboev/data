@@ -255,3 +255,4 @@ Trying to build very fast web apps and sites with [Solid](../../programming-lang
 - [How Cloudflare is powering the next generation of platforms with Workers (2023)](https://blog.cloudflare.com/powering-platforms-on-workers/)
 - [Bringing a unified developer experience to Cloudflare Workers and Pages (2023)](https://blog.cloudflare.com/pages-and-workers-are-converging-into-one-experience/)
 - [Cloudflare Basics](https://github.com/maccman/cloudflare-basics) - Just the basics and nothing more.
+- [D1: We turned it up to 11 (2023)](https://blog.cloudflare.com/d1-turning-it-up-to-11/) ([HN](https://news.ycombinator.com/item?id=36001474))

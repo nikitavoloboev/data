@@ -1138,3 +1138,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Rust 101 Crash Course (2022)](https://www.youtube.com/watch?v=lzKeecy4OmQ)
 - [Dioxus + TailwindCSS](https://github.com/LyonSyonII/dioxus-tailwindcss) - Template for the Rust Web/Desktop framework Dioxus + TailwindCSS.
 - [A guide to test parametrization in Rust (2023)](https://unterwaditzer.net/2023/rust-test-parametrization.html) ([HN](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust))
+- [Giving, lending, and async closures (2023)](https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/)

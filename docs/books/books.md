@@ -657,3 +657,4 @@ Love how some started making GPT programs tuned to specific books like [this](ht
 - [What is your favorite book, that is at least 100 years old? (2023)](https://www.reddit.com/r/books/comments/12kw5x2/what_is_your_favourite_book_that_is_at_least_100/)
 - [A visual book recommender (2023)](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/) ([HN](https://news.ycombinator.com/item?id=35726559))
 - [Ask HN: How do you synthesize books that you read? (2023)](https://news.ycombinator.com/item?id=35728268)
+- [Writing summaries is more important than reading more books (2023)](https://www.andreasfragner.com/writing/writing-summaries) ([HN](https://news.ycombinator.com/item?id=36011599))

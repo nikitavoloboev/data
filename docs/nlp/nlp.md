@@ -1193,3 +1193,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Poe API Node](https://github.com/AHGGG/poe-node-api)
 - [Danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise Question-Answering.
 - [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://github.com/OpenGVLab/Instruct2Act)
+- [Langchain Chat Bot](https://github.com/Haste171/langchain-chatbot) - AI Chatbot for analyzing/extracting information from data in conversational format. Mainly PDF files.
+- [Lanarky](https://github.com/ajndkr/lanarky) - Ship production-ready LLM projects with FastAPI.
+- [Emdash](https://github.com/dmotz/emdash) - Uses AI to organize text snippets so you can actually remember & learn from what you read.
+- [PyLLMs](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.

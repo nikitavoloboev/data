@@ -3207,3 +3207,4 @@
 - [Rust's powerful macros explained](https://twitter.com/w_hgm/status/1650913814693527553)
 - [Emerging Rust GUI libraries in a WASM world (2023)](https://monadical.com/posts/shades-of-rust-gui-library-list.html) ([HN](https://news.ycombinator.com/item?id=35722681))
 - [Let's try every rust gui library and see how they fare](https://github.com/d86leader/every-rust-gui-library)
+- [Awesome Small Rust libraries](https://github.com/alexwennerberg/awesome-small-rust)
