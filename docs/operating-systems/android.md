@@ -106,3 +106,4 @@ title: Android
 - [Kotlin DSL is Now the Default for New Gradle Builds (2023)](https://blog.gradle.org/kotlin-dsl-is-now-the-default-for-new-gradle-builds)
 - [Voyager](https://github.com/adrielcafe/voyager) - Pragmatic navigation library for Jetpack Compose.
 - [Telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI.
+- [Next Player](https://github.com/anilbeesetti/nextplayer) - Android native video player.

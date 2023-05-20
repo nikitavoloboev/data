@@ -1204,3 +1204,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (2023)](https://arxiv.org/abs/2305.10601) ([Code](https://github.com/ysymyth/tree-of-thought-llm))
 - [llm, ttok and strip-tags—CLI tools for working with ChatGPT and other LLMs (2023)](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 - [GPTeam](https://github.com/101dotxyz/GPTeam) - Open-source multi-agent simulation.
+- [python-llm](https://github.com/danielgross/python-llm) - LLM API for Humans.
+- [Plug and Plai](https://github.com/edreisMD/plugnplai) - Integrating AI plugins to LLMs.

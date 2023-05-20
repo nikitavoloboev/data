@@ -2853,6 +2853,9 @@
 - [tracing-panic](https://github.com/LukeMathWalker/tracing-panic) - Make panics visible in your telemetry pipeline.
 - [textdistance.rs](https://github.com/life4/textdistance.rs) - Rust library to compare strings (or any sequences). 25+ algorithms, pure Rust, common interface, Unicode support.
 - [feattle](https://github.com/sitegui/feattle-rs) - Feature toggles for Rust, extensible and with background synchronization and administration UI.
+- [KAS Text](https://github.com/kas-gui/kas-text) - Rich text processing.
+- [Generic B-Tree](https://github.com/loro-dev/generic-btree) - Pure safe BTree that can be used to build your own special-purpose btree data structure.
+- [dagga](https://github.com/schell/dagga) - DAG scheduler with nice constraint semantics.
 
 ## Cargo Plugins
 

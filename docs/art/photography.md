@@ -283,3 +283,4 @@ Want to build a page [like this](https://johannschopplich.com/en/photography) fo
 - [vkdt](https://vkdt.org/) - Graph-based photography workflow tool. ([Code](https://github.com/hanatos/vkdt))
 - [How to edit photos like Olesya Shatskova](https://www.youtube.com/watch?v=P3ToE7bZVLY)
 - [Show HN: The Leica MPi: A Leica M2 with a Raspberry Pi-Powered Digital Sensor (2023)](https://psychomugs.github.io/mpi) ([HN](https://news.ycombinator.com/item?id=35914651))
+- [FujiHack](https://github.com/fujihack/fujihack) - Reverse engineering Fujifilm firmware.

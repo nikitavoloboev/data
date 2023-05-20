@@ -302,3 +302,4 @@ title: Bioinformatics
 - [lightmotif](https://github.com/althonos/lightmotif) - Lightweight platform-accelerated library for biological motif scanning using position weight matrices.
 - [Rust Pseudoaligner](https://github.com/10XGenomics/rust-pseudoaligner) - Single-Cell RNA-seq pseudo-aligner.
 - [Single-cell best practices](https://github.com/theislab/single-cell-best-practices)
+- [indexedfasta-js](https://github.com/GMOD/indexedfasta-js) - Read FASTA files indexed with .fai indexes. Also supports BGZIP+.gzi.

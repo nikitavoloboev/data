@@ -309,3 +309,4 @@ All active variables can be seen by running `env`.
 - [Mods](https://github.com/charmbracelet/mods) - AI on the command line.
 - [Yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [aider](https://github.com/paul-gauthier/aider) - GPT-4 powered coding in your terminal.
+- [Clive](https://github.com/koki-develop/clive) - Automates terminal operations.

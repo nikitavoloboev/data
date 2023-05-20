@@ -592,3 +592,4 @@ I try build iOS apps either with [SwiftUI](../../programming-languages/swift/swi
 - [walletpass/pass-js](https://github.com/tinovyatkin/pass-js) - Node.js library for generating Apple Wallet passes with localizations.
 - [Pow Examples](https://github.com/movingparts-io/Pow-Examples) - Examples for Pow, the effects framework for SwiftUI.
 - [Gradient Meshes with SceneKit](https://github.com/movingparts-io/Gradient-Meshes-with-SceneKit)
+- [StoreKit 2 Demo app](https://github.com/RevenueCat/storekit2-demo-app)

@@ -286,3 +286,4 @@ title: SwiftUI
 - [Changing orientation for a single screen in SwiftUI (2023)](https://www.polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui)
 - [Playground showing how to compose styles in SwiftUI](https://github.com/movingparts-io/Composable-Styles-Playground)
 - [Playground showing how to style components in SwiftUI](https://github.com/movingparts-io/Styling-Components-Playground)
+- [swoopyui](https://github.com/SKbarbon/swoopyui) - Python library that allow to code swiftUI apps for macOS in python.
