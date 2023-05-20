@@ -22,6 +22,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 
 [LLM-Chain](https://github.com/sobelio/llm-chain) is amazing tool. [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html) is great read.
 
+[This](https://news.ycombinator.com/item?id=35977891) is a great thread to understand transformer neural nets.
+
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
@@ -1197,3 +1199,8 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Lanarky](https://github.com/ajndkr/lanarky) - Ship production-ready LLM projects with FastAPI.
 - [Emdash](https://github.com/dmotz/emdash) - Uses AI to organize text snippets so you can actually remember & learn from what you read.
 - [PyLLMs](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
+- [string2string](https://github.com/stanfordnlp/string2string) - String-to-String Algorithms for Natural Language Processing.
+- [gmessage](https://github.com/drbh/gmessage) - Web UI for gpt4all.
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (2023)](https://arxiv.org/abs/2305.10601) ([Code](https://github.com/ysymyth/tree-of-thought-llm))
+- [llm, ttok and strip-tags—CLI tools for working with ChatGPT and other LLMs (2023)](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+- [GPTeam](https://github.com/101dotxyz/GPTeam) - Open-source multi-agent simulation.

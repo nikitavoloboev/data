@@ -327,3 +327,4 @@ title: Spatial analysis
 - [supercluster](https://github.com/mapbox/supercluster) - Fast geospatial point clustering library for browsers and Node.
 - [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2.
 - [xarray-leaflet](https://github.com/xarray-contrib/xarray_leaflet) - xarray extension for tiled map plotting.
+- [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data)

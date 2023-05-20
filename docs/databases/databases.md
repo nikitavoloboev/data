@@ -815,3 +815,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Product Quantization for Vector Search (2023)](https://zilliz.com/blog/scalar-quantization-and-product-quantization) ([HN](https://news.ycombinator.com/item?id=36004401))
 - [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM.
 - [Kayvee](https://github.com/asim/kayvee) - Distributed in-memory key-value store built using hashicorp/memberlist with HTTP API.
+- [Data wrangling with Data Wrangler (2023)](https://austinhenley.com/blog/datawrangler.html)

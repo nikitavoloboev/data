@@ -152,6 +152,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Womprat](http://womprat.xyz/)
 - [Fixel Font](https://fixel.macpaw.com/)
 - [Metropolis](https://github.com/dw5/Metropolis) - Modern, geometric typeface.
+- [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 
 ## Notes
 
