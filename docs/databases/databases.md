@@ -820,3 +820,4 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [Simplest Vector DB Implementation? (2023)](https://www.reddit.com/r/MachineLearning/comments/13nkp10/d_simplest_vector_db_implementation/)
 - [Vemcache](https://github.com/FaizChishtie/vemcache) - In-memory vector database.
 - [Pinecone Python Client](https://github.com/pinecone-io/pinecone-client)
+- [High-Performance Graph Databases That Are Portable, Programmable, and Scale to Hundreds of Thousands of Cores (2023)](https://arxiv.org/abs/2305.11162) ([HN](https://news.ycombinator.com/item?id=36022042))

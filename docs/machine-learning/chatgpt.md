@@ -350,3 +350,4 @@ It's also great at giving examples.
 - [petrushkaGPT](https://github.com/Esorat/petrushkaGPT) - Integrates ChatGPT, an OpenAI language model, with a Telegram bot in Node.js.
 - [AvaBot](https://github.com/spy16/avabot) - ChatGPT personal assistant bot on Telegram.
 - [Golem](https://github.com/henrycunh/golem) - Beautiful UI for ChatGPT and other conversational models.
+- [Oryx Video ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - Large vision-language model with a dedicated video-encoder and large language model (LLM), enabling video understanding and conversation about videos.

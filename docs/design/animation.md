@@ -113,3 +113,4 @@ Like using [Rive](rive.md) for making animations.
 - [Scene.js Render](https://github.com/daybrush/scenejs-render) - Make a movie of CSS animation through Scene.js.
 - [What's new in web animations (2023)](https://www.youtube.com/watch?v=oDcb3fvtETs)
 - [Teaching ChatGPT the Art of Lottie Animations (2023)](https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227)
+- [Manim Physics](https://github.com/Matheart/manim-physics) - Physics simulation plugin of Manim that can generate scenes in various branches of Physics.

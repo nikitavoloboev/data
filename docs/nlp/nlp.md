@@ -1214,3 +1214,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [BLOOMChat Training Repo](https://github.com/sambanova/bloomchat)
 - [Zep](https://github.com/getzep/zep) - Long-term memory store for LLM / Chatbot applications.
 - [Mercury](https://github.com/Jordan-Gilliam/ai-template) - Train your own custom GPT. Chat with any file, or website.
+- [Nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser.

@@ -329,6 +329,7 @@ Run TS with [Bun](../javascript/bun.md) and deploy [HTTP](../../networking/http.
 - [ValueScript](https://github.com/voltrevo/ValueScript) - Dialect of TypeScript with value semantics.
 - [Implementing the Pipe Operator in TypeScript (2023)](https://www.nexxel.dev/blog/pipe)
 - [Functional Programming with TypeScript's Type System](https://desislav.dev/blog/tsfp/) ([HN](https://news.ycombinator.com/item?id=35588513))
+- [Acorn TypeScript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser.
 
 ## Images
 

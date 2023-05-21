@@ -35,3 +35,4 @@ title: Bluesky
 - [Bluesky Social App Code](https://github.com/bluesky-social/social-app)
 - [atprototools](https://github.com/ianklatzco/atprototools) - Easy-to-use and ergonomic library for interacting with bluesky.
 - [Flat](https://github.com/sabigara/flat) - Clean, minimal web client for Bluesky.
+- [Sky Follower Bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your Twitter follower on Bluesky.

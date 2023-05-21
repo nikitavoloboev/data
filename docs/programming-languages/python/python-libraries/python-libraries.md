@@ -189,6 +189,7 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 - [Rich CLI](https://github.com/Textualize/rich-cli) - Command line toolbox for fancy output in the terminal.
 - [click-params](https://github.com/click-contrib/click_params) - Bunch of click parameters to use.
 - [textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) - Easily add autocomplete dropdowns to your Textual apps.
+- [Trogon](https://github.com/Textualize/trogon) - Auto-generate friendly terminal user interfaces for command line apps.
 
 ## DB
 
