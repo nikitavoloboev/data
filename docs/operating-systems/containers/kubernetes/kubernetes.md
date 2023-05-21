@@ -961,3 +961,4 @@ I personally avoid Kubernetes in favor of [serverless compute](../../../cloud-co
 - [Regatta](https://github.com/jamf/regatta) - Distributed, eventually consistent key-value store built for Kubernetes.
 - [KubeMarine](https://github.com/Netcracker/KubeMarine) - Management tool for Kubernetes cluster deployment and maintenance.
 - [cnspec](https://github.com/mondoohq/cnspec) - Open source, cloud-native security and policy project.
+- [Chisel Kubernetes Operator](https://github.com/FyraLabs/chisel-operator)

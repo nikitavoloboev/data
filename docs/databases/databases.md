@@ -288,6 +288,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [ArcticDB](https://github.com/man-group/ArcticDB) - High performance, serverless DataFrame database built for the Python Data Science ecosystem.
 - [SKDB](https://github.com/SkipLabs/skdb) - SQL database that tells you when your query results changed.
 - [HeisenbergDB](https://github.com/quantanotes/heisenberg) - Distributed vector database.
+- [JunoDB](https://github.com/paypal/junodb) - Secure, consistent and highly available key-value store. ([HN](https://news.ycombinator.com/item?id=35998359))
 
 ## Tools
 
@@ -816,3 +817,6 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM.
 - [Kayvee](https://github.com/asim/kayvee) - Distributed in-memory key-value store built using hashicorp/memberlist with HTTP API.
 - [Data wrangling with Data Wrangler (2023)](https://austinhenley.com/blog/datawrangler.html)
+- [Simplest Vector DB Implementation? (2023)](https://www.reddit.com/r/MachineLearning/comments/13nkp10/d_simplest_vector_db_implementation/)
+- [Vemcache](https://github.com/FaizChishtie/vemcache) - In-memory vector database.
+- [Pinecone Python Client](https://github.com/pinecone-io/pinecone-client)

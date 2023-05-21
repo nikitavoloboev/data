@@ -1182,6 +1182,9 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 - [Optimized Einsum](https://github.com/dgasmith/opt_einsum) - Optimizing einsum functions in NumPy, Tensorflow, Dask, and more with contraction order optimization.
 - [fast_hdbscan](https://github.com/TutteInstitute/fast_hdbscan) - Fast multi-core implementation of HDBSCAN for low dimensional Euclidean spaces.
 - [PandasAI](https://github.com/gventuri/pandas-ai) - Python library that adds generative artificial intelligence capabilities to Pandas.
+- [spiketools](https://github.com/spiketools/spiketools) - Tools for analyzing spiking data.
+- [st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chat-bot UI.
+- [Replicate Python client](https://github.com/replicate/replicate-python)
 
 ## Notes
 

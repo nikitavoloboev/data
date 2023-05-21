@@ -331,6 +331,7 @@ title: GitHub actions
 - [Clippy](https://github.com/giraffate/clippy-action) - Runs Clippy with reviewdog on pull requests to improve code review experience.
 - [Verify with Prusti](https://github.com/viperproject/prusti-action) - Verify Rust code using the Prusti verifier.
 - [release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+- [Clippy Action](https://github.com/auguwu/clippy-action) - GitHub action to run Clippy, an up-to-date and modern version of actions-rs/clippy.
 
 ## Python
 
@@ -674,3 +675,4 @@ title: GitHub actions
 - [Watchgha](https://github.com/nedbat/watchgha) - Watch the progress of GitHub Actions on the command line. ([Article](https://nedbatchelder.com/blog/202303/watchgha.html))
 - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 - [Tartelet](https://github.com/shapehq/tartelet) - macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine.
+- [GitHub Actions Boilerplate for TS](https://github.com/NickLiffen/actions-boilerplate)

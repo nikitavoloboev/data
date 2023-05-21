@@ -1206,3 +1206,11 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [GPTeam](https://github.com/101dotxyz/GPTeam) - Open-source multi-agent simulation.
 - [python-llm](https://github.com/danielgross/python-llm) - LLM API for Humans.
 - [Plug and Plai](https://github.com/edreisMD/plugnplai) - Integrating AI plugins to LLMs.
+- [ChatGPT, GenerativeAI and LLMs Timeline](https://github.com/hollobit/GenAI_LLM_timeline)
+- [Agent Smith](https://github.com/Lef-F/agent-smith) - Customizable CLI agents to answer all your quick questions.
+- [Open LLM Server](https://github.com/dcSpark-AI/open-LLM-server) - Run local LLMs via HTTP API in a single command.
+- [Pinecone Chatbot Demo](https://github.com/pinecone-io/chatbot-demo)
+- [Awesome Rust LLM](https://github.com/jondot/awesome-rust-llm)
+- [BLOOMChat Training Repo](https://github.com/sambanova/bloomchat)
+- [Zep](https://github.com/getzep/zep) - Long-term memory store for LLM / Chatbot applications.
+- [Mercury](https://github.com/Jordan-Gilliam/ai-template) - Train your own custom GPT. Chat with any file, or website.

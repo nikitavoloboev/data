@@ -310,3 +310,4 @@ All active variables can be seen by running `env`.
 - [Yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [aider](https://github.com/paul-gauthier/aider) - GPT-4 powered coding in your terminal.
 - [Clive](https://github.com/koki-develop/clive) - Automates terminal operations.
+- [haxx](https://github.com/henrycunh/haxx) - Easily create and run scripts using JS.

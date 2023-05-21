@@ -14,7 +14,7 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 
 ## OSS React apps
 
-- [UploadThing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs.
+- [UploadThing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs. ([Explained](https://www.youtube.com/watch?v=CtIZiEzdZZc))
 - [Frontend Clean Architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using clean architecture principles.
 - [Linear.app clone](https://github.com/tuan3w/linearapp_clone) - Uses React and Tailwind CSS.
 - [MacOS in React](https://macos.now.sh/) ([Code](https://github.com/PuruVJ/macos-web))

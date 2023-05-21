@@ -332,3 +332,4 @@ title: Swift
 - [swiftly](https://github.com/patrickfreed/swiftly) - CLI tool for installing, managing, and switching between Swift toolchains, written in Swift.
 - [Swift 5.8 Released (2023)](https://www.swift.org/blog/swift-5.8-released/)
 - [Practical Swift Concurrency](https://practicalswiftconcurrency.com/) - Make the most out of Concurrency in Swift 5.7 and beyond.
+- [Distributed Actors in Action using Swift](https://github.com/akbashev/Distributed-Actors-in-Action)

@@ -692,3 +692,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Viewing a pull request's changes since your last review, even in the face of a rebase (2023)](https://daisy.wtf/writing/github-changes-since-last-review/)
 - [GitHoot](https://git.ht/) - Git Hooting. ([HN](https://news.ycombinator.com/item?id=35846667))
 - [GIT HTTP WASM server](https://github.com/petersalomonsen/githttpserver)
+- [tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - Tree-sitter grammar for gitcommit messages.

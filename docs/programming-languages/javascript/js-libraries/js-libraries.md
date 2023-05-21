@@ -1260,3 +1260,4 @@
 - [ES Module Shims](https://github.com/guybedford/es-module-shims) - Shims modern ES Modules features like import maps on top of the baseline modules support in browsers supported by 95% of users.
 - [JavaScript import maps are now supported cross-browser (2023)](https://web.dev/import-maps-in-all-modern-browsers/)
 - [Source Map](https://github.com/mozilla/source-map) - Consume and generate source maps.
+- [rapid](https://github.com/cnpm/rapid) - Fastest way to install npm packages.

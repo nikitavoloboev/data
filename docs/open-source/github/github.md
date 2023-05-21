@@ -526,3 +526,4 @@ Awesome List
 - [GitHub Copilot Chat Leaked Prompt (2023)](https://twitter.com/marvinvonhagen/status/1657060506371346432) ([HN](https://news.ycombinator.com/item?id=35921375))
 - [Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0) ([Tweet](https://twitter.com/anvaka/status/1657416666358374401))
 - [How I manage GitHub Notifications - Anthony Fu (2023)](https://www.youtube.com/watch?v=gu-0b6KCf80) ([Tweet](https://twitter.com/antfu7/status/1659118136866611200?s=20))
+- [Map of GitHub - Data](https://github.com/anvaka/map-of-github-data)

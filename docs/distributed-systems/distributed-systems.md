@@ -322,3 +322,4 @@
 - [Load Balancing (2023)](https://samwho.dev/load-balancing/) ([HN](https://news.ycombinator.com/item?id=35588797)) ([Lobsters](https://lobste.rs/s/kydugs/load_balancing))
 - [Basic Raft implementation in Go](https://github.com/eatonphil/goraft)
 - [From scratch implementation of Raft consensus algorithm in Go](https://github.com/varunu28/graft)
+- [Awesome Load Management](https://github.com/StanzaSystems/awesome-load-management)

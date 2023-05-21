@@ -42,3 +42,4 @@ title: Azure
 - [Docker containers for running training scripts on AzureML](https://github.com/Azure/AzureML-Containers)
 - [Terraform Azure RM Compute Module](https://github.com/Azure/terraform-azurerm-compute)
 - [Azure Data SQL Samples](https://github.com/microsoft/sql-server-samples)
+- [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo)

@@ -142,3 +142,4 @@ Using it to currently to manage my schema and ORM for [LA](../ideas/learn-anythi
 - [The Prisma killer is finally here (2023)](https://www.youtube.com/watch?v=3tl9XCiQErA)
 - [Prisma Editor](https://github.com/mohammed-bahumaish/prisma-editor) - Visualize and edit Prisma Schema.
 - [How We Sped Up Serverless Cold Starts with Prisma by 9x (2023)](https://www.prisma.io/blog/prisma-and-serverless-73hbgKnZ6t?v=2)
+- [Prisma Kysely](https://github.com/valtyr/prisma-kysely) - Generate Kysely types directly from your Prisma schema.

@@ -387,3 +387,4 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [Legacy Verified](https://github.com/roberrrt-s/legacy-verified-extension) - Browser extension to bring back legacy verified accounts on Twitter.
 - [Twitter Backend API implemented in Go](https://github.com/leoantony72/twitter-backend)
 - [Blue Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com.
+- [Remove bad tweets using Arc and AI](https://github.com/vincentmvdm/for-me-page)

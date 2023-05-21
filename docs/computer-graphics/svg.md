@@ -193,3 +193,4 @@
 - [Inlining SVGs for Dark Mode (2023)](https://ahelwer.ca/post/2023-04-06-dark-mode/) ([Lobsters](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode))
 - [Minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon generator. No dependencies.
 - [From SVG to Canvas – Part 1: Making Felt faster (2023)](https://felt.com/blog/from-svg-to-canvas-part-1-making-felt-faster)
+- [Badgers](https://badgers.space/) - Fast and clean SVG badges for your projects. ([Code](https://github.com/splittydev/spacebadgers))

@@ -181,3 +181,4 @@ I don't write LaTeX as much now. [Typst](https://github.com/typst/typst) or [SIL
 - [Awesome Typst](https://github.com/qjcg/awesome-typst)
 - [Typst Templates](https://github.com/typst/templates)
 - [TreeSitter parser for the Typst File Format](https://github.com/SeniorMars/tree-sitter-typst)
+- [typstudio](https://github.com/Cubxity/typstudio) - Desktop application for a new typesetting language, typst.

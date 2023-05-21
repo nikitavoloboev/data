@@ -2856,6 +2856,9 @@
 - [KAS Text](https://github.com/kas-gui/kas-text) - Rich text processing.
 - [Generic B-Tree](https://github.com/loro-dev/generic-btree) - Pure safe BTree that can be used to build your own special-purpose btree data structure.
 - [dagga](https://github.com/schell/dagga) - DAG scheduler with nice constraint semantics.
+- [stack-map](https://github.com/komora-io/stack-map) - Constant-size associative container backed by a simple array.
+- [crumsort-rs](https://github.com/google/crumsort-rs) - Parallelized Rust port of crumsort.
+- [mlir-sys](https://github.com/femtomc/mlir-sys) - Rust bindings to the MLIR C API.
 
 ## Cargo Plugins
 

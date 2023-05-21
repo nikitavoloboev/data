@@ -1510,6 +1510,7 @@
 - [Machismo](https://github.com/g-Off/Machismo) - Mach-O Parser.
 - [SwiftSubtitles](https://github.com/dagronf/SwiftSubtitles) - Swift package for reading/writing subtitle formats (srt, svb, vtt).
 - [Google Generative AI SDK for Swift](https://github.com/google/generative-ai-swift)
+- [Renamed](https://github.com/JosephDuffy/Renamed) - Swift macro to add deprecated symbols, useful when renaming a symbol without introducing a breaking change.
 
 ## Other (not lib)
 

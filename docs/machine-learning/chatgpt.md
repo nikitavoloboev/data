@@ -349,3 +349,4 @@ It's also great at giving examples.
 - [Don Knuth Plays with ChatGPT (2023)](https://cs.stanford.edu/~knuth/chatGPT20.txt) ([HN](https://news.ycombinator.com/item?id=36012360))
 - [petrushkaGPT](https://github.com/Esorat/petrushkaGPT) - Integrates ChatGPT, an OpenAI language model, with a Telegram bot in Node.js.
 - [AvaBot](https://github.com/spy16/avabot) - ChatGPT personal assistant bot on Telegram.
+- [Golem](https://github.com/henrycunh/golem) - Beautiful UI for ChatGPT and other conversational models.

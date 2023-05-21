@@ -1261,3 +1261,5 @@
 - [ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision (2023)](https://gerwang.github.io/shadowneus/) ([Code](https://github.com/gerwang/ShadowNeuS))
 - [ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities (2023)](https://arxiv.org/abs/2305.11172) ([Code](https://github.com/OFA-Sys/ONE-PEACE))
 - [Denoising Diffusion Models: A Generative Learning Big Bang (2023)](https://cvpr2023-tutorial-diffusion-models.github.io/) ([Code](https://github.com/cvpr2023-tutorial-diffusion-models/papers))
+- [LERF: Language Embedded Radiance Fields (2023)](https://www.lerf.io/) ([Code](https://github.com/kerrj/lerf))
+- [Masked Diffusion Transformer is a Strong Image Synthesizer (2023)](https://arxiv.org/abs/2303.14389) ([Code](https://github.com/sail-sg/MDT))

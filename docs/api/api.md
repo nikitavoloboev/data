@@ -144,6 +144,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Digital Ocean Python](https://github.com/koalalorenzo/python-digitalocean)
 - [WhatsApp TS](https://github.com/adiwajshing/Baileys)
 - [WhatsApp Go](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
+- [WhatsApp Go](https://github.com/tulir/whatsmeow)
 - [Facebook Graph API SDK Go](https://github.com/huandu/facebook)
 - [Trello Go](https://github.com/adlio/trello) - Trello API wrapper for Go.
 - [Gumroad Node](https://github.com/noahbuscher/gumnode)
