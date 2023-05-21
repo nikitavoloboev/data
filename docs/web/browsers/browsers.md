@@ -300,3 +300,4 @@ And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](
 - [I checked if browsers could cache all bookmarked pages locally (2023)](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf) ([Lobsters](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all))
 - [Pinbot](https://getpinbot.com/) - Privately search your browser history using AI.
 - [Yes Browser](https://github.com/HamzaM3/yes-browser) - Browser to explore the challenges posed by browsers and what they should be constituted of.
+- [How to Debug Browser Redirects (2023)](https://dodov.dev/blog/how-to-debug-browser-redirects)

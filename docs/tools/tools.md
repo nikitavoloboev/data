@@ -862,3 +862,4 @@ One of my favorite things in life is building little tools for solving even the 
 - [fixgpt](https://github.com/Kelin2025/fixgpt) - AI-based CLI tool for code generation and mass refactoring.
 - [Anthony Fu's Tools](https://github.com/antfu/use)
 - [Ask HN: What productivity tools do you use? (2023)](https://news.ycombinator.com/item?id=35853576)
+- [DiagramGPT](https://www.eraser.io/diagramgpt)

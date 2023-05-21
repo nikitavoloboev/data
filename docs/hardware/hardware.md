@@ -423,3 +423,4 @@
 - [Why Europe Lost Semiconductors (2023)](https://www.youtube.com/watch?v=5ZdmS-EAbHo)
 - [Teenage Engineering TP–7 field recorder](https://teenage.engineering/products/tp-7) ([HN](https://news.ycombinator.com/item?id=35899498))
 - [Patterns in register map design](https://www.devever.net/~hl/regmap)
+- [How Do Semiconductors Work? Introduction to SiliWiz](https://tinytapeout.com/siliwiz/introduction/)

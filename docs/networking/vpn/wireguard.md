@@ -92,4 +92,4 @@ title: WireGuard
 - [Wiretap](https://github.com/sandialabs/wiretap) - Transparent WireGuard proxy server without root. ([HN](https://news.ycombinator.com/item?id=33700136))
 - [WireGuard for the ESP32](https://github.com/ciniml/WireGuard-ESP32-Arduino) ([HN](https://news.ycombinator.com/item?id=34171406))
 - [WG Commander](https://github.com/AndrianBdn/wg-cmd) - TUI for managing WireGuard configuration files.
-- [dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver.
+- [dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver. ([HN](https://news.ycombinator.com/item?id=36015196))
