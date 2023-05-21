@@ -1201,7 +1201,7 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [PyLLMs](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
 - [string2string](https://github.com/stanfordnlp/string2string) - String-to-String Algorithms for Natural Language Processing.
 - [gmessage](https://github.com/drbh/gmessage) - Web UI for gpt4all.
-- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (2023)](https://arxiv.org/abs/2305.10601) ([Code](https://github.com/ysymyth/tree-of-thought-llm))
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (2023)](https://arxiv.org/abs/2305.10601) ([Code](https://github.com/ysymyth/tree-of-thought-llm)) ([Code](https://github.com/kyegomez/tree-of-thoughts))
 - [llm, ttok and strip-tags—CLI tools for working with ChatGPT and other LLMs (2023)](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 - [GPTeam](https://github.com/101dotxyz/GPTeam) - Open-source multi-agent simulation.
 - [python-llm](https://github.com/danielgross/python-llm) - LLM API for Humans.

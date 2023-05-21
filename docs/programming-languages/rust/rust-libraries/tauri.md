@@ -81,3 +81,4 @@ title: Tauri
 - [Tauri Awesome RPC](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system for Tauri that leverages WebSockets.
 - [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
 - [Tauri Stronghold Plugin](https://github.com/tauri-apps/tauri-plugin-stronghold)
+- [WGPU + Tauri Experiment](https://github.com/dceddia/wgpu-tauri-experiment)

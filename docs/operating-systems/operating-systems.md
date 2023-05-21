@@ -194,7 +194,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 ## Links
 
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) ([HN](https://news.ycombinator.com/item?id=26051386))
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) ([HN](https://news.ycombinator.com/item?id=26051386)) ([Code](https://github.com/JorritWillaert/Operating-systems-Three-easy-pieces))
 - [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems. ([Web Code](https://github.com/mirage/mirage-www))
 - [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials)) ([Beginner Mistakes](https://wiki.osdev.org/Beginner_Mistakes))
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.

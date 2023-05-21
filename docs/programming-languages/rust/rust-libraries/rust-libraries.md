@@ -2859,6 +2859,9 @@
 - [stack-map](https://github.com/komora-io/stack-map) - Constant-size associative container backed by a simple array.
 - [crumsort-rs](https://github.com/google/crumsort-rs) - Parallelized Rust port of crumsort.
 - [mlir-sys](https://github.com/femtomc/mlir-sys) - Rust bindings to the MLIR C API.
+- [Bw-Tree](https://github.com/penberg/bwtree-rs)
+- [gryf](https://github.com/pnevyk/gryf) - Graph data structure library aspiring to be convenient, versatile, correct and performant.
+- [vtc-rs](https://github.com/opencinemac/vtc-rs) - SMPTE timecode library for Rust.
 
 ## Cargo Plugins
 

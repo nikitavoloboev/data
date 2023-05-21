@@ -166,3 +166,4 @@
 - [Successful Lisp: How to Understand and Use Common Lisp (2005)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html) ([HN](https://news.ycombinator.com/item?id=35936463))
 - [MGL Manual](https://github.com/melisgl/mgl) - Common Lisp machine learning library. ([HN](https://news.ycombinator.com/item?id=35927790))
 - [claylib](https://github.com/defun-games/claylib) - Common Lisp 2D/3D game toolkit built on top of Raylib 4.5.
+- [ocicl](https://github.com/ocicl/ocicl) - ASDF system distribution and management tool for Common Lisp.

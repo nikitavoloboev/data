@@ -1263,3 +1263,4 @@
 - [Denoising Diffusion Models: A Generative Learning Big Bang (2023)](https://cvpr2023-tutorial-diffusion-models.github.io/) ([Code](https://github.com/cvpr2023-tutorial-diffusion-models/papers))
 - [LERF: Language Embedded Radiance Fields (2023)](https://www.lerf.io/) ([Code](https://github.com/kerrj/lerf))
 - [Masked Diffusion Transformer is a Strong Image Synthesizer (2023)](https://arxiv.org/abs/2303.14389) ([Code](https://github.com/sail-sg/MDT))
+- [Decentralization and Acceleration Enables Large-Scale Bundle Adjustment (2023)](https://arxiv.org/abs/2305.07026) ([Code](https://github.com/facebookresearch/DABA))

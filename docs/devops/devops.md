@@ -272,3 +272,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [MRSK: hot deployment tool to watch—or a total game changer? (2023)](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
 - [Opslib](https://github.com/mgax/opslib) - Pythonic toolkit to manage infrastructure.
 - [DevPod](https://github.com/loft-sh/devpod) - Client-only tool to create developer environments based on a devcontainer.json on any backend.
+- [DevOps Notes](https://devops.pradumnasaraf.dev/#/) ([Code](https://github.com/Pradumnasaraf/DevOps))

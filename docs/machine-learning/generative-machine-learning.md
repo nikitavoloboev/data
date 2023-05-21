@@ -383,3 +383,4 @@ Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
 - [Quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it.
 - [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
 - [Google Generative AI Python Client](https://github.com/google/generative-ai-python)
+- [Diff-Pruning: Structural Pruning for Diffusion Models](https://github.com/VainF/Diff-Pruning)

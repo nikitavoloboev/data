@@ -231,3 +231,4 @@
 - [Captivating History - YouTube](https://www.youtube.com/@CaptivatingHistory/videos)
 - [Eastern Front animated: 1941](https://www.youtube.com/watch?v=wu3p7dxrhl8)
 - [History podcasts with great storytelling and in-depth explanations like Dan Carlin's Hardcore History but not as long? (2023)](https://www.reddit.com/r/podcasts/comments/12hi01h/history_podcasts_with_great_storytelling_and/)
+- [Most Horrific Depiction Of War? (2023)](https://www.reddit.com/r/flicks/comments/13ntkhr/most_horrific_depiction_of_war/)
