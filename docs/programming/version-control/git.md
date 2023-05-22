@@ -693,3 +693,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GitHoot](https://git.ht/) - Git Hooting. ([HN](https://news.ycombinator.com/item?id=35846667))
 - [GIT HTTP WASM server](https://github.com/petersalomonsen/githttpserver)
 - [tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - Tree-sitter grammar for gitcommit messages.
+- [Git Vision 2023](https://gist.github.com/araknast/d80f8b64b2777e42b49fd9e89e5a1b13)

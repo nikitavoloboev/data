@@ -525,3 +525,4 @@ Awesome List
 - [Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0) ([Tweet](https://twitter.com/anvaka/status/1657416666358374401))
 - [How I manage GitHub Notifications - Anthony Fu (2023)](https://www.youtube.com/watch?v=gu-0b6KCf80) ([Tweet](https://twitter.com/antfu7/status/1659118136866611200?s=20))
 - [Map of GitHub - Data](https://github.com/anvaka/map-of-github-data)
+- [gh-describe](https://github.com/WillAbides/gh-describe) - Like git-describe for the GitHub API.

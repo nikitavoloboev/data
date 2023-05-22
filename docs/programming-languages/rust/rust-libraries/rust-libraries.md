@@ -671,6 +671,7 @@
 - [pytest-rs](https://github.com/epage/pytest-rs) - Experiment with pytest-like harness for Rust.
 - [datadriven](https://github.com/justinj/datadriven) - Tool for writing table-driven tests in Rust, with rewrite support.
 - [datatest-stable](https://github.com/nextest-rs/datatest-stable) - Simple test harness intended to write data-driven tests, where individual test cases are specified as files and not as code.
+- [compiletest-rs](https://github.com/Manishearth/compiletest-rs) - Extraction of the compiletest utility from the Rust compiler.
 
 ## Error
 

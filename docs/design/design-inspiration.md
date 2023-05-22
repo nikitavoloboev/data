@@ -1143,3 +1143,4 @@ Like [Commit](https://tailwindui.com/templates/commit)'s 2 column layout for lan
 - [Minimal Gallery – Website inspiration](https://minimal.gallery/)
 - [Apps built using shadcn UI](https://twitter.com/shadcn/status/1650945977237352453)
 - [How Reflect's new design was made (2023)](https://twitter.com/oguzyagizkara/status/1652997371104727040)
+- [Inlang's landing page redesign discussion](https://www.loom.com/share/f0f2048c8d104fa0836ceebb72a11ba3)

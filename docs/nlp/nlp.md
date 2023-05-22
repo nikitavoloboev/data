@@ -1220,3 +1220,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Webpilot](https://github.com/webpilot-ai/Webpilot) - Copilot for web. Allows you to have free-form conversations with web pages or engage in automatic arguments with other users.
 - [Attention](https://github.com/mattneary/attention) - Visualizing attention for LLM users.
 - [WorkGPT](https://github.com/team-openpm/workgpt)
+- [Python Poe API](https://github.com/ading2210/poe-api) - Reverse engineered API wrapper for Quora's Poe, which allows you free access to OpenAI's ChatGPT and GPT-4, as well as Antropic's Claude.
+- [yay](https://github.com/ferama/yay) - Interact with OpenAI API from command line.
