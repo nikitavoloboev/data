@@ -365,3 +365,4 @@ Want to build an app [like this](https://twitter.com/ronithhh/status/16342784331
 - [USearch](https://github.com/unum-cloud/usearch) - Smaller & Faster Single-File Vector Search Engine.
 - [txi](https://github.com/anywhichway/txi) - Small, focused full-text indexing and search library for any JavaScript application.
 - [Serverless Search on Cloudflare](https://github.com/TM9657/serverless-cloudflare-search)
+- [GigaBrain](https://thegigabrain.com/) - Search Reddit and Other Communities for Answers from Real People.

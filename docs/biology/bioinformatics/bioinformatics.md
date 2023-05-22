@@ -303,3 +303,4 @@ title: Bioinformatics
 - [Rust Pseudoaligner](https://github.com/10XGenomics/rust-pseudoaligner) - Single-Cell RNA-seq pseudo-aligner.
 - [Single-cell best practices](https://github.com/theislab/single-cell-best-practices)
 - [indexedfasta-js](https://github.com/GMOD/indexedfasta-js) - Read FASTA files indexed with .fai indexes. Also supports BGZIP+.gzi.
+- [AlphaLink](https://github.com/lhatsk/AlphaLink) - Predicts protein structures using deep learning given a sequence and a set of experimental contacts.

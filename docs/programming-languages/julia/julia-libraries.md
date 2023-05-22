@@ -290,6 +290,7 @@
 
 - [SolidStateDetectors.jl](https://github.com/JuliaPhysics/SolidStateDetectors.jl) - Julia package for fast 2D and 3D simulation of Solid State Detectors.
 - [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) - High performance differential equation solvers for ordinary differential equations, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML).
+- [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) - Julia implementation of various rigid body dynamics and kinematics algorithms.
 
 ## Chemistry
 

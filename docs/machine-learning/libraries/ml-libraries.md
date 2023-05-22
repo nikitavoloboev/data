@@ -496,3 +496,4 @@ Exploring using [BlackJAX](https://github.com/blackjax-devs/blackjax), [Jax](jax
 - [eindex](https://github.com/arogozhnikov/eindex) - Multidimensional indexing for tensors.
 - [Unmanic](https://github.com/Unmanic/unmanic) - Library Optimiser.
 - [scikit-matter](https://github.com/lab-cosmo/scikit-matter) - Collection of scikit-learn compatible utilities that implement methods born out of the materials science and chemistry communities.
+- [pymoo](https://github.com/anyoptimization/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO.

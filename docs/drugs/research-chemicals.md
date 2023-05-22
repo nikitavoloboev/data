@@ -73,3 +73,4 @@ Mostly only do occasional trips on [tryptamines](psychedelics/tryptamines/trypta
 - [What research chemicals are especially dangerous and must be avoided at all costs? (2022)](https://www.reddit.com/r/researchchemicals/comments/yr5sjd/what_research_chemicals_are_especially_dangerous/)
 - [RCs that are completely different than anything else (2023)](https://www.reddit.com/r/researchchemicals/comments/10cpds8/rcs_that_are_completely_different_than_anything/)
 - [What RC’s would you recommend to someone just starting out exploring them? (2023)](https://www.reddit.com/r/researchchemicals/comments/124w1wv/what_rcs_would_you_recommend_to_someone_just/)
+- [Research Community](https://research-community.org/) - Safe Haven for Research Chemical Enthusiasts. ([Reddit](https://www.reddit.com/r/researchchemicals/comments/13o469i/introducing_the_research_community_a_safe_haven/))

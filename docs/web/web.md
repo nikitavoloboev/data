@@ -512,3 +512,4 @@
 - [The Epic Stack](https://www.epicweb.dev/epic-stack) ([HN](https://news.ycombinator.com/item?id=35903878))
 - [Reflect](https://reflect.net/) - High-performance sync for multiplayer web apps. ([Tweet](https://twitter.com/aboodman/status/1658251815929126913))
 - [feature-set](https://github.com/web-platform-dx/feature-set) - Shared catalog of features of the web platform.
+- [Getting started with View Transitions on multi-page apps (2023)](https://daverupert.com/2023/05/getting-started-view-transitions/)
