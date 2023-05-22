@@ -83,3 +83,5 @@ title: Tauri
 - [Tauri Stronghold Plugin](https://github.com/tauri-apps/tauri-plugin-stronghold)
 - [WGPU + Tauri Experiment](https://github.com/dceddia/wgpu-tauri-experiment)
 - [Deep link plugin for Tauri](https://github.com/FabianLars/tauri-plugin-deep-link)
+- [Tauri Concepts: State Management (2023)](https://www.youtube.com/watch?v=e51A_IsGZWQ)
+- [Simon Hyll - YouTube](https://www.youtube.com/@hyllsimon/videos)
