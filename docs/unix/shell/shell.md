@@ -311,3 +311,4 @@ All active variables can be seen by running `env`.
 - [aider](https://github.com/paul-gauthier/aider) - GPT-4 powered coding in your terminal.
 - [Clive](https://github.com/koki-develop/clive) - Automates terminal operations.
 - [haxx](https://github.com/henrycunh/haxx) - Easily create and run scripts using JS.
+- [IntelliShell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells.

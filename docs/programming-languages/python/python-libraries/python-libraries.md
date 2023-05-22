@@ -157,6 +157,7 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 ## CLI
 
 - [radicli](https://github.com/explosion/radicli) - Radically lightweight command-line interfaces.
+- [shtab](https://github.com/iterative/shtab) - Automagic shell tab completion for Python CLI applications.
 - [Cleo](https://github.com/python-poetry/cleo) - Create beautiful and testable command-line interfaces.
 - [tyro](https://github.com/brentyi/tyro) - Strongly typed, zero-effort CLI interfaces & config objects.
 - [Tap](https://github.com/swansonk14/typed-argument-parser) - Typed modernization of Python's argparse library.

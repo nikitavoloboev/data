@@ -270,6 +270,7 @@ title: OCaml libraries
 - [Lwt_eio](https://github.com/ocaml-multicore/lwt_eio) - Use Lwt libraries from within Eio.
 - [Kqueue](https://github.com/anuragsoni/kqueue-ml) - OCaml bindings to kqueue.
 - [Typegist](https://github.com/dbuenzli/typegist) - Reflect the essence of OCaml types as values.
+- [CFG](https://github.com/mmottl/cfg) - OCaml library for manipulating context-free grammars.
 
 ## Links
 
