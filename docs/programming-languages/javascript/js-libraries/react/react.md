@@ -400,3 +400,4 @@ Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my we
 - [Simple RSC, Deno Edition](https://github.com/itsMapleLeaf/simple-rsc-deno)
 - [zact](https://github.com/pingdotgg/zact) - Helper for react server actions.
 - [Vercel Data Cache: Optimized caching for React Server Components (2023)](https://vercel.com/changelog/introducing-vercel-data-cache)
+- [RSC Parser](https://github.com/alvarlagerlof/rsc-parser) - Parser for the React Server components when sent over the network.

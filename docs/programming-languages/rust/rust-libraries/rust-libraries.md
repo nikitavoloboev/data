@@ -300,6 +300,7 @@
 - [Ribir](https://github.com/RibirX/Ribir) - Framework for building modern native/wasm cross-platform user interface application.
 - [silly-alloc](https://github.com/surma/silly-alloc) - Collection of very basic allocators. Written with WebAssembly in mind.
 - [wasmprof](https://github.com/Shopify/wasmprof) - Library that allows to profile code running inside of wasmtime.
+- [crypto-wasm](https://github.com/docknetwork/crypto-wasm) - WASM wrapper over the crypto library.
 
 ## GUI
 

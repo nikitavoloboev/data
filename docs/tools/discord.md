@@ -129,6 +129,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Calamity](https://github.com/simmsb/calamity) - Library for writing discord bots in Haskell.
 - [Droff](https://github.com/tim-smart/droff) - Simple Discord client powered by RxJS and Axios.
 - [Discord Haskell](https://github.com/discord-haskell/discord-haskell) - Haskell library for writing Discord bots.
+- [Slash Create](https://github.com/Snazzah/slash-create) - Creator and handler for Discord's slash commands.
 
 ## Interesting servers
 

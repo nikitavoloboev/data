@@ -153,3 +153,4 @@ title: GPU
 - [Fuser](https://github.com/NVIDIA/Fuser) - Fusion Code Generator for NVIDIA GPUs.
 - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market) ([HN](https://news.ycombinator.com/item?id=35738072))
 - [Oblivus](https://oblivus.com/) - Affordable and scalable GPU servers from $0.29/hr. ([HN](https://news.ycombinator.com/item?id=35958715))
+- [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/) ([HN](https://news.ycombinator.com/item?id=36025099))

@@ -409,7 +409,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [go-vhost](https://github.com/inconshreveable/go-vhost) - HTTP/TLS hostname multiplexing library for Go.
 - [getty](https://github.com/AlexStocks/getty) - Netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd.
 - [go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
-- [Gain](https://github.com/pawelgaczynski/gain) - High-performance io_uring networking framework written entirely in Go.
+- [Gain](https://github.com/pawelgaczynski/gain) - High-performance io_uring networking framework written entirely in Go. ([Article](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a))
 - [Pushup](https://github.com/adhocteam/pushup) - Page-oriented web framework for Go. ([Web](https://pushup.adhoc.dev/)) ([HN](https://news.ycombinator.com/item?id=34246960)) ([Lobsters](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go))
 - [genhapi](https://github.com/thnxdev/genhapi) - Opinionated tool for generating request-handler boilerplate for Go.
 - [GoLive](https://github.com/canopyclimate/golive) - Library for building LiveViews in Go.
