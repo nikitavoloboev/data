@@ -559,3 +559,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Frictionless developer environments: Simplify and add lightness (2023)](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)
 - [docker-nixpkgs](https://github.com/nix-community/docker-nixpkgs) - Docker images from nixpkgs.
 - [agenix-rekey](https://github.com/oddlama/agenix-rekey) - Agenix extension facilitating Yubikey/master-identity use by automating per-host secret rekeying.
+- [Packaging Open Policy Agent policies with Nix (2023)](https://determinate.systems/posts/open-policy-agent)

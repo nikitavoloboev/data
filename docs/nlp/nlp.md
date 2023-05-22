@@ -1215,3 +1215,5 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Zep](https://github.com/getzep/zep) - Long-term memory store for LLM / Chatbot applications.
 - [Mercury](https://github.com/Jordan-Gilliam/ai-template) - Train your own custom GPT. Chat with any file, or website.
 - [Nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser.
+- [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- [Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard)

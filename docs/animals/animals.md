@@ -55,6 +55,8 @@ In perfect world, it should not be this easy to buy dead animal's meat in superm
 ## Notes
 
 - [Dogs evolved to live with humans when we had very different lifestyles. Most people no longer have lives and jobs which align with the social & mental needs of a dog. That leads to a very one sided relationship where the dog's needs get overly relegated or neglected. Therefore most people shouldn't own a dog, especially not just one.](https://news.ycombinator.com/item?id=29055956)
+- Don't use collars on dogs, use harnesses. Much healthier for the animal.
+- Give your pets good food. Like [Different Dog](https://www.differentdog.com/).
 
 ## Links
 

@@ -1140,3 +1140,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [A guide to test parametrization in Rust (2023)](https://unterwaditzer.net/2023/rust-test-parametrization.html) ([HN](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust))
 - [Giving, lending, and async closures (2023)](https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/)
 - [Build a web server with Rust and Tokio (2023)](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
+- [How Much Memory Do You Need to Run 1 Million Concurrent Tasks? (2023)](https://pkolaczk.github.io/memory-consumption-of-async/)

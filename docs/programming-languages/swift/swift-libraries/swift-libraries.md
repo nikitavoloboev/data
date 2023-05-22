@@ -1501,7 +1501,7 @@
 - [swift-tca-loadable](https://github.com/m-housh/swift-tca-loadable) - Swift package for handling loadable items using The Composable Architecture.
 - [Swift CLFormat](https://github.com/objecthub/swift-clformat) - Implementation of Common Lisp's `format` procedure from scratch in Swift.
 - [JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC.
-- [Foundation](https://github.com/apple/swift-foundation) - Fundamental types for numbers, data, collections, and dates, as well as functions for task management, file system access, and more.
+- [Foundation](https://github.com/apple/swift-foundation) - Fundamental types for numbers, data, collections, and dates, as well as functions for task management, file system access, and more. ([HN](https://news.ycombinator.com/item?id=36026038))
 - [TaskManager](https://github.com/0xOpenBytes/TaskManager) - Cache for asynchronous tasks in Swift.
 - [VersionedCodable](https://github.com/jrothwell/VersionedCodable) - Wrapper around Swift's Codable that allows versioning of Codable types.
 - [yswift](https://github.com/ObuchiYuki/yswift) - Swift version of yjs.

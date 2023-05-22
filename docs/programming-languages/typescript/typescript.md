@@ -330,6 +330,7 @@ Run TS with [Bun](../javascript/bun.md) and deploy [HTTP](../../networking/http.
 - [Implementing the Pipe Operator in TypeScript (2023)](https://www.nexxel.dev/blog/pipe)
 - [Functional Programming with TypeScript's Type System](https://desislav.dev/blog/tsfp/) ([HN](https://news.ycombinator.com/item?id=35588513))
 - [Acorn TypeScript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser.
+- [Typescript Tools That Make You Productive (2023)](https://www.youtube.com/watch?v=WJeD3DKlWT4)
 
 ## Images
 

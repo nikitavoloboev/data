@@ -217,3 +217,4 @@ Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app to
 - [Module to access TikTok Private API](https://github.com/pushshift/tiktok)
 - [DetectDee](https://github.com/piaolin/DetectDee) - Hunt down social media accounts by username, email or phone across social networks.
 - [Ask HN: Do you think the future of social media looks like Discord/Reddit? (2023)](https://news.ycombinator.com/item?id=35988579)
+- [Meta preps new social app (2023)](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be) ([HN](https://news.ycombinator.com/item?id=36028567))

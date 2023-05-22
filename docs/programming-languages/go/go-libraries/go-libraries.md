@@ -2366,3 +2366,4 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [PG advisory locks in Go with built-in hashes (2023)](https://brandur.org/fragments/pg-advisory-locks-with-go-hash)
 - [Go crypto/ecdh and the TPM (2023)](https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/)
 - [Writing HTTP client middleware in Go (2022)](https://echorand.me/posts/go-http-client-middleware/)
+- [Using a Go package in Python using Gopy (2023)](https://last9.io/blog/using-golang-package-in-python-using-gopy/)
