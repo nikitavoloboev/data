@@ -125,3 +125,4 @@ title: Godot
 - [Godot-Dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation. ([HN](https://news.ycombinator.com/item?id=35681357))
 - [Godot 4 Artificial Intelligence (AI) NPC example project](https://github.com/teddybear082/godot-gordon-freeman)
 - [Expresso Character Controller](https://github.com/expressobits/character-controller) - Modular Character Controller for Godot 4.
+- [Desert Light - Godot 4 demo](https://github.com/RPicster/godot4-demo-desert-light)

@@ -1266,3 +1266,4 @@
 - [Decentralization and Acceleration Enables Large-Scale Bundle Adjustment (2023)](https://arxiv.org/abs/2305.07026) ([Code](https://github.com/facebookresearch/DABA))
 - [Awesome-Visual-Instruction-Tuning](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning)
 - [Awesome 3D Reconstruction Papers](https://github.com/bluestyle97/awesome-3d-reconstruction-papers)
+- [Better Diffusion Models Further Improve Adversarial Training (2023)](https://arxiv.org/abs/2302.04638) ([Code](https://github.com/wzekai99/DM-Improves-AT))

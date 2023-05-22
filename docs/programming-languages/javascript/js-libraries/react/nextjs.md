@@ -15,6 +15,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 ## Example sites
 
 - [T3 Complete](https://github.com/juliusmarminge/t3-complete)
+- [Next.js + Contentlayer](https://github.com/shadcn/next-contentlayer) - Template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 - [Taxonomy](https://github.com/shadcn/taxonomy) - Open source application built using the new router, server components and everything new in Next.js 13.
 - [T3 Stack with Langchain](https://github.com/zckly/create-t3-turbo-ai)
 - [Next.js Stripe SaaS Starter](https://github.com/nhost/nextjs-stripe-starter)

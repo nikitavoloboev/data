@@ -82,3 +82,4 @@ Also [Biomaterials: The Intersection of Biology and Materials Science](https://w
 - [Wake Forest Institute for Regenerative Medicine](https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine)
 - [Hand Transplants Demonstrate the Nervous System's Amazing Adaptability (2020)](https://www.scientificamerican.com/article/hand-transplants-demonstrate-the-nervous-systems-amazing-adaptability/)
 - [Heart transplant explained in image](https://www.mdpi.com/ijms/ijms-23-13040/article_deploy/html/images/ijms-23-13040-g001.png)
+- [Multiplexed Volumetric CLEM enabled by antibody derivatives provides new insights into the cytology of the mouse cerebellar cortex (2023)](https://www.biorxiv.org/content/10.1101/2023.05.20.540091v2) ([Tweet](https://twitter.com/YaronMeirovitch/status/1660651003220197376))

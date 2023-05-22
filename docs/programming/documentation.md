@@ -11,6 +11,7 @@ Love the approach of writing RFCs before any big architectural decisions are mad
 ## Examples of nice docs
 
 - [Linear Guide](https://linear.app/docs)
+- [DrizzleORM Docs](https://orm.drizzle.team/) ([Code](https://github.com/drizzle-team/drizzle-orm-docs))
 - [PostHog Docs](https://posthog.com/docs)
 - [React Docs](https://beta.reactjs.org/)
 - [Netlify Docs](https://docs.netlify.com/)
@@ -230,3 +231,4 @@ Love the approach of writing RFCs before any big architectural decisions are mad
 - [Release Notes Generator](https://github.com/typefully/auto-release-notes) - Uses the Linear API and the OpenAI GPT language model to create a nicely formatted Markdown file.
 - [EnhanceDocs](https://github.com/enhancedocs/enhancedocs) - AI-powered search engine for your project documentation.
 - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/) ([HN](https://news.ycombinator.com/item?id=35759449))
+- [Markprompt](https://github.com/motifland/markprompt-js) - Platform for building GPT-powered prompts.
