@@ -882,6 +882,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ShoSho](https://github.com/fabiospampinato/shosho) - Modern and powerful shortcuts management library.
 - [toZod](https://github.com/colinhacks/tozod) - Utility for defining Zod schemas that agree with a TypeScript type.
 - [resguard](https://github.com/henrycunh/resguard) - Tiny utility that wraps promises and returns an object or tuple with data and error properties.
+- [lizod](https://github.com/mizchi/lizod) - Lightweight zod-like validator (about 600bytes with full featuers).
 
 ## Links
 

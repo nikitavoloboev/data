@@ -188,3 +188,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [SageMaker Inference Toolkit](https://github.com/aws/sagemaker-inference-toolkit) - Serve machine learning models within a Docker container using Amazon SageMaker.
 - [MTIA v1: Meta's first-generation AI inference accelerator (2023)](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 - [C Transformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
+- [Full example of GPTQ 4-bit inference on Modal](https://github.com/cannstandard/gptq-modal)

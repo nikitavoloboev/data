@@ -12,8 +12,6 @@ I publish most of my work and make it open source for other people to use and re
 
 [GitHub CLI](https://github.com/cli/cli) is useful. One thing I want to do is meet top GitHub contributors from different countries and talk with them. [Git Stars](https://git-stars.com/users) provides a neat tool for that. I use [Go GitHub](https://github.com/google/go-github) lib to access GitHub data.
 
-I like to [make private contributions private on my profile](https://i.imgur.com/a6YOHKI.png) (in [GitHub settings](https://github.com/settings/profile)) as it makes the squares on the GitHub timeline view nicer to use. Wish others did it too.
-
 [gh-poi](https://github.com/seachicken/gh-poi) is useful for cleaning up already merged git branches.
 
 [Probot](https://github.com/probot/probot) is nice for writing GitHub automations. [Octocrab](https://github.com/XAMPPRocky/octocrab) is nice [Rust](../../programming-languages/rust/rust.md) GitHub library.

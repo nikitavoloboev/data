@@ -297,3 +297,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [Computer Graphics Papers](https://github.com/AlexanderVeselov/MyLibrary)
 - [ThreeStudio](https://github.com/threestudio-project/threestudio) - Unified framework for 3D content generation.
 - [Pixar technical library](https://graphics.pixar.com/library/)
+- [Skybox AI](https://skybox.blockadelabs.com/)

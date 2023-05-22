@@ -721,3 +721,4 @@ title: Linux
 - [Elemental](https://github.com/rancher/elemental) - Immutable Linux distribution built to run Rancher and its corresponding Kubernetes distributions RKE2 and k3s.
 - [Unit Testing eBPF Programs (2023)](https://who.ldelossa.is/posts/unit-testing-ebpf/) ([HN](https://news.ycombinator.com/item?id=35989911))
 - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring) ([HN](https://news.ycombinator.com/item?id=36030958))
+- [17+ Best Linux Books (2023)](https://linuxstans.com/linux-books/)
