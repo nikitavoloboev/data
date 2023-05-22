@@ -227,3 +227,4 @@ I want to be able to have a voice assistant that 'knows me' and I can asks quest
 - [Interactive AI training simuation](https://github.com/sparshg/asteroids-genetic)
 - [Ask HN: Will AI result in mass silo-ing of new knowledge? (2023)](https://news.ycombinator.com/item?id=36003507)
 - [AGiXT](https://github.com/Josh-XT/AGiXT) - Dynamic AI Automation Platform.
+- [i-Code](https://github.com/microsoft/i-Code) - Build integrative and composable multimodal Artificial Intelligence.

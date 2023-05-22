@@ -1131,3 +1131,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [SAITS: Self-attention-based imputation for time series (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0957417423001203?via%3Dihub) ([Code](https://github.com/WenjieDu/SAITS))
 - [SoundStorm: Efficient Parallel Audio Generation (2023)](https://arxiv.org/abs/2305.09636) ([Code](https://github.com/lucidrains/soundstorm-pytorch))
 - [OpenFE](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
+- [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers (2023)](https://arxiv.org/abs/2305.07185) ([Code](https://github.com/lucidrains/MEGABYTE-pytorch))

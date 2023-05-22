@@ -519,3 +519,4 @@ title: PyTorch
 - [Sample Python extension using Rust/PyO3/tch to interact with PyTorch](https://github.com/LaurentMazare/tch-ext)
 - [PyTorch for WebGPU (2023)](https://praeclarum.org/2023/05/19/webgpu-torch.html) ([HN](https://news.ycombinator.com/item?id=36006626)) ([Code](https://github.com/praeclarum/webgpu-torch))
 - [Style Transfer PyTorch](https://github.com/crowsonkb/style-transfer-pytorch)
+- [Image Upsampling with PyTorch](https://github.com/catid/upsampling)

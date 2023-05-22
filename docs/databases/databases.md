@@ -289,6 +289,7 @@ Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek
 - [SKDB](https://github.com/SkipLabs/skdb) - SQL database that tells you when your query results changed.
 - [HeisenbergDB](https://github.com/quantanotes/heisenberg) - Distributed vector database.
 - [JunoDB](https://github.com/paypal/junodb) - Secure, consistent and highly available key-value store. ([HN](https://news.ycombinator.com/item?id=35998359))
+- [FlyDB](https://github.com/qishenonly/flydb) - High-performance kv storage engine based on bitcask paper supports redis protocol and the corresponding data structure.
 
 ## Tools
 

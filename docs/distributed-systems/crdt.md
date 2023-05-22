@@ -128,3 +128,4 @@ title: Conflict-free replicated data type
 - [replicatingtypes](https://github.com/appdecentral/replicatingtypes) - Conflict-Free Replicated Data Types (CRDTs) in Swift.
 - [CRDT Papers](https://crdt.tech/papers.html) ([HN](https://news.ycombinator.com/item?id=35530040))
 - [CRDT-richtext: Rust implementation of Peritext and Fugue (2023)](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0) ([HN](https://news.ycombinator.com/item?id=35988046))
+- [JSON-joy CRDT benchmarks, 100x speed improvement over state-of-the-art (2023)](https://jsonjoy.com/blog/list-crdt-benchmarks)

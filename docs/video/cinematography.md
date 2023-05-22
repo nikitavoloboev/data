@@ -1,6 +1,6 @@
 # Cinematography
 
-I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls080598863/).
+I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls080598863/). Love [David Fincher's scene transitions](https://www.youtube.com/watch?v=QPAloq5MCUA).
 
 [ALEXA Mini](https://www.arri.com/en/camera-systems/cameras/alexa-mini) camera with [Cooke S4](https://cookeoptics.com/lens/s4-i-prime/) lenses are great for filming.
 
@@ -65,3 +65,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [What is the Best Aperture for Filmmaking?](https://www.youtube.com/watch?v=zCyXtC43U3k)
 - [Cinematography Style: Sayombhu Mukdeeprom](https://www.youtube.com/watch?v=ljEnU1Ctoks)
 - [Christopher Nolan: Interview (2015)](https://www.youtube.com/watch?v=VtH6kiPbMBw)
+- [David Fincher - And the Other Way is Wrong](https://www.youtube.com/watch?v=QPAloq5MCUA)

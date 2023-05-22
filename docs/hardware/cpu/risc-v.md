@@ -230,3 +230,4 @@ title: RISC-V
 - [Return oriented programming on RISC-V (2023)](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
 - [Vector](https://github.com/sequencer/vector) - RISC-V Vector RTL generator, supporting Zvl1024b, Zve32x extension.
 - [R2](https://github.com/bokuweb/r2) - RISC-V emulator written in Rust.
+- [Hypocaust-2](https://github.com/KuangjuX/hypocaust-2) - Type-1 hypervisor with H extension run on RISC-V machine.

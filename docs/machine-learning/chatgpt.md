@@ -352,3 +352,4 @@ It's also great at giving examples.
 - [Golem](https://github.com/henrycunh/golem) - Beautiful UI for ChatGPT and other conversational models.
 - [Oryx Video ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - Large vision-language model with a dedicated video-encoder and large language model (LLM), enabling video understanding and conversation about videos.
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
+- [DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security.

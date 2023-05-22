@@ -24,3 +24,4 @@ title: Effector
 - [Using Effector with Electron](https://twitter.com/_sergeysova/status/1607315217041743872)
 - [Effector Hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy.
 - [Effector Dev Tools](https://github.com/fnpen/effector-devtools)
+- [Effector Reflect](https://github.com/effector/reflect) - Render React components with effector stores.

@@ -269,6 +269,7 @@ title: OCaml libraries
 - [deque](https://github.com/art-w/deque) - Purely Functional, Real-Time Deques with Catenation (Kaplan & Tarjan).
 - [Lwt_eio](https://github.com/ocaml-multicore/lwt_eio) - Use Lwt libraries from within Eio.
 - [Kqueue](https://github.com/anuragsoni/kqueue-ml) - OCaml bindings to kqueue.
+- [Typegist](https://github.com/dbuenzli/typegist) - Reflect the essence of OCaml types as values.
 
 ## Links
 

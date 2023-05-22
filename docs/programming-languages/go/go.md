@@ -1011,3 +1011,4 @@ if *boolArgPtr != false {
 - [Go proposal: less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 - [go-opentelemetry-lint](https://github.com/polyfloyd/go-opentelemetry-lint) - Go linter to find and automatically fix issues with OpenTelemetry spans.
 - [Learn Concurrent Programming With Go Book](https://github.com/cutajarj/ConcurrentProgrammingWithGo)
+- [Clean Code & Hexagonal Architecture API in Go](https://github.com/LuigiAzevedo/Public-Library)

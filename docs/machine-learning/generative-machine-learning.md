@@ -384,3 +384,4 @@ Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
 - [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
 - [Google Generative AI Python Client](https://github.com/google/generative-ai-python)
 - [Diff-Pruning: Structural Pruning for Diffusion Models](https://github.com/VainF/Diff-Pruning)
+- [StableSR for Stable Diffusion WebUI](https://github.com/pkuliyi2015/sd-webui-stablesr)

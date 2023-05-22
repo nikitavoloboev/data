@@ -51,6 +51,7 @@
 - [GUI](https://github.com/david-vanderson/gui) - Zig native GUI toolkit for whole applications or extra debugging windows in an existing application.
 - [ZIGCV](https://github.com/ryoppippi/zigcv) - Zig bindings for OpenCV4.
 - [Zero Graphics](https://github.com/MasterQ32/zero-graphics) - Minimal OpenGL ES 2.0 library for Zig.
+- [mach/glfw](https://github.com/hexops/mach-glfw) - Ziggified GLFW bindings.
 
 ## WASM
 

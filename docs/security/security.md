@@ -377,3 +377,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Collection of slides from Singular Security Lab](https://github.com/singularseclab/Slides)
 - [Announcing Cloudflare Secrets Store (2023)](https://blog.cloudflare.com/secrets-store/)
 - [Cedar Examples](https://github.com/cedar-policy/cedar-examples) - Some examples of using the Cedar language to specify authorization.
+- [Bitwarden Secrets Manager SDK](https://github.com/bitwarden/sdk)

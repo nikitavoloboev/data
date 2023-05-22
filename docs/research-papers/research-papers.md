@@ -231,3 +231,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv_daily_tools](https://github.com/weihaox/arxiv_daily_tools) - Converts arxiv papers into a certain markdown format.
 - [Extract data from all Google Scholar pages in Python](https://github.com/dimitryzub/scrape-google-scholar-py)
 - [Make It Red](https://github.com/zotero/make-it-red) - Sample plugin for Zotero 7.
+- [ACL pubcheck](https://github.com/acl-org/aclpubcheck) - Tools for checking ACL paper submissions.

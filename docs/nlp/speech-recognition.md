@@ -197,3 +197,4 @@ title: Speech recognition
 - [Willow](https://github.com/toverainc/willow) - Open-source privacy-focused voice assistant hardware. ([HN](https://news.ycombinator.com/item?id=35948462))
 - [Listen, Think, and Understand (2023)](https://arxiv.org/abs/2305.10790) ([Code](https://github.com/YuanGongND/ltu))
 - [Must-read paper and tutorial list for speech separation based on neural networks](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial)
+- [Pengi](https://github.com/microsoft/Pengi) - Audio Language Model for Audio Tasks.

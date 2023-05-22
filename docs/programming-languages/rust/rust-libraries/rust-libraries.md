@@ -2863,6 +2863,8 @@
 - [Bw-Tree](https://github.com/penberg/bwtree-rs)
 - [gryf](https://github.com/pnevyk/gryf) - Graph data structure library aspiring to be convenient, versatile, correct and performant.
 - [vtc-rs](https://github.com/opencinemac/vtc-rs) - SMPTE timecode library for Rust.
+- [HexTree](https://github.com/JayKickliter/HexTree) - Trees for fast location-to-value lookup.
+- [bilge](https://github.com/hecatia-elegua/bilge) - Use bitsized types as if they were a feature of rust.
 
 ## Cargo Plugins
 

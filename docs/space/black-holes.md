@@ -55,3 +55,4 @@
 - [Real-time Black Hole Rendering in OpenGL](https://github.com/rossning92/Blackhole)
 - [Scientists find first observational evidence linking black holes to dark energy (2023)](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/) ([HN](https://news.ycombinator.com/item?id=34813141)) ([Reddit](https://www.reddit.com/r/Physics/comments/1137nph/scientists_find_first_evidence_that_black_holes/))
 - [Gravitational Condensate Stars: An Alternative to Black Holes (2023)](https://arxiv.org/abs/gr-qc/0109035)
+- [Black holes might be defects in spacetime (2023)](https://phys.org/news/2023-05-black-holes-defects-spacetime.html) ([HN](https://news.ycombinator.com/item?id=36030959))

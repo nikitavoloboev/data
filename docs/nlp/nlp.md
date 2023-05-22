@@ -1217,3 +1217,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard)
+- [Webpilot](https://github.com/webpilot-ai/Webpilot) - Copilot for web. Allows you to have free-form conversations with web pages or engage in automatic arguments with other users.
+- [Attention](https://github.com/mattneary/attention) - Visualizing attention for LLM users.
+- [WorkGPT](https://github.com/team-openpm/workgpt)

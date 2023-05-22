@@ -447,3 +447,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [next-safe-mutation](https://github.com/TheEdoRan/next-safe-mutation) - Typesafe mutation implementation for Next.js with RSC.
 - [Securing your Next.js 13 application (2023)](https://www.yagiz.co/securing-your-nextjs-13-application)
 - [Crafting the Next.js Website (2023)](https://rauno.me/craft/nextjs)
+- [DamnGood.Tools](https://damngood.tools/) - Easy-to-use, fun tools—free (and open-source). ([Code](https://github.com/krasun/damngood.tools))
