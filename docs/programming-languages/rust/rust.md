@@ -1143,3 +1143,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [How Much Memory Do You Need to Run 1 Million Concurrent Tasks? (2023)](https://pkolaczk.github.io/memory-consumption-of-async/)
 - [FunctionalRust](https://github.com/politrons/FunctionalRust) - Examples of functional programing in Rust.
 - [What If We Pretended That a Task = Thread? (2023)](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)
+- [How to Learn Rust (2023)](https://learning.accelerant.dev/how-to-learn-rust)

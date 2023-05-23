@@ -347,3 +347,4 @@
 - [Game development in Go: Ebitengine shaders (2023)](https://quasilyte.dev/blog/post/ebitengine-shaders/)
 - [Notes on rarely-seen game mechanics (2023)](https://blog.plover.com/notes/game-mechanics.html) ([HN](https://news.ycombinator.com/item?id=35941369))
 - [Game Server in Go](https://github.com/anthdm/gameserver)
+- [I'm Building a Company | Christoph Nakazawa](https://cpojer.net/posts/building-a-company)

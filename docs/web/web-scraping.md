@@ -265,3 +265,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Gumroad Scraper and Website Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator)
 - [HackerNews Alert](https://github.com/alabulei1/hacker-news-alert) - A Hacker News post contains the keyword you are interested in, you will receive a Slack message.
 - [MrScraper AI](https://mrscraper.com/ai) - Dead simple web scraper (powered by AI). ([HN](https://news.ycombinator.com/item?id=36041016))
+- [HTML Table to JSON](https://gist.github.com/simonw/ac671a9bdbda9f29dc5256511497bc1d) ([Tweet](https://twitter.com/simonw/status/1660772747969191937))
