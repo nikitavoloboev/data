@@ -264,3 +264,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - JavaScript library for scraping/parsing metadata from a web page.
 - [Gumroad Scraper and Website Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator)
 - [HackerNews Alert](https://github.com/alabulei1/hacker-news-alert) - A Hacker News post contains the keyword you are interested in, you will receive a Slack message.
+- [MrScraper AI](https://mrscraper.com/ai) - Dead simple web scraper (powered by AI). ([HN](https://news.ycombinator.com/item?id=36041016))

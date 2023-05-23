@@ -566,3 +566,5 @@ As [Nils Frahm](https://www.nilsfrahm.com/) is my favorite artist and I love his
 - [AlgaLib](https://github.com/vitreo12/AlgaLib) - SuperCollider implementation of Alga, an interpolating live coding environment.
 - [Omni](https://github.com/vitreo12/omni) - DSL for low-level audio programming.
 - [IMSLP](https://imslp.org/) - Free Sheet Music PDF Download. ([HN](https://news.ycombinator.com/item?id=35979977))
+- [Ableton Push 3](https://www.ableton.com/en/push/) ([HN](https://news.ycombinator.com/item?id=36041432))
+- [GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/) ([HN](https://news.ycombinator.com/item?id=36038945))

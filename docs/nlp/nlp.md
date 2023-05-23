@@ -1222,3 +1222,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [WorkGPT](https://github.com/team-openpm/workgpt)
 - [Python Poe API](https://github.com/ading2210/poe-api) - Reverse engineered API wrapper for Quora's Poe, which allows you free access to OpenAI's ChatGPT and GPT-4, as well as Antropic's Claude.
 - [yay](https://github.com/ferama/yay) - Interact with OpenAI API from command line.
+- [RWKV: Reinventing RNNs for the Transformer Era (2023)](https://arxiv.org/abs/2305.13048) ([HN](https://news.ycombinator.com/item?id=36038868))

@@ -1142,3 +1142,4 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Build a web server with Rust and Tokio (2023)](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
 - [How Much Memory Do You Need to Run 1 Million Concurrent Tasks? (2023)](https://pkolaczk.github.io/memory-consumption-of-async/)
 - [FunctionalRust](https://github.com/politrons/FunctionalRust) - Examples of functional programing in Rust.
+- [What If We Pretended That a Task = Thread? (2023)](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)

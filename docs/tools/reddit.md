@@ -108,3 +108,4 @@ title: Reddit
 - [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/) - Creates an aggregate of a users activity.
 - [Zats Reddit](https://github.com/TGlide/zats-reddit) - Reddit clone built with Zod, Appwrite, Tailwind, and SvelteKit.
 - [My Best of Reddit](https://github.com/rounakdatta/my-best-of-reddit) - Get your upvoted posts and comments from Reddit delivered over Telegram.
+- [Reddit comments and submissions collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee) ([HN](https://news.ycombinator.com/item?id=36038684))

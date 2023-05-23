@@ -354,3 +354,4 @@ It's also great at giving examples.
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
 - [DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security.
 - [Top 10 ChatGPT Plugins (2023)](https://dev.to/jon_snow789/top-10-chatgpt-plugins-you-cant-miss-1k68)
+- [Ask HN: Those with success using GPT-4 for programming – what are you doing? (2023)](https://news.ycombinator.com/item?id=36037559)

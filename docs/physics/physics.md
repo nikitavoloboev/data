@@ -377,3 +377,4 @@ Love [Sean Carroll](https://twitter.com/seanmcarroll)'s [book](https://www.prepo
 - [Why gravity is not like the other forces (2023)](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/) ([HN](https://news.ycombinator.com/item?id=35722206))
 - [What exactly is the Planck length?](https://twitter.com/WKCosmo/status/1651986002490138626)
 - [Road to Reality Essays](https://reality.mentat.org/) - Journey through computational physics, from eval/apply to the Einstein field equations. ([Code](https://github.com/mentat-collective/road-to-reality))
+- [Periodicum](https://periodicum.netlify.app/) - Simple and interactive periodic table. ([Code](https://github.com/KaeserOfHonour/Periodicum))
