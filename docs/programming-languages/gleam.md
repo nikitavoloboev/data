@@ -64,3 +64,4 @@
 - [Introducing the Gleam package index (2023)](https://gleam.run/news/introducing-the-gleam-package-index/)
 - [gleam_qs](https://github.com/sporto/gleam_qs) - Query string parser for Gleam.
 - [Gleam Packages](https://packages.gleam.run/) - Search for Gleam packages. ([Code](https://github.com/gleam-lang/packages))
+- [Gleam gets autocompletion (2023)](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)

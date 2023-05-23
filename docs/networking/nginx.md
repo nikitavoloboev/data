@@ -97,3 +97,4 @@ title: Nginx
 - [Angie](https://github.com/webserver-llc/angie) - Drop-in replacement for Nginx.
 - [ROFL with a LOL: rewriting an NGINX module in Rust (2023)](https://blog.cloudflare.com/rust-nginx-module/)
 - [ngx_echo](https://github.com/openresty/echo-nginx-module) - Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file.
+- [Nginx 1.25.0: experimental HTTP/3 support (2023)](https://news.ycombinator.com/item?id=36047524)

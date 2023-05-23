@@ -883,6 +883,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [toZod](https://github.com/colinhacks/tozod) - Utility for defining Zod schemas that agree with a TypeScript type.
 - [resguard](https://github.com/henrycunh/resguard) - Tiny utility that wraps promises and returns an object or tuple with data and error properties.
 - [lizod](https://github.com/mizchi/lizod) - Lightweight zod-like validator (about 600bytes with full featuers).
+- [Abort Controller Extras](https://github.com/deeplay-io/abort-controller-x) - Abortable async function primitives and combinators.
 
 ## Links
 
@@ -1011,3 +1012,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Magicast](https://github.com/unjs/magicast) - Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [Third Party Capital](https://github.com/GoogleChromeLabs/third-party-capital) - Library that provides best practices for loading popular third-parties.
 - [Acme Corp (Library Edition)](https://github.com/juliusmarminge/acme-corp-lib) - Starter template for your next TypeScript library monorepo.
+- [Practical introduction to the whys of Effect](https://github.com/antoine-coulon/effect-introduction)

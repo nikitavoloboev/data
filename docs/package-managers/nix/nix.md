@@ -560,3 +560,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [docker-nixpkgs](https://github.com/nix-community/docker-nixpkgs) - Docker images from nixpkgs.
 - [agenix-rekey](https://github.com/oddlama/agenix-rekey) - Agenix extension facilitating Yubikey/master-identity use by automating per-host secret rekeying.
 - [Packaging Open Policy Agent policies with Nix (2023)](https://determinate.systems/posts/open-policy-agent)
+- [Cachix Blog | Introducing Pins: Permanent Nix Binary Storage (2023)](https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/)

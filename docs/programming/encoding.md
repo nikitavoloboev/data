@@ -95,3 +95,4 @@
 - [Ron](https://github.com/ron-rs/ron) - Rusty Object Notation. ([HN](https://news.ycombinator.com/item?id=35674063))
 - [multicodec](https://github.com/multiformats/multicodec) - Compact self-describing codecs. Save space by using predefined multicodec tables.
 - [Jesth](https://github.com/pyrustic/jesth) - Next-level human-readable data serialization format.
+- [Packet Description Language (PDL)](https://github.com/google/pdl) - Domain specific language for writing the definition of binary protocol packets.

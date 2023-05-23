@@ -325,3 +325,4 @@ Used [oidc-client-ts](https://github.com/authts/oidc-client-ts) for [auth on web
 - [Cedar](https://github.com/cedar-policy/cedar) - Language for writing and enforcing authorization policies in your applications.
 - [oauth Go library](https://github.com/cli/oauth) - Library for performing OAuth Device flow and Web application flow in Go client apps.
 - [Understanding Passkeys (2023)](https://michal.sapka.me/2023/passkeys/) ([HN](https://news.ycombinator.com/item?id=35973591))
+- [Build a Multi-Tenanted, Role-Based Access Control System (2023)](https://www.youtube.com/watch?v=b6VhN_HHDiQ)

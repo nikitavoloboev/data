@@ -231,3 +231,4 @@
 - [CSS HD Gradients](https://gradient.style/)
 - [It's time to learn oklch color (2023)](https://keithjgrant.com/posts/2023/04/its-time-to-learn-oklch-color/)
 - [color swatch](https://mattdesl.github.io/color-spd/) - Open source tool to pick colors from an image. ([Code](https://github.com/mattdesl/color-spd))
+- [ColorTranslator](https://github.com/elchininet/ColorTranslator) - JavaScript library, written in TypeScript, to convert among different color models.

@@ -271,6 +271,7 @@ title: OCaml libraries
 - [Kqueue](https://github.com/anuragsoni/kqueue-ml) - OCaml bindings to kqueue.
 - [Typegist](https://github.com/dbuenzli/typegist) - Reflect the essence of OCaml types as values.
 - [CFG](https://github.com/mmottl/cfg) - OCaml library for manipulating context-free grammars.
+- [prettree](https://github.com/art-w/prettree) - Pretty tree layout with an applicative functor.
 
 ## Links
 

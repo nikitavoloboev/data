@@ -38,6 +38,7 @@ title: Android
 - [Dashlane Android app](https://github.com/Dashlane/android-apps)
 - [Claw](https://github.com/msfjarvis/compose-lobsters) - Read-only Android client for Lobsters.rs, built using Jetpack Compose.
 - [AnywhereGPT](https://github.com/Shashank02051997/AnywhereGPT-Android) - Mobile app with seamless AI assistance.
+- [Read You](https://github.com/Ashinch/ReadYou) - Android RSS reader presented in Material You style.
 
 ## Links
 

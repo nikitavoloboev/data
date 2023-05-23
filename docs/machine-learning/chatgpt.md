@@ -355,3 +355,4 @@ It's also great at giving examples.
 - [DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security.
 - [Top 10 ChatGPT Plugins (2023)](https://dev.to/jon_snow789/top-10-chatgpt-plugins-you-cant-miss-1k68)
 - [Ask HN: Those with success using GPT-4 for programming – what are you doing? (2023)](https://news.ycombinator.com/item?id=36037559)
+- [Gold Retriever](https://github.com/jina-ai/GoldRetriever) - Create and host retrieval plugins for ChatGPT in one click.

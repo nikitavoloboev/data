@@ -87,3 +87,4 @@ title: Dependent types
 - [Mini Yu](https://github.com/andreaslyn/mini-yu) - Dependently typed programming language prototype.
 - [How to implement dependent types in 80 lines of code](https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196) ([Lobsters](https://lobste.rs/s/ub7co8/how_implement_dependent_types_80_lines))
 - [Dependently Typing R Vectors, Arrays, and Matrices (2023)](https://arxiv.org/abs/2304.04265) ([HN](https://news.ycombinator.com/item?id=35521087))
+- [algaett](https://github.com/RedPRL/algaett) - Experimental elaborator for dependent type theory using effects and handlers.

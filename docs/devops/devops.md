@@ -273,3 +273,4 @@ It's interesting seeing how much internal infrastructure [Google](https://github
 - [Opslib](https://github.com/mgax/opslib) - Pythonic toolkit to manage infrastructure.
 - [DevPod](https://github.com/loft-sh/devpod) - Client-only tool to create developer environments based on a devcontainer.json on any backend.
 - [DevOps Notes](https://devops.pradumnasaraf.dev/#/) ([Code](https://github.com/Pradumnasaraf/DevOps))
+- [Preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud.

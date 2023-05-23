@@ -1511,6 +1511,8 @@
 - [SwiftSubtitles](https://github.com/dagronf/SwiftSubtitles) - Swift package for reading/writing subtitle formats (srt, svb, vtt).
 - [Google Generative AI SDK for Swift](https://github.com/google/generative-ai-swift)
 - [Renamed](https://github.com/JosephDuffy/Renamed) - Swift macro to add deprecated symbols, useful when renaming a symbol without introducing a breaking change.
+- [SwiftUICoreImage](https://github.com/danwood/SwiftUICoreImage) - Hundreds of Core Image filters wrapped as CIImage modifiers for easy integration with SwiftUI.
+- [PopupView](https://github.com/Mijick/PopupView) - Popups and alerts with SwiftUI.
 
 ## Other (not lib)
 

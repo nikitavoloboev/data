@@ -1223,3 +1223,11 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [Python Poe API](https://github.com/ading2210/poe-api) - Reverse engineered API wrapper for Quora's Poe, which allows you free access to OpenAI's ChatGPT and GPT-4, as well as Antropic's Claude.
 - [yay](https://github.com/ferama/yay) - Interact with OpenAI API from command line.
 - [RWKV: Reinventing RNNs for the Transformer Era (2023)](https://arxiv.org/abs/2305.13048) ([HN](https://news.ycombinator.com/item?id=36038868))
+- [Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages (2023)](https://arxiv.org/abs/2305.12182) ([Code](https://github.com/cisnlp/Glot500))
+- [OpenAI Manager](https://github.com/MrZilinXiao/openai-manager) - Speed up your OpenAI requests by balancing prompts to multiple API keys.
+- [GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Python project to build your own AI girlfriend using ChatGPT 4.0.
+- [TheoremQA: A Theorem-driven Question Answering dataset (2023)](https://arxiv.org/abs/2305.12524) ([Code](https://github.com/wenhuchen/TheoremQA))
+- [GPT Code UI](https://github.com/ricklamers/gpt-code-ui) - Open source implementation of OpenAI's ChatGPT Code interpreter.
+- [airoboros](https://github.com/jondurbin/airoboros) - Customizable implementation of the self-instruct paper.
+- [Glass](https://github.com/foundation-ui/glass) - Domain-specific language for interacting with language models.
+- [Fondant](https://github.com/ml6team/fondant) - Sweet data-centric foundation model fine-tuning.
