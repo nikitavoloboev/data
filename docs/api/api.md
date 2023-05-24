@@ -482,3 +482,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy) - Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain. ([HN](https://news.ycombinator.com/item?id=35634120))
 - [openpm](https://github.com/team-openpm/openpm) - Package manager for OpenAPI files.
 - [Bolt](https://github.com/hiro-codes/bolt) - Desktop application that is designed to make the process of developing and testing APIs easier and more efficient.
+- [Psychic](https://github.com/psychic-api/psychic) - Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications.

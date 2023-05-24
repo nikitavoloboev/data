@@ -561,3 +561,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [agenix-rekey](https://github.com/oddlama/agenix-rekey) - Agenix extension facilitating Yubikey/master-identity use by automating per-host secret rekeying.
 - [Packaging Open Policy Agent policies with Nix (2023)](https://determinate.systems/posts/open-policy-agent)
 - [Cachix Blog | Introducing Pins: Permanent Nix Binary Storage (2023)](https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/)
+- [nix-heuristic-gc](https://github.com/risicle/nix-heuristic-gc) - More discerning cousin of nix-collect-garbage.

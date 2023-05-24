@@ -450,3 +450,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Crafting the Next.js Website (2023)](https://rauno.me/craft/nextjs)
 - [DamnGood.Tools](https://damngood.tools/) - Easy-to-use, fun tools—free (and open-source). ([Code](https://github.com/krasun/damngood.tools))
 - [Apollo Client support for the Next.js App Router](https://github.com/apollographql/apollo-client-nextjs)
+- [Building a SaaS with Rust and Next.js (2023)](https://joshmo.bearblog.dev/lets-build-a-saas-with-rust/)

@@ -184,6 +184,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Felix OS](https://github.com/mrgian/felix) - x86 operating system. ([Reddit](https://www.reddit.com/r/rust/comments/12gxh8b/felix_an_x86_hobby_os_written_in_rust/))
 - [aerugo](https://github.com/n7space/aerugo) - Safety-critical applications oriented Real-Time Operating System written in Rust.
 - [R9](https://github.com/r9os/r9) - Plan 9 operating system in Rust. ([HN](https://news.ycombinator.com/item?id=36019030))
+- [EspressOS](https://github.com/adisbladis/espressos) - Espresso operating system.
 
 ## Notes
 

@@ -1241,3 +1241,4 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [minicons](https://github.com/kanishkamisra/minicons) - Utility for analyzing Transformer based representations of language.
 - [InfiniteGPT](https://github.com/emmethalm/infiniteGPT) - Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading.
 - [Why the Original Transformer Figure Is Wrong, and Some Other Interesting Historical Tidbits About LLMs (2023)](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
+- [ChainForge](https://github.com/ianarawjo/ChainForge) - Open-source visual programming environment for battle-testing prompts to LLMs.

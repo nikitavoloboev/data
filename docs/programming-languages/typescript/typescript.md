@@ -331,6 +331,7 @@ Run TS with [Bun](../javascript/bun.md) and deploy [HTTP](../../networking/http.
 - [Functional Programming with TypeScript's Type System](https://desislav.dev/blog/tsfp/) ([HN](https://news.ycombinator.com/item?id=35588513))
 - [Acorn TypeScript](https://github.com/TyrealHu/acorn-typescript) - Alternative, TypeScript parser.
 - [Typescript Tools That Make You Productive (2023)](https://www.youtube.com/watch?v=WJeD3DKlWT4)
+- [TypeScript neat tricks](https://github.com/typed-rocks/typescript)
 
 ## Images
 

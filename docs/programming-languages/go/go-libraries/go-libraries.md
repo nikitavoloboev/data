@@ -2165,6 +2165,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [clam](https://github.com/miku/clam) - Templated shell helper library.
 - [IP2Location Go](https://github.com/ip2location/ip2location-go)
 - [stackblur-go](https://github.com/esimov/stackblur-go) - Fast, almost Gaussian Blur implementation in Go.
+- [slog](https://github.com/coder/slog) - Minimal structured logging library for Go.
 
 ## Links
 

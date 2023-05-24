@@ -485,3 +485,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Typography Manual by Mike Mai](https://mikemai.net/typography-manual/)
 - [After Apple, Jony Ive’s LoveFrom is doubling down on craft in typeface (2023)](https://www.fastcompany.com/90888571/jony-ive-spent-the-last-4-years-perfecting-his-typeface-heres-why-hell-never-be-done)
 - [Type Scale](https://typescale.com/) - Tool for Easy CSS Typography. ([HN](https://news.ycombinator.com/item?id=36000260))
+- [Proportio](https://proportio.app/) - Tool for creating proportional scales for typography, iconography, spacing, and components in design systems. ([Code](https://github.com/NateBaldwinDesign/proportio))
