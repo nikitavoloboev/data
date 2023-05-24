@@ -532,3 +532,4 @@ Prefer [Google Meet](https://meet.google.com/) for first meeting video calls. An
 - [Plex.tv and Plex Media Server Go client](https://github.com/jrudio/go-plex-client)
 - [YouTube Full Text Search](https://github.com/NotJoeMartinez/yt-fts) - Search all of a channel from the command line. ([HN](https://news.ycombinator.com/item?id=36009774))
 - [Framecrafter](https://www.framecrafter.dev/) - Extensible, fast, all-in-browser video editor. ([Code](https://github.com/framecrafter/framecrafter))
+- [Pretty Fast Video](https://github.com/GlaireDaggers/Pretty-Fast-Video) - Toy video codec designed as a successor to Pretty Good Video.

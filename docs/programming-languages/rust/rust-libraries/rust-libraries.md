@@ -572,6 +572,7 @@
 - [etagere](https://github.com/nical/etagere) - Dynamic texture atlas allocator using the shelf packing algorithm.
 - [piet-hardware](https://github.com/notgull/piet-hardware) - Rust's 2D vector graphics library, using GPU primitives.
 - [Lox](https://github.com/LukasKalbertodt/lox) - Fast polygon mesh library with different data structures and traits to abstract over those.
+- [egui_tiles](https://github.com/rerun-io/egui_tiles) - Tiling layout engine for egui with drag-and-drop and resizing.
 
 ## Games
 

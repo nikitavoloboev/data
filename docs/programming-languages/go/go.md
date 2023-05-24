@@ -1013,4 +1013,4 @@ if *boolArgPtr != false {
 - [Learn Concurrent Programming With Go Book](https://github.com/cutajarj/ConcurrentProgrammingWithGo)
 - [Clean Code & Hexagonal Architecture API in Go](https://github.com/LuigiAzevedo/Public-Library)
 - [Go Class - YouTube](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
-- [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/) ([HN](https://news.ycombinator.com/item?id=36046662))
+- [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/) ([HN](https://news.ycombinator.com/item?id=36046662)) ([Reddit](https://www.reddit.com/r/golang/comments/13pw523/how_to_start_a_go_project_in_2023/))

@@ -144,6 +144,7 @@
 - [QCVM](https://github.com/JaycieErysdren/QCVM) - Bite-sized QuakeC VM written in C. ([HN](https://news.ycombinator.com/item?id=34672598))
 - [Minimax](https://github.com/roman01la/minimax) - Minimalist 3D game engine in Clojure.
 - [cFlake Engine](https://github.com/jedjoud10/cflake-engine) - Game engine built on Rust and WGPU.
+- [Dojo](https://github.com/dojoengine/dojo) - Provable game engine and toolchain for building onchain games and autonomous worlds with Cairo.
 
 ## Physics engines
 

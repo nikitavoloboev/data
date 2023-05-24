@@ -324,3 +324,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer) ([HN](https://news.ycombinator.com/item?id=35714145))
 - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures) ([HN](https://news.ycombinator.com/item?id=35795975))
 - [Compotes](https://github.com/Orbitale/Compotes) - Small app to manage bank account operations and display rich analytics.
+- [monetr](https://monetr.app/) - Budgeting application focused on planning for recurring expenses. ([Code](https://github.com/monetr/monetr))

@@ -1188,6 +1188,7 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 - [spiketools](https://github.com/spiketools/spiketools) - Tools for analyzing spiking data.
 - [st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chat-bot UI.
 - [Replicate Python client](https://github.com/replicate/replicate-python)
+- [trex](https://github.com/mesejo/trex) - Efficient string matching with regular expressions.
 
 ## Notes
 

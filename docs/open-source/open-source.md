@@ -269,3 +269,4 @@ Like seeing overviews of OSS releases of a person in a [page like this](https://
 - [Fabio's overview of code repos](https://github.com/fabiospampinato/monorepo)
 - [Helping open source program offices get started](https://github.com/github/github-ospo)
 - [The "open source native" principle for software design (2023)](https://www.haskellforall.com/2023/03/the-open-source-native-principle-for.html)
+- [List of open-source alternatives to everyday SaaS products](https://github.com/btw-so/open-source-alternatives)

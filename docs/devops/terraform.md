@@ -236,3 +236,4 @@ title: Terraform
 - [Terraform Provider for cosign](https://github.com/chainguard-dev/terraform-provider-cosign)
 - [Stacks for Terraform](https://github.com/cisco-open/stacks)
 - [Terrap](https://github.com/sirrend/terrap-cli) - CLI utility used to notify about Terraform deprecations in your code.
+- [TF Profile](https://github.com/datarootsio/tf-profile) - CLI tool to profile Terraform runs, written in Go.

@@ -61,3 +61,4 @@ Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-system
 - [Orbital Sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances.
 - [HN: Pi-hole (2023)](https://news.ycombinator.com/item?id=34374725)
 - [DNS Blocklists](https://github.com/hagezi/dns-blocklists)
+- [Fuck Ad Block](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.

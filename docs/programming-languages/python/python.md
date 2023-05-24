@@ -622,3 +622,4 @@ for i, _ in enumerate(nums):
 - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages) ([Lobsters](https://lobste.rs/s/2vj6kz/python_family_languages))
 - [PyStack](https://github.com/bloomberg/pystack) - Print the stack trace of a running Python process, or of a Python core dump.
 - [Writing Python like it’s Rust (2023)](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html) ([Lobsters](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust)) ([HN](https://news.ycombinator.com/item?id=36018621))
+- [RustPython parser as a library](https://github.com/RustPython/Parser)

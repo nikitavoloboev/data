@@ -86,3 +86,4 @@ title: Tauri
 - [Tauri Concepts: State Management (2023)](https://www.youtube.com/watch?v=e51A_IsGZWQ)
 - [Simon Hyll - YouTube](https://www.youtube.com/@hyllsimon/videos)
 - [Tauri Invoke HTTP](https://github.com/tauri-apps/tauri-invoke-http) - Custom invoke system for Tauri that leverages a localhost server.
+- [Tauri NSPanel](https://github.com/ahkohd/tauri-nspanel) - Plugin for swizzling Tauri’s NSWindow to NSPanel.

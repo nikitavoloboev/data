@@ -12,3 +12,4 @@
 - [Open Chinese Convert](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese.
 - [ChineseCLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
 - [NLP — Tokenizing Chinese Phrases (2019)](https://medium.com/@jjsham/nlp-tokenizing-chinese-phases-3302da4336bf)
+- [C-Eval](https://github.com/SJTU-LIT/ceval) - Comprehensive Chinese evaluation suite for foundation models.

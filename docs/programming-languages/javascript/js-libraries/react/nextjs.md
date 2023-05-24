@@ -449,3 +449,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Securing your Next.js 13 application (2023)](https://www.yagiz.co/securing-your-nextjs-13-application)
 - [Crafting the Next.js Website (2023)](https://rauno.me/craft/nextjs)
 - [DamnGood.Tools](https://damngood.tools/) - Easy-to-use, fun tools—free (and open-source). ([Code](https://github.com/krasun/damngood.tools))
+- [Apollo Client support for the Next.js App Router](https://github.com/apollographql/apollo-client-nextjs)

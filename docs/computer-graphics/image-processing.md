@@ -249,3 +249,4 @@
 - [RethinkRAW](https://github.com/ncruces/RethinkRAW) - Unpretentious, free RAW photo editor.
 - [Simple Image Compare](https://github.com/Sirosky/Simple-Image-Compare) - Easy image comparisons.
 - [pixelmatch-py](https://github.com/whtsky/pixelmatch-py) - Fast pixel-level image comparison library, originally created to compare screenshots in tests.
+- [CImg](https://github.com/GreycLab/CImg) - Small and open-source C++ toolkit for image processing.

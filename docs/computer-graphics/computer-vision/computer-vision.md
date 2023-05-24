@@ -1267,3 +1267,4 @@
 - [Awesome-Visual-Instruction-Tuning](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning)
 - [Awesome 3D Reconstruction Papers](https://github.com/bluestyle97/awesome-3d-reconstruction-papers)
 - [Better Diffusion Models Further Improve Adversarial Training (2023)](https://arxiv.org/abs/2302.04638) ([Code](https://github.com/wzekai99/DM-Improves-AT))
+- [Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses (2023)](https://arxiv.org/abs/2305.14059) ([Code](https://github.com/nianticlabs/ace))

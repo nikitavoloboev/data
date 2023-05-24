@@ -1132,3 +1132,4 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [SoundStorm: Efficient Parallel Audio Generation (2023)](https://arxiv.org/abs/2305.09636) ([Code](https://github.com/lucidrains/soundstorm-pytorch))
 - [OpenFE](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers (2023)](https://arxiv.org/abs/2305.07185) ([Code](https://github.com/lucidrains/MEGABYTE-pytorch))
+- [QLoRA: Efficient Finetuning of Quantized LLMs (2023)](https://arxiv.org/abs/2305.14314) ([Code](https://github.com/artidoro/qlora))

@@ -722,3 +722,4 @@ title: Linux
 - [Unit Testing eBPF Programs (2023)](https://who.ldelossa.is/posts/unit-testing-ebpf/) ([HN](https://news.ycombinator.com/item?id=35989911))
 - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring) ([HN](https://news.ycombinator.com/item?id=36030958))
 - [17+ Best Linux Books (2023)](https://linuxstans.com/linux-books/)
+- [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT (2023)](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html) ([HN](https://news.ycombinator.com/item?id=36040803))

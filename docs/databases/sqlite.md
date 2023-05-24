@@ -336,3 +336,4 @@ Looking into using [libSQL](https://libsql.org/), [sqld](https://github.com/libs
 - [SQLite Release 3.42.0 (2023)](https://sqlite.org/releaselog/3_42_0.html) ([HN](https://news.ycombinator.com/item?id=35962213))
 - [CG/SQL](https://cgsql.dev/) - Code Generator for SQLite. ([HN](https://news.ycombinator.com/item?id=35981828))
 - [AtomLite](https://github.com/lukasturcani/atomlite) - SQLite chemical database.
+- [SQLite builds for WASI since 3.41.0 (2023)](https://wasmlabs.dev/articles/sqlite-wasi-support/) ([HN](https://news.ycombinator.com/item?id=36054521))

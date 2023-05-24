@@ -15,11 +15,13 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Lord Bergamot, Earl Grey Black Tea](https://www.smithtea.com/products/lord-bergamot)
 - [Puer tea blend mini cakes](https://white2tea.com/products/2022-941-mini-longzhu-dragon-pearl-raw-puer)
 - [Genmaicha](https://www.reddit.com/r/tea/comments/104y0he/genmaicha_tea_made_in_a_kyusu_teapot/)
+- [Ginger Peach Oolong](https://zhitea.com/collections/oolong-tea/products/ginger-peach-oolong?variant=2425078531)
 
 ## Notes
 
 - You need a special tea knife to cut the tea cakes.
 - If pure coffee-like stimulation is what you're after, look into yerba mate.
+- Twinnings, Republic of Tea, Clipper, PG Tips, TWG, Zhi are good
 
 ## Links
 
@@ -45,3 +47,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Факты о чае](https://twitter.com/pyanibatya/status/1166472155779031041) ([Tweet](https://twitter.com/Umi_no_Iruka/status/1613118439731642368))
 - [Невский Чай](http://neva-tea.ru/)
 - [Tea Quality Question (2023)](https://www.reddit.com/r/nutrition/comments/10invco/tea_quality_question/)
+- [Yunnan Tea Sourcing](https://yunnansourcing.us/)

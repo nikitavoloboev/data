@@ -201,3 +201,4 @@
 - [json.c](https://github.com/tidwall/json.c) - Fast little JSON library for C.
 - [STR](https://github.com/mickjc750/str) - C String handling library.
 - [Json Parser](https://github.com/Barenboim/json-parser)
+- [Growable Memory Buffers for C99](https://github.com/skeeto/growable-buf)

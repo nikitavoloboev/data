@@ -1144,3 +1144,5 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [FunctionalRust](https://github.com/politrons/FunctionalRust) - Examples of functional programing in Rust.
 - [What If We Pretended That a Task = Thread? (2023)](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)
 - [How to Learn Rust (2023)](https://learning.accelerant.dev/how-to-learn-rust)
+- [A guide to closures in Rust (2023)](https://hashrust.com/blog/a-guide-to-closures-in-rust/) ([HN](https://news.ycombinator.com/item?id=36054990))
+- [Local Async Executors and Why They Should be the Default (2022)](https://maciej.codes/2022-06-09-local-async.html)

@@ -1231,3 +1231,10 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [airoboros](https://github.com/jondurbin/airoboros) - Customizable implementation of the self-instruct paper.
 - [Glass](https://github.com/foundation-ui/glass) - Domain-specific language for interacting with language models.
 - [Fondant](https://github.com/ml6team/fondant) - Sweet data-centric foundation model fine-tuning.
+- [OpenLLaMa on AWS Lambda](https://github.com/baileytec-labs/llama-on-lambda)
+- [GPT Tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Encoder Decoder for GPT-2 / GPT-3 / GPT-4.
+- [AlpacaFarm](https://github.com/tatsu-lab/alpaca_farm) - Simulation Framework for RLHF and alternatives.
+- [RAVE-Latent Diffusion](https://github.com/moiseshorta/RAVE-Latent-Diffusion) - Generate new latent codes for RAVE with Denoising Diffusion models.
+- [DiffusionNER: Boundary Diffusion for Named Entity Recognition (2023)](https://arxiv.org/abs/2305.13298) ([Code](https://github.com/tricktreat/DiffusionNER))
+- [LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model (2023)](https://arxiv.org/abs/2304.06248) ([Code](https://github.com/ChocoWu/LasUIE))
+- [RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text (2023)](https://arxiv.org/abs/2305.13304)

@@ -74,3 +74,4 @@ title: Signal processing
 - [Julius Smith - Sound synthesis based on physical models (2012)](https://www.youtube.com/watch?v=dUcNzPhZdwk)
 - [What Are Signals?](https://signia.tldraw.dev/docs/what-are-signals) ([HN](https://news.ycombinator.com/item?id=35009417))
 - [TimeStretch](https://github.com/spluta/TimeStretch) - Implements a phase randomized Real FFT time stretch algorithm, the NessStretch, which splits the original sound file into 9 discrete frequency bands.
+- [Building a Signal Analyzer with Modern Web Tech (2023)](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/) ([HN](https://news.ycombinator.com/item?id=36010600))

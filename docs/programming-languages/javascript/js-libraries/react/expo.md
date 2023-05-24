@@ -24,6 +24,7 @@ Like how you can [embed Swift code into Expo](https://twitter.com/Baconbrix/stat
 - [Office Marathon](https://github.com/byCedric/office-marathon) - Example app for background location tracking in Expo.
 - [Expo Router Example](https://github.com/jjenzz/expo-nav-state)
 - [Expo Router Instagram responsive layout demo using SCSS](https://github.com/EvanBacon/expo-router-instagram-layout)
+- [Splash Screen Example](https://github.com/EvanBacon/expo-splash-video-example)
 
 ## Notes
 

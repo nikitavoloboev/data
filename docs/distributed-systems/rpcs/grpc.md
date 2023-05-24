@@ -151,3 +151,4 @@ title: gRPC
 - [grpcmock](https://github.com/nhatthm/grpcmock) - GRPC Test Utilities for Go.
 - [Spaceman](https://github.com/eliaperantoni/spaceman) - Cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 - [A detailed comparison of REST and gRPC (2023)](https://kreya.app/blog/rest-vs-grpc/) ([HN](https://news.ycombinator.com/item?id=35711196))
+- [Buf Modules](https://github.com/bufbuild/modules)
