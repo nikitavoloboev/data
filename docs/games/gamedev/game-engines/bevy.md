@@ -8,6 +8,7 @@ Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
 
 ## OSS Bevy apps
 
+- [Fish Folk](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style.
 - [Country Slice](https://github.com/anopara/country-slice) - Toy project, written in Rust language with Bevy's ECS and OpenGL (gl-rs and glutin).
 - [Rust Invaders](https://github.com/jeremychone-channel/rust-invaders) - Simple Rust game with the Bevy Engine.
 - [QQ Party](https://github.com/alanpoon/qq_party) - Multiplayer browser game build with Bevy and Wasmcloud as backend.

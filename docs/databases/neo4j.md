@@ -37,3 +37,4 @@ title: Neo4j
 - [Ask HN: What Is Going on with Neo4j? (2022)](https://news.ycombinator.com/item?id=33916240)
 - [Spatial Search Functionality With Neo4j (2023)](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
 - [Build a Routing Web App With Neo4j, OpenStreetMap, and Leaflet.js (2023)](https://medium.com/neo4j/build-a-routing-web-app-with-neo4j-openstreetmap-and-leaflet-js-bdc66443132c)
+- [Creating a Knowledge Graph From Video Transcripts With ChatGPT (2023)](https://medium.com/neo4j/creating-a-knowledge-graph-from-video-transcripts-with-gpt-4-52d7c7b9f32c)

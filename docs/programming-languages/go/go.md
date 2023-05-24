@@ -1014,3 +1014,4 @@ if *boolArgPtr != false {
 - [Clean Code & Hexagonal Architecture API in Go](https://github.com/LuigiAzevedo/Public-Library)
 - [Go Class - YouTube](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/) ([HN](https://news.ycombinator.com/item?id=36046662)) ([Reddit](https://www.reddit.com/r/golang/comments/13pw523/how_to_start_a_go_project_in_2023/))
+- [How to include Git version information in Go (2023)](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/) ([Lobsters](https://lobste.rs/s/a4zoah/how_include_git_version_information_go))

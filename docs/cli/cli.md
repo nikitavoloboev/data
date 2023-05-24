@@ -263,3 +263,4 @@ There is also a [nice curated CLI list](https://github.com/learn-anything/comman
 - [hunt](https://github.com/LyonSyonII/hunt-rs) - Simplified Find command made with Rust.
 - [script-runner](https://github.com/OLoKo64/script-runner) - Simple threaded CLI script runner.
 - [jr](https://github.com/ugol/jr) - Quality Random Data from the Command line.
+- [re](https://github.com/kevincobain2000/re) - Command Line Tool to execute commands in readme.

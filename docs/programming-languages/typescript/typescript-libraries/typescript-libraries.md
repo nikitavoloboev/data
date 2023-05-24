@@ -885,6 +885,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [resguard](https://github.com/henrycunh/resguard) - Tiny utility that wraps promises and returns an object or tuple with data and error properties.
 - [lizod](https://github.com/mizchi/lizod) - Lightweight zod-like validator (about 600bytes with full featuers).
 - [Abort Controller Extras](https://github.com/deeplay-io/abort-controller-x) - Abortable async function primitives and combinators.
+- [msagl-js](https://github.com/microsoft/msagljs) - JavaScript graph layout engine.
 
 ## Links
 
