@@ -837,7 +837,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Eraser](https://www.eraser.io/home) - Whiteboard for engineering teams.
 - [Tom](https://github.com/Kikobeats/tom) - Backoffice for your projects.
 - [WebHookThing](https://webhookthing.com/) - Run webhooks locally with 1 click.
-- [Beeper](https://www.beeper.com/) - All your chats in one app.
+- [Beeper](https://www.beeper.com/) - All your chats in one app. ([Self Host](https://github.com/beeper/self-host))
 - [Thema](https://github.com/grafana/thema) - CUE-based framework for portable, evolvable schema.
 - [Buildt](https://www.buildt.ai/) - Conversational semantic code search. ([HN](https://news.ycombinator.com/item?id=35000562))
 - [Attio](https://attio.com/) - Customer relationship magic.

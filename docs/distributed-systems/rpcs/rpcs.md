@@ -73,4 +73,4 @@ Love using [tRPC](../../api/trpc.md). [Bling](https://github.com/TanStack/bling)
 - [UJRPC](https://github.com/unum-cloud/ujrpc) - Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings. ([HN](https://news.ycombinator.com/item?id=35042316))
 - [brpc](https://github.com/apache/brpc) - Industrial-grade RPC framework using C++ Language.
 - [oneRPC](https://github.com/raviqqe/oneRPC) - RPC library for the serverless and TypeScript era.
-- [Knit](https://github.com/bufbuild/knit) - GraphQL-like capabilities to services using Protocol Buffers, gRPC, and Connect. ([API](https://github.com/bufbuild/knit-api)
+- [Knit](https://github.com/bufbuild/knit) - GraphQL-like capabilities to services using Protocol Buffers, gRPC, and Connect. ([API](https://github.com/bufbuild/knit-api) ([Go Code](https://github.com/bufbuild/knit-go))

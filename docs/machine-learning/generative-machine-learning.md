@@ -386,3 +386,4 @@ Want to understand [DeepFloyd IF](https://github.com/deep-floyd/IF) model.
 - [Diff-Pruning: Structural Pruning for Diffusion Models](https://github.com/VainF/Diff-Pruning)
 - [StableSR for Stable Diffusion WebUI](https://github.com/pkuliyi2015/sd-webui-stablesr)
 - [Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation (2023)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) ([Code](https://github.com/guyyariv/AudioToken))
+- [After Detailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.

@@ -231,3 +231,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [ArmCord](https://github.com/ArmCord/ArmCord) - Custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [KCD Community on Discord](https://kentcdodds.com/discord)
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Indexing Discord Help Channel Questions into Google.
+- [Build a serverless Discord bot with OpenFaaS and Go (2023)](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)

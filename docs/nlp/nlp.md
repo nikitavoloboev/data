@@ -1240,5 +1240,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text (2023)](https://arxiv.org/abs/2305.13304)
 - [minicons](https://github.com/kanishkamisra/minicons) - Utility for analyzing Transformer based representations of language.
 - [InfiniteGPT](https://github.com/emmethalm/infiniteGPT) - Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading.
-- [Why the Original Transformer Figure Is Wrong, and Some Other Interesting Historical Tidbits About LLMs (2023)](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
+- [Why the Original Transformer Figure Is Wrong, and Some Other Interesting Historical Tidbits About LLMs (2023)](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure) ([HN](https://news.ycombinator.com/item?id=36057183))
 - [ChainForge](https://github.com/ianarawjo/ChainForge) - Open-source visual programming environment for battle-testing prompts to LLMs.
+- [HelpHub](https://helphub.commandbar.com/) - GPT chatbot for any site. ([HN](https://news.ycombinator.com/item?id=36057074))

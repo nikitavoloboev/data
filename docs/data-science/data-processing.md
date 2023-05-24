@@ -174,3 +174,4 @@
 - [Pandas 2.0](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0) ([HN](https://news.ycombinator.com/item?id=35423569))
 - [Polars for initial data analysis, Polars for production (2023)](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
 - [dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management, a dbt server, streamlit workbench, and git-integrated dbt model output diff tools.
+- [Database Stream Processor (DBSP)](https://github.com/feldera/dbsp) - Framework for computing over data streams that aims to be more expressive and performant than existing streaming engines.

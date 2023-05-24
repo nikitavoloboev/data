@@ -180,3 +180,4 @@
 - [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) - Utility to get the plain text content of an mdast node.
 - [strip-markdown](https://github.com/remarkjs/strip-markdown) - Plugin remove Markdown formatting.
 - [tagged-md](https://github.com/portone-io/tagged-md) - Transform tagged Markdown string to HTML during build time.
+- [MarkDX](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor. ([Web](https://www.markdx.site/))

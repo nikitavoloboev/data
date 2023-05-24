@@ -676,3 +676,4 @@ title: GitHub actions
 - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 - [Tartelet](https://github.com/shapehq/tartelet) - macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine.
 - [GitHub Actions Boilerplate for TS](https://github.com/NickLiffen/actions-boilerplate)
+- [GitHub Action for Continuous Profiling](https://github.com/polarsignals/gh-actions-ps-profiling)

@@ -298,3 +298,4 @@ Like using [WebGPU](webgpu.md) (web + desktop via [Tauri](../programming-languag
 - [ThreeStudio](https://github.com/threestudio-project/threestudio) - Unified framework for 3D content generation.
 - [Pixar technical library](https://graphics.pixar.com/library/)
 - [Skybox AI](https://skybox.blockadelabs.com/)
+- [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - Instruction-Finetuned Visual Language Model for Video Understanding.

@@ -250,6 +250,7 @@ I use [Rye](https://github.com/mitsuhiko/rye) as way to manage dependencies.
 - [Theine](https://github.com/Yiling-J/theine) - High performance in-memory cache.
 - [limits](https://github.com/alisaifee/limits) - Rate limiting using various strategies and storage backends such as redis & memcached.
 - [vecs](https://github.com/olirice/vecs) - Vector Database Client for pgvector.
+- [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser module for Python.
 
 ## WebSocket
 

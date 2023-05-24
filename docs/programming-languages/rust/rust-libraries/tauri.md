@@ -10,6 +10,8 @@ title: Tauri
 
 [rspc](https://github.com/oscartbeaumont/rspc) seems useful too.
 
+[Here](https://github.com/FabianLars/mw-toolbox/blob/release/.github/workflows/temp.yml) is good example of [github action to build tauri apps](https://github.com/tauri-apps/tauri-action).
+
 ## OSS Tauri apps
 
 - [Tauri + Solid + Tailwind CSS + TypeScript + Vite Starter](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite)

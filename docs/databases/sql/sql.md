@@ -270,3 +270,4 @@ Interested in using [Malloy](https://github.com/malloydata/malloy) to query my [
 - [Sleek](https://github.com/nrempel/sleek) - CLI tool for formatting SQL.
 - [SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/)
 - [SQL Anti-Patterns](https://github.com/boralp/sql-anti-patterns)
+- [LLM powered agent that analyses SQL databases](https://github.com/danieljpalmer/llm-analyst)

@@ -167,3 +167,4 @@ title: Decentralization
 - [Radicle Heartwood Protocol & Stack](https://github.com/radicle-dev/heartwood)
 - [Edelweiss](https://github.com/ipld/edelweiss) - Decentralized Protocol Compiler.
 - [indigo](https://github.com/bluesky-social/indigo) - Go code for Bluesky's atproto services.
+- [Awesome Decentralized Database](https://github.com/tablelandnetwork/awesome-decentralized-database)

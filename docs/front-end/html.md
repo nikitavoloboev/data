@@ -336,3 +336,4 @@ Hi<div>oh no break</div>
 - [HTML grammar for Tree-sitter](https://github.com/tree-sitter/tree-sitter-html)
 - [HTMX is the Future (2023)](https://quii.dev/HTMX_is_the_Future) ([Lobsters](https://lobste.rs/s/dc5wjv/htmx_is_future))
 - [capo.js](https://github.com/rviscomi/capo.js) - Get your head in order.
+- [Introducing the popover API (2023)](https://developer.chrome.com/blog/introducing-popover-api/)

@@ -355,3 +355,4 @@ useEffect(() => {
 - [How to avoid tricky async state manager pitfalls in React (2023)](https://evilmartians.com/chronicles/how-to-avoid-tricky-async-state-manager-pitfalls-react)
 - [Were React hooks a mistake? (2023)](https://jakelazaroff.com/words/were-react-hooks-a-mistake/) ([HN](https://news.ycombinator.com/item?id=35095115))
 - [React-hook-tracer](https://github.com/Oblosys/react-hook-tracer) - See the order of hook-function calls in an interactive log, and inspect a function-component's props, state & refs inside its rendering.
+- [React Autorun](https://github.com/DAB0mB/react-autorun) - Macro that compiles into a dependencies array for hooks.
