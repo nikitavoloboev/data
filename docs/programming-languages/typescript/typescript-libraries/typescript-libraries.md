@@ -176,6 +176,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## CLI
 
 - [clack](https://github.com/natemoo-re/clack) - Effortless command line applications. ([Tweet](https://twitter.com/n_moore/status/1625286958313361408))
+- [Pastel](https://github.com/vadimdemedes/pastel) - Next.js-like framework for CLIs made with Ink.
 - [Tiny Bin](https://github.com/fabiospampinato/tiny-bin) - Library for building tiny and beautiful command line apps.
 - [ultraflag](https://github.com/natemoo-re/ultraflag) - 1kB library for parsing CLI flags.
 - [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
@@ -1013,3 +1014,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Third Party Capital](https://github.com/GoogleChromeLabs/third-party-capital) - Library that provides best practices for loading popular third-parties.
 - [Acme Corp (Library Edition)](https://github.com/juliusmarminge/acme-corp-lib) - Starter template for your next TypeScript library monorepo.
 - [Practical introduction to the whys of Effect](https://github.com/antoine-coulon/effect-introduction)
+- [fs-ts training](https://github.com/inato/fp-ts-training)
+- [sanity/pkg-utils](https://github.com/sanity-io/pkg-utils) - Simple utilities for modern npm packages.

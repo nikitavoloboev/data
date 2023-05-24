@@ -198,3 +198,4 @@ title: Speech recognition
 - [Listen, Think, and Understand (2023)](https://arxiv.org/abs/2305.10790) ([Code](https://github.com/YuanGongND/ltu))
 - [Must-read paper and tutorial list for speech separation based on neural networks](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial)
 - [Pengi](https://github.com/microsoft/Pengi) - Audio Language Model for Audio Tasks.
+- [Ecoute](https://github.com/SevaSk/ecoute) - Live transcription tool that provides real-time transcripts.

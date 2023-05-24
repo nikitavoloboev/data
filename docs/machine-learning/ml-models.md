@@ -189,3 +189,4 @@ Currently use [Modal](https://modal.com/) or [Banana](https://www.banana.dev/) t
 - [MTIA v1: Meta's first-generation AI inference accelerator (2023)](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 - [C Transformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
 - [Full example of GPTQ 4-bit inference on Modal](https://github.com/cannstandard/gptq-modal)
+- [Olive](https://github.com/microsoft/Olive) - Easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.

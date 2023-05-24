@@ -652,6 +652,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [XQL](https://github.com/flier/xql) - Type-safe query statements in Go.
 - [sqlds](https://github.com/grafana/sqlds) - Package that assists writing SQL-driven datasources.
 - [Geche](https://github.com/C-Pro/geche) - Generic cache implementations in Go focused on simplicity.
+- [DLFUCache](https://github.com/dbaarda/DLFUCache) - Decaying Least Frequently Used Cache implementation.
 
 ## ML
 
@@ -2163,6 +2164,7 @@ Like [this error library](https://github.com/cockroachdb/errors). [conc](https:/
 - [Relax](https://github.com/sergerad/relax) - Start and finish your Go apps gracefully, even in the case of panics.
 - [clam](https://github.com/miku/clam) - Templated shell helper library.
 - [IP2Location Go](https://github.com/ip2location/ip2location-go)
+- [stackblur-go](https://github.com/esimov/stackblur-go) - Fast, almost Gaussian Blur implementation in Go.
 
 ## Links
 

@@ -1619,3 +1619,4 @@
 - [DoccGPT](https://github.com/gonzalonunez/docc-gpt) - Self-documenting Swift code with GPT and DocC.
 - [create-swift-package](https://github.com/alexrozanski/create-swift-package) - Interactive alternative to swift package init.
 - [VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
+- [swift-dependencies-graph](https://github.com/Ryu0118/swift-dependencies-graph) - CLI tool to output mermaid dependencies between Swift Package Manager targets.

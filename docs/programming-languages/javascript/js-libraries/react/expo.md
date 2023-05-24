@@ -25,6 +25,7 @@ Like how you can [embed Swift code into Expo](https://twitter.com/Baconbrix/stat
 - [Expo Router Example](https://github.com/jjenzz/expo-nav-state)
 - [Expo Router Instagram responsive layout demo using SCSS](https://github.com/EvanBacon/expo-router-instagram-layout)
 - [Splash Screen Example](https://github.com/EvanBacon/expo-splash-video-example)
+- [Pillar Valley](https://github.com/EvanBacon/pillar-valley) - Cross-platform video game built with Expo, three.js, and Firebase.
 
 ## Notes
 

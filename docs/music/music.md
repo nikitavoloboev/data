@@ -263,3 +263,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Deezer Downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end.
 - [SpotiFile](https://github.com/Michael-K-Stein/SpotiFile) - Spotify scraper.
 - [Command driven Spotify player in Rust](https://github.com/aome510/spotify-player)
+- [stats.fm](https://stats.fm/) ([Code](https://github.com/statsfm/web))

@@ -1238,3 +1238,6 @@ Want to explore [fine tuning FLAN-T5 model](https://www.philschmid.de/fine-tune-
 - [DiffusionNER: Boundary Diffusion for Named Entity Recognition (2023)](https://arxiv.org/abs/2305.13298) ([Code](https://github.com/tricktreat/DiffusionNER))
 - [LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model (2023)](https://arxiv.org/abs/2304.06248) ([Code](https://github.com/ChocoWu/LasUIE))
 - [RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text (2023)](https://arxiv.org/abs/2305.13304)
+- [minicons](https://github.com/kanishkamisra/minicons) - Utility for analyzing Transformer based representations of language.
+- [InfiniteGPT](https://github.com/emmethalm/infiniteGPT) - Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading.
+- [Why the Original Transformer Figure Is Wrong, and Some Other Interesting Historical Tidbits About LLMs (2023)](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)

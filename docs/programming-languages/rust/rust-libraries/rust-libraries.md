@@ -2868,6 +2868,7 @@
 - [HexTree](https://github.com/JayKickliter/HexTree) - Trees for fast location-to-value lookup.
 - [bilge](https://github.com/hecatia-elegua/bilge) - Use bitsized types as if they were a feature of rust.
 - [Flowync](https://github.com/ar37-rs/flowync) - Simple utility for multithreading a/synchronization.
+- [tracing-stackdriver](https://github.com/NAlexPear/tracing-stackdriver) - Stackdriver-compatible tracing Subscriber.
 
 ## Cargo Plugins
 
