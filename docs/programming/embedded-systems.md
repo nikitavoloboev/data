@@ -1,6 +1,6 @@
 # Embedded systems
 
-[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
+[Embedded Rust on Espressif](https://esp-rs.github.io/std-training/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
 
 [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/) is nice read.
 
