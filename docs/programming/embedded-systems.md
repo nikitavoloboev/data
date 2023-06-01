@@ -177,7 +177,7 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [knurling app template](https://github.com/knurling-rs/app-template) - Quickly set up a `probe-run` + `defmt` + `flip-link` embedded project.
 - [Sound Open Firmware](https://github.com/thesofproject/sof)
 - [Bytecode interpreters for tiny computers (2007)](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html) ([HN](https://news.ycombinator.com/item?id=30421621))
-- [Embedded Rust on Espressif Book](https://espressif-trainings.ferrous-systems.com/) ([Code](https://github.com/ferrous-systems/espressif-trainings))
+- [Embedded Rust on Espressif - Book](https://esp-rs.github.io/std-training/) ([Code](https://github.com/esp-rs/std-training))
 - [Jacdac](https://microsoft.github.io/jacdac-docs/) - Plug-and-Play for Microcontrollers. ([Code](https://github.com/microsoft/jacdac))
 - [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/) ([HN](https://news.ycombinator.com/item?id=30913359))
 - [FreeRTOS](https://www.freertos.org/) - Real-time operating system kernel for embedded devices that has been ported to 35 microcontroller platforms. ([Rust wrapper](https://github.com/hashmismatch/freertos.rs))
