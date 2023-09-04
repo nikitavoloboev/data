@@ -643,6 +643,7 @@ One of my favorite things in life is building little tools for solving even the 
 - [Cron Prompt](https://cronprompt.com/) - Convert English to Cron Expressions. ([HN](https://news.ycombinator.com/item?id=32358591))
 - [ogmeta](https://github.com/hopinc/ogmeta) - OG Meta generator for documentation/misc.
 - [Briefkasten](https://github.com/ndom91/briefkasten) - Self hosted bookmarking app.
+- [SearchApi](https://www.searchapi.io/) - Real-time Google and other search engines results API.
 
 ## Notes
 
