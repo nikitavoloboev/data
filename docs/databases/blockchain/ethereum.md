@@ -584,7 +584,7 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [Ranger](https://github.com/Rjected/ranger) - Ethereum p2p client capable of interacting with peers without a full node.
 - [EVM-Book](https://github.com/0xKitsune/EVM-Book) - Collection of EVM related information.
 - [Gradual Dutch Auction](https://github.com/FrankieIsLost/gradual-dutch-auction) - Reference implementation of Gradual Dutch Auctions. GDAs enable the efficient sale of assets that do not have liquid markets.
-- [Lenster](https://lenster.xyz/) - Composable, decentralized, and permissionless social media web app built with Lens Protocol. ([Code](https://github.com/bigint/lenster))
+- [Hey](https://hey.xyz/) - Composable, decentralized, and permissionless social media web app built with Lens Protocol. ([Code](https://github.com/heyxyz/hey))
 - [Ethereum Roadmap FAQ](https://github.com/timbeiko/eth-roadmap-faq)
 - [Uniswap Default Token List](https://github.com/Uniswap/default-token-list)
 - [Free Eth Node](https://free-eth-node.com/) - Start projects quickly on any EVM network. ([Code](https://github.com/Earnifi/free-eth-node))
