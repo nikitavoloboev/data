@@ -478,14 +478,14 @@ Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread 
 - [FullStack StarkNet](https://github.com/sambarnes/fullstack-starknet) - Tutorial series on StarkNet and Cairo.
 - [svm-rs](https://github.com/roynalnaruto/svm-rs) - Solidity Compiler Version Manager.
 - [Implementing Data Availability Sampling (DAS)](https://github.com/protolambda/dv5das) - Data Availability Sampling (DAS) on a Discovery-v5 DHT overlay.
-- [Ethereum: Endgame (2021)](https://vitalik.ca/general/2021/12/06/endgame.html)
+- [Ethereum: Endgame (2021)](https://vitalik.eth.limo/general/2021/12/06/endgame.html)
 - [oriac](https://github.com/xJonathanLEI/oriac) - Toy Cairo VM implementation in Rust.
 - [Flashbots Proxy](https://github.com/Arachnid/flashbots-proxy) - Ethereum RPC proxy that makes composing and submitting flashbots bundles easy.
 - [ZORA V3 Protocol](https://github.com/ourzora/v3)
 - [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations.
 - [firebase-sign-in-with-ethereum](https://github.com/JonDotsoy/firebase-sign-in-with-ethereum) - Asynchronously signs in using an Ethereum address.
 - [Social engineering scam that nearly cost me all of my ETH](https://twitter.com/thomasg_eth/status/1492663192404779013) ([HN](https://news.ycombinator.com/item?id=30322715))
-- [Hardhat Boilerplate](https://github.com/defi-wonderland/solidity-boilerplate) - Fast way of bootstraping projects with best practice's in mind.
+- [Hardhat Boilerplate](https://github.com/defi-wonderland/solidity-boilerplate) - Fast way of bootstrapping projects with best practice's in mind.
 - [SolidState Solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first Solidity smart contract development library.
 - [glyph](https://github.com/sambarnes/cairo-glyph) - Proof-of-concept package manager for Cairo contracts/libraries.
 - [Uniswap V3 SDK](https://github.com/daoleno/uniswapv3-sdk) - Go SDK for building applications on top of Uniswap V3.
