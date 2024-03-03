@@ -1,6 +1,6 @@
 # Embedded systems
 
-[Embedded Rust on Espressif](https://esp-rs.github.io/std-training/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
+[Embedded Rust on Espressif](https://esp-rs.github.io/std-training/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating. [Free Pascal for Xtensa](https://wiki.freepascal.org/Xtensa) is nostalgic.
 
 [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/) is nice read.
 
@@ -262,3 +262,7 @@ Also looking into [Embassy](https://embassy.dev/) & [Toit](https://github.com/to
 - [Gaggiuino](https://github.com/Zer0-bit/gaggiuino) - Gaggia Classic control project using microcontrollers.
 - [Worlds Simplest Bootloader: Bare Metal Programming Series (2023)](https://www.youtube.com/watch?v=cfNJ85cX-ms)
 - [μLA](https://github.com/dotcypress/ula) - Micro Logic Analyzer for RP2040.
+- [Zig for Xtensa](https://github.com/kassane/zig-espressif-bootstrap) - Zig toolchain to xtensa support (build C/C++/Zig)
+- [Zig on Esp32 (Xtensa & RISC-V)](https://github.com/kassane/zig-esp-idf-sample) - Zig sample, running stdlib allocator in esp-idf FreeRTOS
+- [LDC for Xtensa](https://github.com/kubo39/ldc/tree/xtensa_17.0.1) - D compiler for Xtensa (LLVM 17.0.1)
+- [D on esp32](https://github.com/Reavershark/esp-dlang) - D toolchain builder for running D language on esp boards + example projects
