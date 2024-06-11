@@ -2,7 +2,7 @@
 
 I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai). [ncu](https://github.com/raineorshine/npm-check-updates) is nice for updating packages. [Rush stack](https://github.com/microsoft/rushstack) + [pnpm](https://pnpm.io/) are amazing.
 
-[tsup](https://tsup.egoist.sh/) is great too for bundling TS libs.
+[tsup](https://tsup.egoist.dev/) is great too for bundling TS libs.
 
 [Kysely](https://github.com/koskimas/kysely) is nice for doing DB queries. [Farfetched](https://github.com/igorkamyshev/farfetched) is nice for data fetching.
 
