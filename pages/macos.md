@@ -1,0 +1,1 @@
+- can remove background from images in Finder (right click) 

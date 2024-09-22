@@ -1,0 +1,12 @@
+# core
+.DS_Store
+node_modules
+.env
+.env*.local
+
+# other
+dist
+*.local
+.vite-inspect
+.remote-assets
+components.d.ts

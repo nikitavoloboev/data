@@ -1,0 +1,21 @@
+# general
+.DS_Store
+.env
+.env*.local
+output
+dist
+.idea
+
+# ts
+node_modules
+package-lock.json
+pnpm-lock.yaml
+
+# repos
+private
+
+# other
+past.*
+private.*
+pages/.obsidian
+pages/media

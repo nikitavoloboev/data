@@ -1,0 +1,2 @@
+- https://nixos.org/manual/nixos/stable/
+- `sudo -s` 

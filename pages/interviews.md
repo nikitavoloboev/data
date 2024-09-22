@@ -1,0 +1,1 @@
+- loved [this interview](https://www.youtube.com/watch?v=d9cR7NvgFCo), interviewer is quite good (doesn't interrupt, good questions)

@@ -1,0 +1,1 @@
+I don't eat meat for over 8 years now and will [never do](https://x.com/8teAPi/status/1825273033634075039).

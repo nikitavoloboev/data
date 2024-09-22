@@ -1,0 +1,1 @@
+- things (top to bottom / 1 by 1 / using linear), full focus (rules / routines / no distractions), stream/share/ask constantly (updates/thoughts/questions), much faster, delegate tasks, more notes/todos/photos
